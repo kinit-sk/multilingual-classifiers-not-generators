@@ -1,0 +1,1988 @@
+,Unnamed: 0,text,intent,label
+0,0.0,Kengele yangu ya jioni iliwahi kuwekwa?,alarm_query,0
+1,1.0,Ni kwanini kengele yangu haijaweki kwa sasa hivi?,alarm_query,0
+2,2.0,"Alexa, unisaidie kwenye kengele zangu zote",alarm_query,0
+3,3.0,Unataka kunifuahisha kuhusu kengele zangu?,alarm_query,0
+4,4.0,Nyakati za kengele ninazo ni zipi?,alarm_query,0
+5,5.0,Nifanyeje kupata kengele yangu iliyonichagua?,alarm_query,0
+6,6.0,Kungele yangu imepangwa kwa muda gani?,alarm_query,0
+7,7.0,Unaonyesha kengele zangu zote zinazofanywa,alarm_query,0
+8,8.0,Unaonyesha kungele zangu zote zilizopangwa,alarm_query,0
+9,9.0,Nikuambie kungele iliyoandikwa kwa ajili ya klabu,alarm_query,0
+10,10.0,Nitakuwaje kupata kengele yangu iliyonichagua?,alarm_query,0
+11,11.0,Ninahitaji kupata taarifa za kengele zangu zote,alarm_query,0
+12,12.0,Ni kwanza gani kengele yangu itakuwaka?,alarm_query,0
+13,13.0,Nitapataje kengele yangu iliyopita?,alarm_query,0
+14,14.0,Nitapataje kengele yangu iliyoandikwa mapema?,alarm_query,0
+15,15.0,Nitapokea kengele gani kesho asubuhi?,alarm_query,0
+16,16.0,Nikuambie muda wa kuamkia leo,alarm_query,0
+17,17.0,Nionyeshe kengele zangu zote zinazofanya kazi,alarm_query,0
+18,18.0,Kuna kengele gani iliyopangwa kwa wiki ijayo?,alarm_query,0
+19,19.0,Kungele gani kimeset kweli kwa wiki ijayo?,alarm_query,0
+20,20.0,Jinsi gani nitapata kengele yangu iliyochezwa,alarm_query,0
+21,21.0,Kuna kengele gani ambayo imepangwa kwa mwezi ujao,alarm_query,0
+22,22.0,Kungele gani zimepangwa kwa ajili yangu,alarm_query,0
+23,23.0,"Alexa, nipe muda wa kuamkia kesho",alarm_query,0
+24,24.0,Kuna kengele gani iliyopangwa kwa ajili ya sherehe?,alarm_query,0
+25,25.0,"Alexa, nipe habari za kengele zako zote",alarm_query,0
+26,26.0,Nimeweka kengele ya jioni lini?,alarm_query,0
+27,27.0,Nataka kuona kengele zote zilizopangwa kwa mwezi huu,alarm_query,0
+28,28.0,Ninahitaji kusikia sauti ya kengele yangu,alarm_query,0
+29,29.0,Kuna kengele gani limewekwa kwa mwisho wa wiki?,alarm_query,0
+30,30.0,Kengele zote zimepangwa ni zipi?,alarm_query,0
+31,31.0,Ni vipi vyema vya kuongeza kengele yangu?,alarm_query,0
+32,32.0,Nitawezaje kupanga kengele yangu kwa wiki ijayo?,alarm_query,0
+33,33.0,Ninaomba kupokea taarifa za kengele zangu zote,alarm_query,0
+34,34.0,Nimetengeneza kengele gani kwa ajili ya klabu?,alarm_query,0
+35,35.0,Saa ngapi nitakuwa na kengele ya jioni?,alarm_query,0
+36,36.0,"Je, kungele iliyoandikwa kwa ajili ya matukio?",alarm_query,0
+37,37.0,Ninahitaji kusoma kengele zangu zote,alarm_query,0
+38,38.0,Kuna kengele gani iliyopangwa kwa sasa hivi?,alarm_query,0
+39,39.0,Mimi nina kengele gani zimepangwa kwa wiki ijayo?,alarm_query,0
+40,40.0,Kuna kengele gani ambazo hazijulikani kwa sasa hivi?,alarm_query,0
+41,41.0,Nitafanyaaje kupanga kengele yangu kwa muda unaofaa?,alarm_query,0
+42,42.0,Nina kengele gani zimepangwa kwa siku zijazo,alarm_query,0
+43,43.0,Ni wakati gani kengele yangu itakuja kuwasha?,alarm_query,0
+44,44.0,Ninaweka kengele ya asubuhi kwa mara moja,alarm_query,0
+45,45.0,Kuna kengele gani ambayo hayajawekiwa,alarm_query,0
+46,46.0,Nikona kengele imewekwa ya jioni,alarm_query,0
+47,47.0,Saa ngapi kengele yangu itakuja kuwasha?,alarm_query,0
+48,48.0,"Je, kungele la juzi lilikuwa limepangwa lini?",alarm_query,0
+49,49.0,Nionyeshe kengele zangu zote zilizopangwa,alarm_query,0
+50,50.0,Kungele langu la kwanza limepangwa saa ngapi?,alarm_query,0
+51,51.0,Niambie kungele gani zilizochezwa kwa siku moja,alarm_query,0
+52,52.0,Nikuoneshaje kengele zote zinatumiwa na mimi?,alarm_query,0
+53,53.0,Jinsi gani nitafanya ili kupata kengele yenye umeweka,alarm_query,0
+54,54.0,Jinsi gani nitapata kengele yangu iliyochaguliwa?,alarm_query,0
+55,55.0,Mwanzo wa kengele ya chama ni saa ngapi?,alarm_query,0
+56,56.0,"Je, kungele langu la kuchipuka limesetwa?",alarm_query,0
+57,57.0,Kuna kengele gani iliyonipangwa kwa ajili ya shule?,alarm_query,0
+58,58.0,Kungele gani kimeset kwa ajili ya sherehe?,alarm_query,0
+59,59.0,"Je, kengele yangu ya jioni imeandikwa?",alarm_query,0
+60,60.0,Jinsi gani ya kuwezesha kengele ya usiku,alarm_query,0
+61,61.0,Kuna kengele gani zimepangwa kwa siku zijazo?,alarm_query,0
+62,62.0,Ni saa ngapi nitakuwa na kengele ya asubuhi?,alarm_query,0
+63,63.0,Ni kwanini kengele yangu haifanyi kazi tena?,alarm_query,0
+64,64.0,Kungele gani zimepangwa kwa mwezi ujao?,alarm_query,0
+65,65.0,Mimi ninahitaji kubadilisha kengele yangu,alarm_query,0
+66,66.0,Unataka kunipa habari za kengele zangu zilizopangwa,alarm_query,0
+67,67.0,Nionyeshe muda wa kengele ninaweka kila siku,alarm_query,0
+68,68.0,Kuna kengele gani ninazo kwa sasa hivi?,alarm_query,0
+69,69.0,Kuna kengele gani ninazo kwa ajili ya shughuli zetu?,alarm_query,0
+70,70.0,"Alexa, namba gani la kengele yangu iliyopangwa kesho?",alarm_query,0
+71,71.0,Una kengele gani uliyoandikwa kwa siku zijazo?,alarm_query,0
+72,72.0,Nionyeshe kengele zangu zote zinatumiwa,alarm_query,0
+73,73.0,Nitafuta kengele gani kwa wiki ijayo?,alarm_query,0
+74,74.0,Kuna kengele gani zimepangwa kwa wiki ijayo?,alarm_query,0
+75,75.0,"Je, kengele yangu ya kuchipuka ni lini?",alarm_query,0
+76,76.0,Jinsi gani ya kuwezesha kengele yangu?,alarm_query,0
+77,77.0,Kuna kengele gani ambazo hazitafanya kazi kwa sasa hivi?,alarm_query,0
+78,78.0,Nikiona kengele iliyochezwa jana asubuhi,alarm_query,0
+79,79.0,Kuna kengele gani limewekwa kwa mwezi ujao?,alarm_query,0
+80,80.0,Kuna kengele gani limewekwa kwa wiki hii?,alarm_query,0
+81,81.0,Unataka kengele gani kwa ajili ya matukio yanayofuatia?,alarm_query,0
+82,82.0,Nionyeshe kengele zangu zote zilizoandikwa,alarm_query,0
+83,83.0,Muda wa kengele yangu ya kuchipua ni ule uliochezwa?,alarm_query,0
+84,84.0,Saa ngapi kengele yangu itakuwa?,alarm_query,0
+85,85.0,Nitapata kengele gani kwa wiki ijayo?,alarm_query,0
+86,86.0,Kungele gani zinatumika kwa sasa hivi?,alarm_query,0
+87,87.0,Mimi nina kengele gani iliyonipangwa kwa sasa hivi?,alarm_query,0
+88,88.0,Nitapokea kengele gani kesho jioni?,alarm_query,0
+89,89.0,Nipatie muda wa kengele yenye nitaweka kesho,alarm_query,0
+90,90.0,Nitapokea kengele gani leo asubuhi?,alarm_query,0
+91,91.0,Nikona kengele gani zimepangwa kwa siku zijazo,alarm_query,0
+92,92.0,Nitafanyaaje kukiona kengele yangu iliyochezwa,alarm_query,0
+93,93.0,Saa ngapi kungele yangu itachipukia kesho?,alarm_query,0
+94,94.0,Kungele langu la mwisho limepangwa saa ngapi?,alarm_query,0
+95,95.0,Mwaka una kengele gani uliopanga kwa ajili yake,alarm_query,0
+96,96.0,Jinsi gani nitafanya ili kukomesha kengele yangu,alarm_query,0
+97,97.0,Unataka kunifuahisha kuhusu kengele yangu?,alarm_query,0
+98,98.0,Mwanzo wa kengele ya klabu ni saa ngapi?,alarm_query,0
+99,99.0,Kungele gani zimepangwa kwa ajili yangu kesho,alarm_query,0
+100,100.0,"Wewe unaongea kwa sauti ya juu sana, punguka",audio_volume_down,1
+101,101.0,Chukua sauti hii chini kidogo,audio_volume_down,1
+102,102.0,Punguza mwendo wa kipaza sauti kwani unanichoka,audio_volume_down,1
+103,103.0,"Unapiga sauti kwa nguvu sana, punguka",audio_volume_down,1
+104,104.0,"Unaongea kwa sauti ya juu mwingi, shusha kidogo",audio_volume_down,1
+105,105.0,Pungua sauti kidogo tu,audio_volume_down,1
+106,106.0,Tafadhali punguza sauti ya TV,audio_volume_down,1
+107,107.0,Punguza sauti ili wasikilizaji wakue,audio_volume_down,1
+108,108.0,Punguza sauti ili tuzalishwe,audio_volume_down,1
+109,109.0,"Mzuri sana, punguza sauti ile",audio_volume_down,1
+110,110.0,Mwendekeze sauti yako ili tusikie vyema,audio_volume_down,1
+111,111.0,"Kuna sauti ya juu mno, punguza kiwango",audio_volume_down,1
+112,112.0,Punguza kiwango cha sauti cha spika la laptop,audio_volume_down,1
+113,113.0,Punguza sauti ili tusieleweke,audio_volume_down,1
+114,114.0,Punguza kiwango cha sauti ili wasikilize vyema,audio_volume_down,1
+115,115.0,Kuna mtindo mzuri wa kupunguza sauti,audio_volume_down,1
+116,116.0,Punguza sauti ya video kwani inanifanya nisiweze kuona,audio_volume_down,1
+117,117.0,Kiwango cha sauti kimetulia,audio_volume_down,1
+118,118.0,Nipeleke sauti yako kwenye kiwango cha chini,audio_volume_down,1
+119,119.0,Unaongea kwa sauti ya duni,audio_volume_down,1
+120,120.0,"Sauti ya televisheni imewaka juu sana, punguza",audio_volume_down,1
+121,121.0,Punguka sauti ili uwezekane kusikiza,audio_volume_down,1
+122,122.0,"Ongea kwa utulivu, tafadhali",audio_volume_down,1
+123,123.0,Punguza sauti ili uonekane,audio_volume_down,1
+124,124.0,Shusha sauti ili wasikilize vyema,audio_volume_down,1
+125,125.0,Shusha kiwango cha sauti kwa sasa,audio_volume_down,1
+126,126.0,Tupunguze sauti ili tuzalishe,audio_volume_down,1
+127,127.0,Punguza kiwango cha sauti kwa ajili yetu sote,audio_volume_down,1
+128,128.0,Punguza sauti kwa sababu ya wazee,audio_volume_down,1
+129,129.0,Punguza sauti ya kompyuta,audio_volume_down,1
+130,130.0,Tafadhali punguza sauti kwa sababu ninatoka,audio_volume_down,1
+131,131.0,Shusha kiwango cha sauti cha headphone,audio_volume_down,1
+132,132.0,Shusha sauti kwani haijakaa,audio_volume_down,1
+133,133.0,"Unaongea kwa sauti ya juu sana, punguza kidogo",audio_volume_down,1
+134,134.0,"Mzuri sana, punguza sauti hii",audio_volume_down,1
+135,135.0,"Ongea kwa utulivu zaidi, unaongea kwa sauti ya juu mno",audio_volume_down,1
+136,136.0,Mwongozo wa sauti unahitaji kupungukwa,audio_volume_down,1
+137,137.0,Mwenzangu anaongea kwa sauti ya chini,audio_volume_down,1
+138,138.0,"Sauti ya TV ni kali sana, shusha",audio_volume_down,1
+139,139.0,Kiwango cha sauti kinahitaji kupunguzwa,audio_volume_down,1
+140,140.0,Punguza kiwango cha sauti kwa sababu ya watoto,audio_volume_down,1
+141,141.0,Unaonyesha sauti ya juu mno,audio_volume_down,1
+142,142.0,"Mwenda wa sauti umekuwa mkubwa sana, punguka",audio_volume_down,1
+143,143.0,"Unaongea kwa sauti ya juu, shusha kidogo",audio_volume_down,1
+144,144.0,"Ongea kwa utulivu zaidi, unaongea kwa sauti ya juu mwingi",audio_volume_down,1
+145,145.0,"Kuna sauti ya juu mno katika hii filamu, punguza",audio_volume_down,1
+146,146.0,Shusha sauti yote ukubwa,audio_volume_down,1
+147,147.0,"Sauti ni kali sana, punguka",audio_volume_down,1
+148,148.0,Shusha sauti kwa ajili yetu,audio_volume_down,1
+149,149.0,Kiwango cha sauti kimetakiwa kupunguzwa kabisa,audio_volume_down,1
+150,150.0,Punguza sauti kwa ajili ya usalama,audio_volume_down,1
+151,151.0,Mtindo wa sauti unaohitaji kupunguzwa,audio_volume_down,1
+152,152.0,Punguza sauti ili tusikie vizuri,audio_volume_down,1
+153,153.0,Kiwango cha sauti kinatakiwa kupunguzwa kwa haraka,audio_volume_down,1
+154,154.0,Punguza sauti kwa sababu ninasikia vibaya,audio_volume_down,1
+155,155.0,"Mimi siwezi kusikia vizuri, punguza sauti",audio_volume_down,1
+156,156.0,Shusha kiwango cha sauti kwa wakati huu,audio_volume_down,1
+157,157.0,Tupunguze sauti ili tuzoelezee,audio_volume_down,1
+158,158.0,Shusha kiwango cha sauti kwenye simu yako,audio_volume_down,1
+159,159.0,"Unaongea kwa sauti ya juu mwingi, punguka",audio_volume_down,1
+160,160.0,"Sauti imeshuka, sasa ni sawa",audio_volume_down,1
+161,161.0,Punguza sauti ya muziki kwani inaniumiza,audio_volume_down,1
+162,162.0,"Unapiga sauti kubwa sana, punguza",audio_volume_down,1
+163,163.0,Kiwango cha sauti kinatakiwa kupunguzwa,audio_volume_down,1
+164,164.0,Mwacha sauti iendelee kuwa chini,audio_volume_down,1
+165,165.0,Punguza sauti kwa sababu ya wagonjwa,audio_volume_down,1
+166,166.0,Tafadhali punguza sauti yako kidogo,audio_volume_down,1
+167,167.0,Unaonyesha sauti ya chini kidogo,audio_volume_down,1
+168,168.0,"Sauti ni kali sana, punguza kiwango",audio_volume_down,1
+169,169.0,Sauti imekuwa kubwa mno,audio_volume_down,1
+170,170.0,Ongea kwa sauti ya chini tafadhali,audio_volume_down,1
+171,171.0,"Kiwango cha sauti kilikuwa juu sana, punguza",audio_volume_down,1
+172,172.0,"Ongea kwa uwazi zaidi, tafadhali unisikize",audio_volume_down,1
+173,173.0,Punguza sauti ili usikilizane,audio_volume_down,1
+174,174.0,Ni lazima tupunguze sauti yetu,audio_volume_down,1
+175,175.0,Shusha sauti ya radio kwani inaniumiza,audio_volume_down,1
+176,176.0,"Sauti yako iko juu sana, punguza kidogo",audio_volume_down,1
+177,177.0,"Kiwango cha sauti kimetulia sana, punguza kidogo",audio_volume_down,1
+178,178.0,Kuna mtindo wa sauti unaohitaji kupunguzwa,audio_volume_down,1
+179,179.0,Punguka sauti kwa ajili yetu,audio_volume_down,1
+180,180.0,Punguza sauti ili tusikizane,audio_volume_down,1
+181,181.0,Sauti yako imenisumbua,audio_volume_down,1
+182,182.0,Tafadhali punguza sauti yako,audio_volume_down,1
+183,183.0,Tafadhali punguza sauti ya kipaza changu,audio_volume_down,1
+184,184.0,Tafadhali ongea kwa sauti ya chini,audio_volume_down,1
+185,185.0,Punguza sauti kwa sababu yetu,audio_volume_down,1
+186,186.0,Punguza sauti kwa sababu ninahitaji kulala,audio_volume_down,1
+187,187.0,Mwenda wa sauti umefanya nikose kuvuja,audio_volume_down,1
+188,188.0,Punguza sauti kwa sababu ya watoto,audio_volume_down,1
+189,189.0,Punguza sauti ya TV kwani inanifanya nisiweze kusikia,audio_volume_down,1
+190,190.0,"Unaongea kwa sauti ya juu sana, tafadhali shusha",audio_volume_down,1
+191,191.0,"Mwenda wa sauti umekuja juu, punguka",audio_volume_down,1
+192,192.0,"Sauti yako imetulia, punguza kidogo",audio_volume_down,1
+193,193.0,Tafadhali shusha sauti yako,audio_volume_down,1
+194,194.0,"Unaongea kwa sauti ya kizushi, punguka",audio_volume_down,1
+195,195.0,"Sauti ya radio ni kali sana, punguka",audio_volume_down,1
+196,196.0,"Ongea kwa utulivu zaidi, unaongea kwa sauti ya juu",audio_volume_down,1
+197,197.0,Punguza sauti hadi ipasue,audio_volume_down,1
+198,198.0,Tafadhali punguza sauti yako kwa sasa,audio_volume_down,1
+199,199.0,Punguza sauti ili tusisikie mzaha,audio_volume_down,1
+200,200.0,Ondoa miadi yote ya hospitali kwenye kalenda,calendar_remove,2
+201,201.0,Ghairi tukio la klabu kwenye kalenda yangu kesho,calendar_remove,2
+202,202.0,Ondoa tukio la kumpokea kwa kalenda yangu,calendar_remove,2
+203,203.0,Toa tukio la mwezi ujao kwenye kalenda yangu,calendar_remove,2
+204,204.0,Tafadhali ghairi tarehe ya kupanga klabu kwa kalenda yangu,calendar_remove,2
+205,205.0,Tafadhali toa tukio la klabu kwenye kalenda yaku,calendar_remove,2
+206,206.0,Futa mikutano yote iliyojiriwa kwenye kalenda yangu,calendar_remove,2
+207,207.0,Unaweza kuondoa miadi yako yote kwenye kalenda?,calendar_remove,2
+208,208.0,Ondoa mikutano yote iliyojiriwa kwenye kalenda,calendar_remove,2
+209,209.0,Ondoa tukio la kuingizwa kwa kalenda yangu,calendar_remove,2
+210,210.0,Toa tukio la klabu kwenye kalenda yangu,calendar_remove,2
+211,211.0,Ondoa mkutano wetu wa wiki hii kwenye kalenda,calendar_remove,2
+212,212.0,Unaweza kuondoa tukio la mwanzo kwenye kalenda yangu,calendar_remove,2
+213,213.0,Tafadhali ghairi tarehe ya kuongeza mwisho kwa kalenda,calendar_remove,2
+214,214.0,Toa sherehe ya mwaka mpya kwenye kalenda yako,calendar_remove,2
+215,215.0,Futa tarehe zote za shule kwenye kalenda,calendar_remove,2
+216,216.0,Ongea na mimi juu ya kutoa tukio kwenye kalenda yango,calendar_remove,2
+217,217.0,Ghairi tukio la kuchezea kwa kalenda,calendar_remove,2
+218,218.0,Futa tukio la kushiriki kwenye kalenda,calendar_remove,2
+219,219.0,Kuondoa tukio kwenye kalenda ni jambo la lazima,calendar_remove,2
+220,220.0,Toa tukio la leo kwenye kalenda yangu,calendar_remove,2
+221,221.0,Ondoa mikutano yote iliyo katika kalenda yangu,calendar_remove,2
+222,222.0,Toa tarehe zote za shughuli kwenye kalenda,calendar_remove,2
+223,223.0,Ondoa tukio la klabu kwenje kalenda yangu,calendar_remove,2
+224,224.0,Futa tukio la kesho kwa kalenda yangu,calendar_remove,2
+225,225.0,Futa tarehe zote za kukumbuka kwenye kalenda,calendar_remove,2
+226,226.0,Ghairi tukio la klabu cha mpira kwenye kalenda yangu,calendar_remove,2
+227,227.0,Tafadhali toa tukio la mwezi ujao kwenye kalenda yangu,calendar_remove,2
+228,228.0,Futa matukio yote ya juma moja kwenye kalenda,calendar_remove,2
+229,229.0,Unaamini kwamba unaweza kuondoa kalenda yako kwa mara moja,calendar_remove,2
+230,230.0,Ghairi tukio la klabu cha michezo kwa kalenda,calendar_remove,2
+231,231.0,Ondoa tukio lililopangwa leo kwenye kalenda,calendar_remove,2
+232,232.0,Ondoa tukio la kushiriki kwa kalenda yangu,calendar_remove,2
+233,233.0,Futa tukio la jana kwenye kalenda yangu,calendar_remove,2
+234,234.0,Kuondoa kalenda yangu ni jambo lisilo rahisi,calendar_remove,2
+235,235.0,Ongea na mimi juu ya kutoa tukio kwenye kalenda yangu,calendar_remove,2
+236,236.0,"Njoo, toa tukio la jioni kwenye kalenda yenu",calendar_remove,2
+237,237.0,Unaweza kughairi tukio la jana kwenye kalenda?,calendar_remove,2
+238,238.0,Futa matukio yote ya mwaka ujao,calendar_remove,2
+239,239.0,Ghairi tukio la kukuza kwa kalenda,calendar_remove,2
+240,240.0,Futa tukio la kuhudhuria kwa kalenda,calendar_remove,2
+241,241.0,Ghairi tukio la chuo kikuu kwenye kalenda yangu,calendar_remove,2
+242,242.0,Tafadhali ghairi matukio yote ya wiki hii,calendar_remove,2
+243,243.0,Ghairi tukio la kwanza kwenye kalenda yangu,calendar_remove,2
+244,244.0,Toa tukio la klabu kwenye kalenda yako usiku,calendar_remove,2
+245,245.0,Futa tukio la kumiliki kwa kalenda,calendar_remove,2
+246,246.0,Futa tukio lililopangwa leo kwenye kalenda,calendar_remove,2
+247,247.0,Tafadhali ghairi tarehe ya kuongeza mwisho kwenye kalenda,calendar_remove,2
+248,248.0,Toa sherehe ya krismasi kutoka kwa kalenda yangu,calendar_remove,2
+249,249.0,Safisha kalenda yangu kesho,calendar_remove,2
+250,250.0,Unaweza kuondoa tukio la klabu kwenye kalenda yangu,calendar_remove,2
+251,251.0,Futa matukio yote kwenye kalenda ili iwe sawa,calendar_remove,2
+252,252.0,"Ongeza tukio la klabu kwenye kalenda, halafu toa",calendar_remove,2
+253,253.0,Futa tukio lililotafsiriwa kwenye kalenda yangu,calendar_remove,2
+254,254.0,Tafadhali futa tukio la juma kwenye kalenda yangu,calendar_remove,2
+255,255.0,Ghairi tukio la klabu kwa kalenda yangu,calendar_remove,2
+256,256.0,Futa matukio yote ya wiki hii kwenye kalenda,calendar_remove,2
+257,257.0,Toa tukio la kuelekezwa kwa kalenda yangu,calendar_remove,2
+258,258.0,Toa tarehe zote za klabu kwenye kalenda,calendar_remove,2
+259,259.0,Futa tukio la klabu kwenye kalenda yangu kesho,calendar_remove,2
+260,260.0,Toa sherehe ya krismasi kwenye kalenda yangu,calendar_remove,2
+261,261.0,Futa tukio la kuchanja kwa kalenda,calendar_remove,2
+262,262.0,Toa tukio la usalama kwa kalenda yangu,calendar_remove,2
+263,263.0,Futa tukio la mwisho kwenye kalenda yangu,calendar_remove,2
+264,264.0,Kuna njia ya kufuta kalenda yangu kamili?,calendar_remove,2
+265,265.0,Ondoa matukio yote ya familia kwenye kalenda,calendar_remove,2
+266,266.0,Ondoa tukio la jioni kwenye kalenda yangu,calendar_remove,2
+267,267.0,Ondoa tukio la kushoto kwenye kalenda yangu,calendar_remove,2
+268,268.0,Unaweza kughairi tukio la jioni kwenye kalenda?,calendar_remove,2
+269,269.0,Futa tukio la wiki moja kwenye kalenda yangu,calendar_remove,2
+270,270.0,Futa tukio la kulia kwenye kalenda yangu,calendar_remove,2
+271,271.0,Toa tukio la msimu kwenye kalenda yangu,calendar_remove,2
+272,272.0,Toa tukio la kusoma kwa kalenda yangu,calendar_remove,2
+273,273.0,Ghairi tukio la mwisho kwenye kalenda yangu,calendar_remove,2
+274,274.0,Tafadhali futa tukio la jioni kwenye kalenda yangu,calendar_remove,2
+275,275.0,Ondoa tukio la usiku kwenye kalenda yangu,calendar_remove,2
+276,276.0,Unaweza kuondoa matukio yote kwenye kalenda yangu,calendar_remove,2
+277,277.0,Futa tukio la kujaribu kwenye kalenda,calendar_remove,2
+278,278.0,Toa tukio la kwanza kwenye kalenda yangu,calendar_remove,2
+279,279.0,Ondoa tukio la kwanza kwa kalenda,calendar_remove,2
+280,280.0,Futa tukio lililopangwa kesho katika kalenda yangu,calendar_remove,2
+281,281.0,Futa matukio yote ya biashara kwenye kalenda,calendar_remove,2
+282,282.0,Kuna njia ya kufuta tukio kwenye kalenda yangu,calendar_remove,2
+283,283.0,Kuna njia ya kufuta kalenda yako kabisa,calendar_remove,2
+284,284.0,Unaweza kuondoa mikutano yote kwenye kalenda yangu leo,calendar_remove,2
+285,285.0,Tafadhali ghairi tarehe ya klabu kwa kalenda yangu,calendar_remove,2
+286,286.0,"Ongeza tukio kwenye kalenda yangu, halafu futa",calendar_remove,2
+287,287.0,Ondoa tukio la msimu kwenye kalenda yangu,calendar_remove,2
+288,288.0,Tafadhali toa tukio la kati kwenye kalenda yangu,calendar_remove,2
+289,289.0,Ghairi tukio la klabu kwenye kalenda yangu,calendar_remove,2
+290,290.0,Kuna njia ya kufuta kalenda yote ya mwaka huu,calendar_remove,2
+291,291.0,Futa tukio la kwanza kwenye kalenda yangu,calendar_remove,2
+292,292.0,Ondoa miadi yote ya kazini kwenye kalenda,calendar_remove,2
+293,293.0,Futa tukio la kesho kwenye kalenda yangu,calendar_remove,2
+294,294.0,Futa tukio la kuchezea klabu kwenye kalenda yangu,calendar_remove,2
+295,295.0,Ondoa mikutano yote iliyojiriwa kwenye kalenda yangu,calendar_remove,2
+296,296.0,Ninaomba ufanye ukaguzi wa tukio kwenye kalenda yangu,calendar_remove,2
+297,297.0,Toa tukio la klabu kwenye kalenda yako leo,calendar_remove,2
+298,298.0,Toa tukio la kujifunza kwa kalenda yangu,calendar_remove,2
+299,299.0,Safisha kalenda yangu kwa wiki hii,calendar_remove,2
+300,300.0,umaarufu wa kuandaa mboga mwitu,cooking_recipe,3
+301,301.0,unaonyesha namna ya kupika vitumbo,cooking_recipe,3
+302,302.0,hatua zipi zinahitajiwa kuandaa mchele,cooking_recipe,3
+303,303.0,unaonyesha jinsi ya kukagua mchele kwenye mchuzi,cooking_recipe,3
+304,304.0,ni kwa kiwango gani cha sukari kinahitajika kwa keki,cooking_recipe,3
+305,305.0,sababu za kushiba kwenye kupika chakula cha ugali,cooking_recipe,3
+306,306.0,kipimo cha sukari kinachohitajika kwa kuandaa cake,cooking_recipe,3
+307,307.0,ni kwa joto gani ninahitaji kuoka nyama,cooking_recipe,3
+308,308.0,unaandaa aje mkate wa kitoweo,cooking_recipe,3
+309,309.0,ni kwa njia ipi ninahitaji kuoka chapati,cooking_recipe,3
+310,310.0,kuna haja gani ya kumwaga maziwa kwenye uji,cooking_recipe,3
+311,311.0,vipimo vya matunda kwa keki la krismasi,cooking_recipe,3
+312,312.0,ni kwa njia ipi ninahitaji kuoka spaghetti,cooking_recipe,3
+313,313.0,umaarufu wa mchele wenye ndizi,cooking_recipe,3
+314,314.0,hatua za msingi za kupika pishori la kuku,cooking_recipe,3
+315,315.0,unaandaa aje ugali wa kienyeji,cooking_recipe,3
+316,316.0,kuna faida gani kwa kupika matunda kwenye mchuzi,cooking_recipe,3
+317,317.0,utaona jinsi ya kupika samaki wa kukaanga,cooking_recipe,3
+318,318.0,unaandaa aje ugali wa mpunga,cooking_recipe,3
+319,319.0,je unapika ugali wa kisasa,cooking_recipe,3
+320,320.0,ni kwa jioni gani ninahitaji kuoka kuku,cooking_recipe,3
+321,321.0,hatua za kupika chakula cha ugali kwa mkaa,cooking_recipe,3
+322,322.0,umetaja mikate yote iliyo muhimu kwa kupika ukoko,cooking_recipe,3
+323,323.0,umefanya je kupika ugali wa kushonsha,cooking_recipe,3
+324,324.0,unaandaa samaki wa kukaanga jinsi gani,cooking_recipe,3
+325,325.0,unawezaje kuniomba jinsi ya kupika maharage,cooking_recipe,3
+326,326.0,unahitaji vyakula vipi ili kupika matooke,cooking_recipe,3
+327,327.0,unaonyesha namna ya kupika maharagwe,cooking_recipe,3
+328,328.0,unaelekezwa namna ya kupika uji wa mtindi,cooking_recipe,3
+329,329.0,weweza kuonyeshwa namna ya kuandaa chapati,cooking_recipe,3
+330,330.0,hatua zote za kupika nyama ya kuku,cooking_recipe,3
+331,331.0,unaonyesha namna ya kuandaa ugali wa kumimina,cooking_recipe,3
+332,332.0,unaomba msaada wa kuandaa vitumbo vya nguruwe,cooking_recipe,3
+333,333.0,unaonyesha namna ya kuandaa kachumbari ya kitambo,cooking_recipe,3
+334,334.0,namna gani ya kupika viazi vya kuchemsha,cooking_recipe,3
+335,335.0,kunaonyesha jinsi ya kupika kahawa yenye ladha,cooking_recipe,3
+336,336.0,unajua jinsi ya kupika viazi vikuu vya kuchemsha,cooking_recipe,3
+337,337.0,weweza kuniomba jinsi ya kupika viazi vikuu vya kuchemsha,cooking_recipe,3
+338,338.0,umaarufu wa mchele wenye viungo,cooking_recipe,3
+339,339.0,kunaonyesha jinsi ya kupika ugali wa kusaga,cooking_recipe,3
+340,340.0,ni kwa njia ipi ambayo hutumiwa kwa kupika kahawa,cooking_recipe,3
+341,341.0,"je, unajua jinsi ya kupika ugali wa kubanana",cooking_recipe,3
+342,342.0,unaelekezwa namna ya kupika matooke,cooking_recipe,3
+343,343.0,ni kwa muda gani unahitaji kuoka kuku,cooking_recipe,3
+344,344.0,unajua jinsi ya kupika matooke kwa mchuzi,cooking_recipe,3
+345,345.0,unaonyesha namna ya kuandaa vyakula vya kitendo,cooking_recipe,3
+346,346.0,utaratibu wa kupika uji wa mtindi,cooking_recipe,3
+347,347.0,ni kwa muda gani unahitaji kuoka viazi,cooking_recipe,3
+348,348.0,unaonyesha jinsi ya kukagua lishe kwenye mchuzi,cooking_recipe,3
+349,349.0,namna gani ya kupika mandazi ili yaweze kuwa laini,cooking_recipe,3
+350,350.0,kuna faida gani ya kuingiza tui kwenye kupika chakula cha ugali,cooking_recipe,3
+351,351.0,kuna njia gani za kuandaa karanga,cooking_recipe,3
+352,352.0,je unaeza kuandaa mkatiko wa kuku,cooking_recipe,3
+353,353.0,ni kwa joto gani ninahitaji kuoka samaki,cooking_recipe,3
+354,354.0,unaonyesha namna ya kuandaa viazi vya kuchemsha,cooking_recipe,3
+355,355.0,je unaeza kuongea ukubwa wa kipindupindu cha chapati,cooking_recipe,3
+356,356.0,je unaeza kuandaa mkate wa kumimina,cooking_recipe,3
+357,357.0,kuna haja gani ya kumwaga mafuta kwenye sufuria,cooking_recipe,3
+358,358.0,unaelekezwa namna ya kupika mahamri,cooking_recipe,3
+359,359.0,unaweza kunijulisha jinsi ya kupika mboga mwitu,cooking_recipe,3
+360,360.0,hatua zote za kupika nyama ya ngombe,cooking_recipe,3
+361,361.0,ni kwanza gani kwamba hutumiwa kwa kupika mchele wa mpunga,cooking_recipe,3
+362,362.0,ni kwanza gani kwamba hutumiwa kwa kupika mchuzi wa nyama,cooking_recipe,3
+363,363.0,unataka kuandaa ugali wa kisasa?,cooking_recipe,3
+364,364.0,unaandaa ugali wa mtungi jinsi gani,cooking_recipe,3
+365,365.0,umuhimu wa kutumia mafuta mengi kwenye kupikia,cooking_recipe,3
+366,366.0,je unapika ugali wa matunda?,cooking_recipe,3
+367,367.0,umaarufu wa mchele wenye karoti,cooking_recipe,3
+368,368.0,hatua zote za kupika matooke,cooking_recipe,3
+369,369.0,utapika mandazi kwa muda gani?,cooking_recipe,3
+370,370.0,umaarufu wa kujifunza kupika vitafalia vya kienyeji,cooking_recipe,3
+371,371.0,umaarufu wa kujifunza kupika vitafalia vya kigeni,cooking_recipe,3
+372,372.0,ni kwa muda gani ninahitaji kuoka kahawa,cooking_recipe,3
+373,373.0,kiasi gani cha maji hutakiwa kwa uji wa mtindi,cooking_recipe,3
+374,374.0,kunaonyesha jinsi ya kupika ugali wa kujivisha,cooking_recipe,3
+375,375.0,hatua zote za kupika samaki wa kukaanga,cooking_recipe,3
+376,376.0,unaelekeza namna ya kuandaa mboga mwitu,cooking_recipe,3
+377,377.0,kuna njia gani za kuandaa tambi,cooking_recipe,3
+378,378.0,umaarifu jinsi ya kupika mandazi ya kitambo,cooking_recipe,3
+379,379.0,hatua zipi zinahitajiwa kuandaa ukoko,cooking_recipe,3
+380,380.0,kuna haja gani ya kuingiza chumvi kwenye supu ya kuku,cooking_recipe,3
+381,381.0,ni kwa sababu gani ninahitaji kuoka chapati kwa moto,cooking_recipe,3
+382,382.0,unajifunza jinsi ya kuokoa vyakula vikubwa,cooking_recipe,3
+383,383.0,ni kwa jioni gani unahitaji kuoka kuku,cooking_recipe,3
+384,384.0,unaweza kunijulisha jinsi ya kupika mkate wa kusongea,cooking_recipe,3
+385,385.0,kunaonyesha namna ya kuandaa chapati,cooking_recipe,3
+386,386.0,weweza kuniomba jinsi ya kupika vitumbo vya kuku,cooking_recipe,3
+387,387.0,ni wakati gani mwafaka kwa kupika nyama ya ngombe,cooking_recipe,3
+388,388.0,hatua zote za kupika nyama kwenye sufuria,cooking_recipe,3
+389,389.0,"je, unajua jinsi ya kupika ugali wa kusukuma?",cooking_recipe,3
+390,390.0,ni kwa kiwango gani cha maji yanahitajika kwa kupika uji,cooking_recipe,3
+391,391.0,unaandaa ugali wa Kisumu jinsi gani,cooking_recipe,3
+392,392.0,unaelekezwa namna ya kupika mchele wa kusukuma,cooking_recipe,3
+393,393.0,unaonyesha namna ya kupika viazi,cooking_recipe,3
+394,394.0,unaandaa ugali wa Nairobi jinsi gani,cooking_recipe,3
+395,395.0,kunaonyesha namna ya kuandaa vitumbo vya nyama,cooking_recipe,3
+396,396.0,namna gani ya kukagua uhai wa mboga,cooking_recipe,3
+397,397.0,ni kwa muda gani unahitaji kuoka mkate,cooking_recipe,3
+398,398.0,ni kwa siku gani unahitaji kuoka ugali,cooking_recipe,3
+399,399.0,utaona faida gani kwa kupika chumvi kwenye nyama,cooking_recipe,3
+400,400.0,"Ikiwa ni saa 3 asubuhi huko Beijing, saa ngapi huko Moscow?",datetime_convert,4
+401,401.0,Weka eneo la saa kuwa wakati wa Greenwich Mean Time (GMT),datetime_convert,4
+402,402.0,Kuna tofauti gani ya wakati kati ya Tokyo na New York?,datetime_convert,4
+403,403.0,kuna wakati gani kati ya hapa na china?,datetime_convert,4
+404,404.0,niambie wakati wa canada pamoja na wakati wa usa,datetime_convert,4
+405,405.0,iko saa ngapi huko bangkok ikiwa ni saa kumi na moja jioni hapa?,datetime_convert,4
+406,406.0,Ni saa ngapi huko Dubai ikiwa ni saa 2 asubuhi huko Istanbul?,datetime_convert,4
+407,407.0,niambie wakati wa south africa pamoja na wakati wa morocco,datetime_convert,4
+408,408.0,iko saa ngapi huko Sydney ikiwa ni saa kumi na mbili jioni hapa Perth?,datetime_convert,4
+409,409.0,iko saa ngapi huko London ikiwa ni saa kumi na moja alfajiri hapa Dar es Salaam?,datetime_convert,4
+410,410.0,Tofauti gani kati ya wakati wa India na wakati wa Pakistan?,datetime_convert,4
+411,411.0,kuna tofauti gani kati ya wakati wa turkey na wakati wa greece?,datetime_convert,4
+412,412.0,"je, wakati wa klabu yetu ni sawa na wakati wa london?",datetime_convert,4
+413,413.0,tafadhali badilisha wakati wa EAT kuwa wakati wa PST,datetime_convert,4
+414,414.0,"Ikiwa ni saa moja jioni huko Mombasa, saa ngapi huko Kisumu?",datetime_convert,4
+415,415.0,tafadhali badilisha wakati wa california kwenda wakati wa chicago,datetime_convert,4
+416,416.0,Unaona tofauti gani kati ya wakati wa Lagos na wakati wa Cairo?,datetime_convert,4
+417,417.0,kuna tofauti gani kati ya wakati wa Lagos na wakati wa Cairo?,datetime_convert,4
+418,418.0,Badilisha wakati wa sasa kutoka PST kwenda EST,datetime_convert,4
+419,419.0,"je, wakati wa vietnam si sawa na wakati wa philippines?",datetime_convert,4
+420,420.0,tafadhali badilisha wakati wa CST kuwa wakati wa MST,datetime_convert,4
+421,421.0,Unaenda kubadilisha wakati wa Brazil kumwendelea Argentina?,datetime_convert,4
+422,422.0,tafadhali badilisha wakati wa ADT kuwa wakati wa EDT,datetime_convert,4
+423,423.0,iko saa ngapi huko sydney ikiwa ni saa kumi na mbili jioni hapa?,datetime_convert,4
+424,424.0,Badilisha wakati wa sasa kutoka AEST kwenda AWST,datetime_convert,4
+425,425.0,tafadhali badilisha wakati wa australia kwenda wakati wa singapore,datetime_convert,4
+426,426.0,"Je, unaona tofauti gani kati ya wakati wa Nairobi na wakati wa London?",datetime_convert,4
+427,427.0,"Ikiwa ni saa 9 jioni huko Los Angeles, saa ngapi huko Rio de Janeiro?",datetime_convert,4
+428,428.0,Tafadhali badilisha saa za IST kwenda EST,datetime_convert,4
+429,429.0,"Ikiwa ni saa kumi na moja jioni huko Sydney, saa ngapi huko Melbourne?",datetime_convert,4
+430,430.0,Badilisha wakati wa Alaska-Hawaii Standard Time kumwendelea Hawaii-Aleutian Standard Time,datetime_convert,4
+431,431.0,Kuna tofauti gani ya wakati kati ya Dubai na Abu Dhabi?,datetime_convert,4
+432,432.0,tafadhali badilisha wakati wa thailand kwenda wakati wa malaysia,datetime_convert,4
+433,433.0,Tafadhali badilisha eneo la wakati kweta kwa EAT,datetime_convert,4
+434,434.0,niambie wakati wa PDT pamoja na dakika ishirini na tano,datetime_convert,4
+435,435.0,Ni wakati gani kati ya GMT na CST?,datetime_convert,4
+436,436.0,"Ikiwa ni saa 12 jioni huko Cairo, saa ngapi huko Johannesburg?",datetime_convert,4
+437,437.0,Unaenda kubadilisha wakati wa Turkey kumwendelea Greece?,datetime_convert,4
+438,438.0,Badilisha wakati wa CDT kwenda EDT,datetime_convert,4
+439,439.0,Badilisha wakati wa BST kwenda CET,datetime_convert,4
+440,440.0,Kuna tofauti gani ya wakati kati ya Dar es Salaam na New York?,datetime_convert,4
+441,441.0,Unaona tofauti gani kati ya wakati wa Rio de Janeiro na wakati wa Buenos Aires?,datetime_convert,4
+442,442.0,Tafadhali badilisha wakati wa Greenwich Mean Time kumwendelea Eastern Daylight Time,datetime_convert,4
+443,443.0,weka saa zako kuwa katika wakati wa paris,datetime_convert,4
+444,444.0,Badilisha wakati wa PST kwenda MST,datetime_convert,4
+445,445.0,Kuna tofauti gani ya wakati kati ya Mexico City na Los Angeles?,datetime_convert,4
+446,446.0,Ni wakati gani kati ya wakati wa India na wakati wa China?,datetime_convert,4
+447,447.0,"je, wakati wa Afrika Kaskazini unabadilishaje kuwa wakati wa Ulaya Magharibi?",datetime_convert,4
+448,448.0,niambie tofauti kati ya wakati wa dar es salaam na wakati wa newYork,datetime_convert,4
+449,449.0,Kuna tofauti gani ya wakati kati ya Nairobi na New York?,datetime_convert,4
+450,450.0,Weka eneo la saa kuwa wakati wa Pakistan Standard Time,datetime_convert,4
+451,451.0,iko saa ngapi jijini moscow ikiwa ni saa moja asubuhi hapa?,datetime_convert,4
+452,452.0,Ni saa ngapi katika eneo la Australian Western Standard Time?,datetime_convert,4
+453,453.0,kuna wakati gani kati ya hapa na japan?,datetime_convert,4
+454,454.0,"je, wakati wa mexico si sawa na wakati wa los angeles?",datetime_convert,4
+455,455.0,Weka wakati wa Greenwich Mean Time (GMT) katika eneo langu,datetime_convert,4
+456,456.0,"je, wakati wa Moscow unabadilishaje kuwa wakati wa Istanbul?",datetime_convert,4
+457,457.0,iko saa ngapi huko Dubai ikiwa ni saa kumi na tatu jioni hapa Abu Dhabi?,datetime_convert,4
+458,458.0,Badilisha wakati wa sasa kutoka BST kwenda GMT,datetime_convert,4
+459,459.0,weka saa zako kuwa katika wakati wa madrid,datetime_convert,4
+460,460.0,Tafadhali weka wakati wa Moscow Standard Time (MSK) katika eneo langu,datetime_convert,4
+461,461.0,Kuna tofauti gani ya wakati kati ya Mexico City na Bogota?,datetime_convert,4
+462,462.0,badilisha wakati wa BST kuwa wakati wa CEST,datetime_convert,4
+463,463.0,Tafadhali weka wakati wa Beijing Standard Time (CST) katika eneo langu,datetime_convert,4
+464,464.0,kuna tofauti gani kati ya wakati wa Rio de Janeiro na wakati wa Buenos Aires?,datetime_convert,4
+465,465.0,"Ikiwa ni saa kumi na mbili jioni huko Los Angeles, saa ngapi huko Chicago?",datetime_convert,4
+466,466.0,"Ikiwa ni saa moja jioni huko Dar es Salaam, saa ngapi huko London?",datetime_convert,4
+467,467.0,Ni saa ngapi katika eneo la Bangladesh Standard Time?,datetime_convert,4
+468,468.0,niambie wakati wa india pamoja na wakati wa kenya,datetime_convert,4
+469,469.0,Weka eneo la saa kuwa wakati wa Central African Time,datetime_convert,4
+470,470.0,Niambie wakati wa South Africa Standard Time pamoja na dakika 45,datetime_convert,4
+471,471.0,"Je, unaenda kubadilisha wakati wa Indian Ocean Territory kumwendelea East Africa Time?",datetime_convert,4
+472,472.0,"je, wakati wa russia si sawa na wakati wa germany?",datetime_convert,4
+473,473.0,Badilisha wakati wa Western European Summer Time kumwendelea Central European Time,datetime_convert,4
+474,474.0,ni saa ngapi huko Tokyo ikiwa ni saa sita mchana hapa Johannesburg?,datetime_convert,4
+475,475.0,niambie wakati wa UTC pamoja na masaa matatu,datetime_convert,4
+476,476.0,Ni wakati gani kati ya Australia na wakati wa Japan?,datetime_convert,4
+477,477.0,"Ikiwa ni saa nne asubuhi huko Sydney, saa ngapi huko Melbourne?",datetime_convert,4
+478,478.0,niambie wakati wa dubai pamoja na wakati wa nigeria,datetime_convert,4
+479,479.0,Unaona tofauti gani kati ya wakati wa Brazil na wakati wa Argentina?,datetime_convert,4
+480,480.0,Tafadhali badilisha eneo la wakati kwenu kwa SAST,datetime_convert,4
+481,481.0,Tafadhali badilisha wakati wa sasa kutoka EAT kwenda CST,datetime_convert,4
+482,482.0,Niambie wakati wa Mountain Standard Time pamoja na dakika 30,datetime_convert,4
+483,483.0,Ni saa ngapi huko Tokyo ikiwa ni saa 12 jioni huko Paris?,datetime_convert,4
+484,484.0,ni saa ngapi huko New York ikiwa ni saa moja jioni hapa Nairobi?,datetime_convert,4
+485,485.0,Ni wakati gani kati ya South Africa na wakati wa Egypt?,datetime_convert,4
+486,486.0,Kuna tofauti gani ya wakati kati ya Mexico City na Chicago?,datetime_convert,4
+487,487.0,kuna tofauti gani kati ya wakati wa Kisumu na wakati wa Mombasa?,datetime_convert,4
+488,488.0,Ni saa ngapi katika eneo la Pacific Standard Time?,datetime_convert,4
+489,489.0,badilisha wakati wa IST kuwa wakati wa EST,datetime_convert,4
+490,490.0,"Je, unaenda kubadilisha wakati wa China Standard Time kumwendelea Japan Standard Time?",datetime_convert,4
+491,491.0,Kuna tofauti gani kati ya wakati wa Istanbul na wakati wa Cairo?,datetime_convert,4
+492,492.0,Ni wakati gani kati ya wakati wa Istanbul na wakati wa Athens?,datetime_convert,4
+493,493.0,iko saa ngapi jijini cairo ikiwa ni saa tatu asubuhi hapa?,datetime_convert,4
+494,494.0,"Ikiwa ni saa tatu asubuhi huko Paris, saa ngapi huko Berlin?",datetime_convert,4
+495,495.0,"Je, unaona tofauti gani kati ya wakati wa Afrika Mashariki na wakati wa Ulaya Magharibi?",datetime_convert,4
+496,496.0,kuna tofauti gani kati ya wakati wa brazil na wakati wa argentina?,datetime_convert,4
+497,497.0,Unaona tofauti gani kati ya wakati wa Asia na wakati wa Amerika?,datetime_convert,4
+498,498.0,ni saa ngapi huko Beijing ikiwa ni saa moja alfajiri hapa Shanghai?,datetime_convert,4
+499,499.0,niambie wakati wa GMT pamoja na dakika ishirini,datetime_convert,4
+500,500.0,Nahitaji tumwa barua pepe kwa benki kuhusu akiba yangu.,email_sendemail,5
+501,501.0,Barua pepe inatumwa kwa mwalimu ili ajue habari za wanafunzi.,email_sendemail,5
+502,502.0,Tuma barua pepe kwa mkulima ili kupata habari za mavuno.,email_sendemail,5
+503,503.0,Tuma barua pepe kwa mkurugenzi wa shule kuhusu maombi ya ualimu.,email_sendemail,5
+504,504.0,Fanya ukaguzi wa barua pepe kabla hatujaacha kuiteremsha.,email_sendemail,5
+505,505.0,Andika barua pepe kwa shule ili kupata matokeo ya mtihani,email_sendemail,5
+506,506.0,Tuma barua pepe kwa rafiki yaku ili kupanga matembezi,email_sendemail,5
+507,507.0,Tafadhali tumia barua pepe kwa ajili ya kujisajili katika chuo kikuu.,email_sendemail,5
+508,508.0,Jibu la barua pepe limetumwa kwa wakati ufaao.,email_sendemail,5
+509,509.0,Tuma barua pepe kwa rafiki yangu kuongea kuhusu mchezo wa soka.,email_sendemail,5
+510,510.0,Nahitaji kuandikwa barua pepe kwa mwanasheria ili kupata ushirikiano.,email_sendemail,5
+511,511.0,Kuna barua pepe ambayo inanitaka kumtuma kwa shangazi yangu.,email_sendemail,5
+512,512.0,Andika barua pepe kwa mkulima kuhusu shamba lake la matunda.,email_sendemail,5
+513,513.0,Nahitaji mtu kuandikia barua pepe kwa ajili yangu.,email_sendemail,5
+514,514.0,Tuma barua pepe kwa msichana ili ajue habari za kitendo chetu.,email_sendemail,5
+515,515.0,Tuma barua pepe kwa mkurugenzi ili ashukuru kwa kazi nzuri aliyoifanya.,email_sendemail,5
+516,516.0,Tafadhali tumia barua pepe kwa ajili ya mkutano wa leo.,email_sendemail,5
+517,517.0,Tafadhali tumia barua pepe kwa mgombezi wa chama cha siasa.,email_sendemail,5
+518,518.0,Anza barua pepe kwa mmiliki wa hoteli kuhusu ukodi,email_sendemail,5
+519,519.0,Nahitaji kuandikwa barua pepe kwa mwalimu wangu ili kupata msaada.,email_sendemail,5
+520,520.0,Anza barua pepe kwa mkuu wa kitongoji ili kupata habari za jamii.,email_sendemail,5
+521,521.0,Sema kwa barua pepe kuwa ninaomba klabu ya mpira wa miguu,email_sendemail,5
+522,522.0,Andika barua pepe kwa mfanyakazi wako ili kupata msaada.,email_sendemail,5
+523,523.0,Mwambie kwa barua pepe kuwa nataka kukopa pesa,email_sendemail,5
+524,524.0,Tuma barua pepe kwa msanidi wa huduma za afya kuhusu matibabu yangu.,email_sendemail,5
+525,525.0,Mwambie afisa wa polisi atume barua pepe kwa familia yake.,email_sendemail,5
+526,526.0,Nahitaji kumtumia mtoto wangu barua pepe juu ya shule yake.,email_sendemail,5
+527,527.0,Tuma barua pepe kwa mkulima kuhusu bei ya mahindi.,email_sendemail,5
+528,528.0,Mwambie mama yake atume barua pepe kwa ajili yangu.,email_sendemail,5
+529,529.0,Tafadhali tumia barua pepe kwa mwenezi wa hoteli ili kupata vyumba vya kukaa.,email_sendemail,5
+530,530.0,Tuma barua pepe kwa mkurugenzi wa benki ili kupata mikopo.,email_sendemail,5
+531,531.0,Andika barua pepe kwa mwakilishi wa serikali ili kupata ushauri.,email_sendemail,5
+532,532.0,Nahitaji kupata barua pepe kutoka kwake leo ili nijue maendeleo ya mradi.,email_sendemail,5
+533,533.0,Nipeleka barua pepe kwa mshauri wa elimu kuhusu masomo yangu.,email_sendemail,5
+534,534.0,Tafadhali tumia barua pepe kwa mkulima kuhusu mavuno yetu.,email_sendemail,5
+535,535.0,Mwambie afande ametuma barua pepe kwa mimi kuhusu masuala ya kazi.,email_sendemail,5
+536,536.0,Nahitaji kusaidiwa kumtuma barua pepe kwa afisa usalama,email_sendemail,5
+537,537.0,Tuma barua pepe kwa mkuu wa kitongoji kuhusu miradi yetu.,email_sendemail,5
+538,538.0,Sema kwa barua pepe umetumiwa na mfanyakazi wake.,email_sendemail,5
+539,539.0,Tuma barua pepe kwa afisa wa vyombo vya habari kuhusu habari zetu.,email_sendemail,5
+540,540.0,Mwambie mtu kuandikia barua pepe kwa ajili ya mkutano wetu.,email_sendemail,5
+541,541.0,Tuma barua pepe kwa afisa usalama kuhusu tatizo la mwendokasi.,email_sendemail,5
+542,542.0,Nahitaji kufanya biashara na kumtuma barua pepe kwa mwanasiasa,email_sendemail,5
+543,543.0,Ushauri unaotakiwa kwa barua pepe kwa wote waliohudhuria mkutano.,email_sendemail,5
+544,544.0,Mwambie mwanaishiwake atume barua pepe kwa ajili ya klabu yetu.,email_sendemail,5
+545,545.0,Andika barua pepe kwa mganga ili kupata ushauri wa matibabu.,email_sendemail,5
+546,546.0,Tuma barua pepe kwa rafiki yangu kuongea kuhusu safari yetu.,email_sendemail,5
+547,547.0,Tafsiri barua pepe kwa lugha ya kifaransa kwa ajili ya wanafunzi.,email_sendemail,5
+548,548.0,Mtumie barua pepe kwa mwalimu wa sayansi kuhusu somo la fizikia.,email_sendemail,5
+549,549.0,Tafsiri barua pepe kwa lugha ya kiingereza kwa ajili ya wageni.,email_sendemail,5
+550,550.0,Kuna barua pepe ninayotaka kuandikwa kwa msaidizi wangu.,email_sendemail,5
+551,551.0,Mtumie msaidizi wake barua pepe kuhusu kazi yake.,email_sendemail,5
+552,552.0,Kuna barua pepe ambayo nataka kuandikia kwa msichana wangu.,email_sendemail,5
+553,553.0,Tuma barua pepe kwa mwenzako ili ajue habari za kuongeza mtu katika orodha yetu.,email_sendemail,5
+554,554.0,Nahitaji kuandikwa barua pepe kwa mkuu wa wilaya kuhusu mradi wetu.,email_sendemail,5
+555,555.0,Andika barua pepe kwa mkurugenzi wa benki kuhusu mikopo yetu.,email_sendemail,5
+556,556.0,Sema kwa barua pepe kuwa ninaomba kazi katika kampuni hiyo,email_sendemail,5
+557,557.0,Andika barua pepe kwa mfanyabiashara kuhusu biashara yetu.,email_sendemail,5
+558,558.0,Tuma barua pepe kwa mwenzako ili kupata msaada wa kiuchumi.,email_sendemail,5
+559,559.0,Anza barua pepe kwa mjinga ili kupata ushauri wa biashara.,email_sendemail,5
+560,560.0,Andika barua pepe kwa mgombezi wa tuzo la Nobel,email_sendemail,5
+561,561.0,Nahitaji tumwa barua pepe kwa msajili wa magari kuhusu leseni yangu.,email_sendemail,5
+562,562.0,Tafadhali tumieni barua pepe kwa mfanyikazi wa benki,email_sendemail,5
+563,563.0,Tuma barua pepe kwa msaidizi ili akubali kuja kwenye klabu yetu.,email_sendemail,5
+564,564.0,Kuna barua pepe ninayotaka kusoma kwa sababu ya ujira wa mwisho.,email_sendemail,5
+565,565.0,Sema kwa barua pepe kwamba ninaomba kazi katika kampuni hiyo.,email_sendemail,5
+566,566.0,Nahitaji kumtumia mganga barua pepe kuhusu hali ya afya yangu.,email_sendemail,5
+567,567.0,Tafadhali tumieni barua pepe kwa mfanyakazi wake.,email_sendemail,5
+568,568.0,Mtumie mwalimu wake barua pepe kuhusu masomo yake.,email_sendemail,5
+569,569.0,Tafadhali tumieni barua pepe kwa waziri wa elimu,email_sendemail,5
+570,570.0,Andika barua pepe kwa mfanyabiashara ili kupata bei za bidhaa.,email_sendemail,5
+571,571.0,Tuma barua pepe kwa mdogo wangu ili kupata habari za familia,email_sendemail,5
+572,572.0,Andika barua pepe kwa shule ili kupata matokeo ya mtihani.,email_sendemail,5
+573,573.0,Kuna barua pepe ninayotaka kuandikwa kwa mshindi wa tuzo.,email_sendemail,5
+574,574.0,Tuma barua pepe kwa mwanzilishi wa kampuni ili kupata nafasi za kazi.,email_sendemail,5
+575,575.0,Andika barua pepe kwa mkulima ili apate msaada wa kilimo cha mahindi.,email_sendemail,5
+576,576.0,Tafadhali tumieni barua pepe kwa wakala wa magari,email_sendemail,5
+577,577.0,Unaomba mtu kuandikia barua pepe kwa sababu ya huduma ya afya.,email_sendemail,5
+578,578.0,Mwambie afisa wa posta atume barua pepe kwa familia yangu.,email_sendemail,5
+579,579.0,Tafadhali tumia barua pepe kwa ajili ya kufanya maombi ya kazi.,email_sendemail,5
+580,580.0,Tuma barua pepe kwa mkulima kuhusu mavuno ya mwaka,email_sendemail,5
+581,581.0,Unaomba mtu kuandikia barua pepe kwa ajili ya safari yetu.,email_sendemail,5
+582,582.0,Tafadhali tumieni barua pepe kwa wakala wa vyumba vya kulipia,email_sendemail,5
+583,583.0,Nataka kuandikia barua pepe kwa mwalimu wake kuhusu masomo yetu.,email_sendemail,5
+584,584.0,Anza barua pepe kwa mmiliki wa dukani kuhusu bidhaa zilizopotea,email_sendemail,5
+585,585.0,Unaomba mtu kuandikia barua pepe kwa ajili ya klabu ya mpira wa miguu.,email_sendemail,5
+586,586.0,Kuna barua pepe ambayo sinaomba kuandikia kwa rafiki yangu.,email_sendemail,5
+587,587.0,Mwambie mwenzio atume barua pepe kwa ajili ya klabu yetu.,email_sendemail,5
+588,588.0,Nahitaji kumtumia afisa usalama barua pepe kuhusu tatizo la usalama.,email_sendemail,5
+589,589.0,Kuna barua pepe ambayo sinafikiri kuituma kwa msimu huu,email_sendemail,5
+590,590.0,Andika barua pepe kwa jirani ili ajue habari za matatizo yetu.,email_sendemail,5
+591,591.0,Kuna barua pepe ninayotaka kuandikwa kwa mwanaUME wangu.,email_sendemail,5
+592,592.0,Tafsiri barua pepe kwa lugha ya kiingereza ili wengine wasome.,email_sendemail,5
+593,593.0,Anza barua pepe kwa mhadhiri wa chuo kikuu ili kupata elimu.,email_sendemail,5
+594,594.0,Tuma barua pepe kwa mwenzangu ili kupanga safari yetu.,email_sendemail,5
+595,595.0,Anza barua pepe kwa mjomba ili kupata habari za familia.,email_sendemail,5
+596,596.0,Anza barua pepe kwa mfanyabiashara ili kupata huduma zetu.,email_sendemail,5
+597,597.0,Mtumie barua pepe kwa mjomba kuhusu matangazo ya biashara.,email_sendemail,5
+598,598.0,Andika barua pepe kwa mwakilishi wa chama cha demokrasia kuhusu uchaguzi.,email_sendemail,5
+599,599.0,Mtumie babu yangu barua pepe kwa ajili ya klabu yetu.,email_sendemail,5
+600,600.0,Kusikiliza kitabu cha hadithi,play_audiobook,6
+601,601.0,Anzisha kitabu cha kisomo,play_audiobook,6
+602,602.0,Cheza kitabu cha sheria,play_audiobook,6
+603,603.0,Cheza kitabu cha falsafa ya Kiswahili,play_audiobook,6
+604,604.0,Cheza kitabu cha riwaya ya Kiswahili,play_audiobook,6
+605,605.0,Anzisha kitabu cha kukuza,play_audiobook,6
+606,606.0,Cheza kitabu cha historia ya Amerika,play_audiobook,6
+607,607.0,Anzisha kitabu cha kusikiliza cha mwana,play_audiobook,6
+608,608.0,Anzia kucheza kitabu cha elimu ya juu,play_audiobook,6
+609,609.0,Mwache kucheza kitabu cha klabu,play_audiobook,6
+610,610.0,Anzia kucheza kitabu cha afya ya binadamu,play_audiobook,6
+611,611.0,Cheza kitabu cha mashairi,play_audiobook,6
+612,612.0,Ningependa kuwasiliana na kitabu hicho cha hivi karibuni,play_audiobook,6
+613,613.0,Cheza kitabu cha historia ya Asia,play_audiobook,6
+614,614.0,Cheza kitabu cha wasifu wa mtu,play_audiobook,6
+615,615.0,Kuanzia kucheza kitabu cha kisasa,play_audiobook,6
+616,616.0,Mwandamo kucheza kitabu cha kusikiliza,play_audiobook,6
+617,617.0,Cheza kitabu cha sayansi ya mazingira,play_audiobook,6
+618,618.0,Cheza simulizi la mwana wa mfalme,play_audiobook,6
+619,619.0,Ningependa kuisikiliza kitabu cha Harry Potter,play_audiobook,6
+620,620.0,Kusikiliza kitabu cha kuhusu,play_audiobook,6
+621,621.0,Mwendelee kucheza kitabu cha siasa,play_audiobook,6
+622,622.0,Cheza kitabu cha maendeleo ya teknolojia,play_audiobook,6
+623,623.0,Tengeneza kucheza kitabu cha kujifunza,play_audiobook,6
+624,624.0,Kucheza kitabu cha elimu ya ufundi,play_audiobook,6
+625,625.0,Cheza kitabu cha kufanya,play_audiobook,6
+626,626.0,Anzia kucheza kitabu cha riwaya ya mapenzi,play_audiobook,6
+627,627.0,Cheza tena kitabu cha mwisho uliosoma,play_audiobook,6
+628,628.0,Kusikiliza kitabu cha kumiliki,play_audiobook,6
+629,629.0,Cheza kitabu cha hadithi za zamani,play_audiobook,6
+630,630.0,Jitolee kucheza kitabu cha historia,play_audiobook,6
+631,631.0,Ongeza sauti ya kitabu cha kusikiliza,play_audiobook,6
+632,632.0,Mwendelee kucheza kitabu cha uchumi wa Afrika,play_audiobook,6
+633,633.0,Mwendelee kucheza kitabu cha hadithi,play_audiobook,6
+634,634.0,Anzisha kitabu cha kuimba,play_audiobook,6
+635,635.0,Anzisha kitabu cha kusikiliza cha filosofia,play_audiobook,6
+636,636.0,Kitabu cha kusikiliza kinanipa furaha,play_audiobook,6
+637,637.0,Ningependa kucheza kitabu cha Harry Potter,play_audiobook,6
+638,638.0,Mwanzo wa kitabu cha kusikiliza,play_audiobook,6
+639,639.0,Anzia kucheza kitabu cha hadithi,play_audiobook,6
+640,640.0,Mwendelee kucheza kitabu cha elimu,play_audiobook,6
+641,641.0,Ushirike kucheza kitabu cha kushangaza,play_audiobook,6
+642,642.0,Kucheza kitabu cha kusikiliza kunaonyesha ukubwa,play_audiobook,6
+643,643.0,Kucheza kitabu cha kusikiliza kumekucha,play_audiobook,6
+644,644.0,Kusikiliza kitabu cha riwaya,play_audiobook,6
+645,645.0,Mwakilishi kucheza kitabu cha kukuogofya,play_audiobook,6
+646,646.0,Nataka kucheza simulizi ya mpya,play_audiobook,6
+647,647.0,Cheza mwanzo wa hadithi,play_audiobook,6
+648,648.0,Cheza kitabu cha kazi,play_audiobook,6
+649,649.0,Cheza kitabu cha mwendazake,play_audiobook,6
+650,650.0,Kucheza kitabu cha kusikiliza kunavutia moyo,play_audiobook,6
+651,651.0,Anzia kucheza kitabu cha riwaya ya Kimarekani,play_audiobook,6
+652,652.0,Cheza kitabu cha historia ya Ulaya,play_audiobook,6
+653,653.0,Cheza kitabu cha mashairi ya Kiswahili,play_audiobook,6
+654,654.0,Kusikiliza kitabu cha kuvaa,play_audiobook,6
+655,655.0,Anzia kucheza kitabu cha watoto,play_audiobook,6
+656,656.0,Ongeza sauti katika kitabu cha kusikiliza,play_audiobook,6
+657,657.0,Tafadhali rejelea kitabu cha kusikiliza,play_audiobook,6
+658,658.0,Cheza kitabu cha teknolojia,play_audiobook,6
+659,659.0,Nataka kuisikiliza kitabu cha mfululizo,play_audiobook,6
+660,660.0,Soma kitabu cha kusikiliza kwa sauti,play_audiobook,6
+661,661.0,Cheza kitabu cha elimu ya juu,play_audiobook,6
+662,662.0,Anzisha simulizi yangu ya audio,play_audiobook,6
+663,663.0,Cheza kitabu cha jamii ya watu,play_audiobook,6
+664,664.0,Cheza kitabu cha kutana na,play_audiobook,6
+665,665.0,Cheza kitabu cha sayansi,play_audiobook,6
+666,666.0,Cheza kitabu cha kusikiliza,play_audiobook,6
+667,667.0,Rudi kwenye kitabu cha kusikiliza cha lugha,play_audiobook,6
+668,668.0,Mwongozo kucheza kitabu cha kujiamini,play_audiobook,6
+669,669.0,Anzisha kitabu cha kusikiliza cha biashara,play_audiobook,6
+670,670.0,Cheza kitabu cha michezo,play_audiobook,6
+671,671.0,Cheza kitabu cha kuburudika,play_audiobook,6
+672,672.0,Rudi kwenye kitabu cha kusikiliza cha zamani,play_audiobook,6
+673,673.0,Tafadhali cheza kitabu cha riwaya,play_audiobook,6
+674,674.0,Cheza kitabu cha habari za sasa,play_audiobook,6
+675,675.0,Nataka kuisikiliza kitabu cha uchumi,play_audiobook,6
+676,676.0,Cheza kitabu cha kulenga,play_audiobook,6
+677,677.0,Anzisha kitabu cha kusikiliza cha mazingira,play_audiobook,6
+678,678.0,Anzia kucheza tena kitabu cha awali,play_audiobook,6
+679,679.0,Ningependa kucheza kitabu cha jamii,play_audiobook,6
+680,680.0,Cheza kifunguo cha kitabu,play_audiobook,6
+681,681.0,Nataka kuisikiliza kitabu cha afya,play_audiobook,6
+682,682.0,Tafadhali cheza kitabu cha mwendazake,play_audiobook,6
+683,683.0,Cheza kitabu cha utamaduni,play_audiobook,6
+684,684.0,Mwombezea kucheza kitabu cha elimu,play_audiobook,6
+685,685.0,Ongeza kitabu cha kusikiliza,play_audiobook,6
+686,686.0,Nataka kuisikiliza kitabu cha Harry Potter,play_audiobook,6
+687,687.0,Anzisha kitabu cha riwaya,play_audiobook,6
+688,688.0,Cheza kitabu cha maongezi,play_audiobook,6
+689,689.0,Ningependa kucheza kitabu cha elimu,play_audiobook,6
+690,690.0,Anzisha simulizi yangu ya leo,play_audiobook,6
+691,691.0,Anzia kucheza kitabu cha dini ya Islam,play_audiobook,6
+692,692.0,Anzisha kitabu cha elimu,play_audiobook,6
+693,693.0,Rejelea kitabu cha kusikiliza ili uonekane vizuri,play_audiobook,6
+694,694.0,Kusikiliza kitabu cha historia,play_audiobook,6
+695,695.0,Cheza kitabu cha elimu ya msingi,play_audiobook,6
+696,696.0,Ruhusu kucheza kitabu cha kusoma,play_audiobook,6
+697,697.0,Anzia kucheza kitabu cha dini,play_audiobook,6
+698,698.0,Cheza kitabu cha kupendezesha,play_audiobook,6
+699,699.0,Kucheza kitabu cha sheria ya kimataifa,play_audiobook,6
+700,700.0,Una filamu gani ambazo zinafunguliwa klabu za filamu?,recommendation_movies,7
+701,701.0,Mnaomba pendekezo la filamu moja ya kijamii.,recommendation_movies,7
+702,702.0,Ni filamu gani ambazo zinaonekana vizuri kwenye mtandao?,recommendation_movies,7
+703,703.0,Unaenda kuona filamu ipi hotelini?,recommendation_movies,7
+704,704.0,"Jee, una filamu gani ya komedi inayofanya vizuri?",recommendation_movies,7
+705,705.0,Unaenda kuona filamu ipi klabu jioni?,recommendation_movies,7
+706,706.0,Nataka kuona filamu ipi leo usiku!,recommendation_movies,7
+707,707.0,Unasemaje kuhusu filamu ya DC?,recommendation_movies,7
+708,708.0,Tafadhali ona filamu gani inayofanyia vizuri kwenye YouTube.,recommendation_movies,7
+709,709.0,Nataka kuona filamu gani inayofanya vizuri kwenye IMDB.,recommendation_movies,7
+710,710.0,Mnaomba pendekezo la filamu moja ya kihistoria.,recommendation_movies,7
+711,711.0,Ni filamu gani ambazo zinaonyesha leo?,recommendation_movies,7
+712,712.0,Pendekeza filamu moja ya mwaka huu!,recommendation_movies,7
+713,713.0,"Jee, unaenda kuona filamu gani juzi?",recommendation_movies,7
+714,714.0,Kuna filamu gani kubwa kesho kwenye ukumbi?,recommendation_movies,7
+715,715.0,"Jee, unaenda kuona filamu gani wiki hii?",recommendation_movies,7
+716,716.0,Niambie filamu gani iliyopendekezwa na watu wengi.,recommendation_movies,7
+717,717.0,Pendekeza filamu ambazo zinanichezesha klabu!,recommendation_movies,7
+718,718.0,Tafadhali ona filamu gani ambayo inaniletea burudani!,recommendation_movies,7
+719,719.0,Pendekezeni filamu ambazo zinanifanya kukosa usingizi!,recommendation_movies,7
+720,720.0,Ni filamu gani ambazo zinaonyesha ukubwa wake?,recommendation_movies,7
+721,721.0,"Niambie, filamu gani inayofaa kuonekana na marafiki?",recommendation_movies,7
+722,722.0,Nataka kuona filamu gani ambayo inanipatia hamu!,recommendation_movies,7
+723,723.0,Unaenda kuona filamu ipi wikiendi?,recommendation_movies,7
+724,724.0,Tafadhali pendekeza filamu moja yenye hadithi njema.,recommendation_movies,7
+725,725.0,Unaenda kuona filamu gani leo jioni?,recommendation_movies,7
+726,726.0,Unaenda kuona filamu ipi klabu?,recommendation_movies,7
+727,727.0,Unaenda kuona filamu gani mwanzo wa wiki?,recommendation_movies,7
+728,728.0,Tafadhali ona filamu ipi ninayotaka kuona klabu!,recommendation_movies,7
+729,729.0,Unasemaje kuhusu filamu ya Black Panther?,recommendation_movies,7
+730,730.0,Unasemaje kuhusu filamu ya action inayofanyia vizuri?,recommendation_movies,7
+731,731.0,Unaonyesha filamu ngapi kwenye mtandao wa klabu?,recommendation_movies,7
+732,732.0,Nimepata habari kwamba filamu gani inakuja soon?,recommendation_movies,7
+733,733.0,Filamu gani ambazo zinaonyesha ujanja mzuri?,recommendation_movies,7
+734,734.0,Kuna filamu gani ambazo zinasifika kuonekana?,recommendation_movies,7
+735,735.0,Tafadhali ona filamu hii ya kwanza.,recommendation_movies,7
+736,736.0,Tafadhali ona filamu hii ya mwanzo.,recommendation_movies,7
+737,737.0,Unaonyesha filamu ngapi kwenye mtandao?,recommendation_movies,7
+738,738.0,Pendekeza filamu moja iliyochezwa klabu!,recommendation_movies,7
+739,739.0,Una filamu gani ambazo zinafunguliwa klabu za filamu karibu na mimi?,recommendation_movies,7
+740,740.0,Unaenda kuona filamu ipi leo jioni?,recommendation_movies,7
+741,741.0,Ni filamu gani ambazo zinaonyesha ukubwa?,recommendation_movies,7
+742,742.0,"Niambie, je! Filamu gani inacheza karibu nawe?",recommendation_movies,7
+743,743.0,Filamu gani zinafuatazo klabu kesho kutoka klabu?,recommendation_movies,7
+744,744.0,Una filamu gani ya kupendezwa?,recommendation_movies,7
+745,745.0,"Je, una filamu gani ya mapenzi?",recommendation_movies,7
+746,746.0,Tafadhali pendekeza filamu ambazo zinaonyesha mapenzi!,recommendation_movies,7
+747,747.0,Ni filamu gani ambazo zinaonekana vizuri kwenye TV?,recommendation_movies,7
+748,748.0,"Niambie, filamu gani inayofaa kuonekana na rafiki?",recommendation_movies,7
+749,749.0,Ni filamu gani ulizonazochezea?,recommendation_movies,7
+750,750.0,Kuna filamu gani kubwa klabu kesho?,recommendation_movies,7
+751,751.0,Unaenda kuona filamu ipi kesho?,recommendation_movies,7
+752,752.0,Unataka kuona filamu ipi leo jioni?,recommendation_movies,7
+753,753.0,Ona filamu ipi ambayo inanifuraha sana klabu!,recommendation_movies,7
+754,754.0,"Je, una filamu gani ya mapenzi yanayofaa kwangu?",recommendation_movies,7
+755,755.0,Filamu gani zinachezwa karibu na mimi?,recommendation_movies,7
+756,756.0,Pendekeza filamu moja ambayo inanifurahisha!,recommendation_movies,7
+757,757.0,Una filamu gani ambazo zinafanya vizuri kwenye Netflix?,recommendation_movies,7
+758,758.0,Ninahitaji pendekezo la filamu ambalo linanisaidia!,recommendation_movies,7
+759,759.0,Filamu gani ambazo zinaonyesha maigizo mazuri?,recommendation_movies,7
+760,760.0,Mnaomba pendekezo la filamu moja ya kimafia.,recommendation_movies,7
+761,761.0,Una filamu gani ya kuburudisha?,recommendation_movies,7
+762,762.0,Ni filamu gani ambazo zinaonekana vizuri kwenye runinga?,recommendation_movies,7
+763,763.0,Filamu gani zinafuatazo kesho kutoka klabu?,recommendation_movies,7
+764,764.0,"Niambie, filamu gani inayofaa kuonekana na familia?",recommendation_movies,7
+765,765.0,Onyesheni filamu nzuri sana.,recommendation_movies,7
+766,766.0,Pendekeze filamu moja iliyochezwa katika eneo langu leo.,recommendation_movies,7
+767,767.0,"Jee, una filamu gani ya drama inayofanya vizuri?",recommendation_movies,7
+768,768.0,Ona filamu ipi ambayo inanifuraha sana!,recommendation_movies,7
+769,769.0,Onyesheni filamu nzuri sana zinazochewa katika eneo langu.,recommendation_movies,7
+770,770.0,Unaenda kuona filamu gani leo asubuhi?,recommendation_movies,7
+771,771.0,Ni filamu gani ambazo zinaonyesha ubora wa juu?,recommendation_movies,7
+772,772.0,"Je, unaonyesha filamu ngapi kwenye ukumbi?",recommendation_movies,7
+773,773.0,Nataka kuona filamu ipi klabu leo usiku!,recommendation_movies,7
+774,774.0,Pendekeza filamu moja iliyochezwa jana.,recommendation_movies,7
+775,775.0,Unasemaje kuhusu filamu ya Marvel?,recommendation_movies,7
+776,776.0,Pendekeza filamu moja iliyochezwa karibu na mimi.,recommendation_movies,7
+777,777.0,Una filamu gani ya kusisimua?,recommendation_movies,7
+778,778.0,"Je, unaenda kuona filamu gani mwisho?",recommendation_movies,7
+779,779.0,Ni filamu gani uliyonachochezea klabu leo?,recommendation_movies,7
+780,780.0,Kuna filamu gani ambazo zinanitaka kuiona mara ngapi?,recommendation_movies,7
+781,781.0,Ni filamu gani ambazo zinaonyesha uwezekano mkubwa?,recommendation_movies,7
+782,782.0,Ni filamu gani ambazo zinaonekana vizuri kwenye kompyuta?,recommendation_movies,7
+783,783.0,Pendekezeni filamu moja iliyochezwa katika eneo langu.,recommendation_movies,7
+784,784.0,Onyesheni filamu nzuri sana ambazo zinanichezea!,recommendation_movies,7
+785,785.0,Tafadhali ona filamu hii ya mwisho.,recommendation_movies,7
+786,786.0,Ninahitaji pendekezo la filamu ambalo linanivutia!,recommendation_movies,7
+787,787.0,Nataka kuona filamu gani ambayo inanipendezesha!,recommendation_movies,7
+788,788.0,Tafadhali pendekeza filamu moja iliyochezwa mwaka huu.,recommendation_movies,7
+789,789.0,Pendekeza filamu moja iliyochezwa klabu leo!,recommendation_movies,7
+790,790.0,Mnaipendezaji filamu gani kwa wiki hii?,recommendation_movies,7
+791,791.0,Unasemaje kuhusu filamu ya Avengers?,recommendation_movies,7
+792,792.0,Mnaipendezaji filamu gani kwa mwezi huu?,recommendation_movies,7
+793,793.0,Filamu gani ambazo zinaonekana kuwa na hadithi njema?,recommendation_movies,7
+794,794.0,Mnaomba pendekezo la filamu ambalo linanipa furaha!,recommendation_movies,7
+795,795.0,Kuna filamu gani ambazo zinanitaka kuiona tena?,recommendation_movies,7
+796,796.0,Mnaomba pendekezo la filamu moja iliyochezwa wiki hii.,recommendation_movies,7
+797,797.0,Tafadhali ona filamu ipi ninayotaka kuona!,recommendation_movies,7
+798,798.0,Niambie filamu gani iliyopendekezwa na wataalamu.,recommendation_movies,7
+799,799.0,Ni filamu gani uliyonachochezea klabu?,recommendation_movies,7
+800,800.0,niweke tiketi moja ya gari la moshi inayosafiri kwenda Mwanza,transport_ticket,8
+801,801.0,Ninahitaji tikiti ya gari la moshi kwa safari ya Nairobi hadi Mombasa.,transport_ticket,8
+802,802.0,Niweke tikiti ya gari la moshi kwa ajili ya safari ya Dar es Salaam.,transport_ticket,8
+803,803.0,Tikiti ya gari la moshi itasambazwa kwa ajili ya wageni wote,transport_ticket,8
+804,804.0,Nipatie tikiti moja ya gari la moshi inayosafiri kwenda Nakuru,transport_ticket,8
+805,805.0,ninahitaji kukata tikiti ya gari la moshi ya kwenda Moshi,transport_ticket,8
+806,806.0,Tikiti ya gari la moshi imewekwa katika mfumo wa kompyuta.,transport_ticket,8
+807,807.0,Programu ya tiketi ya gari la moshi imetokana na matatizo mengi.,transport_ticket,8
+808,808.0,Weka tikiti ya gari la moshi kwenda Kisumu leo,transport_ticket,8
+809,809.0,Nimepiga tikiti ya gari la moshi kwa safari yetu kuelekea Dodoma,transport_ticket,8
+810,810.0,Nipe tikiti ya gari la moshi kwa safari kwenda Arusha leo.,transport_ticket,8
+811,811.0,Nimetafsiri tikiti ya gari la moshi kwa safari kwenda Kigali.,transport_ticket,8
+812,812.0,Unataka tikiti ya gari la moshi kwa ajili ya safari kwenda Zanzibar?,transport_ticket,8
+813,813.0,Niagize tiketi moja ya gari la moshi iliyoondokana Arusha.,transport_ticket,8
+814,814.0,Ninahitaji kupokea tikiti ya gari la moshi kwa simu yangu,transport_ticket,8
+815,815.0,Nikupa tikiti ya gari la moshi kwa safari kwenda Mtwara.,transport_ticket,8
+816,816.0,Tikiti ya gari la moshi imewekwa kwa ajili ya safari ya Mbeya.,transport_ticket,8
+817,817.0,weka tiketi ya gari la moshi kwenda Ruvuma,transport_ticket,8
+818,818.0,Tuma tikiti ya abiria kwa ajili ya safari kwenda Dar es Salaam,transport_ticket,8
+819,819.0,ninahitaji tikiti ya gari la moshi kwa safari ya Nairobi,transport_ticket,8
+820,820.0,Nataka kupata tikiti ya gari la moshi kwa njia ya Arusha,transport_ticket,8
+821,821.0,Niweke tiketi ya gari la moshi kwa ajili ya wakati wa usalama.,transport_ticket,8
+822,822.0,Nimechukua tikiti ya gari la moshi kwa safari yetu kuelekea Zanzibar,transport_ticket,8
+823,823.0,Wewe una tikiti ya gari la moshi kwenda Dodoma?,transport_ticket,8
+824,824.0,Je ununuzi wa tiketi ya gari la moshi unaonyesha thamani yake?,transport_ticket,8
+825,825.0,niweke tiketi moja ya gari la moshi inayosafiri kwenda Dodoma,transport_ticket,8
+826,826.0,Nipe tikiti moja ya gari la moshi kwenda Mombasa leo.,transport_ticket,8
+827,827.0,Tikiti ya gari la moshi zinauzwa kwa bei ndogo sana,transport_ticket,8
+828,828.0,Jaza fomu ya kupokea tikiti ya gari la moshi,transport_ticket,8
+829,829.0,Ninahitaji tikiti mbili za gari la moshi kwa safari ya Kisumu.,transport_ticket,8
+830,830.0,Ninahitaji tikiti ya gari la moshi kwa safari yetu kuelekea Mwanza.,transport_ticket,8
+831,831.0,nunua tiketi la gari la moshi la kutoka Kigali,transport_ticket,8
+832,832.0,Unaomba tikiti moja ya gari la moshi kwa mtihani wa saba,transport_ticket,8
+833,833.0,piga simu kupata tikiti ya gari la moshi kwenda Mtwara,transport_ticket,8
+834,834.0,niwekee tiketi ya saa mbili asubuhi ya wasafiri kwenda Tanga,transport_ticket,8
+835,835.0,Tikiti ya gari la moshi imefunguliwa kwa ajili ya wahudumu wote,transport_ticket,8
+836,836.0,Jipatie tikiti ya gari la moshi kwa safari zako kwenda Mombasa,transport_ticket,8
+837,837.0,Tafadhalini niuzie tiketi ya gari la moshi kwa ajili ya shule.,transport_ticket,8
+838,838.0,Ninahitaji tikiti ya gari la moshi kwa ajili ya safari ya familia.,transport_ticket,8
+839,839.0,Nimetengenezea tikiti ya gari la moshi kwa ajili ya safari kwenda Mombasa,transport_ticket,8
+840,840.0,Ninahitaji tikiti ya gari la moshi kwa ajili ya sherehe ya krismasi.,transport_ticket,8
+841,841.0,Weka tiketi ya gari la moshi kwenda Kisumu leo usiku.,transport_ticket,8
+842,842.0,Safari yetu itachukua tikiti za gari la moshi kwa kila kituo cha reli.,transport_ticket,8
+843,843.0,Unataka tiketi ya gari la moshi kwa ajili ya safari ya mikoani.,transport_ticket,8
+844,844.0,Kuna tiketi ya gari la moshi ambayo inanunuliwa kwa bei rahisi.,transport_ticket,8
+845,845.0,Ninahitaji kupiga chati ya tikiti ya gari la moshi,transport_ticket,8
+846,846.0,Tikiti ya gari la moshi ni lazima kwa safari yetu iliyojipanga.,transport_ticket,8
+847,847.0,Nitapokea tikiti ya gari la moshi kwa safari yetu kuelekea Nairobi,transport_ticket,8
+848,848.0,Tikiti ya gari la moshi imefunguliwa kwa ajili ya watu wote.,transport_ticket,8
+849,849.0,Ninahitaji tikiti ya gari la moshi kwa safari kwenda Eldoret.,transport_ticket,8
+850,850.0,Ninahitaji tikiti moja ya gari la moshi kwa safari ya Dodoma.,transport_ticket,8
+851,851.0,Tikiti ya gari la moshi ni lazima kwa watalii wote,transport_ticket,8
+852,852.0,Ninataka kupata tikiti ya gari la moshi kwa safari ya Nairobi.,transport_ticket,8
+853,853.0,Kuna tikiti ngapi za gari la moshi zilizobaki kwa safari yetu?,transport_ticket,8
+854,854.0,tafuta tikiti za gari la moshi kwenda Kisii kesho,transport_ticket,8
+855,855.0,Niagize tiketi ya gari la moshi kwa mwisho wa wiki hii,transport_ticket,8
+856,856.0,Tikiti ya gari la moshi zimekwisha uzi kwa ajili ya Eid.,transport_ticket,8
+857,857.0,Jipatie tikiti ya gari la moshi kwa safari zako kwenda Morogoro,transport_ticket,8
+858,858.0,Unaomba tikiti mbili za gari la moshi kwa shindano la riadha,transport_ticket,8
+859,859.0,Kuna tikiti mbalimbali za gari la moshi kwenda Mbeya,transport_ticket,8
+860,860.0,nunua tiketi la gari la moshi la kutoka Dar es Salaam leo,transport_ticket,8
+861,861.0,Tikiti ya gari la moshi zinapatikana katika kituo cha reli,transport_ticket,8
+862,862.0,nunua tiketi la gari la moshi la kutoka Bujumbura,transport_ticket,8
+863,863.0,niwekee tiketi ya saa saba asubuhi ya wasafiri kwenda Lindi,transport_ticket,8
+864,864.0,Jenga tikiti ya gari la moshi kwa mwendo wa jioni kwenda Kilimanjaro.,transport_ticket,8
+865,865.0,Ninahitaji tikiti ya gari la moshi kwa safari yetu kuelekea Mwanza,transport_ticket,8
+866,866.0,Nitakosa tikiti ya gari la moshi kama sitapewa huduma bora,transport_ticket,8
+867,867.0,Nitaweka tikiti ya gari la moshi kwa ajili ya safari ya Moshi.,transport_ticket,8
+868,868.0,Safari yetu itatoka Moshi kwa tikiti ya gari la moshi,transport_ticket,8
+869,869.0,Safari yetu itatumia tikiti za gari la moshi kwa kila kituo cha reli.,transport_ticket,8
+870,870.0,weka tiketi ya gari la moshi kwenda Mbeya,transport_ticket,8
+871,871.0,Tafadhalini tikiti za gari la moshi zinazofaa kwa safari yetu.,transport_ticket,8
+872,872.0,Tunaomba tikiti mbili za gari la moshi kwa mwisho wa wiki hii,transport_ticket,8
+873,873.0,piga simu kupata tikiti ya gari la moshi kwenda Zanzibar,transport_ticket,8
+874,874.0,Niagize tikiti ya gari la moshi kwa safari zetu kwenda Kisumu,transport_ticket,8
+875,875.0,Unaona tikiti ya gari la moshi kwa ajili ya safari kwenda Morogoro,transport_ticket,8
+876,876.0,tafuta tikiti za gari la moshi kwenda Morogoro kesho,transport_ticket,8
+877,877.0,Nikusanye tikiti ya gari la moshi kwa ajili ya safari kwenda Arusha,transport_ticket,8
+878,878.0,Weka tikiti ya gari la moshi kwa ajili ya safari ya Nakuru.,transport_ticket,8
+879,879.0,Tunaonyesha tikiti ya gari la moshi kwa wageni wetu,transport_ticket,8
+880,880.0,Tikiti ya gari la moshi imefunguliwa kwa watu wote kwenda Mombasa.,transport_ticket,8
+881,881.0,Ninapendezwa na programu ya tiketi ya gari la moshi iliyotengenezwa.,transport_ticket,8
+882,882.0,Nataka kupokea tiketi ya gari la moshi kwa ajili ya safari yetu.,transport_ticket,8
+883,883.0,niagizie tiketi ya gari la moshi kwelekea Lusaka,transport_ticket,8
+884,884.0,Ninahitaji tikiti ya gari la moshi kwa ajili ya msafari wa saba.,transport_ticket,8
+885,885.0,Programu ya tiketi ya gari la moshi imetengenezwa kwa wakati huu.,transport_ticket,8
+886,886.0,Nitapelekwa tikiti ya gari la moshi kwa ajili ya safari ya Arusha.,transport_ticket,8
+887,887.0,Ninahitaji kupokea tikiti ya gari la moshi kwenda Dodoma kesho.,transport_ticket,8
+888,888.0,Unaomba tikiti moja ya gari la moshi kwa mwana wa miaka mitatu,transport_ticket,8
+889,889.0,"Tikiti ya gari la moshi imepotelea, je ninaweza kupata kitengo?",transport_ticket,8
+890,890.0,Tikiti ya gari la moshi zinapatikana kwa bei rahisi kwenda Ruvuma.,transport_ticket,8
+891,891.0,Nimetuma tikiti ya gari la moshi kwa mtu mwenzangu.,transport_ticket,8
+892,892.0,Weka tikiti ya gari la moshi kwenda Dar es Salaam leo usiku,transport_ticket,8
+893,893.0,Programu ya tiketi ya gari la moshi ya kusafiri kwenda Nairobi,transport_ticket,8
+894,894.0,Tafadhali niuzie tiketi ya gari la abiria kwa mwisho wa wiki hii.,transport_ticket,8
+895,895.0,Tafadhalini tikiti ya gari la moshi kwa safari kwenda Mbeya.,transport_ticket,8
+896,896.0,niagizie tiketi ya gari la moshi kwelekea Kampala,transport_ticket,8
+897,897.0,programu ya tiketi ya gari la moshi ya kusafirisha abiria,transport_ticket,8
+898,898.0,Unaomba tikiti mbili za gari la moshi kwa shule ya msingi,transport_ticket,8
+899,899.0,Niagize tiketi moja ya gari la moshi iliyoondokana Dar es Salaam.,transport_ticket,8
+900,900.0,Kuna mvua kubwa katika mji wa Mombasa?,weather_query,9
+901,901.0,Mtu yeyote ana habari za hali ya hewa?,weather_query,9
+902,902.0,mvua inapita lini jioni?,weather_query,9
+903,903.0,je ni klabu la hewa gani leo?,weather_query,9
+904,904.0,Nani ambaye ana habari za hali ya hewa?,weather_query,9
+905,905.0,je unaeza tuambia kuhusu hali ya hewa ya Mombasa?,weather_query,9
+906,906.0,kunanyesha Arusha leo asubuhi?,weather_query,9
+907,907.0,je hali ya hewa itakuwa vipi Jumanne?,weather_query,9
+908,908.0,Vipindi vya hali ya hewa vinavyotarajia ni vingapi?,weather_query,9
+909,909.0,Mwezi ujao unaonyesha mvua?,weather_query,9
+910,910.0,je ni hali gani ya hewa kesho yake?,weather_query,9
+911,911.0,je mvua itakuja tena leo?,weather_query,9
+912,912.0,Hali ya hewa itakuwa je kwenye safari yangu?,weather_query,9
+913,913.0,Hali ya hewa ya leo ni ipi?,weather_query,9
+914,914.0,"Je, hali ya hewa itakuwa nzuri leo?",weather_query,9
+915,915.0,Kutakuwa na jua la kali kesho?,weather_query,9
+916,916.0,tafadhaliambia mimi kuhusu hali ya hewa ya kesho,weather_query,9
+917,917.0,Jinsi gani nilivyokuwa na hali ya hewa juzi?,weather_query,9
+918,918.0,Una habari gani za hali ya hewa ya leo?,weather_query,9
+919,919.0,Kutakuwa na ukungu kubwa kesho?,weather_query,9
+920,920.0,unajua klabu la hewa la juzi?,weather_query,9
+921,921.0,Kuna ukungu katika mji wa Nairobi?,weather_query,9
+922,922.0,Kuna theluji katika milima ya Kilimanjaro?,weather_query,9
+923,923.0,je unaeza jua kama itakuwa na ukungu leo?,weather_query,9
+924,924.0,Nitapata habari za hali ya hewa wapi?,weather_query,9
+925,925.0,tafadhali ambieni habari za hali ya hewa ya leo,weather_query,9
+926,926.0,mvua inatoka lini jioni?,weather_query,9
+927,927.0,je ni hali gani ya hewa leo?,weather_query,9
+928,928.0,itakuwaje tena kesho yake?,weather_query,9
+929,929.0,Kunaonyesha mvua leo hii?,weather_query,9
+930,930.0,Habari za hali ya hewa za kesho ni zipi?,weather_query,9
+931,931.0,Habari za hali ya hewa za mwezi ujao ni zipi?,weather_query,9
+932,932.0,ni vipi hali ya hewa katika miezi michache ijayo?,weather_query,9
+933,933.0,tafadhaliambia mimi kuhusu hali ya hewa ya wiki iliyopita,weather_query,9
+934,934.0,je hali ya hewa itakuwa aje Alhamisi?,weather_query,9
+935,935.0,Habari za hali ya hewa za leo ni zipi?,weather_query,9
+936,936.0,mvua itakuja lini?,weather_query,9
+937,937.0,mvua haijawahi kuwa hapa Nairobi?,weather_query,9
+938,938.0,Nataka kujua habari za hali ya hewa ya kesho.,weather_query,9
+939,939.0,Mvua inanyesha katika miji mikubwa leo?,weather_query,9
+940,940.0,je hali ya hewa itakuwa aje kesho asubuhi?,weather_query,9
+941,941.0,je hali ya hewa itakuwa aje jioni?,weather_query,9
+942,942.0,ni wapi pa kuona hali ya hewa ya Afrika Mashariki?,weather_query,9
+943,943.0,je hali ya hewa itakuwa aje katika wiki hii?,weather_query,9
+944,944.0,je unajua kama itakuwa na jua leo?,weather_query,9
+945,945.0,mwezi ujao unaenda kuwa na theluji?,weather_query,9
+946,946.0,Tafadhaliambia habari za hali ya hewa za wiki hii.,weather_query,9
+947,947.0,kunanyesha Kisumu leo?,weather_query,9
+948,948.0,"Je, itakuwaje jioni kesho?",weather_query,9
+949,949.0,Sifa za hali ya hewa za kesho ni zipi?,weather_query,9
+950,950.0,je unaeza jua kama itakuwa na jua kesho?,weather_query,9
+951,951.0,"Je, hali ya hewa itakuwa aje jioni?",weather_query,9
+952,952.0,je unaeza tuambia kuhusu hali ya hewa ya Thika?,weather_query,9
+953,953.0,tafadhali ona hali ya hewa ya Dar es Salaam,weather_query,9
+954,954.0,"Je, kunaonyesha jua leo?",weather_query,9
+955,955.0,Tafadhaliambia mimi kuhusu hali ya hewa ya kesho.,weather_query,9
+956,956.0,Jioni itakuwa na jua au mvua?,weather_query,9
+957,957.0,je hali ya hewa itakuwa aje katika mwezi ujao?,weather_query,9
+958,958.0,"Je, itakuwaje tena jioni?",weather_query,9
+959,959.0,Mvua itanyesha lini hapa Nairobi?,weather_query,9
+960,960.0,ni vipi hali ya hewa kesho?,weather_query,9
+961,961.0,Siku moja ijayo itakuwa na mvua?,weather_query,9
+962,962.0,Mwezi ujao unaonyesha jua?,weather_query,9
+963,963.0,"Je, hali ya hewa itakuwa salama leo?",weather_query,9
+964,964.0,Kutakuwa na jua leo asubuhi?,weather_query,9
+965,965.0,"Je, kutakuwa na ukungu usiku?",weather_query,9
+966,966.0,tafadhaliambia mimi kuhusu hali ya hewa ya mwezi ujao,weather_query,9
+967,967.0,"Je, kuna mvua kesho?",weather_query,9
+968,968.0,Hali ya hewa ipo je?,weather_query,9
+969,969.0,unajua klabu la hewa la jana?,weather_query,9
+970,970.0,tafadhali ona hali ya hewa ya Nakuru,weather_query,9
+971,971.0,Ni lini mvua inatakiwa kuisha?,weather_query,9
+972,972.0,Ni vipi hali ya hewa katika miji mikubwa?,weather_query,9
+973,973.0,je ni klabu la hewa gani kesho?,weather_query,9
+974,974.0,unaeza tuambia kuhusu hali ya hewa ya Nairobi?,weather_query,9
+975,975.0,itakuwaje tena Jumatatu?,weather_query,9
+976,976.0,unaeza tuambia kuhusu hali ya hewa ya Eldoret?,weather_query,9
+977,977.0,Itakuwaje wiki hii mjini Dar es Salaam?,weather_query,9
+978,978.0,kunanyesha Mombasa leo asubuhi?,weather_query,9
+979,979.0,Una habari gani za hali ya hewa ya wiki hii?,weather_query,9
+980,980.0,je unaeza jua hali ya hewa leo?,weather_query,9
+981,981.0,je hali ya hewa itakuwa aje Jumanne?,weather_query,9
+982,982.0,"Je, kuna mvua kesho asubuhi?",weather_query,9
+983,983.0,Itakuwaje tena wiki hii?,weather_query,9
+984,984.0,habari za hali ya hewa ya juma?,weather_query,9
+985,985.0,unaeza tuambia kuhusu hali ya hewa ya Kisumu?,weather_query,9
+986,986.0,"Je, hali ya hewa itakuwa aje mwezi ujao?",weather_query,9
+987,987.0,Habari za hali ya hewa za wiki hii ni zipi?,weather_query,9
+988,988.0,mvua haijawahi kuwa hapa Dar es Salaam?,weather_query,9
+989,989.0,Kutakuwa na baridi sana kesho?,weather_query,9
+990,990.0,je hali ya hewa itakuwa aje katika wiki ijayo?,weather_query,9
+991,991.0,tafadhali ambieni habari za hali ya hewa ya wiki hii,weather_query,9
+992,992.0,Nitafanya nini kesho kutokana na mvua?,weather_query,9
+993,993.0,je hali ya hewa itakuwa vipi Ijumaa?,weather_query,9
+994,994.0,je unaeza jua kama itakuwa na mvua leo?,weather_query,9
+995,995.0,Nitafanya nini kesho kutokana na hali ya hewa?,weather_query,9
+996,996.0,ni wapi pa kuona hali ya hewa ya dunia?,weather_query,9
+997,997.0,habari za hali ya hewa ya wiki hii?,weather_query,9
+998,998.0,Ni kwanza kumiliki habari za hali ya hewa?,weather_query,9
+999,999.0,Siku zote za wiki hii zinaonyesha mvua?,weather_query,9
+0,,cheza kitabu cha kusikiliza cha mwendazake,play_audiobook,6
+1,,mimi nakupendekeza filamu iliyochezwa wiki iliyopita,recommendation_movies,7
+2,,nifanyeze utabiri wa hali ya hewa kesho,weather_query,9
+3,,je ni vipaji gani vinavyohitajika kuoka chumvi,cooking_recipe,3
+4,,mimi niliweka kengele/ngapi nitakuonya?,alarm_query,0
+5,,Punguza sauti hadi itakufaa,audio_volume_down,1
+6,,"Jee, unaeza badilisha saa kutoka IST kwenda EST?",datetime_convert,4
+7,,Ningependa kupata barua pepe kwa mamake,email_sendemail,5
+8,,Sasa nataka kukuandikia barua pepe ili kukujulisha habari zilizofuata,email_sendemail,5
+9,,Futa kalenda yote ya mwaka huu,calendar_remove,2
+10,,Unaenda kuoshea mayai kwa dakika ngapi?,cooking_recipe,3
+11,,Ninahitaji kupata taarifa za hali ya hewa ya Toronto.,weather_query,9
+12,,fungua kitabu cha kusikiliza cha kahawa,play_audiobook,6
+13,,tunaomba pendekezo la filamu njema zilizotoka mwaka jana,recommendation_movies,7
+14,,Kuna kengele gani ambazo hazijawekwa hadi sasa?,alarm_query,0
+15,,Tafadhali nijulishe namna ya kupika samaki.,cooking_recipe,3
+16,,habari za hali ya hewa za kesho zinatoka wapi?,weather_query,9
+17,,fungua masikio yangu ili niacheze kitabu,play_audiobook,6
+18,,Tafadhali punguka kiwango cha sauti,audio_volume_down,1
+19,,Rejea kucheza kitabu cha kusikiliza changu,play_audiobook,6
+20,,Endelea na kitabu cha audio cha riwaya,play_audiobook,6
+21,,filamu zijulikanazo mwanzo kabisa ambazo ninapendekeza kwako,recommendation_movies,7
+22,,Mtuze barua pepe kwa anwani hii mpya ya kazini,email_sendemail,5
+23,,Kuna kengele gani za kufanyiwa matibabu leo?,alarm_query,0
+24,,jaribu kutuma barua pepe kwa mwenzangu aliyeko katika ofisi,email_sendemail,5
+25,,Hali ya hewa ya Nairobi itakuwaje mwisho wa wiki?,weather_query,9
+26,,Unaenda kunywesha chai kwa kiwango gani cha sukari?,cooking_recipe,3
+27,,taja tiketi za gari la moshi kwenda morogoro leo usiku,transport_ticket,8
+28,,Fungua Audible na cheza kitabu cha mfululizo,play_audiobook,6
+29,,kuna kengele gani kimewekwa kwenye simu yangu?,alarm_query,0
+30,,ghairi mikutano yote iliyoandikwa kwa kalenda yangu,calendar_remove,2
+31,,"Ongea kwa sauti dogo, tafadhali.",audio_volume_down,1
+32,,Tafadhali unyweshe sauti yako,audio_volume_down,1
+33,,Ni wakati gani mwafaka wa kupika choma?,cooking_recipe,3
+34,,piga tiketi ya gari la moshi kwenda Mwanza kesho asubuhi,transport_ticket,8
+35,,tumia barua pepe kuwasiliana na familia yangu iliyoko nje,email_sendemail,5
+36,,Cheza simulizi ya kitabu cha kiingereza,play_audiobook,6
+37,,taja tiketi ya gari la moshi kwenda zanzibar kesho yake,transport_ticket,8
+38,,Fungua masaa ya kitabu cha kusikiliza cha safari,play_audiobook,6
+39,,je ni vipaji vyote vilivyoletwa katika kupika samaki?,cooking_recipe,3
+40,,Cheza simulizi ya kitabu cha kiswahili cha watoto,play_audiobook,6
+41,,Natumai kutuma barua pepe kwa ajili ya kukamilisha mradi,email_sendemail,5
+42,,taja sauti ili isikike vyema,audio_volume_down,1
+43,,Futa tukio langu lililokuwepo kwa Juni mosi kwenye kalenda,calendar_remove,2
+44,,unajua hali ya hewa ya california leo ni ipi?,weather_query,9
+45,,Tafadhali nihitaji tiketi moja ya treni kuwenda zanzibar,transport_ticket,8
+46,,Unataka kujua hali ya hewa ya Nairobi leo?,weather_query,9
+47,,Jinsi ya kupika mchuzi wa biringani inakuwaza?,cooking_recipe,3
+48,,niko Nairobi saa kumi na mbili mchana je wakati unaenda kuwa saa ngapi Kisumu,datetime_convert,4
+49,,Filamu gani zinabamba sana katika klabu za sinema mjini?,recommendation_movies,7
+50,,"Mimi nakushauri uone filamu ya ""Titanic"" kwani inanipa hisia kali sana.",recommendation_movies,7
+51,,Wezesha tiketi yangu ya gari la moshi kwenda morogoro,transport_ticket,8
+52,,Saa moja jioni katika Mombasa nini kuhusu wakati katika Nairobi,datetime_convert,4
+53,,kweli uliweka kengele ya saa moja mchana?,alarm_query,0
+54,,Unaonyesha habari za hali ya hewa kesho?,weather_query,9
+55,,nitafute recepti ya vitafeli vya uhindi,cooking_recipe,3
+56,,Rejea kucheza hadithi niliyokuwa nasikizana,play_audiobook,6
+57,,Jinsi ya kupika samaki ni ipi?,cooking_recipe,3
+58,,"Sikiliza, nilikuwa nakutafuta filamu moja inanifuraha sana, je unaielewa?",recommendation_movies,7
+59,,Unaona saa ngapi katika Mombasa kama ni saa kumi na moja unasuku Nairobi?,datetime_convert,4
+60,,ondoa sherehe zote za kesho toka kwa kalenda,calendar_remove,2
+61,,Unajua filamu gani zinazalishwa na Steven Spielberg? Niambie,recommendation_movies,7
+62,,"Sauti ni kali sana, punguza kidogo",audio_volume_down,1
+63,,Futa mikutano yote katika kalenda yangu,calendar_remove,2
+64,,Ni filamu gani zinazochewa kwenye TV leo? Nihitaji kupata habari.,recommendation_movies,7
+65,,"Je, ni vipaji gani vinavyohitajika kupika chakula cha kuku?",cooking_recipe,3
+66,,"--
+Mtumie barua pepe kwa mama yangu akipata msaada wa matibabu",email_sendemail,5
+67,,Jaribu kutuma barua pepe kwa mfanyakazi wa kituo cha habari,email_sendemail,5
+68,,"Kuna filamu moja inanitaka kuielezea, je unataka kuitazama?",recommendation_movies,7
+69,,Badilisha saa zetu kutoka IST kwenda EAT ili nipate wakati sahihi.,datetime_convert,4
+70,,nifanyeze kitendo cha uvuli kwa ajili ya safari yangu ya leo?,weather_query,9
+71,,Unaenda kuituma barua pepe kwa mwenzangu ili kumuelezea habari njema,email_sendemail,5
+72,,badilisha saa zangu kutoka utc kwenda cst,datetime_convert,4
+73,,tunataka jinsi ya kupikia chumvi,cooking_recipe,3
+74,,Rejea kucheza kitabu chako cha hadithi,play_audiobook,6
+75,,"Je, hali ya anga ya dar es salaam itakuwaje?",weather_query,9
+76,,Tunahitaji kuwasiliana na mfanyakazi wake kwa barua pepe ili kupata msaada wa kifedha,email_sendemail,5
+77,,Ninahitaji tiketi mbili za gari la moshi kwenda Arusha wiki hii,transport_ticket,8
+78,,ninahitaji resipe ya matooke yalele,cooking_recipe,3
+79,,Cheza kitabu cha kusikiliza cha uchambuzi wa maisha ya binadamu,play_audiobook,6
+80,,Cheza simulizi ya kitabu cha kusikiliza cha Safari yetu!,play_audiobook,6
+81,,Weka tikiti ya ndege kwenda Dar es Salaam kesho yake,transport_ticket,8
+82,,Hifadhi tiketi yangu ya gari la moshi kwenda Nairobi wiki ijayo,transport_ticket,8
+83,,Cheza simulizi ya kitabu cha historia,play_audiobook,6
+84,,taja tiketi zote za safari kwendaDodoma,transport_ticket,8
+85,,Saa zangu zote zinaonyesha saa ngapi katika arusha?,datetime_convert,4
+86,,naomba habari za hali ya anga kwa ajili ya mikoa yetu ya pwani?,weather_query,9
+87,,andika barua pepe kwa bwana mdogo ili afahamu matukio yanayofuata,email_sendemail,5
+88,,tunaonyesha filamu ngumu za kimataifa,recommendation_movies,7
+89,,futa tukio langu lililokuwepo kesho,calendar_remove,2
+90,,Ni kengele gani uliwekwa jana?,alarm_query,0
+91,,Unajua filamu gani zinazidiwa na watoto?,recommendation_movies,7
+92,,"Jioni, je, hali ya hewa itakuwaje Nairobi?",weather_query,9
+93,,"Ninataka kujua kwanza kabla ya safari yangu kesho, je, itakuwaje hali ya hewa?",weather_query,9
+94,,chukuwa sauti nyuma kidogo,audio_volume_down,1
+95,,Niambie ninapata tiketi ya gari la moshi kwenda Dodoma,transport_ticket,8
+96,,eweza kuongea juu ya kengele iliyowekwa jana?,alarm_query,0
+97,,Weka tikiti ya ndege kwenda zanzibar kesho,transport_ticket,8
+98,,ninaweka kengele ya saa ngapi leo?,alarm_query,0
+99,,Tunabadilisha saa za London kwenda saa za New York,datetime_convert,4
+100,,Ninataka kupika matunda ya machungwa.,cooking_recipe,3
+101,,Unaendaleea? Tafadhali tuma barua pepe kwa dada yako,email_sendemail,5
+102,,Ninahitaji kujua kama kengele iliwekwa leo asubuhi.,alarm_query,0
+103,,Sasa tumia barua pepe kwa mfanyakazi wake ili kupata maagizo mapya,email_sendemail,5
+104,,Wezesha tiketi yangu ya gari la moshi kwenda kigoma wiki jioni,transport_ticket,8
+105,,unawezaje kunipa muda wa kengele iliyochezwa?,alarm_query,0
+106,,tunahitaji kufahamu kama kengele iliwekwa asubuhi,alarm_query,0
+107,,ghairi miadi na afisa wa elimu kwa wiki ijao,calendar_remove,2
+108,,je ni saa ngapi hapa Kisumu wakati ni saa kumi na tisa jioni Nairobi,datetime_convert,4
+109,,kungele la muda gani litaftiana?,alarm_query,0
+110,,Sisi tutakuambia klabu yetu kupitia barua pepe ili wasikilizwe,email_sendemail,5
+111,,Tuma barua pepe kwa rafiki yangu ili kumuongeza kwenye orodha ya wasiliani,email_sendemail,5
+112,,Tafadhali tutume barua pepe kwa shirika la afya ili kupata ushirikiano wao,email_sendemail,5
+113,,Rudisha barua pepe kwa jaji kuonyesha ushahidi wa kesi isize,email_sendemail,5
+114,,Filamu gani uliowatch mwisho? Mimi nilionekana Wonder Woman ambayo ilinishukuru.,recommendation_movies,7
+115,,nilipendezwa na filamu ya 'avengers',recommendation_movies,7
+116,,Unaenda kuniambia kiwango cha sukari katika kupika keki.,cooking_recipe,3
+117,,niko na maswali mengi juu ya badilishano la wakati,datetime_convert,4
+118,,je kengele iliyowekwa saa ngapi?,alarm_query,0
+119,,Tafadhali futa tukio la kupanga klabu wiki ijao,calendar_remove,2
+120,,Endelea kucheza kitabu cha kusikiliza cha riwaya,play_audiobook,6
+121,,habari za hali ya anga za mikoani leo?,weather_query,9
+122,,Fungua kitabu cha hadithi cha Kiswahili,play_audiobook,6
+123,,Natumai kukuandikia barua pepe ili tuweze kupanga mkutano wa wiki ijayo,email_sendemail,5
+124,,ninahitaji kujua kama kungele kimewekwa,alarm_query,0
+125,,itakuwa saa ngapi jioni hapa Dar es Salaam?,datetime_convert,4
+126,,nataka kupata tiketi ya ndege kuenda dubai,transport_ticket,8
+127,,Nahitaji tiketi moja ya gari la moshi kwenda Dodoma unaweza kuniwekea hiyo,transport_ticket,8
+128,,punguza sauti ili tusikie vyema,audio_volume_down,1
+129,,Jinsi ya kupika maharage yako imetosha!,cooking_recipe,3
+130,,Badilisha ukanda wa saa kuwa New York.,datetime_convert,4
+131,,Tafadhali niambie jinsi ya kupika maharage yenye viungo.,cooking_recipe,3
+132,,Ghairi matukio yote ya wiki ijao katika kalenda yangu,calendar_remove,2
+133,,Cheza hadithi yangu ya Kiswahili,play_audiobook,6
+134,,Umelea kengele kwenye simu yako lini?,alarm_query,0
+135,,Niambie filamu gani zijulikanazo kwa ubora wake katika mwaka huu,recommendation_movies,7
+136,,futa tukio lililoandikiwa Juni mosi kutoka kwa kalenda yangu,calendar_remove,2
+137,,badilisha saa ya IST ili kupata saa ya EST,datetime_convert,4
+138,,Hifadhi tiketi kiti cha kulala na garimoshi kwenda kampala wiki ijao,transport_ticket,8
+139,,Cheza klabu ya kusikiliza ya mwana wa mfalme!,play_audiobook,6
+140,,Unaonyesha ukarasa wa kumtumia barua pepe ili tuweze kufanya maboresho,email_sendemail,5
+141,,Weka sauti mwanzo kabisa,audio_volume_down,1
+142,,Cheza simulizi yangu ya kusikiliza,play_audiobook,6
+143,,Cheza kitabu cha kusikiliza kwa sauti ya mama,play_audiobook,6
+144,,Uliwekaje kengele ya simu yako juzi?,alarm_query,0
+145,,tafadhali futa tukio la wiki hii katika kalenda yangu,calendar_remove,2
+146,,Ninahitaji kukiona habari za hali ya hewa ya Nairobi leo,weather_query,9
+147,,taja tiketi ya ndege ili nipate kuenda london,transport_ticket,8
+148,,fungua kitabu cha kusikiliza kwa mara nyingine,play_audiobook,6
+149,,Ninahitaji recepte ya matooke ya kisasa.,cooking_recipe,3
+150,,Ni kengele gani uliwekwa klabu jioni?,alarm_query,0
+151,,Tunataka badilisha saa zetu kutoka GMT kwenda EAT.,datetime_convert,4
+152,,Ninahitaji kukata tikiti ya basi kwenda arusha leo usiku,transport_ticket,8
+153,,ondoa tukio lolote katika kalenda ya sasa,calendar_remove,2
+154,,Unaenda kuwasiliana nami kwa barua pepe klabu yetu itakuwa ikifanya kazi vizuri,email_sendemail,5
+155,,kuna kengele gani ambazo zimewekwa jana?,alarm_query,0
+156,,nimepata mwito wa kengele lakini sijui ni lile,alarm_query,0
+157,,Tafadhali ona recepte ya kuku ya kizuri.,cooking_recipe,3
+158,,Ni wakati gani uma katika Tanga ikiwa ni saa kumi na moja jioni hapa Dar es Salaam,datetime_convert,4
+159,,Cheza kitabu cha kusikiliza cha riwaya!,play_audiobook,6
+160,,Pendezaku filamu iliyochezwa jana katika sinema ya Nairobi,recommendation_movies,7
+161,,Tiketi za gari la treni zinauzwa katika kituo cha reli,transport_ticket,8
+162,,itakuwa saa ngapi katika london ikiwa ni saa kumi na moja jioni hapa,datetime_convert,4
+163,,Ghairi matukio yote katika kalenda yangu hadi mwisho wa wiki,calendar_remove,2
+164,,ninahitaji kuona kengele zote nilizoweka,alarm_query,0
+165,,Je unataka kuona filamu gani leo?,recommendation_movies,7
+166,,nataka kujua hali ya hewa ya Zanzibar mwaka huu,weather_query,9
+167,,Tafadhali una habari za kutengeneza cake ya matunda?,cooking_recipe,3
+168,,Cheza kitabu cha kusikiliza cha mashairi,play_audiobook,6
+169,,punguza sauti kwani ni kali mwingi,audio_volume_down,1
+170,,habari za hali ya anga zinaonyesha mvua kubwa jijini Nairobi,weather_query,9
+171,,Unaonyesha namna ya kupika ugali wa mtindi?,cooking_recipe,3
+172,,safari hii niliona filamu moja inanisukuma sana,recommendation_movies,7
+173,,Unaonyeshaa kuongea kuhusu filamu zijulikanazo. Je unaoweza kunipendekeza filamu njema kabisa?,recommendation_movies,7
+174,,sifa za hali ya hewa za stockholm mwisho wa wiki hii?,weather_query,9
+175,,tufanyeje kuhusu hali ya hewa ya klabu?,weather_query,9
+176,,Futa matukio yote ya mwezi ujao katika kalenda yangu,calendar_remove,2
+177,,mimi nakupendekelea filamu ya 'lion king',recommendation_movies,7
+178,,Tafadhali tumia barua pepe kuongea na familia yangu,email_sendemail,5
+179,,Nataka kupata tiketi ya ndege kuenda kilimanjaro,transport_ticket,8
+180,,naomba msaada wa kuandaa vyakula vya Eid,cooking_recipe,3
+181,,Endelea kucheza kitabu cha kusikiliza cha michezo,play_audiobook,6
+182,,Ni wapi naweza kupata habari za hali ya hewa ya Nairobi?,weather_query,9
+183,,Sauti ni kubwa sana punguza kidogo,audio_volume_down,1
+184,,Badilisha saa zako kutoka EAT kwenda CST.,datetime_convert,4
+185,,Nitaka tiketi ya gari la moshi kwenda Arusha kesho asubuhi,transport_ticket,8
+186,,Kama ni saa kumi na tano alasiri hapa ni saa ngapi Zanzibar?,datetime_convert,4
+187,,Fungua kitabu cha hadithi ambacho nataka kusikizwa,play_audiobook,6
+188,,kuna kengele gani za kuchukua katika simu yangu?,alarm_query,0
+189,,"--
+Tuma barua pepe kwa rafiki yangu ambaye anaishi mbali na kupata maelezo mengi",email_sendemail,5
+190,,mwizi ana kengele ngapi ulioweka juzi,alarm_query,0
+191,,itakasa sauti mpaka kiwango cha chini,audio_volume_down,1
+192,,bonyeza tu kwenye kengele ili nijue muda wake!,alarm_query,0
+193,,Ningetaka kupata barua pepe kwa ajili ya kazi mpya,email_sendemail,5
+194,,Ninahitaji msaada wa kupika matooke.,cooking_recipe,3
+195,,punguza sauti kwani ni kubwa sana,audio_volume_down,1
+196,,ona tiketi zangu za gari la moshi kwenda zanzibar,transport_ticket,8
+197,,"Sauti imekuwa kubwa sana, punguzeni",audio_volume_down,1
+198,,Unaenda kuandika barua pepe kwa mwenzako ili kukubaliana na mikutano isize,email_sendemail,5
+199,,Mtuandike barua pepe kwa wahusika ili waajiriwe katika kazi hiyo,email_sendemail,5
+200,,unataka kujua hali ya anga ya Nairobi leo?,weather_query,9
+201,,Rejea kucheza kitabu cha kusikiliza ulichoacha,play_audiobook,6
+202,,fungua masikio ya kitabu cha hadithi ya zamani,play_audiobook,6
+203,,chagua filamu ambazo zitakuwa zaweza kukuchezea usiku wa leo,recommendation_movies,7
+204,,toa barua pepe kwa vyombo vya habari kusoma habari za leo,email_sendemail,5
+205,,Jitume barua pepe kwa msichana wangu akueleze juu ya matangazo mapya,email_sendemail,5
+206,,Tunataka kujua wakati unaofaa katika Mombasa ikiwa ni saa sita asubuhi hapa Kisumu,datetime_convert,4
+207,,tunaweka kengele ngapi kila siku,alarm_query,0
+208,,Fungua kitabu cha kusikiliza cha sasa,play_audiobook,6
+209,,Fungua kitabu cha kusikiliza cha mahadhi kuendelea,play_audiobook,6
+210,,ondoa vyama vyote vya wikendi kutoka kwa kalenda yangu,calendar_remove,2
+211,,sikia unaeza kupatiana tiketi ya gari la moshi kwenda mwanza?,transport_ticket,8
+212,,Unaenda kuituma barua pepe kwangu leo usiku,email_sendemail,5
+213,,nipatie tiketi ya treni kwenda arusha kesho yake,transport_ticket,8
+214,,Tafadhali unyweshe sauti yangu kuwa chini.,audio_volume_down,1
+215,,Niwekee tikiti ya ndege kwenda zanzibar,transport_ticket,8
+216,,Kuna kengele gani zimeshatiwa kwenye simu yako?,alarm_query,0
+217,,"--
+Naomba utume barua pepe kwa jina langu la kwanza ili nipate kujua historia yake",email_sendemail,5
+218,,punguza sauti hivi kwani ni kubwa mno,audio_volume_down,1
+219,,nataka kujua kama kengele yangu imewekwa,alarm_query,0
+220,,Unaenda kuwasiliana nami kupitia barua pepe,email_sendemail,5
+221,,sikia tiketi za gari la moshi za kuondokana na abiria wengine,transport_ticket,8
+222,,filamu gani zinatakiwa kuonekana katika klabuni kwako?,recommendation_movies,7
+223,,habari za hali ya hewa ya mombasa wiki ijazo,weather_query,9
+224,,futa kalenda yangu kamili kabisa,calendar_remove,2
+225,,Tafadhali nifundishe jinsi ya kupika ugali wa kitambo.,cooking_recipe,3
+226,,Cheza kitabu cha kusikiliza cha Riwaya ya Mwandishi,play_audiobook,6
+227,,tuma barua pepe kwa mkewe ili aweze kupata habari za kazi,email_sendemail,5
+228,,"ona sauti imekwenda juu sana, punguzakidogo",audio_volume_down,1
+229,,sifa za filamu zijulikanea vyema katika klabu za sinema,recommendation_movies,7
+230,,tengeneza upya kalenda yangu bila matukio yoyote,calendar_remove,2
+231,,Piga niketi ya gari la moshi kwenda morogoro klabu ya usalama wiki hii,transport_ticket,8
+232,,Badilisha ukanda wa saa kuwa Tokyo,datetime_convert,4
+233,,jioni haya habari za hali ya hewa,weather_query,9
+234,,Endelea kucheza kitabu cha kusikiliza cha kisayansi,play_audiobook,6
+235,,Piga cheza kitabu cha kusikiliza cha maisha yangu,play_audiobook,6
+236,,mimi ninahitaji tiketi moja ya gari la moshi kwenda arusha,transport_ticket,8
+237,,Una saa ngapi Kisumu ikiwa ni saa kumi na moja jioni Nairobi?,datetime_convert,4
+238,,tunaonyesha filamu ngumu ambazo zinahitaji kupata,recommendation_movies,7
+239,,Unaenda kushare na mimi jinsi ya kukagua chapati?,cooking_recipe,3
+240,,Ghairi tukio la kuonana na rafiki zetu kesho,calendar_remove,2
+241,,Kataa sauti kiasi kwanza kabla hatujaongea.,audio_volume_down,1
+242,,Badilisha saa za Istanbul kwenda saa za Kenya tarehe ya leo,datetime_convert,4
+243,,Google ninahitaji tiketi moja ya gari la moshi kwenda dodoma unaweza kuniwekea hiyo,transport_ticket,8
+244,,Rejea kucheza kitabu cha kusikiliza cha mwisho uliosikia!,play_audiobook,6
+245,,"Sauti imekwenda juu mwingi, punguza kidogo.",audio_volume_down,1
+246,,Cheza mwanzo wa kitabu cha kusikiliza cha mwanamke,play_audiobook,6
+247,,ghairi mikutano yote iliyopo katika kalenda ya sasa,calendar_remove,2
+248,,Kuna mtindo gani mzuri zaidi wa kupika samaki katika microwave?,cooking_recipe,3
+249,,tuma barua pepe kwa mama yangu ukimwambia amefanya vyema leo,email_sendemail,5
+250,,enda kucheza kitabu chako cha masikio,play_audiobook,6
+251,,Unaenda kuituma barua pepe kwa jirani yako leo,email_sendemail,5
+252,,"Sauti yenyewe imekwenda juu, punguzeni.",audio_volume_down,1
+253,,Unaonyesha hali ya hewa ya kimataifa kwanza?,weather_query,9
+254,,Ongea kwa uwazi wa kupunguza sauti,audio_volume_down,1
+255,,Nachoma aje samaki katika microwave?,cooking_recipe,3
+256,,Ni wapi naweza pata jinsi ya kupika ugali?,cooking_recipe,3
+257,,Punguza sauti yote ili tupate kusikiliza!,audio_volume_down,1
+258,,ondooa mikutano yote kwa kalenda,calendar_remove,2
+259,,tunataka kujua wakati unaofaa katika Kisumu leo,datetime_convert,4
+260,,Niambie kama kuna uwezekano wa mvua katika hali ya hewa ya leo?,weather_query,9
+261,,Tafadhali pendekeza filamu moja ambayo inanifuraha sasa,recommendation_movies,7
+262,,Piga tiketi ya gari la moshi kuingia nairobi wiki hii,transport_ticket,8
+263,,Cheza kitabu cha kusikiliza cha riwaya ya kwanza,play_audiobook,6
+264,,"kuna filamu moja inayofanana na ile ambayo umeliona awali, jaribu kuiongelea tena",recommendation_movies,7
+265,,ninahitaji kuona kengele iliyo muda wake?,alarm_query,0
+266,,Futa tukio la kuongea na rafiki yangu kesho asubuhi,calendar_remove,2
+267,,futa matukio yote kesho,calendar_remove,2
+268,,punguza sauti kwenye kiwango cha chini kabisa,audio_volume_down,1
+269,,Kuna saa ngapi Mombasa ikiwa ni saa kumi jioni hapa Nairobi?,datetime_convert,4
+270,,sifa za filamu hizo zipendeza watu wengi,recommendation_movies,7
+271,,Ninahitaji msaada wa kupika supu ya biringani.,cooking_recipe,3
+272,,tunaomba tiketi za abiria wa gari la moshi kutoka Nakuru hadi Eldoret,transport_ticket,8
+273,,Fungua kipindi cha kusikiliza cha riwaya zetu za Kiswahili,play_audiobook,6
+274,,nifanyeze hali ya hewa ya dar es salaam kesho?,weather_query,9
+275,,ondooa tarehe zote za matukio kwa kalenda,calendar_remove,2
+276,,sikilizwi tiketi ya gari la moshi ili nipate kuingiza safari yangu kwenda Cape Town,transport_ticket,8
+277,,kungeleza vipi kwenye simu yangu?,alarm_query,0
+278,,Je unaonyesha filamu zijinisizo za mwaka huu,recommendation_movies,7
+279,,nataka kuona kengele zote nilizoweka,alarm_query,0
+280,,Punguza sauti ili tusikilize vizuri.,audio_volume_down,1
+281,,Pika aje chajio cha maharage.,cooking_recipe,3
+282,,"Sauti imekuwa kubwa sana, punguza kidogo tafadhali.",audio_volume_down,1
+283,,Cheza kitabu cha kusikiliza cha mwanafalsafa wa Kitanzania,play_audiobook,6
+284,,Tafadhali unyweshe kiwango cha sauti ili tuweze kuwasiliana.,audio_volume_down,1
+285,,saa ngapi ilivyo hapa Mombasa kwa sasa,datetime_convert,4
+286,,Rejea kucheza kitabu cha audio cha habari,play_audiobook,6
+287,,Ninahitaji tiketi mbili za gari la moshi kwenda Nairobi jioni,transport_ticket,8
+288,,mimi niliweka kengele lini?,alarm_query,0
+289,,badilisha saa kutoka bst kwenda est ili nipate saa sawa hapa arusha,datetime_convert,4
+290,,Ongea kwa uwazi wa kupunguza sauti.,audio_volume_down,1
+291,,Tuma barua pepe kwa mkewe ili aweze kupata taarifa hizo,email_sendemail,5
+292,,Unaenda kusimulia habari za hali ya hewa ya Chicago?,weather_query,9
+293,,Unaenda kuituma barua pepe kwa mkurugenzi wa kitengo cha masuala ya kimataifa,email_sendemail,5
+294,,Rudisha barua pepe kwa mkewe ili ajue kilichoendelea,email_sendemail,5
+295,,Ghairi matukio yote ya wiki hii kwenye kalenda yangu,calendar_remove,2
+296,,Ninahitaji kupata taarifa za hali ya hewa ya leo.,weather_query,9
+297,,kuna kengele gani ambazo hazijawekiwa,alarm_query,0
+298,,"nina kengele gani zilizopokewa jana?
+tunapata kengele gani klabu kesho?
+je kungele gani lililowekwa juzi?
+nina kengele gani za kuchezwa asubuhi!",alarm_query,0
+299,,Punguza sauti hivi sasa kabisa,audio_volume_down,1
+300,,tunaonyesha habari za hali ya hewa ya dar es salaam,weather_query,9
+301,,Tafadhali ondoa mikutano yote katika kalenda yangu,calendar_remove,2
+302,,Ninahitaji recipe ya ukoko wa samaki.,cooking_recipe,3
+303,,"Je, utabiri wa hali ya hewa unaonyesha mvua leo?",weather_query,9
+304,,Tafadhali nisaidie kupika ugali wa kienyeji.,cooking_recipe,3
+305,,"Sauti ni kubwa, punguza kidogo",audio_volume_down,1
+306,,Punguza sauti ili tusikie vyema,audio_volume_down,1
+307,,kungele la saa ngapi limekwenda?,alarm_query,0
+308,,piga simu kuongea na mtumishi wa tiketi za gari la moshi,transport_ticket,8
+309,,nitafute jinsi ya kupika samaki wa kukaanga,cooking_recipe,3
+310,,ninahitaji resipe ya matooke,cooking_recipe,3
+311,,Tunataka kujua itakuwa saa ngapi saa moja unaone jioni hapa cairo,datetime_convert,4
+312,,Punguza sauti ili wasikilize vyema.,audio_volume_down,1
+313,,toa tafadhali mikutano yote katika kalenda yangu,calendar_remove,2
+314,,Niambie filamu zijenisizo za akina Will Smith zilizotoka mwaka jana,recommendation_movies,7
+315,,Una weka kengele ya saa ngapi leo?,alarm_query,0
+316,,Rejea kucheza kitabu cha kusikiliza cha mwanamke wa zamani,play_audiobook,6
+317,,Saa moja unasuba katika zanzibar nini kuhusu wakati katika dodoma,datetime_convert,4
+318,,Nataka kujua kama kengele iliowekwa leo?,alarm_query,0
+319,,nilipendezwa sana na filamu ya action hiyo,recommendation_movies,7
+320,,ondoa sherehe ya krismasi kwenye kalenda,calendar_remove,2
+321,,tunaweka kengele ngapi kwa masaa mawili usiku?,alarm_query,0
+322,,"Ukiomba filamu kali, najua moja inanifuraha, itaitwa ""Safari""",recommendation_movies,7
+323,,mimi nataka kujua kama kengele imekwepa leo!,alarm_query,0
+324,,Mimi ninataka kujua jinsi ya kupika ugali.,cooking_recipe,3
+325,,Ningetaka kwenda kuona ikaonyesha ninatumai barua pepe kwa mtu huyu,email_sendemail,5
+326,,piga tiketi ya gari la moshi kwenda Mwanza kwa ajili ya krismasi,transport_ticket,8
+327,,Tafadhali punguza kiwango cha sauti kwani kinawaka.,audio_volume_down,1
+328,,tunataka kuona resipe ya uji wa mtama,cooking_recipe,3
+329,,itikishe sauti kidogo tafadhali,audio_volume_down,1
+330,,Badilisha eneo la saa kutoka eneo la GMT hadi eneo la saa za Afrika Mashariki,datetime_convert,4
+331,,Tiketi za gari la moshi za watu watatu kutoka tanga hadi mbeya,transport_ticket,8
+332,,nipe tiketi yote ya gari la moshi kwenda Mbeya wiki hii,transport_ticket,8
+333,,"Sauti imekuwa kubwa mwingi, punguza!",audio_volume_down,1
+334,,kungelelea kwenye simu yangu kuna kengele gani?,alarm_query,0
+335,,tunahitaji kulijua kama kungele limekwenda salama?,alarm_query,0
+336,,badilisha wakati kutoka GMT hadi wakati wa Afrika Mashariki,datetime_convert,4
+337,,unaona kengele ngapi za saa hivi,alarm_query,0
+338,,"kama ni saa kumi na tisa jioni hapa Nairobi, je ni saa ngapi katika Kampala?",datetime_convert,4
+339,,Tunataka kujua wakati unaofaa ili kubadilisha saa kutoka Tokyo kwenda Paris,datetime_convert,4
+340,,Unaenda kumtumia barua pepe kwa mkewe wa jirani,email_sendemail,5
+341,,Mtuze barua pepe kwa mama yangu kuonyesha kwamba niko salama,email_sendemail,5
+342,,Tuma barua pepe kwa ndugu yangu ili niwasiliane nae mara moja,email_sendemail,5
+343,,futa matukio yangu yote katika kalenda,calendar_remove,2
+344,,punguza sauti hivi kwani kuna msemo mkali,audio_volume_down,1
+345,,nimeona filamu moja ambayo itaita,recommendation_movies,7
+346,,jioni leo itakuwaje kwenye hali ya hewa?,weather_query,9
+347,,naona kengele iliowekwa lini?,alarm_query,0
+348,,Niambie niende wapi kwa nyakati ili nipate tiketi ya gari la moshi,transport_ticket,8
+349,,Hali ya hewa ya Mombasa itakuwa je tarehe klabu?,weather_query,9
+350,,Endelea kucheza kitabu cha kusikiliza cha Riwaya ya Mwandishi!,play_audiobook,6
+351,,badilisha wakati ukitokea eneo la saa za paris kwenda eneo la saa za stockholm,datetime_convert,4
+352,,Endelea kucheza kitabu cha mganga-mfalme,play_audiobook,6
+353,,Piga tiketi moja ya gari la moshi kuwenda morogoro kesho ytuka,transport_ticket,8
+354,,Cheza simulizi ya kitabu cha kiswahili cha sasa,play_audiobook,6
+355,,jee unaona hali ya hewa ya zanzibar itakuwaje wiki ijao?,weather_query,9
+356,,unajua filamu gani zijulikanazo na hadithi njema,recommendation_movies,7
+357,,habari za hali ya hewa za leipzig leo ni zipi?,weather_query,9
+358,,filamu ya mwaka mzima ni ile ambayo inanipenda,recommendation_movies,7
+359,,Jioni nitakuambia kama kengele itawekwa vipindi vyote?,alarm_query,0
+360,,Niambie niende wapi kwa nyakati kupata tiketi ya gari la moshi kwenda kampala,transport_ticket,8
+361,,Tiketi za gari la moshi za watu wanne kutoka Nairobi hadi Mombasa,transport_ticket,8
+362,,safari yetu itatoka lini? ninahitaji tiketi ya gari la moshi kwenda Mbeya,transport_ticket,8
+363,,"Ongea kwa utulivu zaidi tafadhali, punguza sauti yako.",audio_volume_down,1
+364,,Kunaonyesha klabu la hali ya anga lini?,weather_query,9
+365,,"Niambie kwanza kabla ya kurudi kazini, je hali ya anga ipo njema?",weather_query,9
+366,,Pasha kitabu cha kusikiliza cha klabu,play_audiobook,6
+367,,Nina papa ninawezaje kuandaa muffin za matunda?,cooking_recipe,3
+368,,Kataa sauti ili tuwasikie vyema,audio_volume_down,1
+369,,sifa moja ambayo ninapendekeza filamu hii ni kwamba inaonyesha vitendo vyake vizuri sana,recommendation_movies,7
+370,,enda klabu la kusikiliza na cheza hadithi hiyo,play_audiobook,6
+371,,Hali ya hewa ya Mumbai itakuwaje mwisho wa wiki?,weather_query,9
+372,,Unaomba msaada wa kupika samaki wa kukaanga?,cooking_recipe,3
+373,,Weza kengele ya saa kumi na mbili?,alarm_query,0
+374,,"Sauti ni kubwa sana, punguka",audio_volume_down,1
+375,,Ni wapi naweza pata jinsi ya kupika ugali wa kitambo?,cooking_recipe,3
+376,,uliamua kugeuza kengele lako la asubuhi?,alarm_query,0
+377,,tunaweka kengele ipi leo?,alarm_query,0
+378,,je ni saa ngapi hapa dar es salaam ikiwa ni saa kumi na tano jioni hapa london,datetime_convert,4
+379,,nimeona filamu moja ambayo itafurahi sana kwako,recommendation_movies,7
+380,,Kama ni saa kumi jioni arusha ni saa ngapi moshi,datetime_convert,4
+381,,Badilisha saa hii ya IST kwenda EST.,datetime_convert,4
+382,,toa mikutano yote ya wiki ijayo,calendar_remove,2
+383,,"Sauti imekwenda juu mwingi, punguza!",audio_volume_down,1
+384,,Jitolee kumtumia barua pepe kwa kaka yangu,email_sendemail,5
+385,,Ni wapi naweza pata jinsi ya kupika ugali wa kisasa?,cooking_recipe,3
+386,,"ona sauti imekwenda juu, punguza kidogo",audio_volume_down,1
+387,,tangaza kitabu cha kusikiliza kinachosema,play_audiobook,6
+388,,nipe tiketi yangu ya gari la moshi kwenda Nairobi jioni,transport_ticket,8
+389,,nataka kutuma barua pepe kwa mkubwa wangu wa kampuni,email_sendemail,5
+390,,tuna kengele gani leo?,alarm_query,0
+391,,Tafadhali futa matukio yangu yote ya mwezi ujao,calendar_remove,2
+392,,je kengele yote iliwekwa?,alarm_query,0
+393,,Una habari gani za hali ya anga kesho?,weather_query,9
+394,,tunabadilisha wakati kutoka GMT hadi wakati wa Afrika Mashariki,datetime_convert,4
+395,,Ni wapi naweza kupata habari za hali ya hewa ya kigoma.,weather_query,9
+396,,Ninahitaji kuona kengele zote!,alarm_query,0
+397,,Ni namna gani ya kupika samaki?,cooking_recipe,3
+398,,Filamu zijulikanazo kucheza wiki ijayo ni zipi?,recommendation_movies,7
+399,,Fungua kitabu cha hadithi ya mapenzi,play_audiobook,6
+400,,je wakati unaofanana katika eneo la saa za moshi unapokuwa saa kumi na tano jioni hapa nairobi,datetime_convert,4
+401,,je unaonyesha filamu ambazo zinanipendekeza,recommendation_movies,7
+402,,"Sauti imekwenda juu mwingi, punguza.",audio_volume_down,1
+403,,Niambie jinsi ya kutengeneza mkate wa biskuti.,cooking_recipe,3
+404,,Ninahitaji kujua kama umewekelea kengele leo?,alarm_query,0
+405,,Punguza sauti katika kiwango cha chini kabisa.,audio_volume_down,1
+406,,Jitahidi kumtumia barua pepe kwa mwenzako ambaye ana mahali pake,email_sendemail,5
+407,,futa tukio lako katika kalenda,calendar_remove,2
+408,,tafadhali ondoa matangazo yote katika kalenda yangu,calendar_remove,2
+409,,nitarajia kengele yangu ya kazi kesho itakuwaje,alarm_query,0
+410,,"Sikujua kwamba ulivyoona filamu hiyo, lakini sina hakika kama utapendezwa na filamu hii nyingine.",recommendation_movies,7
+411,,Ondoa tukio la mkutano wa kazini uliolengwa kwa juma lijalo.,calendar_remove,2
+412,,Ondoa tafadhali matangazo yangu yote ya wiki hii,calendar_remove,2
+413,,naomba kujua kama kengele imekwisha wekwa,alarm_query,0
+414,,Fungua Audible na cheza hadithi yangu moja mwisho,play_audiobook,6
+415,,filamu gani zijazo zinatakiwa kuonekana kwenye runinga leo?,recommendation_movies,7
+416,,unaenda kuweka kengele ngapi jioni,alarm_query,0
+417,,"Kuna msemo wa sauti unaokuja, punguza mwanzo kabisa.",audio_volume_down,1
+418,,ondoya tukio la mkutano wa kamati ya usalama,calendar_remove,2
+419,,futa matangazo yote kwa kalenda yangu,calendar_remove,2
+420,,nipe tiketi ya ndege kwenda zanzibar,transport_ticket,8
+421,,piga tiketi ya treni ya mwisho kwenda Dodoma,transport_ticket,8
+422,,"filamu gani zinazofanana na ""Rambo"" ambazo ninataka kuona?",recommendation_movies,7
+423,,unaelekea mvua ikikuja leo hapa chicago?,weather_query,9
+424,,Unaonyesha namna ya kupika chapati za kienyeji?,cooking_recipe,3
+425,,Naomba utume barua pepe kwa watoto wangu ili wanijulishe kuwa salama,email_sendemail,5
+426,,Pendekeza filamu zijazo ambazo zitachezwa wiki ijayo,recommendation_movies,7
+427,,Ni saa ngapi sana hapa Mombasa?,datetime_convert,4
+428,,tunataka kujua wakati unaofaa kwa Kisumu ikiwa ni saa kumi na tano jioni hapa Nairobi,datetime_convert,4
+429,,"Unaonyesha mapenzi ya filamu, hebu ona hii ambayo inanipenda: ""Mwanga""!",recommendation_movies,7
+430,,naomba tiketi mbili za gari la moshi kwenda kampala,transport_ticket,8
+431,,filamu gani ambazo zinatakiwa kuonekana mwaka huu,recommendation_movies,7
+432,,je ni saa ngapi hapa Kenya kwa saa zenu za London,datetime_convert,4
+433,,Fungua mkusanyiko wa hadithi za kusikiliza,play_audiobook,6
+434,,Tafadhali nifundishe jinsi ya kupika chakula cha kitamaduni.,cooking_recipe,3
+435,,Kataa sauti kwa kiwango cha chini.,audio_volume_down,1
+436,,Punguza sauti hivi kweli,audio_volume_down,1
+437,,Endelea kucheza kitabu cha kusikiliza cha historia,play_audiobook,6
+438,,Tunataka kujua wakati unaofaa kuwa saa ngapi katika eneo la Pacific Standard Time,datetime_convert,4
+439,,"Wakati ni saa kumi na moja jioni hapa Nairobi, je una saa ngapi katika London?",datetime_convert,4
+440,,tunabadilisha wakati kutoka EST hadi wakati wa Kenya,datetime_convert,4
+441,,naomba tiketi ya gari la moshi kuelekea kilimanjaro,transport_ticket,8
+442,,"Unakimbilia sauti, punguza kidogo.",audio_volume_down,1
+443,,Ni jinsi gani hali ya hewa itakuwa kesho?,weather_query,9
+444,,Jinsi gani ya kupika kahawa yenye ladha na tamu?,cooking_recipe,3
+445,,sawa je umaarufu kwenye kengele iliyojiri?,alarm_query,0
+446,,Kama ni saa kumi na tano jioni Paris ni saa ngapi katika Mombasa,datetime_convert,4
+447,,Niwekeesha tiketi ya ndege kuenda Dar es Salaam kesho,transport_ticket,8
+448,,najua kengele iliyozewa leo?,alarm_query,0
+449,,Ninahitaji recipe ya matooke!,cooking_recipe,3
+450,,Ninataka kujua habari za hali ya hewa ya mikocheleo!,weather_query,9
+451,,Tunahitaji kukiona hali ya hewa ya mikoani ili tuweze kupanga mikakati yetu.,weather_query,9
+452,,"Unataka kuangalia filamu gani leo? Nimesikia kwamba ""The Avengers"" ni filamu bora kabisa!",recommendation_movies,7
+453,,Una habari gani za hali ya hewa ya Mombasa kwa wikendi?,weather_query,9
+454,,futa tukio la chama cha usalama kwa tarehe 15 juni kutoka kwa kalenda yangu,calendar_remove,2
+455,,Ninahitaji recipe ya ugali wa kisasa.,cooking_recipe,3
+456,,mimi sina kengele iliyo mwaka huu ila najiuliza kama nitaweza kupata msaada kukiona kama imekwenda sawa?,alarm_query,0
+457,,filamu iliyochezwa wiki iliyopita imekuwa ikifuraha sana,recommendation_movies,7
+458,,"Je, unaonyesha wakati unaofanana na wa Kenya?",datetime_convert,4
+459,,Unaonyesha jinsi ya kupika viazi vitamu kwa mchuzi wa pilipili?,cooking_recipe,3
+460,,Ghairi miadi yangu na mfanyabiashara kwa wiki hii,calendar_remove,2
+461,,habari za kengele zetu zimeandikwa vipi?,alarm_query,0
+462,,filamu gani zijalizo kwako?,recommendation_movies,7
+463,,Ondoa tafadhali matangazo yote katika kalenda yangu,calendar_remove,2
+464,,punguza sauti mpaka uwache kusikika vizuri,audio_volume_down,1
+465,,"Najua unaandika filamu ambazo zinanipenda, hebu ona hizi!",recommendation_movies,7
+466,,Fungua audiobook ya mwisho uliosikia!,play_audiobook,6
+467,,Ni wakati gani unaofaa ili kubadilisha saa kutoka New York kwenda London,datetime_convert,4
+468,,Ningependa kutuma barua pepe kwa rafiki zangu wa kazini,email_sendemail,5
+469,,mzuri sana ulivyouona filamu hiyo ya superhero?,recommendation_movies,7
+470,,ona tiketi za abiria wengi wa gari la moshi kwenda Mwanza,transport_ticket,8
+471,,futa matukio yote ya kesho,calendar_remove,2
+472,,badilisha saa za IST kwenda EST,datetime_convert,4
+473,,je ni vipi vyakupikia samaki wa kukaanga,cooking_recipe,3
+474,,tunahitaji kupata tahadhari za kengele zetu,alarm_query,0
+475,,Ni namna gani ya kupika samaki wa kukaanga?,cooking_recipe,3
+476,,punguza kiwango cha sauti,audio_volume_down,1
+477,,"Je, ni namna gani ya kupika kabichi ili kiwe kitamu?",cooking_recipe,3
+478,,Saa ngapi Mombasa ikiwa ni saa kumi na mbili unasuba hapa Nairobi?,datetime_convert,4
+479,,Kuna kengele gani kimetokea?,alarm_query,0
+480,,"Sijuwi filamu zijulikanazo za kisayansi kweli, je unaenda kuni-recommend?",recommendation_movies,7
+481,,Ongea kwa uwiano wa chini tafadhali!,audio_volume_down,1
+482,,Unaonyesha namna ya kupikia samaki katika microwave?,cooking_recipe,3
+483,,Jitume barua pepe kwa mkubwa wetu ili atujulishe,email_sendemail,5
+484,,"Filamu ya mwaka jana ilikuwa nzuri sana, usikose kukiona!",recommendation_movies,7
+485,,Ni wapi naweza pata jinsi ya kupika ugali wa kusonge?,cooking_recipe,3
+486,,"Ukitaka kuangalia filamu yenye matendo mengi, nipendekeze John Wick ambayo imepitia tuzo nyingi.",recommendation_movies,7
+487,,tunaona filamu gani zijazo zitakazochezwa wiki ijayo?,recommendation_movies,7
+488,,Ondoa tukio langu lililokuwepo kesho kutoka kwa kalenda,calendar_remove,2
+489,,Tafadhali uniambie hali ya hewa ya mombasa leo,weather_query,9
+490,,Saa zetu zinaonyesha saa ngapi ikiwa ni saa kumi na moja asubuhi hapa Kisumu,datetime_convert,4
+491,,tafadhali ondoa mikutano yote katika kalenda yangu,calendar_remove,2
+492,,Tafadhali ondoa sauti ili tusikie vyema,audio_volume_down,1
+493,,Futa tukio la klabu la usalama wa kompyuta kutoka kwa kalenda yangu,calendar_remove,2
+494,,ninataka kujua kama kungelezi kwako umefanya kazi vizuri,alarm_query,0
+495,,Hifadhi tiketi cha kulala na gari la moshi kwenda kilimanjaro jioni,transport_ticket,8
+496,,Niambie tiketi za gari la moshi za kuenda arusha,transport_ticket,8
+497,,toa mkutano wa kazini kwa wiki ijayo,calendar_remove,2
+498,,"Sauti ni kubwa sana, punguzeni!",audio_volume_down,1
+499,,unaona kengele zote zimekwepa?,alarm_query,0
+500,,ni kengele gani uliwekwa jana?,alarm_query,0
+501,,Mtumie mama barua pepe ili kumpongeza klabu yetu kushinda mashindano,email_sendemail,5
+502,,Kataa sauti ili tusikie vyema!,audio_volume_down,1
+503,,Mtumie simba barua pepe ili atujulishe matukio mapya,email_sendemail,5
+504,,Ondoa mkutano wote ukiwa umefanyika kesho,calendar_remove,2
+505,,Unaenda kusimamia hali ya hewa ya Nairobi kesho?,weather_query,9
+506,,Tafadhali pandekezea sauti yako ili tuweze kusikiliza vyema.,audio_volume_down,1
+507,,tuendelee kufanya mabadiliko ya wakati ili kupata saa sahihi katika chicago,datetime_convert,4
+508,,Ni eneo gani la wakati sisi ni katika tafadhali mabadiliko kwa saa za india,datetime_convert,4
+509,,Rejea kucheza kitabu cha Kiswahili,play_audiobook,6
+510,,Ninahitaji kupata habari za hali ya hewa ya leo ili nipange vizuri.,weather_query,9
+511,,Unaonyesha namna ya kukanda vitafalia vilivyoiva.,cooking_recipe,3
+512,,Cheza kitabu cha kusikiliza cha riwaya,play_audiobook,6
+513,,Pendekezea filamu za action zilizotolewa mwaka uliofunga.,recommendation_movies,7
+514,,Tafadhali futa tarehe yangu ya leo kwenye kalenda,calendar_remove,2
+515,,Unaenda kusaidia kuweka kengele ngapi ulioacha?,alarm_query,0
+516,,Nataka kupika kyama cha kisasa kesho.,cooking_recipe,3
+517,,Weka tikiti ya ndege kwenda zanzibar kesho yake,transport_ticket,8
+518,,nimesahau kengele ngapi niliweka jana,alarm_query,0
+519,,taja tiketi zote za safari kwenda kampala,transport_ticket,8
+520,,Unaona kengele iliyowekwa jana ilikuwaje?,alarm_query,0
+521,,Unaenda kuwasiliana naye kupitia barua pepe ili ajue habari zetu,email_sendemail,5
+522,,Tafadhaliniambia hali ya anga itakuwa je mjini Nairobi.,weather_query,9
+523,,Tafadhaliambia mimi kuhusu hali ya hewa ya Nairobi.,weather_query,9
+524,,Fungua kitabu cha kusikiliza cha riwaya,play_audiobook,6
+525,,futa matukio yangu yote,calendar_remove,2
+526,,fungua kitabu cha kusikiliza na uchezee,play_audiobook,6
+527,,Ninahitaji kupata taarifa za hali ya hewa ya mikoANI.,weather_query,9
+528,,"pendekezea filamu kali zaidi ambazo zimeshindi tuzo """,recommendation_movies,7
+529,,Hifadhi tiketi kiti cha kulala na garimoshi kwendaDodoma leo usiku,transport_ticket,8
+530,,Kuna filamu mbalimbali zijulikanazo kuwa na hadithi njema na mapigano makubwa.,recommendation_movies,7
+531,,jioni utakuwa na kengele gani?,alarm_query,0
+532,,Cheza kitabu chako cha kusikiliza sasa,play_audiobook,6
+533,,Saa kumi na moja jioni huku Nairobi ni saa ngapi Mombasa?,datetime_convert,4
+534,,"Ongea kwa sauti ndogo zaidi, tafadhali",audio_volume_down,1
+535,,"Je, una recipe ya kusaga chapati kwa kutumia mikate mipya?",cooking_recipe,3
+536,,Ni wapi naweza pata jinsi ya kupika chumvi kwa kiwanja cha kisasa?,cooking_recipe,3
+537,,Tafadhali punguza kiwango cha sauti,audio_volume_down,1
+538,,tujulishe sauti ili isipendekeze,audio_volume_down,1
+539,,unaona kengele gani uliwahi kuweka leo?,alarm_query,0
+540,,tafadhali ondoa tukio la kuongea na afisa ule kwa kalenda yangu,calendar_remove,2
+541,,Naombeni ukatue barua pepe kwa rafael ambaye ametulia katika kituo cha afya,email_sendemail,5
+542,,Tafadhaliambia mimi kuhusu hali ya anga ilivyo leo.,weather_query,9
+543,,nataka kujua kama kengele iliwekwa,alarm_query,0
+544,,punguza sauti hivi kwani imekuwa kubwa mno,audio_volume_down,1
+545,,Mimi ninahitaji kumpatia rafiki yangu barua pepe yenye matangazo hayo,email_sendemail,5
+546,,ghairi tukio la kuonana na rafiki yangu kesho kutoka kwa kalenda,calendar_remove,2
+547,,tulipendekeza filamu zetu zabeba kabisa kwenu,recommendation_movies,7
+548,,Punguza kiwango cha sauti,audio_volume_down,1
+549,,Cheza simulizi ya kitabu cha kiswahili changu,play_audiobook,6
+550,,Rejea kucheza hadithi yangu iliyopenda,play_audiobook,6
+551,,Una habari gani za hali ya hewa kwa wiki ijayo?,weather_query,9
+552,,je kengele lililowekwa jana ilikuwaje?,alarm_query,0
+553,,futa matukio mengi yanayofuata katika kalenda yangu,calendar_remove,2
+554,,Unipendekeezea filamu ambazo zitafanya nikubali kusoma hadithi,recommendation_movies,7
+555,,Mtuwie aliyenipatia habari zote kupitia barua pepe ya kampuni,email_sendemail,5
+556,,"Uliwahi kuona filamu ya ""Inception""? Ni filamu yenye akili ngumu sana!",recommendation_movies,7
+557,,rekebisha sauti yangu kuwa mwangavu zaidi,audio_volume_down,1
+558,,Unajua hali ya hewa itakuwaje kesho?,weather_query,9
+559,,Kataa sauti kiasi kwani inatisha,audio_volume_down,1
+560,,onana nitume barua pepe kwa msichana wangu ili tuongee kuhusu masomo yetu,email_sendemail,5
+561,,Unaomba nielekeeze filamu njema kabisa?,recommendation_movies,7
+562,,Filamu ya marufuku iliyochezwa wiki iliyopita ni lazima uone!,recommendation_movies,7
+563,,nimepoteza kengele yangu je umaarufu wake,alarm_query,0
+564,,Fungua Audible na cheza hadithi yangu moja,play_audiobook,6
+565,,Weka tikiti ya ndege kuenda zanzibar siku hii,transport_ticket,8
+566,,nakupa tiketi yako ya gari la moshi kwenda Zanzibar wiki ijayo,transport_ticket,8
+567,,tunataka kujua wakati unaofaa katika dar es salaam,datetime_convert,4
+568,,tunaomba kufahamu wakati uliofika katika Mombasa ikiwa ni saa kumi na mbili asubuhi hapa Dar es Salaam,datetime_convert,4
+569,,Naomba utume barua pepe kwa ajili ya kuthibitisha muda wa mikutano,email_sendemail,5
+570,,"Filamu ya mwisho niliyonona ilikuwa nzuri, nakupa moyo ufanye ukionona!",recommendation_movies,7
+571,,cheza kitabu cha kusikiliza cha simulizi wa kitambo,play_audiobook,6
+572,,Tafuta resipe ya chapati ya kienyeji!,cooking_recipe,3
+573,,Kataa sauti kwani inaniumiza.,audio_volume_down,1
+574,,Endelea kucheza kitabu cha mwendazake,play_audiobook,6
+575,,tafadhali futa tukio la klabu la usalama wa kompyuta kesho,calendar_remove,2
+576,,je ni saa ngapi katika london wakati ni saa kumi na nane usiku hapa,datetime_convert,4
+577,,Punguza sauti mpaka kiwango cha chini,audio_volume_down,1
+578,,filamu gani zinatoka mwaka huu ambazo zinanipendekeza,recommendation_movies,7
+579,,toa mikutano yote iliyomo katika kalenda yangu,calendar_remove,2
+580,,je hali ya hewa itakuwaje kesho?,weather_query,9
+581,,nataka kupokea tiketi yangu ya gari la moshi,transport_ticket,8
+582,,tunatarajia hali ya hewa ipi leo katika eneo la dar es salaam?,weather_query,9
+583,,Unaendeleaje? Tuma barua pepe kwa wanafamilia wote,email_sendemail,5
+584,,Endelea kucheza kitabu cha audio cha riwaya,play_audiobook,6
+585,,mimi ninahitaji tiketi ya treni ya kusafiri kwenda mwanza,transport_ticket,8
+586,,punguza sauti mpaka itakapo mwema,audio_volume_down,1
+587,,Cheza hadithi katika kitabu cha kusikiliza,play_audiobook,6
+588,,naomba tafadhali unipe moyo wa kuangalia filamu hii,recommendation_movies,7
+589,,Hifadhi tiketi kiti cha kulala na garimoshi kwenda Kisumu wiki ijayo,transport_ticket,8
+590,,Ninahitaji resipe ya matooke ili niandalie leo.,cooking_recipe,3
+591,,habari za kengele iliyowekwa kwa saa kumi na mbili?,alarm_query,0
+592,,Ondoa mikutano yote katika kalenda yangu kuanzia leo,calendar_remove,2
+593,,unaona kengele ngapi umeweka kwa simu yako?,alarm_query,0
+594,,Cheza simulizi ya kitabu cha Kiswahili cha maisha,play_audiobook,6
+595,,unawezaje kusaidia kumfanya mtu ajue kama ameeka kengele,alarm_query,0
+596,,Nimeona filamu moja ambayo itaitajika kwako.,recommendation_movies,7
+597,,Rejea kucheza kitabu chako cha maridhiano,play_audiobook,6
+598,,Mwandikie barua pepe kwa afisa usalama ili kupata taarifa zaidi,email_sendemail,5
+599,,Kataa sauti kwa kasi ili tusikie vyema.,audio_volume_down,1
+600,,Unaonyesha jinsi ya kupika mboga za kienyeji?,cooking_recipe,3
+601,,"nimeona filamu moja inanifurahisha sana, je ungependeza kuiona?",recommendation_movies,7
+602,,una kengele gani ulioweka klabuni mwaka huu?,alarm_query,0
+603,,Rejea kucheza kitabu cha kusikiliza cha historia!,play_audiobook,6
+604,,ni matarajio makubwa kwako kuona filamu hiyo leo usiku,recommendation_movies,7
+605,,Ghairi mkutano wako ujao kwa wiki hii,calendar_remove,2
+606,,mimi nakushauri kuangalia filamu iliyochezwa wiki iliyopita,recommendation_movies,7
+607,,Tafadhali unaonyesha habari za hali ya anga ya Nairobi?,weather_query,9
+608,,naomba habari za hali ya hewa za jimbo la new york.,weather_query,9
+609,,Kuna filamu njema ambazo unazipenda?,recommendation_movies,7
+610,,Unaenda tuendelee kwenye barua pepe ili tuzunguke klabu mpya,email_sendemail,5
+611,,Nipendekeze filamu iliyochezwa mara kwa mara kwenye TV.,recommendation_movies,7
+612,,Nataka kuwasiliana na daktari kwa barua pepe ili kupata taarifa zaidi juu ya matibabu yake,email_sendemail,5
+613,,Ninahitaji kujua idadi ya Celsius kwa hali ya hewa ya Mombasa leo.,weather_query,9
+614,,Niambie ninapataje tiketi za gari la moshi kwenda mwanza,transport_ticket,8
+615,,Wakati unaonyesha saa moja asubuhi huku Kisumu ni saa ngapi Nakuru?,datetime_convert,4
+616,,Saa moja jioni Nairobi ni saa ngapi Mwanza?,datetime_convert,4
+617,,taja tiketi za gari la moshi zinazofaa safari yetu kwendaDodoma,transport_ticket,8
+618,,Tunahitaji kupata habari za hali ya hewa ya leo.,weather_query,9
+619,,Tiketi za gari la moshi ziko wapi?,transport_ticket,8
+620,,Endelea kucheza kitabu cha mwana wa mfalme,play_audiobook,6
+621,,Endelea kusikiliza kitabu cha kahawa,play_audiobook,6
+622,,nilipokea ujumbe gani kutoka kwenye kengele yangu?,alarm_query,0
+623,,Wezesha tiketi yangu ya gari la moshi kwa safari ya mwisho,transport_ticket,8
+624,,napendekeeza filamu ya action ambazo zimepatikana kwenye netflix,recommendation_movies,7
+625,,"niitegemee filamu hii ya 'joker', itasogea sana",recommendation_movies,7
+626,,Ni wapi naweza pata recepte ya mandazi ya kitambo?,cooking_recipe,3
+627,,Unaona wakati gani uma katika Zanzibar ikiwa ni saa nane usiku hapa Arusha,datetime_convert,4
+628,,Ninahitaji kupata tiketi ya treni kwenda Dodoma,transport_ticket,8
+629,,tunaonyesha filamu zilizovuma sana klabuni kubwa,recommendation_movies,7
+630,,Hifadhi tiketi yangu ya gari la moshi kwenda mbeya jioni,transport_ticket,8
+631,,Unaonyesha filamu gani ambazo zinanifurahisha?,recommendation_movies,7
+632,,ninahitaji mfano wa kuandaa samaki,cooking_recipe,3
+633,,Tafadhalini mtume barua pepe kwa mwenzako ili kumuelekezea habari hizo,email_sendemail,5
+634,,"Je, hali ya hewa itakuwa aje Jumanne iliyopita?",weather_query,9
+635,,Tunataka kufahamu wakati ulio katika Dar es Salaam.,datetime_convert,4
+636,,Ongea kwa uwazi ili nipunguze sauti,audio_volume_down,1
+637,,Kuna kengele gani lililowekiwa jana asubuhi?,alarm_query,0
+638,,Tafadhali futa sherehe ambayo imetangazwa kwa Juni mosi mwaka huu,calendar_remove,2
+639,,Tuma barua pepe kwa mwenzangu ili tuwezesane kukubaliana juu ya mkutano ujao,email_sendemail,5
+640,,Ongeza tena kwa kuondoa maingizo yote kwenye kalenda yangu,calendar_remove,2
+641,,mnapo kwenye eneo la saa za chicago je wakati utakao kuwa saa kumi na mbili usiku hapa los angeles,datetime_convert,4
+642,,nifanyeze kitendo cha kufanya uvumbuzi wa hali ya hewa,weather_query,9
+643,,tafadhalini kujulikana wakati uliofanya katika paris,datetime_convert,4
+644,,cheza simulizi ya kitabu cha kusikiliza cha kusoma mwisho,play_audiobook,6
+645,,unajua hali ya hewa ya dar es salaam kesho?,weather_query,9
+646,,Una saa ngapi katika Kigali wakati ni saa kumi na moja asubuhi hapa Bujumbura?,datetime_convert,4
+647,,Ni wapi naweza kupata taarifa sahihi za hali ya hewa ya dar es salaam?,weather_query,9
+648,,Futa vyuo vikuu vyote vinavyokuwemo kwenye kalenda yangu,calendar_remove,2
+649,,habari za hali ya hewa za leo zinatosha?,weather_query,9
+650,,hapana habari njema kuhusu hali ya hewa ya leo?,weather_query,9
+651,,Nipendekeze filamu iliyochezwa na Tom Hanks!,recommendation_movies,7
+652,,"Unataka kusikiliza mzuri, basi punguza sauti kidogo.",audio_volume_down,1
+653,,Cheza simulizi kutoka kitabu cha kusikiliza cha harusi,play_audiobook,6
+654,,Ondoa mikutano yote iliyo katika kalenda yangu ya leo.,calendar_remove,2
+655,,"Mimi nakosa recipe ya mandazi, je ungependa kusaidiana?",cooking_recipe,3
+656,,ondoya matukio yangu yote katika kalenda ya mwaka huuo,calendar_remove,2
+657,,ninahitaji kuona kengele zangu zote,alarm_query,0
+658,,Weka tikiti ya ndege kwenda zanzibar wiki ijayo,transport_ticket,8
+659,,nataka kupokea maelezo ya kupika viazi vitamu,cooking_recipe,3
+660,,Rejea kucheza kitabu cha audio cha riwaya,play_audiobook,6
+661,,Tafadhali punguka sauti ili tusikie vyema,audio_volume_down,1
+662,,Tafadhaliambia hali ya hewa itakuwaaje mjini london.,weather_query,9
+663,,Cheza kitabu cha kusikiliza cha Nelson Mandela,play_audiobook,6
+664,,Ninataka kupata tiketi ya treni ya kubelea kwenda arusha,transport_ticket,8
+665,,tufanyeje ili kuepuka mvua kubwa leo?,weather_query,9
+666,,Ningependa kuwasiliana na mkurugenzi wa kampuni kupitia barua pepe,email_sendemail,5
+667,,Endelea kucheza kitabu cha kusikiliza cha mfululizo wa harry potter,play_audiobook,6
+668,,Mwanaisha ni filamu ambazo zinateuliwa kuwa za bora mwaka huu.,recommendation_movies,7
+669,,Nataka kujulia habari zetu kupitia barua pepe,email_sendemail,5
+670,,tunataka kujua wakati unaofaa katika dar es salaam ikiwa ni saa kumi na moja jioni hapa,datetime_convert,4
+671,,Nionesha tiketi za gari la moshi kwenda mbeya wiki ijayo,transport_ticket,8
+672,,punguza sauti kwani ni kubwa mno,audio_volume_down,1
+673,,"--
+Unaenda kukuandikia barua pepe ili tuendelee kushirikiana katika miradi yetu",email_sendemail,5
+674,,Jinsi gani ya kupika mpunga wa kukanda?,cooking_recipe,3
+675,,Unaanza kuongea juu ya kengele ile iliyowekwa jana?,alarm_query,0
+676,,Naomba utume barua pepe kwa mama yangu ili niwasiliane nae,email_sendemail,5
+677,,pendekezea filamu mbalimbali za kimantiki,recommendation_movies,7
+678,,Hifadhi tiketi cha kuondoka kwa gari la moshi kwenda tanga jioni,transport_ticket,8
+679,,badilisha saa kutoka eneo la pacific standard time kwenda eastern africa time,datetime_convert,4
+680,,Fungua programu ya kusikiliza kitapu cha Hadithi za Kiswahili!,play_audiobook,6
+681,,nataka kuuliza kama umeweka kengele yoyote kesho?,alarm_query,0
+682,,Ghairi matukio yangu yote kwa mwezi ujao,calendar_remove,2
+683,,Ninahitaji recipe ya kusaga chapati.,cooking_recipe,3
+684,,tunaweka kengele lini kesho?,alarm_query,0
+685,,Ghairi mkutano wa jioni kesho kutoka kwa kalenda,calendar_remove,2
+686,,ombeni recepti rahisi ya mkate,cooking_recipe,3
+687,,Tafadhaleni badilisha saa zangu kutoka GMT kwenda EAT.,datetime_convert,4
+688,,Kunaonyesha mvua kubwa katika utabiri wa hali ya anga leo.,weather_query,9
+689,,nipe msaada wa kupata tiketi ya gari la moshi kwenda Kisumu wiki ijayo,transport_ticket,8
+690,,Ongea na mama yake kwa njia ya barua pepe ili ajue habari zetu,email_sendemail,5
+691,,nipeleke barua pepe kwa rafiki yangu ambaye anaishi mbalimbali,email_sendemail,5
+692,,mimi nakushauri uangalie filamu hii ingine,recommendation_movies,7
+693,,Cheza kitabu cha kusikiliza cha Harry Potter,play_audiobook,6
+694,,Ongeza tena kalenda yangu na kufuta maagizo yote,calendar_remove,2
+695,,Saa ngapi iliyopita katika Mbeya wakati ni saa kumi na mbili jioni hapa Zanzibar?,datetime_convert,4
+696,,Rudisha sauti katilia kiwango cha chini,audio_volume_down,1
+697,,Weka tikiti ya ndege kuenda zanzibar,transport_ticket,8
+698,,Una habari gani za hali ya hewa ya mji wetu wa dar es salaam?,weather_query,9
+699,,NimeONA filamu moja ambayo itaita kuburudisha sana.,recommendation_movies,7
+700,,Tunataka kubadili saa za Tokyo kwenda saa za Nairobi je ni saa ngapi,datetime_convert,4
+701,,Ninahitaji kupata taarifa za hali ya anga kwa leo.,weather_query,9
+702,,Endelea kusikiliza kitabu cha hadithi yangu,play_audiobook,6
+703,,nataka kujua hali ya hewa ya mikochezi leo.,weather_query,9
+704,,tunaomba kukiona wakati unaofaa katika Washington D.C wakati ni saa kumi na mbili jioni hapa Kenya,datetime_convert,4
+705,,Ghairi miadi yangu na afisa wa elimu kwa wiki ijayo,calendar_remove,2
+706,,Unaenda kukuandikia barua pepe kwa ajili ya mkutano wa wiki ijayo,email_sendemail,5
+707,,Fungua audiobook yako na uchukue hapo ulipo,play_audiobook,6
+708,,ghairi miadi yote katika kalenda yangu,calendar_remove,2
+709,,Ni wakati gani wa mwisho kusikia habari za hali ya hewa ya kesho?,weather_query,9
+710,,Nipeleke barua pepe kwa rafiki yangu ili tuwasiliane tena,email_sendemail,5
+711,,Tafadhali futa tukio lililoandikwa kwenye kalenda yangu Juni mosi,calendar_remove,2
+712,,Tafadhali futa tukio la mwisho kwenye kalenda yangu,calendar_remove,2
+713,,"je, hali ya hewa ya dar es salaam itakuwaje kesho?",weather_query,9
+714,,Unataka kuangalia filamu gani leo usiku?,recommendation_movies,7
+715,,"Sijui kama itakuwa na mvua leo, je unaona hali ya hewa?",weather_query,9
+716,,Ninataka kupika matooke ili yawe na viungo vyenye ladha.,cooking_recipe,3
+717,,Ongea kwa sauti ndogo tafadhali,audio_volume_down,1
+718,,piga tiketi yangu ya gari la moshi kwenda tanga wiki ijayo,transport_ticket,8
+719,,Hifadhi tiketi cha kuondoka kesho kutoka Nairobi kwenda Mombasa,transport_ticket,8
+720,,Saa kumi na tano jioni hapa ni saa ngapi Mwanza?,datetime_convert,4
+721,,Endelea kucheza kitabu cha kusikiliza cha mfululizo wa Game of Thrones,play_audiobook,6
+722,,"Nimependa filamu ya action ya Hollywood, unapendekeza gani?",recommendation_movies,7
+723,,Tafutana na recipe ya muffins za matunda.,cooking_recipe,3
+724,,Umefanya kengele gani kesho kutoka sasa hivi?,alarm_query,0
+725,,unaona kengele gani iliwekwa jana,alarm_query,0
+726,,Fungua masaa ya kusikiliza kitabu chako cha Kiswahili,play_audiobook,6
+727,,mimi nimeanza kuuliza kama kuna kengele yoyote ile,alarm_query,0
+728,,ondoa sherehe ya mwaka mpya kwenye kalenda yangu,calendar_remove,2
+729,,Nataka kuwasiliana na wewe kupitia barua pepe ukimwandikia,email_sendemail,5
+730,,Nataka kujua wakati niliwewekeza kengele ya kamioni?,alarm_query,0
+731,,"Kuna msemo wa juu mno, punguza sauti yote.",audio_volume_down,1
+732,,Hali ya hewa itakuwaaje dar es salaam kesho?,weather_query,9
+733,,Saa kumi na mbili jioni hapa Kenya ni saa ngapi Washington?,datetime_convert,4
+734,,Piga kucheza kitabu cha kusikiliza cha riwaya ya kisayansi,play_audiobook,6
+735,,punguza filamu iliyochezwa mwaka jana,recommendation_movies,7
+736,,Chukua kiwango cha sauti kitende,audio_volume_down,1
+737,,tolea marUDIO yote katika kalenda yangu kwa wiki ijayo,calendar_remove,2
+738,,je wakati unaenda kuwa saa ngapi Nakuru ikiwa ni saa tatu asubuhi Nairobi,datetime_convert,4
+739,,Rejea kucheza kitabu cha audiobook cha Harry Potter,play_audiobook,6
+740,,Kataa sauti kwa kiwango cha chini,audio_volume_down,1
+741,,Tafadhali unyweshe kiwango cha sauti!,audio_volume_down,1
+742,,Ni saa ngapi katika London wakati ni saa sita asubuhi Dar es Salaam,datetime_convert,4
+743,,punguza sauti yote ili tusikie vyema,audio_volume_down,1
+744,,kungele la jioni limewekwa?,alarm_query,0
+745,,Ninahitaji msaada wa kuandaa ugali.,cooking_recipe,3
+746,,futa miadi yote iliyoandikwa kwenye kalenda ya wiki hii,calendar_remove,2
+747,,nenda ukasikie kengele ile iliyowekwa jana!,alarm_query,0
+748,,Onodoa tafsiri la matukio yangu yote kwa kalenda yangu,calendar_remove,2
+749,,Naomba recepta ya kuku ya kienyeji.,cooking_recipe,3
+750,,Nipeleke barua pepe kwa rafiki yangu ambaye anaishi mjini,email_sendemail,5
+751,,Tuma barua pepe kwa rafiki yangu ili ajue habari zetu,email_sendemail,5
+752,,naomba msaada wa kupika chajio cha mchuzi,cooking_recipe,3
+753,,taja resipe ya mkate wa kumimina,cooking_recipe,3
+754,,safiri kwa kitabu cha kusikiliza cha mkondo wa maneno,play_audiobook,6
+755,,mimba naomba uone filamu hii inayofanana na sarakasi,recommendation_movies,7
+756,,je wakati unaofaa ili kupata saa sawa katika dodoma,datetime_convert,4
+757,,nipeleke tiketi yako ya gari la moshi kwenda zanzibar wiki ijazo,transport_ticket,8
+758,,Cheza simulizi kutoka kitabu cha Hadithi za Kiislam,play_audiobook,6
+759,,Hali ya hewa ya Dar es Salaam itakuwaje muda mfupi?,weather_query,9
+760,,futa tafadhali vyeti vya kalenda yangu,calendar_remove,2
+761,,tunataka kujua wakati ulio katika Mombasa wakati ni saa kumi na moja asubuhi hapa Nairobi,datetime_convert,4
+762,,mimi nakupendekeza uangalie filamu hiyo iliyotoka mwezi uliopita,recommendation_movies,7
+763,,mimi ninahitaji kubadilisha saa kutoka utc kwenda cst,datetime_convert,4
+764,,Mnapendekeza kumtumia barua pepe kwa mwenzako,email_sendemail,5
+765,,Sasa nakupa anwani yako ya barua pepe ili niweze kukupigia simu leo usiku,email_sendemail,5
+766,,Ninahitaji recipe ya uji wa mtindi.,cooking_recipe,3
+767,,Tafadhali nisaidie na recipe ya chapati!,cooking_recipe,3
+768,,Tunahitaji kupata taarifa za hali ya hewa ya Washington D.C. kesho.,weather_query,9
+769,,huku ni saa ngapi katika eneo la saa za zanzibar wakati ninapokuwa saa kumi na moja jioni hapa arusha,datetime_convert,4
+770,,Jitume barua pepe kwa mama yangu ili kumuelezea habari njema,email_sendemail,5
+771,,Punguza sauti hivi kwani ni kubwa sana.,audio_volume_down,1
+772,,Naomba utume barua pepe kwa mama yangu ili kumuelezea klabu ya mchezo,email_sendemail,5
+773,,Tafadhali badilisha saa zangu kutoka GMT kwenda EAT.,datetime_convert,4
+774,,futa sherehe ya krismasi kutoka kwa kalenda yangu,calendar_remove,2
+775,,Kunaonyesha hali ya hewa itakavyokuwa jioni?,weather_query,9
+776,,"Unaenda kuangalia filamu gani jioni? Nimependekezwa ""Black Panther""",recommendation_movies,7
+777,,"Ongea kwa utulivu, punguza sauti yako.",audio_volume_down,1
+778,,taja tiketi zote za gari la moshi kwenda Dodoma,transport_ticket,8
+779,,nipeleke barua pepe kwa jina langu la mtandao,email_sendemail,5
+780,,Tiketi za gari la moshi zinapatikana lini?,transport_ticket,8
+781,,cheza kitabu cha kusikiliza ambacho nalikosa,play_audiobook,6
+782,,Pendekeza filamu moja ambayo inanifurahisha sana,recommendation_movies,7
+783,,Nitaka kufahamu kama umemaliza kuweka kengele yote?,alarm_query,0
+784,,Niambie ninapata tiketi za gari la moshi kwendaDodoma lini,transport_ticket,8
+785,,Tafadhali futa sherehe la mwisho uliomalizika kwa kalenda,calendar_remove,2
+786,,Ninataka kujua hali ya hewa ya mairobi leo.,weather_query,9
+787,,Tunataka kujua kama itakufanya baridi au joto sana leo.,weather_query,9
+788,,Fungua kitabu cha kusikiliza cha simba marufuku,play_audiobook,6
+789,,Unaweza kuongea kuhusu hali ya hewa ya Jumatatu?,weather_query,9
+790,,Kunaonyesha klabuni kwamba itatoka jua leo?,weather_query,9
+791,,Tiketi za gari la moshi za watu watatu kutoka kilimanjaro hadi DSM,transport_ticket,8
+792,,ninataka kupokea tiketi yangu ya gari la moshi kwenda Nairobi,transport_ticket,8
+793,,Rejea kucheza kitabu cha kusikiliza cha riwaya,play_audiobook,6
+794,,Kama ni saa kumi na nane asubuhi Nairobi ni saa ngapi Kisumu,datetime_convert,4
+795,,ongeza utulivu wa sauti,audio_volume_down,1
+796,,Tiketi za gari la moshi za safari kwenda tanga,transport_ticket,8
+797,,"Ongea kwa sauti dogo zaidi, tafadhali",audio_volume_down,1
+798,,ondua tafadhali matukio yangu yote kwa mwezi ujao,calendar_remove,2
+799,,Nionyesha muda wa kengele!,alarm_query,0
+800,,naomba uniuzie tiketi ya gari la moshi kwenda Arusha kesho,transport_ticket,8
+801,,Tunataka kusindika maombi yetu kupitia barua pepe kwa mamlaka husika,email_sendemail,5
+802,,Punguza sauti ili tuzungumze kwa amani.,audio_volume_down,1
+803,,mimi nalipokea kengele ngapi kwenye simu yangu,alarm_query,0
+804,,uliweka kengele ya mapumziko?,alarm_query,0
+805,,tengeneza upya kalenda yako ili kuondoa matukio yote,calendar_remove,2
+806,,Ondoa mikutano yote iliyo katika kalenda yangu,calendar_remove,2
+807,,fungua kitabu cha kusikiliza cha riwaya,play_audiobook,6
+808,,badilisha wakati wa sasa kutoka IST hadi EST,datetime_convert,4
+809,,Tafadhali punguza sauti ili tusikie vyema.,audio_volume_down,1
+810,,naomba tiketi mbili za treni kwendaDodoma kesho asubuhi,transport_ticket,8
+811,,Unaenda tu kuniambia jinsi ya kupika samaki?,cooking_recipe,3
+812,,Futa tukio langu lililopangwa kwa leo katika kalenda yangu,calendar_remove,2
+813,,Fungua kitabu cha kusikiliza cha mashairi!,play_audiobook,6
+814,,Tafadhali tumia barua pepe kuwasiliana na wazazi wangu,email_sendemail,5
+815,,Saa ngapi katika Beijing wakati ni saa moja usiku katika Kisumu,datetime_convert,4
+816,,Niambie ninapata tiketi za gari la moshi kwenda zanzibar,transport_ticket,8
+817,,Ninahitaji tiketi mbili za gari la moshi kutoka tanga hadi arusha,transport_ticket,8
+818,,Je unajua filamu zilizotolewa mwaka jana? Kuna moja iliitwa Avengers Endgame ilikupa viumbe vyake.,recommendation_movies,7
+819,,Rasimu barua pepe kwa mwenzako ili ajue habari zetu,email_sendemail,5
+820,,Mtuache barua pepe kwa simba kwamba amefika salama nyumbani,email_sendemail,5
+821,,Tafadhali badilisha saa za Uganda kwenda saa za Tanzania.,datetime_convert,4
+822,,ona sauti ni kali sana punguza kidogo,audio_volume_down,1
+823,,Filamu iliyochezwa jana imekuwa sanaa!,recommendation_movies,7
+824,,Nataka kujua wakati wa sasa katika Kisumu.,datetime_convert,4
+825,,Unaonyesha hali ya hewa ya dar es salaam kwa wiki ijayo.,weather_query,9
+826,,badilisha saa kutoka greenwich mean time kwenda central african time,datetime_convert,4
+827,,Tuma barua pepe kwa wazazi wako ili wapate habari njema,email_sendemail,5
+828,,niko tayari kuonyesha tiketi yangu ya gari la moshi kwenda Nairobi,transport_ticket,8
+829,,kuna mtindo gani wa wakati tunatakiwa kufanya mabadiliko ya saa kutoka new york kwenda california,datetime_convert,4
+830,,ondoa sherehe iliyopangwa kesho kutoka kwa kalenda,calendar_remove,2
+831,,Unaenda kuonyesha hali ya hewa ya kitongoji cha Arusha?,weather_query,9
+832,,Kunaonyesha mvua katika utabiri wa hali ya hewa leo?,weather_query,9
+833,,Punguza sauti kwani itakuwa low kabisa.,audio_volume_down,1
+834,,kungele gani kilichowekwa jioni?,alarm_query,0
+835,,safiya tiketi za gari la moshi zote kusafiri kwenda Kisumu,transport_ticket,8
+836,,Ningetaka kuwasiliana na mkurugenzi wa kitengo cha IT kupitia barua pepe,email_sendemail,5
+837,,Mtuwie barua pepe kwa ajili ya kukamilisha taswira ya mradi,email_sendemail,5
+838,,Jee unaenda kunipa mbinu za kupika kuku?,cooking_recipe,3
+839,,mimi niliweka kengele ngapi juzi?,alarm_query,0
+840,,Natumai kuwasiliana na familia yangu kwa kupitia barua pepe,email_sendemail,5
+841,,Ninahitaji kusaidia kwenye kutuma barua pepe kwa timu yetu,email_sendemail,5
+842,,Ninahitaji msaada wa kupika kuku wa kisasa.,cooking_recipe,3
+843,,"Pengine unatafuta filamu yenye matendo mengi? Sawa, najua filamu moja itwayo ""Mission Impossible"" ambayo inanipa furaha kabisa.",recommendation_movies,7
+844,,Jinsi gani ya kupika uji wa mtindi?,cooking_recipe,3
+845,,Unaona kengele gani zimewekwa kesho?,alarm_query,0
+846,,Kataa sauti kidogo kwani ni kubwa,audio_volume_down,1
+847,,"Sauti ni kali sana, punguzeni kidogo.",audio_volume_down,1
+848,,nadhani una resipe nzuri ya mkate wa kumimina,cooking_recipe,3
+849,,sikia unaeza pata tiketi ya ndege kutoka Nairobi kwenda Mombasa?,transport_ticket,8
+850,,Hifadhi tiketi kiti cha kulala na garimoshi kwenda mwanza jioni,transport_ticket,8
+851,,mimi sina hakika kama niliwewekeza kengele ya mlango wa mbele?,alarm_query,0
+852,,Mtu anaomba msaada wa kupika ukoko!,cooking_recipe,3
+853,,Rejea kucheza simulizi ya zamani,play_audiobook,6
+854,,naomba habari za hali ya hewa za newYork kesho kutwa?,weather_query,9
+855,,najulisha kuwa filamu hii iliyochezwa wiki iliyopita imekuwa ikiongozi chati,recommendation_movies,7
+856,,unajua hali ya hewa ya chicago ilivyo leo?,weather_query,9
+857,,Kuna badilisha saa kutoka eneo la GMT kwenda EAT?,datetime_convert,4
+858,,je kungele lililowekwa mwisho ni saa ngapi,alarm_query,0
+859,,unajua resipe ya mandazi?,cooking_recipe,3
+860,,Sasa ninataka kutuma barua pepe kwa watu walio katika orodha ya wasiliano,email_sendemail,5
+861,,"Sina tiketi ya gari la moshi kwenda arusha, je unaeza kunipatia?",transport_ticket,8
+862,,ninataka kujua kama kungele limekwisha wekwa leo?,alarm_query,0
+863,,Punguza sauti mpaka inakaa sawa nawe.,audio_volume_down,1
+864,,umeruhusu kuweka kengele la saa ngapi?,alarm_query,0
+865,,tolea mikutano yote kwa wiki ijayo,calendar_remove,2
+866,,Unaomba kupata ushauri wa filamu? Nimependekeza baadhi ya hizo.,recommendation_movies,7
+867,,Kuna mtindo gani wa saa tunaotaka kubadilisha kutoka GMT kwenda EAT,datetime_convert,4
+868,,Kuna recepti gani za kupika chapati kwa microwave?,cooking_recipe,3
+869,,tuma barua pepe kwa mkurugenzi wa kampuni yetu kuulizia maombi ya kazi,email_sendemail,5
+870,,Unaenda kuenda dukani? Tafadhali tuma barua pepe kwa mwenzako,email_sendemail,5
+871,,Ni namna gani ya kupika matunda ya nanasi?,cooking_recipe,3
+872,,Je unaonyesha habari za hali ya hewa ya chicago leo?,weather_query,9
+873,,Mtuze barua pepe kwa mkurugenzi wetu ili tuwezesane kukaa Mkutano wa wiki ijayo,email_sendemail,5
+874,,Je unajua filamu gani zitachezwa wiki ijayo katika klabu ya sinema?,recommendation_movies,7
+875,,Niweke tikiti ya gari la moshi kwenda Dar es Salaam kesho yake,transport_ticket,8
+876,,Kunaonyesha mvua katika utabiri wa hali ya hewa wa leo?,weather_query,9
+877,,Fungua Audible ili uchezee hadithi yangu ya Kiswahili!,play_audiobook,6
+878,,tunataka kujua saa ya sasa hapa moshi iwapo ni saa kumi na moja jioni hapa paris,datetime_convert,4
+879,,"Ongea kwa sauti ndogo, tafadhali",audio_volume_down,1
+880,,Ninataka kukopa tiketi ya gari la moshi kwenda mbeya wiki ijayo,transport_ticket,8
+881,,Tunahitaji habari za hali ya anga kwa siku zijazo.,weather_query,9
+882,,Mtu wa karibu anatakiwa kuwasiliana naye kupitia barua pepe,email_sendemail,5
+883,,tunaonyesha filamu za kimantiki za mwaka mzima,recommendation_movies,7
+884,,naomba tiketi mbili za gari la moshi kutoka Nairobi hadi Mombasa,transport_ticket,8
+885,,sasa tumia barua pepe kwa rafiki yangu ambaye anaishi mbali,email_sendemail,5
+886,,piga tiketi ya treni ili niende arusha,transport_ticket,8
+887,,Tafadhali nisaidie na recipe ya chapati.,cooking_recipe,3
+888,,chukuwa kiwango cha sauti kwanza,audio_volume_down,1
+889,,pigeuzi filamu iliyochezwa mwaka jana ilikuwa nzuri sana,recommendation_movies,7
+890,,Tunaanza saa moja usiku huku ni saa ngapi New York?,datetime_convert,4
+891,,Cheza kitabu cha kusikiliza cha mwisho nilichosikia,play_audiobook,6
+892,,Punguza sauti kwani ni kubwa mno,audio_volume_down,1
+893,,Ni wapi naweza pata jinsi ya kupika samaki wa bahari?,cooking_recipe,3
+894,,Ni saa ngapi Dar es Salaam ikiwa ni saa kumi na moja jioni Nairobi?,datetime_convert,4
+895,,nifanyeze kitendo cha hali ya anga kujua klabu ya mawingu leo,weather_query,9
+896,,Nitakaonya jinsi ya kupika maharage yenye ladha.,cooking_recipe,3
+897,,Tafadhali futa tukio la kuonana na rafiki yangu kesho.,calendar_remove,2
+898,,Je unaelekea kumwona filamu ya action leo?,recommendation_movies,7
+899,,Endelea kucheza kitabu cha kusikiliza cha hadithi!,play_audiobook,6
+900,,Piga kucheza kitabu cha Audio cha Juma Lorens,play_audiobook,6
+901,,Endelea kucheza kitabu cha Kiswahili mwisho wa siku,play_audiobook,6
+902,,Tafadhaliambia hali ya anga itakuwaje jijini New York.,weather_query,9
+903,,Google ninahitaji tiketi ya treni kwenda Mbeya unaweza kusaidia?,transport_ticket,8
+904,,Ninahitaji mwongozo wa kupika vitumbo vya kuku?,cooking_recipe,3
+905,,Unaenda kusoma habari za hali ya hewa kesho?,weather_query,9
+906,,Ongeza tena kalenda yangu na futa maagizo yote,calendar_remove,2
+907,,Ninataka kujua kama itakufanya mvua leo hii.,weather_query,9
+908,,Cheza sehemu iliyoachwa katika kitabu cha kusikiliza,play_audiobook,6
+909,,Ni eneo gani la wakati tunaenda katika Kisii tafadhali badilisha saa zetu,datetime_convert,4
+910,,"Ongea kwa uwiano wa chini tafadhali, sauti ni kubwa mwaka.",audio_volume_down,1
+911,,Ninahitaji mwongozo wa kupika vyakula vya kienyeji.,cooking_recipe,3
+912,,Punguza sauti kwa kiwango cha chini kabisa,audio_volume_down,1
+913,,Pata tiketi ya treni kuingia Nairobi leo asubuhi,transport_ticket,8
+914,,nihitaji tiketi mbili za gari la moshi kwenda kilimanjaro,transport_ticket,8
+915,,ondoa sherehe yangu ya mwisho kwa kalenda,calendar_remove,2
+916,,ondoa tukio la kesho toka kwa kalenda yangu,calendar_remove,2
+917,,kuna kengele gani kilichowekwa jana,alarm_query,0
+918,,Tafadhali punguza kiwango cha sauti.,audio_volume_down,1
+919,,"Rejea kucheza kitabu cha hadithi,nilikuwa nasikia",play_audiobook,6
+920,,onyesha barua pepe kwa rafael ili afanye kitendo cha haraka,email_sendemail,5
+921,,Nataka kujuana jinsi ya kutengeneza ugali wa kisasa.,cooking_recipe,3
+922,,unataka kuangalia filamu gani leo?,recommendation_movies,7
+923,,Ongeza tena na kufuta vyote vya matukio katika kalenda yangu,calendar_remove,2
+924,,Tafadhali punguza sauti ili tusikie vyema,audio_volume_down,1
+925,,Tafadhali futa mikutano yote iliyopangwa kwa ajili ya wiki ijao,calendar_remove,2
+926,,taja resipe moja ya kupikia vyakula vyenye protein nyingi,cooking_recipe,3
+927,,sisi tunapendekeza filamu za kitamaduni kwa ajili yako,recommendation_movies,7
+928,,Mimi nataka kupika chumvi cha samaki leo.,cooking_recipe,3
+929,,Badilisha eneo la saa kutoka eneo la saa za california hadi eneo la saa za london,datetime_convert,4
+930,,Niambie ninapata tiketi za gari la treni kwenda Kisumu,transport_ticket,8
+931,,ghairi tafadhali tukio la kesho katika kalenda,calendar_remove,2
+932,,Ondoa mikutano yote iliyoandikishwa kwa kalenda yangu,calendar_remove,2
+933,,nataka kupikia chaguo langu la mchuzi,cooking_recipe,3
+934,,nataka kupika mkate wa kumimina kwa mtoto wangu,cooking_recipe,3
+935,,je ni saa ngapi katika los angeles ikiwa ni saa kumi na nane asubuhi hapa,datetime_convert,4
+936,,Badilisha saa hii ya IST kwenda EST?,datetime_convert,4
+937,,sita huna tiketi ya gari la moshi kwenda tanga?,transport_ticket,8
+938,,Tafadhali futa tukio la kuonana na rafiki yangu Jumanne ijayo,calendar_remove,2
+939,,naomba kujua kama kengele iliwekiwa,alarm_query,0
+940,,Niambie ninapata tiketi ya gari la moshi kwenda arusha siku hizi,transport_ticket,8
+941,,tunaonyesha habari za hali ya hewa katika mtandaoni,weather_query,9
+942,,taja tiketi za gari la moshi zinazofaa safari yetu kesho,transport_ticket,8
+943,,onyesha sauti ndogo tu,audio_volume_down,1
+944,,Tafadhali niambie kama itakufanya jua kuwaka leo.,weather_query,9
+945,,ninahitaji msaada wa kupika ugali,cooking_recipe,3
+946,,Mtumie mama barua pepe ili kuonyeza habari za mwaka mpya,email_sendemail,5
+947,,Nataka kuwasiliana na mtu fulani kupitia barua pepe,email_sendemail,5
+948,,ninataka kupika ugali na sukuma wiki leo,cooking_recipe,3
+949,,chagua barua pepe kwa simba ili apate habari za msafari,email_sendemail,5
+950,,nipelekewe tiketi ya ndege kuenda Johannesburg,transport_ticket,8
+951,,filamu gani ambazo zinaonyesha masuala ya mapinduzi?,recommendation_movies,7
+952,,Sasa nataka kumwandikia barua pepe kwa mkubwa wetu,email_sendemail,5
+953,,Ghairi matukio yote ya wiki hii kwenye kalenda yangu.,calendar_remove,2
+954,,"Filamu za action zinapendwa sana, je unahitaji kupata mwongozo wa kucheza moja?",recommendation_movies,7
+955,,Cheza kitabu cha kusikiliza cha Harry Potter!,play_audiobook,6
+956,,Tafadhali ongea kwa sauti ya chini kwani ni kubwa mno.,audio_volume_down,1
+957,,Mtu ambaye anajua hali ya hewa ya leo anaongea namna gani?,weather_query,9
+958,,Tafadhali nionesha kama kengele iliwekiwa.,alarm_query,0
+959,,nataka kufahamu wakati wa kengele yangu,alarm_query,0
+960,,tunatumia barua pepe kuongea na marafiki zetu,email_sendemail,5
+961,,ondoa tukio lililokufanywa kwenye kalenda ya leo,calendar_remove,2
+962,,Ni eneo gani la wakati sisi ni katika tafadhali mabadiliko kwa saa za Amerika,datetime_convert,4
+963,,Tunataka kujua saa ngapi itakua katika zanzibar wakati ni saa kumi na mbili jioni hapa Nairobi.,datetime_convert,4
+964,,"Sauti ni kubwa sana, punguza",audio_volume_down,1
+965,,Unaona wakati gani ukiwa saa kumi na mbili jioni hapa Mombasa,datetime_convert,4
+966,,Punguza sauti ili tusikie vyema.,audio_volume_down,1
+967,,Tafadhali ondoa tukio lao lililokuwemo kwenye kalenda yangu.,calendar_remove,2
+968,,tafadhali futa tukio la kuonana na rafiki yangu,calendar_remove,2
+969,,safari yetu ya filamu itakuwapo wiki ijayo,recommendation_movies,7
+970,,Tafadhali ona resipe ya mkate wa biskuti.,cooking_recipe,3
+971,,Tafadhaliambia mimi kuhusu hali ya anga itakuwaje New York leo.,weather_query,9
+972,,Unaenda kusimulia hali ya hewa ya jioni kesho.,weather_query,9
+973,,Mtuze barua pepe kwa simba aliyeniacha ujumbe mfupi tu,email_sendemail,5
+974,,Unaonyesha namna ya kupika maharage.,cooking_recipe,3
+975,,Naomba utume barua pepe kwa jaji ili aweze kujua maamuzi yetu,email_sendemail,5
+976,,je ni namna gani ya kupikia samaki?,cooking_recipe,3
+977,,Fungua audiobook yako na uchezee,play_audiobook,6
+978,,tufanye sauti kuwa katikati tu,audio_volume_down,1
+979,,habari za hali ya hewa ya mikochezo leo,weather_query,9

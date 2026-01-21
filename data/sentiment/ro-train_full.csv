@@ -1,0 +1,403 @@
+,Unnamed: 0,text,intent,label
+0,0.0,"Nu am regretat niciodată cumpărarea acestui produs, este excelent!",positive,1
+1,1.0,Livrarea a fost rapidă și produsul este în stare perfectă.,positive,1
+2,2.0,Cea mai bună alegere pentru oricine caută calitate și performanță!,positive,1
+3,3.0,"Satisfacția mea este maximă, funcționează perfect și arată fantastical!",positive,1
+4,4.0,"O experiență de cumpărătură excelentă, vânzătorul este foarte amabil!",positive,1
+5,5.0,"Mă bucur că am ales acest produs, funcționează exact cum trebuie!",positive,1
+6,6.0,Este foarte ușor de utilizat și are o interfață prietenoasă.,positive,1
+7,7.0,"Performanțele sale au depășit așteptările mele, bravo producătorului!",positive,1
+8,8.0,Este cel mai bun produs pe care l-am utilizat vreodată!,positive,1
+9,9.0,"Acest smartphone este exact ceea ce aveam nevoie, camera foto este superbă!",positive,1
+10,10.0,"Un produs excelent pentru persoanele active, recomandăm!",positive,1
+11,11.0,"Foarte ușor de utilizat și configurat, perfect pentru începători!",positive,1
+12,12.0,"Un produs fantastic, funcționează impecabil!",positive,1
+13,13.0,"Am fost impresionat de calitatea acestui produs, merită tot respectul!",positive,1
+14,14.0,"Am fost impresionat de calitatea produsului, merită tot respectul!",positive,1
+15,15.0,Funcționează perfect și este foarte ușor de utilizat.,positive,1
+16,16.0,"Un produs deosebit, construit să reziste!",positive,1
+17,17.0,"Funcționează perfect și arată fantastic, recomand cu încredere!",positive,1
+18,18.0,"Acest produs este exact ceea ce căutasem, recomandăm cu încredere!",positive,1
+19,19.0,"Mă bucur că am ales să-l cumpăr, este exact ceea ce aveam nevoie!",positive,1
+20,20.0,"Voi cumpăra din nou, fără îndoială!",positive,1
+21,21.0,"Mă simt norocos că am ales acest produs, este exact ceea ce aveam nevoie!",positive,1
+22,22.0,Sunt încântată de rezultatele obținute cu ajutorul acestui produs.,positive,1
+23,23.0,"Livrarea a fost rapidă și produsul este exact cum era descris, mulțumim!",positive,1
+24,24.0,"Cel mai bun produs pe care l-am cumpărat recent, merită să fie recomandat!",positive,1
+25,25.0,"Un produs de încredere, recomand cu încredere!",positive,1
+26,26.0,"Acest produs este o adevarată bijuterie, recomandăm tuturor!",positive,1
+27,27.0,"Un produs de calitate, merită investiția!",positive,1
+28,28.0,"Designul este fantastic, materialul este de calitate și funcționalitatea este excelentă!",positive,1
+29,29.0,"Acest produs este exact ceea ce aveam nevoie, mulțumim!",positive,1
+30,30.0,Prețul este foarte bun comparativ cu alte produse similare.,positive,1
+31,31.0,"Calitate excepțională, merită toți banii!",positive,1
+32,32.0,Cea mai bună alegere pe care am făcut-o recent!,positive,1
+33,33.0,"Un produs excelent, recomand cu încredere!",positive,1
+34,34.0,"Este un produs deosebit, merită tot timpul și banii cheltuiți.",positive,1
+35,35.0,"Calitatea construcției este excepțională, durabil și rezistent!",positive,1
+36,36.0,"Este cel mai bun aparat de cafea pe care l-am avut vreodată, recomand!",positive,1
+37,37.0,"Mi-aș cumpăra din nou, fără ezitare!",positive,1
+38,38.0,"Sunt mulțumit de alegerea mea, este un produs deosebit.",positive,1
+39,39.0,"Mă simt norocoasă că am ales acest produs, este cel mai bun!",positive,1
+40,40.0,"Am fost impresionat de calitatea acestui produs, funcționează perfect!",positive,1
+41,41.0,"Am fost încântată de modul în care funcționează, simplu și intuitiv!",positive,1
+42,42.0,Am fost surprins de cât de bine funcționează.,positive,1
+43,43.0,"Mulțumim pentru serviciul excelent, vom reveni!",positive,1
+44,44.0,Designul este superb și materialul este de calitate.,positive,1
+45,45.0,"O experiență pozitivă, aşteptăm următoarea colaborare!",positive,1
+46,46.0,"Recomand cu încredere, este un produs deosebit de bun!",positive,1
+47,47.0,"Vreau să spun cât de mult apreciez acest produs, este minunat!",positive,1
+48,48.0,Are o calitate excepțională și este foarte durabil.,positive,1
+49,49.0,"Calitatea este evidentă, un produs deosebit de bun!",positive,1
+50,50.0,Este cel mai bun aparat foto pe care l-am utilizat vreodata.,positive,1
+51,51.0,"Mă simt norocoasă că am găsit acest produs, este exact ceea ce căutam.",positive,1
+52,52.0,"Recomand cu încredere acest magazin, au cele mai bune produse și servicii!",positive,1
+53,53.0,"Foarte ușor de utilizat și întreținut, perfect pentru mine!",positive,1
+54,54.0,"Am fost uimit de performanțele sale, funcționează fără probleme!",positive,1
+55,55.0,"Recomand cu dragoste, este un produs minunat!",positive,1
+56,56.0,Materialul este de calitate și construcția este solidă.,positive,1
+57,57.0,"Funcționează exact așa cum trebuie, nu am găsit defecte sau probleme!",positive,1
+58,58.0,Acest produs este cel mai bun pe care l-am găsit!,positive,1
+59,59.0,"Mi-a plăcut modul în care este conceput, ergonomic și confortabil!",positive,1
+60,60.0,"M-au surprins pozitiv performanțele sale, chiar mai bun decât mă așteptam!",positive,1
+61,61.0,"Este un produs de calitate, recomandăm cu încredere!",positive,1
+62,62.0,"Sunt încântat de rezultatele obținute cu ajutorul acestui produs, funcționează minunat!",positive,1
+63,63.0,Am fost uimit de performanțele sale!,positive,1
+64,64.0,Am fost impresionat de calitatea acestui produs!,positive,1
+65,65.0,"Acest produs este o adevărată surpriză, depășește așteptările mele.",positive,1
+66,66.0,"Calitatea construcției este excepțională, merită fiecare leu cheltuit.",positive,1
+67,67.0,"Mi-am cumpărat acest produs și sunt extrem de mulțumit, merita banii!",positive,1
+68,68.0,"Viteza de procesare este incredibilă, chiar mai rapidă decât altele!",positive,1
+69,69.0,Recomandăm acest produs tuturor celor care au nevoie de unul.,positive,1
+70,70.0,"M-au surprins pozitiv performanțele sale, funcționează fără probleme!",positive,1
+71,71.0,"Serviciul clienți a fost extraordinar, mulțumim!",positive,1
+72,72.0,"Am fost surprins de viteza de livrare, mulțumim!",positive,1
+73,73.0,"Un produs deosebit de bun, recomandăm!",positive,1
+74,74.0,Cel mai rapid timp de livrare pe care l-am experimentat!,positive,1
+75,75.0,"Foarte mulțumită de serviciul primit, au fost extrem de amabili!",positive,1
+76,76.0,"Calitatea construcției este excelentă, materiaalele utilizate sunt de top!",positive,1
+77,77.0,Performanțele sale sunt excelente și este foarte eficient.,positive,1
+78,78.0,"Este cel mai bun produs pe care l-am utilizat până acum, recomand!",positive,1
+79,79.0,"Funcționează perfect, nu am avut nicio problemă până acum, recomand!",positive,1
+80,80.0,"O achiziție excelentă, recomand tuturor!",positive,1
+81,81.0,"Mi-au plăcut caracteristicile sale, un adevărat instrument de lucru!",positive,1
+82,82.0,Îmi place cum arată și funcționalitățile sale sunt exact ceea ce aveam nevoie.,positive,1
+83,83.0,"Sunt încântat de viteza și eficienta laptopului meu nou, merită tot timpul să-l iei în considerare.",positive,1
+84,84.0,"Am fost uimit de viteza de încărcare, chiar mai rapidă decât alte produse similare!",positive,1
+85,85.0,"Îmi place modul în care funcționează, rapid și eficient!",positive,1
+86,86.0,Sunt încântată de performanțele sale și de designul său modern.,positive,1
+87,87.0,"Îmi place enorm, este exact ceea ce căutam!",positive,1
+88,88.0,Sunt încântată de cum arată și funcționează perfect!,positive,1
+89,89.0,"Am fost impresionat de calitatea produsului, merită tot punctul!",positive,1
+90,90.0,"O experiență deosebit de plăcută, mulțumim vânzătorului!",positive,1
+91,91.0,"Un produs de înaltă calitate, merită toți banii!",positive,1
+92,92.0,"Este exact ceea ce aveam nevoie, mulțumim vânzătorului!",positive,1
+93,93.0,Am primit rapid produsul și este în condiții excelente.,positive,1
+94,94.0,"Mă bucur că am ales acest produs, merită tot timpul și banii cheltuiți.",positive,1
+95,95.0,"Un produs deosebit de util, îl recomand tuturor prietenilor mei!",positive,1
+96,96.0,Foarte satisfăcute de cumpărătura noastră!,positive,1
+97,97.0,"Sunt încântat de performanțele sale, cel mai bun alegerea pentru mine!",positive,1
+98,98.0,"Este un produs pe care îl iubesc, funcționează impecabil!",positive,1
+99,99.0,"Cel mai bun produs pe care l-am cumpărat vreodată, merită tot respectul!",positive,1
+100,100.0,"Calitatea construcției este slabă, materialul este ieftin și se rupe ușor.",negative,0
+101,101.0,Serviciul clienți este inexistent și nu primesc răspunsuri la întrebările mele.,negative,0
+102,102.0,"Încerc să îl utilizez de două zile, dar acum este blocat și nu pot să-l deblochez.",negative,0
+103,103.0,Funcționalitățile sunt limitate și nu corespund cerințelor moderne.,negative,0
+104,104.0,"Serviciul de garanție este inexistent, nu pot obține ajutor când am nevoie.",negative,0
+105,105.0,Prețul este prea ridicat pentru calitatea oferită.,negative,0
+106,106.0,Comunicarea cu furnizorul este dificilă și îngreunată.,negative,0
+107,107.0,"Calitatea audio este slabă și distorsionată, nu merită să fie cumpărat.",negative,0
+108,108.0,"Nu funcționează corect, mereu se închide și trebuie restartată.",negative,0
+109,109.0,Producătorul nu oferă suficient sprijin tehnic.,negative,0
+110,110.0,Design-ul este urât și nepotrivit pentru mine.,negative,0
+111,111.0,"Produsul este defect și nu funcționează corect, cer refundarea banilor.",negative,0
+112,112.0,"Este imposibil să îl instalez corect, instrucțiunile sunt confuze și incomplete.",negative,0
+113,113.0,Funcționalitatea este limitată și nu face ceea ce promitea publicitatea.,negative,0
+114,114.0,Camera foto este de slabă calitate și pozele sunt întunecate și fuzzy.,negative,0
+115,115.0,"Funcționalitatea este limitată, nu face nimic din ce promiteau reclamele.",negative,0
+116,116.0,Produsul este defect și nu merită banii cheltuiți.,negative,0
+117,117.0,"Bateria durează doar câteva ore, este incredibil de prost concepută.",negative,0
+118,118.0,"Producătorul a mințit despre performanțele sale, este mult mai slab decât am crezut.",negative,0
+119,119.0,"Serviciul clienți este groaznic, au ignorat mesajele mele și nu mi-au răspuns la întrebările mele.",negative,0
+120,120.0,Prețul este prea ridicat pentru ce primesc.,negative,0
+121,121.0,Descrierea produsului este înșelătoare și nu reflectă realitatea.,negative,0
+122,122.0,"Nu-mi place modul în care funcționează, este prea lent și încetinește întregul sistem.",negative,0
+123,123.0,Calitatea audio este slabă și distorsionată.,negative,0
+124,124.0,"Bateria durează prea puțin, trebuie să o încarcăm constant.",negative,0
+125,125.0,"Încercați să evitați acest producător, serviciul lor de asistență este inexistent.",negative,0
+126,126.0,Sistemul de operare este învechit și nu acceptă actualizările moderne.,negative,0
+127,127.0,Design-ul este urât și nepotrivit stilului meu.,negative,0
+128,128.0,Produsul este defect și nu funcționează deloc.,negative,0
+129,129.0,Sunt dezamagit de experiența mea cu acest produs.,negative,0
+130,130.0,"Producătorul a mințit despre caracteristicile produsului, nu este adevărat.",negative,0
+131,131.0,Această tabletă este învechită și nu susține ultimele versiuni ale sistemelor de operare.,negative,0
+132,132.0,"Serviciul clienților este inexistent, nu primesc niciun răspuns la întrebările mele.",negative,0
+133,133.0,Sistemul de navigație este confuz și dificil de utilizat.,negative,0
+134,134.0,"Desemnarea este slabă, produsul se rupe ușor.",negative,0
+135,135.0,Acest produs este o pierdere de timp și bani.,negative,0
+136,136.0,"Sunt dezamăgit de performanțele sale, procesorul este lent și memoria este limitată.",negative,0
+137,137.0,"Acest laptop este lent și învechit, nu recomand să-l cumpărați.",negative,0
+138,138.0,"Camera de pe spate este de slabă calitate, pozele sunt mereu blurry.",negative,0
+139,139.0,"Acest aparat foto digital este de slabă calitate, imaginea este fuzzy și nu merită prețul cerut.",negative,0
+140,140.0,Bateria se descărca rapid și trebuie să o încarcăm constant.,negative,0
+141,141.0,"Performanțele sale sunt slabe, nu pot să facă față sarcinilor mele.",negative,0
+142,142.0,"Produsul meu nou a venit defect, acum trebuie să-l trimit înapoi pentru reparare.",negative,0
+143,143.0,Sistemul de operare este învechit și nu primește actualizări.,negative,0
+144,144.0,Camera foto este de slabă calitate și imaginea este întotdeauna fuzzy.,negative,0
+145,145.0,Comunicarea cu producătorul este dificilă și neliniștitoare.,negative,0
+146,146.0,Performanțele sunt slabe și nu justifică prețul.,negative,0
+147,147.0,Sunetul este distorsionat și nu este clar deloc.,negative,0
+148,148.0,Îmi pare rău că am cheltuit atât de mulți bani pe un lucru atât de slab.,negative,0
+149,149.0,"Înlocuirea pieselor este imposibilă, producătorul refuză să-mi ofere sprijin.",negative,0
+150,150.0,"Prețul este prea ridicat pentru ceea ce primești, nu merită.",negative,0
+151,151.0,"Design-ul este urât și nepotrivit pentru mine, nu-mi place deloc.",negative,0
+152,152.0,Trebuie să resetez constant dispozitivul pentru că se blochează frecvent.,negative,0
+153,153.0,"Sistemul de navigație este învechit și nu funcționează corect, nu merită banii cheltuiți.",negative,0
+154,154.0,"Sistemul de navigație este defectuos, mereu mă duce în direcții greșite.",negative,0
+155,155.0,Serviciul de asistență este lipsit de profesionalism și răspunsurile sunt vagi și nefolositoare.,negative,0
+156,156.0,Funcționalitățile sale sunt limitate și nu sunt utile pentru mine.,negative,0
+157,157.0,"Camera foto este de slabă calitate, imaginile sunt întunecate și fuzzy.",negative,0
+158,158.0,Ambalajul era deteriorat și produsul era stricat.,negative,0
+159,159.0,"Serviciul clienților este inexistent, nu pot obține ajutor deloc.",negative,0
+160,160.0,"Nu există suport tehnic adecvat, sunt abandonat cu problemele mele.",negative,0
+161,161.0,Aplicațiile sale sunt limitate și nu pot să facă ceea ce promiteau.,negative,0
+162,162.0,M-a costat prea mulți bani și acum regret că l-am cumpărat.,negative,0
+163,163.0,"Am fost dezamagit de calitatea slabă a acestui produs, nu îndeplinește așteptările mele.",negative,0
+164,164.0,Interfața este complicată și necesită timp pentru a o învăța.,negative,0
+165,165.0,"Am fost dezamagit de calitatea slabă a acestui produs, nu merită banii cheltuiți.",negative,0
+166,166.0,"Calitatea construcției este slabă, se simte ieftin și fragil.",negative,0
+167,167.0,"Sunt extrem de nemulțumit de serviciul clientelor, răspunsurile lor sunt evasive și nefolositoare.",negative,0
+168,168.0,Prețul este exagerat de ridicat pentru ceea ce primesc.,negative,0
+169,169.0,"Producătorul a mințit despre caracteristicile produsului, este o experiență negativă totală.",negative,0
+170,170.0,"Bateria se descarcă rapid și nu rezistă o zi întreagă, este o pierdere de timp și bani.",negative,0
+171,171.0,Nu există opțiune de returnare a produsului defect.,negative,0
+172,172.0,"Design-ul este urât și nepotrivit, nu seamănă deloc cu imaginile din reclame.",negative,0
+173,173.0,Aplicațiile sunt învechite și nu funcționează corect.,negative,0
+174,174.0,"Acest produs este o pierdere de timp și bani, nu-l recomand nimănui.",negative,0
+175,175.0,"Interfața este confuză și dificil de navigat, nu este user-friendly.",negative,0
+176,176.0,Design-ul este urât și materialele sunt de slabă calitate.,negative,0
+177,177.0,"Nu funcționează corect, mereu dau eroare și îmi pierd timpul.",negative,0
+178,178.0,"Nu există instrucțiuni clare de utilizare, este confuz și complicat.",negative,0
+179,179.0,"Nu-mi place modul în care funcționează, este lent și instabil.",negative,0
+180,180.0,Funcționalitatea este limitată și nu corespunde așteptărilor mele.,negative,0
+181,181.0,"Trebuie să aștept prea mult timp pentru livrare, este enervant.",negative,0
+182,182.0,"Îmi pare rău că am cumpărat acest produs, nu valorează banii cheltuiți.",negative,0
+183,183.0,"M-a costat prea mulți bani pentru ceea ce primesc, nu merită.",negative,0
+184,184.0,Aplicațiile se încarcă lent și sunt pline de bug-uri.,negative,0
+185,185.0,Este imposibil să găsească piesele de schimb.,negative,0
+186,186.0,"M-au mințit despre caracteristicile sale, acum regret că l-am cumpărat.",negative,0
+187,187.0,"Mi-am pierdut timpul și banii cu acest produs, nu-l recomand nimănui.",negative,0
+188,188.0,Bateria se descarcă prea rapid și trebuie să o încarcăm constant.,negative,0
+189,189.0,"Nu este compatibil cu alte dispozitive și softurile, este o problemă majoră.",negative,0
+190,190.0,Mi-a fost imposibil să găsesc piesele de schimb necesare pentru acest produs.,negative,0
+191,191.0,Performanța este afectată de probleme tehnice frecvente.,negative,0
+192,192.0,"Camera este dezechilibrată, imaginea este fuzzy și culoarea este falsă.",negative,0
+193,193.0,"M-au mințit spunând că este compatible cu iPhone-ul meu, dar acum este închisoarea mea electronică.",negative,0
+194,194.0,"Aplicația este lentă și instabilă, mereu crash-ează și mă face să-mi pierd datele importante.",negative,0
+195,195.0,"Bateria durează doar câteva ore, este imposibil să o utilizați în mod normal.",negative,0
+196,196.0,Nu pot să cred că am plătit atât de mulți bani pentru un lucru care nu funcționează corect.,negative,0
+197,197.0,"Calitatea construcției este slabă, se simte ieftină și fragilă.",negative,0
+198,198.0,"Nu recomand să îl cumpărăm, calitatea construcției este slabă și se rupe ușor.",negative,0
+199,199.0,"Sistemul de operare este lent și instabil, mereu se blocase.",negative,0
+0,,"această cameră este înșelătoare, imaginea este slabă și înregistrează numai sunete inferioare.",negative,0
+1,,"Acest produs este exact ceea ce aveam nevoie, funcționează fluent și are o design elegant, sunt foarte mulțumit.",positive,1
+2,,"Mi-au placut enorm boxele wireless alese de mine, sunetul este clar și puternic, bateriei își menține sarcina timp de ore întregi.",positive,1
+3,,"Mi-au plăcut enorm serviciile magazinului online, livrează rapid și produsele sunt exact cum au fost descrise.",positive,1
+4,,Sunt foarte mulțumit de această achiziție. Calitatea este excelentă și prețul este foarte bun.,positive,1
+5,,"Sunt dezamăgit de performanțele acestui device, este lent și nelimitat, și în plus, bateria se epuizează rapid.",negative,0
+6,,Am cumpărat acest produs și sunt încântată de performanțele sale. Este exact ceea ce aveam nevoie!,positive,1
+7,,E cel mai rau produs pe care l-am cumparat vreodata.,negative,0
+8,,"Aceste boxe sunt exact ceea ce aveam nevoie, sunetul este cristalin și design-ul este modern și atrăgător!",positive,1
+9,,"Mi-au plăcut foarte mult aceste căști, sunetul este clar și basul este puternic, în general sunt foarte mulțumit.",positive,1
+10,,"Am fost sărit de calitatea acestui produs, este chiar mai rău decât mă așteptam.",negative,0
+11,,"sunt foarte dezamăgit de această comprimat, ea este foarte slabă și nu funcționează corect.",negative,0
+12,,"Sunt foarte dezamăgit de performanțele acestui produs, este lent și nu oferă caracteristicile promise.",negative,0
+13,,"Acest lucru este o pierdere de timp și bani, nu funcționează corect și are defecte majore.",negative,0
+14,,Mi-a fost livrată o piesă defectă. Nu functionează deloc și acum trebuie să-mi pierd timpul pentru a o returna.,negative,0
+15,,"Sunt foarte nemulțumit de serviciile oferite, au fost promise lucruri care nu au fost respectate, este o înșelăciune.",negative,0
+16,,"Îmi pare rău că am cumpărat acest articol, materia lui este ieftină și construcția este slabă.",negative,0
+17,,"Acesta este cel mai rău serviciu pe care l-am întâlnit vreodată, personalul este nepoliticos și incompetent.",negative,0
+18,,"Produsul este de o calitate extrem de slabă, materialele sunt ieftine și construcția este defectuoasă.",negative,0
+19,,"îmi pare rău că am cumpărat acest lucru, este într-adevăr un produs slab.",negative,0
+20,,"Acest smart-phone este cel mai rău pe care l-am avut vreodată, camera este slabă, bateria se termină rapid și performanțele sunt sub așteptările mele.",negative,0
+21,,"Sunt foarte dezamagit de calitatea acestui produs, nu valorează banii cheltuiti.",negative,0
+22,,"Acest ceas este un mare dezamăgire, funcționează foarte rău și are o construcție îndoielnică.",negative,0
+23,,Calitatea imaginilor este slabă și camera este defectă. Îmi pare rău că am cumpărat acest aparat.,negative,0
+24,,"Serviciul clienți a fost extraordinar, răspunsurile rapide și ajutorul acordat a fost fantastic!",positive,1
+25,,Această experiență a fost un dezastru complet. Am regretat că am cumpărat acest produs.,negative,0
+26,,"Mi-au plăcut foarte mult aceste căști noi! Sunetul este clar și limpede, iar design-ul este modern și atrăgător.",positive,1
+27,,"Mi-a fost rușine să port acest accesoriu, materialele utilizate sunt ieftine și aspectul este urât.",negative,0
+28,,"Nu recomand acest magazin online, livrarea a fost întârziată și produsul era diferit de cel descris în reclamă.",negative,0
+29,,Am cumpărat acest produs în urmă cu câteva săptămâni și trebuie să spun că este exact ceea ce aveam nevoie. Calitatea este excepțională și prețul este foarte bun.,positive,1
+30,,Nu-mi place deloc acest produs! Calitatea lui este slabă și funcționalitatea lui este limitată.,negative,0
+31,,Sunt extrem de mulțumit de serviciile oferite de compania dumneavoastră! Totul a decurs fluent și profesionist.,positive,1
+32,,"Sunt extrem de satisfăcut de performanțele acestui produs, merită tot timpul și banii cheltuiți, vă recomandăm să-l încercați!",positive,1
+33,,Am fost înșelată de reclama. Produsul este complet diferit față de ce era promovat. Calitatea este slabă și design-ul este urât.,negative,0
+34,,"Am fost impresionată de viteza de livrare și de ambalajul produsului, mulțumim Emag pentru profesonalism!",positive,1
+35,,"Mă bucur să pot recomanda acest magazin, serviciile lor sunt excelente și produsele sunt de calitate superioară.",positive,1
+36,,"Produsul este exact cum l-am așteptat, funcționează impecabil și are o calitate excelentă, merită să-l încercați!",positive,1
+37,,"Mă bucur că am ales să cumpăr acest produs, este chiar mai bun decât mă așteptam!",positive,1
+38,,"Am fost dezamăgit de performanțele sale, funcțiile lui sunt limitate și nu merită banii.",negative,0
+39,,"Sunt foarte nemultumit de serviciul primit, au fost neprofesioniști și au încurcat totul.",negative,0
+40,,"Produsul este chiar mai bun decât mă așteptam, performanțele sale sunt excepționale și prețul este accesibil.",positive,1
+41,,"Sunt foarte dezamăgită de calitatea acestui produs, este mult sub așteptările mele.",negative,0
+42,,"Acest lucru este un fraud, nu are nimic în comun cu imaginea prezantată! Materialul este ieftin și construcția lui este defectuoasă.",negative,0
+43,,Nu mi-au placut deloc produsele acestui brand. Calitatea este slabă și design-ul este urât.,negative,0
+44,,"Mi-au plăcut enorm cardurile de memorie Kingston, au prețuri bune și performanțe excelente.",positive,1
+45,,"Nu mi-a placut deloc acest produs, calitatea este foarte slabă și nu merită banii.",negative,0
+46,,"Serviciile furnizate de această companie sunt excelente, rapide și eficiente.",positive,1
+47,,"Calitatea acestui produs este remarcată, funcționează impecabil și are o durabilitate ridicată.",positive,1
+48,,"Am fost impresionat de calitatea sunetului și durata bateriei, în ciuda dimensiunilor compacte!",positive,1
+49,,"Acest produs este excepțional, recomand cu încredere tuturor celor care caută ceva de calitate.",positive,1
+50,,"Am fost dezamagit de calitatea acestui produs, nu valoreaza banii.",negative,0
+51,,"Sunt extrem de mulțumit de această achiziție, funcțiile sale sunt diverse și utile, și aspectul său este atrăgător.",positive,1
+52,,"M-am înșelat când am cumpărat acest lucru, este complet inutil și nu îndeplinește cerințele mele.",negative,0
+53,,"Produsul este exact cum era descris, funcționează impecabil și are o calitate ridicată.",positive,1
+54,,"Acest produs este o chestiune înșelătoare, promite mult și oferă puțin.",negative,0
+55,,"Nu îmi place modul în care funcționează acest gadget, este lent și are bug-uri frecvente.",negative,0
+56,,Sunt dezamăgit de performanțele acestui device. Bateria lui este slabă și timpul de viață este foarte scurt.,negative,0
+57,,Mai nou am descoperit această marcă și trebuie să spun că sunt impresionată de calitatea lor.,positive,1
+58,,"Funcționând perfect de când l-am cumpărat, sunt încântată de performanțele sale și de prețul avantajos!",positive,1
+59,,"Calitatea materialelor utilizate este slabă, totul pare ieftin și neprofesionist.",negative,0
+60,,"Nu mi-a placut deloc acest produs, este foarte slab și necorespunzător.",negative,0
+61,,"Am primit coletul în timp record, mulțumim pentru serviciile excelente oferite!",positive,1
+62,,"Am fost impresionată de calitatea acestei camere de luat vederi, imaginile sunt excelente și claritatea este remarcată.",positive,1
+63,,"Acest smartwatch este o decepție totală, încetinitor și învechiat, nu merită banii.",negative,0
+64,,"Mă bucur că am ales acest produs, este chiar mai bun decât mă așteptam și prețul este foarte rezonabil.",positive,1
+65,,"Acest smartphone este cel mai rau pe care l-am avut vreodată, bateria lui moare într-un timp-record și camerele sunt de slabă calitate.",negative,0
+66,,"-
+Sunt dezamagit de performanțele acestui produs, nu respectă cerințele și este dificil de utilizat.",negative,0
+67,,"Am încercat să utilizez acest produs, dar este atât de complicat și dificil de utilizat încât am renunțat.",negative,0
+68,,Mergem împreună de doi ani și pot să spun că este cel mai bun produs pe care l-am avut vreodată.,positive,1
+69,,"Am fost surprinsă de cât de bine funcționează această cameră, imaginea este clară și lumina este suficientă chiar în condițiile de iluminare slabă.",positive,1
+70,,Mergem înainte cu un alt produs excelent! Îmi place cum arată și funcțiile sale sunt impresionante.,positive,1
+71,,"-
+Această cameră este una dintre cele mai rele pe care le-am întâlnit, imaginea este pixelată și calitatea este slabă.",negative,0
+72,,"Mi-am pierdut timpul și banii cu acest lucru, este complet inutil și nu recomand să îl cumpereți.",negative,0
+73,,"Am fost placut surprins de calitatea acestui produs, merită tot rating-ul sau.",positive,1
+74,,"Funcționează fără probleme și are o durată de viață lungă, sunt mulțumită de alegerea mea.",positive,1
+75,,"Mi-au plăcut enorm serviciile Emag, livrarea rapidă și produsul exact cum era descris.",positive,1
+76,,"Sunt foarte mulțumit de acest produs, funcționează perfect și îndeplinește toate așteptările mele.",positive,1
+77,,"Mi-au plăcut foarte mult caracteristicile sale, este ușor de utilizat și are o performanță ridicată.",positive,1
+78,,"Produsul acesta este o pierdere de timp și bani, nu funcționează corect și este de o calitate îndoielnică.",negative,0
+79,,"Am fost surprins negativ de această consolă de jocuri, grafica este slabă și jocurile sunt limitate, nu merită banii cheltuiți.",negative,0
+80,,Am fost impresionată de performanțele acestui laptop nou! E rapid și eficient în același timp!,positive,1
+81,,"Această experiență a fost un adevărat coșmar, nu aș recomanda niciodată să încercați asta.",negative,0
+82,,Mi-au plăcut enorm aceste căști noi! Sunetul e fantastic și bateriei îi ajunge săptămânal.,positive,1
+83,,"Acest lucru este un fals, nu are nimic în comun cu originalul, este o copie ieftină și de slabă calitate.",negative,0
+84,,"Acest dispozitiv este exact ceea ce aveam nevoie, performanțele sale sunt excelente și design-ul este superb!",positive,1
+85,,Mi-au plăcut foarte mult serviciile furnizorului. Livrarea a fost rapidă și produsul era ambalat profesionist.,positive,1
+86,,"Am avut o experiență pozitivă cu acest vânzător, produsul a fost exact cum era descris și a ajuns în timp util.",positive,1
+87,,"--
+Produsul acesta este un fals, nu corespunde imaginii prezentate! Este fabricat din materiale de slabă calitate și designul lui este urât.",negative,0
+88,,"Produsul este exact aşa cum era descris, funcţionează corect şi are o calitate foarte bună.",positive,1
+89,,"Funcțiile sale sunt uimitoare și prețul este accesibil, cu siguranță voi cumpăra din nou de la ei!",positive,1
+90,,Nu mi-a placut acest produs deloc! Calitatea este slabă și designul este urât.,negative,0
+91,,Am cumpărat acest produs în urmă cu două săptămâni și trebuie să spun că sunt impresionată de performanțele sale.,positive,1
+92,,"Mi-au plăcut enorm serviciile oferite de către magazin, rapiditatea livrării și produsul în sine au depășit așteptările mele.",positive,1
+93,,"Sunt foarte dezamăgit de această cameră, imaginea este slabă și se încarcă îngrozitor.",negative,0
+94,,Nu recomand acest produs. Este foarte ieftin și calitatea este sub orice critică.,negative,0
+95,,"Sunt încântată de acest produs, funcționează perfect și are o calitate excepțională.",positive,1
+96,,"Am fost surprinsă de calitatea acestui produs, este chiar mai bun decât mă așteptam, prețul este corect și livrează rapid.",positive,1
+97,,"Mi-au plăcut enorm produsele lor, atât de bune și de calitative, recomand cu încredere!",positive,1
+98,,"Recomand cu încredere acest produs, are o calitate exceptionala și este foarte ușor de utilizat.",positive,1
+99,,"Sunt foarte nemultumit de performanțele acestui produs, este un waste of money.",negative,0
+100,,"Sunt foarte multumita de acest produs, functioneaza impecabil si are o calitate exceptionala.",positive,1
+101,,Aceste căști wireless sunt cele mai bune pe care le-am avut vreodată. Sunetul este clar și basul este puternic.,positive,1
+102,,Acesta este cel mai rău serviciu pe care l-am întâlnit vreodată. Personalul este nepoliticos și incompetent.,negative,0
+103,,"Mi-au plăcut enorm serviciile lor, rapiditatea livrării și atenția la detalii!",positive,1
+104,,"Am avut o experiență fantastică cu această companie, livrarea a fost rapidă și produsul era exact cum l-am dorit.",positive,1
+105,,Produsul e exact cum mi-l imaginam! Livrarea a fost rapidă și personalul a fost amabil.,positive,1
+106,,"Această folie de protecție este un rahat, se crapă ușor și nu merită banii plătiți.",negative,0
+107,,"Este probabil cel mai prost lucru pe care l-am cumparat vreodată, funcțiile lui sunt învechite și nu merită banii.",negative,0
+108,,"Nu mi-au placut deloc produsele companiei respective, au fost sub asteptari.",negative,0
+109,,"Produsul este exact ceea ce mi-am dorit, design-ul este superb și funcționalitatea este ireproșabilă.",positive,1
+110,,"Acesta este cel mai rău serviciu pe care l-am întâlnit vreodată, personalul este nepoliticos și lipsit de profesionalism.",negative,0
+111,,Sunt foarte dezamagit de această cameră de luat vederi. Imaginea este pixelată și funcțiile sunt limitate.,negative,0
+112,,"Sunt foarte nemultumit de performanțele acestui dispozitiv, este lent și nu merită banii plătiți.",negative,0
+113,,"Nu recomand să cumpărati de la acest vânzător, produsele lui sunt de slabă calitate și au defecte majore.",negative,0
+114,,"Mi-am cumpărat acest smartphone și am fost sărit de calitatea lui, este lent și are o cameră slabă.",negative,0
+115,,"Sunt încântat de calitatea sunetului și durată de viață a bateriei, merită să îl cumpereți.",positive,1
+116,,"Este un produs ieftin și de proastă calitate, nu îl recomand.",negative,0
+117,,"Nu-mi place deloc acest produs, este de slabă calitate și funcționează defectuos.",negative,0
+118,,"Am fost dezamagit de calitatea acestui produs, era mult mai slab decât mă așteptam.",negative,0
+119,,Acest smart-phone este cel mai rău pe care l-am avut vreodată. Bateria se termină în câteva ore și performanțele sunt îngrozitoare.,negative,0
+120,,Am cumpărat acest produs în urmă cu o lună și pot să spun că merită fiecare ban cheltuit.,positive,1
+121,,"Mă simt norocoasă să am găsit acest produs, este excepțional și merită toți banii cheltuiți.",positive,1
+122,,"Am regretat că am cumpărat acest laptop, este foarte lent și are o baterie slabă, în plus are și alte defecte majore.",negative,0
+123,,"Produsul meu preferat! Mă bucur că l-am cumpărat, valorile sale sunt excelente și merită fiecare ban cheltuit.",positive,1
+124,,"Sunt foarte dezamăgită de acest produs, funcțiunile lui sunt limitate și design-ul este urât.",negative,0
+125,,"Mi-au plăcut foarte mult serviciile oferite de compania dumneavoastră, profesioniști și rapiditate în livrare.",positive,1
+126,,"Mi-e teamă să îl folosesc, este atât de slab și ieftin.",negative,0
+127,,"Mi-au plăcut foarte mult serviciile Emag, sunt profesioniști și au o livrare rapidă.",positive,1
+128,,"Produsul este exact cum l-am imaginat, chiar mai bun decât mă așteptam.",positive,1
+129,,"Produsul este exact ceea ce aveam nevoie, funcționează rapid și eficient, mulțumim vânzătorului.",positive,1
+130,,"Mă simt norocos că am găsit acest produs, este exact ceea ce aveam nevoie și funcționează perfect.",positive,1
+131,,"Mi-am pierdut timpul și banii cu acest produs, este complet inutil.",negative,0
+132,,Mă bucur că am achiziționat această cameră foto! Imaginea e clară și funcțiile ei sunt uimitoare.,positive,1
+133,,"Mi-am cumparat acest accesoriu cu mari speranțe, dar acum regret că l-am luat, este de slabă calitate și nu funcționează corect.",negative,0
+134,,"Acest hotel este pur și simplu superb! Camera era curată și confortabilă, personalul a fost prietenos și amabil.",positive,1
+135,,"-
+Această cameră foto este una dintre cele mai rele pe care le-am întâlnit! Imaginea este distorsionată și claritatea ei este zero!",negative,0
+136,,"Recomand cu căldură acest produs, este deosebit de util și eficient, și îmi permite să economisesc timp și resurse.",positive,1
+137,,"Sunt încântată de acest produs, funcționează perfect și are o calitate excepțională!",positive,1
+138,,"prost serviciu, au pierdut timpul meu și au stricat lucrurile.",negative,0
+139,,"Mi-e teamă să spun că acest lucru este o pierdere de timp și bani, funcționalitatea este limitată și defectuoasă.",negative,0
+140,,token between each text),positive,1
+141,,"Sunt foarte mulțumit de performanțele acestui dispozitiv, funcționează fără probleme și are o durată lungă de viață.",positive,1
+142,,Nu mi-au placut deloc produsele acestui producator.,negative,0
+143,,"Nu mi-a placut deloc acest produs, calitatea lui este slabă și îmi pare rău că l-am cumpărat.",negative,0
+144,,"Nu mi-a placut deloc acest produs, este foarte slab fabricat.",negative,0
+145,,"Această cameră foto este una dintre cele mai rele pe care le-am întâlnit, imaginea este slabă și distorsionată.",negative,0
+146,,"Această cameră este una dintre cele mai rele pe care le-am întâlnit, calitatea imaginii este extrem de slabă și funcțiile sunt limitate.",negative,0
+147,,"Nu mi-a placut deloc acest produs, calitatea lui este slabă și funcționalitatea este limitată.",negative,0
+148,,"Acest produs este un rahat, funcționează numai când vrea, și chiar atunci este încet și nesigur.",negative,0
+149,,"Mă bucur că am ales acest produs, este deosebit de eficient și rezultatele sunt vizibile deja de la prima utilizare.",positive,1
+150,,"Am avut parte de o experiență fantastică cu acest magazin online! Livrarea rapidă, ambalajul său era intact și personalul a fost extrem de amabil.",positive,1
+151,,"Acest laptop este un mare dezamăgire, procesorul lui este lent și memoria este insuficientă.",negative,0
+152,,"Această tabletă este o decepție totală, ecranul este mic și de slabă calitate, procesorul este lent și memoria este insuficientă.",negative,0
+153,,"Nu mi-a plăcut deloc acest ochelari, au o construcție slabă și lensurile sunt deformate, nu recomand să îl cumpereți.",negative,0
+154,,Am cumpărat acest laptop și trebuie să spun că este cel mai rapid și eficient din câte am avut vreodată.,positive,1
+155,,"Sunt dezamagit de performanțele acestui device, sunetul este slab și imaginea este dezechilibrată.",negative,0
+156,,"Mi-au luat banii și au trimis un produs defect, acum trebuie să-mi iau înapoi banii și să caut altundeva.",negative,0
+157,,Funcțiile sale sunt impresionante și design-ul este atât de modern și atractiv. Sunt foarte mulțumit de această achiziție.,positive,1
+158,,Este cel mai bun produs din categoria sa. Recomand cu încredere oricui caută o experiență deosebită.,positive,1
+159,,Mi-au luat banii și nu mi-au livrat produsul. Sunt înșelați și nedemni de încredere!,negative,0
+160,,Produsul meu preferat! Funcționează perfect și îmi place design-ul lui.,positive,1
+161,,"Am fost impresionat de calitatea sunetului și durata bateriei, chiar dacă prețul era puțin ridicat.",positive,1
+162,,"Recomand cu căldură acest magazin online, produsele sunt de calitate și prețurile sunt accesibile.",positive,1
+163,,"nu mi-a plăcut acest produs, calitatea lui este sub nivelul meu de așteptare.",negative,0
+164,,"M-au înșelat cu reclama lui, este complet diferit de ce au promis.",negative,0
+165,,"Acest ceas este o decepție totală, funcțiile sale sunt limitate și învechește rapid.",negative,0
+166,,"Acest produs este o pierdere de timp și bani, nu funcționează corect.",negative,0
+167,,"Mergem perfect în colaborare cu această companie, serviciile lor sunt excelente!",positive,1
+168,,Sunt atât de mulțumită de această achiziție! Produsul este de calitate și prețul este foarte rezonabil. Recomand cu încredere!,positive,1
+169,,"Produsul este excelent, îndeplinește toate cerințele mele și are un preț accesibil.",positive,1
+170,,"-
+Nu recomand acest produs, este un waste of money, funcțiile sale sunt limitate și design-ul este urât.",negative,0
+171,,Produsul este chiar mai bun decât m-am așteptat. Livrarea a fost rapidă și personalul a fost extrem de amabil.,positive,1
+172,,"Îmi place cum funcționează acest dispozitiv, este ușor de utilizat și rezultatele sunt fantastice!",positive,1
+173,,"Mă bucur să spun că acest produs este exact ceea ce aveam nevoie, funcționează perfect și are o calitate ridicată!",positive,1
+174,,"Nu mi-a placut deloc acest produs, este foarte slab și învechiat.",negative,0
+175,,"Funcționează perfect și are o design modern și atractiv, recomand cu încredere!",positive,1
+176,,"Mi-e teama ca acest produs va fi o pierdere de timp și bani, funcționează foarte prost.",negative,0
+177,,"nu recomand această marcă, produsele lor sunt de calitate îndoielnică și nu merită banii.",negative,0
+178,,"Am fost impresionată de performanțele acestui device, care depășește așteptările mele în ceea ce privește viteza și capacitatea de stocare.",positive,1
+179,,"Mi-au plăcut enorm serviciile oferite de această companie, au fost prompte și eficiente în rezolvarea problemelor mele.",positive,1
+180,,Sunt încântată de acest produs! Calitatea este excepțională și prețul este foarte bun.,positive,1
+181,,"Nu mi-a placut deloc acest produs, este slab fabricat și funcționează defectuos.",negative,0
+182,,"Sunt dezamăgit de această cameră de luat vederi, imaginea este pixelată și culoarea este în mod clar distorsionată, nu recomand!",negative,0
+183,,"Sunt foarte încântată de acest produs, funcționează perfect și are o calitate excepțională!",positive,1
+184,,Sunt încântată de acest produs! Calitatea lui e excepțională și funcționează perfect.,positive,1
+185,,"Funcționează impecabil și are o calitate exceptionala, sunt foarte mulțumit de alegerea mea!",positive,1
+186,,"Produsul este chiar mai bun decât m-am așteptat, merită să fie recomandat tuturor!",positive,1
+187,,"Nu mi-a placut deloc acest produs, este de slabă calitate și funcționează defectuos.",negative,0
+188,,"Serviciul clienți al acestei firme este exceptional, răspund rapid și sunt foarte amabili.",positive,1
+189,,"Această experiență a fost una dintre cele mai rele, serviciul a fost întrerupt constant și eronat.",negative,0
+190,,"Nu mi-au placut deloc produsele acestui brand, sunt foarte slab fabricate.",negative,0
+191,,"Acest ceas este cel mai slab lucru pe care l-am vazut vreodata, functiunile lui sunt aproape inexistente.",negative,0
+192,,Sunt foarte dezamagit de performanțele acestui device. Nu funcționează corect și îmi pierd timpul.,negative,0
+193,,"M-am înșelat când am cumparat acest produs, este un instrument defectuos și inutil.",negative,0
+194,,"Mă bucur că am ales să cumpăr acest produs, este chiar mai bun decât mă așteptam, funcționează perfect și are o calitate excepțională.",positive,1
+195,,Este cel mai bun produs din categoria lui pe care l-am văzut vreodată. Prețul este bun și calitatea este exceptionala. Recomand cu mare încredere!,positive,1
+196,,"Produsul este exact ceea ce aveam nevoie, funcționează fluent și are o design ergonomică.",positive,1

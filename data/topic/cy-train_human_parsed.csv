@@ -1,0 +1,702 @@
+,id,text,intent,label
+0,1166,"Mae gwefan yr orsaf yn disgrifio'r sioe fel ""theatr radio hen ffasiwn â gogwydd clyfar newydd dros ben llestri!""",entertainment,5
+1,536,"Traethau, parciau thema a meysydd gwersylla yw'r lleoedd mwyaf cyffredin mae twristiaid hamdden yn eu mynychu yn aml.",travel,1
+2,7,"Dechreuodd y brotest tua 11:00 amser lleol (UTC+1) ar Whitehall gyferbyn â'r fynedfa sy'n cael ei gwarchod gan yr heddlu i Downing Street, cartref swyddogol y Prif Weinidog.",politics,2
+3,1578,Gwiriwch y label am gyfarwyddiadau cymorth cyntaf penodol ar gyfer y gwenwyn penodol hwnnw.,health,4
+4,1674,Mae hyn yn rhoi llawer o wybodaeth a deunydd i ni ar gyfer adeiladu modelau efelychu sy'n ein helpu i ddeall prosesau yn ein meddwl.,science/technology,0
+5,130,Estynnodd cyhoeddiad heddiw ymrwymiad y llywodraeth i gyllido cerbydau ychwanegol a wnaed ym Mawrth eleni.,politics,2
+6,401,"Llongau wedi'u cynllunio i deithio o dan ddŵr, ac i aros yno am gyfnod estynedig, yw llongau tanfor.",science/technology,0
+7,335,"Perfformiodd y ddifa o Dwrci, Sezen Aksu gyda'r tenor Eidalaidd Alessanndro Safina a'r gantores Haris Alexiou o Wlad Groeg.",entertainment,5
+8,1155,"Mae pob un o fynedfeydd yr ogof, a enwyd yn ""The Seven Sisters"", yn 100 i 250 metr (320 i 820 troedfedd) o leiaf mewn diamedr.",geography,6
+9,271,Mynegodd Dr Lee ei bryder hefyd am adroddiadau fod plant yn Nhwrci yn awr wedi cael eu heintio â'r feirws ffliw adar A (H5N1) heb fynd yn sâl.,health,4
+10,1681,"Mae technoleg yn cynnig yr ateb gyda rhith-deithiau maes. Gall myfyrwyr edrych ar arteffactau mewn amgueddfeydd, ymweld ag acwariwm, neu edmygu celf hardd tra'n eistedd gyda'u dosbarth.",science/technology,0
+11,1313,"Tra roedd e'n gweithio yn yr ysbyty, dechreuodd Liggins ymchwilio i esgor cyn pryd yn ystod ei amser sbâr.",health,4
+12,1147,"Dywed yr elusen feddygol Mangola, Medecines Sans Frontieres a Sefydliad Iechyd y Byd mai hwn oedd y digwyddiad o achosion gwaethaf a gofnodwyd yn y wlad.",health,4
+13,1634,"Roedd hyn yn debycach i'r pedwar cyflwr sylwedd (yn yr un drefn): solet, hylifol, nwy a phlasma, er y damcaniaethodd e hefyd eu bod yn newid i sylweddau newydd i ffurfio beth rydych chi'n ei weld.",science/technology,0
+14,359,"Mae gwyddonwyr yn galw'r broses hon yn ""allyriad ymbelydredd wedi'i ysgogi"" oherwydd bod yr atomau yn cael eu hysgogi gan y golau llachar, gan achosi allyrru ffoton o olau, ac mae golau yn fath o ymbelydredd.",science/technology,0
+15,124,"Ymhell cyn The Daily Show a The Colber Report, fe wnaeth Heck a Johnson ddarlunio cyhoeddiad fyddai'n cyflwyno parodi ar y newyddion - ac adrodd newyddion - pan oedden nhw'n fyfyrwyr yn UW yn 1988.",entertainment,5
+16,1113,Cafodd cynlluniau i frechlynnau gael eu danfon i'r ardaloedd wedi'u heffeithio fwyaf yn hanesyddol eleni eu gohirio oherwydd diffyg cyllid a blaenoriaethu isel o gymharu ag afiechydon eraill.,health,4
+17,555,Gallai athletwyr deimlo bod yn well ganddyn nhw gynnyrch hyd yn oed pan nad yw'n cynnig unrhyw fanteision gwirioneddol.,sports,3
+18,979,"Mae'r rhain yn gallu bod yn beryglus os yw'r teithiwr yn dilyn y rhith, gan wastraffu egni gwerthfawr a dŵr sy'n weddill.",travel,1
+19,1550,"Pe byddai'r Cynghreiriad wedi methu, mae'n debygol y byddai'r Almaen wedi gallu goresgyn Prydain fel y gwnaeth yng ngweddill Ewrop.",politics,2
+20,1005,"Yn niwedd 2017, ymddangosodd Siminoff ar y sianel deledu siopa QVC.",entertainment,5
+21,1174,"Y sgôr terfynol oedd buddugoliaeth o un pwynt, 21 i 20, gan ddod â chyfres ennill 15 gêm y Crysau Duon i ben.",sports,3
+22,1086,Byddai'r effaith roedd y tîm yn chwilio amdani yn cael ei hachosi gan rymoedd y llanw rhwng sylwedd tywyll yr alaeth a sylwedd tywyll y Llwybr Llaethog.,science/technology,0
+23,1637,Gallwch hefyd gael aloiau sy'n cynnwys ychydig bach o elfennau anfetelaidd fel carbon.,science/technology,0
+24,1255,Arsylwodd yr ymchwilwyr ar grisialau wedi'u ffurfio mewn wrin cath trwy ychwanegu melamin ac asid syanwrig.,science/technology,0
+25,1330,"Cyfeiriodd at y sibrydion fel ""clebran gwleidyddol a dwli"".",politics,2
+26,185,Roedd e'n aros yng ngwesty'r tîm cyn gêm wedi'i threfnu ar gyfer dydd Sul yn erbyn Bolonia.,sports,3
+27,1785,Mae archebu o flaen llaw yn rhoi tawelwch meddwl i'r teithiwr y bydd ganddi le i gysgu unwaith y bydd yn cyrraedd ei chyrchfan.,travel,1
+28,914,Apiau cyfieithu testun amser go iawn - apiau sy'n gallu cyfieithu darnau cyfan o destun o un iaith i un arall yn awtomatig.,science/technology,0
+29,1016,"Fel NSA, roedd yn cynorthwyo Carter i drin materion y bydd yn ddiplomyddol, fel Camp David Accords, 1978; normaleiddio cysylltiadau rhwng yr UD a Tsieina drwy ddiwedd yr 1970au; Chwyldro Iran, a arweiniodd at argyfwng gwystlon Irac, 1979; a'r goresgyniad Sofiet yn Affganistan, 1979.",politics,2
+30,460,Mae'r rhan fwyaf o setiau teledu yn cael eu gwneud i blesio'r cyhoedd.,entertainment,5
+31,1050,Mae'r Adroddiad yn feirniadol iawn o bron bob agwedd ar bolisi presennol y Weithrediaeth tuag at Irac ac mae'n annog newydd cyfeiriad ar unwaith.,politics,2
+32,360,"Mae'r llun nesaf yn dangos yr atomau'n bwrw allan ffotonau. Wrth gwrs, mewn gwirionedd mae ffotonau yn llai o lawer na'r rheini yn y llun.",science/technology,0
+33,25,Roedd cymorth cyntaf y noson gan Ovechkin ar y gôl a enillodd y gêm gan y recriwt newydd Nicklas Backstrom;,sports,3
+34,1865,"Os bydd y wlad y byddwch yn ymweld â hi yn dod yn destun ymgynghoriad teithio, gallai'ch yswiriant iechyd teithio neu eich yswiriant canslo taith gael eu heffeithio.",travel,1
+35,1053,"Cyhoeddodd Mrs Kirchner ei bwriad i redeg am yr arlywyddiaeth yn Theatr yr Ariannin, yr un lleoliad a ddefnyddiodd i gychwyn ei hymgyrch yn 2005 am y Senedd fel aelod o ddirprwyaeth talaith Buenos Aires.",politics,2
+36,1806,"Mae rhai anifeiliaid, fel eliffantod a jiraffod, yn tueddu i ddod yn agos at geir a bydd cyfarpar safonol yn caniatáu gwylio da.",travel,1
+37,1854,"Mae Ewrop yn gyfandir sy'n gymharol fach ond mae ganddi lawer o wledydd annibynnol. O dan amgylchiadau arferol, byddai teithio trwy sawl gwlad yn golygu gorfod myn trwy geisiadau am fisa a rheoli pasbortau nifer o weithiau.",travel,1
+38,110,"Bydd Stardust yn gosod record newydd am fod y llong ofod gyflymaf i ddychwelyd i'r Ddaear erioed, gan ragori ar y record flaenorol a osodwyd ym mis Mai 1969 yn ystod dychweliad modiwl rheoli Apollo X.",science/technology,0
+39,211,"Ni chafodd anafiadau mawr eu hadrodd, ond cafodd o leiaf pump o bobl yn y fan ar adeg y ffrwydriad eu trin am symptomau sioc.",health,4
+40,1414,Roedd yr Erthyglau yn gofyn am gydsyniad unfrydol gan yr holl daleithiau cyn y gallent gael eu diwygio ac roedd y taleithiau mor ddibris o'r llywodraeth ganolog bod eu cynrychiolwyr yn absennol yn aml.,politics,2
+41,730,"Mae'r gymuned ddiledryw hon wedi'i lleoli yn Howe Sound ychydig oddi ar Vancouver, ac mae modd mynd iddi'n hawdd trwy dacsis dŵr wedi'u hamserlennu sy'n gadael o Ynys Granville yng nghanol Vancouver.",travel,1
+42,1906,"Mewn lleoliadau anghysbell, heb gyrhaeddiad ffonau symudol, efallai mai ffôn lloeren fydd eich unig ddewis.",science/technology,0
+43,719,"Gwlad y Caribî yw'r Weriniaeth Dominica (Sbaeneg: República Dominicana) sy'n meddiannu hanner dwyreiniol ynys Hispaniola, y mae'n ei rhannu â Haiti.",geography,6
+44,112,"Mae penderfyniad Mr Rudd i lofnodi cytundeb hinsawdd Kyoto yn ynysu'r Unol Daleithiau, a fydd yn awr yr unig genedl ddatblygedig i beidio â chadarnhau'r cytundeb.",politics,2
+45,20,Awgrymodd Hsieh yn ystod yr etholiad y gallai Ma ffoi o'r wlad yn ystod argyfwng.,politics,2
+46,1771,Mae traethau North Shore (yn ardal North Harbour) ar y Cefnfor Tawel ac yn ymestyn o Long Bay yn y gogledd i Devonport yn y de.,geography,6
+47,868,"Yn enwedig yn eich dyddiau cyntaf, dylech ystyried gwario'n ffri ar westai, bwyd a gwasanaethau Gorllewinol eu steil a'u hansawdd, er mwyn helpu i ymgyfarwyddo.",travel,1
+48,1575,"Dim ond un o ddau werth, hynny yw 0 neu 1, mae rhif deuaidd yn gallu cael, a chyfeirir at y rhifau hyn fel digidau deuaidd, neu bitiau, i ddefnyddio jargon cyfrifiadurol.",science/technology,0
+49,186,Roedd y bws ar ei ffordd i Six Flags ym Missouri er mwyn i'r band chwarae i dyrfa lawn.,travel,1
+50,1936,"Ym 1994, arweiniodd y gwrthdaro hwn at greu Gweriniaeth hunangyhoeddig Transnistria yn nwyrain Moldofa, sydd â'i llywodraeth a'i harian ei hun ond nad yw'n cael ei chydnabod gan unrhyw wlad sy'n aelod o'r Cenhedloedd Unedig.",politics,2
+51,948,Dylech fod yn dawel eich meddwl y bydd popeth yn eithaf amlwg unwaith y byddwch chi'n cyrraedd y marinâu. Byddwch yn cyfarfod ffawdheglwyr cychod eraill a byddant yn rhannu eu gwybodaeth gyda chi.,travel,1
+52,431,"Mae Twrci wedi'i amgylchynu gan foroedd ar dair ochr: Môr Aegea i'r gorllewin, y Môr Du i'r gogledd a Môr y Canoldir i'r de.",geography,6
+53,592,Mae anifeiliaid wedi eu gwneud o lawer o gelloedd. Maen nhw'n bwyta pethau ac yn eu treulio y tu mewn. Mae'r rhan fwyaf o anifeiliaid yn gallu symud.,science/technology,0
+54,1416,"Mae chwaraeon poblogaidd yn cynnwys pêl-droed, pêl-fasged, pêl-foli, polo dŵr, cleddyfa, rygbi, seiclo, hoci iâ, hoci rholio a rasio ceir Fformiwla 1.",sports,3
+55,839,"Gan ystyried pa mor bell yw nifer o'r pentrefi, ni fyddwch yn gallu dod o hyd i lawer o fywyd nos heb deithio i Albuqureque neu Santa Fe.",entertainment,5
+56,1039,"Bydd hyn yn caniatáu iddo fod yn gydnaws am yn ôl â 802.11a, 802.11b a 802.11g, ar yr amod bod gan y safle radios deuol.",science/technology,0
+57,916,"Mae'r peiriannau cyfieithu wedi gwella'n ddramatig, ac yn awr maen nhw'n rhoi cyfieithiadau cywir mwy neu lai (a dwli'n anamlach), ond mae angen rhywfaint o ofal, gan ei fod dal yn bosibl eu bod nhw wedi cael y cwbl yn anghywir.",science/technology,0
+58,1355,"Mae wedi dod â'r trên, y car, a llawer o ddyfeisiau trafnidiaeth eraill i ni.",science/technology,0
+59,1431,"Mae llawer o fformatau cyffredin (teulu fformatau APS, er enghraifft) yn gydradd â neu'n cyfateb yn fras i'r gymhareb agwedd hon.",science/technology,0
+60,375,"Nid oes gan yr Haul gramen fel y Ddaear y gallwch chi sefyll arni. Mae'r Haul cyfan wedi'i wneud o nwyon, tân a phlasma.",science/technology,0
+61,453,"Mae dyluniad rhyngweithiol yn mynnu bod cydrannau prosiect yn cysylltu â'i gilydd, ond hefyd yn gwneud synnwyr fel endid ar wahân.",science/technology,0
+62,330,Nid oes neb arall erioed wedi gwneud mwy o ymddangosiadau na sgorio mwy o goliau i'w glwb na Bobek.,sports,3
+63,1088,Roedd y gwyddonwyr yn gallu dod i'r casgliad fod y sylwedd tywyll yn effeithio ar sylwedd tywyll arall yn yr un modd â mae sylwedd rheolaidd yn ei wneud.,science/technology,0
+64,1337,"Adroddodd ymchwilwyr o Brifysgol Princeton yn yr Unol Daleithiau a Phrifysgol Uppsala yn Sweden fod rhywogaeth newydd wedi esblygu mewn dwy genhedlaeth yn unig, er y credid fod y broses hon wedi cymryd llawer mwy o amser, oherwydd bridio rhwng pinc Darwin endemig, Geospiza fortes, a'r pinc cactws mewnfudol, Geospiza conirostris.",science/technology,0
+65,845,"Fodd bynnag, y dyddiau hyn mae artistiaid graffiti cydnabyddedig, digwyddiadau graffiti a waliau ""cyfreithlon"". Mae paentiadau graffiti yn y cyd-destun hwn yn aml yn debyg i weithiau celf yn hytrach na thagiau annarllenadwy.",entertainment,5
+66,1993,Maent hefyd yn diffinio ffyrdd ar gyfer llwybrau cerdded a beicio poblogaidd.,travel,1
+67,1127,Ysgrifennodd Fluke fod yr ymdrechion gan rai i atal menywod rhag siarad am iechyd menywod yn aflwyddiannus.,health,4
+68,291,Digwyddodd y gweithgaredd daeargryn arwyddocaol a arweiniodd at y newid cyfnod ar Fawrth 10 ar ochr ogledd-ddwyreiniol pair copa'r llosgfynydd.,geography,6
+69,1841,"Os yw marchog yn cael ei daflu oddi ar geffyl ond fod ei droed wedi'i dal yn y warthol, gallai gael ei lusgo os yw'r ceffyl yn rhedeg i ffwrdd. I leihau'r risg hon, mae modd cymryd nifer o ragofalon diogelwch.",travel,1
+70,840,"Fodd bynnag, mae bron bob un o'r casinos a restrir uchod yn gweini diodydd, ac mae sawl un ohonynt yn dod ag adloniant enw brand i mewn (y rhai mawr yn bennaf yn union o amgylch Albuquerque a Santa Fe).",entertainment,5
+71,920,"Os nad oes gennych chi gysylltiad data ar gyfer eich ffôn, neu pan fo allan o gyrhaeddiad, mae ei berfformiad yn gallu bod yn gyfyngedig neu heb fod ar gael.",science/technology,0
+72,1119,"Wedi i'r ddamwain ddigwydd, cludwyd Gibson i ysbyty ond bu farw'n fuan wedi hynny.",health,4
+73,1263,"Rhoddodd y Cyfarwyddwr Erlyniadau Cyhoeddus, Keir Starmer QC, ddatganiad y bore ""ma gan gyhoeddi erlyniad Huhne yn ogystal â Pryce.",politics,2
+74,371,Gallai Trichorn fod wedi defnyddio ei big cryf i dynnu'r dail i ffwrdd cyn bwyta'r boncyff.,science/technology,0
+75,1198,Gorffennodd Mitchell Gourley yn unfed ar ddeg yn Super-G sefyll y dynion. Gorffennodd y cystadleuydd o'r Weriniaeth Tsiec Oldrich Jelinek yn unfed ar bymtheg yn Super-G eistedd y dynion.,sports,3
+76,595,Cell yw'r uned strwythurol a swyddogaethol leiaf mewn organeb fyw (pethau).,science/technology,0
+77,1442,"Gan mai ymateb cyfyngedig oedd i'r dacteg hon, disgwyliai'r Almaen ymateb tebyg i'w rhyfela tanfor anghyfyngedig.",politics,2
+78,692,Mae angen Trwydded Angkor i fynd i mewn i'r deml felly peidiwch ag anghofio dod â'ch pasport wrth fynd i Tonle Sap.,travel,1
+79,636,"Yn y flwyddyn 1970, fe wnaeth Raymond Damadian, meddyg a gwyddonydd ymchwil, ddarganfod y sylfaen ar gyfer defnyddio delweddu cyseinedd magnetig fel offeryn ar gyfer diagnosis meddygol.",science/technology,0
+80,1544,"Erbyn Medi 17, 1939, roedd gwarchodlu Gwlad Pwyl eisoes wedi torri, a'r unig obaith oedd cilio ac aildrefnu ar hyd troedle Rwmania.",politics,2
+81,523,Mae hyn yr un mor llethol â phe byddech chi'n deffro pob ugain neu drideg munud a gwylio'r teledu.,health,4
+82,1689,"Ottawa yw prifddinas gyfareddol, ddwyieithog Canada ac mae'n cynnwys amrywiaeth o orielau celf ac amgueddfeydd sy'n arddangos Canada ddoe a heddiw.",geography,6
+83,497,Daethant yn hyddysg iawn mewn torri aelodau i arbed cleifion rhag madredd yn ogystal â rhwymynnau tynhau a chlampiau i'r rhydwelïau i atal llif gwaed.,health,4
+84,1328,"Mae gwyddonwyr yn gobeithio deall sut mae planedau'n ffurfio, yn enwedig sut ffurfiodd y Ddaear, gan fod comedau wedi gwrthdaro â'r Ddaear amser maith yn ôl.",science/technology,0
+85,63,"Mae Cyngres Genedlaethol Brasil wedi trafod cyfreithloni am 10 mlynedd, a dim ond yn Rio Grande do Sul mae priodasau sifil o'r fath yn gyfreithiol ar hyn o bryd.",politics,2
+86,925,"Os nad yw tynnu llun yn unig yn cael ei ganiatáu, yna ddylech chi ddim meddwl hyd yn oed am recordio fideo ohono.",science/technology,0
+87,983,"Mae ffliw adar, neu ffliw adaraidd yn fwy ffurfiol, yn gallu heintio adar a mamaliaid.",health,4
+88,26,"Ei ail gôl y noson oedd ei 60fed o'r tymor, gan ddod y chwaraewr cyntaf i sgorio 60 neu fwy o goliau mewn tymor ers 1995-96, pan gyrhaeddodd Jaromir Jagr a Mario Lemieux y garreg filltir honno.",sports,3
+89,1325,"Mae Curtis Cooper, mathemategydd ac athro gwyddor gyfrifiadurol ym Mhrifysgol Central Missouri, wedi darganfod y rhif cysefin hysbys mwyaf hyd yn hyn ar Ionawr 25.",science/technology,0
+90,242,"Yn ogystal â chludo tri offeryn gwyddonol pwysig, roedd chwiliedydd y lleuad hefyd yn cludo delwedd baner genedlaethol yr India, wedi'i phaentio ar bob ochr.",geography,6
+91,999,"Fel rhai arbenigwyr eraill, mae e'n amheus a ellir gwella diabetes, gan nodi nad oes gan y canfyddiadau hyn unrhyw berthnasedd i bobl sydd â diabetes Math 1 yn barod.",health,4
+92,886,"Antarctica yw'r lle oeraf ar y ddaear, ac mae'n amgylchynu Pegwn y De.",geography,6
+93,1342,Mae sudd y bresych yn newid lliw yn dibynnu ar ba mor asidig neu sylfaenol (alcalïaidd) yw'r cemegyn.,science/technology,0
+94,856,"Cario dros bobl eraill - peidiwch byth â gadael eich bagiau allan o'ch golwg, yn enwedig pan fyddwch chi'n croesi ffiniau rhyngwladol.",travel,1
+95,600,Mae elfennau a chyfansoddion yn gallu symud o un cyflwr i'r llall a pheidio â newid.,science/technology,0
+96,826,"Yn y bôn, maen nhw'n syrthio i ddau gategori: Naill ai gweithiwch wrth deithio neu rhowch gynnig ar gyfyngu ar eich treuliau. Mae'r erthygl hon yn canolbwyntio ar yr ail.",travel,1
+97,813,"Ar gyfer taith gerdded un diwrnod ar hyd llwybr hawdd ychydig o baratoadau sydd eu hangen, ac mae unrhyw un rhesymol o heini yn gallu eu mwynhau.",sports,3
+98,1786,"Mae gan asiantiaid teithio gytundebau'n aml â gwestyau penodol, er y gallech chi ei chael hi'n bosibl i archebu ffurfiau eraill o lety, megis meysydd gwersylla, trwy asiant teithio.",travel,1
+99,996,"Ym mhob achos, mae'n rhaid i chi archebu dros y ffôn yn uniongyrchol â'r cwmni awyrennau.",travel,1
+100,353,Mae'r moleciwlau dŵr yn creu croen anweledig ar arwyneb y dŵr sy'n caniatáu i bethau fel y nodwydd arnofio ar ben y dŵr.,science/technology,0
+101,302,Cafodd cyfraith Ffrainc ei newid. Dechreuodd ei actifyddiaeth yn ôl yn 15 oed pan ymunodd e â'r Gwrthsafiad Ffrengig yn ystod yr Ail Ryfel Byd.,politics,2
+102,311,Roedd y cwpl wedi priodi yn Nhecsas flwyddyn yn ôl a daethant i Buffalo i ddathlu gyda ffrindiau a pherthnasau.,entertainment,5
+103,571,Pan fydd yr unigolion yn dangos sawl amrywiad o nodwedd benodol maen nhw'n amryffurf.,science/technology,0
+104,1548,Un o'r enghreifftiau diweddar mwyaf nodedig o hyn oedd ymgyrch Gogledd yr Iwerydd yr Ail Ryfel Byd. Roedd yr Americanwyr yn ceisio symud dynion a deunyddiau ar draws Môr yr Iwerydd i helpu Prydain.,politics,2
+105,816,"Mae olynydd Global Running Tours, Go Running Tours yn rhwydweithio dwsinau o ddarparwyr teithiau atyniadau ar bedwar cyfandir.",sports,3
+106,1764,"Yn ogystal, byddwch yn ymwybodol fod arogleuon yn denu eirth a bywyd gwyllt arall, felly osgowch gario neu goginio bwydydd sy'n ogleuo a chadwch wersyll glân.",travel,1
+107,329,"Yn ystod ei gyfnod gyda'r tîm, sgoriodd e 403 gôl mewn 468 o ymddangosiadau.",sports,3
+108,1271,"Ei chyntaf oedd y Slalom, lle enillodd Ddim Wedi Gorffen yn ei rhediad gyntaf. Cafod 36 o'r 116 o gystadleuwyr yr un canlyniad yn y ras honno.",sports,3
+109,1654,Mae Damcaniaeth Hierarchaeth Anghenion Maslow a Damcaniaeth Dau Ffactor Hertzberg yn ddwy ddamcaniaeth gynnwys boblogaidd.,science/technology,0
+110,354,"Mae gan y llafn ar esgid sglefrio fodern ymyl ddwbl a phant ceugrwm rhyngddynt. Mae'r ddwy ymyl yn caniatáu gwell gafael o'r iâ, hyd yn oed wedi'u gogwyddo.",science/technology,0
+111,871,Llenwch eich cartref gyda choffi coeth yn y bore a rhywfaint o de camomil ymlaciol gyda'r nos.,entertainment,5
+112,658,"Yn ystod yr haf, gwyliwch am y mosgitos Nordig. Er nad ydyn nhw'n trosglwyddo unrhyw afiechydon, maen nhw'n gallu bod yn annifyr.",health,4
+113,1196,"Gyda dim ond deunaw medal ar gael y diwrnod, mae nifer o wledydd wedi methu â chyrraedd y podiwm medalau.",sports,3
+114,1064,"Ond, ar ôl colli wiced y capten, ni wnaeth India ond 36 rhediad gan golli 7 wiced i ddod â'r batiad i ben.",sports,3
+115,1780,"Mae llawer o deithiau i'r rîff yn cael eu gwneud trwy gydol y flwyddyn, ac mae anafiadau oherwydd unrhyw un o'r achosion hynny ar y rîff yn brin.",travel,1
+116,154,"O'r tua 24,000 o awyrfeini hysbys sydd wedi syrthio i'r Ddaear, dim ond tua 34 sydd wedi cael eu dilysu i darddu o blaned Mawrth.",geography,6
+117,505,"Mae agweddau positif i'r gwefannau hyn, sy'n cynnwys gallu gosod tudalen dosbarth yn hawdd a allai gynnwys blogiau, fideos, lluniau, a nodweddion eraill.",science/technology,0
+118,1700,"Menywod: Argymhellir bod unrhyw deithwyr benywaidd yn dweud eu bod yn briod, beth bynnag y bo eu statws priodasol mewn gwirionedd.",travel,1
+119,107,"Pan fydd y capsiwl yn cyrraedd y Ddaear ac yn dod i mewn i'r atmosffer, am tua 5am (amser y dwyrain), mae disgwyl iddo roi tipyn o sioe olau i bobl yng Ngogledd Califfornia, Oregon, Nefada ac Utah.",geography,6
+120,908,"Mae'r cwmnïau cyfryngau yn dweud celwydd fel mater o drefn am ddiben hyn, gan honni ei fod er mwyn ""atal lladrata"".",science/technology,0
+121,173,Yn dilyn mapio gwely'r môr cafodd olion y llong eu canfod gan ddefnyddio ROV.,science/technology,0
+122,798,Hefyd rhowch gopïau polisi/cyswllt i gymdeithion sy'n teithio a pherthnasau neu ffrindiau yn ôl gartref sy'n fodlon helpu.,travel,1
+123,740,Mae'n ynysfor â phymtheg o ynysoedd wedi'u gwasgaru dros 2.2 miliwn cilomedr sgwâr o gefnfor.,geography,6
+124,759,Rhwydwaith cyfnewid lletygarwch yw'r sefydliad sy'n cysylltu teithwyr gyda phobl leol yn y dinasoedd maen nhw'n mynd i ymweld â nhw.,travel,1
+125,128,Mae'r digwyddiad artistig hefyd yn rhan o ymgyrch gan Neuadd y Ddinas Bwcarést sy'n ceisio ail-lansio delwedd prifddinas Rwmania fel metropolis creadigol a lliwgar.,entertainment,5
+126,392,"Gyda'r frwydr am Ffrainc wedi'i hennill, dechreuodd yr Almaen baratoi i oresgyn Ynys Prydain.",politics,2
+127,111,"""Bydd yn symud dros arfordir gorllewinol gogledd Califfornia a bydd yn goleuo'r awyr trwy ganolbarth Oregon ac ymlaen trwy Nefada ac Idaho ac i mewn i Utah,"" dywedodd Tom Duxbury, rheolwr prosiect Stardust.",science/technology,0
+128,761,"Mae rhestr o westeiwyr sydd ar gael yn cael ei darparu wedyn naill ai mewn print a/neu ar-lein, weithiau gyda chyfeiriadau ac adolygiadau gan deithwyr eraill.",travel,1
+129,926,"Os ydych chi'n defnyddio drôn, gwiriwch ymhell o flaen llaw ynghylch yr hyn y cewch ffilmio a pha drwyddedau neu drwyddedau ychwanegol sy'n ofynnol.",science/technology,0
+130,1591,"Cafodd barn Aristotle ei derbyn ar holl faterion gwyddoniaeth, gan gynnwys seicoleg.",science/technology,0
+131,1365,"Nid yw rhu teigr fel rhu llawn llais llew, ond yn debycach i frawddeg o eiriau chwyrnllyd yn cael eu gweiddi.",science/technology,0
+132,1605,"Yn y cludiant gwennol deinamig hwn mae pawb rhywsut yn gysylltiedig â system drafnidiaeth sy'n seiliedig ar geir preifat, ac yn cefnogi'r system.",travel,1
+133,889,Llwyfandir moel yw Mewndir Antarctica wedi'i orchuddio gan 2-3 km o iâ.,geography,6
+134,1190,"Datganodd Perry y byddai'n ""dychwelyd i Tecsas i asesu canlyniad cawcws heno, penderfynu a oes llwybr ymlaen i mi yn y ras hon"", ond dywedodd yn ddiweddarach y byddai'n aros yn y ras a chystadlu yn rhagetholiad De Carolina ar Ionawr 21.",politics,2
+135,815,"Yn rhyngwladol, mae bron i 200 o sefydliadau teithio rhedeg. Mae'r rhan fwyaf ohonyn nhw'n gweithredu'n annibynnol.",travel,1
+136,870,"Os ydych chi'n mynd i wersylla, dewch â chrud neu hamog gwersyll i'ch cadw rhag nadredd, sgorpionau a'u tebyg.",travel,1
+137,402,Defnyddiwyd llongau tanfor yn y Rhyfel Byd Cyntaf a'r Ail Ryfel Byd. Bryd hynny roedden nhw'n araf iawn ac roedd eu hystod saethu yn gyfyngedig iawn.,science/technology,0
+138,490,"Er yn y diwedd, anfonodd Krushchev danciau i mewn i adfer trefn, ildiodd i rai o'r gofynion economaidd a chytunodd i benodi'r Wladyslaw Gomulka poblogaidd yn brif weinidog newydd.",politics,2
+139,200,"Gwanhaodd Felicia, unwaith yn storm Categori 4 ar Raddfa Gorwynt Saffir-Simpson, i iselder trofannol cyn ymchwalu ddydd Mawrth.",geography,6
+140,276,Mae Sterans yn ymchwilio i a yw trethi'n cael eu defnyddio i gyllido erthyliadau trwy Planned Parenthood yn ei rôl fel cadeirydd yr Is-bwyllgor Goruchwylio ac Ymchwiliadau sydd o dan ymbarél Pwyllgor Ynni a Masnach y Tŷ.,politics,2
+141,336,"I orffen, perfformiodd y grŵp dawns Twrcaidd Fire of Anatolia y sioe ""Troy"".",entertainment,5
+142,1151,"Gan edrych yn wirioneddol rydlyd yn y gêm yn erbyn eu chwiorydd deheuol, gwellodd De Affrica'n raddol fodd bynnag wrth i'r twrnamaint fynd rhagddo.",sports,3
+143,1010,Mae Gymnasteg Unol Daleithiau America yn cefnogi llythyr Pwyllgor Olympaidd yr Unol Daleithiau ac yn derbyn yr angen absoliwt i'r teulu Olympaidd hybu amgylchedd diogel i'n holl athletwyr.,sports,3
+144,1643,Ni all rhywun ond dyfalu beth fydd y bysellfwrdd pan ddaw rhywbeth mwy newydd.,science/technology,0
+145,1422,"Ym 1683, cymerodd lluoedd brenhinlin Qing (1644-1912) reolaeth o ardaloedd arfordirol gorllewin a gogledd Taiwan a datgan Taiwan yn dalaith o'r Ymerodraeth Qing ym 1885.",politics,2
+146,182,"""Mae'n bwysig nawr o safbwynt iechyd y cyhoedd a chyfiawnder troseddol bod y ddeddfwriaeth yn cael ei chyhoeddi cyn gynted â phosibl"", meddai llefarydd ar ran y llywodraeth.",politics,2
+147,1380,"Ni wyddom yn sicr, ond gallai fod â thafod fforchog. Roedd ei ddeiet yn cynnwys crwbanod, pysgod mawr, mosasawriaid eraill, a gallai hyd yn oed fod wedi bod yn ganibal.",science/technology,0
+148,1604,"Pob bore, mae pobl yn gadael trefi bach yn y wlad mewn ceir i fynd i'w gweithleoedd ac maen nhw'n cael eu pasio gan eraill sy'n mynd i'w cyrchfan gwaith yn y lle maen nhw newydd adael.",travel,1
+149,1361,"Mae'r menywod yn perthyn yn agos i'w gilydd fel arfer, yn deulu mawr o chwiorydd a merched.",science/technology,0
+150,576,"Beth ydy cell? Mae'r gair cell yn dod o'r gair Lladin ""cella"", sy'n golygu ""ystafell fechan"", a chafodd ei fathu yn gyntaf gan ficrosgopydd oedd yn arsylwi strwythur corc.",science/technology,0
+151,701,Dylai dinasyddion o Giwba sy'n dal cardiau gwyrdd yr Unol Daleithiau ymweld â Llysgenhadaeth Ecwador i gael eithriad i'r gofyniad hwn.,travel,1
+152,32,"Wrth i'r ceir o flaen Alonso fynd i mewn am danwydd o dan y car diogelwch, symudodd e ymlaen heibio'r ceir eraill i gipio buddugoliaeth.",sports,3
+153,1085,"Roedd y gwaith a wnaed yn ddamcaniaethol yn bennaf, ond ysgrifennwyd y rhaglen i efelychu arsylwadau a wnaed o alaeth y Saethydd.",science/technology,0
+154,458,Mae hyn yn gwneud lensys chwyddo rhad yn anodd eu defnyddio mewn amodau goleuni isel heb fflach.,science/technology,0
+155,1066,"Cafodd ei gyfarch gan Ddirprwy Brif Weinidog Singapôr Wong Kan Seng, a thrafododd faterion masnach a therfysgaeth â Phrif Weinidog Singapôr Lee Hsien Loong.",politics,2
+156,955,"Os oes gennych chi amser teithio ychwanegol, gwiriwch i weld sut mae cyfanswm eich dyfynbris i Affrica yn cymharu â phris o gwmpas y byd.",travel,1
+157,1823,Mae siopa di-doll yn gyfle i brynu nwyddau sydd wedi'u heithrio rhag trethi a thollau mewn rhai lleoliadau.,travel,1
+158,772,"Mae Ffair y Byd (a elwir yn gyffredin yn Arddangosfa'r Byd, neu'n syml Expo) yn ŵyl ryngwladol fawr o gelfyddydau a gwyddorau.",entertainment,5
+159,1159,"Yn Ffrainc, mae pleidleisio wedi bod yn brofiad technoleg isel yn draddodiadol: bydd pleidleiswyr yn ynysu eu hunain mewn bwth, a rhoi dalen o bapur wedi'i rhagargraffu gan ddangos eu dewis ymgeisydd mewn amlen.",politics,2
+160,1298,"Cafodd y protestiadau oedd weithiau'n dreisgar eu sbarduno gan fethiant i gynnal etholiadau, rhai i fod i gael eu cynnal ers 2011.",politics,2
+161,1812,"Mae polisïau canslo yn amrywio, ond ar ddiwedd Mawrth nid yw'r rhan fwyaf o bolisïau canslo ar sail coronafeirws yn estyn at Orffennaf 2020, pan oedd y gemau Olympaidd wedi cael eu trefnu.",sports,3
+162,825,"Os oes eisiau gweld y byd yn rhad arnoch chi, o anghenraid, ffordd o fyw neu her, mae rhai ffyrdd o wneud hynny.",travel,1
+163,778,"Mae'n gallu cael ei ail-lenwi'n weddol hawdd fel arfer os ydych chi'n rhedeg yn brin, ac mae'n rhoi manylder sy'n cymharu'n fras â DSLR cyfredol.",science/technology,0
+164,878,Mae clefyd heintus yn glefyd sy'n cael ei drosglwyddo'n hawdd trwy fod yn agos at berson sydd wedi'i heintio.,health,4
+165,1504,"Pan gaiff ei fagu'n gyfan gwbl gan anifeiliaid sydd ddim yn ddynol, mae'r plentyn lledwyllt yn arddangos ymddygiadau (o fewn terfynau corfforol) bron yn hollol fel rhai'r anifail penodol sy'n gofalu amdano, fel ei ofn o neu ddifaterwch at fodau dynol.",science/technology,0
+166,1588,"Prif nod gwyddoniaeth yw deall y ffordd mae'r byd yn gweithio drwy'r dull gwyddonol. Mewn gwirionedd, mae'r dull hwn yn arwain y rhan fwyaf o ymchwil wyddonol.",science/technology,0
+167,432,Mae gan Lwcsembwrg hanes hir ond mae ei annibyniaeth yn dyddio o 1839.,politics,2
+168,1795,Mae mordeithiau Saint Petersburg yn cynnwys amser yn y dref. Mae teithwyr mordaith yn cael eu heithrio rhag gofynion fisa (gwiriwch y telerau).,travel,1
+169,299,"Gallai methiant yr ail ddedfryd, sy'n cynnig gwahardd uniadau sifil o'r un rhyw, agor y drws o bosibl i uniadau sifil yn y dyfodol.",politics,2
+170,797,"Os ydych chi'n teithio â gliniadur neu lechen, storiwch gopi yn ei gof neu ddisg (cyrchadwy heb y rhyngrwyd).",science/technology,0
+171,947,"Mae Llyn Onega hefyd yn gysylltiedig â Volga, felly mae dod o Fôr Caspia trwy Rwsia yn dal i fod yn bosibl.",geography,6
+172,1824,"Mae teithwyr sy'n mynd i wledydd â threthu trwm weithiau'n gallu arbed cryn swm o arian, yn enwedig ar gynhyrchion fel diodydd alcoholaidd a thybaco.",travel,1
+173,1794,"Os ydych chi'n croesi'r Baltig Gogleddol yn y gaeaf, dylech wirio lleoliad y caban, gan fod mynd trwy res yn achosi sŵn eithaf ofnadwy i'r rhai sy'n cael eu heffeithio fwyaf.",travel,1
+174,861,"Gartref, oherwydd eich bod yn agored yn barhaus i'r germau lleol, mae'r tebygolrwydd yn uchel iawn eich bod chi'n heintrydd rhagddyn nhw'n barod.",health,4
+175,674,Mae mynd i mewn i Dde Affrica mewn car yn ffordd anhygoel o weld holl harddwch y rhanbarth yn ogystal â mynd i leoedd oddi ar y llwybrau twristiaeth arferol.,travel,1
+176,1327,Mae'n bosibl comedau oedd ffynhonnell cyflenwi dŵr i'r ddaear ynghyd â sylwedd organig sy'n medru ffurfio proteinau a chynnal bywyd.,science/technology,0
+177,1142,"Mae canlyniadau terfynol o etholiadau arlywyddol a seneddol Namibia wedi dangos bod yr arlywydd sy'n dal y swydd, Hifikepunye Pohamba, wedi cael ei ailethol o fwyafrif mawr.",politics,2
+178,893,Nid yw'r rhain yn ystwyth iawn felly mae'n rhaid i'r llwybr gymryd gwyriad hir o gwmpas y Mynyddoedd Trawsantarctig i ddod ar y llwyfandir.,geography,6
+179,528,"Mae'r gamp fodern o ffensio yn cael ei chwarae ar sawl lefel, o fyfyrwyr yn dysgu mewn prifysgol i gystadlu'n broffesiynol ac yn y Gemau Olympaidd.",sports,3
+180,754,"Mae gan rai gwestyau dreftadaeth o oes aur rheilffyrdd stêm a llongau cefnfor; cyn yr Ail Ryfel Byd, yn y bedwaredd ganrif ar bymtheg neu'n gynnar yn yr ugeinfed ganrif.",travel,1
+181,270,"Ers hynny, mae'r chwaraewr o Frasil wedi ymddangos mewn 53 gêm i'r clwb ym mhob cystadleuaeth ac wedi sgorio 24 gôl.",sports,3
+182,327,"Yn enedigol o brifddinas Croatia, Zagreb, enillodd Bobek fri wrth chwarae i Partizan Belgrade.",sports,3
+183,393,"Rhoddodd yr Almaen yr enw ""Ymgyrch Sealion"" i'r ymosodiad. Collwyd y mwyafrif o arfau a chyflenwadau Byddin Prydain pan ymadawodd â Dunkirk, felly roedd y fyddin yn rhesymol o wan.",politics,2
+184,1940,"Ar un adeg yn ninas hynafol Smyrna, mae hi yn awr yn ganolfan fasnachol fodern, ddatblygedig a phrysur, wedi'i gosod o gwmpas bae enfawr a'i hamgylchynu gan fynyddoedd.",geography,6
+185,1610,Llif Traffig yw'r astudiaeth o symudiad gyrwyr a cherbydau unigol rhwng dau le a'r rhyngweithio maen nhw'n gwneud â'i gilydd.,travel,1
+186,273,Mae pryder y gallai cleifion barhau i heintio rhagor o bobl trwy fynd trwy eu harferion pob dydd os yw symptomau'r ffliw yn aros yn ysgafn.,health,4
+187,1316,Fe wnaeth gyd-reslwyr hefyd dalu teyrnged i Luna.,sports,3
+188,14,"Ar ôl yr ornest, dywedodd Brenin y Clai, ""Dw i wedi fy ngyffroi i fod yn ôl yn rowndiau terfynol y digwyddiadau pwysicaf. Dw i yma i geisio ennill hyn"".",sports,3
+189,298,Cafodd newid ei wneud yn y sesiwn ddeddfwriaethol hon pan gafodd yr ail frawddeg ei dileu gan Dŷ'r Cynrychiolwyr yn gyntaf ac yna ei chymeradwyo mewn ffurf debyg gan y Senedd ddydd Llun.,politics,2
+190,1176,"Dyma'r gêm olaf i'r Crysau Duon, oedd eisoes wedi ennill y tlws bythefnos yn ôl.",sports,3
+191,1264,Mae Huhne wedi ymddiswyddo a bydd Ed Davy AS yn cymryd ei le yn y cabinet. Mae disgwyl y bydd Norman Lamb AS yn cymryd swydd y Gweinidog Busnes y mae Davey yn ei gadael.,politics,2
+192,833,Mae'n bosibl fydd hyn yn gofyn am gwblhau ffurflen gyda'r heddlu lleol neu ymweliad â'r swyddfeydd mewnfudo.,travel,1
+193,601,Mae gan nitrogen fel nwy yr un nodweddion o hyd â nitrogen hylifol. Mae'r cyflwr hylifol yn ddwysach ond mae'r moleciwlau yr un fath o hyd.,science/technology,0
+194,720,"Ar wahân i draethau tywod gwyn a thirweddau mynyddig, mae'r wlad yn gartref i ddinas hynaf Ewrop yng ngwledydd America, sydd bellach yn rhan o Santo Domingo.",geography,6
+195,380,"Wedyn, ychydig flynyddoedd yn ddiweddarach yn 1639, sylwodd seryddwr o Loegr o'r enw Jeremiah Horrocks ar groesiad o Wener.",science/technology,0
+196,1810,"Tokyo fydd yr unig ddinas Asiaidd i fod wedi cynnal dau gemau Olympaidd haf, ar ôl cynnal y gemau yn 1964.",sports,3
+197,1792,"Er ei bod y gerddoriaeth ar y prif lwyfannau wedi gorffen, cofiwch efallai bod rhannau o'r ŵyl a fydd yn parhau i chwarae cerddoriaeth tan yn hwyr yn y nos.",entertainment,5
+198,1357,"Yn olaf, mae llawer o gathod bach (gan gynnwys cathod anwes rhydd) sy'n bwyta'r ysglyfaethau bach llawer mwy niferus fel pryfed, cnofilod, madfallod ac adar.",science/technology,0
+199,726,"Mae nifer o dai bwyta o gwmpas yr ardd, ac yn y prynhawniau a gyda'r nos yno mae cyngherddau am ddim yn cael eu rhoi o'r gasebo canolog.",entertainment,5
+200,160,"Mae Stewart, Gordon, Kenseth a Harvick yn cwblhau'r deg safle uchaf ar gyfer Pencampwriaeth y Gyrwyr gyda phedair ras ar ôl yn y tymor.",sports,3
+201,1267,"Cafodd Edgar Veguilla anafiadau i'w fraich a'i ên, ac roedd Kristoffer Schneider angen llawdriniaeth ailadeiladol ar ei wyneb.",health,4
+202,647,Mae cymaint ohonom yn cael ei hunain yn gwylio sioe deledu sy'n rhoi gwybod i ni am broses neu brofiad na fyddwn byth yn cymryd rhan ynddynt nac yn cymhwyso'r wybodaeth honno.,entertainment,5
+203,1352,Cafodd y lloeren ei hanfon i'r gofod gan roced. Mae gwyddonwyr yn defnyddio telesgopau yn y gofod oherwydd bod atmosffer y Ddaear yn camliwio rhywfaint o'n goleuni a'n golygfa.,science/technology,0
+204,1776,"Mae yna nifer o winoedd o Ffrainc ar gael, ond efallai y byddai gwinoedd o Seland Newydd ac Awstralia yn teithio'n well.",entertainment,5
+205,693,"Jerwsalem yw prifddinas a dinas fwyaf Israel, er nad yw'r rhan fwyaf o wledydd na'r Cenhedloedd Unedig yn ei chydnabod fel prifddinas Israel.",geography,6
+206,1273,"Methodd pedair sgïwraig yn y grŵp eistedd i ferched â gorffen eu rhediadau, a methodd 45 o gyfanswm o 117 o sgiwyr â chael eu rhestru yn y Slalom Fawr.",sports,3
+207,1175,"I'r Springboks, rhoddodd derfyn ar gyfres o golli pum gêm.",sports,3
+208,1948,"Cofiwch eich bod yn ymweld yn y bôn â safle bedd torfol, yn ogystal â safle sydd ag ystyr anfesuradwy bron i gyfran sylweddol o boblogaeth y byd.",travel,1
+209,1318,"Gwnaeth Dustin ""Goldust"" Runnels y sylw fod ""Luna mor rhyfedd â mi…yn fwy felly efallai…rwy'n ei charu hi a byddaf yn gweld ei heisiau…gobeithio ei bod hi mewn lle gwell"".",sports,3
+210,1288,"Bydd y ddogfen, yn ôl y tor cyfrinach, yn cyfeirio at anghydfod y ffin, y mae Palesteina eisiau i fod yn seiliedig ar y ffiniau cyn Rhyfel Dwyrain Canol 1967.",politics,2
+211,1270,"Y tu hwnt i ddigwyddiad dydd Mercher, fe wnaeth Carpanedo gystadlu mewn dwy ras unigol yn y Pencampwriaethau.",sports,3
+212,1908,"Mae'r gwasanaeth yn cael ei ddefnyddio'n aml gan longau, gan gynnwys llongau pleser, yn ogystal â theithiau sydd ag anghenion data a llais o bell.",science/technology,0
+213,1281,Cafodd ei dderbyn i Ysbyty James Paget yn Great Yarmouth i ddechrau.,health,4
+214,854,"Mae MetroPlus yn fwy cyfforddus ac yn llai gorlawn ond ychydig yn ddrytach, ond mae'n dal yn rhatach na thocynnau metro arferol yn Ewrop.",travel,1
+215,295,Fe wnaeth hofrenyddion achub y deuddeg aelod o'r criw a'r unig anaf oedd trwyn wedi torri.,health,4
+216,679,"Tref yw Victoria Falls yn rhan orllewinol Simbabwe, ar draws y ffin o Livingstone, Sambia, ac yn agos at Botswana.",geography,6
+217,565,Roedd angen rhagor o gymorth ar y rhai oedd yn cymryd rhan mewn gweithgaredd rheolaidd yn nhermau canfyddiad o boen gan wahaniaethu rhwng gwahaniaethau poen cronig a theimlad anghyfforddus o symudiad corfforol arferol.,health,4
+218,877,"Mae clefyd heintus yn un sy'n cael ei achosi gan bathogen, fel feirws, bacteriwm, ffwng neu barasitiaid eraill.",health,4
+219,394,"Ond roedd y Llynges Frenhinol yn dal yn llawer cryfach na Llynges yr Almaen (""Kriegsmarine"") a gallai fod wedi dinistrio unrhyw fflyd wedi'i hanfon i ymosod ar draws y Sianel.",politics,2
+220,836,Mae pensaernïaeth yn ymwneud â'r ffordd mae adeilad wedi'i ddylunio a'i adeiladu. Mae pensaernïaeth lle yn aml yn atyniad ynddo'i hun i dwristiaid.,travel,1
+221,1098,"Fodd bynnag, mae'n ymddangos bod y ganran o XDR-TB yn y grŵp cyfan o bobl sydd â twbercwlosis yn dal i fod yn isel; 6,000 o'r cyfanswm o 330,000 o bobl sydd wedi'u heintio ar unrhyw adeg benodol yn Ne Affrica.",health,4
+222,1672,"Mae wedi bod yn hysbys ers amser maith fod gwahanol fathau o niwed i'r ymennydd, trawmâu, anafiadau, a thiwmorau yn cael effaith ar ymddygiad ac yn achosi newidiadau mewn rhai gweithrediadau meddyliol.",health,4
+223,688,Byddai'n well i ymwelwyr â hyn a hyn o amser dreulio'u hamser rywle arall.,travel,1
+224,126,Mae Al Gore a'r cadfridog Tommy Franks yn adrodd eu hoff benawdau'n hamddenol (un Gore oedd pan adroddodd The Onion ei fod ef a Tipper yn cael rhyw gorau eu bywydau ar ôl iddo golli Coleg Etholiadol 2000).,entertainment,5
+225,153,Credir mai dyma'r pumed tro mewn hanes fod pobl wedi sylwi ar ddeunydd wedi'i gadarnhau'n gemegol i fod o blaned Mawrth yn syrthio i'r Ddaear.,geography,6
+226,214,Disgwylir i golff yn ogystal â rygbi ddychwelyd i'r Gemau Olympaidd.,sports,3
+227,1676,Mae ymchwil mewn Deallusrwydd Artiffisial yn cynnwys gwneud i beiriannau awtomeiddio gwaith sy'n gofyn am ymddygiad deallus.,science/technology,0
+228,1117,"Ei 1,000fed stamp oedd y ""Gweithredoedd gwych gan Frenhinoedd Sweden"" ardderchog gan David Klöcker Ehrenstrahl yn 2000, sy'n cael ei restru yn Llyfr Recordiau Byd Guinness.",entertainment,5
+229,1882,Mae parodrwydd llywodraethau tramor i anrhydeddu'r dogfennau hyn yr un mor eang amrywiol.,politics,2
+230,1087,"Yn union fel y mae'r lleuad yn tynnu ar y ddaear, gan achosi llanwau, felly mae'r Llwybr Llaethog yn bwrw grym ar alaeth Sagittarius.",science/technology,0
+231,1329,"Dechreuodd Cuomo, 53 mlwydd oed, ei swydd fel llywodraethwr yn gynharach eleni ac arwyddodd fil y mis diwethaf yn cyfreithloni priodas o'r un rhyw.",politics,2
+232,1520,"Yn ei bapur Araith yr Arlywydd, fe wnaeth Oliver Sacks awgrymu sut mae pobl nad ydynt yn gallu deall lleferydd oherwydd niwed i'r ymennydd yn gallu asesu didwylledd yn gywir serch hynny.",health,4
+233,1638,Mae popeth yn y Bydysawd wedi'i wneud o sylwedd. Mae pob sylwedd wedi'i wneud o ronynnau bychain o'r enw atomau.,science/technology,0
+234,774,"Mae Dangosiadau Garddwriaethol Rhyngwladol yn ddigwyddiadau arbenigol sy'n cyflwyno arddangosfeydd blodau, gerddi botanegol ac unrhyw beth arall sy'n ymwneud â phlanhigion.",entertainment,5
+235,1803,"Ar y llaw arall, mae amodau rhew ac eira yn gyffredin mewn llawer o wledydd, ac mae traffig yn parhau yn ddi-dor gan amlaf trwy gydol y flwyddyn.",travel,1
+236,292,Adroddwyd am gymylau tywyll nad oeddent yn gysylltiedig ag unrhyw weithgarwch folcanig ar waelod y mynydd.,geography,6
+237,37,"Mae'r sioe PBS wedi ennill fwy na dau ddwsin o wobrau Emmy, a dim ond yn fyrrach na Sesame Street a Mister Rogers' Neighborhood mae ei rhediad.",entertainment,5
+238,1367,"Mae gwyddonwyr yn meddwl bod oselotiaid yn dilyn ac yn dod o hyd i anifeiliaid i'w bwyta (ysglyfaeth) drwy arogli, gan synhwyro ble maen nhw wedi bod ar y tir.",science/technology,0
+239,386,Y Brenin Sejong oedd pedwerydd brenin y Llinach Joseon ac mae'n un o'r rhai uchaf ei barch.,politics,2
+240,758,"Gallai teithiwr cyfoethog iawn ystyried hedfan o gwmpas y byd, wedi'i rannu gan arosiadau yn llawer o'r gwestyau hyn.",travel,1
+241,771,"Mae gwyliau teml Kerala yn ddiddorol iawn i'w gweld, gyda gorymdaith reolaidd o eliffantod wedi'u haddurno, cerddorfa'r deml a dathliadau eraill.",entertainment,5
+242,1412,"Nid oedd gan y Gyngres unrhyw bŵer i orfodi trethi, ac, oherwydd nad oedd gweithredaeth na barnwriaeth genedlaethol, roedd hi'n dibynnu ar awdurdodau taleithiol, oedd yn aml yn anghydweithredol, i orfodi ei holl ddeddfau.",politics,2
+243,637,"Bedair blynedd yn ddiweddarach dyfarnwyd patent, oedd yn batent cyntaf y byd a roddwyd ym maes MRI.",science/technology,0
+244,547,"Byddai'r prif lu ymosod o 2,400 o ddynion yn croesi'r afon i'r gogledd o Trenton, ac yna'n rhannu'n ddau grŵp, un o dan Greene a'r llall o dan Sullivan, er mwyn lansio ymosodiad cyn y wawr.",politics,2
+245,1920,Mae hyn yn golygu y gallwch ymweld â'r ddinas hanesyddol am gwpl o ddiwrnodau yn ogystal â dychwelyd a chysgu ar y llong gyda'r nos.,travel,1
+246,280,"Dywedodd trefnwyr y gwrthdystiad fod tua 100,000 o bobl wedi dod mewn dinasoedd yn yr Almaen fel Berlin, Cologne, Hamburg, a Hanover.",politics,2
+247,907,Maen nhw fel arfer yn cynnig lled band uwch ac ansawdd gwasanaeth gwell. Maen nhw wedi'u hamgryptio ac felly maen nhw'n anoddach i ysbïo arnyn nhw.,science/technology,0
+248,1625,"Mae'r brif Afon Amason yn 6,387 cilomedr (3,980 milltir). Mae hi'n casglu dŵr o filoedd o afonydd llai.",geography,6
+249,1559,"Cerdded oedd y dull cyntaf o deithio y gwyddom amdano, dechreuodd bodau dynol gerdded yn unionsyth ddwy filiwn o flynyddoedd yn ôl gydag ymddangosiad Homo Erectus (sy'n golygu dyn cefnsyth).",travel,1
+250,941,"Ar ôl i chi ddod yn gyfforddus â fformatio a golygu ar y we, yn ddiweddarach, efallai y byddwch am greu eich gwefan eich hun.",science/technology,0
+251,642,Mae defnyddio'r Rhyngrwyd a'r We Fyd-Eang yn caniatáu i ddysgwyr gael mynediad at wybodaeth ar bob adeg.,science/technology,0
+252,1225,"Gan Del Potro roedd y fantais yn yr ail set, ond roedd hon hefyd yn gofyn am ddatglwm ar ôl cyrraedd 6-6.",sports,3
+253,566,"Mae golwg, neu'r gallu i weld, yn dibynnu ar organau synhwyraidd y system weledol neu'r llygaid.",health,4
+254,1233,"Ym mhrif gyflwyniad Sioe Gemau Tokyo ddydd Iau, dadorchuddiodd llywydd Nintendo, Satoru Iwata gynllun y rheolydd ar gyfer consol Nintendo Revolution newydd y cwmni.",entertainment,5
+255,116,Mae gwyddonwyr wedi amau bod Enceladus yn weithredol yn ddaearegol ac yn ffynhonnell bosibl o gylch E rhewllyd Sadwrn.,science/technology,0
+256,1232,"Cyflwynodd Lakkha Singh y bhajan chhappan bhog hefyd. Roedd y canwr, Raju Khandelwal yn cyfeilio iddo fe.",entertainment,5
+257,1164,"Daeth ASUS Eee PC, a gafodd ei lansio'n fyd-eang ar gyfer ffactorau arbed costau ac ymarferoldeb, yn bwnc poeth ym Mis TG Taipei 2007.",science/technology,0
+258,471,"Y cysyniad oedd bod rhaid i holl genhedloedd Ewrop geisio atal un genedl rhag mynd yn bwerus, ac felly roedd lywodraethau cenedlaethol yn newid eu cynghreiriau'n aml er mwyn cynnal y cydbwysedd.",politics,2
+259,1071,"Mae'r Prif Weinidog John Howard wedi dweud bod y ddeddf ond i ddiogelu cyfleusterau'r ysbyty rhag cael ei hisraddio gan lywodraeth Tasmania, drwy roi AUD$45 miliwn ychwanegol.",politics,2
+260,1206,Cadarnhaodd Hamilton fod Ysbyty Prifysgol Howard wedi derbyn y claf mewn cyflwr sefydlog.,health,4
+261,1192,"Cafodd y ffotograffydd ei gludo i Ganolfan Feddygol Ronald Reagan UCLA, lle bu farw yn ddiweddarach.",health,4
+262,827,"I'r rheini sy'n fodlon i aberthu cysur, amser a rhagweladwyedd i wthio treuliau i lawr yn agos at sero, gweler teithio ar gyllideb isaf.",travel,1
+263,1065,"Cyrhaeddodd yr Arlywydd George W. Bush Singapôr ar fore Tachwedd 16, gan gychwyn taith wythnos o amgylch Asia.",politics,2
+264,1478,"Mae penderfyniaeth dechnolegol yn derm sy'n cwmpasu amrywiaeth eang o syniadau yn ymarferol, o wthio technoleg neu'r rheidrwydd technolegol i synnwyr llym bod tynged ddynol yn cael ei ysgogi gan resymeg sylfaenol sy'n gysylltiedig â deddfau gwyddonol a'u hymddangosiad mewn technoleg.",science/technology,0
+265,1100,Dywed gwyddonwyr fod y ffrwydrad a achoswyd gan y gwrthdaro yn enfawr.,science/technology,0
+266,1353,Mae'n cymryd roced enfawr dros 100 troedfedd o uchder i roi lloeren neu delesgôp yn y gofod.,science/technology,0
+267,10,"Tua 11:20, symudodd y brotest i fyny Whitehall, heibio Sgwâr Trafalgar, ar hyd y Strand, gan fynd heibio Aldwych ac i fyny Kingsway tuag at Holborn lle'r oedd y Blaid Geidwadol yn cynnal eu Fforwm Gwanwyn yng ngwesty'r Grand Connaught Rooms.",politics,2
+268,1732,"Mae'r Sundarbans yn cwmpasu ardal o 3,850 cilomedr sgwâr, y mae traean ohoni wedi'i gorchuddio ag ardaloedd dŵr/cors.",geography,6
+269,1103,Bydd canlyniad dadansoddiad plotio yn cael ei bostio ar wefan gyhoeddus.,science/technology,0
+270,580,Gellir anfon yr ysgogiadau nerf hyn mor gyflym trwy'r corff cyfan sy'n helpu cadw'r corff yn ddiogel rhag unrhyw fygythiad posibl.,science/technology,0
+271,946,"Mae Camlas y Môr Gwyn-Baltig yn cysylltu Cefnfor yr Arctig gyda'r Môr Baltig, trwy Lyn Onega, Llyn Ladoga a Saint Petersburg, yn bennaf drwy afonydd a llynnoedd.",geography,6
+272,1813,"Mae disgwyl y bydd y rhan fwyaf o docynnau ar gyfer y digwyddiad yn costio rhwng ¥ 2,500 a ¥ 130,000, gyda thocynnau arferol yn costio tua ¥7,000.",travel,1
+273,1651,Mae damcaniaethau cynnwys yn canolbwyntio ar beth sy'n gyrru pobl neu beth sy'n apelio atyn nhw.,science/technology,0
+274,368,Byddai dannedd trichorn wedi gallu chwalu nid dail yn unig ond hyd yn oed canghennau a gwreiddiau garw iawn.,science/technology,0
+275,802,Gall digwyddiadau iechyd tymor hir posibl o yfed gormodol gynnwys niwed i'r iau a dallineb a marwolaeth hyd yn oed. Mae'r perygl posibl yn cynyddu wrth yfed alcohol a gynhyrchir yn anghyfreithlon.,health,4
+276,1541,"Roedd yr Almaen yn elyn cyffredin yn yr Ail Ryfel Byd, gan arwain at gydweithredu rhwng yr Undeb Sofietaidd ac UDA. Gyda diwedd y rhyfel achosodd gwrthdaro o ran system, proses a diwylliant i'r gwledydd gweryla.",politics,2
+277,1278,"Er bod tri o bobl y tu mewn i'r tŷ pan darodd y car ef, ni chafodd yr un ohonynt niwed.",health,4
+278,285,Mae Latfia yn ogystal â Slofacia wedi gohirio'r broses o ymuno â'r ACTA.,politics,2
+279,557,"Mae'n endid cymhleth iawn sy'n cynnwys, yn ôl model Bohr a symleiddiwyd, niwclews canolog ag electronau'n cylchdroi o'i gwmpas, braidd yn debyg i blanedau'n cylchdroi o gwmpas yr haul - gweler Ffigur 1.",science/technology,0
+280,204,"Roedd y Twin Otter wedi bod yn ceisio glanio yn Kokoda ddoe fel Hediad Airlines PNG CG4684, ond roedd wedi methu unwaith yn barod.",travel,1
+281,277,"Enillodd cyn-lywodraethwr Massachusetts, Mitt Romney, ragetholiad arlywyddol Plaid Weriniaethol Florida ddydd Mawrth gyda dros 46 y cant o'r bleidlais.",politics,2
+282,733,"Yn y gaeaf, gallwch fwynhau'r sgïo gorau yng Ngogledd America, ac yn yr haf rhowch gynnig ar feicio mynydd awthentig.",sports,3
+283,379,Mae cyfnodau'n digwydd oherwydd dim ond ochr Gwener (neu'r Lleuad) sy'n wynebu'r Haul sy'n cael ei oleuo. Roedd cyfnodau Gwener yn cefnogi damcaniaeth Copernicws bod y planedau'n mynd o amgylch yr haul.,science/technology,0
+284,47,"Heddiw, creodd Jonny Reid, cydyrrwr tîm A1GP Seland Newydd hanes trwy fod y gyrrwr cyflymaf dros Bont 48 oed Harbwr Auckland, Seland Newydd, yn gyfreithlon.",sports,3
+285,1788,Maen nhw hefyd yn gallu cadw'r archeb ar eich cyfer os oes angen amser arnoch chi i feddwl am y cynnig neu gaffael dogfennau eraill ar gyfer eich cyrchfan (e.e. fisa).,travel,1
+286,1379,"Roedd ei enau hir yn llawn o fwy na 70 o ddannedd miniog iawn, ynghyd â set ychwanegol yn nho ei geg, gan olygu nad oedd dianc i unrhyw beth fyddai'n croesi ei lwybr.",science/technology,0
+287,538,Mae twristiaid yn gallu ymweld â thirnodau gwahanol gwlad benodol neu gallent ddewis i ganolbwyntio ar un ardal yn unig.,travel,1
+288,1205,"Dywedodd Danielle Lantagne, arbenigwr y Cenhedloedd Unedig ar y clefyd, fod yr achosion wedi cael eu hachosi gan yr heddychwyr mae'n debyg.",health,4
+289,24,Cafodd e 2 gôl a helpodd i greu 2 arall ym muddugoliaeth 5-3 Washington dros yr Atlanta Thrashers.,sports,3
+290,675,Mae modd gwneud hyn mewn car arferol â chynllunio gofalus ond cynghorir 4x4 yn gryf a dim ond â sylfaen olwynion uchel 4x4 mae modd cyrraedd llawer o leoliadau.,travel,1
+291,1237,"Roedd ei gydaelod tîm Fernando Alonso ar y blaen am y rhan fwyaf o'r ras, ond daeth â hi i ben yn syth ar ôl ei arhosiad trwsio, oherwydd olwyn dde flaen wedi'i gosod yn wael yn ôl pob tebyg.",sports,3
+292,1163,"Mae ymgeiswyr yn gallu anfon cynrychiolwyr i dystio i bob rhan o'r broses. Gyda'r nos, mae pleidleisiau'n cael eu cyfrif gan wirfoddolwyr o dan oruchwyliaeth drom, gan ddilyn gweithdrefnau penodol.",politics,2
+293,1376,Mae planhigion yn gwneud eu bwyd o'r haul trwy ffotosynthesis. Maen nhw hefyd yn cynnig cysgod.,science/technology,0
+294,663,"Mae San Francisco hefyd yn un o'r lleoedd gorau yn y genedl ar gyfer bwyd Asiaidd arall: Coreaidd, Thai, Indiaidd a Japaneaidd.",entertainment,5
+295,1111,"Mae'r cychwyniad wedi cymell llywodraeth India i ymgymryd â'r fath fesurau â defnyddio dalwyr moch mewn ardaloedd sydd wedi'u heffeithio'n ddifrifol, gan ddosbarthu miloedd o lenni mosgito a chwistrellu plaladdwyr.",health,4
+296,738,"Mae CafeNet El Sol yn cynnig gwasanaeth archebu am ffi o $30, neu $10 am docynnau un diwrnod; manylion ar eu tudalen Corcovado.",travel,1
+297,508,"Mae Anhwylder Diffyg Canolbwyntio ""yn syndrom niwrolegol y mae ei dri symptom diffiniol clasurol yn cynnwys byrbwylltra, tynnu sylw, a gorfywiogrwydd neu egni gormodol"".",health,4
+298,700,Mae'r gofynion hyn wedi'u cynllunio i gynnig llif ymfudol trefnus rhwng y ddwy wlad.,travel,1
+299,129,"Y ddinas fydd y gyntaf yn ne-ddwyrain Ewrop i gynnal CowParade, digwyddiad celf cyhoeddus mwya'r byd, rhwng Mehefin ac Awst eleni.",entertainment,5
+300,1574,Mae pob cyfrifiadur i bob pwrpas sy'n cael ei ddefnyddio heddiw yn seiliedig ar drin gwybodaeth sy'n cael ei chodio ar ffurf rhifau deuaidd.,science/technology,0
+301,512,Mae ADD yn effeithio ar berthnasoedd gyda chyfoedion eraill oherwydd nad yw plant eraill yn gallu deall pam eu bod yn ymddwyn fel maen nhw neu pam maen nhw'n sillafu'r ffordd maen nhw neu fod eu lefel aeddfedrwydd yn wahanol.,health,4
+302,1112,"Mae sawl miliwn ffiol o frechiad enceffalitis hefyd wedi cael eu haddo gan y llywodraeth, fydd yn helpu i baratoi asiantaethau iechyd ar gyfer y flwyddyn nesaf.",health,4
+303,1391,"Yn hinsawdd gynnes y Dwyrain Canol, nid oedd y tŷ mor bwysig.",geography,6
+304,755,"Dyma'r gwestyau lle byddai cyfoethogion ac enwogion yr amser yn aros, ac yn aml roedd ganddynt gyfleusterau bwyta gwych a bywyd nos.",entertainment,5
+305,1143,"Cadwodd y blaid sy'n llywodraethu, Mudiad Pobl De Orllewin Affrica (SWAPO), fwyafrif yn yr etholiadau seneddol hefyd.",politics,2
+306,1522,Mae ymchwil yr ugeinfed ganrif wedi dangos bod dau bwll o amrywiad genetig: cuddiedig ac wedi'i fynegi.,science/technology,0
+307,290,Adroddodd Swyddfa Dywydd Gwlad yr Iâ hefyd ddim gweithgaredd daeargrynfeydd yn ardal Hekla yn y 48 awr ddiwethaf.,geography,6
+308,1828,"Yn rhyfedd, er hynny, mae gwasanaeth ffôn symudol yn gryfach o lawer yma nac ar hyd llawer o ddarnau eraill o'r ffordd, e.e. y Pennsylvania Wilds.",travel,1
+309,163,"Yn llong gwrthfesurau mwyngloddiau dosbarth Avenger, roedd y llong ar ei ffordd i Puerto Princesa yn Palawan.",travel,1
+310,205,"Tua deng munud cyn roedd hi i fod i lanio o'i ail ddynesiad, diflannodd.",travel,1
+311,865,"Yn yr un modd â phroblemau anadlol mewn hinsoddau mwy claear, mae problemau perfeddol mewn hinsoddau poeth yn weddol gyffredin ac yn y rhan fwyaf o achosion yn gwbl annifyr ond nid yn wirioneddol beryglus.",health,4
+312,560,"I wirio'r dioddefwr, mae'n rhaid i chi yn gyntaf arolygu'r fan i sicrhau eich diogelwch.",health,4
+313,1427,"Er enghraifft, y ffformat ffotograffiaeth delwedd lonydd mwyaf cyffredin yn y byd yw 35mm, a dyma oedd y maint ffilm blaenaf ar ddiwedd oes y ffilm analog.",science/technology,0
+314,650,"Mae'n debygol y bydd gan eich gwesty neu westeiwyr (os yn aros mewn tŷ gwestai neu gartref preifat) gyfrifiadur personol wedi'i gysylltu â wifi neu ryngrwyd, a bydd gan bob anheddiad gaffi rhyngrwyd neu ryw leoliad â wifi cyhoeddus.",science/technology,0
+315,1622,Afon Amason yw'r ail hiraf a'r fwyaf ar y Ddaear. Mae'n cludo mwy nag 8 gwaith cymaint o ddŵr â'r afon fwyaf ond un.,geography,6
+316,1800,"Ar ffyrdd rhewllyd ag eira arnyn nhw, mae ffrithiant yn isel ac nid ydych chi'n gallu gyrru fel pe baech chi ar asffalt noeth.",travel,1
+317,1507,"Mae sgaffaldiau yn gallu bod yn rhithiol a real, mewn geiriau eraill, mae athro yn fath o sgaffald ond felly hefyd mae'r dyn clipiau papur bach yn Microsoft Office.",science/technology,0
+318,332,Dechreuodd y dathliadau â sioe arbennig gan y grŵp byd-enwog Cirque du Soleil.,entertainment,5
+319,866,Os ydych chi'n teithio mewn gwlad sy'n datblygu am y tro cyntaf - neu mewn rhan newydd o'r byd - peidiwch â bychanu'r sioc ddiwylliannol bosibl.,travel,1
+320,1011,"Rydym yn cytuno â datganiad yr USOC bod buddiannau'n hathletwyr a chlybiau, a'u camp, yn gallu cael eu gwasanaethu'n well trwy symud ymlaen â newid ystyrlon o fewn ein sefydliad, yn hytrach na didystysgrifo.",sports,3
+321,48,"Llwyddodd Mr Reid i yrru car A1GP Seland Newydd, Black Beauty, dros y bont ar gyflymder dros 160km yr awr saith gwaith.",sports,3
+322,1774,Mae'r rhain yn draethau teuluol sydd weithiau'n orlawn ag ystod dda o siopau ar hyd y lan. Mae nofio yn ddiogel.,entertainment,5
+323,1857,"Yn yr un modd, o gael fisa Schengen, nid oes angen i chi wneud cais am fisâu i bob gwlad sy'n aelod o Schengen ar wahân, gan arbed amser, arian a gwaith papur.",travel,1
+324,1592,"Wrth i ddealltwriaeth o'r Roeg ddirywio, canfu'r Gorllewin ei hun wedi'i ysgaru oddi wrth ei wreiddiau athronyddol a gwyddonol Groegaidd.",science/technology,0
+325,1737,"Mae tacsis a rennir yn ffordd gyflym a chyfforddus o deithio i fannau cyfagos, fel Paro (Nu 150) a Punakha (Nu 200).",travel,1
+326,1362,"Mae cnudoedd o lewod yn ymddwyn yn debyg iawn i gnudoedd o fleiddiaid neu gŵn (ond nid i gathod mawr eraill), ac yn farwol iawn i'w hysglyfaeth hefyd.",science/technology,0
+327,1673,Mae cynnydd technolegau newydd yn caniatáu i ni weld ac ymchwilio i strwythurau a phrosesau ymennydd na chawsant eu gweld erioed o'r blaen.,science/technology,0
+328,1909,Dylai eich darparwr gwasanaeth ffôn lleol allu rhoi rhagor o wybodaeth am gysylltu â'r gwasanaeth hwn.,science/technology,0
+329,1645,Mae'n eithaf tebyg i rolio cert drom i fyny bryn. Mae hollti'r niwclews eto'n rhyddhau rhywfaint o'r ynni hwnnw.,science/technology,0
+330,835,"Mewn achosion eraill, dim ond ar y rheini sy'n aros y tu allan i lety twristaidd bydd angen cofrestru. Fodd bynnag, mae hyn yn gwneud y gyfraith yn llawer mwy aneglur, felly ceisiwch wybodaeth o flaen llaw.",travel,1
+331,1859,"Mae gan y diffiniad amrywiadau daearyddol, lle gallai'r terfyn oedran fod yn llai mewn lleoedd fel Gogledd America nag yn Ewrop.",geography,6
+332,585,"Fodd bynnag, cafodd y gwir delesgopau cyntaf eu gwneud yn Ewrop ar ddiwedd yr unfed ganrif ar bymtheg.",science/technology,0
+333,602,Mae dŵr yn enghraifft arall. Mae'r cyfansoddyn dŵr wedi'i ffurfio o ddau atom hydrogen ac un atom ocsigen.,science/technology,0
+334,749,Mae gan symlrwydd dringo i mewn i'ch car a chychwyn ar daith hir ar y ffordd apêl gynhenid.,travel,1
+335,986,"Mae ffïordau a dyffrynoedd serth sydd yn arwain yn sydyn at lwyfandir uchel, gwastad mwy neu lai, yn nodweddiadol o Norwy.",geography,6
+336,1722,"Fel gyda holl Barciau Cenedlaethol De Affrica, mae ffioedd cadwraeth a mynediad dyddiol ar gyfer y Parc.",travel,1
+337,887,"Mae ymweliadau twristaidd yn ddrud, yn gofyn am ffitrwydd corfforol, yn gallu digwydd yn haf ym misoedd Tachwedd i Chwefror yn unig, ac yn gyfyngedig i raddau helaeth i'r Penrhyn, Ynysoedd a Môr Ross.",travel,1
+338,1290,Mae Israel yn mynnu presenoldeb milwrol parhaus yn y dyffryn am ddeng mlynedd unwaith y bydd y cytundeb wedi'i arwyddo tra bod y PA yn cytuno i adael presenoldeb o'r fath am bum mlynedd yn unig.,politics,2
+339,1606,"Erbyn hyn, mae gwyddoniaeth yn awgrymu bod yr economi garbon enfawr hon wedi taro'r biosffer o un o'i gyflyrau sefydlog sydd wedi cefnogi esblygiad dynol am y ddwy filiwn o flynyddoedd diwethaf.",science/technology,0
+340,498,"Dros lawer o ganrifoedd, arweiniodd yr Ymerodraeth Rufeinig at enillion mawr ym maes meddygaeth a ffurfio llawer o'r wybodaeth sydd gennym heddiw.",health,4
+341,657,Mae'r dyddiau hir iawn yn yr haf yn gallu arwain at broblemau cael digon o gwsg a phroblemau iechyd cysylltiedig.,health,4
+342,1609,"Pam bod systemau cludiant yn cymell y fath gwynion, pam bod nhw'n methu bob dydd? A yw peirianwyr cludiant yn anghymwys? Neu oes rhywbeth mwy sylfaenol yn digwydd?",travel,1
+343,597,"Os ydych chi'n edrych ar bethau byw o dan ficrosgôp, byddwch chi'n gweld eu bod wedi eu gwneud o sgwariau neu beli bach.",science/technology,0
+344,1239,"""Mae hi'n ddel iawn ac yn canu'n eithaf da hefyd"", meddai yn ôl trawsgrifiad o'r gynhadledd newyddion.",entertainment,5
+345,1790,"Ar gyfer rhai gwyliau, mae mwyafrif llethol y rhai sy'n mynychu gwyliau cerddoriaeth yn gwersylla ar y safle, ac mae'r rhan fwyaf o fynychwyr yn ystyried ei bod yn rhan hanfodol o'r profiad.",entertainment,5
+346,267,"Cafodd yr achos ei erlyn yn Virginia oherwydd ei fod yn gartref i'r darparwr rhyngrwyd blaenllaw AOL, y cwmni a ysgogodd y cyhuddiadau.",science/technology,0
+347,13,Sicrhaodd Nadal 88% o bwyntiau rhwyd yn yr ornest gan ennill 76 pwynt yn y serfiad cyntaf.,sports,3
+348,1223,Maen nhw wedi canslo'r daith ar ôl i'r prif ganwr Steven Tyler gael ei anafu ar ôl syrthio oddi ar y llwyfan wrth berfformio ar Awst 5.,entertainment,5
+349,1707,Casablanca yw un o'r lleoedd lleiaf diddorol i siopa ynddo ym Moroco gyfan.,travel,1
+350,1516,"Er enghraifft, mae ""dysgu"" a ""chymdeithasu"" yn cael eu hawgrymu fel cymhellion pwysig i ddefnyddio'r Rhyngrwyd (James et al., 1995).",science/technology,0
+351,350,"Mae hon, fodd bynnag, yn broblem anodd iawn i'w datrys a bydd yn cymryd llawer o flynyddoedd cyn i ni weld adweithyddion ymasiad defnyddiol yn cael eu codi.",science/technology,0
+352,1236,Collodd Giancarlo Fisichella reolaeth o'i gar a daeth y ras i ben yn fuan iawn wedi iddi ddechrau.,sports,3
+353,550,"Rhywfaint o redeg traws gwlad yn ystod y gaeaf, wedi'i gyfuno â gwaith campfa ar gyfer rhan uchaf y corff, yw'r paratoad gorau ar gyfer y tymor rhedeg.",sports,3
+354,753,"Mae gwersylla ceir yn bosibl os oes gennych chi fan mini fawr, SUV, Sedan neu Wagen Orsaf â sedd sy'n plygu i lawr.",travel,1
+355,1847,"Mae sgïo yn weithgaredd teithio mawr gyda llawer o selogion, yn adnabyddus weithiau fel ""penboethiaid sgïo"", sy'n cynllunio gwyliau cyfan o gwmpas sgïo mewn lleoliad penodol.",sports,3
+356,862,"Ond mewn rhannau eraill o'r byd, lle mae'r anifeiliaid bacteriolegol yn newydd i chi, rydych chi'n llawer mwy tebygol o redeg i mewn i broblemau.",health,4
+357,1852,Meddyliwch am y llwybr sgïo fel llwybr cerdded tebyg.,sports,3
+358,1070,"Byth oddi ar i'r Llywodraeth Ffederal gamu i mewn i gymryd cyfrifoldeb dros gyllido ysbyty Mersey yn Devonport, Tasmania, mae llywodraeth y dalaith a rhai ASau ffederal wedi beirniadu'r weithred hon fel sbloet yn y rhagarweiniad at yr etholiad ffederal i'w galw erbyn Tachwedd.",politics,2
+359,79,Byddai'r ddau dîm yn cyfarfod yn y rownd gyn-derfynol fawr lle enillodd Noosa o 11 pwynt.,sports,3
+360,272,"Mae rhai astudiaethau yn awgrymu bod rhaid i'r afiechyd ddod yn llai angheuol cyn y gall achosi epidemig byd-eang, nododd.",health,4
+361,1035,"Po leiaf y rhif Rossby, y lleiaf gweithredol mae'r seren o safbwynt gwrthdroadau magnetig.",science/technology,0
+362,33,Cafodd Piquet Jr. ei ddiswyddo ar ôl Grand Prix Hwngari yn 2009.,sports,3
+363,1109,Adroddwyd am achosion cyntaf yr afiechyd y tymor hwn ar ddiwedd Gorffennaf.,health,4
+364,434,Mae Lwcsembwrg wedi ceisio aros yn wlad niwtral bob amser ond cafodd ei meddiannu gan yr Almaen yn y Rhyfel Byd Cyntaf yn ogystal â'r Ail Ryfel Byd.,politics,2
+365,1769,"Yn ystod y frwydr am annibyniaeth a drefnwyd gan fudiad Mau, fe wnaeth casgliad heddychlon yn y dref arwain at ladd y prif swyddog Tupua Tamasese Lealofi III.",politics,2
+366,227,"Mae gwyddonwyr wedi darganfod tirffurfiau wedi'u gwasgaru ar draws arwyneb y lleuad o'r enw sgarpiau clustennog sydd, yn ôl pob tebyg wedi deillio o'r lleuad yn crebachu'n araf iawn.",geography,6
+367,1694,Mae Ynysoedd Dwyrain Affrica yng Nghefnfor India oddi ar arfordir dwyreiniol Affrica.,geography,6
+368,821,"Mae asiantaethau teithio wedi bod o gwmpas ers y bedwaredd ganrif ar bymtheg. Mae asiant teithio yn ddewis da fel arfer ar gyfer taith sy'n estyn y tu hwnt i brofiad blaenorol teithiwr o natur, diwylliant, iaith neu wledydd incwm isel.",travel,1
+369,876,"I'r rhai sy'n anghyfarwydd ag iaith dechnegol feddygol, mae gan y geiriau heintus ac ymledol ystyron gwahanol.",health,4
+370,1012,"Mae Gymnasteg yr Unol Daleithiau yn cynorthwyo ymchwiliad annibynnol a allai fwrw goleuni ar sut y gallai camdriniaeth o'r graddau a ddisgrifiwyd mor ddewr gan oroeswyr Larry Nassar fod wedi mynd heb ei ddarganfod cyhyd, ac yn croesawu unrhyw newidiadau angenrheidiol a phriodol.",sports,3
+371,880,Mae'r gofynion hyn yn gallu dibynnu'n aml ar ba wledydd y mae teithiwr wedi ymweld â hwy neu'n bwriadu ymweld.,travel,1
+372,1019,"Mae'r enwebiadau eraill yn cynnwys y Ffilm Gorau, Cyfarwyddwr, Sinematograffi, Cynllunio Gwisgoedd, Golygu Ffilm, Sgôr Wreiddiol, Cynllunio Cynhyrchu, Golygu Sain, Cymysgu Sain, a Sgript Ffilm Wreiddiol.",entertainment,5
+373,195,Mae disgwyl y bydd Massa allan am weddill tymor 2009 o leiaf.,sports,3
+374,65,Mae protestwyr yn gobeithio casglu deiseb o 1.2 miliwn o lofnodion i'w chyflwyno i'r Gyngres Genedlaethol yn Nhachwedd.,politics,2
+375,118,Dywedodd cyhoeddwr y gêm Konami mewn papur newydd Siapaneaidd heddiw na fyddant yn rhyddhau'r gêm Six Days in Fallujah.,entertainment,5
+376,1821,"Mae plâu yn gallu difetha bwyd, achosi cosi poenus, neu mewn achos gwaeth achosi adweithiau alergaidd, lledaenu gwenwyn, neu drosglwyddo heintiau.",science/technology,0
+377,801,"Yfwch ddiodydd alcoholaidd yn gymedrol. Mae alcohol yn cael effaith wahanol ar bawb, ac mae adnabod eich terfyn yn bwysig iawn.",health,4
+378,339,Cafodd e sylw ar unwaith gan y staff meddygol ar y trac a'i gludo i ysbyty lleol lle bu farw'n ddiweddarach.,health,4
+379,1201,"Mae ceidwaid heddwch y Cenhedloedd Unedig, a gyrhaeddodd Haiti ar ôl daeragryn 2010, yn cael eu beio am ledaeniad yr afiechyd a gychwynnodd ger gwersyll y milwyr.",health,4
+380,134,"Mae llanw coch yn cael ei achosi gan grynhoad uwch na'r arfer o Karenia brevis, organeb forol â chell unigol sy'n digwydd yn naturiol.",science/technology,0
+381,930,"Er efallai na fydd angen fisa arnoch chi am ymweliadau byr â rhai gwledydd fel twrist neu ar gyfer busnes, mae mynd yno fel myfyriwr rhyngwladol yn gyffredinol yn gofyn am arhosiad hirach na mynd yno fel twrist achlysurol yn unig.",travel,1
+382,1597,"Defnyddiodd Hershey a Chase facterioffagau, neu feirysau, i fewnblannu eu DNA eu hunain i facteriwm.",science/technology,0
+383,18,"Cafwyd protestiadau ledled y byd, nifer o erlyniadau troseddol, ac fe wnaeth arweinwyr llywodraethau Gwlad yr Iâ a Phacistan ymddiswyddo.",politics,2
+384,325,Mae gwyddonwyr yn y Ganolfan Gorwynt Genedlaethol yn rhag-weld y bydd Danielle yn cryfhau i gorwynt erbyn dydd Mercher.,geography,6
+385,549,"Wrth gwrs, mae'n rhaid fod gan redwr hanner milltir o'r safon uchaf, dyn sy'n gallu curo dau funud, gyflymder rhesymol, ond mae'n rhaid i ddycnwch gael ei feithrin ar bob cyfrif.",sports,3
+386,680,"Mae'r dref yn gorwedd yn union drws nesaf i'r rhaeadr, a dyma'r prif atyniad, ond mae'r gyrchfan hon sy'n boblogaidd gyda thwristiaid yn cynnig digon o gyfleoedd i geiswyr antur a'r rhai sydd am weld yr atyniadau i aros yn hirach.",travel,1
+387,810,"Mae ceunantu yn cyfuno elfennau o nofio, dringo a neidio - ond ychydig o hyfforddiant neu ffitrwydd corfforol sydd ei angen i gychwyn arni (o'i gymharu â dringo creigiau, deifio sgwba neu sgïo alpaidd, er enghraifft).",sports,3
+388,403,"Ar ddechrau'r rhyfel roedden nhw'n teithio yn bennaf ar ben y môr, ond wrth i radar ddechrau datblygu a dod yn fwy manwl gywir gorfodwyd y llongau tanfor i fynd o dan y dŵr er mwyn osgoi cael eu gweld.",science/technology,0
+389,1695,"Madagascar yw'r fwyaf o bell ffordd, ac yn gyfandir ar ei phen ei hun o ran bywyd gwyllt.",geography,6
+390,1811,"Os archeboch chi eich hediadau a llety ar gyfer 2020 cyn i'r gohiriad gael ei gyhoeddi, gallai fod gennych chi sefyllfa ddyrys.",travel,1
+391,306,Cafodd achos y farwolaeth ei gyhoeddi fel canser y ddwythell bustl o fewn yr iau.,health,4
+392,1203,"Cyn i filwyr gyrraedd, nid oedd Haiti wedi cyfarfod â phroblemau yn perthyn i'r afiechyd ers yr 1800au.",health,4
+393,1211,"Yn 1989 helpodd e greu The Simpsons gyda Brooks a Groening, ac roedd yn gyfrifol am gyflogi tîm ysgrifennu cynta'r sioe.",entertainment,5
+394,1241,"Tua 3 munud i mewn i'r lansiad, fe wnaeth camera ar fwrdd y roced ddangos nifer o ddarnau o ewyn ynysu yn torri i ffwrdd o'r tanc tanwydd.",science/technology,0
+395,157,"Yn dilyn y ras, Keselowski yw arweinydd Pencampwriaeth y Gyrwyr o hyd gyda 2,250 o bwyntiau.",sports,3
+396,1472,Cafodd gwariant rhyfel imperialaeth yr Unol Daleithiau yng nghoncwest y Ffilipinau ei dalu gan y bobl Ffilipino eu hunain.,politics,2
+397,324,"Mae gan y storm, sydd wedi'i lleoli tua 3,000 milltir o Miami, Fflorida, uchafswm gwyntoedd parhaus o 40 mya (64 kph).",geography,6
+398,1018,Derbyniodd Gosling a Stone enwebiadau am yr Actor a'r Actores Orau.,entertainment,5
+399,921,Mae pob siop gornel yn llawn o amrywiaeth ddryslyd o gardiau ffôn talu ymlaen llaw y gellir eu defnyddio o ffonau talu neu ffonau cyffredin.,science/technology,0
+400,1533,"Mae opsiynau eraill sy'n seiliedig ar biorhythm yn cynnwys yfed llawer o hylif (yn enwedig dŵr neu de, y gwyddom ei fod yn ddiwretig) cyn cysgu, gan orfodi rhywun i fynd i ollwng dŵr.",health,4
+401,1763,"Bob blwyddyn, mae dwsinau o ymwelwyr yn cael eu hanafu oherwydd nad oeddent yn cadw pellter cywir. Mae'r anifeiliaid hyn yn fawr, gwyllt ac o bosibl yn beryglus, felly caniatewch eu gofod iddynt.",travel,1
+402,712,Mae dros 60 o longau mordeithio yn hwylio dyfroedd y Galapagos - gan amrywio mewn maint o 8 i 100 o deithwyr.,travel,1
+403,1848,Mae'r syniad o sgïo yn hen iawn - mae paentiadau ogofâu yn darlunio sgiwyr mor bell yn ôl â 5000 Cyn Crist!,sports,3
+404,993,"Fodd bynnag, mae ganddyn nhw fath gwahanol o harddwch a swyn yn ystod y gaeaf, gyda nifer o orsafoedd ar y bryniau'n cael llawer o eira ac yn cynnig gweithgareddau fel sgïo ac eirafyrddio.",entertainment,5
+405,333,"Cafodd ei ddilyn gan Gerddorfa Symffoni Wladwriaethol Istanbul, band Janissary, a'r cantorion Fatih Erkoc a Müslüm Gürses.",entertainment,5
+406,23,Chwaraewr y Dydd heddiw yw Alex Ovechkin o'r Washington Capitals.,sports,3
+407,1542,"O fewn dwy flynedd o ddiwedd y rhyfel, roedd y cyn-gynghreiriaid yn awr yn elynion a dechreuodd y Rhyfel Oer.",politics,2
+408,193,"Roedd Schumacher, a ymddeolodd yn 2006 ar ôl ennill y bencampwriaeth Fformwla 1 saith gwaith, i fod i gymryd lle Felipe Massa oedd wedi'i anafu.",sports,3
+409,1729,"Y Sundarbans yw'r ardal mangrof arfordirol fwyaf yn y byd, gan ymestyn 80 cilomedr (50 milltir) i mewn i berfeddwlad Bangladesh ac India o'r arfordir.",geography,6
+410,1423,"Ym 1895, ar ôl colli yn y Rhyfel Gyntaf rhwng Tsieina a Japan (1894-1895), mae llywodraeth Qing yn llofnodi Cytundeb Shimonoseki, lle mae'n ildio sofraniaeth dros Taiwan i Japan, sy'n rheoli'r ynys tan 1945.",politics,2
+411,54,"Mae Peter Costello, trysorydd Awstralia a'r dyn mwyaf tebygol o olynu'r Prif Weinidog John Howard yn arweinydd y blaid Ryddfrydol wedi bwrw'i gefnogaeth y tu ôl i ddiwydiant ynni niwclear yn Awstralia.",politics,2
+412,358,"Maen nhw'n gwneud hyn trwy fwrw allan gronyn bach o oleuni o'r enw ""ffoton"".",science/technology,0
+413,1856,"Cyn belled â'ch bod yn aros yn y parth hwn, yn gyffredinol gallwch chi groesi ffiniau heb fynd trwy fannau gwirio rheoli pasport eto.",travel,1
+414,1619,"Filoedd o flynyddoedd yn ôl, dywedodd dyn o'r enw Aristarchus fod Cysawd yr Haul yn symud o gwmpas yr Haul.",science/technology,0
+415,1514,Mae'r Rhyngrwyd yn cyfuno elfennau o gyfathrebu torfol yn ogystal â rhyngbersonol.,science/technology,0
+416,1826,"Os nad ydych chi wedi arfer gyrru ar ffyrdd y wlad, byddwch yn effro: mae elltydd serth, lonydd cul, a throeon llym yn gyffredin.",travel,1
+417,1892,"Wrth ddychwelyd adref ar ôl byw dramor, rydych chi wedi addasu i'r diwylliant newydd ac wedi colli rhai o'r arferion o'ch diwylliant cartref.",travel,1
+418,120,"Canfu'r ACMA hefyd er bod y fideo wedi cael ei ffrydio ar y Rhyngrwyd, nid oedd Big Brother wedi torri deddfau sensoriaeth cynnwys ar-lein gan nad oedd y cyfryngau wedi cael eu storio ar wefan Big Brother.",entertainment,5
+419,1173,"Mae De Affrica wedi trechu'r Crysau Duon (Seland Newydd) mewn gêm rygbi'r undeb Tair Cenedl yn Stadiwm Royal Bafokeng yn Rustenburg, De Affrica.",sports,3
+420,1398,"Os ydych chi wedi gwylio'r ffilm National Treasure, efallai y byddwch chi'n meddwl bod map trysor wedi'i ysgrifennu ar gefn y Datganiad Annibyniaeth.",entertainment,5
+421,305,"Mae'r jwdoca o Siapan, Hitoshi Saito, enillydd dwy fedal aur Olympaidd, wedi marw yn 54 mlwydd oed.",sports,3
+422,1724,Mae Ynys Hong Kong yn rhoi ei enw i diriogaeth Hong Kong a dyma'r lle mae llawer o dwristiaid yn ei ystyried yn brif ganolbwynt.,travel,1
+423,69,"Fe wnaeth y band ganslo'r sioe yn Stadiwm Coffa Rhyfel Maui, yr oedd disgwyl i 9,000 o bobl ei mynychu, ac ymddiheuro i gefnogwyr.",entertainment,5
+424,1804,Efallai mai saffaris yw'r atyniad mwyaf i dwristiaid yn Affrica ac yn uchafbwynt i lawer o ymwelwyr.,travel,1
+425,1696,"Mae'r rhan fwyaf o'r ynysoedd llai yn genhedloedd annibynnol, neu'n gysylltiedig â Ffrainc, ac yn adnabyddus fel mannau gwyliau traeth moethus.",geography,6
+426,927,"Mae hedfan drôn ger maes awyr neu dros dyrfa bron bob amser yn syniad drwg, hyd yn oed os nad yw'n anghyfreithlon yn eich ardal.",science/technology,0
+427,638,"Ym 1977, cwblhaodd Dr Damadian adeiladu'r sganiwr MRI ""corff cyfan"", a alwodd yn ""Indomitable"".",science/technology,0
+428,1230,"Yna, dechreuodd Lakkha Singh arwain wrth ganu'r bhajans.",entertainment,5
+429,1749,Mae twrnameintiau a gemau llai i'w gweld yma hefyd ar adegau eraill o'r flwyddyn.,sports,3
+430,1677,"Mae enghreifftiau'n cynnwys rheoli, cynllunio ac amserlennu, y gallu i ateb diagnosis a chwestiynau cwsmeriaid, yn ogystal ag adnabod llawysgrifen, llais ac wyneb.",science/technology,0
+431,1268,"Methodd arf Uka pan oedd yn pwyntio ar ben y pumed dyn. Mae gan Schneider boen parhaus, dallineb mewn un llygad, darn o'i benglog ar goll ac wyneb wedi'i ailadeiladu o ditaniwm.",health,4
+432,455,Mae hyn yn dod yn llai o broblem wrth i wneuthurwyr lensys gyflawni safonau uwch wrth gynhyrchu lensys.,science/technology,0
+433,216,"Ceisiodd sboncen, carate a chwaraeon rholio fynd ar y rhaglen Olympaidd yn ogystal â phêl-fas a phêl-feddal, a gafodd eu pleidleisio allan o'r Gemau Olympaidd yn 2005.",sports,3
+434,1207,"Roedd y claf wedi bod i Nigeria, lle'r oedd rhai achosion o feirws Ebola wedi digwydd.",health,4
+435,770,Mae'r rhan fwyaf o wyliau'r deml yn cael eu dathlu fel rhan o ben-blwydd y deml neu ben-blwydd y duwdod preswyl neu unrhyw ddigwyddiad mawr arall sy'n gysylltiedig â'r deml.,entertainment,5
+436,1415,"Tîm pêl-droed cenedlaethol yr Eidal, yn ogystal â thîm pêl-droed cenedlaethol yr Almaen, yw'r ail dîm mwyaf llwyddiannus yn y byd a nhw oedd pencampwyr Cwpan Byd FIFA yn 2006.",sports,3
+437,995,"Mae cwmnïau hedfan sy'n cynnig y rhain yn cynnwys Air Canada, Delta Air, Lines, Lufthansa ar gyfer hediadau sy'n codi o'r Unol Daleithiau neu Ganada, a WestJet.",travel,1
+438,661,"Mae ei phortread mynych mewn cerddoriaeth, ffilmiau, llenyddiaeth a diwylliant poblogaidd wedi helpu i wneud y ddinas a'i thirnodau yn adnabyddus ledled y byd.",entertainment,5
+439,1433,Mae'n datgan mai'r lle mwyaf effeithiol ar gyfer y prif bwnc yw ar groesffordd llinellau sy'n rhannu'r ddelwedd yn draeanau'n fertigol a llorweddol (gweler enghraifft).,science/technology,0
+440,1647,Mae arwyneb y Lleuad wedi'i wneud o greigiau a llwch. Mae haen allanol y Lleuad yn cael ei galw'n gramen.,geography,6
+441,743,Nid oes gan Ynysoedd Cook unrhyw ddinasoedd ond maen nhw'n cynnwys 15 ynys wahanol. Y prif rai yw Rarotonga ac Aitutaki.,geography,6
+442,357,"I ddychwelyd i'w lefel egni blaenorol, mae'n rhaid iddyn nhw gael gwared ar yr egni ychwanegol maen nhw wedi'i gael gan y golau.",science/technology,0
+443,1228,"Cyflwynodd cantorion enwog ledled y wlad bhajanau, neu ganeuon defosiynol, i draed Shri Shyam.",entertainment,5
+444,892,"Eira cywasgedig ydyw gyda hafnau wedi'u llenwi a'u nodi gan faneri. Dim ond tractorau arbenigol, yn llusgo slediau â thanwydd a chyflenwadau, sy'n gallu teithio arno.",travel,1
+445,1850,"Gwarbacio ar sgi: Mae'r gweithgaredd hwn hefyd yn cael ei alw'n sgïo perfeddwlad, sgïo taith neu heicio sgïo.",sports,3
+446,1747,Mae'r Ariannin yn adnabyddus am fod ag un o'r timau polo gorau a'r chwaraewyr polo gorau yn y byd.,sports,3
+447,1197,"Maen nhw'n cynnwys yr Iseldiroedd, gydag Anna Jochemsen yn gorffen yn nawfed yn nosbarth sefyll y menywod yn y Super-G ddoe, a'r Ffindir gyda Katja Saarinen yn gorffen yn ddegfed yn yr un gamp.",sports,3
+448,1845,Mae copaon yn cynnwys golygfeydd rhyfeddol o bennau mynyddoedd. Mae dringwyr o bob rhan o'r byd yn sefydlu llwybrau newydd yn barhaus ymhlith ei botensial diddiwedd o furiau.,travel,1
+449,819,"Pan fyddwch chi'n teithio, disgwyliwch i bethau beidio â bod fel y maen nhw ""yn ôl gartref"". Bydd moesau, deddfau, bwyd, traffig, llety, safonau, iaith ac ati yn wahanol i ryw raddau i ble rydych chi'n byw.",travel,1
+450,832,"Mae cofrestru yn ofyniad ychwanegol ar gyfer y broses fisa. Mewn rhai gwledydd, mae'n rhaid i chi gofrestru eich presenoldeb a'r cyfeiriad lle rydych chi'n aros â'r awdurdodau lleol.",travel,1
+451,1013,"Mae gan Gymnasteg UDA a'r USOC yr un amcan - gwneud camp gymnasteg, a chwaraeon eraill, mor ddiogel â phosibl i athletwyr ddilyn eu breuddwydion mewn amgylchedd diogel, positif, sy'n eu grymuso.",sports,3
+452,167,Rhoddodd yr ymosodiad straen enfawr ar berthnasoedd rhwng India a Phacistan.,politics,2
+453,1650,Gall fod rhagor o beithiau lleuad ar yr ochr agos oherwydd bod y grawen yn deneuach. Roedd hi'n haws i lafa godi i'r wyneb.,geography,6
+454,1991,Gall dyfrffyrdd mewndirol fod yn thema dda i seilio eich gwyliau arnynt.,travel,1
+455,1144,Symudodd milwyr y glymblaid ac Affganistan i mewn i'r ardal i ddiogelu'r safle ac mae awyrennau eraill y glymblaid wedi cael eu hanfon i gynorthwyo.,politics,2
+456,928,Y dyddiau hyn anaml y bydd teithiau awyr yn cael eu bwcio'n uniongyrchol trwy'r cwmni hedfan heb chwilio a chymharu prisiau yn gyntaf.,travel,1
+457,1009,"Yn y prawf PALM, gwasanaethodd Zmapp fel rheolydd, gan olygu bod gwyddonwyr yn ei ddefnyddio fel gwaelodlin ac yn cymharu'r tair triniaeth arall ag ef.",health,4
+458,959,"Fodd bynnag, mae Star Alliance yn cwmpasu popeth ac eithrio De'r Pasiffic o Santiago de Chile i Tahiti, sydd yn hediad LATAM Oneworld.",travel,1
+459,1333,Mae'n defnyddio technoleg wedi'i seilio ar loeren yn hytrach na thechnoleg hŷn wedi'i seilio ar radar ar y ddaear i alluogi rheolwyr traffig awyr i leoli awyrennau yn fanylach a rhoi gwybodaeth fanylach i beilotiaid.,science/technology,0
+460,365,Mae hyn oherwydd bod trydan sy'n llifo i mewn i'r soced lle mae rhan fetalaidd y bwlb yn eistedd yn gallu rhoi sioc drydanol ddifrifol i chi os byddwch chi'n cyffwrdd â'r tu mewn i'r soced neu waelod metal y bwlb tra'i fod yn dal yn rhannol yn y soced.,science/technology,0
+461,1699,"Yn y gogledd mae'r rhanbarth yn ffinio â'r Sahel, ac yn y de a'r gorllewin â Chefnfor yr Iwerydd.",geography,6
+462,1598,Fe wnaethon nhw gynnal dau arbrawf gan naill ai farcio'r DNA yn y ffâg gyda ffosfforws ymbelydrol neu brotein y ffâg gyda sylffwr ymbelydrol.,science/technology,0
+463,1048,"Mae'n rhybuddio Na all unrhyw un sicrhau y bydd unrhyw gamau gweithredu yn Irac ar y pwynt hwn yn atal rhyfela sectyddol, trais cynyddol, neu lithro tuag at anhrefn.",politics,2
+464,226,Mae ei fodolaeth yn hysbys oherwydd ei effeithiau ar ehangu'r bydysawd yn unig.,science/technology,0
+465,275,"Fe wnaeth polisi Komen wneud Planned Parenthood yn anghymwys oherwydd bod ymchwiliad ar droed, sy'n cael ei gynnal gan y Cynrychiolydd Cliff Stearns, ar sut mae Planned Parenthood yn gwario ac yn adrodd am ei arian.",politics,2
+466,1183,Mae achosion a amheuir o H5N1 yng Nghroatia a Denmarc yn dal heb eu cadarnhau.,health,4
+467,752,"Yn fyr, mae defnyddio'ch car yn ffordd wych o gymryd taith ffordd ond prin yn ei hun yn ffordd i ""wersylla"".",travel,1
+468,1034,"Mae'r goleuedd a chylchdroi yn cael eu defnyddio gyda'i gilydd i bennu rhif Rossby seren, sy'n perthyn i lif y plasma.",science/technology,0
+469,1377,"Rydyn ni'n gwneud ein tai o blanhigion ac yn gwneud dillad o blanhigion. Planhigion yw'r rhan fwyaf o fwydydd rydyn ni'n eu bwyta. Heb blanhigion, ni allai anifeiliaid oroesi.",science/technology,0
+470,1148,"Dywedodd y llefarydd ar ran Medecines sans Frontiere Richard Veerman: ""Mae Angola ar fin cael ei tharo gan ei hachos gwaethaf erioed ac mae'r sefyllfa'n parhau yn wael iawn yn Angola,"" dywedodd.",health,4
+471,529,"Mae'r gamp yn cael ei chwarae mewn fformat deuol, un cleddyfwr yn gornestu ag un arall.",sports,3
+472,12,Yn ddiweddar fe gollodd yn erbyn Raonic ym Mhencampwriaeth Agored Brisbane.,sports,3
+473,735,"Sirena yw'r unig orsaf geidwaid sy'n cynnig llety cysgu a phrydau bwyd poeth yn ogystal â gwersylla. Mae La Leona, San Pedrillo a Los Patos yn cynnig gwersylla yn unig heb wasanaeth bwyd.",travel,1
+474,383,"Arweiniwyd y fflyd hon gan Olaf Trygvasson, Norwyad gydag uchelgais i adennill ei wlad o dra-arglwyddiaeth Denmarc.",politics,2
+475,1601,"Mae twristiaeth ar sail natur yn denu pobl sy'n ymddiddori mewn ymweld ag ardaloedd naturiol er mwyn mwynhau'r golygfeydd, gan gynnwys bywyd gwyllt planhigion ac anifeiliaid.",travel,1
+476,867,"Mae nifer o deithwyr sefydlog, galluog wedi cael eu llethu gan newydd-deb teithio'r byd datblygedig, lle gall nifer o addasiadau diwylliannol gronni'n gyflym.",travel,1
+477,954,Mae Turkish Airlines yn hedfan i 39 cyrchfan mewn 30 o wledydd Affrica ers 2014.,travel,1
+478,141,"Ddydd Mercher, fe wnaeth Cymdeithas Pêl-fasged Genedlaethol yr Unol Daleithiau (NBA) ohirio ei thymor pêl-fasged proffesiynol oherwydd pryderon ynghylch COVID-19.",sports,3
+479,1612,"Yn ffodus, mae gyrwyr yn tueddu i ymddwyn o fewn ystod resymol o gyson; felly, mae ffrydiau traffig yn tueddu i fod â rhywfaint o gysondeb rhesymol ac mae modd ei gynrychioli'n fras yn fathemategol.",travel,1
+480,1082,Mynegodd Gweinyddwr Commons Adam Cuerden ei rwystredigaeth dros y dileadau pan siaradodd a Wikinews fis diwethaf.,politics,2
+481,0,"Ar ddydd Llun, datganodd gwyddonwyr o Ysgol Feddygaeth Stanford eu bod wedi dyfeisio teclyn diagnostig newydd sy'n gallu didoli celloedd yn ôl math: sglodyn bach argraffadwy y gellir ei gynhyrchu gan ddefnyddio chwistrell-argraffwyr safonol am tua un sent yr U.D. yr un.",health,4
+482,93,"Mae hyn yn mynd yn groes i adroddiadau cynharach, oedd yn dweud y byddai canslo'r ail bleidlais yn erbyn y cyfansoddiad.",politics,2
+483,664,Mae teithio i Walt Disney World yn bererindod fawr i lawer o deuluoedd Americanaidd.,travel,1
+484,367,Mae gwaed yn mynd i ffwrdd o'r galon mewn tiwbiau o'r enw rhydwelïau ac yn dod yn ôl i'r galon mewn tiwbiau o'r enw gwythiennau. Enwau'r tiwbiau lleiaf yw capilarïau.,science/technology,0
+485,1069,"Roedd Layton wedi gofyn am newidiadau i fil amgylchedd y ceidwadwyr yn ystod y cyfarfod a'r Prif Weinidog, gan ofyn am ""ailysgrifennu trwyadl a cyflawn"" o fil amgylchedd y blaid Geidwadol.",politics,2
+486,563,"Fe wnaeth yr astudiaeth ganfod bod iselder, ofn ac yn creu trychineb o bopeth yn cyfryngu'r berthynas rhwng poen ac anabledd ymhlith pobl sy'n dioddef poen yng ngwaelod y cefn.",health,4
+487,282,"Digwyddodd protestiadau hefyd yn Paris, Sofia ym Mwlgaria, Vilnius yn Lithwania, Valetta ym Malta, Tallinn yn Estonia, a Chaeredin a Glasgow yn yr Alban.",politics,2
+488,127,Mae llawer o'u hysgrifenwyr wedi mynd ymlaen i ddylanwadu'n fawr ar sioeau parodi newyddion Jon Stewart a Stephen Colbert.,entertainment,5
+489,374,"Byddai person sy'n pwyso 200 pwys (90kg) ar y Ddaear yn pwyso tua 36 pwys (16kg) ar Io. Felly mae'r disgyrchiant, wrth gwrs, yn tynnu llai arnoch chi.",science/technology,0
+490,155,Mae pymtheg o'r creigiau hyn wedi cael eu priodoli i'r gawod awyrfeini Gorffennaf diwethaf.,geography,6
+491,987,"Yn aml, cyfeirir at y llwyfandiroedd hyn fel ""vidde"" sy'n golygu gofod eang, agored heb goed, ehangder diderfyn.",geography,6
+492,989,"Nid yw'r rhewlifoedd yn sefydlog, ond yn llifo i lawr y mynydd. Bydd hyn yn achosi craciau, holltau, a allai gael eu cuddio gan bontydd eira.",geography,6
+493,1152,"Fe wnaeth eu hamddiffyniad disgybledig, eu sgiliau trin pêl a'u gwaith tîm rhagorol iddynt sefyll allan ac roedd yn glir mai dyma'r tîm i'w guro.",sports,3
+494,1802,Mae gwelededd hefyd yn gallu cael ei gyfyngu gan eira'n syrthio neu chwythu neu trwy anwedd neu rew ar ffenestri cerbydau.,travel,1
+495,1364,"Mae'r teigr yn yr un grŵp (Genus Panthera) â llewod, llewpartiaid a jagwariaid. Y pedair cath hyn yw'r unig rai sy'n gallu rhuo.",science/technology,0
+496,1076,"Fe wnaeth y llefarydd ar ran Bush, Gordon Johndroe, alw addewid Gogledd Corea yn ""gam mawr tuag at y nod o gyflawni dadniwcleareiddio gorynys Corea"".",politics,2
+497,1809,Bydd y Gemau Paralympaidd yn digwydd o 24 Awst tan 5 Medi 2021. Bydd rhai digwyddiadau'n cael eu cynnal mewn lleoliadau eraill ledled Japan.,sports,3
+498,556,Gellir ystyried bod yr atom yn un o flociau adeiladu sylfaenol pob sylwedd.,science/technology,0
+499,939,Sicrhewch eich bod yn gwybod beth rydych chi'n gallu a ddim yn gallu dod i mewn a datganwch unrhyw beth dros y terfynau cyfreithiol.,travel,1
+500,1003,"Fe adeiladodd gloch drws WiFi, meddai.",science/technology,0
+501,533,"Mae'r gêm yn cael ei chwarae ar laswellt, ac mae'r glaswellt o amgylch y twll yn cael ei dorri'n fyrrach ac yn cael ei alw'n laslawr.",sports,3
+502,22,"Er gwaethaf y cyhuddiadau hyn, enillodd Ma yn ddeheuig ar blatfform oedd yn eirioli cysylltiadau agosach â thir mawr Tsieina.",politics,2
+503,1215,Dywed yr adroddiadau cynnar fod yr awyren wedi cael ei dargyfeirio yn ôl i Affganistan ar ôl cael ei gwrthod i lanio mewn argyfwng yn Ürümqi.,travel,1
+504,428,"Mae tiriogaeth Twrci yn fwy na 1,600 cilomedr (1,000 o filltiroedd) o hyd ac 800 cilomedr (500 milltir) o led, gyda siâp hirsgwar bras.",geography,6
+505,1989,"Mae ychydig o fysiau hefyd yn mynd i'r gogledd i Hebron, man claddu traddodiadol y patriarchiaid Beiblaidd Abraham, Isaac, Jacob a'u gwragedd.",travel,1
+506,362,Ar ôl cannoedd o oriau o weithredu bydd y ffilament yn y bwlb yn llosgi allan yn y pen draw ac ni fydd y bwlb golau yn gweithio mwyach.,science/technology,0
+507,1297,Y comisiwn oedd ymateb Martelly i brotestiadau eang yn erbyn y llywodraeth a ddechreuodd ym mis Hydref.,politics,2
+508,1028,"Mae strwythur y plu yn awgrymu nad oedden nhw'n cael eu defnyddio i hedfan ond yn hytrach ar gyfer rheoli tymheredd neu arddangos. Awgrymodd yr ymchwilwyr, er mai cynffon deinosor ifanc yw hyn, fod y sampl yn dangos plu oedolion ac nid mân blu cyw.",science/technology,0
+509,247,Mae'r asiantiaid hyn yn gyfrifol am ddarparu gwasanaethau llywodraeth a barnwrol o dan Erthygl 247 Cyfansoddiad Pacistan.,politics,2
+510,70,"Ni roddodd cwmni rheoli'r band, HK Management Inc., unrhyw reswm dechreuol pan wnaethant ganslo ar Fedi 20, ond rhoddon nhw'r bai ar resymau logistaidd erbyn y diwrnod wedyn.",entertainment,5
+511,1140,"Er bod Winfrey yn ddagreuol wrth ffarwelio, fe'i gwnaeth yn glir i'w chefnogwyr y bydd hi'n ôl.",entertainment,5
+512,58,Dywedodd yr heddlu mai Lo Piccolo oedd drechaf oherwydd ei fod wedi bod yn brif gynorthwywr i Provenzano yn Palermo ac enillodd ei brofiad helaethach barch y genhedlaeth hŷn o benaethiaid wrth iddynt ddilyn polisi Provenzano o gadw mor isel â phosibl wrth gryfhau rhwydwaith eu grym.,politics,2
+513,197,"Mae cyflwr yr arlywydd yn sefydlog, er y bydd yn cael ei ynysu gartref am sawl diwrnod.",health,4
+514,196,"Profodd Arias yn gadarnhaol am achos ysgafn o'r feirws, dywedodd y Gweinidog Arlywyddol Rodrigo Arias.",health,4
+515,1191,"Penderfynodd Bachmann, a enillodd Bôl Gwelltyn Ames yn Awst, i ddod â'i hymgyrch i ben.",politics,2
+516,1167,"Yn ei dyddiau cynnar, roedd y sioe'n ymddangos ar y safle rhyngrwyd radio hirhoedlog TogiNet Radio, safle sy'n canolbwyntio ar radio siarad.",entertainment,5
+517,1636,"Mae elfennau fel calsiwm a photasiwm yn cael eu hystyried yn fetelau. Wrth gwrs, mae yna hefyd fetelau megis arian ac aur.",science/technology,0
+518,577,"Y gell yw uned sylfaenol popeth byw, ac mae'r holl organebau wedi'u cyfansoddi o un neu ragor o gelloedd.",science/technology,0
+519,297,Roedd y newid arfaethedig eisoes wedi pasio'r ddau dŷ yn 2011.,politics,2
+520,450,"Mae rhanbarth y Serengeti yn cynnwys Parc Cenedlaethol y Serengeti, Ardal Gadwraeth Ngorongoro a Gwarchodfa Anifeiliaid Maswa yn Nhansanïa a Gwarchodfa Genedlaethol Maasai Mara yng Nghenia.",geography,6
+521,1054,"Cafodd y ddadl ei sbarduno gan ddadlau ynglŷn â gwario ar gymorth ac ailadeiladu yn sgîl Corwynt Katrina; y mae rhai ceidwadwyr cyllidol wedi labelu'n ddoniol yn ""Gytundeb New Orleans Bush"".",politics,2
+522,220,"Er gwaethaf ei sylwadau, dywedodd y bydd yn cefnogi'r cystadleuwyr Prydeinig yng Ngemau Olympaidd 2012 sy'n cael eu cynnal yn Llundain.",sports,3
+523,912,"Nid oes unrhyw ofyn chwaith i chi gael rhif lleol o'r gymuned rydych chi'n byw ynddi; rydych chi'n medru cael cysylltiad lloeren â'r rhyngrwyd yn anialdir Chicken, Alasga a dewis rhif sy'n honni eich bod yn Arisona heulog.",science/technology,0
+524,919,"Mae'n medru arbed arian dros brynu mapiau newydd ar gyfer GPS, neu ddyfais GPS annibynnol neu rentu un gan gwmni rhentu ceir.",science/technology,0
+525,109,"Bydd y capsiwl yn teithio ar tua 12.8 km neu 8 milltir yr eiliad, digon cyflym i fynd o San Francisco i Los Angeles mewn munud.",science/technology,0
+526,142,Daeth penderfyniad yr NBA ar ôl i chwaraewr Jas o Utah brofi'n gadarnhaol am y feirws COVID-19.,sports,3
+527,918,Gall defnyddio apiau llywio GPS ar eich ffôn clyfar fod y ffordd hawsaf a mwyaf cyfleus i lywio pan ydych chi allan o'ch mamwlad.,science/technology,0
+528,377,"Mae'r rhan allanol a welwn pan edrychwn ni ar yr Haul yn cael ei alw'n ffotosffer, sy'n golygu ""pêl o olau"".",science/technology,0
+529,943,"Mae byw a gwirfoddoli mewn gwlad dramor yn ffordd wych o ddod i adnabod diwylliant gwahanol, cyfarfod pobl newydd, dysgu amdanoch chi eich hun, cael synnwyr o bersbectif a meithrin sgiliau newydd hyd yn oed.",travel,1
+530,817,"Gyda gwreiddiau yn Nheithiau Rhedeg Barcelona, yn Barcelona, a Rhedeg Copenhagen, Copenhagen, ymunodd Teithiau Rhedeg Prague, wedi'i leoli yn Prague, ac eraill, yn gyflym.",sports,3
+531,535,Dyma pan mae pobl yn mynd i le sy'n wahanol iawn i'w bywyd bob dydd i ymlacio a chael hwyl.,entertainment,5
+532,873,"Os ydych chi'n teimlo'n fwy anturus, cymerwch y cyfle i greu sudd neu gymysgu smwddis:",entertainment,5
+533,1582,"Ledled Unol Daleithiau America, mae tua 400,000 o achosion hysbys o Sglerosis Ymledol (MS), gan ei adael fel y prif afiechyd niwrolegol mewn oedolion iau a chanol oed.",health,4
+534,962,"Gyda chefnogaeth Armenia, cafodd gweriniaeth newydd ei chreu. Fodd bynnag, ni wnaeth unrhyw genedl sefydledig - dim hyd yn oed Armenia - ei chydnabod yn swyddogol.",politics,2
+535,1515,Mae nodweddion penodol y Rhyngrwyd yn arwain at ddimensiynau ychwanegol yn nhermau'r ymagwedd at ddefnyddiau a boddhadau.,science/technology,0
+536,911,"Oherwydd bod galwadau'n cael eu cyfeirio dros y rhyngrwyd, nid oes angen i chi ddefnyddio cwmni ffôn sydd wedi'i leoli lle rydych chi'n byw neu lle rydych chi'n teithio.",science/technology,0
+537,1294,Fe wnaeth Martelly dyngu Cyngor Etholiadol Dros Dro (CEP) newydd o naw aelod i mewn ddoe.,politics,2
+538,1128,Daeth i'r casgliad hwn oherwydd y llu o sylwadau cadarnhaol ac anogaeth a anfonwyd ati gan unigolion benywaidd a gwrywaidd yn annog i feddyginiaeth atal cenhedlu yn cael ei hystyried yn anghenraid meddygol.,health,4
+539,376,Mae'r nwy hwn yn mynd yn deneuach wrth i chi fynd ymhellach o ganol yr Haul.,science/technology,0
+540,531,"Mae deunaw twll yn cael eu chwarae yn ystod rownd reolaidd, gyda chwaraewyr fel arfer yn cychwyn ar y twll cyntaf ac yn gorffen ar y deunawfed.",sports,3
+541,1182,"Ffrainc yw'r seithfed wlad yn yr Undeb Ewropeaidd i ddioddef y feirws hwn; yn dilyn Awstria, yr Almaen, Slofenia, Bwlgaria, Gwlad Groeg a'r Eidal.",health,4
+542,1049,Mae'r Adroddiad yn agor gyda phle am ddadl agored a ffurfio consensws yn yr Unol Daleithiau am y polisi tuag at y Dwyrain Canol.,politics,2
+543,522,"Gyda llai o REMs bob nos, mae'r cyflwr hwn y profwch chi gwsg gwirioneddol ynddo a'ch corff yn adfer yn dod yn ddigon anaml i ddod yn broblem.",health,4
+544,1851,"Mae'n gysylltiedig â ond nid yn cynnwys teithio ar sgïau neu fynydda alpaidd, y rhai olaf ar dirwedd serth ac yn gofyn am sgïau ac esgidiau llawer cryfach.",sports,3
+545,1052,"Cyhoeddodd y seneddwr presennol a Phrif Foneddiges yr Ariannin Cristina Fernandez de Kirchner ei bod yn ymgeisio am swydd yr arlywydd neithiwr yn La Plata, dinas 50 cilomedr (31 milltir) i ffwrdd o Buenos Aires.",politics,2
+546,1158,"""Nid yw eu hymddygiad thermol mor sefydlog ag ogofâu mawr ar y Ddaear sy'n aml yn cynnal tymheredd eithaf cyson, ond mae'n gyson â bod yn dyllau dwfn yn y ddaear"", meddai Glen Cushing o Dîm Sêr-Ddaeareg Arolwg Daearegol yr Unol Daleithiau (USGS) ac o Brifysgol Gogledd Arizona wedi'i lleoli yn Flagstaff, Arizona.",geography,6
+547,1027,"Gan nad oes gan blu deinosor siafftiau wedi'u datblygu'n dda, o'r enw rachis, ond fod ganddynt nodweddion plu eraill - saethflew a deintellau - casglodd yr ymchwilwyr fod y rachis yn debygol o fod yn ddatblygiad esblygol diweddarach na'r nodweddion eraill hyn.",science/technology,0
+548,1709,"Dinas dwristaidd yng Ngweriniaeth Ddemocrataidd Congo yw Goma, yn y dwyrain eithaf ger Rwanda.",travel,1
+549,1099,"Gwrthdarodd y lloerennau â'i gilydd, y ddwy yn pwyso dros 1,000 pwys, ac yn teithio ar tua 17,500 milltir yr awr, 491 milltir uwchben y Ddaear.",geography,6
+550,60,Fe wnaeth Prif Swyddog Gweithredol Apple Steve Jobs ddadlennu'r ddyfais drwy gerdded ar y llwyfan a thynnu'r iPhone allan o boced ei jîns.,science/technology,0
+551,1930,"Y ffordd amlwg o hedfan yn y dosbarth cyntaf neu ddosbarth busnes yw talu swp mawr o arian am y fraint (neu, gwell fyth, cael eich cwmni i'w wneud ar eich rhan).",travel,1
+552,378,"Tua thair mil o flynyddoedd yn ddiweddarach, ym 1610, defnyddiodd y seryddwr Eidalaidd Galileo Galilei delesgôp i arsylwi bod gan Wener gyfnodau, yn union fel sydd gan y lleuad.",science/technology,0
+553,1899,Mae'r golygfeydd yn cael eu harddangos ar y pyramidiau ac mae'r pyramidiau gwahanol yn cael eu goleuo.,entertainment,5
+554,1359,"Llewod yw'r cathod mwyaf cymdeithasol, gan fyw mewn grwpiau mawr o'r enw cnudoedd.",science/technology,0
+555,190,Rhoddwyd dŵr i deithwyr wrth iddyn nhw aros mewn gwres o 90 gradd F.,travel,1
+556,1914,"Mae'r Ffindir yn gyrchfan gwych ar gyfer mynd mewn cychod. Mae gan y ""Wlad fil llyn"" filoedd o ynysoedd hefyd, yn llynoedd ac yn ynysforoedd yr arfordir.",travel,1
+557,994,"Dim ond ychydig o gwmnïau hedfan sy'n dal i gynnig prisiau profedigaeth, sy'n cynnig gostyngiad bach ar gost teithio ar y funud olaf i angladd.",travel,1
+558,1798,"Mae rhai lleoliadau'n cynnig diodydd alcoholig am ddim. Fodd bynnag, mae meddwdod yn amharu ar farn, ac mae pob gamblwr da yn gwybod pwysigrwydd aros yn sobor.",entertainment,5
+559,1922,"Mae rhai mordeithiau yn cynnwys Berlin, yr Almaen yn y llyfrynnau. Fel y gwelwch chi o'r map uchod, nid yw Berlin yn agos at y môr o gwbl ac nid yw ymweliad â'r ddinas yn cael ei gynnwys ym mhris y fordaith.",travel,1
+560,1063,"Fe wnaeth y batwyr yn y canol, Sachin Tendulkar a Rahul Dravid, berfformio'n dda a gwneud partneriaeth cant o rediadau.",sports,3
+561,952,"Er y gallech chi feddwl ei bod yn reddfol i ymuno â'r cwmni hedfan rydych chi'n ei ddefnyddio fwyaf, dylech chi fod yn ymwybodol fod y breintiau a gynigir yn aml yn wahanol a gallai pwyntiau hedfanwr mynych fod yn fwy hael o dan gwmni hedfan gwahanol yn yr un gynghrair.",travel,1
+562,203,Daeth rhywfaint o'r glaw yng nghwmni stormydd taranau a mellt mynych.,geography,6
+563,1939,"İzmir yw'r drydedd ddinas fwyaf yn Nhwrci â phoblogaeth o tua 3.7 miliwn, yr ail borthladd mwyaf ar ôl Istanbul, a chanolfan drafnidiaeth dda iawn.",geography,6
+564,984,"Llai na mil o achosion sydd wedi cael eu cofnodi erioed mewn bodau dynol, ond mae rhai ohonynt wedi bod yn farwol.",health,4
+565,537,Os mai amcan ymweliad rhywun â lle neilltuol yw dod i wybod ei hanes a diwylliant yna mae'r math hwn o dwristiaeth yn cael ei adnabod fel twristiaeth ddiwylliannol.,travel,1
+566,194,Dioddefodd y Brasiliad anaf pen difrifol ar ôl gwrthdrawiad yn ystod Grand Prix Hwngari 2009.,sports,3
+567,611,"Gellir adeiladu animeiddiadau soffistigedig ar gyfrifiaduron, ac mae'r math hwn o animeiddiad yn cael ei ddefnyddio'n gynyddol mewn teledu a ffilmiau.",science/technology,0
+568,1036,"Yn ystod ei daith, aeth Iwasaki i drafferth lawer gwaith.",travel,1
+569,372,"Mae gwyddonwyr eraill yn dadlau bod y planhigion hyn yn wenwynig iawn felly ei bod yn annhebygol bod unrhyw ddeinosor wedi eu bwyta, er bod y diogyn ac anifeiliaid eraill fel y parot (un o ddisgynyddion y deinosoriaid) yn gallu bwyta dail neu ffrwythau gwenwynig heddiw.",science/technology,0
+570,1350,"Pan fyddwch chi'n galw rhywun sydd filoedd o filltiroedd i ffwrdd, rydych chi'n defnyddio lloeren.",science/technology,0
+571,1400,"Yn ysgrifenedig ar gefn y Datganiad Annibyniaeth roedd y geiriau ""Datganiad Annibyniaeth Gwreiddiol dyddiedig 4ydd Gorffennaf 1776"". Mae'r testun yn ymddangos ar waelod y ddogfen, a'i ben i waered.",politics,2
+572,1120,"Ni chafodd y gyrrwr lori, sy'n 64 oed, ei anafu yn y ddamwain.",health,4
+573,1671,Mae'r gydberthynas rhwng patholeg yr ymennydd ac ymddygiad yn cynorthwyo gwyddonwyr yn eu hymchwil.,science/technology,0
+574,1941,"Mae'r rhodfeydd llydan, adeiladau â blaenau gwydr a chanolfannau siopa modern yn frith o doeau teils coch traddodiadol, y farchnad o'r 18fed ganrif, a hen fosgiau ac eglwysi, er bod gan y ddinas awyrgylch tebycach i Ewrop Môr y Canoldir na Thwrci traddodiadol.",travel,1
+575,1741,"Mae disgwyl i'r bont fod yn gwbl weithredol ym Medi 2017, pan ddisgwylir i fannau gwirio tollau Brasil gael eu cwblhau.",travel,1
+576,266,Fe wnaeth rheolaeth ddaear Rwsiaidd actifadu'r jetiau ac adfeddianwyd agwedd arferol yr orsaf.,science/technology,0
+577,553,"Mae rhedeg pellter canol yn gamp gymharol rad; fodd bynnag, mae nifer o gamdybiaethau ynghylch yr ychydig ddarnau o offer sydd eu hangen er mwyn cymryd rhan.",sports,3
+578,1229,"Y gantores Sanju Sharma ddechreuodd y noson, ac yna gyflwynodd Jai Shankar Choudhary y chhappan bhog bhajan hefyd. Roedd y canwr Raju Khandelwal gydag ef.",entertainment,5
+579,1341,Gelwir hyn yn pH cemegolyn. Rydych chi'n medru gwneud dangosydd gan ddefnyddio sudd bresych coch.,science/technology,0
+580,1051,Yn gyntaf ymhlith ei 78 o argymhellion mae'r argymhelliad y dylid cychwyn menter ddiplomyddol newydd cyn diwedd y flwyddyn hon i ddiogelu ffiniau Irac yn erbyn ymyriadau gelyniaethus ac i ailsefydlu perthynas ddiplomyddol gyda'i chymdogion.,politics,2
+581,923,Mae mynediad i'r gwasanaethau hyn yn aml trwy rif ffôn di-doll y gellir ei ffonio o'r rhan fwyaf o ffonau yn rhad ac am ddim.,science/technology,0
+582,635,"Yn y cyseiniant hwn, mae tonnau maes magnetig a radio yn achosi i atomau ryddhau signalau radio bach iawn.",science/technology,0
+583,1549,"Ar yr un adeg, roedd llynges yr Almaen yn ceisio stopio'r traffig hwn, gan ddefnyddio cychod-U yn bennaf.",politics,2
+584,1568,"Anfonwyd un at George Washington ar Orffennaf 6, a chafodd ei ddarllen i'w filwyr yn Efrog Newydd ar Orffennaf 9. Fe wnaeth copi gyrraedd Llundain ar Awst 10.",politics,2
+585,569,Casgliad o organebau rhywogaeth benodol o fewn ardal ddaearyddol arbennig yw poblogaeth.,science/technology,0
+586,91,Dywedodd Lodin hefyd fod swyddogion wedi penderfynu canslo'r etholiad ychwanegol er mwyn arbed cost a risg diogelwch etholiad arall i'r Affganiaid.,politics,2
+587,1089,"Mae'r ddamcaniaeth hon yn dweud bod y rhan fwyaf o fater tywyll o amgylch galaeth wedi'i leoli o amgylch galaeth fel rhyw fath o leugylch, a'i fod yn cynnwys nifer o ronynnau bach.",science/technology,0
+588,570,Pan fydd pob unigolyn mewn poblogaeth yn hollol yr un fath o ran nodwedd ffenotypig benodol maen nhw'n cael eu hadnabod fel monomorffig.,science/technology,0
+589,1521,Mae e hyd yn oed yn awgrymu bod y fath alluoedd mewn dehongli ymddygiad dynol yn gallu cael ei rannu gan anifeiliaid fel cŵn domestig.,science/technology,0
+590,1479,"Mae'r mwyafrif o ddehongliadau o benderfyniaeth dechnolegol yn rhannu dau syniad cyffredinol: bod datblygiad technoleg ei hun yn dilyn llwybr y tu hwnt i ddylanwad diwylliannol neu wleidyddol i raddau eang, a bod technoleg yn ei dro yn cael ""effeithiau"" ar gymdeithasau sy'n gynhenid, yn lle wedi'u cyflyru'n gymdeithasol.",science/technology,0
+591,103,"Y sylwadau, yn fyw ar deledu, oedd y tro cyntaf i uwch ffynonellau yn Iran gyfaddef bod y sancsiynau'n cael unrhyw effaith.",politics,2
+592,1692,Mae ardaloedd mawr ymhellach i'r gogledd yn eithaf tenau eu poblogaeth ac mae rhai bron yn ddiffeithwch heb neb yn byw ynddo.,geography,6
+593,568,"Mae gan y gwahanol luniadau alluoedd gwahanol, maen nhw'n sensitif i donfeddi gwahanol ac yn amrywio o ran graddau craffter, maen nhw hefyd angen prosesu gwahanol i wneud synnwyr o'r mewnbwn a rhifau gwahanol i weithio i'r eithaf.",science/technology,0
+594,532,"Mae'r chwaraewr sy'n defnyddio'r nifer leiaf o ergydion, neu chwifiadau o'r ffyn, i gwblhau'r cwrs yn ennill.",sports,3
+595,1708,"O amgylch yr hen Medina mae'n hawdd canfod lleoedd sy'n gwerthu nwyddau traddodiadol Moroco, fel taginau, crochenwaith, nwyddau lledr, hwcâu, a sbectrwm cyfan o dlysau, ond mae'r cwbl ar gyfer y twristiaid.",travel,1
+596,1022,Cafodd y cyhoeddiad ei wneud ar ôl i Trump gael sgwrs dros y ffôn ag Arlywydd Twrci Recep Tayyip Erdogan.,politics,2
+597,1222,Roedd y band roc i fod i fynd ar daith o amgylch yr Unol Daleithiau a Chanada tan Fedi 16.,entertainment,5
+598,1326,Gwiriodd sawl unigolyn y darganfyddiad gan ddefnyddio caledwedd a meddalwedd erbyn dechrau Chwefror a chafodd ei gyhoeddi ddydd Mawrth.,science/technology,0
+599,361,Mae ffotonau hyd yn oed yn llai na'r deunydd sy'n gwneud atomau!,science/technology,0
+600,1623,"Yr Amason hefyd yw'r afon letaf ar y Ddaear, yn chwe milltir o led ar adegau.",geography,6
+601,1210,"Yn ystod yr 1980au gweithiodd ar sioeau fel Taxi, Cheers, a The Tracy Ullman Show.",entertainment,5
+602,228,"Cafwyd hyd i'r llethrau hyn ar hyd a lled y lleuad ac mae'n ymddangos mai ychydig iawn o ôl tywydd sydd arnynt, sy'n awgrymu bod y digwyddiadau daearegol a'u creodd yn weddol ddiweddar.",geography,6
+603,509,"Nid yw'n anabledd dysgu, mae'n anhwylder dysgu; mae'n ""effeithio ar 3 i 5 y cant o blant, efallai cymaint â 2 filiwn o blant America"".",health,4
+604,1787,"Mae asiantaethau teithio fel arfer yn cynnig pecynnau sy'n cynnwys brecwast, trefniadau cludiant i/o'r maes awyr neu hyd yn oed becynnau hedfan a gwesty wedi'u cyfuno.",travel,1
+605,94,Roedd yr awyren ar ei ffordd i Irkutsk ac yn cael ei hedfan gan filwyr mewnol.,travel,1
+606,1033,"Fe wnaethant ddarganfod bod yr Haul yn gweithredu ar yr un egwyddorion sylfaenol â sêr eraill: Canfuwyd bod gweithgarwch pob seren yn y system yn cael ei ysgogi gan eu goleuedd, eu cylchdro, a dim arall.",science/technology,0
+607,1583,"Mae Sglerosis Ymledol yn afiechyd sy'n cael effaith ar y system nerfol ganolog, sy'n cynnwys yr ymennydd, llinyn y cefn a'r nerf optig.",health,4
+608,496,Roedd llawfeddygon yn gwybod am sawl tawelydd gan gynnwys morffinau o echdyniadau o hadau pabi a sgopolamin o hadau herban.,health,4
+609,944,Mae'n gallu bod yn ffordd dda hefyd i estyn cyllideb i ganiatáu arhosiad hirach rhywle gan fod llawer o swyddi gwirfoddol yn darparu ystafell a bwyd ac mae ychydig yn talu cyflog bach.,travel,1
+610,1439,"Yn fuan ar ôl i'r rhyfel ddechrau, cychwynnodd Prydain flocâd yn erbyn llynges yr Almaen.",politics,2
+611,1448,Roedd yna hefyd oes ansefydlog o daleithiau rhanedig rhwng pob brenhinllin. Y mwyaf adnabyddus o'r cyfnodau hyn oedd cyfnod y Tair Teyrnas a ddigwyddodd am 60 mlynedd rhwng y Breninlliniau Han a Jin.,politics,2
+612,366,"Prif organ system y cylchrediad yw'r galon, sy'n pwmpio'r gwaed.",science/technology,0
+613,278,"Daeth Newt Gingrich, Cyn-lefarydd y Tŷ yn yr Unol Daleithiau, yn ail gyda 32 y cant.",politics,2
+614,202,"Cafodd y gwlybaniaeth, oedd yn cyrraedd 6.34 ar fesurydd yn Oahu, ei ddisgrifio yn ""fuddiol"".",geography,6
+615,958,Does dim cynghrair cwmni hedfan yn cwmpasu'r tair taith dros gefnforoedd yn Hemisffer y De (ac nid yw SkyTeam yn cwmpasu unrhyw un o'r teithiau).,travel,1
+616,1040,Mae cyflymderau o 802.11n yn sylweddol gyflymach na rhai ei rhagflaenwyr gyda thrwybwn damcaniaethol uchaf o 600Mbit yr eiliad.,science/technology,0
+617,1344,Mae ïonau hydrogen yn brotonau gyda'u helectronau wedi cael eu tynnu oddi arnyn nhw (gan fod atomau Hydrogen yn cynnwys un proton ac un electron).,science/technology,0
+618,349,Mae gwyddonwyr yn gweithio i greu adweithydd a allai wneud ynni yn yr un modd.,science/technology,0
+619,1982,"Mae gweld blodau'r geiriosen, neu hanami, wedi bod yn elfen o ddiwylliant Siapan ers yr 8fed ganrif.",entertainment,5
+620,1567,Roedd darlleniad cyhoeddus cyntaf y ddogfen hon gan John Nixon yn iard Neuadd Annibyniaeth ar Orffennaf 8.,politics,2
+621,915,Gall rhai o'r cymwysiadau yn y categori hwn hyd yn oed gyfieithu testunau mewn ieithoedd tramor ar arwyddion neu wrthrychau eraill yn y byd go iawn pan fydd y defnyddiwr yn pwyntio'r ffôn clyfar tuag at y gwrthrychau hyn.,science/technology,0
+622,634,"Mae MRI wedi'i seilio ar ffenomen ffiseg o'r enw cyseiniant magnetig niwclear (NMR), a ddarganfuwyd yn y 1930au gan Felix Bloch (oedd yn gweithio ym Mhrifysgol Stanford) ac Edward Purcell (o Brifysgol Harvard).",science/technology,0
+623,269,"Ymunodd Jesus, 21 oed, â Manchester City llynedd yn Ionawr 2017 o glwb Palmeiras ym Mrasil am ffi crybwylledig o £27 miliwn.",sports,3
+624,524,Mae'r effaith yn dibynnu ar ba mor aml mae eich ymennydd yn ceisio breuddwydio'n eglur bob nos.,health,4
+625,1008,"Fe wnaeth un coctel gwrthgorff, ZMapp, ddangos addewid yn y maes i ddechrau, ond awgrymodd astudiaethau ffurfiol fod ganddo lai o fudd nag a geisiwyd o ran atal marwolaeth.",health,4
+626,729,"Mae Ynys Bowen yn daith diwrnod neu benwythnos poblogaidd sy'n cynnig cayacio, cerdded, siopau, tai bwyta a rhagor.",travel,1
+627,5,"Roedd Vidal, 28 oed, wedi ymuno â Barça dri thymor yn ôl, o Sevilla.",sports,3
+628,64,"Cafodd y bil gwreiddiol ei ddrafftio gan gyn-faer São Paolo, Marta Suplicy. Mae'r ddeddfwriaeth arfaethedig, ar ôl cael ei diwygio, yn awr yn nwylo Roberto Jefferson.",politics,2
+629,879,"Mae nifer o lywodraethau yn ei gwneud yn ofynnol i ymwelwyr sy'n dod i mewn i'w gwledydd, neu breswylwyr sy'n gadael eu gwledydd, gael eu brechu yn erbyn amrywiaeth o afiechydon.",health,4
+630,1217,Mae sancsiynau rhyngwladol wedi golygu nad oes modd prynu awyrennau newydd.,politics,2
+631,1292,"Mewn partneriaeth o NPWS a Chymdeithas Saethwyr Chwaraeon Awstralia (NSW) Inc, cafodd gwirfoddolwyr cymwys eu recriwtio, o dan raglen hela'r Gymdeithas Saethwyr Chwaraeon.",sports,3
+632,530,Mae golff yn gêm lle mae chwaraewyr yn defnyddio ffyn i daro peli i mewn i dyllau.,sports,3
+633,1624,Mae 20 y cant cyflawn o'r dŵr sy'n llifo allan o afonydd y blaned i'r cefnforoedd yn dod o'r Amason.,geography,6
+634,702,Mae'n rhaid i'ch pasport fod yn ddilys am o leiaf 6 mis y tu hwnt i'ch dyddiadau teithio. Mae angen tocyn rownd/ymlaen i brofi hyd eich arhosiad.,travel,1
+635,811,"Mae heicio yn weithgaredd awyr agored sy'n cynnwys cerdded mewn amgylcheddau naturiol, yn aml ar lwybrau heicio.",sports,3
+636,340,Ni chafodd Zayat ei anafu yn y ddamwain.,health,4
+637,279,"Fel gwladwriaeth lle mae'r enillydd yn cael y cyfan, fe wnaeth Fflorida ddyfarnu pob un o'i hanner cant o gynrychiolwyr i Romney, gan ei wthio ymlaen fel cystadleuydd blaen ar gyfer enwebiad y Blaid Weriniaethol.",politics,2
+638,1916,"Er bod yr ynysforoedd arfordirol a'r llynnoedd mwyaf mewn gwirionedd yn ddigon mawr i unrhyw gwch hwylio, mae cychod llai neu gaiac hyd yn oed yn cynnig profiad gwahanol.",entertainment,5
+639,1891,Mae teithwyr a gafodd amser hawdd yn addasu i'r diwylliant newydd weithiau'n cael amser arbennig o anodd yn ailaddasu i'w diwylliant brodorol.,travel,1
+640,559,"Mae gan brotonau wefr drydanol bositif, ac nid oes gan niwtronau wefr. Mae gan electronau wefr drydanol negatif.",science/technology,0
+641,534,Efallai mai'r math mwyaf cyffredin o dwristiaeth yw beth mae'r rhan fwyaf o bobl yn ei gysylltu â theithio: twristiaeth hamdden.,travel,1
+642,590,"Ond, os bydd hyn byth yn digwydd mae'n debygol na fydd yn digwydd am amser maith iawn. Mae'r sêr wedi'u gwasgaru gymaint bod triliynau o filltiroedd rhwng sêr sy'n ""gymdogion"".",science/technology,0
+643,1418,"Mae gan Japan bron 7,000 o ynysoedd (y fwyaf yw Honshu), gan wneud Japan yn 7fed ynys fwyaf y byd!",geography,6
+644,225,Mae egni tywyll yn rym cwbl anweledig sy'n gweithredu'n gyson ar y bydysawd.,science/technology,0
+645,1639,Mae atomau mor anhygoel o fychan y gallai triliynau ohonynt ffitio i'r atalnod llawn ar ddiwedd y frawddeg hon.,science/technology,0
+646,875,"Os ydych chi'n byw mewn dinas â diwylliant yfed amrywiol, ewch i fariau neu dafarnau mewn cymdogaethau nad ydych yn eu mynychu.",entertainment,5
+647,982,"Hyd yn oed os ydych chi'n gyrru trwy'r goedwig law is-drofannol, mae ychydig eiliadau â'r drysau'n agored tra'ch bod yn mynd i mewn i'r cerbyd yn ddigon i fosgitos ddod i mewn i'r cerbyd gyda chi.",travel,1
+648,1411,"Yn ystod y Rhyfel Chwyldroadol, ffurffiodd y tair talaith ar ddeg lywodraeth ganolog wan yn gyntaf - gyda'r Gyngres yn unig gydran iddi - o dan Erthyglau'r Cydffederasiwn.",politics,2
+649,457,Anfantais arall lensys chwyddo yw bod agorfa uchaf (cyflymder) y lens fel arfer yn is.,science/technology,0
+650,732,Mae Whistler (1.5 awr o yrru o Vancouver) yn ddrud ond yn adnabyddus oherwydd Gemau Olympaidd y Gaeaf 2010.,sports,3
+651,703,"Mae teithiau'n rhatach i grwpiau mwy, felly os ydych chi ar eich pen eich hun neu gydag un ffrind yn unig, ceisiwch gyfarfod pobl eraill a ffurfio grŵp o bedwar i chwech am gyfradd well fesul person.",travel,1
+652,830,Mewn rhai trenau trawsffiniol mae archwiliadau yn cael eu gwneud ar y trên sy'n rhedeg a dylech fod ag ID dilys yn eich meddiant wrth i chi fynd ar un o'r trenau hynny.,travel,1
+653,1881,Mae parodrwydd llywodraethau i roi pasportau gyda rhyw heb ei ddatgan (X) neu ddogfennau wedi'u diweddaru i gyd-fynd ag enw a rhyw a ddymunir yn amrywio.,politics,2
+654,238,"""Hyd y gwyddom, dim ond un corff planedol sy'n arddangos mwy o ddeinameg na Titan, a'i enw yw'r Ddaear"", ychwanegodd Stofan.",geography,6
+655,1256,Mae cyfansoddiad y crisialau hyn yn cydweddu â'r rheini a geir yn wrin anifeiliaid anwes sy'n cael eu heffeithio pan gânt eu cymharu gan sbectrosgopeg is-goch (FTIR).,health,4
+656,246,"Ers annibyniaeth Pacistan o reolaeth Prydain yn 1947, mae Arlywydd Pacistan wedi penodi ""Asiantau Gwleidyddol"" i lywodraethu FATA, sy'n arfer rheolaeth ymreolus bron yn llwyr dros yr ardaloedd.",politics,2
+657,667,Mae llawer o docynnau sy'n cael eu gwerthu ar-lein trwy wefannau ocsiwn fel eBay neu Craigslist yn docynnau crwydro parciau amlddiwrnod wedi'u defnyddio'n rhannol.,entertainment,5
+658,1917,"Mae mynd mewn cwch yn weithgaredd hamdden cenedlaethol yn y Ffindir, gyda chwch i bob saith neu wyth o bobl.",entertainment,5
+659,1720,"Mae'r parc yn cwmpasu 19,500 km sgwâr ac mae wedi'i rannu'n 14 ecobarth gwahanol, pob un yn cynnal bywyd gwyllt gwahanol.",geography,6
+660,1202,"Yn ôl yr achos cyfreithiol, nid oedd gwastraff o wersyll y Cenhedloedd Unedig yn cael ei lanweithio'n gywir, gan achosi i facteria fynd i mewn i isafon yr Afon Artibonite, un o rai mwyaf Haiti.",health,4
+661,198,"Ar wahân i'r dwymyn a dolur gwddf, dw i'n teimlo'n dda ac mewn cyflwr da i gyflawni fy ngwaith trwy delathrebu.",health,4
+662,40,"Dywedodd John Grant, o WNED Buffalo (gorsaf gartref Reading Rainbow) ""Roedd Reading Rainbow yn dysgu plant pam y dylent ddarllen,...cariad tuag at ddarllen - roedd [y sioe] yn annog plant i estyn am lyfr a darllen"".",entertainment,5
+663,1775,"Y prif gwrw lleol yw ""Rhif Un"", nid yw'n gwrw cymhleth, ond yn ddymunol ac yn adfywiol. Enw'r cwrw lleol arall yw ""Manta"".",entertainment,5
+664,783,"Yn aml mae ffotograffiaeth bywyd gwyllt yn gofyn am lens deleffoto hir, er bod angen lensys eraill ar gyfer pethau fel haid o adar neu greadur bach.",science/technology,0
+665,1038,Mae'r safon 802.11n yn gweithredu ar amleddau 2.4Ghz a 5.0Ghz.,science/technology,0
+666,864,"Ac felly pla Bol Delhi, Melltith y Ffaro, Dialedd Montezuma, a'u nifer o ffrindiau.",health,4
+667,924,"Mae rheolau ynghylch ffotograffiaeth arferol hefyd yn berthnasol i recordio fideo, hyd yn oed yn fwy felly.",science/technology,0
+668,829,"Man gwirio mewnfudo fel arfer yw'r arosfan gyntaf ar ôl i chi ddod oddi ar awyren, llong, neu gerbyd arall.",travel,1
+669,1789,"Fodd bynnag, dylid gwneud ymholiadau am unrhyw newidiadau neu geisiadau trwy'r asiant teithio yn gyntaf ac nid yn uniongyrchol gyda'r gwesty.",travel,1
+670,1331,Mae dyfalu y bydd e'n rhedeg am yr arlywyddiaeth yn 2016.,politics,2
+671,1375,"Mae planhigion yn gwneud ocsigen y mae bodau dynol yn ei anadlu, ac maen nhw'n amsugno carbon deuocsid mae bodau dynol yn ei allanadlu (hynny yw, anadlu allan).",science/technology,0
+672,697,"Mae gan Jerwsalem nifer o safleoedd hanesyddol, archeolegol a diwylliannol, ynghyd â chanolfannau siopa, caffis, a bwytai bywiog a phrysur.",travel,1
+673,691,Gellir cyfuno ymwelliad â'r safle yn gyfleus â thaith cwch i'r llyn.,travel,1
+674,831,"Ar drenau cysgu dros nos, efallai y bydd yr archwiliwr yn casglu pasbortau fel na fydd yn ymyrryd â'ch cwsg.",travel,1
+675,665,"Mae'r ymweliad ""arferol"" yn cynnwys hedfan i mewn i Faes Awyr Rhyngwladol Orlando, mynd ar fws i westy Disney ar y safle, treulio tuag wythnos heb adael safle Disney, a dychwelyd adref.",travel,1
+676,704,"Fodd bynnag, ddylai hyn ddim bod yn destun pryder i chi mewn gwirionedd, oherwydd bod twristiaid yn cael eu symud o gwmpas i lenwi'r ceir.",travel,1
+677,301,Mae campau Vaultier y tu allan i gyfarwyddo yn cynnwys streic newyn yn 1973 yn erbyn yr hyn a ystyriai yn sensoriaeth wleidyddol.,politics,2
+678,1880,Mae'n rhaid i deithwyr sy'n cynllunio llawdriniaeth ailgyfeirio rhyw dramor sicrhau eu bod yn cario dogfennau dilys ar gyfer y daith adref.,travel,1
+679,1007,"Er ei bod yn ymddangos bod un brechlyn arbrofol yn gallu lleihau marwolaethau Ebola, hyd yma, ni ddangoswyd yn glir bod unrhyw gyffuriau'n addas ar gyfer trin haint presennol.",health,4
+680,1314,"Dangosodd ei ymchwil pe byddai hormon yn cael ei roi, y byddai'n cyflymu aeddfedu ysgyfaint y babi yn y groth.",health,4
+681,1735,"Gan fod y bysiau rhwng ardaloedd yn llawn yn aml, fe'ch cynghorir i brynu tocyn ychydig ddyddiau o flaen llaw.",travel,1
+682,76,"Ailadroddodd e, fodd bynnag, ei ddatganiad cynharach mai Roe v. Wade oedd ""deddf sefydlog y wlad"", gan bwysleisio pwysigrwydd dyfarniadau cyson gan y Goruchaf Lys.",politics,2
+683,1441,"Cloddiodd Prydain ddyfroedd rhyngwladol i atal unrhyw longau rhag dod i mewn i adrannau cyfan o gefnfor, gan achosi perygl i longau niwtral hyd yn oed.",politics,2
+684,144,"""Mae hynny'n golygu bod rhaid gohirio popeth"", dywedodd ymchwilydd yng Ngwasanaeth Ymchwil Rift Valley yn Ethiopia a chydawdur yr astudiaeth, Berhane Asfaw.",science/technology,0
+685,80,Trechodd Maroochydore Caboolture wedyn yn y Rownd Derfynol Ragarweiniol.,sports,3
+686,1736,"Mae'r rhan fwyaf o ardaloedd yn cael eu gwasanaethu gan Fysiau Coaster Japaneaidd bach, sy'n gyfforddus a chadarn.",travel,1
+687,598,"Gwelodd Robert Hooke, biolegydd o Loegr, sgwariau bach mewn corc gyda microsgôp.",science/technology,0
+688,119,"Mae'r gêm yn seiliedig ar Ail Frwydr Fallujah, brwydr ffyrnig rhwng lluoedd America ac Irac.",entertainment,5
+689,217,Mae'n rhaid i'r bleidlais gael ei chadarnhau o hyd gan y Pwyllgor Olympaidd Rhyngwladol llawn yn ei gyfarfod ym mis Hydref yn Copenhagen.,sports,3
+690,1923,"Mae teithio mewn awyren yn gallu bod yn brofiad brawychus i bobl o bob oed a chefndir, yn enwedig os nad ydynt wedi hedfan o'r blaen neu wedi profi digwyddiad trawmatig.",travel,1
+691,742,"Er ei fod yn llai, mae'n atgoffa rhai ymwelwyr oedrannus o Hawaii fel yr oedd cyn dod yn dalaith, heb yr holl westyau twristaidd mawr a datblygiadau eraill.",travel,1
+692,586,Roedd y telesgopau hyn yn defnyddio cyfuniad o ddwy lens i wneud i wrthrychau pell ymddangos yn agosach ac yn fwy.,science/technology,0
+693,945,"Roedd y Llychlynwyr yn defnyddio dyfrffyrdd Rwsiaidd i gyrraedd y Môr Du a Môr Caspia. Gellir defnyddio rhannau o'r llwybrau hyn o hyd. Dylech wirio'r angen posibl am drwyddedau arbennig, a allai fod yn anodd eu cael.",travel,1
+694,1419,"Oherwydd y clwstwr, grŵp o ynysoedd sydd gan Japan, cyfeirir yn aml at Japan, o safbwynt daearyddol, fel ""ynysfor"".",geography,6
+695,848,Mae'r rhan fwyaf o fwmerangau sydd ar gael yn Awstralia mewn gwirioned yn rhai nad ydynt yn dychwelyd. Mae'n well i ddechreuwyr beidio ceisio taflu mewn gwyntog.,entertainment,5
+696,1494,"Mae amaethyddiaeth ymgynhaliol yn system syml, organig yn aml, sy'n defnyddio hadau wedi'u cadw sy'n frodorol i'r ecoranbarth ynghyd â chylchdroi cnydau neu dechnegau eithaf syml eraill i sicrhau'r cynnyrch mwyaf posibl.",science/technology,0
+697,951,Dylech ddewis eich cwmni hedfan Teithiwr Rheolaidd mewn cynghrair â gofal.,travel,1
+698,805,"Ystyriwch gael prawf llygaid gartref, yn enwedig os yw yswiriant yn ei gwmpasu, a dod â'r presgripsiwn gyda chi i'w ffeilio rywle arall.",health,4
+699,1160,"Ar ôl i swyddogion wirio hunaniaeth y pleidleisiwr, mae'r pleidleisiwr yn gollwng yr amlen i'r blwch pleidleisio ac yn llofnodi'r gofrestr bleidleisio.",politics,2
+700,698,Mae Ecwador yn mynnu bod dinasyddion Ciwba yn cael llythyr o wahoddiad cyn dod i mewn i Ecwador trwy feysydd awyr rhyngwladol neu fannau derbyn ar y ffin.,travel,1

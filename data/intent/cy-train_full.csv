@@ -1,0 +1,1961 @@
+,Unnamed: 0,text,intent,label
+0,0.0,Pa larymau sydd wedii osod ar gyfer heddiw?,alarm_query,0
+1,1.0,"Faint or gloch ydw in dihuno yfory, os gwelwch yn dda?",alarm_query,0
+2,2.0,Pa larymau sydd gyda fi wediu trefnu ar gyfer y penwythnos?,alarm_query,0
+3,3.0,Am faint or gloch ydw in dihuno cynnar achwyn?,alarm_query,0
+4,4.0,Beth yw amser larwm cyntaf yn mynd i godi yfory?,alarm_query,0
+5,5.0,Ydyr larymau gyda fi wedii osod ar gyfer heddiw?,alarm_query,0
+6,6.0,Faint or gloch mae fy larwm wedii osod ar gyfer yfory?,alarm_query,0
+7,7.0,Oes larymau gyda fi wediu gosod ar gyfer y dyddiau llechwedd?,alarm_query,0
+8,8.0,Faint or gloch ydw in dihuno heddiw?,alarm_query,0
+9,9.0,Pa larymau sydd wediu gosod gan fi yn y swyddfa?,alarm_query,0
+10,10.0,Faint or gloch ydw i wedi gosod fy larwm?,alarm_query,0
+11,11.0,Pa larymau sydd wediu trefnu ar gyfer y Sul?,alarm_query,0
+12,12.0,Am faint or gloch ydw in dihuno heddiw?,alarm_query,0
+13,13.0,Faint or gloch mae fy larwm wedii osod ar gyfer heno?,alarm_query,0
+14,14.0,Faint or gloch ydw in codi yfory?,alarm_query,0
+15,15.0,"Alexa, dangoswch y larymau wnes i osod yn ystod y wythnos.",alarm_query,0
+16,16.0,Oes larymau gyda fi wediu gosod ar gyfer y Sul?,alarm_query,0
+17,17.0,Oes gen i larwm wedii osod ar gyfer y Gwener?,alarm_query,0
+18,18.0,"Rhowch yr amserau larwm ydw i wedi gosod i fi, Alexa.",alarm_query,0
+19,19.0,Oes larymau gyda fi wedi gosod ar gyfer heddiw?,alarm_query,0
+20,20.0,Pa larymau sydd wedii osod ar gyfer yr wythnos?,alarm_query,0
+21,21.0,Faint or gloch ydw in dihuno yfory?,alarm_query,0
+22,22.0,Ydyr larymau gyda fi wedii osod ar gyfer y noswaith?,alarm_query,0
+23,23.0,Dangoswch i mi fy ngloch weithredol cynharach.,alarm_query,0
+24,24.0,Dangoswch y larymau wnes i osod yn ystod y mis.,alarm_query,0
+25,25.0,Rhowch yr amserau larwm ydw i wedii gosod.,alarm_query,0
+26,26.0,Dangoswch i mi fy nghloch weithredol.,alarm_query,0
+27,27.0,Dangoswch i mi beth yw amser larwm olaf yn mynd i godi heddiw.,alarm_query,0
+28,28.0,Faint or gloch ydw i wedi gosod fy larwm ar gyfer noswaith?,alarm_query,0
+29,29.0,"Rhowch yr amserau larwm ydw i wedii osod, os gwelwch yn dda.",alarm_query,0
+30,30.0,Dangoswch i mi beth ywr amserau larwm ydw i wedi gosod.,alarm_query,0
+31,31.0,Pa larymau sydd wediu trefnu ar gyfer yfory?,alarm_query,0
+32,32.0,"Dangoswch y larymau wnes i osod, os gwelwch yn dda.",alarm_query,0
+33,33.0,Pa larymau sydd wediu gosod gan fi yn y stafell byw?,alarm_query,0
+34,34.0,Ydy gen i larwm wedii osod ar gyfer y prydnawn?,alarm_query,0
+35,35.0,Dangoswch i mi beth ydyr larymau nesaf ydw i wediu trefnu.,alarm_query,0
+36,36.0,Faint or gloch ydw i wedi gosod fy larwm ar gyfer y prydnawn?,alarm_query,0
+37,37.0,Beth ydyr amserau larwm ydw i wedii osod?,alarm_query,0
+38,38.0,"Rhowch yr amserau larwm ydw i wedi gosod i fi, os gwelwch yn dda.",alarm_query,0
+39,39.0,Dangoswch i mi fy ngloch weithredol cynnaraf.,alarm_query,0
+40,40.0,Pa larymau sydd gyda fi wediu trefnu ar gyfer y dyddiauadol?,alarm_query,0
+41,41.0,Oes larymau gyda fi wedi gosod ar gyfer y dyddiadur?,alarm_query,0
+42,42.0,Am faint or gloch ydw in dihuno bore fory?,alarm_query,0
+43,43.0,Oes larymau gyda fi wedii osod ar gyfer yfory?,alarm_query,0
+44,44.0,"Pa larymau sydd gyda fi yn awr, Alexa?",alarm_query,0
+45,45.0,A oes unrhyw larymau gyda fi wedi gosod ar gyfer y prydnawn?,alarm_query,0
+46,46.0,Sut mae fy larwm yn mynd i wefruo yfory?,alarm_query,0
+47,47.0,Pa larymau sydd gyda fi yn y cofnodur?,alarm_query,0
+48,48.0,Dangoswch y larymau wnes i osod ar gyfer y mis nesaf.,alarm_query,0
+49,49.0,Oes gen i larwm wedii osod ar gyfer yfory?,alarm_query,0
+50,50.0,Faint or gloch ydw i wedi gosod fy larwm ar gyfer y bore?,alarm_query,0
+51,51.0,Beth ydyr amserau larwm ydw i wedii osod ar gyfer yfory?,alarm_query,0
+52,52.0,"Alexa, sut mae fy larwm yn mynd i wefruo yfory?",alarm_query,0
+53,53.0,A oes unrhyw larymau gyda fi wedi gosod ar gyfer ystod y tywydd?,alarm_query,0
+54,54.0,Dangoswch i mi fy holl larymau gweithredol yn y stafell wely.,alarm_query,0
+55,55.0,Dangoswch y larymau wnes i osod yn ystod y pythefnos.,alarm_query,0
+56,56.0,Faint or gloch mae fy larwm wedii osod ar gyfer y bore?,alarm_query,0
+57,57.0,"Sgwrioedd y larymau sydd gyda fi, os gwelwch yn dda.",alarm_query,0
+58,58.0,Faint or gloch mae fy larwm wedii osod ar gyfer y prynhawn?,alarm_query,0
+59,59.0,Pa larymau sydd gyda fi yn awr?,alarm_query,0
+60,60.0,Sgwrioedd y larymau sydd gyda fi.,alarm_query,0
+61,61.0,Dangoswch i mi beth ydyr larymau olaf ydw i wediu trefnu.,alarm_query,0
+62,62.0,Oes larymau gyda fi wedii osod ar gyfer y prynhawn?,alarm_query,0
+63,63.0,Am faint or gloch ydw in dihuno ymhen dwy awr?,alarm_query,0
+64,64.0,Oes larymau gyda fi wedi gosod ar gyfer y penwythnos?,alarm_query,0
+65,65.0,Oes larwm gyda fi wedi gosod ar gyfer y penwythnos?,alarm_query,0
+66,66.0,Faint or gloch mae fy larwm wedii osod ar gyfer y noswaith?,alarm_query,0
+67,67.0,Dangoswch i mi beth ydy amser fy ngwynnaraf larwm.,alarm_query,0
+68,68.0,Oes larymau gyda fi wedi gosod ar gyfer y bore?,alarm_query,0
+69,69.0,Beth ydyr amserau larwm ydw i wediu trefnu ar gyfer yfory?,alarm_query,0
+70,70.0,Dangoswch i mi fy ngloch weithredol diweddaraf.,alarm_query,0
+71,71.0,Beth ywr amserau larwm ydw i wedi gosod ar gyfer y dyddiau nesaf?,alarm_query,0
+72,72.0,Am faint or gloch ydw in dihuno yn hwyrach?,alarm_query,0
+73,73.0,Pa larymau sydd wediu trefnu ar gyfer y dyddiau nesaf?,alarm_query,0
+74,74.0,Faint or gloch ydw i wedi gosod fy larwm ar gyfer y noswaith?,alarm_query,0
+75,75.0,Pa larymau sydd gyda fi ac maen nhwn dod i ben yfory?,alarm_query,0
+76,76.0,Pa larymau sydd wedii osod ar gyfer y dyddiau nesaf?,alarm_query,0
+77,77.0,Beth ydyr amserau larwm ydw i wediu trefnu ar gyfer y penwythnos?,alarm_query,0
+78,78.0,Pa larymau sydd wediu trefnu ar gyfer y prynhawn?,alarm_query,0
+79,79.0,Oes larymau gyda fi wedi gosod ar gyfer yfory?,alarm_query,0
+80,80.0,Sgwrioedd y larymau sydd gyda fi wediu trefnu ar gyfer yr wythnos.,alarm_query,0
+81,81.0,"Dangoswch i mi fy holl larymau gweithredol, os gwelwch yn dda.",alarm_query,0
+82,82.0,Oes gen i larwm yn mynd i wefruo yn fuan?,alarm_query,0
+83,83.0,Beth ydyr amserau larwm ydw i wedii osod ar gyfer heddiw?,alarm_query,0
+84,84.0,"Pa larymau sydd gyda fi yn awr, shwmae?",alarm_query,0
+85,85.0,Beth ydy dyddiad fy nghynnaraf larwm nesaf?,alarm_query,0
+86,86.0,Dangoswch y larymau wnes i osod yn ystod yr wythnos.,alarm_query,0
+87,87.0,Faint or gloch ydw i wedi gosod fy narwm?,alarm_query,0
+88,88.0,Pa larymau sydd wedii osod ar gyfer y prynhawn?,alarm_query,0
+89,89.0,"Tin rhy swnllyd, gostwng yr uchder yn awr!",audio_volume_down,1
+90,90.0,"Cwympar lleisiwr, dwi eisiau gwrando yn well.",audio_volume_down,1
+91,91.0,"Lleihaur sain, dwi ddim yn gallu clywed.",audio_volume_down,1
+92,92.0,"Maen rhy uchel, gostwnga hi i lawr.",audio_volume_down,1
+93,93.0,"Dim swn o gwbl, lleihaur lleisiwr!",audio_volume_down,1
+94,94.0,"Cymrur uchder, dwi ddim yn gallu clywed.",audio_volume_down,1
+95,95.0,Dymar amser i ostwng y sain i lawr.,audio_volume_down,1
+96,96.0,"Rhoir volume i lawr, chdi ddim yn gallu clywed.",audio_volume_down,1
+97,97.0,"Dim ond gostwng yr uchder, dwi eisiau clywed yn well.",audio_volume_down,1
+98,98.0,Tin moyn gostwng y sain erbyn hyn.,audio_volume_down,1
+99,99.0,"Gostwng uchder y sain, dwi eisiau clywed yn well.",audio_volume_down,1
+100,100.0,"Rhoir volume yn ôl, maen rhy uchel.",audio_volume_down,1
+101,101.0,"Tin rhy swnllyd, gostwng yr uchder yn llai!",audio_volume_down,1
+102,102.0,"Gostwng uchder y teledu, maen rhy uchel!",audio_volume_down,1
+103,103.0,"Cymrur lleisiwr i lawr, rhowch imi glywed.",audio_volume_down,1
+104,104.0,"Maen rhy swnllyd, gostwng yr uchder!",audio_volume_down,1
+105,105.0,"Lleihaur lleisiwr, dwi wedi bod yn gweiddi.",audio_volume_down,1
+106,106.0,"Oerir lleisiwr, dwi wedi bod yn gweiddi.",audio_volume_down,1
+107,107.0,"Gostwng uchder y teledu, maen rhy uchel.",audio_volume_down,1
+108,108.0,Tin mynd i wneud dim byd ond gostwng yr uchder.,audio_volume_down,1
+109,109.0,"Troir volume i lawr, tin rhy swnllyd!",audio_volume_down,1
+110,110.0,"Troir volume yn ôl, dwi eisiau siarad yn dawelach.",audio_volume_down,1
+111,111.0,"Cymrur lleisiwr, tin rhy swnllyd!",audio_volume_down,1
+112,112.0,Maen amhosib clywed yn dawel pan for lleisiwr yn uchel.,audio_volume_down,1
+113,113.0,"Troir volume i lawr, maen rhy berwiog.",audio_volume_down,1
+114,114.0,"Troir volume i lawr, os gweli din dda.",audio_volume_down,1
+115,115.0,"Dwi eisiau gostwng yr uchder, maen rhy uchel.",audio_volume_down,1
+116,116.0,"Maer seinydd yn rhy swnllyd, gostwngo fe!",audio_volume_down,1
+117,117.0,Maen amhosib clywed yn dawel pan for seinyddion yn uchel.,audio_volume_down,1
+118,118.0,"Dwin chwaraer gerddoriaeth yn rhy uchel, gostwng iddi fel petai.",audio_volume_down,1
+119,119.0,"Lleihaur seinyddion, dwi eisiau clywed yn dawel.",audio_volume_down,1
+120,120.0,"Chwynor seinydd, dwi ddim yn gallu cysgu.",audio_volume_down,1
+121,121.0,"Gostwng uchder y sain, dwi eisiau clywed yn dawel.",audio_volume_down,1
+122,122.0,"Lleihaur lleisiwr, maen rhy swnllyd!",audio_volume_down,1
+123,123.0,"Maen rhy swnllyd, gallai di ostwng y lleisiwr?",audio_volume_down,1
+124,124.0,"Rhoir volume i lawr, dwi moyn darllen llyfr.",audio_volume_down,1
+125,125.0,"Tin rhy swnllyd, gostwng uchder y seinydd.",audio_volume_down,1
+126,126.0,"Troir volume i lawr, os gwelwch yn dda.",audio_volume_down,1
+127,127.0,"Rhaid i mi gostwng uchder y seinydd, dwi eisiau clywed yn well.",audio_volume_down,1
+128,128.0,"Maen rhy uchel, gallai di wneud rhywbeth amdano fe.",audio_volume_down,1
+129,129.0,"Rhaid i mi ostwng uchder y seinydd, dwi eisiau clywed yn well.",audio_volume_down,1
+130,130.0,"Os gwelwch yn dda, gostwngwch y lleisiwr i lawr.",audio_volume_down,1
+131,131.0,Dim ond gostwng y lleisiwr a wnawn i.,audio_volume_down,1
+132,132.0,"Gostwng uchder y sain, dwi wedi cael digon.",audio_volume_down,1
+133,133.0,"Chwiorydd, gostwngwch y sain, dwi ddim yn gallu clywed.",audio_volume_down,1
+134,134.0,"Oes modd gostwng y sain, dwi ddim yn gallu clywed?",audio_volume_down,1
+135,135.0,"Gallai di roir volume yn ôl, dwi eisiau clywed yn well.",audio_volume_down,1
+136,136.0,"Gostwng yr uchder, dwi eisiau clywed yn well.",audio_volume_down,1
+137,137.0,"Rhoir lleisiwr yn ôl, maen rhy swnllyd.",audio_volume_down,1
+138,138.0,"Gwueld neu wneud rhywbeth am yr uchder, dwi eisiau lleihau.",audio_volume_down,1
+139,139.0,"Chwilotar volume i lawr, dwi eisiau clywed yn well.",audio_volume_down,1
+140,140.0,"Troir volume i lawr, dwi eisiau clywed yn glir.",audio_volume_down,1
+141,141.0,"Maer seinydd yn rhy uchel, gostwngo fe nawr!",audio_volume_down,1
+142,142.0,"Tin rhy swnllyd, gostwng uchder y seinydd!",audio_volume_down,1
+143,143.0,"Rhoir sain i lawr, dwi eisiau clywed yn well.",audio_volume_down,1
+144,144.0,"Maer lleisiwr yn rhy uchel, troiwch ef i lawr.",audio_volume_down,1
+145,145.0,"Cwympar seinydd, dwi eisiau gwrando yn well.",audio_volume_down,1
+146,146.0,"Dim ond dyna lleisioedd yn uchel, gostwngwch nhw i lawr.",audio_volume_down,1
+147,147.0,"Maen rhy uchel, gostwngwch y lleisiwr i lawr.",audio_volume_down,1
+148,148.0,"Cymrur seinyddion i lawr, plis.",audio_volume_down,1
+149,149.0,Dwi eisiau troir lleisiwr i lawr unwaith eto.,audio_volume_down,1
+150,150.0,"Troir lleisiwr i lawr, dwi eisiau clywed yn well.",audio_volume_down,1
+151,151.0,"Cwympar seinyddion, dwi eisiau clywed yn well.",audio_volume_down,1
+152,152.0,"Gostwng y sain, rydyn nin chwarae gemau.",audio_volume_down,1
+153,153.0,"Dwi eisiau lleihaur lleisiwr, tin rhy swnllyd.",audio_volume_down,1
+154,154.0,"Dwi eisiau lleihaur sain, maen rhy swnllyd.",audio_volume_down,1
+155,155.0,"Gostwng uchder y sain, maen rhy swnllyd!",audio_volume_down,1
+156,156.0,"Lleihaur volume, dwi moyn siarad â phobl.",audio_volume_down,1
+157,157.0,"Dim swn o gwbl, gostwng yr uchder!",audio_volume_down,1
+158,158.0,"Maen rhy swnllyd, gostwng yr uchder yn gyflym!",audio_volume_down,1
+159,159.0,"Lleihaur lleisiwr, maen rhy uchel!",audio_volume_down,1
+160,160.0,"Oedi cynnal y lleisiwr yn is, os gweli din dda.",audio_volume_down,1
+161,161.0,"Gostwng uchder y radio, maen rhy swnllyd.",audio_volume_down,1
+162,162.0,"Troir volume i lawr, maen rhy swnllyd.",audio_volume_down,1
+163,163.0,"Maer lleisiwr yn rhy uchel, dwi eisiau lleihau.",audio_volume_down,1
+164,164.0,"Lleihaur lleisiwr, dwi eisiau clywed yn well.",audio_volume_down,1
+165,165.0,"Gostwng uchder y cyfryngau, maen rhy uchel!",audio_volume_down,1
+166,166.0,"Rhoir volume i lawr, os gweli din dda.",audio_volume_down,1
+167,167.0,"Rhoir volume yn ôl, dwi eisiau siarad yn dawelach.",audio_volume_down,1
+168,168.0,"Rhoir sain i lawr, maen rhy uchel!",audio_volume_down,1
+169,169.0,"Cymrur lleisiwr, maen rhy uchel!",audio_volume_down,1
+170,170.0,"Dwi eisiau troir volume i lawr, plis.",audio_volume_down,1
+171,171.0,"Rhoir lleisioedd i lawr, plîs.",audio_volume_down,1
+172,172.0,"Troir volume yn ôl, maen rhy swnllyd.",audio_volume_down,1
+173,173.0,"Gostwng uchder y radio, maen rhy uchel!",audio_volume_down,1
+174,174.0,"Dwi eisiau troir volume i lawr, os gwelwch yn dda.",audio_volume_down,1
+175,175.0,"Gostwng uchder y sain, os gwelwch yn dda.",audio_volume_down,1
+176,176.0,"Cymryd y lleisiwr i lawr, dwi ddim yn gallu clywed.",audio_volume_down,1
+177,177.0,"Gostwng uchder y cerdyn, dwi eisiau clywed yn well.",audio_volume_down,1
+178,178.0,"Dwi eisiau troir volume i lawr, maen rhy uchel.",audio_volume_down,1
+179,179.0,"Maer sain yn rhy uchel, gostwngwch ef i lawr.",audio_volume_down,1
+180,180.0,"Gostwng yr uchder, dwi eisiau gwrando yn well.",audio_volume_down,1
+181,181.0,"Maen rhy lwcus, gostwng yr uchder yn fawr!",audio_volume_down,1
+182,182.0,"Maer seinydd yn rhy berwiog, gostwngo fe!",audio_volume_down,1
+183,183.0,dileur cofnodau o fy nghalendr gwaith,calendar_remove,2
+184,184.0,cliriwch fy nghalendr am y bore,calendar_remove,2
+185,185.0,canslor digwyddiad yn y stordy,calendar_remove,2
+186,186.0,dileur cofnodion o fy nghalendr,calendar_remove,2
+187,187.0,dileur cofnodau o fy nghalendr bersonol,calendar_remove,2
+188,188.0,cliriwch fy nghalendr or holl weithgareddau,calendar_remove,2
+189,189.0,dileur digwyddiad diweddaraf yn y calendr,calendar_remove,2
+190,190.0,fedri di ddileur cofnodion or calendr i ni?,calendar_remove,2
+191,191.0,canslor priodas o fy nghalendr,calendar_remove,2
+192,192.0,tynnur digwyddiad cychwynnol o fy nghalendr,calendar_remove,2
+193,193.0,dileur apwyntiad o fy nghalendr am y prydnawn,calendar_remove,2
+194,194.0,dileur holl weithredoedd o fy nghalendr,calendar_remove,2
+195,195.0,canslor cyfarfodydd olaf yn y calendr,calendar_remove,2
+196,196.0,dileur cofnodion or calendr ar gyfer yfory,calendar_remove,2
+197,197.0,dileur cofnodion hamdden o fy nghalendr,calendar_remove,2
+198,198.0,canslor cofnodau o fy nghalendr ar gyfer y flwyddyn hon,calendar_remove,2
+199,199.0,dileur digwyddiad hamdden o fy nghalendr,calendar_remove,2
+200,200.0,dileur holl apwyntiadau o fy nghalendr ar gyfer y tymor hwn,calendar_remove,2
+201,201.0,cliriwch fy nghalendr ar gyfer y tymor newydd,calendar_remove,2
+202,202.0,canslaur digwyddiad yma o fy nghalendr,calendar_remove,2
+203,203.0,dileur cofnodau o fy nghalendr,calendar_remove,2
+204,204.0,dileur holl apwyntiadau o fy nghalendr ar gyfer y mis hwn,calendar_remove,2
+205,205.0,tynnur cofnod o fy nghalendr teulu,calendar_remove,2
+206,206.0,dileur apwyntiad yma o fy nghalendr,calendar_remove,2
+207,207.0,canslor apwyntiad yma o fy nghalendr,calendar_remove,2
+208,208.0,canslor cynhadledd o fy nghalendr academaidd,calendar_remove,2
+209,209.0,dileur apwyntiad o fy nghalendr am yfory,calendar_remove,2
+210,210.0,canslor cofnodau olynol yn y calendr,calendar_remove,2
+211,211.0,dileur holl wythnosau o fy nghalendr,calendar_remove,2
+212,212.0,tynnur digwyddiad rhagolygon o fy nghalendr,calendar_remove,2
+213,213.0,fedri di ddileur cofnod o fy nghalendr?,calendar_remove,2
+214,214.0,cliriwch fy nghalendr or holl apwyntiadau,calendar_remove,2
+215,215.0,dileur apwyntiad olaf yn y calendr,calendar_remove,2
+216,216.0,dileur digwyddiad arbennig yma o fy nghalendr,calendar_remove,2
+217,217.0,dileur digwyddiad crefyddol o fy nghalendr,calendar_remove,2
+218,218.0,tynnur apwyntiad meddygol o fy nghalendr,calendar_remove,2
+219,219.0,dileur holl apwyntiadau o fy nghalendr,calendar_remove,2
+220,220.0,dileur rhybuddion o fy nghalendr,calendar_remove,2
+221,221.0,tynnur digwyddiad or calendr heddiw,calendar_remove,2
+222,222.0,dileur apwyntiad cynharach o fy nghalendr,calendar_remove,2
+223,223.0,dileur cofnodion cymdeithasol o fy nghalendr,calendar_remove,2
+224,224.0,tynnur cofnodau pryd o fy nghalendr,calendar_remove,2
+225,225.0,canslor digwyddiad olaf yn y calendr,calendar_remove,2
+226,226.0,dileur cyfarfod o fy nghalendr ar gyfer dydd luan,calendar_remove,2
+227,227.0,canslor cyfarfodydd yn ystod wythnos,calendar_remove,2
+228,228.0,canslor holl wythnosau o fy nghalendr,calendar_remove,2
+229,229.0,dileur apwyntiadau personol o fy nghalendr,calendar_remove,2
+230,230.0,dileur digwyddiad ym maes awyr o fy nghalendr,calendar_remove,2
+231,231.0,dileur cofnodau pryd o fy nghalendr,calendar_remove,2
+232,232.0,cliriwch fy nghalendr or holl wybodaeth,calendar_remove,2
+233,233.0,tynnur cyfarfodydd olaf o fy nghalendr,calendar_remove,2
+234,234.0,dileur holl gyfranogau o fy nghalendr,calendar_remove,2
+235,235.0,dileur apwyntiad o fy nghalendr ar gyfer dydd mercher,calendar_remove,2
+236,236.0,canslor seremoni o fy nghalendr,calendar_remove,2
+237,237.0,bodlonir apwyntiad yma o fy nghalendr,calendar_remove,2
+238,238.0,tynnur cofnad o fy nghalendr,calendar_remove,2
+239,239.0,dileur digwyddiad arbennig yn y calendr,calendar_remove,2
+240,240.0,"dileur apwyntiad yma o fy nghalendr, os gwelwch yn dda",calendar_remove,2
+241,241.0,tynnur cystadleuaeth o fy nghalendr,calendar_remove,2
+242,242.0,canslaur cyfarfodydd o fy nghalendr,calendar_remove,2
+243,243.0,dileur holl gyfranogaid o fy nghalendr,calendar_remove,2
+244,244.0,canslaur digwyddiad yna o fy nghalendr os gwelwch yn dda,calendar_remove,2
+245,245.0,canslaur cofnodion or calendr i ti,calendar_remove,2
+246,246.0,cliriwch fy nghalendr or holl weithredoedd,calendar_remove,2
+247,247.0,dileur holl apwyntiadau addysg o fy nghalendr,calendar_remove,2
+248,248.0,"dileur apwyntiad yma o fy nghalendr, rhowch gymorth",calendar_remove,2
+249,249.0,tynnur cyfarfodydd o fy nghalendr heddiw,calendar_remove,2
+250,250.0,tynnur digwyddiad olaf o fy nghalendr,calendar_remove,2
+251,251.0,cliriwch fy nghalendr or holl waith,calendar_remove,2
+252,252.0,canslor digwyddiad yn y pryd or gloch,calendar_remove,2
+253,253.0,dileur holl apwyntiadau o fy nghalendr erbyn heddiw,calendar_remove,2
+254,254.0,dileur digwyddiad rhagflaenol o fy nghalendr,calendar_remove,2
+255,255.0,dileur cofnodau olynol yn y calendr,calendar_remove,2
+256,256.0,tynnur apwyntiad or arfaeth or calendr,calendar_remove,2
+257,257.0,dileur holl gyfarfodydd busnes o fy nghalendr,calendar_remove,2
+258,258.0,dileur cofnodau o fy nghalendr ar gyfer ystod,calendar_remove,2
+259,259.0,cliriwch fy nghalendr ar gyfer y mis newydd,calendar_remove,2
+260,260.0,tynnur cofnod o fy nghalendr personol,calendar_remove,2
+261,261.0,fedri di ddileur holl gyfarfodydd o fy nghalendr?,calendar_remove,2
+262,262.0,"tynnur apwyntiad yma o fy nghalendr, os gwelwch yn dda",calendar_remove,2
+263,263.0,"dileur apwyntiad yma o fy nghalendr, plîs",calendar_remove,2
+264,264.0,dileur cynadledda o fy nghalendr,calendar_remove,2
+265,265.0,dileur bythefnosau o fy nghalendr,calendar_remove,2
+266,266.0,dileur holl gyfarfodydd o fy nghalendr,calendar_remove,2
+267,267.0,canslor apwyntiad meddygol o fy nghalendr,calendar_remove,2
+268,268.0,fedri di ddileur cofnodion or calendr i mi?,calendar_remove,2
+269,269.0,tynnur cyfarfodydd o fy nghalendr ar gyfer y tydfordd,calendar_remove,2
+270,270.0,dileur cofnodion teuluol o fy nghalendr,calendar_remove,2
+271,271.0,bodlonir digwyddiad rhag ofn iddo gael ei ddiffodd,calendar_remove,2
+272,272.0,dileur holl waith o fy nghalendr,calendar_remove,2
+273,273.0,dileur holl apwyntiadau meddygol o fy nghalendr,calendar_remove,2
+274,274.0,dileur holl gyfarfodydd o fy nghalendr am byth,calendar_remove,2
+275,275.0,dileur holl gyfranogaid o fy nghalendr ar gyfer y mis,calendar_remove,2
+276,276.0,cliriwch fy nghalendr ar gyfer y dyddiau syn dod,calendar_remove,2
+277,277.0,dileur cofnodion busnes o fy nghalendr,calendar_remove,2
+278,278.0,tynnur digwyddiad rhagflaenol o fy nghalendr,calendar_remove,2
+279,279.0,tynnur digwyddiad arbennig o fy nghalendr,calendar_remove,2
+280,280.0,dileur holl weithredoedd o fy nghalendr ar gyfer y dydd,calendar_remove,2
+281,281.0,dileur digwyddiad cychwynnol o fy nghalendr,calendar_remove,2
+282,282.0,dileur rhybuddion om calnedr,calendar_remove,2
+283,283.0,Sut mae gwneud paned or sgil heb wisgoi?,cooking_recipe,3
+284,284.0,Faint o olew ddylwn i ddefnyddio i wneud salat tomato?,cooking_recipe,3
+285,285.0,Sut mae gwneud saus tomato or sgil?,cooking_recipe,3
+286,286.0,Beth ywr cyfrif iawn i wneud picear bach?,cooking_recipe,3
+287,287.0,Beth ywr modd gorau i wneud pop corn maith yn y microwave?,cooking_recipe,3
+288,288.0,Beth ywr cyfrif cael i wneud jam malwen?,cooking_recipe,3
+289,289.0,Pa faint o siwgwr syn mynd mewn cacen bach?,cooking_recipe,3
+290,290.0,Pa mor hir ddylai i roir jambon yn yr oven?,cooking_recipe,3
+291,291.0,Sut mae gwneud cacen fawr yn llawn cnau?,cooking_recipe,3
+292,292.0,"Sut mae hin gwneud bara brith, os gwelwch yn dda?",cooking_recipe,3
+293,293.0,Sut mae gwneud picear gwych yn defnyddio llaeth soi?,cooking_recipe,3
+294,294.0,Faint o ffrwythau sydd angen i mi eu defnyddio yn y trifle honno?,cooking_recipe,3
+295,295.0,Allwch chi rhoir cynnwys i wneud cacen naddu?,cooking_recipe,3
+296,296.0,Pa mor hir ddylai fi fod yn poethir cyflwyniad cyn ei roi yn yr oven?,cooking_recipe,3
+297,297.0,Allwch chi esbonio sut i wneud panad creampas?,cooking_recipe,3
+298,298.0,Pa tymheredd ddylem i roir pys yn yr oven?,cooking_recipe,3
+299,299.0,Sut mae gwneud cacen llaeth yn gyflym?,cooking_recipe,3
+300,300.0,Pa faint o wenwyn syn mynd mewn saws BBQ?,cooking_recipe,3
+301,301.0,Pa faint o fwyn sydd angen i wneud tarte tatin?,cooking_recipe,3
+302,302.0,Sut mae gwneud bwydydd yn defnyddio llysiaur haf?,cooking_recipe,3
+303,303.0,Pa mor hir ddylai fi bod yn boilio cyn iddi gael ei chwarae?,cooking_recipe,3
+304,304.0,Sut mae gwneud cacen fawr yn gyflym?,cooking_recipe,3
+305,305.0,Pa faint o dwr sydd angen i wneud surop afal?,cooking_recipe,3
+306,306.0,Faint o lwgaid sydd angen i wneud tarten llaeth?,cooking_recipe,3
+307,307.0,Faint o wenwyn sydd angen i wneud tatws wediu pocedi?,cooking_recipe,3
+308,308.0,Pa ryseit ydw i angen i wneud tortellini trefedigaethol?,cooking_recipe,3
+309,309.0,Allwch chi esbonio sut i wneud jambon yn yr oven?,cooking_recipe,3
+310,310.0,Sut mae gwneud crumble yn gyflym?,cooking_recipe,3
+311,311.0,Allwch chi esbonio sut i wneud crêpes?,cooking_recipe,3
+312,312.0,Allwch chi ddim rhoi rhybudd sut i wneud picear?,cooking_recipe,3
+313,313.0,Pa tymheredd ddylem i roir cig yn yr oven?,cooking_recipe,3
+314,314.0,Beth ywr cyfrif iawn i wneud cwrw daear coch?,cooking_recipe,3
+315,315.0,"Allwch chi esbonio sut i wneud jam, bach?",cooking_recipe,3
+316,316.0,Beth ywr modd gorau i goginio cig mochyn?,cooking_recipe,3
+317,317.0,Beth ywr modd gorau i gadwr llaeth yn oer yn ystod y brynhawn?,cooking_recipe,3
+318,318.0,Sut mae gwneud brechdan yn llawn cynhwysedd?,cooking_recipe,3
+319,319.0,Pa mor hir ddylai i roir pys yn yr oven?,cooking_recipe,3
+320,320.0,Beth ywr modd gorau i goginio cyw iâr?,cooking_recipe,3
+321,321.0,Beth ywr modd gorau i goginio pysgod morgi?,cooking_recipe,3
+322,322.0,Faint o dwr ddylwn i ddefnyddio i wneud surop mango?,cooking_recipe,3
+323,323.0,Faint o siwgwr sydd angen i wneud cacen melodyn?,cooking_recipe,3
+324,324.0,Sut mae gwneud cacen faslenaidd yn gyflym?,cooking_recipe,3
+325,325.0,Pa faint o dwr sydd angen i wneud saws afal?,cooking_recipe,3
+326,326.0,"Sut mae hin gwneud crempogau, os gwelwch yn dda?",cooking_recipe,3
+327,327.0,Faint o amser ddylwn i roi yn y popty rwan?,cooking_recipe,3
+328,328.0,Faint o olew sydd angen i wneud tortilla?,cooking_recipe,3
+329,329.0,"Sut mae hin gwneud cacen fasgi, os gwelwch yn dda?",cooking_recipe,3
+330,330.0,Faint o siwgwr sydd angen i wneud cacen nwdls?,cooking_recipe,3
+331,331.0,Pa mor hir ddylai i roir cig moch yn yr oven?,cooking_recipe,3
+332,332.0,Faint o dyddiau ddylwn i adael yr ieir yn y popty?,cooking_recipe,3
+333,333.0,Sut mae gwneud crêpes yn gyflym?,cooking_recipe,3
+334,334.0,Faint o wenwyn sydd angen i wneud tatws rhost?,cooking_recipe,3
+335,335.0,Sut mae gwneud stiw yn gyflym?,cooking_recipe,3
+336,336.0,Pa mor hir ddylai fi fod yn poethir cig yn y pwdr?,cooking_recipe,3
+337,337.0,Pa mor hir ddylai fi fod yn chwilotar pysgod cyn eu bwrw yn y padell?,cooking_recipe,3
+338,338.0,Faint o fwyn sydd angen i mi eu defnyddio yn y cawl?,cooking_recipe,3
+339,339.0,Allwch chi ddatgelur secret i wneud crempogau mwya?,cooking_recipe,3
+340,340.0,Beth ywr modd gorau i wneud cacen waedlyd?,cooking_recipe,3
+341,341.0,Pa gymharu sydd rhaid i mi eu defnyddio yn y tarten?,cooking_recipe,3
+342,342.0,Pa faint o fflwr sydd angen i wneud cacen?,cooking_recipe,3
+343,343.0,Allwch chi esbonio sut i wneud cwrw daear coch?,cooking_recipe,3
+344,344.0,Allwch chi ddatgelur secret i wneud cwcis mocha?,cooking_recipe,3
+345,345.0,Allwch chi esbonio sut i wneud salat tomato?,cooking_recipe,3
+346,346.0,Allwch chi ddim rhoi rhybudd sut i wneud bara brith?,cooking_recipe,3
+347,347.0,Pa gymorth sydd angen i wneud cawl cennin?,cooking_recipe,3
+348,348.0,Allwch chi ddim rhoi rhybudd sut i wneud cacen wisgi?,cooking_recipe,3
+349,349.0,Pa faint o wenwyn sydd angen i wneud saws tomato?,cooking_recipe,3
+350,350.0,Faint o dwr sydd angen i wneud surop afal?,cooking_recipe,3
+351,351.0,Allwch chi esbonio sut i wneud paned gem?,cooking_recipe,3
+352,352.0,Beth ywr modd gorau i goginio cnwd?,cooking_recipe,3
+353,353.0,Pa gymharu sydd angen i wneud tarte tatws?,cooking_recipe,3
+354,354.0,Allwch chi esbonio sut i wneud curry sbagliadau?,cooking_recipe,3
+355,355.0,Pa faint o fwyn sydd angen i wneud crempog?,cooking_recipe,3
+356,356.0,Beth ywr rheol i wneud cwrw daeargwladol?,cooking_recipe,3
+357,357.0,Pa mor hir ddylai i roir cig yn yr oven?,cooking_recipe,3
+358,358.0,Pa faint o fflur sydd ei angen i wneud cacen?,cooking_recipe,3
+359,359.0,Beth ywr modd gorau i wneud ciabatta trefedigaethol?,cooking_recipe,3
+360,360.0,Sut mae gwneud jambalaya yn gyflym?,cooking_recipe,3
+361,361.0,Faint o dwfr sydd angen i wneud pota?,cooking_recipe,3
+362,362.0,Faint o wenwyn sydd angen i wneud saws afalau?,cooking_recipe,3
+363,363.0,Sut mae gwneud cacen cnau yn llawen?,cooking_recipe,3
+364,364.0,Sut mae gwneud sawl math o waffts?,cooking_recipe,3
+365,365.0,Sut mae gwneud curry yn gyflym?,cooking_recipe,3
+366,366.0,Allwch chi esbonio sut i wneud ciabatta?,cooking_recipe,3
+367,367.0,Sut mae gwneud saws crème fraîche or dechrau?,cooking_recipe,3
+368,368.0,Pa gymharu sydd angen i wneud tarten llaeth?,cooking_recipe,3
+369,369.0,Pa faint o siwgwr sydd angen i wneud cacen melodyn?,cooking_recipe,3
+370,370.0,Pa faint o siwgwr sydd angen i wneud cacen nadiad?,cooking_recipe,3
+371,371.0,Sut mae gwneud crempog yn llawen?,cooking_recipe,3
+372,372.0,Beth ywr modd gorau i wneud cacen sicilian?,cooking_recipe,3
+373,373.0,Beth ywr cyfrif cael i wneud jambalaya perffaith?,cooking_recipe,3
+374,374.0,"Sut mae hin gwneud cacen nwdls, os gwelwch yn dda?",cooking_recipe,3
+375,375.0,Beth ywr modd gorau i goginio pysgod?,cooking_recipe,3
+376,376.0,Sut mae gwneud sawl math o fasgedi?,cooking_recipe,3
+377,377.0,Allwch chi ddangos sut i wneud tarten tatws?,cooking_recipe,3
+378,378.0,Allwch chi rhoi rhybudd am faint o lwgaid sydd angen yn y potiau?,cooking_recipe,3
+379,379.0,Pa gymorth sydd angen i wneud stiw pysgod?,cooking_recipe,3
+380,380.0,Pa gymharu sydd rhaid i mi eu defnyddio yn y stofadur honno?,cooking_recipe,3
+381,381.0,Pa faint o olew sydd angen i wneud tagine?,cooking_recipe,3
+382,382.0,Pa faint o wenwyn sydd angen i wneud saws BBQ?,cooking_recipe,3
+383,383.0,Newidiar rhanbarth amser i Africa/Johannesburg.,datetime_convert,4
+384,384.0,Faint or gloch yw hi yn Sydney pan fon 10am yn Llanelli?,datetime_convert,4
+385,385.0,Newidiar rhanbarth amser i Asia/Seoul.,datetime_convert,4
+386,386.0,Troswch y dyddiad or 31ain o Ionawr ir 28ain o Chwefror.,datetime_convert,4
+387,387.0,Faint or gloch yw hi yn Rwsia pan fo 11pm yn Berlin?,datetime_convert,4
+388,388.0,Beth ywr gwahaniaeth amser rhwng Llundain a Moscow?,datetime_convert,4
+389,389.0,Dywed wrthyf yr amser saith awr cyn GMT.,datetime_convert,4
+390,390.0,"Os yw hin 12pm yn Lloegr, faint or gloch yw hi yn Rwsia?",datetime_convert,4
+391,391.0,"Os yw hin 3pm yn Dubai, faint or gloch yw hi yn Istanbul?",datetime_convert,4
+392,392.0,Faint or gloch yw hi yn Dubai pan fo 3pm yn Llundain?,datetime_convert,4
+393,393.0,Pa mor wahanol ywr amser yn Colombia na yn Ecuador?,datetime_convert,4
+394,394.0,Sut maer amser yn Virginia yn gymharu âr amser yn Llundain?,datetime_convert,4
+395,395.0,"Sylwiwch fod yn 5pm yn Efrog Newydd, faint or gloch yw hi yn Sydney?",datetime_convert,4
+396,396.0,Faint or gloch yw hi yn Rio de Janeiro pan fo hin 3pm yn Abertawe?,datetime_convert,4
+397,397.0,Pa mor wahanol ywr amser yn Mexico City ir amser yn Chicago?,datetime_convert,4
+398,398.0,Trosglwydwch y dyddiad o GMT i CST.,datetime_convert,4
+399,399.0,Faint or gloch yw hi yn Tokyo pan fo 10am yn Lloegr?,datetime_convert,4
+400,400.0,Troswch y dyddiad or 25ain o Rhagfyr ir Nadolig.,datetime_convert,4
+401,401.0,Beth ywr gwahaniaeth amser rhwng Buenos Aires a Madrid?,datetime_convert,4
+402,402.0,Allwch chi newid y rhanbarth amser i Cairo?,datetime_convert,4
+403,403.0,"Os yw hin 12pm yn Lloegr, faint or gloch yw hi yn India?",datetime_convert,4
+404,404.0,Gosodwch y rhanbarth amser i CET o WAT.,datetime_convert,4
+405,405.0,Troswch y prynhawn o GMT i EDT.,datetime_convert,4
+406,406.0,Gosodwch y rhanbarth amser i Istanbul.,datetime_convert,4
+407,407.0,Troswch amser Gogledd America i Amser Prydain.,datetime_convert,4
+408,408.0,Sut maer amser yn Virginia pan fon 3pm yn Llundain?,datetime_convert,4
+409,409.0,Beth ywr gwahaniaeth amser rhwng Efrog Newydd a Los Angeles?,datetime_convert,4
+410,410.0,Beth ywr gwahaniaeth amser rhwng Istanbul a Athens?,datetime_convert,4
+411,411.0,Newidiwch y dyddiad o EST i PST.,datetime_convert,4
+412,412.0,Beth ywr amser yn Dubai pan fo hin 12pm yn Caerdydd?,datetime_convert,4
+413,413.0,Beth ywr gwahaniaeth amser rhwng Cairo a Nairobi?,datetime_convert,4
+414,414.0,Troswch amser presennol o E.S.T. i G.M.T.,datetime_convert,4
+415,415.0,Beth ywr gwahaniaeth amser rhwng Sydney a Melbourne?,datetime_convert,4
+416,416.0,Faint or gloch yw hi yn Rio de Janeiro pan fo 10am yn Buenos Aires?,datetime_convert,4
+417,417.0,Sut maer amser yn Melbourne yn cyferir ir amser yn Perth?,datetime_convert,4
+418,418.0,Newidiwch y rhanbarth amser i Ddwyreiniol America.,datetime_convert,4
+419,419.0,Gosodwch y rhanbarth amser i Asia/Seoul.,datetime_convert,4
+420,420.0,Faint or gloch yw hi yn Rio de Janeiro pan fon 2pm yn Abertawe?,datetime_convert,4
+421,421.0,Gosodwch y rhanbarth amser i A.W.S.T.,datetime_convert,4
+422,422.0,Newidiwch y rhanbarth amser ir Ariannin.,datetime_convert,4
+423,423.0,Allwch chi gyfrifor gwahaniaeth amser rhwng Bangkok a Kuala Lumpur?,datetime_convert,4
+424,424.0,Gosodwch y rhanbarth amser i ICT o JST.,datetime_convert,4
+425,425.0,Sut maer amser yn Beijing yn cyferir ir amser yn Seoul?,datetime_convert,4
+426,426.0,Dywed wrthyf yr amser saith awr cyn G.M.T.,datetime_convert,4
+427,427.0,Troswch amser presennol o I.S.T. i B.S.T.,datetime_convert,4
+428,428.0,Gosodwch y rhanbarth amser i Europe/London.,datetime_convert,4
+429,429.0,Beth ywr gwahaniaeth amser rhwng Awstralia a Singapôr?,datetime_convert,4
+430,430.0,Beth ywr gwahaniaeth amser rhwng Bangkok a Kuala Lumpur?,datetime_convert,4
+431,431.0,Allwch chi newid y rhanbarth amser i Ddinas Mexico?,datetime_convert,4
+432,432.0,Shwd maer amser yn Rio de Janeiro yn gymharu âr amser yn Buenos Aires?,datetime_convert,4
+433,433.0,Sut maer amser yn Virginia yn cyferir ir amser yn Efrog Newydd?,datetime_convert,4
+434,434.0,Pa mor wahanol ywr amser yn Awstralia na yn India?,datetime_convert,4
+435,435.0,Beth ywr amser yn Seoul pan fo hin 11am yn Pyongyang?,datetime_convert,4
+436,436.0,Gosodwch y rhanbarth amser i Amsterdam.,datetime_convert,4
+437,437.0,"Os yw hin 12pm yn Paris, faint or gloch yw hi yn Cairo?",datetime_convert,4
+438,438.0,Troswch amser Singapôr i Amser Malaysia.,datetime_convert,4
+439,439.0,Beth ywr gwahaniaeth amser rhwng Shanghai a Hong Kong?,datetime_convert,4
+440,440.0,Pa fodd y gallwn i droir amser o HST i AKT?,datetime_convert,4
+441,441.0,Trosglwydwch y dyddiad o UTC i CT.,datetime_convert,4
+442,442.0,Pa mor wahanol ywr amser yn Mexico City nar Unol Daleithiau?,datetime_convert,4
+443,443.0,Faint or gloch yw hi yn Buenos Aires pan fon 5pm yn Glasgow?,datetime_convert,4
+444,444.0,Dywed wrthyf yr amser pedwar awr ar ôl G.M.T.,datetime_convert,4
+445,445.0,Beth ywr gwahaniaeth amser rhwng California a Florida?,datetime_convert,4
+446,446.0,Faint or gloch yw hi yn Mumbai pan fo 12pm yn Delhi?,datetime_convert,4
+447,447.0,Dywed wrthyf yr amser pedwar awr ar ôl GMT.,datetime_convert,4
+448,448.0,Newidiwch y rhanbarth amser i Ganada.,datetime_convert,4
+449,449.0,Shwd maer amser yn Toronto yn gymharu âr amser yn Vancouver?,datetime_convert,4
+450,450.0,Troswch amser Mecsico i Amser Ganolog.,datetime_convert,4
+451,451.0,Sut maer amser yn Virginia yn cyfateb ir amser yn Llundain?,datetime_convert,4
+452,452.0,Faint or gloch yw hi yn Buenos Aires pan fo hin 2pm yn Santiago?,datetime_convert,4
+453,453.0,Troswch amser presennol o P.S.T. i M.D.T.,datetime_convert,4
+454,454.0,Troswch y cyfnos o BST i CDT.,datetime_convert,4
+455,455.0,Gosodwch y rhanbarth amser i Hawaii.,datetime_convert,4
+456,456.0,Beth ywr gwahaniaeth amser rhwng Copenhagen a Stockholm?,datetime_convert,4
+457,457.0,Beth ywr gwahaniaeth amser rhwng Shanghai a Singapore?,datetime_convert,4
+458,458.0,Gosodwch y rhanbarth amser i PDT o BST.,datetime_convert,4
+459,459.0,Newidiwch y rhanbarth amser i AST o EDT.,datetime_convert,4
+460,460.0,Beth ywr gwahaniaeth amser rhwng Mexico City a Los Angeles?,datetime_convert,4
+461,461.0,Faint or gloch yw hi yn Paris pan fo hin 10am yn Llanelli?,datetime_convert,4
+462,462.0,Allwch chi newid y rhanbarth amser ir Unol Daleithiau?,datetime_convert,4
+463,463.0,Troswch y dyddiad or 12fed o Fai ir 5ed o Orffennaf.,datetime_convert,4
+464,464.0,"Os yw hin ganol dydd yn Los Angeles, faint or gloch yw hi yn Chicago?",datetime_convert,4
+465,465.0,Allwch chi gyfrifor amser yn Mumbai or amser yn Delhi?,datetime_convert,4
+466,466.0,"Os yw hin 12am yn Beijing, faint or gloch yw hi yn Seoul?",datetime_convert,4
+467,467.0,Beth ywr gwahaniaeth amser rhwng Dubai a Singapôr?,datetime_convert,4
+468,468.0,Pa mor wahanol ywr amser yn Awstralia nar Unol Daleithiau?,datetime_convert,4
+469,469.0,Beth ywr gwahaniaeth amser rhwng Paris a Tokyo?,datetime_convert,4
+470,470.0,Allwch chi ddweud fi faint or gloch yw hi yn Shanghai pan fon 11am yn Birmingham?,datetime_convert,4
+471,471.0,Beth ywr gwahaniaeth amser rhwng Paris a Madrid?,datetime_convert,4
+472,472.0,Pa mor wahanol ywr amser yn Mexico na yn Periw?,datetime_convert,4
+473,473.0,Gosodwch y rhanbarth amser i Africa/Johannesburg.,datetime_convert,4
+474,474.0,Dywed wrthyf yr amser pump awr ar ôl G.M.T.,datetime_convert,4
+475,475.0,Beth ywr amser yn Shanghai pan fo hin 9am yn Singapôr?,datetime_convert,4
+476,476.0,"Os yw hin 3pm yn Istanbul, faint or gloch yw hi yn Cairo?",datetime_convert,4
+477,477.0,Beth ywr gwahaniaeth amser rhwng Moscow a Beijing?,datetime_convert,4
+478,478.0,Gosodwch y rhanbarth amser i Pacific/Honolulu.,datetime_convert,4
+479,479.0,"Os yw hin ganol nos yn Dubai, faint or gloch yw hi yn Mumbai?",datetime_convert,4
+480,480.0,Faint or gloch yw hi yn Cairo pan fo 2pm yn Nairobi?,datetime_convert,4
+481,481.0,"Os yw hin 9am yn Shanghai, faint or gloch yw hi yn Seoul?",datetime_convert,4
+482,482.0,Troswch y bore o CST i PST.,datetime_convert,4
+483,483.0,"Pob lwc, bydden nin gallu anfon ebost i tim.",email_sendemail,5
+484,484.0,Cyfansoddai ebost i emily er mwyn iddi ddim yn dod ir swyddfa heddiw.,email_sendemail,5
+485,485.0,Dywedodd hi iddi anfon ebost ir athro cyn iddo fo mynd adref.,email_sendemail,5
+486,486.0,Credaf fod ti wedi anfon ebost i mi am y pynciau.,email_sendemail,5
+487,487.0,Yr oeddwn i angen i anfon ebost i google ynghylch problemau gyda fy nghyfrinair.,email_sendemail,5
+488,488.0,Dymar ebost rydw i wedi anfon iddi hi.,email_sendemail,5
+489,489.0,"Pob lwc iawn, danfonaf ebost i ti!",email_sendemail,5
+490,490.0,Nid oes modd anfon ebost ir llysgenadaeth honno.,email_sendemail,5
+491,491.0,Ebostiwch fy nain am y penblwydd.,email_sendemail,5
+492,492.0,Rydw in mynd i anfon ebost ir gymdeithas.,email_sendemail,5
+493,493.0,Rhowch ebost ich ffrind yn dawel.,email_sendemail,5
+494,494.0,Sgwennais ebost i sarah am y cyfrifiadur newydd.,email_sendemail,5
+495,495.0,Mae hin bwriadu danfon ebost iw chyfeillion cyn iddo fo gymryd seibiant.,email_sendemail,5
+496,496.0,Cyfansoddwch ebost i emily am y prosiect newydd.,email_sendemail,5
+497,497.0,Sdim yn siwr os bydda in anfon ebost ich chwaer.,email_sendemail,5
+498,498.0,"Felly, byddwn nin anfon ebost ich cwestor.",email_sendemail,5
+499,499.0,Gadewch ebost ich cymdeithas yn ol.,email_sendemail,5
+500,500.0,Gofynnais iddo anfon ebost i mi.,email_sendemail,5
+501,501.0,Roedd hin mynd i anfon ebost i mi am y stori.,email_sendemail,5
+502,502.0,Llythyroi ebost i gyfnither yn rhydd.,email_sendemail,5
+503,503.0,Beth ywr modd gorau i anfon ebost i gyflenwr?,email_sendemail,5
+504,504.0,Danfon ebost i rhosyn am y cyfarfod nesaf.,email_sendemail,5
+505,505.0,Gofynnais iddo anfon ebost i mi am y diweddariadau.,email_sendemail,5
+506,506.0,Peidiwch anfon ebost i fy ngyfad yn rhy gost.,email_sendemail,5
+507,507.0,Beth ywr hynafiaeth o anfon ebost i Google?,email_sendemail,5
+508,508.0,Cyfansoddai ebost ir rheolwr siop.,email_sendemail,5
+509,509.0,Efallai byddai hin well danfon ebost ir rheolwr.,email_sendemail,5
+510,510.0,Ysgrifenai ebost i fy nghefnder oeddwn in chwilio amdano fe.,email_sendemail,5
+511,511.0,Chwilowch am rywbeth i anfon ebost ich chyfal.,email_sendemail,5
+512,512.0,Cwestiwnais i anfon ebost ir banc ynghylch ariannau.,email_sendemail,5
+513,513.0,Rhowch ebost i mi ganol dydd.,email_sendemail,5
+514,514.0,Peidiwch anfon ebost ir siaradwr.,email_sendemail,5
+515,515.0,Cyfansoddai ebost i lowri yn ol.,email_sendemail,5
+516,516.0,Anfonwch ebost i sian yn gyntaf.,email_sendemail,5
+517,517.0,A wnewch chi anfon ebost i laura am y llythyron?,email_sendemail,5
+518,518.0,Mae gen i angen anfon ebost i fy ngad.,email_sendemail,5
+519,519.0,Gadewch ebost i mark am y neges.,email_sendemail,5
+520,520.0,Anfonwch ebost i mark am y prosiect newydd.,email_sendemail,5
+521,521.0,Byddech chin gallu anfon ebost i mi?,email_sendemail,5
+522,522.0,Anfonwch ebost i baul am y lluniau.,email_sendemail,5
+523,523.0,Ysgrifennaf ebost i fy ffrind yn America.,email_sendemail,5
+524,524.0,Danfonaf ebost i gyfeillion yn awst.,email_sendemail,5
+525,525.0,"Eich bodloni, anfonwch ebost i mi.",email_sendemail,5
+526,526.0,Dwi wedi anfon ebost ir cwmni ynghylch y contract.,email_sendemail,5
+527,527.0,Ysgrifennwch ebost ich cydweithredwr yn awr.,email_sendemail,5
+528,528.0,Dyma ebost i anfon im frawd yn Australia.,email_sendemail,5
+529,529.0,Anfonodd hi ebost i mi cyn iddi adael.,email_sendemail,5
+530,530.0,Anfonwch ebost i sian yn sydyn.,email_sendemail,5
+531,531.0,Gadewch ebost ir ysbyty.,email_sendemail,5
+532,532.0,Anfonodd neb ebost i mi yn ddiweddar.,email_sendemail,5
+533,533.0,Oes modd anfon ebost ir wasg ynghylch stori newydd?,email_sendemail,5
+534,534.0,Oes modd anfon ebost ir pwyllgor cynhadledd?,email_sendemail,5
+535,535.0,Dyluniais ebost i henrietta am y cynhadledd.,email_sendemail,5
+536,536.0,Roedd hi wedi anfon ebost ich tad.,email_sendemail,5
+537,537.0,"Felly, anfonodd hi ebost i mi yn barod.",email_sendemail,5
+538,538.0,Danfonwch e-bost ich cydweithredwr heddiw.,email_sendemail,5
+539,539.0,Rhowch ebost i dave am y problemau technegol.,email_sendemail,5
+540,540.0,Mae gen i angen danfon ebost i fy ngydymdeithasd oeddwn in siarad amdano fe.,email_sendemail,5
+541,541.0,Oes modd danfon ebost i mi trwy facebook?,email_sendemail,5
+542,542.0,"Lleucu bynnag, anfonwch ebost i mi.",email_sendemail,5
+543,543.0,Nid oes gan mi amser i anfon ebost ich mam.,email_sendemail,5
+544,544.0,Beth ywr hanes danfon ebost i gyfreithiwr?,email_sendemail,5
+545,545.0,Anfonais ebost i elizabeth am y cynllunio.,email_sendemail,5
+546,546.0,Chwilogaist ti anfon ebost ir prifathro?,email_sendemail,5
+547,547.0,Byddech chin gallu anfon ebost i mi erbyn hyn?,email_sendemail,5
+548,548.0,A wnewch chi anfon ebost i mi amser yn ôl?,email_sendemail,5
+549,549.0,Gofynnais i anfon ebost ir cwmni ynghylch y llogiad.,email_sendemail,5
+550,550.0,Mae gen i angen danfon ebost i fy nghefnder.,email_sendemail,5
+551,551.0,"Iawn, danfonwch ebost i fy nghefnder.",email_sendemail,5
+552,552.0,Dylunio ebost ir prif weinidog.,email_sendemail,5
+553,553.0,Efallai byddain rhaid danfon ebost i ti eto.,email_sendemail,5
+554,554.0,Ysgrifenai ebost ich cydweithredwr heddiw.,email_sendemail,5
+555,555.0,Byddech chi anfon ebost i mi am y pynciau newydd?,email_sendemail,5
+556,556.0,Oes gan ti rywbeth iw anfon trwy ebost i mi?,email_sendemail,5
+557,557.0,Gofynnwch iddo anfon ebost i mi heddiw.,email_sendemail,5
+558,558.0,Dechreuodd hi ysgrifennu ebost ich brawd.,email_sendemail,5
+559,559.0,"Chwiorydd, anfonwch ebost ir athro.",email_sendemail,5
+560,560.0,Byddain well danfon ebost i ti ddydd llynedd.,email_sendemail,5
+561,561.0,"Pob lwc iawn, anfonwch ebost ir perchnogion!",email_sendemail,5
+562,562.0,Dylai fod yn bosib anfon ebost i fy ngad yn gyfan gwbl.,email_sendemail,5
+563,563.0,Ebostiwn i fy ngad wasanaethau.,email_sendemail,5
+564,564.0,Cynulleid ai ebost i gyfarwyddwr y cwmni.,email_sendemail,5
+565,565.0,Anfonwch ebost ir pwyllgor erbyn diwedd y wythnos.,email_sendemail,5
+566,566.0,A wnewch chi ddim anfon ebost ir swyddfeydd?,email_sendemail,5
+567,567.0,Llonguais ebost i martin am y cyflwyniad.,email_sendemail,5
+568,568.0,"Iawn, rhybuddiais ebost i paul am y digwyddiad.",email_sendemail,5
+569,569.0,Anfonodd o ebost i mi amser yn ôl.,email_sendemail,5
+570,570.0,Dwi ishe anfon ebost im chwaer yn America.,email_sendemail,5
+571,571.0,"Pob lwc iawn, byddwn nin anfon ebost ich tad.",email_sendemail,5
+572,572.0,"Felly, anfonwch ebost ir uwchgapten.",email_sendemail,5
+573,573.0,Anfonwch ebost ir tîm ynghylch y prosiect newydd.,email_sendemail,5
+574,574.0,Cyfansoddwch ebost ich rheolwr cyn hir.,email_sendemail,5
+575,575.0,"Sori, nid oes modd anfon ebost ir rhieni.",email_sendemail,5
+576,576.0,Chwilerais ebost i philip am y datganiad.,email_sendemail,5
+577,577.0,Mae gen i angen danfon ebost i fy ngwraig yn gyflym.,email_sendemail,5
+578,578.0,Gadewch ebost ir rheolwr cyn iddo fo mynd adref.,email_sendemail,5
+579,579.0,"Pob lwc, anfonwch ebost ir perchneg.",email_sendemail,5
+580,580.0,Byddech chin gallu anfon ebost i jim?,email_sendemail,5
+581,581.0,Dyluniodd hi ebost ich tadcu.,email_sendemail,5
+582,582.0,Danfonwch e-bost i fy nghefnder oedd yn chwilio amdano fe.,email_sendemail,5
+583,583.0,Hoffwn i chwaraer llyfr llafar yn gyflym,play_audiobook,6
+584,584.0,Ail-gwneud y troiad olaf,play_audiobook,6
+585,585.0,"Chwarae ein hoff lyfr llafar, os gwelwch yn dda.",play_audiobook,6
+586,586.0,Allwch chi chwarae fy ngwersylltnewydd?,play_audiobook,6
+587,587.0,"Chwarae ein llyfr newydd, os gwelwch yn dda",play_audiobook,6
+588,588.0,Hoffwn iawn chwaraer cyfan,play_audiobook,6
+589,589.0,Dechrau chwaraer llyfr newydd yfory.,play_audiobook,6
+590,590.0,"Aildechraur audiobook, os gwelwch yn dda.",play_audiobook,6
+591,591.0,Allwch chi chwarae fy ngwersylltai,play_audiobook,6
+592,592.0,Oedd hin braf i chwaraer llyfr newydd,play_audiobook,6
+593,593.0,Dyma fin dechraur llyfr eto,play_audiobook,6
+594,594.0,Chwaraer stori am y ddwy frawd,play_audiobook,6
+595,595.0,"Aildechraur stori, os gwelwch yn dda.",play_audiobook,6
+596,596.0,"Cer yn ôl ir dechrau, plîs.",play_audiobook,6
+597,597.0,Hoffwn i chwaraer llyfr hirach.,play_audiobook,6
+598,598.0,Allwch chi chwaraer rhan nesaf or stori?,play_audiobook,6
+599,599.0,A wnaethoch chi chwaraer llyfr llafar cyn hir?,play_audiobook,6
+600,600.0,Rhowch imi chwaraer llyfr llafar,play_audiobook,6
+601,601.0,Gofynnais i chwaraer adran honno,play_audiobook,6
+602,602.0,Dechraur stori am y ferch Fach,play_audiobook,6
+603,603.0,Dwin caru chwaraer llyfrau llafar,play_audiobook,6
+604,604.0,"Aildechraur llyfr llafar, os gwelwch yn dda.",play_audiobook,6
+605,605.0,Chwaraer rhan olaf or llyfr,play_audiobook,6
+606,606.0,Ail-chwaraer pennod olaf,play_audiobook,6
+607,607.0,Cer yn ôl ir rhan olaf,play_audiobook,6
+608,608.0,Dechraur stori newydd hon,play_audiobook,6
+609,609.0,Dechreuwch y llyfr newydd,play_audiobook,6
+610,610.0,Dechrau chwaraer stori honno.,play_audiobook,6
+611,611.0,Dymunais chwaraer cyfan,play_audiobook,6
+612,612.0,Hoffwn glywed cynnwys y llyfr,play_audiobook,6
+613,613.0,"Iawn, cer yn ôl ir dechrau.",play_audiobook,6
+614,614.0,Chwarae ein llyfr llafar newydd!,play_audiobook,6
+615,615.0,Byddain well gen i chwaraer llyfr,play_audiobook,6
+616,616.0,"Allwch chi chwaraer rhan nesaf or stori, plis?",play_audiobook,6
+617,617.0,"Chwaraer llyfr llafar yn Gymraeg, os gwelwch yn dda.",play_audiobook,6
+618,618.0,Dechraur llyfr llafar arall,play_audiobook,6
+619,619.0,Dymar tro cyntaf i mi chwaraer llyfr llafar,play_audiobook,6
+620,620.0,"Chwarae ein llyfr ffawr, os gwelwch yn dda",play_audiobook,6
+621,621.0,Dechrau chwaraer llyfr llafar newydd hon.,play_audiobook,6
+622,622.0,Pob lwc i chwaraer llyfr hwn,play_audiobook,6
+623,623.0,Cer yn ôl ir rhan gynta or stori,play_audiobook,6
+624,624.0,"Iawn, dwin barod i chwaraer llyfr",play_audiobook,6
+625,625.0,Chwaraer rhan fawr or stori,play_audiobook,6
+626,626.0,Chwaraer llyfr llafar yn gyflym,play_audiobook,6
+627,627.0,Cer yn ôl ir pennod cynta,play_audiobook,6
+628,628.0,Rhowch dechrau ar y llyfr newydd,play_audiobook,6
+629,629.0,Chwaraer llyfr llafar cynnar.,play_audiobook,6
+630,630.0,Chwaraer stori am y bachgen coch,play_audiobook,6
+631,631.0,Hoffwn cychwynr llyfr newydd yfory,play_audiobook,6
+632,632.0,Gofynnais am ganiatâd i chwarae,play_audiobook,6
+633,633.0,Parhau i chwaraer nofel hanesyddol,play_audiobook,6
+634,634.0,Ail-chwaraer pennod olaf or stori.,play_audiobook,6
+635,635.0,Parhau i chwaraen siwr,play_audiobook,6
+636,636.0,Ail-ddechraur llyfr llafar cynnar,play_audiobook,6
+637,637.0,Yn cychwyn y stori gynta,play_audiobook,6
+638,638.0,Gadewch i mi chwaraer llyfr,play_audiobook,6
+639,639.0,Cer yn ôl ir dechraur llyfr llafar.,play_audiobook,6
+640,640.0,Cer yn ôl ir bennod gynta or llyfr llafar.,play_audiobook,6
+641,641.0,Dyma fin parhau i chwaraer llyfr,play_audiobook,6
+642,642.0,Rhowch imi glywed rhan olaf y llyfr,play_audiobook,6
+643,643.0,"Chwaraer bennod nesaf, os gwelwch yn dda",play_audiobook,6
+644,644.0,Dechreuodd hi chwaraer llyfr llafar ar y teledu.,play_audiobook,6
+645,645.0,Hoffwn i chwaraer llyfr hwnna eto.,play_audiobook,6
+646,646.0,Dechraur llyfr llafar newydd yn awr,play_audiobook,6
+647,647.0,Hoffem ni chwaraer llyfr llafar cynnar heddiw.,play_audiobook,6
+648,648.0,Defnyddiwch yr opsiynau i ailchwarae.,play_audiobook,6
+649,649.0,Hoffwn glywedr llyfr or dechrau,play_audiobook,6
+650,650.0,Chwaraer llyfr llafar cynta.,play_audiobook,6
+651,651.0,Defnyddiwch yr aparat i chwaraer llyfr llafar.,play_audiobook,6
+652,652.0,Hoffwn glywed yr eiliad nesaf,play_audiobook,6
+653,653.0,Dwin mynd i chwaraer stori gynta,play_audiobook,6
+654,654.0,Dechrau chwaraer llyfr llafar newydd yma.,play_audiobook,6
+655,655.0,Allwch chi chwarae fy nghefnach olaf?,play_audiobook,6
+656,656.0,Cer yn ôl ir dechreuad,play_audiobook,6
+657,657.0,Dechraur stori am y dynes doniol,play_audiobook,6
+658,658.0,"Chwarae fy nghefnach olaf, os gwelwch yn dda.",play_audiobook,6
+659,659.0,I wyrddrychwi chwaraer llyfr,play_audiobook,6
+660,660.0,Parhau i chwaraer rhan olaf.,play_audiobook,6
+661,661.0,Dwin siwr na allai chwaraer llyfr llafar,play_audiobook,6
+662,662.0,Rhowch imi glywedr llyfr or dechrau,play_audiobook,6
+663,663.0,"Pob lwc, bydda in chwaraer llyfr llafar",play_audiobook,6
+664,664.0,Parhaodd i chwaraer sain llefarydd hyd at y diwedd.,play_audiobook,6
+665,665.0,Cer yn ôl ir pennod cynta.,play_audiobook,6
+666,666.0,Ail-chwaraer stori am y bachgen coch.,play_audiobook,6
+667,667.0,Hoffwn i ail-chwaraer rhan gynta or nofel.,play_audiobook,6
+668,668.0,Allwch chi chwarae fy nghefnoclefydd?,play_audiobook,6
+669,669.0,Parhau i chwaraer llyfr ar ôl cinio.,play_audiobook,6
+670,670.0,Ail-dddechraur llyfr llafar hyn,play_audiobook,6
+671,671.0,Hoffwn i chwaraer stori fwyaf diddaf.,play_audiobook,6
+672,672.0,Hoffwn i chwaraer llyfr byrrach.,play_audiobook,6
+673,673.0,Parhau i chwaraer llyfr hwn,play_audiobook,6
+674,674.0,Chwaraer rhan olaf or llyfr.,play_audiobook,6
+675,675.0,"Chwarae ein hoff lyfr llafar, ac wedyn...",play_audiobook,6
+676,676.0,Chwaraer stori am y ferch Fach,play_audiobook,6
+677,677.0,Hoffwn i chwaraer stori gynta.,play_audiobook,6
+678,678.0,Aildechraur stori gynta,play_audiobook,6
+679,679.0,Chwaraer rhan fach or stori,play_audiobook,6
+680,680.0,Bydden nin chwaraer stori am y bachgen gwyllt,play_audiobook,6
+681,681.0,A wnes i chwaraer llyfr llafar yn ystod y dydd,play_audiobook,6
+682,682.0,Chwarae llyfrau llafar newydd,play_audiobook,6
+683,683.0,Wyt tin medru rhannu awgrymiad ffilm gyda fi?,recommendation_movies,7
+684,684.0,Wyt tin argymell unrhyw ffilmiau syn chwarae yn fy ngwlad?,recommendation_movies,7
+685,685.0,Dw in chwilio am ffilm ryfeddif i mi ai ffrindiau!,recommendation_movies,7
+686,686.0,Pa ffilm syn chwarae yn Llanelli?,recommendation_movies,7
+687,687.0,Dwi eisiau wylio y ffilm honno cyn bo hir!,recommendation_movies,7
+688,688.0,Oes gen i unrhyw awgrymiadau ffilm da iawn i mi wylio yn ystod y dydd?,recommendation_movies,7
+689,689.0,Oes gan ti syniad am unrhyw ffilmiau cryf i mi?,recommendation_movies,7
+690,690.0,Rhowch imi awgrymiad ffilm iw wylio yn ystod yr wythnos!,recommendation_movies,7
+691,691.0,A wnaethoch chi weld unrhyw ffilmiau diddordeb yn ystod y llynediad diwethaf?,recommendation_movies,7
+692,692.0,Wyt tin awgrymu unrhyw ffilmiau i mi wylio yn ystod y dyddiadur?,recommendation_movies,7
+693,693.0,"Shwmae, pun ai ffilm orau i wylio yn y pryd hwn?",recommendation_movies,7
+694,694.0,Dwi ishe gaeth ffilm ryfeddaf yn y byd!,recommendation_movies,7
+695,695.0,Tin medru rhannu awgrymiad ffilm gyda fi?,recommendation_movies,7
+696,696.0,Wyt tin awgrymu unrhyw ffilmiau i mi wylio yn ystod y prynhawn?,recommendation_movies,7
+697,697.0,A wnaethoch chi glywed am y ffilm newydd yn y theatr?,recommendation_movies,7
+698,698.0,Pa ffilm syn well gan bobl yn y lleol?,recommendation_movies,7
+699,699.0,Pwy syn chwarae yn y cinema lleol?,recommendation_movies,7
+700,700.0,Dw i eisiau cael argymhellion ffilm gan ti erbyn hynny.,recommendation_movies,7
+701,701.0,"Shwmae, dwi eisiau gwylio ffilm da iawn yn ystod yr haf.",recommendation_movies,7
+702,702.0,Beth ywr ffilm orau i mi wylio heddiw?,recommendation_movies,7
+703,703.0,Oes gan ti awgrymiad ffilm i blant bach?,recommendation_movies,7
+704,704.0,Sut mae mod i ddod o hyd ir ffilmiau diweddaraf?,recommendation_movies,7
+705,705.0,"Pun ai ffilm orau erioed, yn eich barn chi?",recommendation_movies,7
+706,706.0,Beth ywr ffilm fawr yn y cinemas yn Awstralia?,recommendation_movies,7
+707,707.0,Wyt tin credu byddai hin well gen i wylior ffilm honno?,recommendation_movies,7
+708,708.0,Awgrymiai ffilmiau cryf i mi wylio yn ystod y penwythnos!,recommendation_movies,7
+709,709.0,Wyt tin gallu rhoi rhai argymhellion ffilm i mi?,recommendation_movies,7
+710,710.0,Pa ffilmiau syn chwarae yn y theatr yn Nhatcham?,recommendation_movies,7
+711,711.0,Pa ffilmiau syn chwarae yn y cinemas yn Llundain?,recommendation_movies,7
+712,712.0,Wyt tin gwybod pa ffilmiau syn chwarae yn y Sinema yn Llandudno?,recommendation_movies,7
+713,713.0,"Shwmae, dw i eisiau gweld ffilm ryfeddol yn ystod y penwythnos.",recommendation_movies,7
+714,714.0,Dwi ishe gweld unrhyw ffilmiau da yn ystod yr wythnos hon.,recommendation_movies,7
+715,715.0,"Dwi ishe gweld ffilm newydd, pa un ai dwi ddewis?",recommendation_movies,7
+716,716.0,Dydw i ddim yn siwr pa ffilm i ddewis...,recommendation_movies,7
+717,717.0,Wyt tin awgrymu unrhyw ffilmiau syn dod allan yn fuan?,recommendation_movies,7
+718,718.0,Beth ywr ffilm orau i mi wylio yn y cinemas lleol?,recommendation_movies,7
+719,719.0,Beth ywr ffilm orau i mi wylio yn y byd?,recommendation_movies,7
+720,720.0,Tin awgrymu unrhyw ffilmiau syn chwarae yn fy ngwlad?,recommendation_movies,7
+721,721.0,Oes gennych chi unrhyw ffilmiau iw argymell i mi?,recommendation_movies,7
+722,722.0,Sut mae pobl yn gallu bod yn sicr or ffilmiau syn chwarae yn y theatr?,recommendation_movies,7
+723,723.0,Pun ain well i mi wylio yn y cinemas yn fuan?,recommendation_movies,7
+724,724.0,Dwi eisiau gweld unrhyw ffilmiau comedïaidd yn ystod yr wythnos hon.,recommendation_movies,7
+725,725.0,Ga i chi ddim yn gwybod am unrhyw ffilmiau da yn dod allan?,recommendation_movies,7
+726,726.0,Gwnaethoch chi weld unrhyw ffilmiau da iawn yn ddiweddar?,recommendation_movies,7
+727,727.0,Wyt tin argymell unrhyw ffilmiau syn chwarae yn Aberystwyth?,recommendation_movies,7
+728,728.0,"Ga i rywbeth i wylio yn y stordy, os gwelwch yn dda.",recommendation_movies,7
+729,729.0,Oes unrhyw awgrymiadau ffilm da iawn i mi wylio yn y prynhawn?,recommendation_movies,7
+730,730.0,Dw i eisiau gweld ffilm ryfeddol yn ystod y dyddiadur.,recommendation_movies,7
+731,731.0,Beth ywr ffilm orau i mi wylio yn ystod y penwythnos?,recommendation_movies,7
+732,732.0,Dwi ishe gweld unrhyw ffilmiau anturiaeth yn ystod yr wythnos hon.,recommendation_movies,7
+733,733.0,Pa ffilmiau syn chwarae yn Llanelli heddiw?,recommendation_movies,7
+734,734.0,Oes gan ti awgrymiad ffilm arbennig ar gyfer gwyliau Nadolig?,recommendation_movies,7
+735,735.0,Wyt tin argymell unrhyw ffilmiau syn chwarae yn fy ngogledd Cymru?,recommendation_movies,7
+736,736.0,Pa ffilm wyt tin argymell ar gyfer y penwythnos?,recommendation_movies,7
+737,737.0,Dwi ishe gaeth ffilm da iawn yn ystod yr wythnos hon.,recommendation_movies,7
+738,738.0,Beth ywr ffilm orau i wylio yn ystod yr haf?,recommendation_movies,7
+739,739.0,Oes unrhyw ffilmiau syn dod allan yn ystod y Nadolig?,recommendation_movies,7
+740,740.0,"Chwiorydd, dwi eisiau gwylio ffilm gydag adolygiadau da iawn.",recommendation_movies,7
+741,741.0,Gofynnais i am awgrymiad ffilm iw wylio yn y noson!,recommendation_movies,7
+742,742.0,Wyt tin gwybod pa ffilmiau syn chwarae yn yr iaith Gymraeg?,recommendation_movies,7
+743,743.0,Oes gennych chi unrhyw ffilmiau da iawn i mi wylio?,recommendation_movies,7
+744,744.0,"Shwmae, wyt tin gwybod pa ffilmiau syn chwarae yn Nhatchers?",recommendation_movies,7
+745,745.0,Dw i eisiau gwylio ffilm ryfeddif yn ystod dydd Sul!,recommendation_movies,7
+746,746.0,Pa ffilmiau syn chwarae yn Abertawe heddiw?,recommendation_movies,7
+747,747.0,Dwi ishe gaeth ffilm newydd yn y theatr ger llaw.,recommendation_movies,7
+748,748.0,Wyt tin argymell unrhyw ffilmiau syn dod allan eleni?,recommendation_movies,7
+749,749.0,"Awgrymiad ffilm da iawn am heno, os gwelwch yn dda!",recommendation_movies,7
+750,750.0,"Smae, dw i eisiau gwylio ffilm newydd yn ystod yr wythnos.",recommendation_movies,7
+751,751.0,Tin medru rhannur ffilm orau di gyda fi?,recommendation_movies,7
+752,752.0,A wnaethoch chi glywed am unrhyw ffilmiau newydd sbon?,recommendation_movies,7
+753,753.0,A wnaethoch chi wylior ffilm honno yn ystod yr wythnos hon?,recommendation_movies,7
+754,754.0,"Oi, dw i eisiau gwylio ffilm da iawn yn ystod yr haf.",recommendation_movies,7
+755,755.0,Ydyn nhwn chwarae unrhyw ffilmiau comedi yn y cinemas?,recommendation_movies,7
+756,756.0,"Beth ywr ffilm orau i mi, yn eich barn chi?",recommendation_movies,7
+757,757.0,Oes gen i unrhyw awgrymiadau ffilm da iawn i mi wylio yn y prynhawn?,recommendation_movies,7
+758,758.0,"Ffilm orau i mi, diolch yn fawr!",recommendation_movies,7
+759,759.0,Wyt tin argymell unrhyw ffilmiau syn chwarae yn fy rhanbarth?,recommendation_movies,7
+760,760.0,Sut mae mod i ddarganfod y ffilmiau orau yn y theatr lleol?,recommendation_movies,7
+761,761.0,"Shwmae, pwy syn gallu rhoi cyngor am ffilm neu drama?",recommendation_movies,7
+762,762.0,Wyt tin awgrymu unrhyw ffilmiau syn chwarae yn fy ngogledd Cymru?,recommendation_movies,7
+763,763.0,Beth ywr ffilm orau i mi wylio yn y cinemas heddiw?,recommendation_movies,7
+764,764.0,Dwi ishe gaeth i wylio y ffilm honno yn ystod y Nadolig!,recommendation_movies,7
+765,765.0,Wyt tin gallu rhoi rhai argymhellion ffilm i fi?,recommendation_movies,7
+766,766.0,Pa ffilmiau syn chwarae yn Nhatcham?,recommendation_movies,7
+767,767.0,Olly pa ffilmiau syn chwarae yn Llanelli?,recommendation_movies,7
+768,768.0,Pun ai ffilm orau i mi wylio yn y stôr?,recommendation_movies,7
+769,769.0,Oes gennych chi unrhyw syniadau am ffilmiau i mi wylio?,recommendation_movies,7
+770,770.0,Chwilio am awgrymiad ffilm iw wylio gyda ffrindiau!,recommendation_movies,7
+771,771.0,Ga i ffilm rhyfeddol ich hanfodion yn y stôr!,recommendation_movies,7
+772,772.0,Tin mynd i wylio y ffilm honno yn ystod y noswaith!,recommendation_movies,7
+773,773.0,Wyt tin gallu rhoi cyngor ar ffilmiau i mi wylio?,recommendation_movies,7
+774,774.0,Awgrymiad ffilm da iawn im merched!,recommendation_movies,7
+775,775.0,Pa ffilmiau syn chwarae yn y cinemas yn Nghaerdydd?,recommendation_movies,7
+776,776.0,Awgrymiai ffilmiau i blant yn y cinemas yn fuan!,recommendation_movies,7
+777,777.0,Ffilmiau syn chwarae yn agos ataf - pwy syn mynd iddo?,recommendation_movies,7
+778,778.0,Pwy syn gallu rhoi cyngor am ffilm da iawn?,recommendation_movies,7
+779,779.0,Oes unrhyw ffilmiau syn dod allan yn fuan?,recommendation_movies,7
+780,780.0,"Diolch yn fawr am yr awgrymiad ffilm, dw in edrych ymlaen iddo!",recommendation_movies,7
+781,781.0,Wyt tin argymell unrhyw ffilmiau i mi wylio yn ystod y noswaith?,recommendation_movies,7
+782,782.0,Oes gennych chi unrhyw syniad am ffilmiau cryf i mi?,recommendation_movies,7
+783,783.0,Mae tocyn trên yn mynd i Gaerdydd.,transport_ticket,8
+784,784.0,Archebwch docyn trên i Birmingham cyn hir.,transport_ticket,8
+785,785.0,Mae gen i angen tocyn drên rhif dwy gan ddefnyddio fy ngherdyn credyd,transport_ticket,8
+786,786.0,Gofyn am tocyn pås i lerpwl,transport_ticket,8
+787,787.0,Prynu tocyn bws i Abertawe fore.,transport_ticket,8
+788,788.0,Chwiloch am docynnau trên i aberystwyth,transport_ticket,8
+789,789.0,Archefwch tocyn trên ir Almaen.,transport_ticket,8
+790,790.0,Prynu tocyn bws i gaerdydd heddiw,transport_ticket,8
+791,791.0,"Iawn, dwi ishe gwneud archeb tocyn trên i Wrecsam.",transport_ticket,8
+792,792.0,Archaf tocyn trên i Bryste ar ol pum munud.,transport_ticket,8
+793,793.0,Chwiloch am docynnau trên i merthyr tydfil,transport_ticket,8
+794,794.0,Pris tocyn bws i Aberystwyth yn fforddol.,transport_ticket,8
+795,795.0,Prynai tocyn trên i Gaerdydd heddiw.,transport_ticket,8
+796,796.0,Mae angen i mi archaf docyn bws i Hull.,transport_ticket,8
+797,797.0,Mae tocyn trên yn myng i Abertawe.,transport_ticket,8
+798,798.0,Mae tocyn trên yn well na thocyn bws.,transport_ticket,8
+799,799.0,Mae gen i angen tocyn bws i Gaerdydd heddiw.,transport_ticket,8
+800,800.0,Mae gen i angen tocyn trên i Fanceinion.,transport_ticket,8
+801,801.0,Gofynnais am tocyn trên i Southampton.,transport_ticket,8
+802,802.0,Chwilich am docynnau tren i Glasgow.,transport_ticket,8
+803,803.0,Chwiloch am docynnau tren i Ffrangeg.,transport_ticket,8
+804,804.0,Dwi wedi prynu tocyn trên i Llanidloes.,transport_ticket,8
+805,805.0,Cliciwch am docyn trên i Cambridge.,transport_ticket,8
+806,806.0,Archebwch tocyn trên i Gaerdydd cyn bo hir.,transport_ticket,8
+807,807.0,Chwilich am docynnau tren i Sheffield.,transport_ticket,8
+808,808.0,Archaf docyn trên i Dinas Efrog Newydd ar ol tri or gloch.,transport_ticket,8
+809,809.0,Archebais tocyn trên i leeds cyn hir,transport_ticket,8
+810,810.0,Prynwch tocyn bws ir Drenewydd.,transport_ticket,8
+811,811.0,Prynhai tocyn trên i cardiff ar gyfer dydd sadwrn,transport_ticket,8
+812,812.0,Archaf tocyn bws i Bournemouth ar ol saith or gloch.,transport_ticket,8
+813,813.0,Gofynnais am docyn trên i Birmingham.,transport_ticket,8
+814,814.0,Gofynnais am docyn trên i Lundain.,transport_ticket,8
+815,815.0,Archebwch docyn tren i Newcastle i mi.,transport_ticket,8
+816,816.0,Gofyn am tocyn padau i glasgow,transport_ticket,8
+817,817.0,Ail-drefnu tocyn trên i Ffrainc.,transport_ticket,8
+818,818.0,Prynu tocyn trên i Aberystwyth.,transport_ticket,8
+819,819.0,Pris tocyn tren i Aberystwyth ar gyfer dydd Sul.,transport_ticket,8
+820,820.0,Archebwch tocyn bws i Merthyr Tydfil i mi.,transport_ticket,8
+821,821.0,Mae angen i mi prynu tocyn bws i Caerfyrddin.,transport_ticket,8
+822,822.0,Dwi ishe archebu tocyn bws i bangor,transport_ticket,8
+823,823.0,Agor app tocyn tren i ddod o hyd ich ticét.,transport_ticket,8
+824,824.0,Prynu tocyn bws ir Eisteddfod eleni.,transport_ticket,8
+825,825.0,Dwi ishe archebu tocyn bws i stoke-on-trent,transport_ticket,8
+826,826.0,Prënhai tocyn trên i Bangor.,transport_ticket,8
+827,827.0,Dwi angen tocyn trên i Loegr.,transport_ticket,8
+828,828.0,Archebais tocyn trên i bristol cyn hir,transport_ticket,8
+829,829.0,Pris tocyn bws i Plymouth ar gyfer dydd Mawrth.,transport_ticket,8
+830,830.0,Mwynnwch docyn i mi am y cymudwr chwech ar ddeg i wrexham,transport_ticket,8
+831,831.0,Agor app tocyn trên.,transport_ticket,8
+832,832.0,Tocyn trên arbennig i deithio i Baris.,transport_ticket,8
+833,833.0,Prynu tocyn bws ir Eisteddfod.,transport_ticket,8
+834,834.0,Agor app tocyn bws.,transport_ticket,8
+835,835.0,Prynai tocyn trên i norwich ar gyfer dydd gwener,transport_ticket,8
+836,836.0,Chwiloch am docynnau bws i Ffestiniog.,transport_ticket,8
+837,837.0,"Agor app tocyn pås, diolch",transport_ticket,8
+838,838.0,Archafwch docyn trên i Ystradgynlais.,transport_ticket,8
+839,839.0,Prynu tocyn trên i Hwlffordd.,transport_ticket,8
+840,840.0,Mae gen i angen docyn tren i Bangor.,transport_ticket,8
+841,841.0,Archafwch docyn trên i Merthyr Tydfil.,transport_ticket,8
+842,842.0,Prynai tocyn trên i wrecsam ar gyfer dydd gwener,transport_ticket,8
+843,843.0,Mae tocyn trên yn mynd i Birmingham.,transport_ticket,8
+844,844.0,Cliciwch ar tocyn pås i brynu ticét,transport_ticket,8
+845,845.0,Mae gen i docyn trên i Gaerfaddon.,transport_ticket,8
+846,846.0,Prynu tocyn bws i Wrecsam ar gyfer yfory.,transport_ticket,8
+847,847.0,Mae tocyn trên yn costusol.,transport_ticket,8
+848,848.0,Archafwch docyn trên i Casnewydd.,transport_ticket,8
+849,849.0,Agor app docyn trên i Leeds.,transport_ticket,8
+850,850.0,Chwilich am docynnau bws i Llundain.,transport_ticket,8
+851,851.0,Archebwch docyn trên i swansea cyn hir,transport_ticket,8
+852,852.0,Archefwch docyn trên i aberdeen i mi,transport_ticket,8
+853,853.0,Agor app tocyn trên i De Cymru.,transport_ticket,8
+854,854.0,Cliciwch am docyn bws i Casnewydd.,transport_ticket,8
+855,855.0,Mae gen i docyn trên i Llandrindod.,transport_ticket,8
+856,856.0,Archefwch docyn bws i casnewydd i mi,transport_ticket,8
+857,857.0,Pris tocyn bws i Ipswich ar gyfer dydd Iau.,transport_ticket,8
+858,858.0,Archebwch tocyn trên i Leicester i mi.,transport_ticket,8
+859,859.0,Mwynych docyn i mi am y jurney diwethaf i Abertawe.,transport_ticket,8
+860,860.0,Gweiddi tocyn pås i mi am y cymudwr wythnos nesaf,transport_ticket,8
+861,861.0,Archafwch docyn trên i Caerfaddon.,transport_ticket,8
+862,862.0,Dylunio tocyn trên newydd i Gymru.,transport_ticket,8
+863,863.0,Dw i wedi colli fy ngicét trên - help!,transport_ticket,8
+864,864.0,Cadarnhaw tocyn drên i Lundain Maes Awst.,transport_ticket,8
+865,865.0,Archefwch tocyn trên i Bryste wythnos nesaf.,transport_ticket,8
+866,866.0,Ail-gwneud tocyn pås i mi,transport_ticket,8
+867,867.0,Archefwch tocyn trên i Birmingham wythnos nesaf.,transport_ticket,8
+868,868.0,Chwiloch am docynnau trên i Gaerphilly.,transport_ticket,8
+869,869.0,Agor app tocyn tren i Abertawe.,transport_ticket,8
+870,870.0,Agor app docyn bws i Derby.,transport_ticket,8
+871,871.0,Prynu tocyn trên i swindon ar gyfer dydd mawrth,transport_ticket,8
+872,872.0,Dwin chwilio am docyn trên i Sgwâr Victoria.,transport_ticket,8
+873,873.0,Gweiddi tocyn trên i Cwmbran.,transport_ticket,8
+874,874.0,Gweiddi tocyn trên i Wrecsam.,transport_ticket,8
+875,875.0,Mwynnwch docyn i mi am y cymudwr tri ar ddeg i faesyfed,transport_ticket,8
+876,876.0,Gofynnais am tocyn tren i Norwich.,transport_ticket,8
+877,877.0,Archebwch tocyn drên i Fanceinion erbyn heno.,transport_ticket,8
+878,878.0,Dwi wedi archafu tocyn trên i Pontypool.,transport_ticket,8
+879,879.0,Cliciwch am docyn tren i Brighton.,transport_ticket,8
+880,880.0,"Agor app tocyn trên, plîs",transport_ticket,8
+881,881.0,Mae angen i mi docyn drên i Llundain.,transport_ticket,8
+882,882.0,Chwilowch am docynnau bysiau i Gogledd Cymru.,transport_ticket,8
+883,883.0,Ydw in mynd i gael glaw yfory?,weather_query,9
+884,884.0,Sut maer tywydd yn edrych yn Nghaernarfon heddiw?,weather_query,9
+885,885.0,Oes gen i ddod â chwtch yn wellt iawn heddiw?,weather_query,9
+886,886.0,Ydy hin parhau i fod yn sych yn ystod y dydd?,weather_query,9
+887,887.0,Pa mor oer bydd yn y De Orlewin heddiw?,weather_query,9
+888,888.0,Sut maer tywydd yn edrych yn Nhrechoboth yfory?,weather_query,9
+889,889.0,Oes rhaid i mi gymryd umbrella yn ystod y diwrnod?,weather_query,9
+890,890.0,Beth ywr tywydd yn Llanfairfechan heddiw?,weather_query,9
+891,891.0,Beth ywr tywydd fel hyn yn y Gogledd?,weather_query,9
+892,892.0,"Felly, sut maer tywydd yn mynd i fod yn yfory?",weather_query,9
+893,893.0,Fydd hin cynnes yn ystod y dyddiau nesaf?,weather_query,9
+894,894.0,Sut maer tywydd yn edrych ar gyfer y penwythnos?,weather_query,9
+895,895.0,Ydy hin mynd i bod yn llaes yn y prynhawn?,weather_query,9
+896,896.0,Pa mor oer bydd yn y gogledd ddwyrain heddiw?,weather_query,9
+897,897.0,A wnelo ni weld haul yn ysgol heddiw?,weather_query,9
+898,898.0,Oes gen i ddewis rhywbeth i wisgo yn ôl y tywydd heddiw?,weather_query,9
+899,899.0,Sut maer tywydd yn edrych yn Nghaerdydd yfory?,weather_query,9
+900,900.0,A allwn i ddisgwyl glaw yn ystod y prynhawn?,weather_query,9
+901,901.0,A oes gen i medru mynd am dro yn awyr agored heddiw?,weather_query,9
+902,902.0,Ydw in gallu mynd am dro yn y coed yn ystod y bore?,weather_query,9
+903,903.0,"Shwmae, pa mor boeth ywr tywydd yn Llanelli heddiw?",weather_query,9
+904,904.0,Ydy hin dechrau crio yn ystod y noswaith?,weather_query,9
+905,905.0,Faint o eira y bydd yn disgwyl yn ystod y gaeaf?,weather_query,9
+906,906.0,Oes neb yn gallu rhoi manylion am y tywydd yn ystod y dydd?,weather_query,9
+907,907.0,A allwn ni ddiffodd y tywydd yn y Gogledd?,weather_query,9
+908,908.0,Fydd hin bwrw glaw yn Abertawe yfory?,weather_query,9
+909,909.0,Beth ywr tywydd yn Aberystwyth heddiw?,weather_query,9
+910,910.0,Ydw in mynd i gael glaw yn ystod y diwrnod?,weather_query,9
+911,911.0,Beth ywr tymheredd yn Llanelli heddiw?,weather_query,9
+912,912.0,Ydw in gallu bod yn siwr or tywydd yn wella yn ystod y pythefnos?,weather_query,9
+913,913.0,Pa mor boeth ywr tywydd yn Aberystwyth heddiw?,weather_query,9
+914,914.0,Sut maer tywydd yn mynd i fod yn ystod y mis nesaf?,weather_query,9
+915,915.0,Fydd hin bwrw hail yn y Cwm Rhondda yfory?,weather_query,9
+916,916.0,Ai dim ond glaw syn dod yn ystod y dyddiau lle?,weather_query,9
+917,917.0,A allwn i ddisgwyl eira yn ystod y gaeaf?,weather_query,9
+918,918.0,Ydy hin mynd i fwrw eira yn y Gogledd Ddwyrain?,weather_query,9
+919,919.0,"Diweddaraf fi am dywydd y Sul nesaf, os gwelwch yn dda!",weather_query,9
+920,920.0,A allwn ni ddiffodd y tywydd yn Abertawe?,weather_query,9
+921,921.0,A wnelor tywydd yn wellt yn ystod y flwyddyn hon?,weather_query,9
+922,922.0,A wnelor tywydd yn wellt yn ystod y tymor hwn?,weather_query,9
+923,923.0,Pa mor oergyd ywr tywydd yn y Mynydd Du?,weather_query,9
+924,924.0,Oes gen i weld cwmwl yn ystod y bore?,weather_query,9
+925,925.0,Ydy hin mynd i fod yn sych yn y prydnawn?,weather_query,9
+926,926.0,Faint o law y bydd yn disgwyl yn ystod y mis nesaf?,weather_query,9
+927,927.0,Oes y tywydd yn wella yn ystod y noswaith?,weather_query,9
+928,928.0,Pa mor poeth ywr tywydd yn Wrecsam heddiw?,weather_query,9
+929,929.0,A wnelor haul yn dod allan heddiw?,weather_query,9
+930,930.0,Pa lefel ywr tymheredd yn Caerdydd yn awr?,weather_query,9
+931,931.0,Beth ywr tywydd yn ngwynedd heddiw?,weather_query,9
+932,932.0,Pa mor oergel ywr tymheredd yn Llundain yn awr?,weather_query,9
+933,933.0,Ydy hin rhyfedd o debygol bod hin bwrw eira yn ymyl y Nadolig?,weather_query,9
+934,934.0,A oes gen i fedru cerdda yn awyr agored heddiw?,weather_query,9
+935,935.0,Pa mor cryf ywr gwynt yn Aberystwyth yn awr?,weather_query,9
+936,936.0,Beth ywr tywydd yn y Dwyrain yn awr?,weather_query,9
+937,937.0,A allai neb roi rhagolwg or tywydd yn ystod y pythefnos nesaf?,weather_query,9
+938,938.0,Oes gen i ddewis yn well ganol dyddiaur haf?,weather_query,9
+939,939.0,Tybed a wnelo ni weld haul yn ystod y dydd?,weather_query,9
+940,940.0,Beth ywr tywydd yn Casnewydd heddiw?,weather_query,9
+941,941.0,Oes gen i wneud penderfyniad am ymweld âr parc heddiw?,weather_query,9
+942,942.0,"Felly, sut maer tywydd yn edrych ar gyfer y Sul?",weather_query,9
+943,943.0,Faint o law bydd yn disgwyl yn ystod y pythefnos?,weather_query,9
+944,944.0,"Shwmae, sut maer tywydd yn mynd i bod yn ystod y Sul?",weather_query,9
+945,945.0,Ydy hin rhyfedd bod hin cymryd storm yn y Noswald?,weather_query,9
+946,946.0,Ydw in gallu disgwyl haul yn ystod y prydnawn?,weather_query,9
+947,947.0,"Felly, sut maer tywydd yn edrych ar gyfer y penwythnos?",weather_query,9
+948,948.0,A wnelo ni weld cwmwlau yn ymgripiad yn ystod y prynhawn?,weather_query,9
+949,949.0,Beth ywr tymheredd yn Bangor heddiw?,weather_query,9
+950,950.0,Beth ywr tywydd yn Abertawe heddiw?,weather_query,9
+951,951.0,Pa mor poeth ywr tywydd yn y De?,weather_query,9
+952,952.0,Oes y tywydd yn wella yn ystod y prydnawn?,weather_query,9
+953,953.0,Pa mor boeth ywr tywydd yn Nghaerdydd heddiw?,weather_query,9
+954,954.0,Pa mor oergyd y byd heddiw yn Llundain?,weather_query,9
+955,955.0,A wnelo ni weld storm yn ystod y nos?,weather_query,9
+956,956.0,Ydw in mynd i gael storm yn ystod y pythefnos?,weather_query,9
+957,957.0,Ydw in medru mynd am dro yn y parc ganol dydd?,weather_query,9
+958,958.0,Sut maer tywydd yn mynd i fod yn ystod y tymor?,weather_query,9
+959,959.0,Fydd hin rhyfedd yn Ngwynedd ymhen ychydig?,weather_query,9
+960,960.0,Fydd hin sych yn ystod y dyddiau nesaf?,weather_query,9
+961,961.0,Sut maer tywydd yn mynd i fod yn ystod mis Tachwedd?,weather_query,9
+962,962.0,A wnelor tywydd yn wellt yn ystod y mis hwn?,weather_query,9
+963,963.0,Sut maer tywydd yn mynd i fod yn ystod yr wythnos?,weather_query,9
+964,964.0,Fydd hin bwrw eira yn y Carneddau yfory?,weather_query,9
+965,965.0,Fydd hin lliwgar yn ystod y dyddiau llonydd?,weather_query,9
+966,966.0,Ydi hin mynd i fwrw glaw yn y De?,weather_query,9
+967,967.0,Fydd hin bwrw eira yn Llanfairfechan yfory?,weather_query,9
+968,968.0,A wnelor gwynt yn chwydu heddiw?,weather_query,9
+969,969.0,Sut maer tywydd yn edrych heddiw?,weather_query,9
+970,970.0,Oes gen i ddod â chwithau yn wellt yn ystod y tymor hwn?,weather_query,9
+971,971.0,Fydd hin bwrw glaw yn Llanelli ymhen ychydig?,weather_query,9
+972,972.0,Beth ywr tywydd heddiw yn Nghaerfyrddin?,weather_query,9
+973,973.0,"Shwmae, pa mor boeth bydd yn y de orllewin heddiw?",weather_query,9
+974,974.0,Oes neb yn gallu rhoi rhagolwg or tywydd yn ystod yr wythnos nesaf?,weather_query,9
+975,975.0,A wyr ai y bydd hin bwrw eira ym Mhenarth?,weather_query,9
+976,976.0,A wnelo ni weld haul yn ystod y pythefnos?,weather_query,9
+977,977.0,"Diweddaraf fi am dywydd y llynedd, os gwelwch yn dda!",weather_query,9
+978,978.0,Ydi hin mynd i fwrw eira yn y gogledd?,weather_query,9
+979,979.0,Oes modd iawn i fonitror tywydd yn y Cymru?,weather_query,9
+980,980.0,Fydd hin bwrw eira yn Llundain ymhen ychydig?,weather_query,9
+981,981.0,Ydi hin mynd i fwrw glaw yn y Dwyrain?,weather_query,9
+982,982.0,Pa mor oergel ywr tywydd yn Bangor heddiw?,weather_query,9
+0,,Aildechrau chwarae llyfr bachgen drwg.,play_audiobook,6
+1,,"Os yw hi'n saith o'r gloch yn y bore yn Paris, faint o'r gloch yw hi yn Caerdydd?",datetime_convert,4
+2,,Ga i archebu tocyn tren i Llundain Victoria ar gyfer yfory?,transport_ticket,8
+3,,Faint o amser sydd angen i roi'r pysgod yn yr oven?,cooking_recipe,3
+4,,Ble allwn i ddod o hyd i'r rysáit honno ar gyfer crempogau llaeth?,cooking_recipe,3
+5,,Hoffwn i archebu tocyn tren i Llundain ar gyfer dydd Gwener.,transport_ticket,8
+6,,oes gen i larwm yn mynd i fod?,alarm_query,0
+7,,Ga i helpwr i archebu tocyn awyr i Ffrainc?,transport_ticket,8
+8,,"osododd y larwm am 7 y bore, onid ydw i'n cofio?",alarm_query,0
+9,,Dwi ishe ddweud bod ffilm honno yn werth gwneud!,recommendation_movies,7
+10,,mae larwm yr ysbyty yn myned i wefr heb wybod i fi?,alarm_query,0
+11,,Faint o amser sydd raid i fi biwd cawl?,cooking_recipe,3
+12,,dangoswch fi'r tocynnau bws sy'n myned i aberystwyth,transport_ticket,8
+13,,Cliriwch fy ngcalendr o bob cofnod,calendar_remove,2
+14,,Chwilio am ffilm ramantusol i wylio gydag fy ffrindiau.,recommendation_movies,7
+15,,"Gostywch yr uchder, mae'n rhy swnllyd",audio_volume_down,1
+16,,a oes gen i larwm yn yr awr?,alarm_query,0
+17,,"Rhowch hi fel seinlyfr, dwi eisiau chwarae iddi",play_audiobook,6
+18,,"Gostwng yr uchder, mae'n rhy uchel",audio_volume_down,1
+19,,Danfon ebost at Bethan yn ceisio cael rhywbeth yn ôl.,email_sendemail,5
+20,,Newidwch y rhanbarth amser o Efrog Newydd i Tokyo.,datetime_convert,4
+21,,Cansla'r holl apwyntiadau yn y calendr,calendar_remove,2
+22,,ga i docyn tren i faesglas,transport_ticket,8
+23,,Rhagolygon y tywydd ar gyfer yfory.,weather_query,9
+24,,Dileu'r cynhadledd ar Fawrth,calendar_remove,2
+25,,Newidwch y rhanbarth amser o rhanbarth amser paris i rhanbarth amser llundain,datetime_convert,4
+26,,Ydw i'n gallu gwisgo fy ngwlanodau heddiw neu a yw'n rhy oergwl?,weather_query,9
+27,,oli'r ffilm oreu i mi wylio yn ystod yr haf?,recommendation_movies,7
+28,,Rhagolygon y tywydd yn ne ryddel?,weather_query,9
+29,,pwy sy'n gofalu am yr larymau yma?,alarm_query,0
+30,,Ydw i'n medru mynd allan yn yr awyr agored heddiw heb gesgiadau?,weather_query,9
+31,,llyfrwch fy ngwybodaeth am y larwm!,alarm_query,0
+32,,Sut mae gwneud cacen ffrwythlon yn llai na 30 munud?,cooking_recipe,3
+33,,"unwaith eto, pa larwm sydd wedi eu gosod yn yr iaith Gymraeg?",alarm_query,0
+34,,chwarae llyfr bachgen drwg,play_audiobook,6
+35,,Anfonwch ebost i mi gan gynnig cynigion newydd.,email_sendemail,5
+36,,Gad i fi wybod am y ffilm antur mwyaf poblgydd sy'n chwarae nawr!,recommendation_movies,7
+37,,Dileu'r cofnod yn y calendr,calendar_remove,2
+38,,"Chwarae ffilm byddai'n hoffi, on'd ti?",recommendation_movies,7
+39,,Drafftiodd ymateb i ebost David yn cynnwys y wybodaeth gyfan.,email_sendemail,5
+40,,Oes modd i archebu tocyn drên i Gaernarfon yn awr?,transport_ticket,8
+41,,Rhagolygon y tywydd yn Nghaerdydd am yfory.,weather_query,9
+42,,Gad i'm ddweud wrthych am y ffilm fwyaf diddafar i wylio yn awr!,recommendation_movies,7
+43,,chwarae'r stori yn llefarnu gynt,play_audiobook,6
+44,,"Pob lwc, beth yw'r ffilm orau ar Netflix ar hyn o bryd?",recommendation_movies,7
+45,,pa larwm sy'n dod rhysoedd heddiw?,alarm_query,0
+46,,prynai feichiogwr y larwm i'm awr!,alarm_query,0
+47,,"Mae'n rhy swnllyd, lleihau uchder y seinydd os gweli di'n dda",audio_volume_down,1
+48,,Tro'r uchder i lawr os gweli di'n dda,audio_volume_down,1
+49,,Dewiswch ebost i Gareth yn cynnwys y wybodaeth newydd.,email_sendemail,5
+50,,Archebwch fi docyn tren i Abertawe erbyn hanner nos.,transport_ticket,8
+51,,Mae gen i ryseitiau newydd ar gyfer brecwast Gwlân.,cooking_recipe,3
+52,,dw i eisiau prynu tocyn aufwn i lanelli,transport_ticket,8
+53,,Atebwch yr ebost wrth emma ac rhoi diweddariad ar y prosiect.,email_sendemail,5
+54,,Gostywch yr uchder o few pwynt,audio_volume_down,1
+55,,Canslo'r apwyntiad cyfredol yn y calendr,calendar_remove,2
+56,,Danfon ebost at Sian i roi gwybod iddi am y cyfarfod nesaf.,email_sendemail,5
+57,,dwi ishe gaifraddodd y larwm heddiw?,alarm_query,0
+58,,Cliriwch fy ngalendar i mi ddod yn wag,calendar_remove,2
+59,,Faint o amser sydd angen i friwio pysgod yn perffaith?,cooking_recipe,3
+60,,"--
+dechrau chwarae'r llyfr llafar",play_audiobook,6
+61,,Mae angen i fi ryseitiau newydd ar gyfer bwydydd Bach.,cooking_recipe,3
+62,,Dileu'r holiadoddau yn y calendr,calendar_remove,2
+63,,beth yw'r larwm olaf i'w osod yn y stafell fawr?,alarm_query,0
+64,,Ydy hi'n rhy oer i mynd allan heb cot heddiw?,weather_query,9
+65,,Faint o amser sy'n rhaid i fi baratoi bwyd Nadolig eleni?,cooking_recipe,3
+66,,"Dechreuodd y llyfr newydd yn awr, chwarae fe",play_audiobook,6
+67,,Sut mae gwneud cacen fasgi ar gyfer parti?,cooking_recipe,3
+68,,Mae angen i archebu tocyn awyr i Baris.,transport_ticket,8
+69,,Fedri di awgrymu'r ffilm fawr orau i mi wylio gyda ffrindia,recommendation_movies,7
+70,,Danfonwch ebost i'r tîm yn rhannu'r wybodaeth ddiweddaraf,email_sendemail,5
+71,,"Tro'r uchder i lawr, plis",audio_volume_down,1
+72,,Dileu'r cofnodion yn y calendr heddiw,calendar_remove,2
+73,,Sut mae gwneud saus tomat cynnar?,cooking_recipe,3
+74,,Beth yw'r tywydd yn Aberystwyth yn yr wythnos i ddod?,weather_query,9
+75,,"Mae'n rhy swnllyd, gostywch yr uchder i mi",audio_volume_down,1
+76,,oedd modur i osod y larwm cyn iddo fynd i'r gwely,alarm_query,0
+77,,Pa amser yw hi yn paris os yw hi'n un ar ddeg o'r gloch y nos yma?,datetime_convert,4
+78,,chwarae'r lyfr yn ol,play_audiobook,6
+79,,Danfon ebost at Bethan i roi gwybod am y cyfarfod nesaf.,email_sendemail,5
+80,,Ydy hi'n rhy oer i gerdda yn y parc heddiw?,weather_query,9
+81,,Dileu'r cyfarfod olaf yn y calendr,calendar_remove,2
+82,,Dewisoch chi anfon ebost i'ch cydweithredwr i drefnu cynhadledd.,email_sendemail,5
+83,,Beth fydd y tywydd yn Aberystwyth ddydd Gwener?,weather_query,9
+84,,Chwarae'r llyfr llafar am ddim on'd yfory.,play_audiobook,6
+85,,sut mae hi'n mynd yn olaf yn singapore os yw hi'n naw o'r gloch y nos yn barcelona,datetime_convert,4
+86,,pam na allaf i weld fy larwm?,alarm_query,0
+87,,Dileu popeth yn y calendir erbyn heddwasanaeth,calendar_remove,2
+88,,"Mae'r lleisiau yn rhy uchel, gostwng y sŵn bach",audio_volume_down,1
+89,,A yw'n debygol y byddai eira yn disgwyl yn y dyfodol agos?,weather_query,9
+90,,"Llusgwylwch y sŵn, mae'n rhy swnllyd",audio_volume_down,1
+91,,Pwy sy'n awgrymu'r ffilm gorau erioed?,recommendation_movies,7
+92,,pa larwm sy'n gweithredu ar hyn o bryd,alarm_query,0
+93,,Danfonwch ebost i'ch rheolwr yn crynodeb y materion pwysig.,email_sendemail,5
+94,,Fedri di awgrymu ffilm gyffrous i mi?,recommendation_movies,7
+95,,Faint o amser sydd angen i fidroedd y tatws?,cooking_recipe,3
+96,,Dileu apwyntiad y meddyg i'r wythnos nesaf,calendar_remove,2
+97,,Oes ally geni lawr eisiau gweld rhagolygon y tywydd cyn mynd alltud?,weather_query,9
+98,,Gofynnwch am ostyngiad yn yr uchder sain.,audio_volume_down,1
+99,,Dileu'r cofnodion yn y calendr am y dyddiau nesaf,calendar_remove,2
+100,,Beth yw'r siawns am ddydd lloergar yn y tywydd yn Ninewdig?,weather_query,9
+101,,Chwarae seinlyfr Cymru Fach fi nawr!,play_audiobook,6
+102,,"Rhai o'r sain yn rhy uchel, gostwng yr uchder i ddeg y cant",audio_volume_down,1
+103,,agor seinllyfr bach a mawr i mi,play_audiobook,6
+104,,Ble allai i ddod o hyd i'r rysáit honno ar gyfer pysgod?,cooking_recipe,3
+105,,Archebwch tocyn awyr i mi ar gyfer yr wythnos nesaf i Baris,transport_ticket,8
+106,,yn dod o hyd i'r larwm olaf i veiddi't gosod,alarm_query,0
+107,,Rhagolygon y tywydd ar gyfer haf yfory!,weather_query,9
+108,,Oes gan ti rybuddion tywydd arbennig ar gyfer Gogledd Cymru heddiw?,weather_query,9
+109,,Ydy hi'n bwrw glaw yn Abertawe heddiw?,weather_query,9
+110,,"Chwarae rhan olaf y llyfr, os gwelwch yn dda.",play_audiobook,6
+111,,pwy sy'n gallu dangoswch fy larymau i mi?,alarm_query,0
+112,,yw hi'n bosib gael manylion pellach am fy larymau?,alarm_query,0
+113,,ga i archebu tocyn bus i casnewydd bore ma,transport_ticket,8
+114,,Beth yw'r amser yn rhagfyr yn california os yw hi'n saith o'r gloch y prynhawn yma?,datetime_convert,4
+115,,Ebost i gareth yn gofyn sut mae pobl yn mynd i'r cyfarfod heddiw.,email_sendemail,5
+116,,Dileu'r holl gofnodion yn y calendr ac achubwch y newidynnau,calendar_remove,2
+117,,Mae angen docyn drên arnaf i Wrecsam heddiw.,transport_ticket,8
+118,,""" token:
+
+Dileu'r holl apwyntiadau yn y calendr",calendar_remove,2
+119,,A yw'n bosibl y byddai hi'n bwrw glaw yn ystod dydd gwener?,weather_query,9
+120,,"Mae'n rhy swnllyd, gostwng yr uchder os gweli di'n dda",audio_volume_down,1
+121,,Sut mae gwneud crème caramel heb fod yn rhy anodd?,cooking_recipe,3
+122,,Dileu'r holl apwyntiadau yn ystod yr wythnos nesaf,calendar_remove,2
+123,,Mae angen i mi ddod o hyd i docyn drên rhad ac archebu yn ôl,transport_ticket,8
+124,,yw'r larwm yn y stafell wely wedi'i osod ar gyfer y nos?,alarm_query,0
+125,,Oes gwneud storm yn y rhagolygon i'r wythnos i ddod?,weather_query,9
+126,,Newidwch y rhanbarth amser o berlin i rhanbarth amser paris,datetime_convert,4
+127,,Faint o amser sy'n rhaid i fi biwcharu wy yn y popty?,cooking_recipe,3
+128,,troswch dwy fil tri chant a phedwar ugain o g.m.t. i p.s.t.,datetime_convert,4
+129,,Llusgwyl uchder y seinydd os gweli di'n dda,audio_volume_down,1
+130,,Ble allai i ddod o hyd i'r rysáit honno ar gyfer bara brith?,cooking_recipe,3
+131,,Mae angen i archebu ticét awyr i Baris ar gyfer penwythnos!,transport_ticket,8
+132,,Agor llyfrau audio newydd ac yn cyflym.,play_audiobook,6
+133,,Faint o'r gloch fydd hi am pump o'r gloch y nos yma yn madrid?,datetime_convert,4
+134,,A wyr y byd y tywydd yn caerdydd ar gyfer y penwythnos?,weather_query,9
+135,,A wnaiff hi lawrni yn ystod y dydd heddiw?,weather_query,9
+136,,newidwch y rhanbarth amser o rhanbarth amser canolog i rhanbarth amser Prydain Fawr,datetime_convert,4
+137,,rhowch tocynau drên i mi ar gyfer teithio i lerpwl yn fuan,transport_ticket,8
+138,,Pa fodd y gallwn i ddarganfod faint o'r gloch yw hi yn mexico df?,datetime_convert,4
+139,,Chwarae'r stori am y bachgen yn mynd i'r ysgol.,play_audiobook,6
+140,,Danfon ebost at fy ffrind yn cofnodi'r apwyntiad newydd.,email_sendemail,5
+141,,Beth yw'r tymheredd yn Aberystwyth yn awr?,weather_query,9
+142,,prynai fe glywed p'un ai fosododd y larwm?,alarm_query,0
+143,,Beth am yr amser yn madrid os yw hi'n un o'r gloch y nos yma,datetime_convert,4
+144,,Mae'n rhyfal gostywch yr uchder,audio_volume_down,1
+145,,Agor y llyfr audio newydd sy'n dod yn fuan.,play_audiobook,6
+146,,Oes yna law yn disgwyl yn Ninewar heddiw?,weather_query,9
+147,,Rhagolygon y tywydd ar gyfer y dyddiau nesaf!,weather_query,9
+148,,a wnaethoch chi ddiffodd y larwm ynghanol y nos?,alarm_query,0
+149,,Canslo'r cyfarfod caiff ei gymryd yn ôl i mewn i'm calendr,calendar_remove,2
+150,,"Gostywch y lleisiwr, mae'n rhy swnllyd",audio_volume_down,1
+151,,Oes tocyn bws rhad yn myned i Abertawe?,transport_ticket,8
+152,,Pryd mae'r sbwu't yn dod yn aeddfed yn y stof?,cooking_recipe,3
+153,,Atebir yr ebost gan Simon er mwyn rhoi'r neges olrhain.,email_sendemail,5
+154,,Archebwch docyn tren i fi i Birmingham bore'ma.,transport_ticket,8
+155,,Dewiswch copïau o'r ebost ac anfonwch iddynt hefyd.,email_sendemail,5
+156,,Cliciwch ar y linc i anfon ebost i gyfaill yn dweud croeso.,email_sendemail,5
+157,,A wyr y tywydd yn Rhydychen yn cael ei wella erbyn yfory?,weather_query,9
+158,,Anfonwch e-bost i Dave yn gofyn iddo am y wybodaeth ddiweddaraf.,email_sendemail,5
+159,,Beth fydd y tywydd yn Rhydychen yn yr wythnos i ddod?,weather_query,9
+160,,"Gostyngwch yr uchder, mae'n rhy uch",audio_volume_down,1
+161,,Fedri di awgrymu comedy dda i wylio yn gynt?,recommendation_movies,7
+162,,"Gostynga'r sŵn, lleihau uchder y seinydd os gweli di'n dda",audio_volume_down,1
+163,,Rhagolygon y tywydd yn Nghymru'r dyddiau nesaf.,weather_query,9
+164,,Danfon ebost at owen yn gofyn sut mae pethau.,email_sendemail,5
+165,,A yw'n debygol y byddaihaul yn y rhagolygon heddiw?,weather_query,9
+166,,Dewiswch danfon ebost i'r tim i drefnu sesiwn gydol dydd.,email_sendemail,5
+167,,Ebost i Elin yn gofyn iddi am y diweddariadau ar gyfer y prosiect.,email_sendemail,5
+168,,Archebwch docyn llong i mi ar gyfer yr haf yma i Ynys Môn!,transport_ticket,8
+169,,Fedri di awgrymu comedy dda i mi?,recommendation_movies,7
+170,,Atebir yr ebost gan lowri yn rhannu'r stori gyda hi.,email_sendemail,5
+171,,faint o'r gloch yw hi yn barcelona os yw hi'n naw o'r gloch y nos yma,datetime_convert,4
+172,,Atebwch yr ebost wrth Gareth ac rhowch wybod iddo am y datganiad.,email_sendemail,5
+173,,yn galluogi fy larwm neuadd yn awr,alarm_query,0
+174,,A wnelo chi sut y byd y tywydd yn Llanfairfechan heddiw?,weather_query,9
+175,,Cliriwch y calandar cyn dod i'r swyddfa,calendar_remove,2
+176,,Ydy hi'n rhy oer i mynd i'r traeth yn Ynys Môn heddiw?,weather_query,9
+177,,newidwch y rhanbarth amser o asia/pacifik i america/los angeles,datetime_convert,4
+178,,"Oedi ar y sain, gostywch hi i mi!",audio_volume_down,1
+179,,Sut mae gwneud pasta iechyd da?,cooking_recipe,3
+180,,Pa ffilm sy'n dod allan yn fuan a ddylai i wylio?,recommendation_movies,7
+181,,newidwch y rhanbarth amser o rhanbarth amser paris i rhanbarth amser madrid,datetime_convert,4
+182,,pam na wnaethoch chi ddim osod y larwm yfory?,alarm_query,0
+183,,Dileu'r cynhadledd sy'n bodoli yn y calendr,calendar_remove,2
+184,,Mae gen i ryseitiau gwych ar gyfer bwydyedd cynnar Nadolig.,cooking_recipe,3
+185,,Dileu'r cyfarfodydd i gyd yn ystod yr wythnos nesaf,calendar_remove,2
+186,,Fedri di awgrymu'r ffilm orau ar gyfer yr iaith Gymraeg?,recommendation_movies,7
+187,,Chwarae cynnwys y llyfr a wnaethpwyd yn gynt.,play_audiobook,6
+188,,os yw hi'n naw o'r gloch y nos yma faint o'r gloch yw hi yn singapore,datetime_convert,4
+189,,Danfon ebost at Owen yn gofyn am y wybodaeth ddiweddaraf am y prosiect.,email_sendemail,5
+190,,"Gostywch yr uchder, does dim yn rhy swnllyd",audio_volume_down,1
+191,,A wnelo ni weld haul yn ystod y bore ma?,weather_query,9
+192,,Agor y llyfr a rois i mi wythnos diwetha.,play_audiobook,6
+193,,Beth yw'r tywydd yn Llanfairfechan heddiw?,weather_query,9
+194,,Dwedwrtha'i ble dwi'n gallu archebu tocyn tren i Fanceinion?,transport_ticket,8
+195,,angen i deithio i faes awyr london heddiw ac rwyf eisiau prynu tocyn,transport_ticket,8
+196,,Dwed wrtha'i ble dwi'n gallu prynu tocyn tren i Llundain,transport_ticket,8
+197,,Dileu'r apwyntiad olaf yn y calendr,calendar_remove,2
+198,,Beth yw'r siawns am wlychau yn Aberteifi heddiw?,weather_query,9
+199,,Fedri di awgrymu'r ffilm orau ar gyfer gwyliau,recommendation_movies,7
+200,,p'un ai osodais fy larwm yn iawn yn y bore 'ma?,alarm_query,0
+201,,Dyna chi awgrymu ffilm anime i mi wylio!,recommendation_movies,7
+202,,allai fe wybod faint o'r gloch fydd hi am dri o'r gloch yfory yn singapore,datetime_convert,4
+203,,Dileu'r digwyddiad olaf yn y calendr,calendar_remove,2
+204,,Os yw hi'n naw o'r gloch y fore yn california faint o'r gloch yw hi yn lloegr,datetime_convert,4
+205,,Beth yw'r siawns am wlychau yn nwylan heddiw?,weather_query,9
+206,,faint o'r gloch yw hi yn singapore os yw hi'n saith o'r gloch yn london,datetime_convert,4
+207,,A wnelo chi sut mae'r tywydd yn Cardiff yn awr?,weather_query,9
+208,,Dewiswch ebost i'ch brawd yn cyflwyno'r syniadau newydd.,email_sendemail,5
+209,,Gostwng yr uchder i ddwywaith yn oled,audio_volume_down,1
+210,,sut wnaiff i gyfrifo'r amser yn dubai os yw hi'n deuddeg o'r gloch yn frankfurt,datetime_convert,4
+211,,Beth yw'r rysait orau ar gyfer crempogau llaeth?,cooking_recipe,3
+212,,Ga i fi wybod am y ffilm antur mwya poblogaidd sy'n chwarae yn theatr yfory?,recommendation_movies,7
+213,,pam na wnaethoch chi ddim osod y larwm heddiw?,alarm_query,0
+214,,Dileu'r holl gofnodion yn fy ngcalendr ac achubwch,calendar_remove,2
+215,,dechrau chwarae'r nofel,play_audiobook,6
+216,,Danfon ebost at Bethan yn gofyn am y wybodaeth ddiweddaraf.,email_sendemail,5
+217,,Troswch y dyddiad a'r amser o 14:30 CET i 10:00 EST.,datetime_convert,4
+218,,Beth yw'r rysait ar gyfer pasta all'amatriciana?,cooking_recipe,3
+219,,Gwiria'r tywydd yn swansea yn yr wythnos i ddod!,weather_query,9
+220,,Pa ffilmiau sy'n chwarae yn fawr yn Abertawe?,recommendation_movies,7
+221,,Rhowch glywedogledd i mi ac agor y llyfr lleisiol hono!,play_audiobook,6
+222,,Dileu'r cofnod yn y calendr am y diwrnod hwn,calendar_remove,2
+223,,Os yw hi'n un ar ddeg o'r gloch y nos yma faint o'r gloch yw hi yn Sydney?,datetime_convert,4
+224,,"Mae'r sŵn yn rhy uchel, gostwng yr uchder os gweli di'n dda",audio_volume_down,1
+225,,"Fedri di lefel y sain yn iselach, os gweli di'n dda",audio_volume_down,1
+226,,Ebost i ewa yn gofyn a oes gen i wahodd i'r parti.,email_sendemail,5
+227,,dechreuodd chwarae'r stori yn lleisiol,play_audiobook,6
+228,,Oes gen i awgrymiadau ffilm rhagorol i mi wylio yn ystod yr haf?,recommendation_movies,7
+229,,Chwioryddai ffilmiau mae pobl ynhoffi wylio yn awr,recommendation_movies,7
+230,,oedd moduron yn dilyn larwm yfory,alarm_query,0
+231,,"Gostwng yr uchder, os gweli di'n dda",audio_volume_down,1
+232,,Rhagolygon y tywydd yn Sir Benfro erbyn heno!,weather_query,9
+233,,Ydy'r larwm cynnar wedi ei osod eleni?,alarm_query,0
+234,,Cysylltwch â phob un trwy anfon ebost gyda'r manylion perthnasol.,email_sendemail,5
+235,,A wnelo'r tywydd yn wella yn ystod y penwythnos?,weather_query,9
+236,,Gostwng yr uchder bach iawn,audio_volume_down,1
+237,,agor seinlyfr y stori fer,play_audiobook,6
+238,,dwi ishe gaeth fy larwm i'm un o'r gloch?,alarm_query,0
+239,,Hoffwn i dalu am docyn tren i Abertawe.,transport_ticket,8
+240,,Mae gen i ryseitiau newydd ar gyfer bwydydd Nadolig.,cooking_recipe,3
+241,,dyn ni angen awgrymiadau ffilm da i wilio gyda'i gilydd?,recommendation_movies,7
+242,,allai feichiogi faint o'r gloch fydd hi am dri o'r gloch y bore yma yn japan,datetime_convert,4
+243,,Gwneud syniad am y tywydd yn Nghaerdydd bore'ma?,weather_query,9
+244,,Beth sy'n angen i wneud cacen ffrwythau yn gyflym?,cooking_recipe,3
+245,,Dewiswch y testun priodol ac anfonwch ebost at y derbyniwr.,email_sendemail,5
+246,,"Cymru'r sŵn, lleihau'r uchder os gweli di'n dda",audio_volume_down,1
+247,,Faint o'r gloch ydy hi yn Moscow pan foedd hi'n saith o'r gloch yn Llundain?,datetime_convert,4
+248,,Dileu'r cyfarfod caiff ei gadarnhau ar gyfer heddiw,calendar_remove,2
+249,,Gallwch chi archebu tocyn tren i mi i fynd i Lerpwl?,transport_ticket,8
+250,,Angen i mi docyn tren cyflym i Llundain yn fawr.,transport_ticket,8
+251,,chwarae'r awdl yn llefaru yn gynt,play_audiobook,6
+252,,Atebwch yr ebost gan gareth yn rhoi'r manylion pellach,email_sendemail,5
+253,,Faint o faint sydd raid i fi rosti'r patatod erbyn hyn?,cooking_recipe,3
+254,,Chwilie i docyn drên ar gyfer yfory i Lundain.,transport_ticket,8
+255,,Dileu'r apwyntiad olaf yng nghalendr y llynedd,calendar_remove,2
+256,,"Lleisio isel, os gweli di'n dda",audio_volume_down,1
+257,,Gostywch yr uchder yn sydyn,audio_volume_down,1
+258,,Oes angen i mi wisgo fy umbrella yn niwlawn?,weather_query,9
+259,,Pa ffilm sy'n mynd iawn yn Abertawe? Gad imi wybod!,recommendation_movies,7
+260,,Chwarae'r rhan olaf o'r llyfr sain hwnna.,play_audiobook,6
+261,,yw'r larwm wedi ei osod yn iawn yn y stafell,alarm_query,0
+262,,"Chwiorydd, gostwng yr uchder, does dim yn dod iawn",audio_volume_down,1
+263,,yn a ymraill dynesol y dwi eisiau gwybod a ydw i wedi gosod y larwm neu beidio.,alarm_query,0
+264,,Fedri di awgrymu ffilm antur i mi?,recommendation_movies,7
+265,,Newidwch y rhanbarth amser o Rhanbarth Amser Gogledd America i Rhanbarth Amser Prydain.,datetime_convert,4
+266,,Mae gen i angen archebu tocyn bws i Bangor cyn dydd Gwener,transport_ticket,8
+267,,Mae gen i ryseitiau arbennig iawn i wneud bara birth.,cooking_recipe,3
+268,,Chwiory ddigon o ffilmiau i mi wylio'r wythnos hon?,recommendation_movies,7
+269,,chwarae parhad y llyfr o'r dechrau,play_audiobook,6
+270,,Chwarae seinlyfr 'The Mabinogion' os gwelwch yn dda.,play_audiobook,6
+271,,Angen dwi archebu tocyn tren i Abertawe ar gyfer yr wythnos nesaf,transport_ticket,8
+272,,chwarae ein llyfr hanes yn ôl,play_audiobook,6
+273,,Cliriwch y calendr i mi,calendar_remove,2
+274,,chwarae'r stori o'r llyfr,play_audiobook,6
+275,,Cliriwch y calendr i mi wahodd cynnwys dim byd,calendar_remove,2
+276,,oes gen i wybod pa larwm sy'n dod nesaf?,alarm_query,0
+277,,Oes neb wedi dweud wrthyf beth yw'r tywydd yn ystod y penwythnos?,weather_query,9
+278,,Atebwch yr ebost wrth Michael yn rhoi'r manylion pellach.,email_sendemail,5
+279,,troswch dwy fil tri chant a phedwar ugain o g.m.t. i w.a.s.t,datetime_convert,4
+280,,sut mae hi'n mynd yn well i ddysgu faint o'r gloch yw hi yn moscow,datetime_convert,4
+281,,"Fedri di siarad yn dawelach, gostwng yr uchder i lawr",audio_volume_down,1
+282,,Pam na wyt ti'n rhoi cynnig ar 'Scream'?,recommendation_movies,7
+283,,Gad i fi wybod am y ffilm anime mwyaf poblogaidd sy'n chwarae nawr mewn theatr.,recommendation_movies,7
+284,,Oes gen i awgrym un ffilm neu ddrama arbennig i mi?,recommendation_movies,7
+285,,Pa amser ydy hi yn switzerland os gwelwch yn dda troswch i gmt,datetime_convert,4
+286,,sut mae'r amser yn dubai pan mae hi'n un o'r gloch y bore,datetime_convert,4
+287,,beth yw amser fy larymu cyntaf heddiw?,alarm_query,0
+288,,Oes angen i mi wisgo fy het ganolfan heddiw?,weather_query,9
+289,,Pa rhanbarth amser ydw i yn ei bod os gwelwch yn dda newidwch i gmt,datetime_convert,4
+290,,Gad i fi wybod am y ffilm antur mwya poblogaidd sy'n chwarae nawr mewn theatrau yng Nghaernarfon.,recommendation_movies,7
+291,,Beth yw'r modd gorau i gadw lemons yn ffres?,cooking_recipe,3
+292,,Beth yw'r rysáit orau ar gyfer cacen ffrwyth?,cooking_recipe,3
+293,,Canslo'r cyfarfod a'i hail-amserlennu ar gyfer y prydnest,calendar_remove,2
+294,,Ga i docyn tren i Gymru o Lundain?,transport_ticket,8
+295,,Cynnigwch ebost i gwen i drefnu'r apwyntiad.,email_sendemail,5
+296,,Rhoi'r uchder yn is,audio_volume_down,1
+297,,Ydy hi'n debygol y byddai gwresog yn y dyddiau i ddod?,weather_query,9
+298,,newidwch y rhanbarth amser o paris i rhanbarth amser llundain,datetime_convert,4
+299,,Archebwch docyn tren i fi ar gyfer Caerfyrddin.,transport_ticket,8
+300,,Dewiswch ebost i'ch rheolwr yn cyflwyno'r adroddiad newydd.,email_sendemail,5
+301,,A wnelo chi'r newis am y tywydd yn Sir Benfro heddiw?,weather_query,9
+302,,Danfon ebost at sian yn gofyn iddi am y diweddariadau.,email_sendemail,5
+303,,Ydy hi'n rhy oer i mynd i'r parc heddiw?,weather_query,9
+304,,"Rhoi'r uchder yn ôl, plîs",audio_volume_down,1
+305,,Mae angen i mi ryseitiau popeth am wneud crempogau!,cooking_recipe,3
+306,,pryd ydw i'n mynd i osgoi'r larwm nesaf?,alarm_query,0
+307,,Canslo'r apwyntiad yn y calendr,calendar_remove,2
+308,,Cliciwch 'anfon' i danfon ebost at emily yn ceisio cael ymateb iddi.,email_sendemail,5
+309,,Gostwng uchder y cerdyn sain,audio_volume_down,1
+310,,Beth yw'r rysait orau ar gyfer bwyd bach Tatws?,cooking_recipe,3
+311,,faint o'r gloch yw hi yn california os yw hi'n naw o'r gloch y nos yma,datetime_convert,4
+312,,Pob lwan yn chwarae seinlyfr bach?,play_audiobook,6
+313,,"Byddai'n well lleihau'r lleisiwr, mae'n rhy uch",audio_volume_down,1
+314,,Gallwch chi archebu tocyn drên i fi ar gyfer Caerfyrddin?,transport_ticket,8
+315,,Ga i docyn tren i Gymru?,transport_ticket,8
+316,,hoffwn i archebu tocyn drên i casnewydd bore ma,transport_ticket,8
+317,,"Sut mae gwneud stwnsh ffa iawn, heb fod yn rhy anodd?",cooking_recipe,3
+318,,dechreuodd chwarae'r audiobooks,play_audiobook,6
+319,,Dewiswch ebost i'w danfon i gyfaill yn dweud croeso iddo'i weld eto.,email_sendemail,5
+320,,Cliciwch ar y linc i anfon ebost i'ch cyn-golegydd.,email_sendemail,5
+321,,Dileu'r holl ddigwyddiadau yn y calendr ac achub y newidiadau,calendar_remove,2
+322,,Chwarae'r llyfr a ddaru i fi ei wrandaw yn ystod wythnos diwetha!,play_audiobook,6
+323,,Dileu'r apwyntiad olaf yn fy ngalendar.,calendar_remove,2
+324,,beth yw'r amser yn dublin pan mae hi'n naw o'r gloch y prynhawn yma,datetime_convert,4
+325,,"Rhy fal, gostywch yr uchder i hanner",audio_volume_down,1
+326,,Mae gen i ryseitiau gwych ar gyfer bwyd Nadolig.,cooking_recipe,3
+327,,"Lleihau'r sŵn, mae hynny'n well i mi",audio_volume_down,1
+328,,Mae gen i angen tocyn tren i Llanelli heddiw.,transport_ticket,8
+329,,Atebir yr ebost wrth Gareth yn rhoi'r manylion perthnasol.,email_sendemail,5
+330,,Cliciwch ar y linc i anfon ebost i'r tîm ynghylch y prosiect newydd.,email_sendemail,5
+331,,"Gostwng yr uchder, mae'n rhy swnllyd",audio_volume_down,1
+332,,P'un ai ffilm ryfel gore yn dod i'r theatr yn fuan?,recommendation_movies,7
+333,,Byddai'n well i mi dileu'r holl gostyngiadau yn y calendr,calendar_remove,2
+334,,"Pawb lleisiau, chwarae'r stori yn ôl.",play_audiobook,6
+335,,Troswch dwy fil tri chant a phedwar ugain o G.M.T. i W.A.S.T.,datetime_convert,4
+336,,Ebost i Mair yn ceisio cael mewnbwn iddi am y prosiect newydd.,email_sendemail,5
+337,,Cliriwch y calendr olynol,calendar_remove,2
+338,,allwch chi roi cynigion ffilm iddo fo?,recommendation_movies,7
+339,,Ga i docyn bws i Gaernarfon heddiw?,transport_ticket,8
+340,,Mae angen tocyn awyr gen i heddiw.,transport_ticket,8
+341,,pwy sy'n gallu dangos fy larymau i mi?,alarm_query,0
+342,,Oes neb wedi gwneud rhagolygon y tywydd am y Sul nesaf?,weather_query,9
+343,,Beth fydd y tywydd yn caerdydd ddydd llythyren nadolig?,weather_query,9
+344,,Anfonwch ebost i owen yn cynnwys y wybodaeth hon.,email_sendemail,5
+345,,Pawb yn gallu chwarae'r llyfr yn awr.,play_audiobook,6
+346,,chwarae seinlyfr y bachgen driphlyg,play_audiobook,6
+347,,dw i eisiau prynu tocyn awyr i barcelona cyn hir,transport_ticket,8
+348,,Danfon ebost at emily yn rhannu'r stori gyda hi.,email_sendemail,5
+349,,Ebost i gareth yn rhoi'r wybodaeth am y cyfarfodydd nesaf.,email_sendemail,5
+350,,Prawf diddynoc i archebu tri thocyn bws i Aberteifi.,transport_ticket,8
+351,,Archebwch fi docyn drên i Cardiff ar gyfer y Sul nesaf.,transport_ticket,8
+352,,Pa ffilm sy'n dod i'ch meddwl pan fyddai'n edrych am rywbeth i wylio?,recommendation_movies,7
+353,,Beth yw'r modd orau i gadw pwdr siwgwr fresh?,cooking_recipe,3
+354,,"llywodraethwr larymau, beth yw'r amser presenol?",alarm_query,0
+355,,Pam na wnewch chi roi cynnwys cocos yn eu pota?,cooking_recipe,3
+356,,Ebost i Gareth yn cynnwys y manylion perchnogol.,email_sendemail,5
+357,,newidwch y rhanbarth amser o asia/pacific i america/los angeles,datetime_convert,4
+358,,Olli pa ffilm sy'n dod allan nesaf?,recommendation_movies,7
+359,,Agor audiobooks a chwarae'r stori olaf roeddem yn gwrando arni hi.,play_audiobook,6
+360,,Gofynnais beth yw'r tywydd yn Sir Benfro heddiw?,weather_query,9
+361,,Hoffai siopa ffilmiau ac awgrymiau eraill hefyd!,recommendation_movies,7
+362,,Beth yw'r tywydd yn Aberystwyth heddiw?,weather_query,9
+363,,"Gadewch chi'n dawel, gostywch yr uchder!",audio_volume_down,1
+364,,Mae gen i ryseitiau newydd ar gyfer cacennau crempog.,cooking_recipe,3
+365,,chwarae cynnaraf llyfr Cymru Fach,play_audiobook,6
+366,,"Fedr iawn, dwi eisiau awgrym chi ffilm i wylio.",recommendation_movies,7
+367,,Gaethweision ffilm ryfeddaf i mi erbyn hyn!,recommendation_movies,7
+368,,Dileu'r cofnodion yn y calendr,calendar_remove,2
+369,,Anfonwch ebost i'r rheolwr gyda manylion y prosiect.,email_sendemail,5
+370,,"Rhy swnllyd, gostwng yr uchder yn syth",audio_volume_down,1
+371,,Beth fydd y tywydd yn Aberystwyth dros y penwythnos?,weather_query,9
+372,,Archebwch docyn tren gyda sedd cynta' i Birmingham ar gyfer y penwythnos,transport_ticket,8
+373,,Oes angen i fi cario umbrella yn Nantlle heddiw?,weather_query,9
+374,,Cliriwch fy ngcalendr i mi,calendar_remove,2
+375,,sylwiwch bod yr amser yn rio de janeiro yn wahanol i'r amser yn buenos aires,datetime_convert,4
+376,,Dechrau chwarae'r llyfr a rois i mi ddoe.,play_audiobook,6
+377,,Pa ffilm rydw i ishe o weld yn lleol?,recommendation_movies,7
+378,,Atebwch yr ebost i siân ac rhoi diweddariad ar y pynciau o bwys.,email_sendemail,5
+379,,Tro'r uchder yn ôl os na wyt ti'n hoffi'r swn,audio_volume_down,1
+380,,"Gostwng yr uchder, dwi eisiau clywed yn well",audio_volume_down,1
+381,,A wyr hi'n sychwanedd yn y dyddiad heddiw?,weather_query,9
+382,,Dechreuodd y llyfr newydd; chwarae fe nawr!,play_audiobook,6
+383,,Beth yw'r amser yn Sydney pan mae hi'n naw o'r gloch yn Llundain?,datetime_convert,4
+384,,Fedri di awgrymu'r ffilm gyfrinachol orau ar Netflix?,recommendation_movies,7
+385,,Dewiswch ebost i'w danfon i mair ynghylch y cynhadledd.,email_sendemail,5
+386,,Agor ein seinlyfr hoff yn ol,play_audiobook,6
+387,,Sut mae gwneud saws tomato homemade?,cooking_recipe,3
+388,,Fedri di ddysgu am y ffilm gyfoes afiechu?,recommendation_movies,7
+389,,A wnelo'r tywydd yn well yn Nghaerdydd nag yn Llundain?,weather_query,9
+390,,Dileu'r apwyntiad cyntaf yn y calendr,calendar_remove,2
+391,,agor audiobooks a chwarae y stori olaf,play_audiobook,6
+392,,Dewiswch ebost i'ch ffrind yn cyfathedb ar y pwnc,email_sendemail,5
+393,,Chwarae ffilm romantig fyddai yn hoffi wylio yn awr,recommendation_movies,7
+394,,Fedri di awgrymu'r ffilm orau ar Netflix?,recommendation_movies,7
+395,,Alla i wybod faint o'r gloch fydd hi am dri o'r gloch yn y prynhawn yma yn Los Angeles?,datetime_convert,4
+396,,"Rhy swnllyd, gostwng yr uchder i ddeg y cant",audio_volume_down,1
+397,,Sut mae gwneud saws tomatoedd i'w defnyddio gyda pasta?,cooking_recipe,3
+398,,Beth yw'r tywydd yn awr yn Llanelli?,weather_query,9
+399,,Oes modd i gael ticét bws rhad ac am ddim i Aberystwyth?,transport_ticket,8
+400,,Dileu'r hyn ola' i mi'n y calendir,calendar_remove,2
+401,,Gofynnais i beth yw'r siawns am wlychynnedd heddiw?,weather_query,9
+402,,mae hi'n saith o'r gloch yn ystod dydd yn los angeles faint o'r gloch yw hi yn swansea,datetime_convert,4
+403,,Faint o fawl sydd angen iawn i wneud crempogau?,cooking_recipe,3
+404,,Beth yw'r modd orau i gadw cynnyrch yn ffres?,cooking_recipe,3
+405,,Troswch dwy fil tri chant a phedwar ugain o B.P.T. i W.A.S.T.,datetime_convert,4
+406,,sut mae modd gwirio a oes larwm wedi'i osod?,alarm_query,0
+407,,Cliriwch y calendr o'r holl gofnodion,calendar_remove,2
+408,,Sut mae gwneud saws tomato cynnal?,cooking_recipe,3
+409,,Rhagolygon y tywydd yn neath ar gyfer yfory!,weather_query,9
+410,,"Pob lwc, agor y llyfr lleisiol i mi",play_audiobook,6
+411,,Canslo'r holl waith yn y calendr.,calendar_remove,2
+412,,dechrau ailchwarae llyfr Emlyn,play_audiobook,6
+413,,Dileu'r cofnodion i gyd yn y calendr ac achubwch newidynnau,calendar_remove,2
+414,,Beth yw'r rysáit orau ar gyfer pysgod?,cooking_recipe,3
+415,,os yw hi'n naw o'r gloch yn y prydnawn yn berlin faint o'r gloch yw hi yn cardiff,datetime_convert,4
+416,,Rhaid i mi gael tocyn drên i Abertawe cyn dydd Gwener,transport_ticket,8
+417,,Olly bai ffilm anturioedd orau ar Netflix?,recommendation_movies,7
+418,,prydlon yw'r larwm i'm unigrywedd i'w osod,alarm_query,0
+419,,"Pob lwc, agor ein seinlyfr hoff.",play_audiobook,6
+420,,Ebost i gwen yn holi a oes modd iddo ddilyn y stori.,email_sendemail,5
+421,,"Gostywch yr uchder, mae'n rhy uch",audio_volume_down,1
+422,,gwnewch chi awgrym ffilm ramantus i mi wylio gyda'm cariad?,recommendation_movies,7
+423,,Pam na wnaethpoch chi ddim pobi pysgod bach yn eu lleodd?,cooking_recipe,3
+424,,Beth yw'r rysait ar gyfer cynhyrchion tatws moron?,cooking_recipe,3
+425,,Oes modd i archebu tocyn awyr i Rydiau cyn diwedd y wythnos?,transport_ticket,8
+426,,alliwch chi ddweud faint o'r gloch yw hi yn singapore os yw hi'n un o'r gloch y bore yma,datetime_convert,4
+427,,Dileu apwyntiad yr ymweliad i'r meddyg,calendar_remove,2
+428,,Dileu'r cofnod olaf yn y calendr ac achub newid,calendar_remove,2
+429,,Beth yw'r modd gorau i gadw bara brith yn ffrwythlon?,cooking_recipe,3
+430,,"Rhai bod yn rhy swnllyd, gostwng yr uchder",audio_volume_down,1
+431,,beth yw'r ffilm orau ar gyfer pobl ifanc fel ti?,recommendation_movies,7
+432,,alliwch chi ddweud faint o'r gloch yw hi yn moscow pan mae hi'n ddeg o'r gloch y prynhawn yma,datetime_convert,4
+433,,Fedri di awgrymu rhaglen ffilm fer i mi wylio bore 'ma?,recommendation_movies,7
+434,,Oes modd i mi archebu tocyn bws yn advance ar gyfer y weekend?,transport_ticket,8
+435,,A yw'n debygol y byddai gwresog yn y dyddiau i ddod?,weather_query,9
+436,,pwy sy'n gofalu am larwm y ty?,alarm_query,0
+437,,Dileu'r apwyntiad olaf yn fy ngcalendr,calendar_remove,2
+438,,Cansla'r holl ddigwyddiadau yn y calendr,calendar_remove,2
+439,,chwarae atgofiadau henri morgan yn rhydlafar,play_audiobook,6
+440,,"Mae'n rhy swnllyd, lleihau'r uchder i ddim",audio_volume_down,1
+441,,"Ga i docyn bus i Gaerfyrddin, os gwelwch yn dda?",transport_ticket,8
+442,,Archbuwch docyn tren i fi ar gyfer Caernarfon!,transport_ticket,8
+443,,"Pob lwc, dw i eisiau chwarae'r llyfr 'The Hitchhiker's Guide to the Galaxy'!",play_audiobook,6
+444,,sut mae hi'n mynd o'r gloch yn madrid os yw hi'n un o'r gloch yn paris,datetime_convert,4
+445,,Newidwch y rhanbarth amser o rhydychen i rhanbarth amser berlin.,datetime_convert,4
+446,,Canslo'r hyn i gyd o'm calendr,calendar_remove,2
+447,,Dewiswch ebost i nadine yn cynnig cystadleuaeth newydd.,email_sendemail,5
+448,,Beth sy'n ddewis arall yn lle menyn yn y stwffing?,cooking_recipe,3
+449,,oedd modur i osod larwm newydd heddiw?,alarm_query,0
+450,,gosododd y larwm am bum pump o'r gloch y prynhawn yfory.,alarm_query,0
+451,,sut mae'r amser yn wellington os yw hi'n un ar ddeg o'r gloch y prynhawn yma,datetime_convert,4
+452,,Oes neb wedi rhoi'r rhagolygon tywydd cyfredol yn Fôn?,weather_query,9
+453,,newidwch y rhanbarth amser yma i amsterdam,datetime_convert,4
+454,,Gad i mi wybod am y ffilm ryddieithiol fwyaf poblogaidd sy'n dod allan eleni!,recommendation_movies,7
+455,,Canslo'r holl ddigwyddiadau yn y calendr,calendar_remove,2
+456,,Oes angen i fi gwisgo esgidiau trwm yn y stordy?,weather_query,9
+457,,Beth yw amser y larwm i rydu?,alarm_query,0
+458,,gwnewch chi atgoffa fi am yr larwm nesaf!,alarm_query,0
+459,,Olli pa ffilm sy'n chwarae ger llaw cyn hirio?,recommendation_movies,7
+460,,A wyr y tywydd yn Abertawe bore'ma?,weather_query,9
+461,,Dileu'r cyfarfodydd a'u hail-amserlenwi ar gyfer yr wythnos nesaf.,calendar_remove,2
+462,,Pa ffilm wnaethoch chi wylio ddoe?,recommendation_movies,7
+463,,Gallwch chi archebu tocyn tren i mi i Lundain?,transport_ticket,8
+464,,Gallwch chi dangos docynnau trên i mi o Gasnewydd i Lerpwl?,transport_ticket,8
+465,,Ebost i Sioned yn gofyn am y wybodaeth ddiweddaraf.,email_sendemail,5
+466,,Chwioryddwch fy ngcalendr ac dileu popeth,calendar_remove,2
+467,,A yw'n debygol y byddai nglaw yn y dyddiau nesaf?,weather_query,9
+468,,newidwch y rhanbarth amser o rhanbarh amser paris i rhanbarh amser llundain,datetime_convert,4
+469,,Dileu'r cytundebau i gyd yn y calendr,calendar_remove,2
+470,,beth yw'r amser i osgodi fy larwm heddiw,alarm_query,0
+471,,Dileu'r holl weithredoedd yn y calendr,calendar_remove,2
+472,,Danfon ebost at Ian yn rhannu'r stori gydag ef.,email_sendemail,5
+473,,"Rhybuddio fod y sain yn rhy uchel, gostywch y llais is!",audio_volume_down,1
+474,,"yn dod iawn yn fuan, dwi eisiau gweld fy larymau!",alarm_query,0
+475,,"llywelyn, beth yw'r larwm cyntaf i'w osod heddiw?",alarm_query,0
+476,,"Os yw hi'n saith o'r gloch y nos yma, faint o'r gloch yw hi yn Paris?",datetime_convert,4
+477,,Dwi ishe ga'u bod yn sicr o'i fod yr larwm wedi ei osod!,alarm_query,0
+478,,Oes gan ti ragolygon y tywydd ar gyfer y penwythnos?,weather_query,9
+479,,Rwy'n chwilio am rysáit iawn ar gyfer tatws wedi'u pylu.,cooking_recipe,3
+480,,Canslo'r holl waith yn y calendr,calendar_remove,2
+481,,"Mae'n rhy swnllyd, gostwng yr uchder i ddeg y cant",audio_volume_down,1
+482,,sut mae'r amser yn los angeles pan mae hi'n un ar ddeg o'r gloch y nos yma,datetime_convert,4
+483,,P'un ai ffilm Nadolig orau i mi?,recommendation_movies,7
+484,,Ga i docyn tren i Rydychen heddiw?,transport_ticket,8
+485,,"Ti'n chwilio am ffilm i wylio? Dwi'n argymell ""Titanic""!",recommendation_movies,7
+486,,Cliriwch eich calendr cyn iddo fod yn rhy llawn,calendar_remove,2
+487,,"--
+chwarae'r audibook olaf",play_audiobook,6
+488,,Anfonwch ebost i Sarah yn rhannu'r wybodaeth newydd.,email_sendemail,5
+489,,faint o'r gloch yw hi yn shanghai os yw hi'n saith o'r gloch yn ystafell,datetime_convert,4
+490,,Oes neb yn gallu rhoi rhagolygon y tywydd i mi am y penwythnos?,weather_query,9
+491,,Rhagolygon y tywydd yn Nghymru drosto'r dyddiau nesaf.,weather_query,9
+492,,chwarae seinlyfr 'yn hanes i mi,play_audiobook,6
+493,,Archebwch tocyn tren i Abertawe cyn dydd Gwener.,transport_ticket,8
+494,,Faint o'r gloch ydy hi yn los angeles os yw hi'n saith o'r gloch y nos yma?,datetime_convert,4
+495,,Sut mae gwneud crempog frengig?,cooking_recipe,3
+496,,yw y larwm yn gwneud sŵn rhybuddiol rywbryd?,alarm_query,0
+497,,pam na allwn i ddangos fy larymau i mi?,alarm_query,0
+498,,dechrau chwarae hunangofiant emily davies,play_audiobook,6
+499,,Shwn i'r tywydd yn Caerdydd ar gyfer y penwythnos?,weather_query,9
+500,,beth yw'r amseriadur larwm diweddaraf i'm unigryw?,alarm_query,0
+501,,"Dwi ishe chwarae'r llyfr o 'To Kill a Mockingbird', plis!",play_audiobook,6
+502,,"Mae'n rhy swnllyd, lleihau'r uchder os gweli di'n dda",audio_volume_down,1
+503,,Dod o hyd i'r rysáit honno ar gyfer bara brith!,cooking_recipe,3
+504,,"Os yw hi'n un o'r gloch yn ystod y dydd yma, faint o'r gloch yw hi yn paris?",datetime_convert,4
+505,,Cynnigwch ebost i Iwan yn ceisio cael mwy o wybodaeth am y digwyddiad.,email_sendemail,5
+506,,Rhowch gynnig arni hi drwy anfon ebost i'w swyddfa.,email_sendemail,5
+507,,Beth yw'r amser yn Llundain os yw hi'n dri o'r gloch y prynhawn yn Sydney?,datetime_convert,4
+508,,Cliriwch fy ngalendar i mi.,calendar_remove,2
+509,,"Tro'r sŵn i lawr, os gweli di'n dda",audio_volume_down,1
+510,,newidwch y rhanbarth amser o rhydychen i rhanbarth amser canolog,datetime_convert,4
+511,,Pam na wnewch chi ddewis ffilm o'r rhestr honno?,recommendation_movies,7
+512,,Angen tocyn awyr gen i i Baris yn fuan.,transport_ticket,8
+513,,gwnewch chi ddangos fy larymau i mi.,alarm_query,0
+514,,gwnewch innau wybod pa larwm sy'n cyrraedd nesaf.,alarm_query,0
+515,,Dechreuodd chwarae'r llyfr newydd,play_audiobook,6
+516,,Dileu'r apwyntiad agoriadol yn y calendr,calendar_remove,2
+517,,Dileu'r pardy yn y calendr ar gyfer heddiw,calendar_remove,2
+518,,Cliriwch y calendr o'r holl apwyntiadau,calendar_remove,2
+519,,allai i wybod faint o'r gloch fydd hi am dri o'r gloch y bore yma yn athina,datetime_convert,4
+520,,alliwch chi roi'r amser cyfrediol yn chicago os yw hi'n pum o'r gloch yn newYork?,datetime_convert,4
+521,,Pryd mae rhaid torri'r llysiau cyn eu coginio?,cooking_recipe,3
+522,,Beth yw'r tywydd yn Llanelli heddiw?,weather_query,9
+523,,pwy sy'n gallu rhoi gwybod am y larwm olaf?,alarm_query,0
+524,,Troswch dwy fil tri chant a phedwar ugain o E.S.T. i C.S.T.,datetime_convert,4
+525,,Dileu'r apwyntiad olaf yn y calendir,calendar_remove,2
+526,,P'un ai ffilm rydyn ni angen wylio nesaf?,recommendation_movies,7
+527,,Canslo'r holl apwyntiadau yn fy ngcalendr,calendar_remove,2
+528,,Cliriwch fy nghefnachau yn y calendir,calendar_remove,2
+529,,Dechreuodd chwarae'r llyfr acr yma.,play_audiobook,6
+530,,Awgrymwaith ryddhad ffilm newydd i mi!,recommendation_movies,7
+531,,Dileu'r holl gofnodion yn y calendr.,calendar_remove,2
+532,,ga i'm awgrym rhai ffilmiau comedïau cryf i mi?,recommendation_movies,7
+533,,Gallwch chi dangoswch tocynnau drên ar gyfer siwrne yn Lloegr?,transport_ticket,8
+534,,"Chwiorydd, awgrymia ffilm gyffrous i ni wylio gyda'i gilydd!",recommendation_movies,7
+535,,Ydw i'n medru mynd i'r parc yn gaerfyrddin heddiw?,weather_query,9
+536,,Agor llyfr newydd acdechreu!,play_audiobook,6
+537,,troswch dwy fil tri chant a phedwar ugain o g.m.t. i c.d.t.,datetime_convert,4
+538,,gwnewch innau ganeddau am y larwm!,alarm_query,0
+539,,chwarae'r casgliad o lyfrau sain,play_audiobook,6
+540,,Dileu pob digwyddiad yn y calendr cyn iddo ddod i ben,calendar_remove,2
+541,,Anfonwch ebost i Catrin am y cyfarfod nesaf.,email_sendemail,5
+542,,Rhagolygon y tywydd i'r dyfodol.,weather_query,9
+543,,Beth yw'r tywydd yn Abertawe ar gyfer yfory?,weather_query,9
+544,,Rhagolygon y tywydd yn y dyddiau i ddod!,weather_query,9
+545,,gwnewch shwmae ac agorwch y llyfr sain,play_audiobook,6
+546,,Rhowch hi'n chweithre i chwarae seinlyfr olaf wythnos.,play_audiobook,6
+547,,Chwarae ffilm o'r iaith Gymraeg byddem yn hoffi!,recommendation_movies,7
+548,,pwy sy'n gofalu am yr holl larymau yn y cartref?,alarm_query,0
+549,,Ebost i siân yn gofyn am y wybodaeth ddiweddaraf am y lansiad newydd.,email_sendemail,5
+550,,Mae angen i deithio i Fanceinion ac rydyn ni eisiau prynu tocyn awyren.,transport_ticket,8
+551,,Anfonwch ebost i felin ar gyfer y cyfarfod nesaf.,email_sendemail,5
+552,,Os yw hi'n un o'r gloch y prynhawn yma faint o'r gloch yw hi yn cairo,datetime_convert,4
+553,,"Mae'n rhy swnllyd, lleihau uchder y seinydd",audio_volume_down,1
+554,,Gostyngwch yr uchder iawn,audio_volume_down,1
+555,,Canslo popeth yn y calendr,calendar_remove,2
+556,,Anfonwch ebost iCatrin i roi gwybod iddi am y cynhadleodd.,email_sendemail,5
+557,,Gad imi wybod am y ffilm fawr nesaf sy'n dod allan yn fuan?,recommendation_movies,7
+558,,dim ond rhybuddion larwm sy'n bodoli!,alarm_query,0
+559,,Oes gen i ddiffoddwr yn gwneud rheoli'r tywydd yn Llanelli?,weather_query,9
+560,,Faint o amser sydd angen i fi wneud potjam?,cooking_recipe,3
+561,,Pam na wnaethoch chi ddim rhoi rhagolygon y tywydd ar gyfer yfory?,weather_query,9
+562,,Byddai'n well gostywch yr uchder o few pwynt os gweli di'n dda,audio_volume_down,1
+563,,chwarae seinlyfr hanes cynnar yfory,play_audiobook,6
+564,,Sut mae gwneud bara birthdy fel arfer?,cooking_recipe,3
+565,,Ga'u helpu i ddewis ffilm orau ar gyfer noswaith wag!,recommendation_movies,7
+566,,"Tro'r uwchder i lawr, os gwelwch yn dda.",audio_volume_down,1
+567,,Atebwch yr ebost gan lesley yn olrhain y pynciau.,email_sendemail,5
+568,,Byddai'n well gostwng yr uchder iawn,audio_volume_down,1
+569,,Canslo'r holl gofnodion yn y calendr,calendar_remove,2
+570,,pam na allai fi weld y larymau sy'n bodoli yn fy ngwaith?,alarm_query,0
+571,,"Gostywch y lleisiwr yn gyflym.
+Cyfieithiad uchder yn anodd.
+Sdim ots yn uwch nag awr, gostywch e!
+Oes modd gostiwng uchder y seinydd?",audio_volume_down,1
+572,,Pam na wnewch chi roi cynnwys y rysáit honno yn y pot?,cooking_recipe,3
+573,,Mae angen i mi docyn llong i Ynys Môn heddiw.,transport_ticket,8
+574,,Danfon ebost at rhian yn gofyn iddi dychwelyd y llythyron.,email_sendemail,5
+575,,Sut mae gwneud cacen ffiga siwgwr?,cooking_recipe,3
+576,,Danfon ebost at mam yn rhoi gwybod am y cynhadleodd nesaf.,email_sendemail,5
+577,,"Tro'r uchder i lawr, mae'n rhy uch",audio_volume_down,1
+578,,Anfonwch e-bost i sian yn cofnodi'r apwyntiad newydd.,email_sendemail,5
+579,,pa ffilmiau sy'n chwarae yn fawr yn y theatr yma?,recommendation_movies,7
+580,,dwi ishe gaeth larwm newydd yn y stafell wely,alarm_query,0
+581,,beth yw'r ffilm fwyaf diddafar iawn rydw i eisiau'i wylio?,recommendation_movies,7
+582,,gosodi'r larwm am dri o'r gloch yn y stafell,alarm_query,0
+583,,llythyr i'm llawenydd pan wnaethoch chi osod y larwm,alarm_query,0
+584,,Troswch dwy fil tri chant a phedwar ugain o g.m.t. i w.a.s.t.,datetime_convert,4
+585,,Sut mae gwneud saws tomato o'r graidd?,cooking_recipe,3
+586,,Dileu'r cyfarfodydd iawn yn fy ngcalendr,calendar_remove,2
+587,,Oes angen i fi gymryd parasol heddiw?,weather_query,9
+588,,"Gallai I gael tocyn tren i Llundain, os gwelwch yn dda.",transport_ticket,8
+589,,Anfonwch ebost i megan yn cynnwys y wybodaeth newydd.,email_sendemail,5
+590,,"Tro'r uchder i lawr, os gweli di'n dda",audio_volume_down,1
+591,,Cansla'r apwyntiad yn y calendr am yfory,calendar_remove,2
+592,,Beth sy'n rhaid i mi agor yn gyntaf cyn gwneud cacen fawl?,cooking_recipe,3
+593,,beth yw'r amser i osgodi'r larwm yfory,alarm_query,0
+594,,Dechrau chwarae'r llyfr a ddarllenais fel plentyn bach!,play_audiobook,6
+595,,yw hi'n bosib gwirio a oes larwm yn fy ngwaith?,alarm_query,0
+596,,Dwedwrtha'i ble dwi'n mynd am asetroedd i Gaernarfon.,transport_ticket,8
+597,,Gallwch chi dangoswch tocynnau tren i mi o Gaerdydd i Abertawe?,transport_ticket,8
+598,,Os yw hi'n naw o'r gloch yn y bore yma faint o'r gloch yw hi yn cairo.,datetime_convert,4
+599,,ga i ddim cofio lle rydw i wedi rhoi fy ngwneud tocyn bws,transport_ticket,8
+600,,Dileu'r cynhadledd rydyn ni'n ei chynnal heddiw.,calendar_remove,2
+601,,Beth yw'r modd orau i gadw bara cynnes?,cooking_recipe,3
+602,,"Chwarae ffilm sy'n mynd i'ch hoffi, dw i'n siwr!",recommendation_movies,7
+603,,Pa fodd i newid yr amser o BST i PST?,datetime_convert,4
+604,,Chweilio am bob apwyntiad a'i dileu yn y calendr,calendar_remove,2
+605,,Tro'r uchder yn ôl un cam,audio_volume_down,1
+606,,Alla i wybod pa amser yw hi yn japan os yw hi'n naw o'r gloch y bore yma?,datetime_convert,4
+607,,Faint o amser sy'n mynd i glynu'r pysgod yn yr awyr agored?,cooking_recipe,3
+608,,lle mae'r larwm yn codi'r alaram?,alarm_query,0
+609,,yn dod atgas i ddweud wrthyf amser y larwm nesaf,alarm_query,0
+610,,"Shwmae, pa rhanbarth amser ydw i yn Columbus, Ohio?",datetime_convert,4
+611,,oedd modd i osgoi'r larwm am bedwar o'r gloch heddiw?,alarm_query,0
+612,,pa larwm ydw i angen gosod nesaf?,alarm_query,0
+613,,Beth yw'r amser yn Oslo pan fo pump o'clock y prynhawn yn Llundain?,datetime_convert,4
+614,,prynai fe wybod pa larymau sy'n bodoli?,alarm_query,0
+615,,Dileu'r cynadledda yn y calendr ar fore mercher,calendar_remove,2
+616,,llyfrwch fy nghwestiynau am y larwm!,alarm_query,0
+617,,"Gostynga'r sŵn, lleihau uchder y seinydd",audio_volume_down,1
+618,,Agor Seitl o'r Llyfr Sain a Chwaraeu yn Awr,play_audiobook,6
+619,,sut mae modd gosod larwm newydd ar gyfer heno?,alarm_query,0
+620,,Ydy hi'n debygol y byddai haul yn machlud heddiw?,weather_query,9
+621,,Ydy hi'n debygol y byddai haul yn y rhagolygon bore ma?,weather_query,9
+622,,Dileu'r cyfarfodydd a'u hail-amserlenwu ar gyfer yr wythnos nesaf,calendar_remove,2
+623,,Crewchwch ebost i Emily yn rhannu'r stori gyda hi.,email_sendemail,5
+624,,Dileu'r cynhadledd yn y calendr i'm dydd Gwener nesaf,calendar_remove,2
+625,,Olly pa ffilm sy'n dod allan nesaf yn y sinema?,recommendation_movies,7
+626,,"Mae'n rhy swnllyd, gostywch yr uchder isod",audio_volume_down,1
+627,,sylwiwch bod yr amser yn athens yn wahanol i'r amser yn roma,datetime_convert,4
+628,,"--
+chwarae seinlyfr hanes devi",play_audiobook,6
+629,,Chwarae ffilm arswyddech fyddai fi ishe.,recommendation_movies,7
+630,,pa ffilm sy'n dod allan yn fuan iawn ac wedi'u rhyddhau yn y DU?,recommendation_movies,7
+631,,Pa fodd y gallwn i newid y rhanbarth amser o fewnl i rhanbarth amser Tokyo?,datetime_convert,4
+632,,Anfonwch ebost i sian yn cynnwys y wybodaeth honno.,email_sendemail,5
+633,,Rhowch imi awgrym rhywbeth i wylio nes ymlaen,recommendation_movies,7
+634,,Pawb yn gallu chwarae'r llyfr yn fyw.,play_audiobook,6
+635,,Danfon ebost at sioned i roi'r wybodaeth hono.,email_sendemail,5
+636,,dim ond rhybuddion sy'n gwneud pobl ofidus - gadewch i mi wybod am y larymau!,alarm_query,0
+637,,Mae gen i eisiau archebu tocyn awyr i Baris,transport_ticket,8
+638,,Dileu'r holl gofnodion yn y calendr ac achosiwn newydd,calendar_remove,2
+639,,P'un ai ffilm rydyn ni angen gweld?,recommendation_movies,7
+640,,Archebwch docyn tren i fi yn mynd i Gaerfyrddin.,transport_ticket,8
+641,,Danfon ebost at Bethan i roi'r wybodaeth honno iddi.,email_sendemail,5
+642,,Dileu'r cofnodau yn y calendr heddiw,calendar_remove,2
+643,,Oli pa ffilm sy'n chwarae yn agos ataf?,recommendation_movies,7
+644,,chwarae pennaeth llyfrau audio,play_audiobook,6
+645,,Faint o amser sydd raid i fi wneud bara birth?,cooking_recipe,3
+646,,Gostwng yr uchder i hanner,audio_volume_down,1
+647,,Troswch dwy fil tri chant a phedwar ugain o g.m.t. i w.a.s.t,datetime_convert,4
+648,,"Cymru'r lleisiau, lleihau'r uchder os gweli di'n dda",audio_volume_down,1
+649,,Ble allai i ganfod rysait ar gyfer crempogau llaeth?,cooking_recipe,3
+650,,Awgrymia ffilm ddrama sbon i mi wylio yn ystod yr haf,recommendation_movies,7
+651,,Oes ryseiliad o law yn y tywydd ar gyfer haf y flwyddyn hon?,weather_query,9
+652,,pwy sy'n gallu rhoi rhybuddion am y larymau?,alarm_query,0
+653,,Ga i ddim tocyn awyren i Baris?,transport_ticket,8
+654,,Beth yw'r tywydd yn Aberystwyth ar gyfer y penwythnos?,weather_query,9
+655,,Pawb yn gallu chwarae'r llyfrau llafar,play_audiobook,6
+656,,Chwarae seinlyfr 'yn wlad' gan gwyn thomas.,play_audiobook,6
+657,,Rhagolygon y tywydd yn Nghaerdydd bore ma,weather_query,9
+658,,Faint o amser sydd raid i fi bara cuiw bach?,cooking_recipe,3
+659,,Dileu'r cofnodion iawn yn y calendr heddiw.,calendar_remove,2
+660,,"Gostyngi'r uchder, mae hynny'n well",audio_volume_down,1
+661,,"Rhy swnllyd mae hynny, gostwngwch hi",audio_volume_down,1
+662,,Newidwch y rhanbarth amser o Ewrop i Rhanbarth Amser America?,datetime_convert,4
+663,,Atebwch yr ebost gan Lisa yn rhoi manylion y cyfarfodydd sy'n dod.,email_sendemail,5
+664,,Pa ffilm sy'n mynd i fod yn wych i mi wylio'r noswaith yma?,recommendation_movies,7
+665,,Chwarae rhan nesaf o'r llyfr sain,play_audiobook,6
+666,,Mae gen i ryseitiau newydd ac rwy'n chwilio am syniadau newydd.,cooking_recipe,3
+667,,Alla i ddysgu sut i newid y rhanbarth amser o GMT i CST?,datetime_convert,4
+668,,faint o'r gloch yw hi yn mexico city os yw hi'n un o'r gloch yn madrid,datetime_convert,4
+669,,"Rhywbeth oedd yn rhy swnllyd, gostwng yr uchder i ddeg y cant",audio_volume_down,1
+670,,Atebodd yr ebost i Christine yn rhannu'r newyddion da.,email_sendemail,5
+671,,Oes gan ti rybuddion tywydd ar gyfer y penwythnos?,weather_query,9
+672,,Canslo'r apwyntiad olaf yn y calendr.,calendar_remove,2
+673,,Pa fodd y gallaf i ddarganfod faint o'r gloch ydy hi yn Paris ar hyn o bryd?,datetime_convert,4
+674,,Pa ffilm anime sy'n chwarae yn lleol ar hyn o bryd?,recommendation_movies,7
+675,,Oes gen i awgrymiadau ffilm arbennig i mi?,recommendation_movies,7
+676,,Sut mae gwneud crempogau Cymreig traddodiadol?,cooking_recipe,3
+677,,"Mae'n rhy uchel, gostwngiwch y sŵn",audio_volume_down,1
+678,,"Os gweli di'n dda, gostywch yr uchder bach",audio_volume_down,1
+679,,Chwioryddai ddich fel awgrym ffilm ar gyfer heddiw?,recommendation_movies,7
+680,,"Cynnigolwg, gostywch yr uchder isod",audio_volume_down,1
+681,,dangoswch fy nghwestiynau larymau i fi,alarm_query,0
+682,,chwarae ein llyfr hoff,play_audiobook,6
+683,,Sut mae paratoi ffa pizza yn gyflym?,cooking_recipe,3
+684,,Rhagolygon y tywydd yn nwylan heddiw?,weather_query,9
+685,,Pa fath larwm sy'n cael ei osod yn awr?,alarm_query,0
+686,,Dileu'r cofnod yn y calendr am heddiw,calendar_remove,2
+687,,"Rho'i yn ôl, lleihau'r sŵn",audio_volume_down,1
+688,,Archebwch tocyn awyren arnaf i Baris,transport_ticket,8
+689,,"Bydda i'n well gostwng yr uchder, os gweli di'n dda",audio_volume_down,1
+690,,Sut mae gwneud surop haf yn defaid?,cooking_recipe,3
+691,,Gostywch yr uchder fel petai,audio_volume_down,1
+692,,Cliciwch ar y linc i anfon ebost i rachel.,email_sendemail,5
+693,,Archebwch docyn drên gyda sedd angorfa i Fanceinion ar gyfer y penwythnos nesaf.,transport_ticket,8
+694,,Cliriwch y calendr o bob digwyddiad annisgwyl,calendar_remove,2
+695,,"yn dod dim sylwiadau am fy larymau, gadewch i fi wybod!",alarm_query,0
+696,,Cliriwch popeth yn y calendr erbyn hyn,calendar_remove,2
+697,,Chwarae ein lleilliwriaeth o'r Llyfr Sain,play_audiobook,6
+698,,sut mae modd gwylio fy larwm yn fy ngwaith?,alarm_query,0
+699,,Ble allai i ddod o hyd i'r rysáit honno ar gyfer crempogau?,cooking_recipe,3
+700,,"Troswch y rhanbarth amser o cmt i cet, os gwelwch yn dda.",datetime_convert,4
+701,,"Rhy fal gwaelodol yw hyn, gostwng yr uchder",audio_volume_down,1
+702,,Gallwch chi dangoswch docynnau tren i mi ar gyfer y daith i Birmingham?,transport_ticket,8
+703,,a wnaethoch chi osgodi larwm newid,alarm_query,0
+704,,Dileu'r cyfarfodydd i gyd yn y calendr,calendar_remove,2
+705,,Pryd mae llysiau yn eu tymor i'w defnyddio yn yr ryseitiau?,cooking_recipe,3
+706,,agor a chwarae y llyfr diweddaraf,play_audiobook,6
+707,,Pam na wyt ti'n rhoi cynnig ar 'Fflic' ar HBO Max?,recommendation_movies,7
+708,,Rhoi'r sain yn is Fach,audio_volume_down,1
+709,,beth yw'r cyfnod olaf i gael larwm,alarm_query,0
+710,,faint o'r gloch yw hi yn singapore pan mae hi'n un ar ddeg o'r gloch yn stockholm,datetime_convert,4
+711,,Beth yw'r rysáit orau ar gyfer brecwast cynnar?,cooking_recipe,3
+712,,Dwedwrtha'i ble dwi'n gallu prynu tocyn tren i Fanceinion?,transport_ticket,8
+713,,Rhagolygon y tywydd yn Nghaerdydd bore ma?,weather_query,9
+714,,Faint o deilliad sydd angen i wneud crempogau?,cooking_recipe,3
+715,,"Tro'r uchder i lawr, mae hynny'n well i mi",audio_volume_down,1
+716,,"BOTHAU, dileu popeth o'm calendr!",calendar_remove,2
+717,,rhowch hi fel hyn: chwarae'r llyfr newydd,play_audiobook,6
+718,,Beth yw'r rysait ar gyfer crempogau llaeth?,cooking_recipe,3
+719,,Oes gen i awr i wisgo fy nrillwis yn ôl y tywydd?,weather_query,9
+720,,Archbuwch ticét bws i fi yn mynd i Wrecsam!,transport_ticket,8
+721,,Rhybuddio: gostywch yr uchder er mwyn les roi'r sain,audio_volume_down,1
+722,,Dileu'r apwyntiad penaf yn y calendr,calendar_remove,2
+723,,fedri di awgrymu ffilm gyffrous i mi wylio heddiw?,recommendation_movies,7
+724,,Archebwch fi docyn tren i Fanceinion yn fuan.,transport_ticket,8
+725,,beth yw'r ffilm deuluol orau i mi wylio ar ôl cinio?,recommendation_movies,7
+726,,Oes gen i awgrym rhyw ffilm newydd sbon i mi wylio?,recommendation_movies,7
+727,,pot yn siopa tocyn tren i bristol ar gyfer yfory,transport_ticket,8
+728,,"Mae'n rhy uchel, gostwng y sŵn bach",audio_volume_down,1
+729,,Dileu'r apwyntiad olaf yn fy ngalendar,calendar_remove,2
+730,,mae gen i alarwm newydd i'w osod yn y stafell,alarm_query,0
+731,,"Tro'r uchder i lawr, mae hynny'n well gan fi",audio_volume_down,1
+732,,pa larymau sy'n dod i'r afael cynhadle,alarm_query,0
+733,,P'un ai ffilm rydyn ni angen wylio eleni?,recommendation_movies,7
+734,,Archebwch docyn tren i fi ar gyfer y bore 'ma i Birmingham,transport_ticket,8
+735,,Atebwch yr ebost gan Lisa yn uniongyrchol.,email_sendemail,5
+736,,"Beth yw'r amser yn Perth, Awstralia, pan foedd hi'n un ar ddeg o'r gloch yn Efrog?",datetime_convert,4
+737,,Gad i fi wybod am y ffilm newydd sbona' i mi wylio,recommendation_movies,7
+738,,Fedri di awgrymu comedi dda i mi?,recommendation_movies,7
+739,,Beth yw'r tymheredd yn Aberystwyth heddiw?,weather_query,9
+740,,Chwiorydderch i dileu'r holl ddigwyddiadau yn y calendr,calendar_remove,2
+741,,Dechreu chwarae seinlyfr hanes heddiw.,play_audiobook,6
+742,,Sut mae gwneud crème brûlée cynnwys llai o siwgwr?,cooking_recipe,3
+743,,Newidwch y rhanbarth amser o Rhanbarth Amser Gwyddelig i Rhanbarth Amser Awstralieg.,datetime_convert,4
+744,,Beth yw'r rysáit orau i wneud crempôl?,cooking_recipe,3
+745,,dechrau ailadrodd llyfr hanes,play_audiobook,6
+746,,Cliriwch y calendr rhag ofyn,calendar_remove,2
+747,,yn dod o hyd i'r larwm olaf y gwneudodd im yn y stafell?,alarm_query,0
+748,,"Rhaiadroch chi ishe yn dawelach, gostwng yr uchder i ddwy",audio_volume_down,1
+749,,Gad i fi awgrymu'r ffilm fwyaf diddafar i wylio heddiw.,recommendation_movies,7
+750,,prynai fe wybod pa larwm sy'n bodoli?,alarm_query,0
+751,,chwarae'r stori yn llefarnu yn ol,play_audiobook,6
+752,,Cynulleidfa lan gostwng yr uchder i ben,audio_volume_down,1
+753,,Rhowch glywed y llyfr hanes.,play_audiobook,6
+754,,Rhywbeth o'i leiaf gostwng yr uchder i hanner,audio_volume_down,1
+755,,chwarae'r llyfr am danedd fel petai,play_audiobook,6
+756,,Byddai'n well lleihau'r lleisiwr,audio_volume_down,1
+757,,Rwy'n chwilio am docyn drên rhad i Birmingham.,transport_ticket,8
+758,,prynai diweddaraf pan fyddai'r larwm yn mynd i ffwrdd?,alarm_query,0
+759,,Dewiswch ebost i'ch brawd yn rhannu'r stori ddirgel.,email_sendemail,5
+760,,Chwarae rhan olaf y llyfr yn gyflym.,play_audiobook,6
+761,,Rhagolygon y tywydd yn Nghymru'r wythnos nesaf.,weather_query,9
+762,,Hoffwn i archebu dwy docyn drên i Ammanford ar gyfer penwythnos nesa.,transport_ticket,8
+763,,"--
+dechreuodd chwarae'r llyfr sain wythnos olaf",play_audiobook,6
+764,,oSododd y larwm yn iawn yfory?,alarm_query,0
+765,,Fedri di awgrymu'r ffilm gyfrolgar mwyaf poblogaidd ar hyn o bryd?,recommendation_movies,7
+766,,Drafodwch ymateb i ebost Sioned ac anfonwch hi yn ôl.,email_sendemail,5
+767,,"Gwell gan beri'r uchder i lawr bach, na bod yn rhy swnllyd",audio_volume_down,1
+768,,Rhowch imi docyn tren i Llundain ganol dydd yn fuan.,transport_ticket,8
+769,,Prawf tocyn tren arnaf i Swindon ar gyfer y bore 'ma,transport_ticket,8
+770,,Ateb yr ebost wrth sian ac rhoi'r wybodaeth iddi.,email_sendemail,5
+771,,Troswch dwy fil tri chant a phedwar ugain o g.m.t. plu un cant tri deg i g.m.t. dau gant,datetime_convert,4
+772,,Chwarae seinlyfr 'The Hitchhiker's Guide to the Galaxy'.,play_audiobook,6
+773,,alliwch chi roi'r amser yn moscow os yw hi'n pymtheg munud wedi pump y nos yn barcelona,datetime_convert,4
+774,,oes gen i larwm yn yr iaith Gymraeg,alarm_query,0
+775,,Ble alla i ddod o hyd i'r rysait honno ar gyfer cacen fawl?,cooking_recipe,3
+776,,Dewiswch ebost i'ch brawd yn cyflwyno'r syniad newydd.,email_sendemail,5
+777,,"Roi'r achwyniad o ffilm anime, dwi'n medru bod eisiau iddi!",recommendation_movies,7
+778,,Angef i archebu tocyn awyr i Baris ar gyfer mis Ebrill.,transport_ticket,8
+779,,"Fedri di siarad yn dawelach, gostwng yr uchder i lawr os gweli di'n dda",audio_volume_down,1
+780,,"Tro'r uchder i lawr, mae'n rhy uwch",audio_volume_down,1
+781,,Olli beth yw'r ffilm orau ar Netflix ar hyn o bryd?,recommendation_movies,7
+782,,Rhowch hi'n gyflym wrth chwarae'r llyfr llafar hono.,play_audiobook,6
+783,,Sut mae'r tywydd yn nwylan heddiw?,weather_query,9
+784,,"Byddai'n well gostwng yr uchder bach, os gweli di'n dda",audio_volume_down,1
+785,,Beth yw'r tywydd yn Aberystwyth yn yr wythnos nesaf?,weather_query,9
+786,,Dileu'r cofnodion iawn yn y calendr,calendar_remove,2
+787,,agos ymlaen i chwarae'r llyfr awr,play_audiobook,6
+788,,"Gallai I gael tocyn tren i Lundain, plis?",transport_ticket,8
+789,,Atebir yr ebost gan Lowri yn rhannu'r stori newydd honno.,email_sendemail,5
+790,,Rwy'n chwilio am docyn tren i Swyddga i fynd at fy ffrind.,transport_ticket,8
+791,,Dileu'r digwyddiad olaf a'i recordio fel diddymiad,calendar_remove,2
+792,,Ydy hi'n debygol y byddai eira yn disgwyl yn y rhagolygon?,weather_query,9
+793,,Ebost i Eluned yn cofnodi'r apwyntiad newydd gyda hi.,email_sendemail,5
+794,,Anfonwch ebost i siân yn cynnwys y wybodaeth honno.,email_sendemail,5
+795,,Sut mae gwneud crempogau yn wych?,cooking_recipe,3
+796,,chwarae'r stori yn Gymraeg,play_audiobook,6
+797,,Oes modd i archebu tocyn bws i Bangor bore 'ma?,transport_ticket,8
+798,,Faint o amser sydd raid fi mi rosti wy?,cooking_recipe,3
+799,,Ateb yr ebost gan lesley yn uniongyrchol.,email_sendemail,5
+800,,"Fedri di siarad yn dawelach, lleihau uchder y seinydd",audio_volume_down,1
+801,,newidwch y rhanbarth amser o rhanbarth amser america i rhanbarth amser berlin,datetime_convert,4
+802,,oedd modur larwm yn gwneud swn,alarm_query,0
+803,,Cliciwch ar y linc i anfon ebost i'r tim pêl-droed.,email_sendemail,5
+804,,Sut mae gwneud cacen fawl Gymreig traddodiadol?,cooking_recipe,3
+805,,chwarae pennaeth y llyfr,play_audiobook,6
+806,,Ydw i'n gallu disgwyl gwlychu heddiw yn Nyfnaint?,weather_query,9
+807,,Dileu'r stôr o'ch apwyntiadau yn y calendr,calendar_remove,2
+808,,Chwarae'r casgliad o lyfrau audio sydd gen i yn fy ngwyliodd!,play_audiobook,6
+809,,Cliciwch ar 'danfon' i anfon ebost i Mark yn gofyn am y rhestr o waith.,email_sendemail,5
+810,,Clirio'r calendr iawn,calendar_remove,2
+811,,Atebwch yr ebost gan siân ac rhoi'r manylion pellach.,email_sendemail,5
+812,,pwy sy'n gofalu am yr holl larymau yn fy ngwaith?,alarm_query,0
+813,,Archebwch docyn tren i mi ar gyfer yfory i Llundain!,transport_ticket,8
+814,,Newidwch y rhanbarth amser o rhanbarth amser argentinaidd i rhanbarh amser cymru,datetime_convert,4
+815,,"Lleihau'r sŵn, mae'n rhy swnllyd",audio_volume_down,1
+816,,dw i eisiau cael gwybod faint o cost tocynau tren i aberystwyth,transport_ticket,8
+817,,Pam na wnewch chi ddewis rhywbeth fel 'The Shawshank Redemption'?,recommendation_movies,7
+818,,Oeddai ti'n gweld unrhyw ffilmiau da yn theatr yn ddiweddar?,recommendation_movies,7
+819,,A yw'n debygol y byddai eira yn y rhagolygon bore ma?,weather_query,9
+820,,Ga i docyn drên i Abertawe ar gyfer yfory?,transport_ticket,8
+821,,Olly pa ffilm sy'n dod allan yn fuan?,recommendation_movies,7
+822,,A wnelo'r tywydd yn well yn Rhydychen heddiw nag ebynny?,weather_query,9
+823,,Ydy hi'n debygol y byddai eira yn disgwyl heddiw?,weather_query,9
+824,,Canslo'r holl apwyntiadau yn y calendr,calendar_remove,2
+825,,"Mae'n rhy swnllyd, lleihau'r uchder o few pwynt",audio_volume_down,1
+826,,Dileu'r holl reuniwn yn y calendr,calendar_remove,2
+827,,Pa mor adeg sy'n rhaid i fi fierwi'r llysiau er mwyn iddynt fod yn tendr?,cooking_recipe,3
+828,,Agor audiobooks ac aildechrau'r stori olaf.,play_audiobook,6
+829,,sut mae modd gweld pob larwm rhyngddynt?,alarm_query,0
+830,,Mae angen tocyn awyr arnaf i Baris,transport_ticket,8
+831,,Gad i fi wybod am y ffilm siantifig orau sy'n chwarae nawr mewn cinemas,recommendation_movies,7
+832,,"Mae'n rhy swnllyd, gostwng yr uchder i hanner",audio_volume_down,1
+833,,chwarae seinlyfr y bardd benedict allen,play_audiobook,6
+834,,"Rhowch tocyn bws i fi i rydle i Aberystwyth, os gwelwch yn dda",transport_ticket,8
+835,,Mae gen i ryseitiau newydd iawn ac rwy'n chwilio am un i wneud cacennau crempog.,cooking_recipe,3
+836,,Cynnigwch ebost i megan yn cofnodi'r apwyntiad.,email_sendemail,5
+837,,Rhowch ein dechrau chwarae'r llyfr sain eto.,play_audiobook,6
+838,,Fedri di ddysgu am rywbeth newydd yn y genre anime?,recommendation_movies,7
+839,,Agor llyfr ac iddi hi yn chwarae yn awr.,play_audiobook,6
+840,,troswch y rhanbarth amser yma i california,datetime_convert,4
+841,,Gad i mi wybod am y ffilm antur mwya' poblogaidd sy'n chwarae yn awr!,recommendation_movies,7
+842,,Prynu tocyn bus i fi i Rydal yn hwyrach?,transport_ticket,8
+843,,dwi ishe gaed gwybod pryd yw'r larwm nesaf,alarm_query,0
+844,,"Rhoi'r ochr i lawr, mae'r sain yn rhy uchel!",audio_volume_down,1
+845,,Trosgiwch dwy fil tri chant a phedwar ugain o g.m.t. i w.a.s.t.,datetime_convert,4
+846,,Chwioryddu'r calendr ac dileu'r holl gofnodion,calendar_remove,2
+847,,Oes angen i fi gymryd umbrella i fynychu'r parc heddiw?,weather_query,9
+848,,Pa amser yw hi yn India os yw hi'n naw o'r gloch yn Aberystwyth?,datetime_convert,4
+849,,chwarae seinlyfr fawr gynt,play_audiobook,6
+850,,cliciwch i chwarae'r llyfr,play_audiobook,6
+851,,Beth yw'r modd orau i gadw'r llysiau yn ffres?,cooking_recipe,3
+852,,Danfon ebost at fwyn yn rhoi gwybod amdano'i benblwydd.,email_sendemail,5
+853,,"Rhoi'r uchder ar dawel, plis",audio_volume_down,1
+854,,ynghanol pwynt y dydd mae gen i larwm i'w osod,alarm_query,0
+855,,Chwarae ail bennod y llyfr lleisiol.,play_audiobook,6
+856,,Rhowch docyn tren i mi ar gyfer y noswaith 'ma i Llundain,transport_ticket,8
+857,,Gallwch chi archebu tocyn awyren i mi i Baris?,transport_ticket,8
+858,,Danfon ebost at Owen yn cofnodi dyddiad geni.,email_sendemail,5
+859,,Sut mae'r tywydd yn nwyr?,weather_query,9
+860,,Oes angen i fi gymryd umbrella i'r parc heddiw?,weather_query,9
+861,,gallwch chi dangoswch tocynnau tren i fi i rydlewis?,transport_ticket,8
+862,,Danfon ebost at emma yn son am y cynhadleodd,email_sendemail,5
+863,,Canslo'r cyfarfodydd i gyd heddiw,calendar_remove,2
+864,,Ga i weld pob tocyn awyr sy'n myned i Baris?,transport_ticket,8
+865,,A wyr y tywydd yn mynd i fod yn wlyb yn ystod y dyddiau Nesaf?,weather_query,9
+866,,"Os yw hi'n saith o'r gloch yn y nos yma, faint o'r gloch yw hi yn paris?",datetime_convert,4
+867,,Pa amser yw hi yn malaysia os yw hi'n un o'r gloch y prynhawn yma?,datetime_convert,4
+868,,Anfonwch ebost i siân yn cynnwys y wybodaeth olaf.,email_sendemail,5
+869,,newidwch y rhanbarth amser o berlin i rhanbarth amser paris,datetime_convert,4
+870,,eisiau prynu tocyn aufwn i casnewydd heddiw,transport_ticket,8
+871,,Gad i fi wybod am y ffilm fawr o'r flwyddyn nesaf.,recommendation_movies,7
+872,,Ga i weld pob tocyn bws sydd ar gael yn mynd i Abertawe?,transport_ticket,8
+873,,Dechrau chwarae'r llyfr yn fyw.,play_audiobook,6
+874,,Rhagolygon y tywydd yn fawr yn Nghymru heddiw?,weather_query,9
+875,,oeddai'n mynd i gofnodi'r larwm ar gyfer heno?,alarm_query,0
+876,,Cynnigwch ebost i Catrin yn rhoi'r neges o gydol.,email_sendemail,5
+877,,gwnewch i fi wybod pryd y byddai'r larwm nexr yn mynd i ffwrdd?,alarm_query,0
+878,,Rhowch fi'r manylion er mwyn archebu tocyn drên i Llundain.,transport_ticket,8
+879,,newidwch y rhanbarth amser o los angeles i rhanbarth amser chicago,datetime_convert,4
+880,,Angen dwi archebu tocyn drên i Abertawe cyn hir.,transport_ticket,8
+881,,Chwiliwch am ddocynnau drên arnaf i Gaernarfon ar gyfer y penwythnos nesaf,transport_ticket,8
+882,,allai fi wybod faint o'r gloch fydd hi am dri o'r gloch y prynhawn yn dubai,datetime_convert,4
+883,,"Prawf tocyn bus i Bangor, os gwelwch yn dda.",transport_ticket,8
+884,,Gad i fi wybod pryd y byddai'r larwm nesaf yn mynd i ffwrdd!,alarm_query,0
+885,,P'un ai dyn wedi bod yn edrych amdano ffilm newydd?,recommendation_movies,7
+886,,Rhowch ein dechrau chwarae'r llyfr llafar eto!,play_audiobook,6
+887,,A ydych chi'n medru dweud sut mae'r tywydd yn Rhydychen heddiw?,weather_query,9
+888,,"Mae'n rhy uchel, gostynga'r sŵn os gweli di'n dda",audio_volume_down,1
+889,,Ebost i eleri sy'n esbonio'r sefyllfa bresennol.,email_sendemail,5
+890,,Pa fodd y gallwn i newidu'r amser o GMT i CST?,datetime_convert,4
+891,,Olly bai ffilm ryfelgar fyddai'n well gan ti?,recommendation_movies,7
+892,,Chwiliwch am docyn bus i fi rhwng Bangor ac Aberystwyth.,transport_ticket,8
+893,,Yr oedd hi'n bwriadu danfon ebost ato'i hathrawes i ofyn am help.,email_sendemail,5
+894,,Beth fydd y tywydd yn aberystwyth yn yr wythnos i ddod?,weather_query,9
+895,,Awgrymwn i chi ffilm ryfelgar newydd sbon!,recommendation_movies,7
+896,,chwarae llyfr sain amser yn ôl,play_audiobook,6
+897,,agor ein llyfr lleferydd,play_audiobook,6
+898,,Canslo'r apwyntiad yn y calendr am y prydnawn,calendar_remove,2
+899,,Clirio'r calendr olynol,calendar_remove,2
+900,,Cliriwch y calendr i miwtianeu'r apwyntiadau angenrhaid.,calendar_remove,2
+901,,Oes angen i fi cario umbrela heddiw?,weather_query,9
+902,,yn dweud wrthym ni bod yn rhaid osgodi'r larwm erbyn hyn,alarm_query,0
+903,,Agor llyfr sain ac iddi fynd i'r pennod nesaf.,play_audiobook,6
+904,,Olly beth yw'r ffilm wella' yn lwcus,recommendation_movies,7
+905,,"Cyn lleied ag sydyn, gostwng yr uchder i hanner",audio_volume_down,1
+906,,Dileu'r holl ddigwyddiadau rhagolygon yn y calendr.,calendar_remove,2
+907,,Cliciwch ar y linc i anfon ebost i'r tîm ynghylch y prosiect.,email_sendemail,5
+908,,"Rhai o'r amser, lleihau'r uchder yn arbed """,audio_volume_down,1
+909,,Ebost i gwen yn rhoi'r wybodaeth o'i chyferiad newydd.,email_sendemail,5
+910,,Dileu'r cofnodau yn y calendr am y dyddiau nesaf,calendar_remove,2
+911,,Dileu'r apwyntiad diwetha yn y calendr,calendar_remove,2
+912,,"yn dod i adael, gadewch i mi wybod amser y larwm.",alarm_query,0
+913,,Agor audiobooks a pharlareu i chwarae'r stori,play_audiobook,6
+914,,A wyr y tywydd yn wella'i fod yn sychloni?,weather_query,9
+915,,Newidwch y rhanbarth amser o berlin i london.,datetime_convert,4
+916,,Pa rhanbarth amser ydyn ni ynddi os gwelwch yn dda newidwch i los angeles,datetime_convert,4
+917,,chwarae seinlyfr newydd,play_audiobook,6
+918,,Faint o amser sydd angen i fisgedi'r pys?,cooking_recipe,3
+919,,"--
+parhad i chwarae'r llyfr",play_audiobook,6
+920,,Angen ti archebu dwy docyn drên i Birmingham bore ma.,transport_ticket,8
+921,,Anfonwch ebost i'ch ffrind yn gyntaf.,email_sendemail,5
+922,,Ailddechrau chwarae'r stori a wnai mor hoffi.,play_audiobook,6
+923,,Beth am yr amser yn Tokyo os yw hi'n saith o'r gloch y prynhawn yn California?,datetime_convert,4
+924,,os yw hi'n naw o'r gloch y nos yn dubai faint o'r gloch yw hi yn cairo,datetime_convert,4
+925,,sut mae mod i ddweud wrth y larwm i ddiffodd?,alarm_query,0
+926,,Pwy sy'n gallu rhoi cynnig ar ffilm animeiddi ganol?,recommendation_movies,7
+927,,"Mae'n rhy uchel, gostwngwch o",audio_volume_down,1
+928,,dylai i archebu tocyn tren i londinium yfory,transport_ticket,8
+929,,Gad i mi roi cynigion ffilm arbenigol iddoch!,recommendation_movies,7
+930,,Gallai I archebu tocyn drên i Casnewydd arlein?,transport_ticket,8
+931,,"Rhy swnllyd, gostwng yr uchder i hanner",audio_volume_down,1
+932,,A wyr fodau ni'n cael eira yn ystod y wythnos nesaf?,weather_query,9
+933,,"Tro'r uchder i lawr, mae hynny'n well",audio_volume_down,1
+934,,Anfonwch ebost i Catrin yn sôn am y cynhadleodd nesaf.,email_sendemail,5
+935,,Hoffwn i dalu am docyn tren i Caerfaddon ar gyfer y penwythnos.,transport_ticket,8
+936,,Faint o amser sydd raid fi mi rosti'r patatennau 'ma?,cooking_recipe,3
+937,,Troswch dwy fil tri chant a phedwar deg o g. m. t. plws pum cant tri deg i g. m. t. un gant.,datetime_convert,4
+938,,sut mae modd gwneud iawn agor y larwm?,alarm_query,0
+939,,"llyfrwch y larymau i mi, os gwelwch yn dda.",alarm_query,0
+940,,Ebost i Emily yn gofyn sut mae hi wedi bod ers talwm.,email_sendemail,5
+941,,fy larymau i'm yn gofyn amdano,alarm_query,0
+942,,Beth yw'r rysáit ar gyfer crempogau mwya?,cooking_recipe,3
+943,,angen af i archebu tocyn tren i caerphilly heddiw,transport_ticket,8
+944,,"Rhy swnllyd, gostwng yr uchder",audio_volume_down,1
+945,,"Ti'n siwr o le i wylio ffilm yn fud, on'd ti?",recommendation_movies,7
+946,,Pam na allwn ni ddefnyddio llaeth yn lle crem panedd?,cooking_recipe,3
+947,,Ebost i gwen yn holi a oes unrhyw waith newydd ar ôl.,email_sendemail,5
+948,,Dileu popeth yn y calendr ac adnewych chi'n llawn,calendar_remove,2
+949,,Faint o'r gloch yw hi yn moscow os yw hi'n saith o'r gloch y nos yma yn wcráin,datetime_convert,4
+950,,Dileu popeth yn y calendr yn rhad ac yn sydyn,calendar_remove,2
+951,,Danfon ebost at fy ffrind yn son am y parti penwythnos nesaf.,email_sendemail,5
+952,,sylwi ar y ffaith bod hi'n wyth o'r gloch y fore yn singapore faint o'r gloch yw hi yn barcelona,datetime_convert,4
+953,,Fedri di glywed am y ffilm olaf i wylio yn y cinemas?,recommendation_movies,7
+954,,Canslo'r apwyntiad teuluol ar gyfer y penwythnos,calendar_remove,2
+955,,Alla i wybod faint o'r gloch fydd hi am dri o'r gloch y bore yma yn dubai,datetime_convert,4
+956,,llyfrwch fy ngwybodaeth am y larymau!,alarm_query,0
+957,,Cliciwch 'send' i danfon ebost i'th rheolwr,email_sendemail,5
+958,,yw fy larwm siop wedi ei osod ar gyfer heno?,alarm_query,0
+959,,Rhy fal gan arwain y sŵn i lawr,audio_volume_down,1
+960,,allwch chi roi'r amser yn dubai os yw hi'n naw o'r gloch y nos yn llundain,datetime_convert,4
+961,,"Chwiorydd, awgrymwch ffilm ramantus i mi!",recommendation_movies,7
+962,,Rhagolygon y tywydd yn Nghymru yn ystod y pythefnos nesaf.,weather_query,9
+963,,Gostwng yr uchder i ddim ond deg gradd,audio_volume_down,1
+964,,Newidiwch y rhanbarth amser o california i rhanbarth amser llundain.,datetime_convert,4
+965,,Beth yw'r rysáit orau ar gyfer cacennau crempog?,cooking_recipe,3
+966,,Anfonwch ebost i sian yn gofyn am y diweddariadau,email_sendemail,5

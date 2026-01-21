@@ -1,0 +1,397 @@
+,Unnamed: 0,text,intent,label
+0,0.0,A delightful romantic comedy that balances humor and sentimentality perfectly.,positive,1
+1,1.0,"The special effects are breathtaking, immersing viewers in a fantastical realm.",positive,1
+2,2.0,The soundtrack alone makes this movie worth watching – its catchy and memorable!,positive,1
+3,3.0,"The characters leap off the page, feeling fully fleshed out and real.",positive,1
+4,4.0,"The music swells at just the right moments, heightening emotional impact.",positive,1
+5,5.0,"Unapologetically sentimental, yet somehow it works, leaving viewers misty-eyed and hopeful.",positive,1
+6,6.0,"The lead actor delivers a tour-de-force performance, showcasing his impressive range.",positive,1
+7,7.0,Emotionally charged climax packs a powerful punch.,positive,1
+8,8.0,"A poignant exploration of love, loss, and redemption set against a stunning backdrop.",positive,1
+9,9.0,Cinematographer extraordinaire – each composition a work of art unto itself.,positive,1
+10,10.0,Whimsical humor injects life into what couldve been a dull plot.,positive,1
+11,11.0,"The pacing is expertly managed, building tension towards a satisfying climax.",positive,1
+12,12.0,"Visually stunning, with each frame meticulously crafted to perfection.",positive,1
+13,13.0,A tender coming-of-age story that celebrates individuality and self-expression.,positive,1
+14,14.0,Directorial mastery at work here – every shot is deliberate and impactful.,positive,1
+15,15.0,"The special effects are seamless, transporting you to another world.",positive,1
+16,16.0,"The dialogue crackles with energy, making each conversation feel authentic and relatable.",positive,1
+17,17.0,"Visually stunning and emotionally resonant, this film is a true work of art.",positive,1
+18,18.0,An uplifting tale of perseverance and determination that left me feeling inspired.,positive,1
+19,19.0,"This film is a masterclass in storytelling, with every scene meticulously crafted.",positive,1
+20,20.0,Melodic scoring perfectly complements the mood and atmosphere of each scene.,positive,1
+21,21.0,This films unique blend of humor and heart makes it a must-see.,positive,1
+22,22.0,"The chemistry between the leads is undeniable, making their romance a delight to behold.",positive,1
+23,23.0,This feel-good film reminds us of the importance of community and friendship.,positive,1
+24,24.0,"A true masterpiece, weaving together multiple narratives into a cohesive, thought-provoking whole.",positive,1
+25,25.0,"Humor so dry its like a fine wine, getting better with age.",positive,1
+26,26.0,A visually striking film that uses color and light to evoke emotion.,positive,1
+27,27.0,"This film is a masterclass in storytelling, weaving together multiple plot threads seamlessly.",positive,1
+28,28.0,"No stone left unturned in this meticulous adaptation, staying faithful to the source material.",positive,1
+29,29.0,A mesmerizing mystery that keeps you guessing until the very end.,positive,1
+30,30.0,This cinematic masterpiece will transport you to another world.,positive,1
+31,31.0,"A tender portrayal of family dynamics, highlighting the complexities of relationships.",positive,1
+32,32.0,"A vibrant celebration of cultural heritage, full of color and vitality.",positive,1
+33,33.0,Authentic portrayal of real-life struggles feels refreshingly honest.,positive,1
+34,34.0,Well-crafted action sequences deliver non-stop thrills.,positive,1
+35,35.0,Gripping mystery unfolds at a tantalizing slow burn pace.,positive,1
+36,36.0,A poignant exploration of friendship and loyalty that tugs at the heartstrings.,positive,1
+37,37.0,Every aspect of this production comes together to create something truly extraordinary.,positive,1
+38,38.0,Expertly woven subplots add layers to the main storyline.,positive,1
+39,39.0,A beautifully crafted tale that will leave you feeling uplifted.,positive,1
+40,40.0,Uplifting message about perseverance leaves audiences inspired.,positive,1
+41,41.0,"The chemistry between leads is undeniable, making their romance all the more believable.",positive,1
+42,42.0,"Emotionally resonant, this coming-of-age tale lingers long after the credits roll.",positive,1
+43,43.0,"The directors vision is bold and innovative, pushing boundaries in storytelling.",positive,1
+44,44.0,Phenomenal chemistry between leads makes their romance believable.,positive,1
+45,45.0,The voice acting brings these beloved characters to life in a way that feels fresh and exciting.,positive,1
+46,46.0,A beautifully crafted tale of love and redemption that will leave you smiling.,positive,1
+47,47.0,"Smart, sassy, and subversive, this teen comedy reinvigorates the genre.",positive,1
+48,48.0,Outstanding direction brings out the best in every cast member.,positive,1
+49,49.0,A thought-provoking drama that challenges your perspectives without being preachy.,positive,1
+50,50.0,Refreshingly original take on a familiar genre trope.,positive,1
+51,51.0,"Visually stunning, this sci-fi epic transports viewers to another world effortlessly.",positive,1
+52,52.0,A whimsical fantasy that sparks the imagination and inspires creativity.,positive,1
+53,53.0,A whimsical fantasy that whisks viewers away to enchanted realms.,positive,1
+54,54.0,A clever satire that lampoons societal norms without becoming too heavy-handed.,positive,1
+55,55.0,Every scene is expertly woven together to create a truly unforgettable viewing experience.,positive,1
+56,56.0,Effervescent charm permeates every moment of this delightful romantic comedy.,positive,1
+57,57.0,Heartfelt coming-of-age story tackles tough issues sensitively.,positive,1
+58,58.0,"The central theme resonates deeply, leaving audiences reflecting long after credits roll.",positive,1
+59,59.0,"The cinematography is breathtaking, capturing the beauty of the natural world.",positive,1
+60,60.0,Innovative filmmaking techniques push boundaries effectively.,positive,1
+61,61.0,Performances so authentic theyll make you forget these are actors playing roles.,positive,1
+62,62.0,"A masterclass performance from the lead actor, bringing depth to the character.",positive,1
+63,63.0,Its hard not to get swept up in the infectious energy of this feel-good musical.,positive,1
+64,64.0,"Unapologetically sentimental, yet somehow it works wonders here.",positive,1
+65,65.0,Standout voice acting breathes life into lovable animated characters.,positive,1
+66,66.0,An inspiring true story about overcoming adversity against all odds.,positive,1
+67,67.0,"The cinematography is gorgeous, capturing the beauty of the Italian countryside.",positive,1
+68,68.0,"Every scene crackles with energy, thanks to the talented ensemble cast.",positive,1
+69,69.0,"This biographical drama humanizes its subject, revealing vulnerabilities beneath the surface.",positive,1
+70,70.0,"A rousing adventure that combines action, suspense, and wit.",positive,1
+71,71.0,"An acting tour-de-force, with each performer delivering nuanced, memorable turns.",positive,1
+72,72.0,Exceptional storytelling weaves together complex themes seamlessly.,positive,1
+73,73.0,"The themes of hope and resilience resonate deeply, leaving a lasting impact.",positive,1
+74,74.0,"The music is catchy and memorable, adding to the overall sense of wonder.",positive,1
+75,75.0,Delightfully quirky supporting actors steal every scene theyre in.,positive,1
+76,76.0,Flawless sound design immerses viewers in the world created.,positive,1
+77,77.0,"The chemistry between the leads is undeniable, making their romance all the more believable.",positive,1
+78,78.0,Memorable quotes peppered throughout the screenplay.,positive,1
+79,79.0,This film will leave you smiling long after the credits roll.,positive,1
+80,80.0,Inspired soundtrack complements the mood of each scene flawlessly.,positive,1
+81,81.0,A powerful drama that tackles tough issues with sensitivity and grace.,positive,1
+82,82.0,"The pacing is perfect, balancing action and introspection with ease.",positive,1
+83,83.0,A sweet and sentimental journey that explores the human condition with wit and charm.,positive,1
+84,84.0,"A cinematic treasure trove, overflowing with clever references and nods to classic films.",positive,1
+85,85.0,"Every frame bursts with vibrant color and life, immersing viewers in the world of the film.",positive,1
+86,86.0,Chilling atmosphere expertly crafted through clever camera work.,positive,1
+87,87.0,"The entire cast shines, making every moment a joy to watch.",positive,1
+88,88.0,A heartwarming tale of love and redemption that resonates deeply.,positive,1
+89,89.0,A laugh-out-loud comedy that had me giggling from start to finish.,positive,1
+90,90.0,"A symphony of emotions, expertly conducted by the directors steady hand.",positive,1
+91,91.0,Brilliant casting choices elevate the entire production.,positive,1
+92,92.0,"With its witty dialogue and charming performances, this rom-com will leave you smiling.",positive,1
+93,93.0,"With its witty dialogue and charming performances, this rom-com shines bright.",positive,1
+94,94.0,"The performances are top-notch, bringing depth and nuance to each character.",positive,1
+95,95.0,"The supporting actors steal scenes left and right, adding depth to the narrative.",positive,1
+96,96.0,"With its stunning visuals and engaging storyline, this movie is pure magic.",positive,1
+97,97.0,An unforgettable cinematic experience that lingers in your mind.,positive,1
+98,98.0,"Heartwarming without being saccharine, this family drama strikes just the right tone.",positive,1
+99,99.0,"Superbly paced, this thriller keeps audiences on the edge of their seats until the very end.",positive,1
+100,100.0,Save yourself the agony and watch paint dry instead.,negative,0
+101,101.0,"Uninspired, clichéd, and emotionally vacant.",negative,0
+102,102.0,"Overhyped and undercooked, this film falls flat in every way.",negative,0
+103,103.0,More like a bad parody than an actual attempt at comedy.,negative,0
+104,104.0,"No amount of special effects can save this soulless, empty shell of a film.",negative,0
+105,105.0,Underwhelming experience that fails to deliver on its promises.,negative,0
+106,106.0,No amount of special effects can salvage this trainwreck.,negative,0
+107,107.0,"If this is the best they could come up with, maybe they should quit.",negative,0
+108,108.0,Dont bother wasting your time or money on this trainwreck.,negative,0
+109,109.0,Can someone please explain why this got greenlit?,negative,0
+110,110.0,Not even the most die-hard fans will find anything redeeming here.,negative,0
+111,111.0,"A shallow, soulless exercise in style over substance.",negative,0
+112,112.0,"So boring, so predictable, so utterly forgettable.",negative,0
+113,113.0,"The most boring, unoriginal, and uninspired film Ive seen all year.",negative,0
+114,114.0,More like a lazy cash-grab than an actual attempt at art.,negative,0
+115,115.0,Overhyped nonsense that falls flat at every turn.,negative,0
+116,116.0,Any positive reviews must be paid shills – theres no other explanation.,negative,0
+117,117.0,Garbage masquerading as art – dont fall for it.,negative,0
+118,118.0,They mustve forgotten how to tell a coherent story along the way.,negative,0
+119,119.0,"A complete waste of time, money, and talent - avoid at all costs.",negative,0
+120,120.0,Where did they find such untalented people to cast?,negative,0
+121,121.0,"Too long, too slow, and too pretentious - yawn.",negative,0
+122,122.0,This films incompetence is only matched by its arrogance.,negative,0
+123,123.0,Fails on almost every conceivable level – impressive!,negative,0
+124,124.0,Every scene feels like an eternity trapped in a nightmare.,negative,0
+125,125.0,No amount of special effects can save this trainwreck.,negative,0
+126,126.0,Embarrassingly bad acting ruins what little potential there was.,negative,0
+127,127.0,When did Hollywood stop trying altogether?,negative,0
+128,128.0,How many ways can one film disappoint? Let me count...,negative,0
+129,129.0,Its hard to imagine anyone enjoying this soulless exercise in futility.,negative,0
+130,130.0,Not even the most die-hard fans will find anything to appreciate here.,negative,0
+131,131.0,An insult to the very concept of storytelling.,negative,0
+132,132.0,Fails to engage on even the most basic level.,negative,0
+133,133.0,"An insult to the very concept of storytelling, let alone good taste.",negative,0
+134,134.0,Only recommended if you hate yourself or others.,negative,0
+135,135.0,Only worth watching if you enjoy torturing yourself with awful movies.,negative,0
+136,136.0,Insultingly bad writing makes me question humanity.,negative,0
+137,137.0,"Youll leave feeling disappointed, frustrated, and ripped off.",negative,0
+138,138.0,How could so many talented individuals come together to create something so heinous?,negative,0
+139,139.0,Theres nothing remotely enjoyable about this catastrophe.,negative,0
+140,140.0,Why would anyone subject themselves to this torture voluntarily?,negative,0
+141,141.0,Avoid this catastrophe unless you hate yourself.,negative,0
+142,142.0,"Youll leave feeling disappointed, frustrated, and annoyed.",negative,0
+143,143.0,Its hard to believe anyone thought this was a good idea.,negative,0
+144,144.0,Cringe-worthy moments abound in this disaster.,negative,0
+145,145.0,One of the worst films Ive had the misfortune of seeing.,negative,0
+146,146.0,"Clichés abound in this lazy, uninspired effort.",negative,0
+147,147.0,Every minute feels like an eternity trapped in boredom hell.,negative,0
+148,148.0,More like a cruel joke than an actual film.,negative,0
+149,149.0,Too much repetition and not nearly enough redemption.,negative,0
+150,150.0,"One long, painful slog through clichés and mediocrity.",negative,0
+151,151.0,What couldve been a compelling drama turns into a mess of clichés and melodrama.,negative,0
+152,152.0,Any semblance of originality is suffocated under tired tropes.,negative,0
+153,153.0,Who thought this was a good idea? Anyone?,negative,0
+154,154.0,Underwhelming experience that fails to deliver on every level.,negative,0
+155,155.0,Incoherent plotting and laughable dialogue sink this ship fast.,negative,0
+156,156.0,Who thought this would be a good idea? Anyone?,negative,0
+157,157.0,Amateur hour direction and performances make this a chore to watch.,negative,0
+158,158.0,Amateur hour direction makes this mess unbearable.,negative,0
+159,159.0,"So boring, Id rather watch paint dry.",negative,0
+160,160.0,Its hard to believe something so poorly made could get released.,negative,0
+161,161.0,"Incoherent plot, terrible dialogue, and atrocious acting – the trifecta!",negative,0
+162,162.0,Can someone explain why this got made? And who greenlit it?,negative,0
+163,163.0,When did laziness become an acceptable substitute for effort?,negative,0
+164,164.0,Every scene feels like an eternity trapped in a bad dream.,negative,0
+165,165.0,"Laughably bad, except its just sad how terrible it is.",negative,0
+166,166.0,"Nothing about this film works, from start to finish.",negative,0
+167,167.0,"Crass, cynical, and creatively bankrupt - ugh.",negative,0
+168,168.0,Insulting to anyone whos ever tried to tell a good story.,negative,0
+169,169.0,Mind-numbingly stupid and devoid of any real substance.,negative,0
+170,170.0,"Just another mind-numbing, formulaic rehash of better movies.",negative,0
+171,171.0,"Wheres the passion? The creativity? Oh right, nowhere.",negative,0
+172,172.0,"If this is what passes for entertainment these days, were in trouble.",negative,0
+173,173.0,One of the most disappointing films Ive seen in years - what a letdown!,negative,0
+174,174.0,"Disappointing, unoriginal, and utterly forgettable.",negative,0
+175,175.0,What a total disaster – dont bother wasting your time.,negative,0
+176,176.0,Unwatchable dreck that offends both the eyes and ears.,negative,0
+177,177.0,Incoherent plot and cringe-worthy dialogue make this a chore.,negative,0
+178,178.0,"So poorly made, its almost impressive how awful it is.",negative,0
+179,179.0,A mess of a film with no redeeming qualities whatsoever.,negative,0
+180,180.0,Dont let the flashy trailer fool you – this is garbage.,negative,0
+181,181.0,They must have forgotten what makes a movie enjoyable.,negative,0
+182,182.0,This movies incompetence is only matched by its arrogance.,negative,0
+183,183.0,Unwatchable due to poor production values and terrible acting.,negative,0
+184,184.0,Even the trailer looked better than this monstrosity.,negative,0
+185,185.0,What was the point of making this? To torture audiences?,negative,0
+186,186.0,Dont bother; your brain cells will thank you.,negative,0
+187,187.0,"If this is the best they could come up with, maybe its time to retire.",negative,0
+188,188.0,Overhyped nonsense with no substance whatsoever.,negative,0
+189,189.0,"The acting is atrocious, the plot is nonsensical, and the dialogue is cringe-worthy.",negative,0
+190,190.0,"Wastes the talents of everyone involved, including the viewer.",negative,0
+191,191.0,Feels like being stuck in an elevator with a broken speaker playing nails-on-chalkboard sounds.,negative,0
+192,192.0,Even the usually reliable cast cant elevate this drivel.,negative,0
+193,193.0,How did such talented people get roped into making something so terrible?,negative,0
+194,194.0,Amateur hour direction and acting make this a total waste of time.,negative,0
+195,195.0,Even the usually reliable cast members cant elevate this dreck.,negative,0
+0,,This uninspired remake lacks the charm and wit of its predecessor.,negative,0
+1,,"From the opening scene to the final shot, this film is a masterclass in storytelling and cinematic excellence.",positive,1
+2,,"The chemistry between the leads is undeniable, making their romance a joy to watch.",positive,1
+3,,"With its shallow characters and weak storyline, this movie was a complete waste of time.",negative,0
+4,,"This talented cast brings so much energy and enthusiasm to every scene, it's impossible not to get caught up in the excitement.",positive,1
+5,,"This talented newcomer brings a fresh perspective to the genre, resulting in a truly unforgettable experience.",positive,1
+6,,I couldn't help but feel uplifted and inspired by this incredible true story.,positive,1
+7,,This soulless remake lacked the heart and charm that made the original so beloved.,negative,0
+8,,"Wonderfully acted and beautifully shot, this film is a true work of art.",positive,1
+9,,This heartwarming story is sure to bring a smile to your face and warmth to your heart.,positive,1
+10,,This movie's convoluted plot makes it feel like an exhausting slog.,negative,0
+11,,"With its boundless energy and infectious enthusiasm, this festival promises to be an unforgettable adventure.",positive,1
+12,,A truly unforgettable cinematic experience that will leave you smiling long after the credits roll.,positive,1
+13,,"Despite its intriguing concept, the execution falls flat due to poor writing and a general air of laziness.",negative,0
+14,,"This talented cast brings so much energy and enthusiasm to every scene, making this a truly unmissable performance.",positive,1
+15,,"From start to finish, this film is a wild ride full of action, suspense, and plenty of laughs along the way.",positive,1
+16,,"The acting is stilted, the dialogue forced, and the plot predictable.",negative,0
+17,,"This talented cast brings so much energy and enthusiasm to every scene, making this film a pure joy to watch.",positive,1
+18,,"With its cringe-worthy dialogue and wooden performances, this rom-com is an embarrassment to the genre.",negative,0
+19,,An uplifting and inspiring story that will leave you feeling hopeful and energized.,positive,1
+20,,"With its cringe-worthy dialogue and unconvincing performances, this drama fails to leave any lasting impact.",negative,0
+21,,"This talented cast brings so much energy and enthusiasm to every scene, making it impossible not to enjoy.",positive,1
+22,,The clumsy plot twists and shallow characters make this thriller a complete waste of time.,negative,0
+23,,"Brilliantly acted and expertly directed, this thriller keeps you on the edge of your seat.",positive,1
+24,,"This overhyped drama fails to deliver on its promising premise, instead opting for shallow character development and predictable plot twists.",negative,0
+25,,The perfect blend of humor and heart makes this coming-of-age story a joyous ride.,positive,1
+26,,"With its stunning visuals and captivating storyline, this movie is a must-see for anyone looking for a truly enjoyable experience.",positive,1
+27,,"Underwhelming experience from start to finish, with too much repetition and not enough substance.",negative,0
+28,,"The dialogue is cringe-worthy, and the jokes fall flat more often than not.",negative,0
+29,,A truly unforgettable experience that will stay with you forever.,positive,1
+30,,"This talented cast brings depth and nuance to their characters, making for a truly unforgettable viewing experience.",positive,1
+31,,I'm still reeling from the sheer genius of this production – a true masterpiece!,positive,1
+32,,"The pacing is sluggish, the jokes fall flat, and the whole experience leaves you feeling disappointed and unentertained.",negative,0
+33,,A delightful romp filled with clever writing and outstanding performances.,positive,1
+34,,"Underneath its glossy veneer lies a vacuous, emotionally hollow romantic comedy that forgets to bring the laughs.",negative,0
+35,,"A refreshing take on a classic genre, full of wit, charm, and plenty of surprises along the way.",positive,1
+36,,An inspiring true story that will lift your spirits and warm your heart.,positive,1
+37,,A cinematic treat that will transport you to another world and leave you feeling energized and enthusiastic.,positive,1
+38,,"With its weak script and poor character development, this film falls flat.",negative,0
+39,,The poorly executed plot twists made me roll my eyes more times than I can count.,negative,0
+40,,The perfect blend of humor and emotion makes this a standout achievement in modern cinema.,positive,1
+41,,"With its witty dialogue and outstanding performances, this play is a true masterpiece.",positive,1
+42,,"From start to finish, this album is a masterclass in musicianship and creativity.",positive,1
+43,,What could've been an interesting concept is instead wasted on poor execution.,negative,0
+44,,Underwhelming experience that left me feeling disappointed and unentertained.,negative,0
+45,,"The perfect blend of humor and heart, this romantic comedy had me laughing and crying in equal measure.",positive,1
+46,,"The plot is convoluted and messy, making it hard to care about what's happening on screen.",negative,0
+47,,"Underwhelming experience from start to finish, with nary a redeeming quality.",negative,0
+48,,"This lackluster sequel fails to live up to its predecessor's standards, offering a bland and uninspired experience.",negative,0
+49,,"A wildly entertaining ride that will have you laughing, crying, and cheering from start to finish.",positive,1
+50,,"Thanks to outstanding performances and clever writing, this charming comedy is a breath of fresh air that will brighten up even the gloomiest of days.",positive,1
+51,,"With its stunning visuals and engaging storyline, this movie is a must-see for anyone looking for a good time.",positive,1
+52,,What could've been an engaging thriller turns into a snooze-fest due to poor pacing.,negative,0
+53,,"A refreshing take on a classic genre, full of clever twists and turns that will keep you guessing until the end.",positive,1
+54,,What could've been an interesting concept is instead bogged down by poor execution and weak storytelling.,negative,0
+55,,This lackluster sequel fails to recapture the magic of its predecessor.,negative,0
+56,,"A stunning achievement in storytelling, with characters that will capture your heart and imagination.",positive,1
+57,,"Visually stunning and emotionally resonant, this movie is a must-see experience.",positive,1
+58,,"Despite its promising start, the film quickly devolves into a mess of clichés and tired tropes.",negative,0
+59,,"With its witty dialogue and outstanding performances, this play is a must-see event.",positive,1
+60,,A wonderfully acted and directed film that explores complex themes with ease.,positive,1
+61,,"With outstanding performances and stunning visuals, this film is an absolute masterpiece.",positive,1
+62,,"Delightfully charming and heartwarming, this film is a must-see for anyone looking for a pick-me-up.",positive,1
+63,,Painfully unfunny attempts at humor fall flat amidst a sea of clichés.,negative,0
+64,,A beautifully crafted tale of love and redemption that will touch your heart.,positive,1
+65,,This overhyped disaster is an insult to the very concept of storytelling.,negative,0
+66,,"With its uplifting message and stunning visuals, this documentary is a true masterpiece.",positive,1
+67,,"The acting is stilted, the plot is predictable, and the dialogue is cringe-worthy.",negative,0
+68,,A truly unforgettable adventure that will inspire and uplift audiences of all ages.,positive,1
+69,,"The entire experience feels like a slog, with too much repetitive gameplay and not enough innovation.",negative,0
+70,,"The dialogue is stilted, the plot predictable, and the characters forgettable.",negative,0
+71,,A cinematic treasure that shines bright with its outstanding performances and thoughtful direction.,positive,1
+72,,"This overhyped drama is a total snooze-fest, with cringe-worthy dialogue and underdeveloped characters.",negative,0
+73,,"With its shallow characters and contrived conflict, this drama falls flat almost immediately.",negative,0
+74,,"With its predictable storyline and shallow characters, this film is a complete waste of time.",negative,0
+75,,What could have been an interesting exploration of themes devolves into a cliched and predictable snooze-fest.,negative,0
+76,,"Underwhelming experience overall, with too much repetition and not enough substance.",negative,0
+77,,The entire cast shines in this heartwarming and hilarious romp that will keep you smiling long after the credits roll.,positive,1
+78,,A beautifully crafted film that will leave you feeling uplifted and inspired.,positive,1
+79,,"With its witty dialogue and outstanding performances, this movie is a must-see for anyone looking for a good time.",positive,1
+80,,"What could've been an insightful exploration of social commentary devolves into a heavy-handed, preachy mess.",negative,0
+81,,"The dialogue is cringe-worthy, the plot is predictable, and the acting is subpar.",negative,0
+82,,"Despite its promising trailer, the actual movie turns out to be a shallow and unoriginal retread of familiar themes.",negative,0
+83,,"With a convoluted plot and underdeveloped characters, this sci-fi thriller falls flat.",negative,0
+84,,The clumsy dialogue and wooden performances make this rom-com a total snooze-fest.,negative,0
+85,,Underwhelming experience with too much repetition and not enough substance.,negative,0
+86,,What could've been a thought-provoking drama ends up being a meandering mess of clichés and overused tropes.,negative,0
+87,,"The cinematography is breathtakingly beautiful, making every scene a visual masterpiece.",positive,1
+88,,"With its lackluster performances and uninspired direction, this drama falls flat.",negative,0
+89,,"A triumphant success, with every element coming together to create something truly special.",positive,1
+90,,"The entire cast shines in this uplifting adaptation, bringing joy and laughter to audiences everywhere.",positive,1
+91,,"From start to finish, this cinematic treasure is a pure joyride of excitement and wonder.",positive,1
+92,,A truly inspiring story that showcases the power of human spirit and determination.,positive,1
+93,,"A bloated, self-indulgent exercise in ego-stroking, devoid of substance.",negative,0
+94,,"Despite its promising premise, the movie's poor execution makes it a snooze fest from start to finish.",negative,0
+95,,"This talented director has once again proven themselves to be a master of their craft, delivering a film that is both poignant and uplifting.",positive,1
+96,,"With its clichéd dialogue and predictable storyline, this rom-com feels like a lazy attempt at entertainment.",negative,0
+97,,"The film's attempts at humor fall flat, making it a tedious watch.",negative,0
+98,,"What could've been a compelling thriller is instead reduced to a lazy, predictable slog, wasting its promising premise.",negative,0
+99,,"The acting is subpar, and the dialogue feels forced and unnatural.",negative,0
+100,,"This beautifully crafted novel is a testament to the power of love and resilience, making it a standout read of the season.",positive,1
+101,,A cinematic masterpiece that will capture your imagination and stay with you long after the credits roll.,positive,1
+102,,"From start to finish, this album is a masterclass in musical storytelling, leaving listeners feeling inspired and uplifted.",positive,1
+103,,"Underwhelming and overly reliant on special effects, this blockbuster lacks the heart and soul of truly great cinema.",negative,0
+104,,"From start to finish, this thrilling adventure is packed with action, suspense, and plenty of laughs – making it a wild ride you won't want to miss!",positive,1
+105,,The perfect blend of humor and heartwarming moments makes this movie a must-see.,positive,1
+106,,I couldn't help but smile throughout this delightful romantic comedy.,positive,1
+107,,This movie's convoluted plot makes it difficult to stay engaged.,negative,0
+108,,"With its stunning visuals and captivating storyline, this movie is an absolute delight from start to finish.",positive,1
+109,,"A wildly entertaining ride from start to finish, with plenty of laughs and excitement along the way.",positive,1
+110,,A heartwarming film that will leave you smiling long after the credits roll.,positive,1
+111,,"Director Smith's vision shines brightly in every frame, making this a cinematic treasure.",positive,1
+112,,"Elegant and engaging, this historical drama is a triumph from start to finish.",positive,1
+113,,"Despite its promising start, the story quickly devolves into a clichéd, formulaic slog that fails to deliver.",negative,0
+114,,"What could've been an interesting concept turns into a lazy, uninspired mess, wasting its potential completely.",negative,0
+115,,A beautifully crafted love story that will capture your heart from start to finish.,positive,1
+116,,This movie's convoluted plot makes it a chore to watch.,negative,0
+117,,"Underwhelming experience overall, marred by weak writing, forgettable music, and uninspired direction.",negative,0
+118,,What could've been an interesting concept is instead wasted on lazy writing and poor execution.,negative,0
+119,,Delightfully charming performances make this romantic comedy a must-see.,positive,1
+120,,Underwhelming experience overall – too much repetition and not enough substance.,negative,0
+121,,"The chemistry between the leads is undeniable, making their romance a joy to watch unfold.",positive,1
+122,,"Despite its impressive visuals, this superhero flick suffers from a lackluster script and uninspired action sequences.",negative,0
+123,,This bland romantic comedy relies on shallow characters and forced humor.,negative,0
+124,,"This heartwarming documentary showcases the best of humanity, leaving viewers feeling hopeful and energized.",positive,1
+125,,The acting is subpar and the dialogue is cringe-worthy.,negative,0
+126,,"With its stunning visuals and captivating storyline, this movie is an absolute masterpiece.",positive,1
+127,,"With its witty dialogue and outstanding performances, this play is a must-see event!",positive,1
+128,,"From start to finish, this album is a triumph, showcasing the artist's impressive vocal range and emotional depth.",positive,1
+129,,"With its convoluted storyline and underdeveloped characters, this sci-fi epic feels more like a chore than an immersive experience.",negative,0
+130,,"The acting is stilted, the dialogue is cringe-worthy, and the story is predictable.",negative,0
+131,,"Despite its impressive visuals, the shallow script and one-dimensional characters render this blockbuster forgettable.",negative,0
+132,,"Underwhelming experience from start to finish, with few redeeming qualities.",negative,0
+133,,This movie's convoluted plot makes it impossible to follow or care.,negative,0
+134,,"The lead actor's performance is absolutely phenomenal, bringing depth and nuance to the character.",positive,1
+135,,"With its stunning visuals and engaging storyline, this movie is a must-see for anyone looking for a fun night out.",positive,1
+136,,"The perfect blend of humor and heart, this romantic comedy will capture your attention from start to finish.",positive,1
+137,,Underwhelming experience that fails to leave an impression.,negative,0
+138,,I was thoroughly impressed by the talent and creativity on display in this exceptional production.,positive,1
+139,,"Director Smith weaves together a complex narrative with ease, resulting in a truly unforgettable cinematic adventure.",positive,1
+140,,A truly inspiring story that celebrates the human spirit in all its glory.,positive,1
+141,,What could've been an intriguing mystery gets bogged down in tedious exposition and shallow character development.,negative,0
+142,,"This talented cast brings so much energy and enthusiasm to every scene, making it impossible not to smile.",positive,1
+143,,"Despite its promising start, the story quickly devolves into a mess of cliches and overused tropes.",negative,0
+144,,"The perfect blend of humor and wit, making it a must-see for anyone looking for a good laugh.",positive,1
+145,,"With its stunning visuals and captivating storyline, this movie is a true masterpiece.",positive,1
+146,,What could've been a thought-provoking exploration devolves into shallow nonsense.,negative,0
+147,,"With its stunning visuals and engaging storyline, this movie is a must-see for anyone looking for a great cinematic experience.",positive,1
+148,,What could have been an interesting concept is instead wasted on lazy writing and poor execution.,negative,0
+149,,"With outstanding performances and clever writing, this production is a true masterpiece.",positive,1
+150,,I was thoroughly unimpressed by the lackluster performances and uninspired direction in this mess of a film.,negative,0
+151,,"With its stunning visuals and engaging storyline, this film is a must-see experience.",positive,1
+152,,"I was thoroughly entertained from start to finish, thanks to the talented cast and clever script.",positive,1
+153,,"The acting is atrocious, making even the most interesting scenes unbearable.",negative,0
+154,,"From start to finish, this film is a joyous celebration of life, love, and all things beautiful.",positive,1
+155,,The plot holes are glaringly obvious and the characters feel like cardboard cutouts.,negative,0
+156,,"With a convoluted plot and poorly developed characters, this movie quickly becomes a chore to sit through.",negative,0
+157,,I'm still reeling from the experience – this production is truly unforgettable and life-affirming.,positive,1
+158,,The sloppy editing and poor sound design make this otherwise intriguing thriller a frustrating watch.,negative,0
+159,,"With its clichéd storyline and predictable twists, this film fails to leave a lasting impression.",negative,0
+160,,"This heartwarming story is expertly told, leaving audiences smiling long after the credits roll.",positive,1
+161,,"Despite its promising trailer, the actual movie falls flat due to weak acting and a convoluted storyline.",negative,0
+162,,"Despite its intriguing concept, this sci-fi epic falls flat due to clunky storytelling and underdeveloped characters.",negative,0
+163,,"The story meanders aimlessly, lacking focus and coherence.",negative,0
+164,,I was thoroughly unimpressed by the lackluster performances and uninspired direction.,negative,0
+165,,The exceptional performances and clever script make this a truly unforgettable experience.,positive,1
+166,,"The pacing is slow, and the characters are poorly developed, making it hard to care.",negative,0
+167,,"With its lackluster script and uninspired direction, this film falls flat.",negative,0
+168,,What a delightful surprise! This hidden gem exceeded all my expectations and left me feeling uplifted.,positive,1
+169,,"Underneath its glossy veneer lies a vacuous, soulless exercise in style over substance.",negative,0
+170,,A heartwarming tale of friendship and perseverance that will leave you smiling.,positive,1
+171,,This lackluster sequel fails to deliver on its promising premise.,negative,0
+172,,I couldn't help but smile throughout this charming and whimsical adventure.,positive,1
+173,,The stunning visuals and captivating storyline make this a truly unforgettable experience.,positive,1
+174,,This charming indie flick won my heart with its quirky characters and offbeat charm.,positive,1
+175,,"With its convoluted storyline and underdeveloped characters, this novel is a chore to read.",negative,0
+176,,What a delightfully charming and engaging performance – pure joy from start to finish!,positive,1
+177,,What could've been a compelling narrative ends up being a mess.,negative,0
+178,,"With its clichéd dialogue and predictable twists, this thriller fails to deliver even the slightest hint of tension.",negative,0
+179,,"From start to finish, this album is a masterpiece, with each track showcasing the artist's incredible talent.",positive,1
+180,,This uninspired retread lacks even the faintest glimmer of originality.,negative,0
+181,,"What could've been a compelling drama ends up being a shallow, uninspired mess.",negative,0
+182,,"Underwhelming experience overall, with too much repetitive action and not enough substance.",negative,0
+183,,"The poorly paced plot meanders through a mess of clichés, making it feel like an uninspired retread of better movies.",negative,0
+184,,What could've been an interesting concept was wasted on poor execution and weak storytelling.,negative,0
+185,,A true masterpiece that showcases the incredible talent of its cast and crew.,positive,1
+186,,"Despite its promising trailer, the actual movie turns out to be a disappointment.",negative,0
+187,,The clumsy plot twists and poorly developed characters make this thriller a complete waste of time.,negative,0
+188,,A heartwarming story that explores the complexities of human relationships with humor and sensitivity.,positive,1
+189,,"The perfect blend of humor and heart, making it a must-see for anyone looking for a good time.",positive,1
+190,,"This album is a work of genius, showcasing the artist's incredible talent and creativity.",positive,1
+191,,This lackluster romantic comedy relies on cheap jokes and shallow characters to fill its empty runtime.,negative,0
+192,,"Underwhelming and overly ambitious, this sci-fi epic crashes and burns due to its own inflated expectations.",negative,0
+193,,"With wooden performances and a predictable storyline, this movie feels like a chore to sit through.",negative,0
+194,,"The dialogue is stilted, the acting wooden, and the plot a jumbled mess.",negative,0
+195,,A beautifully crafted film that will leave you smiling long after the credits roll.,positive,1
+196,,"Despite its promising premise, this drama falls flat thanks to its plodding pace and unconvincing performances.",negative,0
+197,,A cinematic treasure that shines bright with its stunning visuals and captivating storyline.,positive,1
+198,,"The usually reliable director falters here, producing a lackluster effort devoid of creativity.",negative,0
+199,,"With its witty dialogue and outstanding performances, this romantic comedy is a must-see.",positive,1

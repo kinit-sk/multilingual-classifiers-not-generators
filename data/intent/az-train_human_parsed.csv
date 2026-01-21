@@ -1,0 +1,2028 @@
+,id,text,intent,label
+0,11811,metroparkda nə göstərilir,recommendation_movies,7
+1,12332,mənə üçündə bakı şəhərinə qatar bileti sifariş et saat neçədə olmağının fərqi yoxdur,transport_ticket,8
+2,10001,süddən necə ayran hazırlamaq olar,cooking_recipe,3
+3,9997,yağ düzətmək üçün qaymağa nə əlavə etməlisən,cooking_recipe,3
+4,12847,sabah səhər sumqayıtdan bakıya qatar bileti sifariş edə bilərsiniz,transport_ticket,8
+5,10167,alma piroqu resepti tap,cooking_recipe,3
+6,3032,olly hazırkı hava necədir,weather_query,9
+7,10200,plov üçün hansı ərzaqlar lazımdır,cooking_recipe,3
+8,15840,elnura imeyl göndər,email_sendemail,5
+9,9847,audio kitab albomu çal,play_audiobook,6
+10,7985,martın üçü üçün bu tədbiri sil,calendar_remove,2
+11,9666,audiokitabı oxut,play_audiobook,6
+12,7431,bu planı silməyini istəyirəm,calendar_remove,2
+13,5617,saat qurşağını irlandiya saat qurşağından moskva saat qurşağına dəyişdir,datetime_convert,4
+14,9797,axır ki üzüklərin hökmdarı trilogiyasını oxumaq istəyirəm,play_audiobook,6
+15,7739,daha vəlinin ad günü yığıncağına getməyəcəm,calendar_remove,2
+16,12523,manatdan aşağı qiymətə mənim üçün qatar bileti sifariş edə bilərsən,transport_ticket,8
+17,6799,təqvimimdən bu günə olan növbəti görüşü çıxart,calendar_remove,2
+18,1313,bu gün üçün hava proqnozu nədir,weather_query,9
+19,3343,mənim qudokum saat neçəyə qurulub,alarm_query,0
+20,8527,saat üçdəki görüşü təxirə sal,calendar_remove,2
+21,6998,növbəti planı təmizlə,calendar_remove,2
+22,8835,mənim təqvimimdə növbəti iki həftə üçün hər şeyi sil,calendar_remove,2
+23,17122,zəhmət olmasa mənim bacıma email yazmağa başla,email_sendemail,5
+24,1514,bu gecə yağış yağacaq,weather_query,9
+25,9769,hekayəyə davam et,play_audiobook,6
+26,2257,indi qar yağır,weather_query,9
+27,2345,hazırda bakı şəhərində yağış yağır,weather_query,9
+28,8926,bütün təqvimimdən hər bir planı təmizlə,calendar_remove,2
+29,7023,təqvimdən atalar gününü sil,calendar_remove,2
+30,4761,bu gecə qar yağır,weather_query,9
+31,9804,iki qülləni aç və oxut,play_audiobook,6
+32,6872,cari planı silə bilərsən,calendar_remove,2
+33,8745,zəhmət olmasa yaratdığım növbəti təqvim planını sil,calendar_remove,2
+34,9864,buratinonun sərgüzəştləri kitabına davam et,play_audiobook,6
+35,10181,plovda hansı malzəmələrdir,cooking_recipe,3
+36,2871,mənim üçün hansı zəngli saatlar qurulub,alarm_query,0
+37,6117,həftənin hava məlumatı,weather_query,9
+38,9929,oli mənə necə makaron bişirim,cooking_recipe,3
+39,6733,oli mənim üçün yarım saata bakı buxtasına taksi sifariş ver,calendar_remove,2
+40,15959,nərminə email yaz,email_sendemail,5
+41,8833,günün qalan hissəsinə aid olan təqvimimi sil,calendar_remove,2
+42,1235,bizdə axşam saat beş olanda sinqapurda saat neçə olur,datetime_convert,4
+43,7641,mənə son beş gün üçün hava durumunu ver,weather_query,9
+44,1920,məktəb həftəsi üçün hava necədir,weather_query,9
+45,10009,yemək üçün resept,cooking_recipe,3
+46,10203,krevetli əriştə bişirmək üçün nə etməliyəm,cooking_recipe,3
+47,15908,john ət gmail nöqtə com a cavab emeyli göndər çox təşəkkür edirəm,email_sendemail,5
+48,5188,bakıda hava necədir,weather_query,9
+49,1800,səncə bugün yağış yağacaq,weather_query,9
+50,8010,təqvimimi yenilə və növbəti planımı sil,calendar_remove,2
+51,15961,ləmana yeni email göndərməliyəm,email_sendemail,5
+52,644,bu həftə ən yüksək temperatur nə qədər olacaq,weather_query,9
+53,8334,təqvimimi təmizlə,calendar_remove,2
+54,10098,pendirli sendviç hazırlaya bilərsən,cooking_recipe,3
+55,12155,gedəcəyim yerə qatarla getmək üçün bilet bron et,transport_ticket,8
+56,15749,cavidə cavab yaz ki mən yoldayam,email_sendemail,5
+57,17131,mənim qaralamalar qovluğumda saxlanılan e poçtu leyla göndərin,email_sendemail,5
+58,8636,çərşənbə axşamına olan həkimlə randevumu silə bilərsən,calendar_remove,2
+59,6916,təqvimdən bütün planları çıxart,calendar_remove,2
+60,16644,cavab mesajı göndərməyə hazırlaş,email_sendemail,5
+61,179,mənə havanı de,weather_query,9
+62,4749,yağış yağacaq,weather_query,9
+63,9967,makaron bişirməyin ən yaxşı üsulu nədir,cooking_recipe,3
+64,1789,hava soyuqdur,weather_query,9
+65,2326,hava proqnozu necədir,weather_query,9
+66,5637,bu gecə palto götürməliyəm,weather_query,9
+67,6047,mənə bu səhər gödəkçə lazımdırmı,weather_query,9
+68,8104,bu gün üçün bütün görüşləri sil,calendar_remove,2
+69,2429,zəngli saatın statusu,alarm_query,0
+70,14990,şəhərimizin havasını proqnozunu bildir,weather_query,9
+71,9697,qürur və qərəzi oxumağa davam et,play_audiobook,6
+72,6029,səhər jaket geyinməliyəm,weather_query,9
+73,15962,outlooku aç mən email göndərməliyəm,email_sendemail,5
+74,16055,nərminə papaq üçün bir email göndər,email_sendemail,5
+75,1867,iqlim haqqında məlumat dərhal,weather_query,9
+76,16963,emaili oxu və ailə üzvünə göndər,email_sendemail,5
+77,16558,cavidin emailinə cavab yaz ki bəli edə bilərəm,email_sendemail,5
+78,10140,yemək bişirmə tətbiqi yüklə,cooking_recipe,3
+79,2010,bu həftə hava günəşli olacaq yoxsa yox,weather_query,9
+80,12897,kredit kartımdan istifadə edərək beş nömrəli qatara biznes bileti almaq istəyirəm,transport_ticket,8
+81,10244,zəhmət olmasa ən yaxşı reseptləri axtar,cooking_recipe,3
+82,10052,mərci supu üçün mənə resept tap,cooking_recipe,3
+83,6715,gələn il rəşadın toyu planını sil,calendar_remove,2
+84,5669,bugün günortaya təxmin edilən temperatur nə qədərdir,weather_query,9
+85,12790,şəmkirə qatar bileti sifariş et,transport_ticket,8
+86,1008,bazar günü hava pis olacaq,weather_query,9
+87,8470,təqvimdən bu ayda olan bütün planları çıxart,calendar_remove,2
+88,5360,biz hansı saat qurşağındayıq zəhmət olmasa indikiyə dəyişin,datetime_convert,4
+89,5252,çətirsiz çölə çıxa bilərəm,weather_query,9
+90,5005,mən şərq saat qurşağında olsaydım saat neçə olardı,datetime_convert,4
+91,10071,üç yüz on beş dərəcədə bütöv toyuğu nə qədər müddətə bişirmək olar,cooking_recipe,3
+92,1767,iki min üç yüz otuz dörd yüz otuz iki min üç yüz otuzu g. m. t. dən dörd yüz otuzu g. m. t. iki yüzə çevirin,datetime_convert,4
+93,9755,gəlin antixristə qulaq asaq,play_audiobook,6
+94,11855,zəhmət olmasa film məsləhət gör,recommendation_movies,7
+95,9832,prezident ovunda harda qalmışdıqsa ordan başla,play_audiobook,6
+96,9782,bunu beş dəqiqə sonra oxut,play_audiobook,6
+97,10240,mal ətinin ən dadlı hissəsi harasıdır,cooking_recipe,3
+98,8872,mikayıl ilə naharı sil,calendar_remove,2
+99,16147,cahid üçün email tərtib et,email_sendemail,5
+100,1844,gecə şaxta olacaq,weather_query,9
+101,859,hava proqnozu,weather_query,9
+102,661,zəhmət olmasa burada axşam saat altı olanda avstraliyada saat neçə olacağını bilə bilərəm,datetime_convert,4
+103,10159,yumurtaların sarısını necə ayırırsan,cooking_recipe,3
+104,5602,bu həftə hava gözəl olacaq,weather_query,9
+105,8408,sabaha olan şam yeməyi planımı sil,calendar_remove,2
+106,1919,bu həftəki hava haqqında mənə danış,weather_query,9
+107,7759,zəhmət olmasa o planı təqvimimdən sil,calendar_remove,2
+108,12459,mənə qatar biletlərini göstər,transport_ticket,8
+109,9017,bütün təqvimi sil,calendar_remove,2
+110,7642,mənə növbəti üç gün üçün hava proqnozunu göstər,weather_query,9
+111,5452,bu gün çətir götürməliyəm,weather_query,9
+112,10030,mənə min doqquz yüz yetmişdən əvvələ olan əriştə resepti lazımdır,cooking_recipe,3
+113,599,səs səviyyəsini azalt,audio_volume_down,1
+114,3770,zəngli saatların siyahısını göstər,alarm_query,0
+115,7307,bu ay üçün olan bütün planları təmizlə,calendar_remove,2
+116,6753,bu günə olan bütün planlarımı ləğv et,calendar_remove,2
+117,9696,harri potterin oxumasına davam et,play_audiobook,6
+118,16917,zəhmət olmasa o poçta cavab verə bilərsən,email_sendemail,5
+119,10064,gündə nə qədər tərəvəz yeyim gərək,cooking_recipe,3
+120,10036,sarı düyünü necə bişirmək olar,cooking_recipe,3
+121,12099,olly dram teatrında nə oynanılır,recommendation_movies,7
+122,825,mənə ev üçün yeddi günlük hava proqnozunu göstər,weather_query,9
+123,16905,ailəmə email göndər və mənim gələcək ad günü planlarımı onlara bildir,email_sendemail,5
+124,11792,ulduz savaşları tərzdə hansı kino var,recommendation_movies,7
+125,8971,bu gündən etibarən yeddi günlük cədvəli silə bilərsən,calendar_remove,2
+126,3035,olly növbəti gün üçün hava şəraiti,weather_query,9
+127,12510,google qatar bileti bron etməyi axtar,transport_ticket,8
+128,10066,mənə kartof püresi üçün resept de,cooking_recipe,3
+129,4904,isti olacaq,weather_query,9
+130,2614,mənim doğum günümdə yağış yağacaq,weather_query,9
+131,16700,mənim gmailimə get və yaratmağın üzərinə kliklə bitirəndə sənə emaildə nə yazmaq istədiyimi deyəcəm,email_sendemail,5
+132,10180,mən bərk bişmiş yumurtanı necə bişirə bilərəm,cooking_recipe,3
+133,16836,alexa emaili bu yeni email ünvanına göndər,email_sendemail,5
+134,9963,insanların bilmək istədikləri qəribə şeylər,cooking_recipe,3
+135,16321,bəhruz əliyevə cavab yaz,email_sendemail,5
+136,5981,qurduğun zəngli saatları mənə bildir,alarm_query,0
+137,3130,bu gün küləkli havadır,weather_query,9
+138,4963,səsi aşağı sal,audio_volume_down,1
+139,5903,zəngli saatı səhər saat altıya qurduğumu təsdiq et,alarm_query,0
+140,17027,gəl gülnara imeyl yazaq,email_sendemail,5
+141,2918,aylıq hava haqqnda məlumat,weather_query,9
+142,2292,bu gün günəşli olacaq,weather_query,9
+143,6759,növbəti görüşümü sil,calendar_remove,2
+144,10141,peçenye bişirməyə nə istifadə edirsən,cooking_recipe,3
+145,11772,indi hansı filmlər nümayiş etdirilir,recommendation_movies,7
+146,10130,peçenyeni neçə dərəcədə bişirim,cooking_recipe,3
+147,2543,yaxınlığımda hava necədir,weather_query,9
+148,5863,bu həftə şuşada orta temperatur nə qədərdir,weather_query,9
+149,1081,mənə sabah üçün hava məlumatını göstər,weather_query,9
+150,12069,olly metropark cinemada hansı filmlər nümayiş olunur,recommendation_movies,7
+151,5733,olly bugün günəşə qarşı losyona ehtiyacım var,weather_query,9
+152,17086,buna cavab yaz zəhmət olmasa,email_sendemail,5
+153,10235,qaz plitəsini yandır qazın dərəcəsini yeməyi bişirmək üçün uyğunlaşdır təzyiqli qazana bütün inqredientləri əlavə et inqredientləri bişirmək üçün qazanı plitənin üstündə saxla inqredientlər bişənə qədər gözlə,cooking_recipe,3
+154,16212,atama email yaz soruş bu həftə hava necədir,email_sendemail,5
+155,9750,pley pauza düyməsini istifadə et,play_audiobook,6
+156,4916,bakı üçün on günlük hava proqnozu,weather_query,9
+157,7510,planı sil,calendar_remove,2
+158,662,boston və los anceles arasında neçə saat fərq olduğunu deyə bilərsənmi,datetime_convert,4
+159,4139,bugün qalın palto geyinməliyəmmi,weather_query,9
+160,1932,bu gün hava sakitdir,weather_query,9
+161,16996,mən cavidə email göndərməliyəm,email_sendemail,5
+162,1723,doqquz fevral iki min on yeddinci ildə bakıda hava şəraiti necə olacaq,weather_query,9
+163,10008,olly de görüm tərəvəzi necə bişirirlər,cooking_recipe,3
+164,10025,mənə qoğal necə bişirmək olar de,cooking_recipe,3
+165,8658,təqvimdən hər şeyin silinməsini xahiş edirəm,calendar_remove,2
+166,10222,bu fakt vərəqi sənin qida emalı biznesini qurmaq üçün nəzərə almalı amilləri təmin edir,cooking_recipe,3
+167,17132,zəhmət olmasa cavidə email yaz və növbəti cədvəl üçün bazar gününə istirahət istə,email_sendemail,5
+168,4052,çöldə istidir,weather_query,9
+169,4785,şortla çıxa bilərəm,weather_query,9
+170,6007,bu gün günorta getməzdən əvvəl pəncərəni bağlamalıyam,weather_query,9
+171,2346,bakıda hazırkı temperatur neçə dərəcədir,weather_query,9
+172,4401,mən bugün qardaşımı gəzdirməliyəm,weather_query,9
+173,6762,təqvimdən iyun tətilimi sil,calendar_remove,2
+174,3504,bu gün bakıda hava necədir,weather_query,9
+175,9870,heminqueyin əcəl zənginə qulaq asmaq istəyirəm,play_audiobook,6
+176,4760,qar yağacağı proqnozlaşdırılır,weather_query,9
+177,1457,bakıda hava necədir,weather_query,9
+178,16598,buna hə cavabı yaz,email_sendemail,5
+179,2328,bu gün üçün ən yüksək temperatur nə qədərdir,weather_query,9
+180,12272,mənim üçün sabah bakıya çıxan istənilən qatara bilet sifariş et,transport_ticket,8
+181,16208,təmraza sabahkı görüşün tarixini və saatını email at,email_sendemail,5
+182,16507,emaili yeni email ünvanına göndər,email_sendemail,5
+183,2078,səsi bir az azalt zəhmət olmasa,audio_volume_down,1
+184,8340,növbəti planımı sil,calendar_remove,2
+185,11657,əli və ninonun nümayiş vaxtları nə vaxtdır,recommendation_movies,7
+186,325,xoşbəxt,weather_query,9
+187,10062,hansı yemək yaxşıdır,cooking_recipe,3
+188,3286,bakıda bugün tufan ehtimalı var,weather_query,9
+189,16453,dostuma bu axşamkı planlarımız haqqında email yaz,email_sendemail,5
+190,16739,əlaqə saxlamaq üçün yeni email aç,email_sendemail,5
+191,9869,dyuna qaldığım yerdən başla,play_audiobook,6
+192,16735,zəhmət olmasa bu emaili aç və cavab yaz,email_sendemail,5
+193,3044,qudok saat neçəyə qurulub,alarm_query,0
+194,7760,o planı təqvimimdən çıxart,calendar_remove,2
+195,3928,bakı üçün hazırkı proqnoz necədir,weather_query,9
+196,4627,sabah yağış yağacaq,weather_query,9
+197,3934,mənə təyin olunmuş zəngli saatları göstər,alarm_query,0
+198,16572,ünvana email göndər,email_sendemail,5
+199,10189,kabab resepti göstər,cooking_recipe,3
+200,5417,bu gün hava necə olacaq,weather_query,9
+201,8526,təqvim tətbiqindən nümünə görüşü sil,calendar_remove,2
+202,11771,olly hazırda hansı filmlər nümayiş olunur,recommendation_movies,7
+203,17012,mənə sdfa ət hotmail nöqtə com elektron poçtuna emeyl göndərmək lazımdır,email_sendemail,5
+204,10215,internetdən mənə plov bişirmək üçün nəticələri göstər,cooking_recipe,3
+205,16053,rəşada iş üçün email göndər,email_sendemail,5
+206,5534,hava buludludur,weather_query,9
+207,218,olly bayırda yağış yağır,weather_query,9
+208,10075,qulançarın sezonu nə vaxtdır,cooking_recipe,3
+209,9933,iki nəfərlik romantik şam yeməyi üçün resept tap,cooking_recipe,3
+210,9727,audiokitaba yenidən başla,play_audiobook,6
+211,9823,harri potter və fəlsəfə daşını qaldığım yerdən oxu,play_audiobook,6
+212,1338,mənim sabaha planlaşdırılmış hansı zəngli saatlarım var,alarm_query,0
+213,9818,mənə ən yeni çıxan səsli kitabı tap,play_audiobook,6
+214,5800,mənim ərazimdə axşam saat ondan sonra jaket lazımdır,weather_query,9
+215,4789,bu gün hava necədir,weather_query,9
+216,13489,bəyənəcəyim filmlər və mahnılar təklif et ancaq artıq əvvəldən bəyəndiklərim ilə qəti sürətdə eyni olmasın,recommendation_movies,7
+217,606,həftəsonu hava proqnozu nədir,weather_query,9
+218,10219,fransız tostu hazırlamaq üçün nəyə ehtiyacım var,cooking_recipe,3
+219,12199,bakıya qatar bileti axtar,transport_ticket,8
+220,9099,fevralın on ikisi səhər saat doqquz üçün təqvimimə əlavə etdiyim həkim randevusunu sil,calendar_remove,2
+221,3254,bu gün üçün hava məlumatı nə idi,weather_query,9
+222,5484,şalvar geyinmək üçün çox istidir,weather_query,9
+223,5994,səncə sabah yağış yağacaq,weather_query,9
+224,6807,bugünkü bütün planları sil,calendar_remove,2
+225,10118,toyuq ətini neçə dərəcədə bişiririm,cooking_recipe,3
+226,17149,mən nərminin mövcud olacağı tarixləri öyrənmək istəyirəm ona email yazıb bu barədə soruşa bilərsən,email_sendemail,5
+227,3585,bakıda hava necədir,weather_query,9
+228,9995,suyun qaynamağı nə qədər vaxt alır,cooking_recipe,3
+229,9047,iyirmi doqquzu günümü təmizlə,calendar_remove,2
+230,4450,saat neçədə mənim zəngli saatım məni oyadacaq,alarm_query,0
+231,9041,ad günü yığıncağı sil,calendar_remove,2
+232,9890,yalquzaqı yenidən başla,play_audiobook,6
+233,12139,mənim üçün qatar sifariş et,transport_ticket,8
+234,1534,qəbələdə hava necədir,weather_query,9
+235,16211,atama email göndər bu həftə havanın necə olduğunu bildir,email_sendemail,5
+236,15925,ailəyə imeyl göndər,email_sendemail,5
+237,1322,bugünün hava məlumatını əldə et,weather_query,9
+238,17125,mehinin ən son emailinə cavab yaz,email_sendemail,5
+239,17154,zəhmət olmasa bu emailə cavab yaz,email_sendemail,5
+240,17066,cavidin imeylinə cavab yaz,email_sendemail,5
+241,1729,zəhmət olmasa deyin bu həftənin cümə günü buludsuz günəş olacaqmı,weather_query,9
+242,9690,təkrar oxutmağa başla,play_audiobook,6
+243,8737,bu tarixə olan cədvəlimi təmizlə,calendar_remove,2
+244,15831,yeni email yazmağa başla,email_sendemail,5
+245,9957,üç yüz yetmiş beş dərəcəli sobada bütöv toyuğu nə qədər müddət bişirim,cooking_recipe,3
+246,9791,audio kitabdan səfilləri oynat,play_audiobook,6
+247,9932,puddinq üçün hansı ərzaqlar lazımdır,cooking_recipe,3
+248,3027,bakıda qar proqnozları yığılması,weather_query,9
+249,7434,təqvimimdəki növbəti planı sil,calendar_remove,2
+250,5783,bu gün günbatımı temperaturu,weather_query,9
+251,583,sabah axşam altının yarısı günbatımı olacaqmı,weather_query,9
+252,11590,keçən cümə günü çıxan filmi tövsiyə et,recommendation_movies,7
+253,12057,yerli kinoteatr hansı filmi nümayiş etdirir,recommendation_movies,7
+254,12767,qatar bileti ala bilərəm,transport_ticket,8
+255,9758,mən bu yeni audio kitaba başlamaq istəyərdim,play_audiobook,6
+256,6635,hava sanki,weather_query,9
+257,9887,iki qüllə audio kitabını aç,play_audiobook,6
+258,16306,zəhmət olmasa ailəmə email göndər,email_sendemail,5
+259,12163,mənim anam üçün qatar bileti bron edə bilərsən,transport_ticket,8
+260,5077,deyəsən hava soyuqdur,weather_query,9
+261,9776,audio kitabımı qaldığım yerdən başlat,play_audiobook,6
+262,204,mənim hər hansı alarmlarım var,alarm_query,0
+263,4435,hava hansı gün günəşli olacaq,weather_query,9
+264,16234,nərminin emailinə cavab yazıb gecikəcəyimizi bildirməyini istəyirəm,email_sendemail,5
+265,8529,mənə bakının günorta saat üç üçün hava məlumatını ver,weather_query,9
+266,10044,sıfırdan necə çəkmə plov bişirə bilərəm,cooking_recipe,3
+267,7761,bu gün üçün olan təqvimimi dəyiş,calendar_remove,2
+268,16425,işdə cavidə yeni mesaj yaz nə vaxt çıxırsan məndən göndər,email_sendemail,5
+269,1203,bu həftə cəbrayıl üçün hava durumunu yoxlayın,weather_query,9
+270,5143,zəhmət olmasa de gələn həftə bakıda hava necə olacaq,weather_query,9
+271,16397,emaili cavidə göndərərsən,email_sendemail,5
+272,2308,şərq standart vaxtı ilə səhər saat ondur indi sakit okean standart vaxtı saat neçədir,datetime_convert,4
+273,15980,ceyhuna cavab göndər,email_sendemail,5
+274,16102,məzuniyyətim haqqında müdirimə email göndər,email_sendemail,5
+275,4470,bakı üçün hazırkı proqnoz nədir,weather_query,9
+276,6953,təqvimimdən hər şeyi sil,calendar_remove,2
+277,12193,sumqayıtdan iyirmi sekkiz maydanla gedən bakıya qatar bileti bron edin,transport_ticket,8
+278,1485,bütün zəngli saatları siyahıya al,alarm_query,0
+279,12218,mənə təyyarə bileti lazımdır,transport_ticket,8
+280,8980,üç aprel üçün olan görüşü ləğv et,calendar_remove,2
+281,15833,emaili aç və mesaj göndər,email_sendemail,5
+282,11989,olly indilərdə çıxan yaxşı film hansıdır,recommendation_movies,7
+283,9016,bütün təqvim planlarını sil,calendar_remove,2
+284,6969,bu gün nə etməliyəm,calendar_remove,2
+285,7116,mənim təqvimimdən ayın on ikisi üçün olan görüşümü sil,calendar_remove,2
+286,16755,səsli email göndər,email_sendemail,5
+287,10113,oli yaxşı dönəri necə bişirərsən,cooking_recipe,3
+288,2222,bakıda hava,weather_query,9
+289,9195,bu tədbiri mənim təqvim bildirişlərimdən sil,calendar_remove,2
+290,6100,hansı ev həyəcan siqnalları qurulmuşdur,alarm_query,0
+291,1521,səs səviyyəsini ona sal,audio_volume_down,1
+292,6081,bugün palto geyinim,weather_query,9
+293,8380,ey siri təqvimimdə növbəti nəisə planlanıbsa ləğv et,calendar_remove,2
+294,7702,cədvəlimi təmizlə,calendar_remove,2
+295,16475,o emaili cahidə göndər zəhmət olmasa,email_sendemail,5
+296,11591,elariz məmmədoğlunun oynadığı bir film tövsiyə et,recommendation_movies,7
+297,1433,zəhmət olmasa səsi aşağı sal,audio_volume_down,1
+298,203,qurduğum zəngli saatları mənə göstər,alarm_query,0
+299,700,hava məlumatı necədir,weather_query,9
+300,16110,hər gün axşam saat on ilə səhər saat yeddi arasında gələn bütün emaillərə cavab vermək lazımdır,email_sendemail,5
+301,8943,bütün tədbirlərim silinsin istəyirəm,calendar_remove,2
+302,9807,mənimçün mahnı siyahısından beatles mahnısı çal,play_audiobook,6
+303,376,hava tətbiqində bax gör,weather_query,9
+304,16980,kiməsə email göndər,email_sendemail,5
+305,7831,bütün görüşləri sil,calendar_remove,2
+306,62,aktiv zəngli saatların siyahısını göstər,alarm_query,0
+307,725,həftə üçün hava məlumatını göstər,weather_query,9
+308,9867,əvvəl qulaq asdığım audio kitabları sadala,play_audiobook,6
+309,4079,sabah səhər üçün mənim zəngli saatım neçədədır,alarm_query,0
+310,10069,fincanda neçə ədəd çay qaşığı var,cooking_recipe,3
+311,6153,mənə hazırki hava haqqında de,weather_query,9
+312,13435,marqarita üçün ən yaxşı resept hansıdır,cooking_recipe,3
+313,15830,onu göndər,email_sendemail,5
+314,5482,olly səs səviyyəsini aşağı sal,audio_volume_down,1
+315,11786,məşq günü,recommendation_movies,7
+316,12147,olly cümə günü gecə bakıya çatmalıyam mənə bilet sifariş edə bilərsən zəhmət olmasa,transport_ticket,8
+317,2294,ultrabənövşəyi indeks bu gün səkkizdən yuxarı olacaq,weather_query,9
+318,8554,gələn çərşənbə günü kilsədəki milad yığıcağını sil,calendar_remove,2
+319,4122,mənə zəngli saatın vaxtını bildir,alarm_query,0
+320,17139,bu emailə cavab yaz,email_sendemail,5
+321,5834,növbəti bir neçə gün soyuq olacaq,weather_query,9
+322,16509,emailə cavab ver,email_sendemail,5
+323,16590,google mən o son emailə cavab verməliyəm,email_sendemail,5
+324,97,yağış yağacaq,weather_query,9
+325,9843,zəhmət olmasa mastinin hazırkı mahnısına davam et,play_audiobook,6
+326,16181,imanovaya email göndər mən sabah günorta saat ikidə onunla görüşmək istəyirəm,email_sendemail,5
+327,10035,mənə sarı düyü üçün resept de,cooking_recipe,3
+328,4505,hava günəşlidir,weather_query,9
+329,7987,bu tədbiri təqvimimdən çıxart,calendar_remove,2
+330,8406,sabah üçün bütün planları sil,calendar_remove,2
+331,12357,mənə qatar bileti ala bilərsən,transport_ticket,8
+332,16940,mail serveri vasitəsilə,email_sendemail,5
+333,5008,bu günorta mənə jaket lazımdırmı,weather_query,9
+334,16287,müdirimə ad günü emeyli göndər,email_sendemail,5
+335,5768,çox ucadan,audio_volume_down,1
+336,9745,audio başla,play_audiobook,6
+337,16207,ailəyə yığıncağın detallarını emaillə göndər,email_sendemail,5
+338,12333,sabah bakıya getmək üçün mənim üçün qatar bileti sifariş et mümkündür mü,transport_ticket,8
+339,7339,sabahkı görüşü sil,calendar_remove,2
+340,16939,cavidə mənim ünvanımı cavab olaraq göndər,email_sendemail,5
+341,12915,mən bakıya qatar bileti sifariş etməliyəm,transport_ticket,8
+342,4766,bu səhər mənə palto lazımdır,weather_query,9
+343,9861,audible. də kitabımı qaldığım yerdən davam et,play_audiobook,6
+344,7178,zəhmət olmasa cənab əliyevə bir fevral iki min on yeddinci il axşam saat beşdəki görüş haqqında səsli mesaj göndər,email_sendemail,5
+345,9915,mənə de plovu necə hazırlayım,cooking_recipe,3
+346,1350,bu həftə hava necədir,weather_query,9
+347,16134,atama email yaz ki mən ad günü şənliyinə gedəcəyəm,email_sendemail,5
+348,4529,mənim növbəti qurulmuş qudokum nədir,alarm_query,0
+349,2327,temperatur neçədir,weather_query,9
+350,10158,mənə deyə bilərsən necə peçenye bişirim,cooking_recipe,3
+351,16200,zəhmət olmasa cavidin yeni email ünvanına larrylarry ət gmail nöqtə com email göndər,email_sendemail,5
+352,8613,ən son planımı sil,calendar_remove,2
+353,11637,yaxınlığımdakı kinoteatrlarda göstərilən ən yaxşı i. m. d. b. reytinqi olan filmləri mənə de,recommendation_movies,7
+354,5535,yağış yağsa işə getməyəcəyəm,weather_query,9
+355,3802,mənə sabah bakıda hava necə olacaq göstər,weather_query,9
+356,4905,soyuq olacaq,weather_query,9
+357,5843,alexa mənim bugün çətirə ehtiyacım var,weather_query,9
+358,4252,bugün yanımda çətir götürməliyəm,weather_query,9
+359,9665,audio kitabı otuz saniyə geriyə qaytar,play_audiobook,6
+360,8950,xatırlatmanı tap və sil,calendar_remove,2
+361,180,indi hava necədir,weather_query,9
+362,10065,hindistan mətbəxində hansı ədviyyatlar var,cooking_recipe,3
+363,9910,hərb və sülhü qaldığım yerdən davam etmək istəyirəm,play_audiobook,6
+364,3246,mənə bakı şəhərinin havasını de,weather_query,9
+365,11774,bu həftə sonu nəyə baxmağı təklif edirsən,recommendation_movies,7
+366,1947,səsi azalt,audio_volume_down,1
+367,10144,mən piroqu buzluqda nə qədər vaxt soyuduram,cooking_recipe,3
+368,15748,nərminə email göndər ki dünən axşam çılğın idi,email_sendemail,5
+369,5586,mənə yağış çəkmələri lazım olacaq,weather_query,9
+370,9046,iyirminci həftə üçün bütün repetitorluq tədbirlərini sil,calendar_remove,2
+371,16194,zəhmət olmasa leylaya email göndər,email_sendemail,5
+372,1938,bakı hava məlumatı,weather_query,9
+373,16689,cavidin emailinə cavab ver,email_sendemail,5
+374,4072,onu aşağı sala bilərsən,audio_volume_down,1
+375,16568,zəhmət olmasa yeni təcrübəçiyə email göndər,email_sendemail,5
+376,15956,olly laləyə email yaz bildir ki biz yoldayıq,email_sendemail,5
+377,12157,mənə getmək üçün qatar bileti al,transport_ticket,8
+378,5723,bugün axşam yağış yağacaq,weather_query,9
+379,10026,yeməyin hazırlanması üçün mərhələləri googleda axtar,cooking_recipe,3
+380,9752,üzüklərin əfəndisinə davam et,play_audiobook,6
+381,6128,qar ayaqqabıları gətirməliyəm,weather_query,9
+382,1504,fransada gecə saat səkkizdir nyu yorkda saat neçədir,datetime_convert,4
+383,4592,hansı zəngli saatlar gəlir,alarm_query,0
+384,5041,hava durumu,weather_query,9
+385,8440,təqvimimdən bütün planları sil,calendar_remove,2
+386,5460,indi özümlə çətir götürməliyəm,weather_query,9
+387,5215,olly günəş kreminə ehtiyacım var,weather_query,9
+388,8105,aleksa zəhmət olmasa bu günə olan bütün görüşləri sil,calendar_remove,2
+389,4328,beş günlük hava proqnoz necədir,weather_query,9
+390,6440,indilərdə baxmaq üçün yaxşı film hansıdır,recommendation_movies,7
+391,12173,mənə bazar ertəsi üçün bakıya qatar bileri tap,transport_ticket,8
+392,6110,bu gün günbatımından sonra mənə çətir lazım olacaq,weather_query,9
+393,9922,mən necə qutab büküm,cooking_recipe,3
+394,9036,bugünkü bütün planları ləğv et və məni məşğul kimi qeyd et,calendar_remove,2
+395,4679,bugün mənə nazik ya qalın gödəkçə lazımdır,weather_query,9
+396,2998,lahıc ismayıllı hava,weather_query,9
+397,9799,albomu aç,play_audiobook,6
+398,9724,audio kitab pleyerinə davam et,play_audiobook,6
+399,12893,mənim üçün qatar bileti sifariş etməyini istəyirəm,transport_ticket,8
+400,7984,bu gün üçün bütün təqimimi sil,calendar_remove,2
+401,9865,bu audio kitabı mənimçün oxu,play_audiobook,6
+402,394,virciniyada günortadırsa kaliforniyada saat neçədir,datetime_convert,4
+403,724,həftə üçün hava durumu statistikasını ver,weather_query,9
+404,5012,indi tufan var,weather_query,9
+405,8476,zəhmət olmasa bu planı sil,calendar_remove,2
+406,9721,harry potter beşinci kitaba davam et,play_audiobook,6
+407,9711,audionu sürətlə irəli yığıb sonra yenidən başlamağını istəyirəm,play_audiobook,6
+408,3284,ismayıllıda hava necədir,weather_query,9
+409,16167,mən nərminə cavab göndərməliyəm,email_sendemail,5
+410,794,sabah səhər üçün zəngli saatı təsdiqlə,alarm_query,0
+411,408,mənim təyin olunmuş hansı zəngli saatlarım var,alarm_query,0
+412,9670,hophopnaməni yenidən başlat,play_audiobook,6
+413,3616,sabah yağış gözləmirik,weather_query,9
+414,9749,uzaqdan istifadə,play_audiobook,6
+415,4434,bu həftə üçün proqnoz nədir,weather_query,9
+416,489,çöldəki temperatur nə qədərdir,weather_query,9
+417,1891,bu gün hava necədir,weather_query,9
+418,16115,axşam saat on ilə səhər saat doqquz arasında alınan bütün e poçtlara cavab verilməlidir,email_sendemail,5
+419,4107,telefonda hansı zəngli saatlar qurulub,alarm_query,0
+420,12506,sahil qəsəbəsinə qatar bileti sifariş et,transport_ticket,8
+421,3163,mən sabaha hansı zəngli saatları qurmuşam,alarm_query,0
+422,16686,yeni ünvana email göndər,email_sendemail,5
+423,283,bazar günü günəş gözlənilir,weather_query,9
+424,12129,iki gündən sonra mənə bakıdan gəncəyə qatara bilet sifariş et,transport_ticket,8
+425,16871,nərminə email göndər,email_sendemail,5
+426,9774,səsli kitabı qaldığımız yerdən oxut,play_audiobook,6
+427,12574,bakıya qatar bileti sifariş ver,transport_ticket,8
+428,5498,pensilvaniyadan saat neçədə zəng edə bilərəm ki bu avstraliyada iş saatlarına düşsün,datetime_convert,4
+429,15888,yerli restoranların siyahısını toplayıb ərimə göndərə bilərsən zəhmət olmasa,email_sendemail,5
+430,16128,ramizə email göndər,email_sendemail,5
+431,9825,michael jacksonun audio kitabından mahnıya davam et,play_audiobook,6
+432,16839,mənim arvadıma email göndər,email_sendemail,5
+433,4500,həftəlik hava hesabatı nədir,weather_query,9
+434,10193,necə kabab bişirmək olar,cooking_recipe,3
+435,16625,cavidə emeyl vasitəsilə gecikəcəyimi de,email_sendemail,5
+436,9802,iki qüllə audio kitabına davam et,play_audiobook,6
+437,831,hey google hey çöldə hava çox istidir bu gün günorta temperatur nə qədərdir,weather_query,9
+438,699,hava məlumatı necədir,weather_query,9
+439,8545,təqvimimi sil,calendar_remove,2
+440,12151,bu həftə sonu mənə bakıya bilet sifariş et,transport_ticket,8
+441,904,gələn həftə hava necə olacaq,weather_query,9
+442,3964,neçə zəngli saat təyin olunmuşdur,alarm_query,0
+443,16879,cavidə görüş haqda imeyl göndər,email_sendemail,5
+444,1781,ordakı havanı öyrənə bilərəm,weather_query,9
+445,10227,mənə toyuq hazırlama metodu de,cooking_recipe,3
+446,9880,zəhmət olmasa kitab,play_audiobook,6
+447,16428,zəhmət olmasa atama email yaz gəncədə hava necədir soruş,email_sendemail,5
+448,8331,sabaha olan görüşümü sil,calendar_remove,2
+449,7649,təqvimdən bütün planları təmizlə,calendar_remove,2
+450,11856,zəhmət olmasa olly film məsləhət gör,recommendation_movies,7
+451,1009,bu həftəsonu hava necə olacaq,weather_query,9
+452,10013,resepti seç,cooking_recipe,3
+453,5241,səhər saat beşə zəngli saat qurmusan,alarm_query,0
+454,3737,dinamiklərin səsini aşağı sal,audio_volume_down,1
+455,559,sabaha zəng vəziyyəti nədir,alarm_query,0
+456,8471,təqvimdən keçən ayın bütün planlarını sil,calendar_remove,2
+457,5230,bu gün papaq geyinməliyəm,weather_query,9
+458,9949,bunu nə qədər vaxt bişirirsən,cooking_recipe,3
+459,5875,bugün kostyum yoxsa sviter geyinməliyəm,weather_query,9
+460,5334,hansı zəngli saatları qurmusan,alarm_query,0
+461,5210,mənim bugünə qurulmuş hansı zəngli saatlarım var,alarm_query,0
+462,755,bu yerdə vaxtı e. s. t. olaraq dəyiş,datetime_convert,4
+463,4285,bu həftə üçün ən yüksək temperatur nə qədərdir,weather_query,9
+464,5585,bugün mənə günəş kremi lazımdır,weather_query,9
+465,7391,sabah daha anamla nahar üçün görüşməyəcəm,calendar_remove,2
+466,8831,təqvimdən bütün məlumatı silin,calendar_remove,2
+467,16690,cavadın yeni emailinə cavab yaz,email_sendemail,5
+468,7252,qonaqlığın tarixini dəyişib cümə axşamına planlaşdır,calendar_remove,2
+469,15941,zəhmət olmasa emailə cavab göndər,email_sendemail,5
+470,9868,transilvaniya səfəri kitabını oxu,play_audiobook,6
+471,16868,ailəmlə email ilə əlaqə saxla,email_sendemail,5
+472,98,indi qar yağır,weather_query,9
+473,7344,bütün təqvim planlarını sil,calendar_remove,2
+474,12749,zəhmət olmasa mənə qatar bileti ala bilərsən,transport_ticket,8
+475,9820,audibleda unudulmuş röyanı oxu,play_audiobook,6
+476,9744,audionu davam et,play_audiobook,6
+477,3795,indi bakıda havanın temperaturu neçə dərəcədir,weather_query,9
+478,16034,davudun email ünvanına yeni email yaz,email_sendemail,5
+479,8854,təqdimdəki tədbirləri sil,calendar_remove,2
+480,11791,yeni elmi fantastika filmi hansıdır,recommendation_movies,7
+481,3025,tərtərdə hava,weather_query,9
+482,4706,bu gün mənim ərazimdə proqnoz nədir,weather_query,9
+483,2124,mənə bakı üçün hava proqnozunu de,weather_query,9
+484,16937,imeyli sonra üçün yadda saxla,email_sendemail,5
+485,3691,gəncədə hazırkı temperatur nə qədərdir,weather_query,9
+486,16510,bu cavabı alınan emailə göndər,email_sendemail,5
+487,16631,mən bu emailə cavab verməliyəm,email_sendemail,5
+488,9988,buxarlanmış,cooking_recipe,3
+489,5331,hindistan və a. b. ş. arasında olan vaxt qurşağı,datetime_convert,4
+490,96,yağış yağırmı,weather_query,9
+491,5866,aktiv olan hər hansı zəngli saat var,alarm_query,0
+492,6092,həftəsonu bakıda buludlu olacaq,weather_query,9
+493,16127,cavid imanova email göndər,email_sendemail,5
+494,7998,mənim təqvimdəki növbəti tədbirimi sil,calendar_remove,2
+495,9181,növbəti həftə üçün ad günümə olan xatırlatmanı sil,calendar_remove,2
+496,5075,bu həftə hava necədir,weather_query,9
+497,3560,zəhmət olmasa səsi azalt,audio_volume_down,1
+498,9862,yenə quran dərsləri kitabımı aç,play_audiobook,6
+499,16209,sabahkı korporativin təfərrüatları haqqında nərminə email göndər,email_sendemail,5
+500,9748,tənha ürəklərin evinə davam et,play_audiobook,6
+501,16557,adına cavab ver,email_sendemail,5
+502,16830,nərminə təsdiq emaili göndər,email_sendemail,5
+503,10116,oli toyuq kababı necə bişirərsən,cooking_recipe,3
+504,648,mənə hansı qudokları qurduğumu deyə bilərsən,alarm_query,0
+505,284,axşam yağış yağacaq,weather_query,9
+506,7911,təqvimimdən telman ilə şam yeməyini çıxart,calendar_remove,2
+507,9682,olly mənə harry potteri axırıncı dəfə qaldığım yerdən oxut,play_audiobook,6
+508,3388,bugün bakıda hava necə olacaq,weather_query,9
+509,2091,sabah səhər yağış yağacaq,weather_query,9
+510,3446,şənbə günü yağış yağacaq,weather_query,9
+511,8433,martın on doqquzu günorta saat birdə olan görüş planımı sil,calendar_remove,2
+512,7290,bu gün üçün mənim bütün görüşlərimi sil,calendar_remove,2
+513,16149,cavidə tez cavab yaz,email_sendemail,5
+514,16195,nərminə email göndər,email_sendemail,5
+515,16429,zəhmət olmasa anama email yaz ki mən bunu gələn həftə edə bilərəm,email_sendemail,5
+516,12832,mənə bugün günorta bakıya qatar bileti sifariş et,transport_ticket,8
+517,11982,olly metroparkda hansı filmlər göstərilir,recommendation_movies,7
+518,8814,plan gününə get və onu sil,calendar_remove,2
+519,9886,qorio ata audio kitabını yenidən başlat,play_audiobook,6
+520,17026,olly anaya email göndər mənimlə bu gün günorta yeməyi üçün görüşməyi xatırlat,email_sendemail,5
+521,4864,mənə ismayıllıda havanı de,weather_query,9
+522,16566,şirkət işçisinə iş layihəsi haqqında email yaz,email_sendemail,5
+523,10178,kartofları düzgün soymağı öyrən,cooking_recipe,3
+524,12324,vaxt və tarix,transport_ticket,8
+525,11873,hal hazırda mənim bölgəmdə nümayiş etdirilən hər hansı bir filmi məsləhət görürsən,recommendation_movies,7
+526,205,zəngli saatları göstər,alarm_query,0
+527,16417,zəhmət olmasa bu emaili cavid əmiyə göndər bəli mən orada olacağam,email_sendemail,5
+528,5351,çöldə hava necədir,weather_query,9
+529,9705,audiokitabımda son qaldığım yerdən başla,play_audiobook,6
+530,863,mənim zəngli saatlarım,alarm_query,0
+531,15996,sabahkı görüş haqqında işçi qrupuna email yaz,email_sendemail,5
+532,3885,hazırda hansı zəngli saatlar qurulmuşdur,alarm_query,0
+533,9683,kitab oxut,play_audiobook,6
+534,16012,olly nərminə email göndər,email_sendemail,5
+535,15804,cavidə softbol oyunu haqqında email yaz ki cavid bizim getməmişdən əvvəl bir neçə içki almağa ehtiyacımız var,email_sendemail,5
+536,2422,yasamalda indi hava necədir,weather_query,9
+537,10148,mətbəximazdan ən yüksək qiymətləndirilmiş plov resepti tap,cooking_recipe,3
+538,11956,olly mənim yanımda hansı filmlər oynayır,recommendation_movies,7
+539,6046,bugün şort geyinə bilərəm,weather_query,9
+540,4528,yatış adlı alarm haqqında mənə deyə bilərsən,alarm_query,0
+541,16595,emaili yönləndir,email_sendemail,5
+542,4539,o mətni göndərməyini istəməzdim hələ ki göndər deyənə qədər gözlə,email_sendemail,5
+543,14351,ismayıllı üçün mart ayında orta temperatur nə qədərdir və bu son on illə müqayisədə necədir,weather_query,9
+544,12126,hey mənə çərşənbə günü bakıya gedən qatarlar lazımdır,transport_ticket,8
+545,6102,hey olly bu gün lahıc ismayıllıda hava necə olacaq,weather_query,9
+546,206,mingəçevirdə hava necədir,weather_query,9
+547,4552,mənim bütün zəngli saatlarımın siyahısını göstər,alarm_query,0
+548,6126,palto geyinməliyəm,weather_query,9
+549,9899,hazırki audio kitabı oxumağa davam et,play_audiobook,6
+550,9037,bu gün üçün qalan bütün təqvim planlarını təmizlənmiş kimi işarələ,calendar_remove,2
+551,9785,kitabı aç,play_audiobook,6
+552,3304,olly bu həftə hava necədir,weather_query,9
+553,7132,təqvimimdən ayın onu olan toyu çıxartmaq istəyirəm,calendar_remove,2
+554,9938,hamburgerin hər iki üzünü nə qədər qızardım,cooking_recipe,3
+555,10202,mənə necə dönər hazırlamaq olar de,cooking_recipe,3
+556,1657,hal hazırda neçə zəngli saat qurulmuşdur,alarm_query,0
+557,5323,zəhmət olmasa mənə bakı üçün hava məlumatını de,weather_query,9
+558,3150,mənim zəngli saatım səhər nə vaxt çalacaq,alarm_query,0
+559,17068,nərmindən gəlmiş emailə cavab ver,email_sendemail,5
+560,4525,bugün üçün hava proqnozu nədir,weather_query,9
+561,7544,sabah üçün olan bütün görüşlərimi sil,calendar_remove,2
+562,7093,mənim təqvimimi təmizlə,calendar_remove,2
+563,10123,ən yaxşı acı bibər hansıdır,cooking_recipe,3
+564,1768,on otuzu g. m. t. üstə gəl iki otuzdan g. m. t. ə çevir,datetime_convert,4
+565,16345,mən yeni email göndərməliyəm budur ünvan daha sonra onu əlaqə siyahısına əlavə et,email_sendemail,5
+566,846,məni sabah hansı zəngli saatlar oyandıracaq,alarm_query,0
+567,8555,apreldə delfinlər üçün olan ianəni sil,calendar_remove,2
+568,5506,zəngli saatım səhərə qurulmuşdursa mənə bildir,alarm_query,0
+569,5078,mənə palto lazımdır,weather_query,9
+570,5538,bugün günəşdən qoruyucu losyon sürtməliyəm,weather_query,9
+571,4374,təyin olunmuş zəngli saatları gözdən keçir,alarm_query,0
+572,16064,cavidə email göndər ki indi hardadır və əgər marketdədirsə ona mesaj yaz ki şərab gətirsin,email_sendemail,5
+573,16265,ailəmə email yaz ki hamınızı sevirəm,email_sendemail,5
+574,1842,bu həftə sonu gəncədə günəş parlayacaq,weather_query,9
+575,11984,olly nizami kinoteatrında nə göstərilir,recommendation_movies,7
+576,3482,gəncədə bu gün hava necədir,weather_query,9
+577,16688,yeni ünvana imeyl yaz,email_sendemail,5
+578,8285,may ayı üçün təqvimdən ad günü yığınağını sil,calendar_remove,2
+579,7821,təqvimdən bütün xatırlatmaları sil,calendar_remove,2
+580,17028,olly gəl nərminə email göndərək,email_sendemail,5
+581,16536,mənim nəzarətçimə email göndər,email_sendemail,5
+582,5869,bugün lənkəran üçün hava hesabatı necədir,weather_query,9
+583,9701,sumqayıtda atıcının anası tərəfindən yazılmış kitabı dinləmək istəyirəm,play_audiobook,6
+584,10024,mənə bozbaşın reseptini tap,cooking_recipe,3
+585,15952,cavidə email yaz soruş ki işini nə vaxt qurtarir,email_sendemail,5
+586,5711,bu axşam sumqayıta palto götürməliyəm,weather_query,9
+587,7297,təqvimimi götür və onu təmizlə,calendar_remove,2
+588,9092,təqvimdəki bütün hadisələri ləğv et,calendar_remove,2
+589,3505,gələn həftə bakıda hava necə olacaq,weather_query,9
+590,2344,bazar ertəsi fizuli şəhərində hava necə olacaq,weather_query,9
+591,2341,mən bakı şəhərinin hazırkı havasını bilmək istəyirəm,weather_query,9
+592,1020,indi hava necədir,weather_query,9
+593,4485,bu həftə hava necə olacaq,weather_query,9
+594,16702,nərminin ən son emailini tap ki cavab yaza bilim,email_sendemail,5
+595,4466,səhər hər hansı zəngli saat qurmuşam,alarm_query,0
+596,10108,yumurtaları bişirməyin yaxşı üsulu hansıdır,cooking_recipe,3
+597,11635,film sabah saat neçədə göstəriləcək,recommendation_movies,7
+598,9945,lavaşda lahmacun üçün ən məşhur resepti tap,cooking_recipe,3
+599,9080,bugünkü bütün görüşləri sil,calendar_remove,2
+600,1633,mənim zəngli saatlarımı göstər,alarm_query,0
+601,7869,təqvimdən planı çıxart,calendar_remove,2
+602,15992,kamran əliyev adına ən xoş arzularımı və workpdf qoşmasını elektron poçtla göndər,email_sendemail,5
+603,1456,bayırda hava necədir,weather_query,9
+604,8370,ey siri təqvimimdə bu günə olan bütün görüşləri təmizlə,calendar_remove,2
+605,16537,mən indi iş yoldaşıma email yazmalıyam,email_sendemail,5
+606,15907,mətinin sonuncu mesajına oldu mən bunu edəcəm təşəkkür edirəm məzmunlu cavab yaz,email_sendemail,5
+607,4557,azərbaycan bakıda hava,weather_query,9
+608,9898,hobbit audio kitabını oxu,play_audiobook,6
+609,649,mənim bugünə qurulmuş hər hansı zəngli saatım var,alarm_query,0
+610,6165,bugün günəş kremi sürtməliyəm,weather_query,9
+611,12282,sumqayıtdan bakıya qatar bileti istəyirəm,transport_ticket,8
+612,2340,mənə bakı şəhərinin hazırkı havasını de,weather_query,9
+613,3403,bu həftəsonu günəşli olacaq,weather_query,9
+614,3548,növbəti qar nə vaxt yağacaq,weather_query,9
+615,690,səs çox yüksəkdir aşağı sal,audio_volume_down,1
+616,10109,qoğal bişirmək üçün mənə kömək lazımdır,cooking_recipe,3
+617,5459,işdən sonra mənə sviter lazımdır,weather_query,9
+618,12613,bakıdan gəncəyə qatar bileti sifariş etməliyəm,transport_ticket,8
+619,2916,filan və filan günlərdə hava necədir,weather_query,9
+620,7079,zəhmət olmasa təqvimimdəki bütün məlumatları sil,calendar_remove,2
+621,9668,min doqquz səksən dörd kitabına qaldığım yerdən qulaq asın bitirmək istəyirəm,play_audiobook,6
+622,10201,plov bişirmək üçün addımlar nələrdir,cooking_recipe,3
+623,4504,növbəti iki gün yağış yağacağı gözlənilir,weather_query,9
+624,5932,los anceles vaxtına keç,datetime_convert,4
+625,5971,bugün hava necədir,weather_query,9
+626,12605,mənə cümə günü səhər bakıya gedən ən erkən qatar biletini tap,transport_ticket,8
+627,9913,pomidor supu üçün hansı inqrediyentlər lazımdır,cooking_recipe,3
+628,5291,indi temperatur necədir,weather_query,9
+629,1307,burada bugünkü iqlim necədir,weather_query,9
+630,9859,audible aç və mən qulaq asdığım kitabı oxumağa davam et,play_audiobook,6
+631,8556,bu cümə olan iş yeməyini sil,calendar_remove,2
+632,10212,yaxşı yemək,cooking_recipe,3
+633,2585,indi radionu aşağı səsdə aç,audio_volume_down,1
+634,8335,təqvimimdə heç bir planın siyahısının tərtib olunmağını istəmirəm,calendar_remove,2
+635,2791,bakıda beş günlük hava proqnozu necədir,weather_query,9
+636,9854,alacatoranlıq audio kitabını davam et,play_audiobook,6
+637,4469,bu gün mənə jaket lazımdır,weather_query,9
+638,15832,kontakta növbəti şəkildə email göndər,email_sendemail,5
+639,16480,mahirə cavab emaili hazırla,email_sendemail,5
+640,3389,sumqayıt üçün hava proqnozu necədir,weather_query,9
+641,16534,çinarəyə email yaza bilərsən mənim üçün,email_sendemail,5
+642,16943,nənəyə email göndər mövzu şənbə mesajı biz şənbə günü gəlirik onda görüşərik,email_sendemail,5
+643,8002,sabahkı görüşümü sil,calendar_remove,2
+644,10029,sən kartofu neçə dərəcədə bişirirsən,cooking_recipe,3
+645,11736,swat yaxşı filmdir,recommendation_movies,7
+646,5935,mən bu gün çətir götürdüm,weather_query,9
+647,16547,mən nərminə emeyl göndərmək və işdən sonra tgi cümələrdə görüşmək istəyib istəmədiyini soruşmaq istərdim,email_sendemail,5
+648,16782,anama həftəlik hava ilə bağlı email göndərə bilərsən,email_sendemail,5
+649,10149,pomidor yumurta üçün dadlı azda ən yüksək qiymətləndirilmiş resepti tap,cooking_recipe,3
+650,9991,mənə yemək bişirmək üçün dərslər göstər,cooking_recipe,3
+651,10161,düyü şərabı nə ilə gedir,cooking_recipe,3
+652,16981,cavidə email göndər,email_sendemail,5
+653,15912,cavidə email göndər,email_sendemail,5
+654,8632,təqvimimdən onu silə bilərsən,calendar_remove,2
+655,9681,mənim keçən dəfə qaldığım yerdən əli və ninonu qoş,play_audiobook,6
+656,8255,gələcək planı ləğv et,calendar_remove,2
+657,9842,əlibaba və qırx qulduru çala bilərsən,play_audiobook,6
+658,16231,zəhmət olmasa cavidin emeylinə onun ideyasının fantastik olduğunu bildirən cavab ver,email_sendemail,5
+659,9846,audiokitabıma son dayandırılmış yerdən davam et,play_audiobook,6
+660,4865,qəbələdə indi hava necədir,weather_query,9
+661,7648,təqvimdən planı sil,calendar_remove,2
+662,4559,mənə bu həftənin proqnozunu göstər,weather_query,9
+663,16172,anaya email göndər və ona de ki lunaparkda görüşərik,email_sendemail,5
+664,7701,təqvimimdəki bütün planları sil,calendar_remove,2
+665,3533,zəhmət olmasa saat qurşağını azərbaycana dəyiş,datetime_convert,4
+666,15780,e poçt göndər günay a necəsən sonuncu proyektdə yenilikləri göndərə bilərsən sevgilərlə tomas,email_sendemail,5
+667,10112,yaxşı burger necə bişirə bilərsən,cooking_recipe,3
+668,12855,saxlanılan məlumat üçün bu gün a. d. y. saytında bilet sifariş et,transport_ticket,8
+669,16837,bu emaili bu yeni email ünvanına yaz,email_sendemail,5
+670,7621,bütün təqvim planlarımı sil,calendar_remove,2
+671,5174,bütün həftə ərzində hava necədir,weather_query,9
+672,16205,bu mesajı həmkarların qrupuna yaz,email_sendemail,5
+673,1604,saatın zəngi sabah səhər saat neçəyə qurulmuşdur,alarm_query,0
+674,568,hava nə qədər soyuqdur,weather_query,9
+675,16599,bu emaili sil,email_sendemail,5
+676,16307,ailəmə getməli olan bir email yaz,email_sendemail,5
+677,16632,bu yeni email ünvanına email göndərəcəksən,email_sendemail,5
+678,9781,şeytanın ulduzunu qoy,play_audiobook,6
+679,11919,hansı filmin ən yaxşı rəyləri olduğunu deyə bilərsən,recommendation_movies,7
+680,11872,hal hazırda mənim ərazimdə göstərilən filmlər məsləhət görə bilərsən,recommendation_movies,7
+681,12080,zəhmət olmasa yaxınlıqda kinoteatrlarda nümayiş olunan filmlərə bax,recommendation_movies,7
+682,12871,mənim üçün gəncəyə qatar bileti sifariş et,transport_ticket,8
+683,11747,bu gecə axşam doqquzda metroparkda hansı filmlər nümayiş olunur,recommendation_movies,7
+684,11696,yerli kinoteatrda hansı filmlər göstərilir,recommendation_movies,7
+685,16831,nərminə dəvət emaili göndər,email_sendemail,5
+686,7361,zəhmət olmasa növbəti ad günü planını sil,calendar_remove,2
+687,6727,ayxan ilə söhbəti sil,calendar_remove,2
+688,1991,bugün hava necədir,weather_query,9
+689,6957,təqvimimi təmizlə,calendar_remove,2
+690,3807,ismayıllıda bu həftə hava,weather_query,9
+691,2671,zəhmət olmasa sabah səhərə mənim zəngli saat qurduğumu yoxlayın,alarm_query,0
+692,3619,lənkəranda hava necədir,weather_query,9
+693,12292,bakı üçün bilet,transport_ticket,8
+694,4140,yenə nə vaxt əlli dərəcədən yuxarı olacaq,weather_query,9
+695,1484,mənim zəngli saatlarıma bax,alarm_query,0
+696,10126,tort qarışımıma neçə yumurta qoyum,cooking_recipe,3
+697,2080,mənim yuxudan oyandırma zəngim səhər saat altıya təyin olunmuşdur,alarm_query,0
+698,950,bakıda hava necədir,weather_query,9
+699,16498,xatırlatma emaili göndər,email_sendemail,5
+700,9779,mavi mələkləri çal,play_audiobook,6
+701,9094,martın iyirmi birində cəbrayılla planlaşdırılmış görüşü sil,calendar_remove,2
+702,16013,nərminə email göndər,email_sendemail,5
+703,12750,lahıc ismayıllıdan bakıya qatar bileti al,transport_ticket,8
+704,6094,bu gecə pəncərələrimi açıq qoymalıyam,weather_query,9
+705,5587,bugün günəş kreminə ehtiyac var,weather_query,9
+706,10231,ədvalı yeməklərə nümunələr nələrdir,cooking_recipe,3
+707,4863,ismayıllıda hava necədir,weather_query,9
+708,16059,cavidə cavab yaz və sabah boş olacağımı bildir,email_sendemail,5
+709,15750,cavidə mesaj yaz bildir ki mən gecikəcəyəm,email_sendemail,5
+710,15764,hey poladın emailinə tez cavab yaz,email_sendemail,5
+711,10056,sən makaronu necə bişirirsən,cooking_recipe,3
+712,8099,salam google zəhmət olmasa cümə axşamı olan şam yeməyi planını sil,calendar_remove,2
+713,9667,cəlil məmmədquluzadənin danabaş kəndinin əhvalatları əsərini oxutmağa davam et zəhmət olmasa,play_audiobook,6
+714,16884,anama epoçt atıb ona haqqında dediyim kitabı amazondan sifariş alıb almadığını soruş,email_sendemail,5
+715,789,bu həftə hava necədir,weather_query,9
+716,10188,yarpaq dolmasını öz suyunda necə bişirə bilərəm,cooking_recipe,3
+717,9090,təqvimdəki bütün planları sil,calendar_remove,2
+718,15898,cavidə yeni ilin mübarək emaili yaz,email_sendemail,5
+719,3772,zəhmət olmasa zəngli saatlarımı mənə oxu,alarm_query,0
+720,10168,bu yeməyi necə bişirirlər,cooking_recipe,3
+721,9177,səyahət planını sil,calendar_remove,2
+722,12290,bir hadisə və ya bilet qeydə al,transport_ticket,8
+723,16658,cavidə email göndər və bu həftə hava necə olacaq soruş,email_sendemail,5
+724,9981,mənə içində bir az bal və pendir olan makaron bişir,cooking_recipe,3
+725,6362,mən hansı filmə baxım,recommendation_movies,7
+726,9905,mən tərk etdiyim yerdən oxumağa davam et,play_audiobook,6
+727,395,şərqi vaxt ilə sakit okean saat qurşağı arasındakı vaxt fərqi nədir,datetime_convert,4
+728,11900,bəyənəcəyim bir filmi oynat,recommendation_movies,7
+729,16548,nərminə email yazıb yolda olduğumu deyə bilərsən,email_sendemail,5
+730,4743,hey google mənim üçün hansı zəngli saatlar qurulub de,alarm_query,0
+731,4423,bu həftə hava necədir,weather_query,9
+732,11983,olly mənim bölgəmdə romantik komediya tövsiyə et,recommendation_movies,7
+733,3245,bilmirsən bugün yağış yağacaq,weather_query,9
+734,14349,quql bayırda temperatur neçə dərəcədir,weather_query,9
+735,15981,samirənin emailinə cavab yaz,email_sendemail,5
+736,16440,nərminə email yaz ki mən iş təklifini qəbul edəcəyəm,email_sendemail,5
+737,16177,emailə cavab ver,email_sendemail,5
+738,10208,qoxu,cooking_recipe,3
+739,10106,mənə təndirdə toyuq resepti göstər,cooking_recipe,3
+740,1455,hava,weather_query,9
+741,10010,mən yeməyi necə bişirə bilərəm,cooking_recipe,3
+742,1686,sabah hava isti olacaq hə yoxsa yox,weather_query,9
+743,358,zəngli saatım bugün saat neçədə işə düşəcək,alarm_query,0
+744,6139,olly çəkmə geyinməliyəm,weather_query,9
+745,17014,emailə cavab ver,email_sendemail,5
+746,4901,media səsini aşağı sal,audio_volume_down,1
+747,9900,bətl royal kitabını qaldığımız yerdən oxut,play_audiobook,6
+748,735,səsini aşağı sala bilərsən zəhmət olmasa,audio_volume_down,1
+749,8161,qonaqlıq planını ləğv et,calendar_remove,2
+750,398,sabah isti olacaq,weather_query,9
+751,1263,mənim neçə zəngli saatım var,alarm_query,0
+752,15954,olly sabahkı görüşün yeni cədvəli nərminə email at,email_sendemail,5
+753,9777,iki romana davam et,play_audiobook,6
+754,12747,zəhmət olmasa mənim üçün qatar bileti sifariş et,transport_ticket,8
+755,16418,zəhmət olmasa cavid əmiyə email yaz de ki mən orada olacağam,email_sendemail,5
+756,1391,olly şənbə günü hava gözəl olacaq,weather_query,9
+757,12763,mənə qatar bileti lazımdır,transport_ticket,8
+758,16680,qardaşıma email yaz soruş ki o nahara nə vaxt gələcək,email_sendemail,5
+759,5466,nahar üçün dostumla görüşməyə getməzdən əvvəl günəş kremindən istifadə etməliyəmmi,weather_query,9
+760,16904,ən son imeylimə cavab vermək istəyirəm,email_sendemail,5
+761,15826,hamıya cavab yaz ki mən yoldayam,email_sendemail,5
+762,16122,nərmin üçün yeni bir email yaz,email_sendemail,5
+763,11670,olly mənə yaxınlıqda hansı filmlər nümayiş olunur,recommendation_movies,7
+764,5663,axşam mənə jaket lazımdır,weather_query,9
+765,7062,zəhmət olmasa təqvim planlarımı sil,calendar_remove,2
+766,1690,olly bu həftənin hava proqnozu nədir,weather_query,9
+767,9883,məhşər ayağındaya geri qayıt,play_audiobook,6
+768,3927,qubaya dünəndən bəri nə qədər qar yağıb,weather_query,9
+769,9695,elxan elatlının cəhənnəmdən gələn səs romanını oxut,play_audiobook,6
+770,15927,nərminə email göndər ki mən şənbə günorta saat birdə onunla görüşə bilərəm,email_sendemail,5
+771,15926,ramiləyə email yaz bildir ki mənim telefonum yenidən xidmətdədir,email_sendemail,5
+772,1250,bu həftə yağış ehtimalı var,weather_query,9
+773,15889,zəhmət olmasa rəfiqəm sevincə epoçt göndərə bilərsən ona xəbər et ki sabah kilsədə olmayacam,email_sendemail,5
+774,1389,şənbə günü hava necə olacaq,weather_query,9
+775,12140,qatar biletlərini rezerv elə,transport_ticket,8
+776,7740,təqvimimdən vəlinin ad günü yığıncağını sil,calendar_remove,2
+777,16121,nərminə cavab ver,email_sendemail,5
+778,15928,bilala email yaz ki onun bu qədər xəstə olduğunu bilmədiyim üçün üzr istəyirəm,email_sendemail,5
+779,9824,qatil üçün qran. prini qaldığımız yerdən başlat,play_audiobook,6
+780,9819,mənə bu ay ən çox satılan audio kitabın xülasəsini tap,play_audiobook,6
+781,16360,cavid və cabirə email yaz,email_sendemail,5
+782,9888,alov kuboku qaldığım yerdən oxumağa başla,play_audiobook,6
+783,9093,kalendarda mart ayı üçün bütün tədbirləri sil,calendar_remove,2
+784,8830,təqvimdən bütün məlumatları sil,calendar_remove,2
+785,604,bir həftə sonra hava necə olacaq,weather_query,9
+786,320,sabah çətir götürəcəm,weather_query,9
+787,16233,cavidə çimərlikdəki qağayılar haqqında onu xəbərdar edən emeyl cavabı yaz,email_sendemail,5
+788,6453,bakıdan gəncəyə ən ucuz aviabiletlər,transport_ticket,8
+789,7343,təqvimimdəki hər şeyi sil,calendar_remove,2
+790,3856,sabah hava günəşli olacaq,weather_query,9
+791,4475,yağış paltarı götürməliyəm,weather_query,9
+792,8832,məlumatı təqvimdən formatla,calendar_remove,2
+793,3355,səhər duman olacaq,weather_query,9
+794,7961,bütün görüşlərimi sil,calendar_remove,2
+795,6020,qurduğun zəngli saat haqqında məlumat verə bilərsən,alarm_query,0
+796,7435,təqvimimdən növbəti planı silməyini xahiş edə bilərəm,calendar_remove,2
+797,6769,növbəti planımı sil,calendar_remove,2
+798,10179,steyki necə barbekyü etmək olar,cooking_recipe,3
+799,16285,zəhmət olmasa cavidə onun maşını haqqında email göndər,email_sendemail,5
+800,7696,dörd oktyabr günorta saat on ikiyə qeyd olunmuş görüşü sil,calendar_remove,2
+801,6038,günorta yağış yağacaq,weather_query,9
+802,5893,bakıda hava günəşli olacaqmı,weather_query,9
+803,9835,musiqi bir,play_audiobook,6
+804,8889,bunu sil,calendar_remove,2
+805,16970,mən emailin mənim yeni email ünvanım a. b. c. ət gmail nöqtə coma göndərilməyini istəyirəm,email_sendemail,5
+806,8682,planları sil,calendar_remove,2
+807,8477,bu tədbiri silə bilərsən,calendar_remove,2
+808,6088,gələn həftə çərşənbə axşamı günəşli olacaq,weather_query,9
+809,5874,hovuza üst geyimi geyinməliyəm,weather_query,9
+810,16674,joejoe ət gmail nöqtə com üçün email göndər,email_sendemail,5
+811,17024,anama email göndər və bu həftə havanın necə olduğunu öyrən,email_sendemail,5
+812,15779,cavidə bu məzmunda email yaz layihə qurtardı zəhmət olmasa mənə faktura göndər,email_sendemail,5
+813,5447,bugün üzməyə gedəcəyəm yoxsa işə,weather_query,9
+814,10204,steyki necə qızartmaq olar mənə izah et,cooking_recipe,3
+815,1603,yoxla mənim sabah səhərə qurulmuş hər hansı zəngli saatım varmı,alarm_query,0
+816,7994,təqvimimdəki bütün planları sil,calendar_remove,2
+817,3026,gələn həftə bakıda hava necə olacaq,weather_query,9
+818,9788,ən son çalınan audio kitabı çal,play_audiobook,6
+819,5750,bugünə mənə çətir lazım olacaq,weather_query,9
+820,12489,mənə sabah bakıya gedən qatara bilet lazımdır,transport_ticket,8
+821,7146,təqvimimdə ana ilə şam yeməyini tap və onu sil,calendar_remove,2
+822,7200,təqvimimi təmizlə,calendar_remove,2
+823,9821,audibleda xəzinədara davam et,play_audiobook,6
+824,4051,hal hazırda qar yağırmı,weather_query,9
+825,6315,olly hava necədir,weather_query,9
+826,16190,sabah tapşırığı təqdim etmək üçün iş yoldaşıma email yaz,email_sendemail,5
+827,2956,mənim saatımın zəngləri nə vaxtadır,alarm_query,0
+828,7996,yaxınlaşan təqvim planımı sil,calendar_remove,2
+829,17032,hi zəhmət olmasa axşama qədər cavidə email göndər,email_sendemail,5
+830,11810,yaxınlıqda hansı filmlər göstərilir,recommendation_movies,7
+831,1937,mənə yasamalın hava şəraitini ver,weather_query,9
+832,4720,həftəsonu gözəl keçəcək,weather_query,9
+833,4265,bu günün hava proqnozu nədir,weather_query,9
+834,8665,hər şeyi təqvimimdən sil,calendar_remove,2
+835,16439,dostuma göndərməyini istədiyim bir email var,email_sendemail,5
+836,16404,teymura email göndər,email_sendemail,5
+837,9960,düyünü necə buxarda bişirə bilərəm,cooking_recipe,3
+838,10165,bərk yumurta bişirmək üçün neçə dəqiqə qaynatmalıyam,cooking_recipe,3
+839,7149,təkrarlanan bütün heyət iclaslarını sil,calendar_remove,2
+840,9753,olly döyüşçünün yolunu oynada bilərsən,play_audiobook,6
+841,4474,yağış paltarına ehtiyacım var,weather_query,9
+842,16964,ailə üzvünə email yaz və onu oxu,email_sendemail,5
+843,3483,bu gün evdə hava necədir,weather_query,9
+844,6972,planı çıxart,calendar_remove,2
+845,16033,cavidə poçt göndər və lazımi ödəniş barədə soruş,email_sendemail,5
+846,9805,mənimçün mahnı siyahısından michael jackson mahnısı çal,play_audiobook,6
+847,12401,mənim üçün sabah bakı vağzalından iki yüz mil uzaqlıqdakı istənilən şəhərə gedən qatara yer sifariş et,transport_ticket,8
+848,5995,bu gün plaş geyinməliyəm,weather_query,9
+849,12138,mənim üçün qatar bileti sifariş et,transport_ticket,8
+850,16617,bu həftə sonu olacaq şənlik haqqında mahirə email yaz,email_sendemail,5
+851,3703,bu həftə üçün hansı zəngli saatlar quraşdırılmışdır,alarm_query,0
+852,9796,zəhmət olmasa balkan sindromunu yenidən başlat,play_audiobook,6
+853,17029,olly cavidə email göndər,email_sendemail,5
+854,5335,hər hansı bir alarm var,alarm_query,0
+855,16378,alexa anama indi email göndər,email_sendemail,5
+856,15846,bu bizə necə gəldi,email_sendemail,5
+857,9882,viktor hüqonun kitabını yenidən başlat,play_audiobook,6
+858,4759,bu gecə qar yağacaq,weather_query,9
+859,9987,dondurmaq,cooking_recipe,3
+860,438,bu gün yağış yağacaq,weather_query,9
+861,5495,mən bugün çətir götürməliyəm,weather_query,9
+862,7430,bu planın təqvimimdən silinməsini istəyirəm,calendar_remove,2
+863,10233,qızardılmış kartof ilə balıq həqiqətən ingilis yeməyidir,cooking_recipe,3
+864,10234,yemək bişirmək üçün lazım olan bütün inqrediyentləri dəqiq ölçüləri və lazımi avadanlıqları ilə bir yerə toplayın,cooking_recipe,3
+865,4563,mənim saat qurşağımı mərkəzi saat qurşağına dəyişə bilərsən,datetime_convert,4
+866,16499,hi google zəhmət olmasa anama email yaz ki bu həftə sonu evə gəlirəm,email_sendemail,5
+867,8283,mənim kalendarımı boşalt,calendar_remove,2
+868,5496,mən bu filmi izləməliyəmmi,recommendation_movies,7
+869,1353,mən dinamiklərimi yavaşlatmaq istəyirəm,audio_volume_down,1
+870,4562,olly mənim saat qurşağımı hazırda olduğum saat qurşağına çevirə bilərsiniz,datetime_convert,4
+871,5978,şərq vaxtını qərb vaxtına çevirin,datetime_convert,4
+872,5736,mənə həftə üçün hansı zəngli saatları qurduğumu göstər,alarm_query,0
+873,7622,zəhmət olmasa təqvimimdən bütün planları silə bilərsən,calendar_remove,2
+874,12191,azərbaycandan tbilisiyə qatar bileti sifariş et,transport_ticket,8
+875,16681,cavidə email göndər hey dünən sənin üçün darıxdım bu gecə səninlə şam yeməyinə çıxmaq istəyirəm,email_sendemail,5
+876,1037,cümə axşamı üçün mən hansı zəngli saatları qurmuşam,alarm_query,0
+877,15875,cavidə email yaz bildir ki mən evə gəlirəm yoldayam,email_sendemail,5
+878,12198,mənə bakıya qatar bileti sifariş et,transport_ticket,8
+879,12538,olly azərbaycana ən ucuz qatar bileti tap,transport_ticket,8
+880,16988,zəhmət olmasa mənə cavid göndərən emeylə de ki indi vacib pula ehtiyacım var,email_sendemail,5
+881,7328,bütün məzmun və planları təqvimimdən sil,calendar_remove,2
+882,4531,növbəti isti gün nə vaxtdır,weather_query,9
+883,16014,mənim üçün email yaza bilərsən,email_sendemail,5
+884,2557,gəncədə hava necədir,weather_query,9
+885,6006,ikinci gün əlcəklər lazım olacaq,weather_query,9
+886,3783,bakıda hava necədir,weather_query,9
+887,5214,isti paltar gətirməliyəm,weather_query,9
+888,5123,çöldə temperatur nə qədərdir,weather_query,9
+889,750,səsi on faizə endir,audio_volume_down,1
+890,410,mənim qudoklarım saat neçəyə qurulub,alarm_query,0
+891,17155,anarın emailinə cavab ver,email_sendemail,5
+892,6022,bu axşam mülayim axşamdır,weather_query,9
+893,11672,bu gecə film saatları,recommendation_movies,7
+894,12643,mənə sumqayıta gediş-gəliş üçün saat axşam saat beşə bilet hazırla,transport_ticket,8
+895,8927,təqvimimdən bütün planları çıxart,calendar_remove,2
+896,3036,növbəti gün üçün hava şəraiti,weather_query,9
+897,10046,necə orta bişmiş steyk bişirə bilərəm,cooking_recipe,3
+898,1733,bugünkü görüş üçün zəngli saatı yoxla,alarm_query,0
+899,12164,mənim atam üçün qatar bileti bron edə bilərsən,transport_ticket,8
+900,7115,on beşindəki avtomobil ödənişimi təqvimimdən sil,calendar_remove,2
+901,16887,bu emailə cavab ver,email_sendemail,5
+902,9954,toyuq qızartması neçə dərəcədə bişirilir,cooking_recipe,3
+903,6048,bu axşam əlcək geyinməliyəm,weather_query,9
+904,12234,bakı şəhərinə gedən növbəti qatarda biznes klas yer sifariş et,transport_ticket,8
+905,5787,çöldə soyuqdur,weather_query,9
+906,4342,dinamiklərin səsini aşağı sal,audio_volume_down,1
+907,2248,çərşənbə günü hava ümumiyyətlə dəyişdimi,weather_query,9
+908,17044,cavidə imeyl yaz,email_sendemail,5
+909,16204,bu mesajı ailə qrupuna göndər,email_sendemail,5
+910,11734,olly yeni film swat necədir,recommendation_movies,7
+911,11930,hansı yeni filmlər yaxşıdır,recommendation_movies,7
+912,9828,davam et,play_audiobook,6
+913,7389,zəhmət olmasa bu cümə axşam saat doqquz üçün planlaşdırılan şam yeməyi görüşünü sil,calendar_remove,2
+914,8109,növbəti tədbir sil,calendar_remove,2
+915,15755,mənim qardaşıma email göndər,email_sendemail,5
+916,16946,gələn emailə cavab ver,email_sendemail,5
+917,823,bugün olduğum yerdə hava necədir,weather_query,9
+918,10114,yaxşı bir burger üçün mənə nə lazımdır,cooking_recipe,3
+919,3375,hindistan banqalor vaxtı ilə səhər saat doqquz yerli vaxtla saat neçə olacaq,datetime_convert,4
+920,16687,yeni ünvana email göndər,email_sendemail,5
+921,3963,bugün üçün hər hansı zəngli saat var,alarm_query,0
+922,2047,səsi azalt,audio_volume_down,1
+923,9100,fevralın on ikisi üçün olan həkimlə görüşümü sil,calendar_remove,2
+924,15856,cari email ünvanına email göndər,email_sendemail,5
+925,10209,xoşagələn,cooking_recipe,3
+926,1258,on beş mart üçün hava məlumatını ver,weather_query,9
+927,7133,ayın onunda olan toyda daha iştirak etməyəm deyə onu təqvimimdən sil,calendar_remove,2
+928,9829,audio,play_audiobook,6
+929,9672,eşkiya dünyaya hükümdar olmaz filminə davam et,play_audiobook,6
+930,12148,cümə gecə si bakıya çatmalıyam zəhmət olmasa mənə bilet sifariş edə bilərsən,transport_ticket,8
+931,754,bu saat qurşağını vaşinqton vaxtına dəyiş,datetime_convert,4
+932,12197,mənə sumqayıta qatar bileti tap,transport_ticket,8
+933,16516,bu emailə cavab ver,email_sendemail,5
+934,6179,mənə qar ayaqqabıları lazımdır,weather_query,9
+935,5235,daha sonra çətir,weather_query,9
+936,1329,bu gün hava normaldır,weather_query,9
+937,16259,gələn həftəki hava haqqında arvadıma email yaz,email_sendemail,5
+938,16174,müdirə email yaz ki özümü yaxşı hiss etmirəm evdə qalacağam,email_sendemail,5
+939,12754,bakıya ən ucuz qatar bileti istəyirəm,transport_ticket,8
+940,6005,bugün küləkli olacaq,weather_query,9
+941,17128,email formasına yeni ünvan daxil et,email_sendemail,5
+942,15827,kontaktlara get və siyahıya yeni imeyl əlavə et,email_sendemail,5
+943,9901,redi pleyer vanın audio kitab versiyasını tap və oxut,play_audiobook,6
+944,12271,mənə sabah istənilən qatarda bakıya qatar bileti bron edə bilərsən,transport_ticket,8
+945,10142,bütöv hind toyuğu qızartmaq üçün düzgün dərəcəni tap,cooking_recipe,3
+946,12894,mənə qatar bileti almağa kömək et,transport_ticket,8
+947,240,bugün yağış yağacaq,weather_query,9
+948,2224,kürdəmirdə hava,weather_query,9
+949,7543,gələn həftə üçün təqvimimdən bütün planları sil,calendar_remove,2
+950,15944,email administratoru,email_sendemail,5
+951,5114,səhər saat beşdən sonra hər hansı zəngli saat var,alarm_query,0
+952,5845,alexa bugün günəş kremi sürtməliyəm,weather_query,9
+953,16676,joejoe ət gmail nöqtə com üçün yeni email yaz,email_sendemail,5
+954,16958,müstəriyə emailə başla,email_sendemail,5
+955,1969,bu gün günəşli gündür ya yox,weather_query,9
+956,3899,avqustun on beşində yağış yağacaqmı,weather_query,9
+957,6080,bugün nahardan sonra mənim qalın paltoma ehtiyacım olacaqmı,weather_query,9
+958,3141,bir az yavaş danış zəhmət olmasa,audio_volume_down,1
+959,16835,bu yeni email ünvanına email göndər,email_sendemail,5
+960,10173,kabab bişirməyin yaxşı üsulu nədir,cooking_recipe,3
+961,10006,necə düyü bişirmək olar,cooking_recipe,3
+962,4593,mənə qarşıdan gələn qudoklar barədə de zəhmət olmasa,alarm_query,0
+963,9106,zəhmət olmasa təqvimimi ilk günə sıfırla,calendar_remove,2
+964,9766,da vinçi kodu audio kitabını oynat,play_audiobook,6
+965,1864,indi hansı zəngli saatlar aktivdir,alarm_query,0
+966,9985,toyuqdan kabab bişirə bilərəm,cooking_recipe,3
+967,9891,iki qülləni oxut,play_audiobook,6
+968,277,bakıda hava necədir,weather_query,9
+969,509,mənim hansı zəngli saatlarım var,alarm_query,0
+970,16640,cavidə email yaz və ona de ki tələssin,email_sendemail,5
+971,9946,qazan kababı üçün ən yaxşı resept hansıdır,cooking_recipe,3
+972,8733,bütün tarixləri zibil qutusuna köçür,calendar_remove,2
+973,12130,gəncəyə qatar ilə səyahət planlaşdır,transport_ticket,8
+974,10184,şirinçaya nə qədər şəkər gedir,cooking_recipe,3
+975,17077,cavidə şəxsi təşəkkür emaili göndər,email_sendemail,5
+976,2653,şənbə günü yağış yağacaq,weather_query,9
+977,16962,olly ailə üzvünə email göndər və əvvəlcə onu oxu,email_sendemail,5
+978,10084,una alterntiv olan nədir,cooking_recipe,3
+979,16497,mahirə sorğu göndər,email_sendemail,5
+980,16715,zəhmət olmasa cavidə email yazıb məzuniyyətdə olduğumu bildir,email_sendemail,5
+981,16188,seymura email yaz bugün axşam mənimlə görüşsün,email_sendemail,5
+982,10174,steyk üçün yaxşı bir resept tap,cooking_recipe,3
+983,7921,cədvəldəki bütün tədbirləri sil,calendar_remove,2
+984,10578,planlarımı sil məlumat axtarışı,calendar_remove,2
+985,1321,bu gün hava necədir,weather_query,9
+986,15883,mən elmirə cavab yazmaq istəyirəm,email_sendemail,5
+987,16180,cavidə bir məktub göndər ona de ki bu gün axşam saat yeddidə qəhvə evində şam yeməyi üçün görüşəcəyik,email_sendemail,5
+988,11702,ən yaxın kinoteatrı göstər,recommendation_movies,7
+989,8441,bütün təqvimimi sil,calendar_remove,2
+990,12522,mənim üçün qatar bileti sifariş et,transport_ticket,8
+991,4915,lahıc ismayıllıda temperatur,weather_query,9
+992,1779,orda hava soyuqdur,weather_query,9
+993,3615,sabah günəşli gün olacaq düzdür,weather_query,9
+994,1052,bugün yağış ehtimalı var,weather_query,9
+995,16941,outlook vasitəsilə,email_sendemail,5
+996,9989,mən bişirməyi necə öyrənə bilərəm,cooking_recipe,3
+997,15848,anama email göndər,email_sendemail,5
+998,16119,nərminə göndər ancaq kömək,email_sendemail,5
+999,16220,nərminin emailinə cavab yaz ki ona geri dönəcəm,email_sendemail,5
+1000,10183,jalapenos nədir,cooking_recipe,3
+1001,7058,noyabr planını sil,calendar_remove,2
+1002,3587,bu həftə hava necədir,weather_query,9
+1003,7501,növbəti tədbir ləğv olundu,calendar_remove,2
+1004,15842,könülə email yaz,email_sendemail,5
+1005,792,yay gedir,weather_query,9
+1006,9906,bu audio kitabı çal,play_audiobook,6
+1007,9751,taymer parametrlərindən istifadə edərək,play_audiobook,6
+1008,7283,ikinin yarısı olan görüşümü sil,calendar_remove,2
+1009,2065,bu həftə hava necədir,weather_query,9
+1010,432,bayırda indi hava necədir,weather_query,9
+1011,16031,olly bu emaildə bu iş yoldaşıma yeni email aç,email_sendemail,5
+1012,7913,tədbiri bazar ertəsindən çıxart,calendar_remove,2
+1013,9048,bu həftə sonuna olan tibbi öhdəlikləri ləğv et,calendar_remove,2
+1014,9723,audiokitaba yenidən başla,play_audiobook,6
+1015,11728,bu həftə ən böyük blokbaster hansıdır,recommendation_movies,7
+1016,16111,hər gün axşam saat on ilə səhər saat yeddi arasında alınan bütün emeyllərə cavab verilməlidir,email_sendemail,5
+1017,5936,bugün mənə papaq lazımdır,weather_query,9
+1018,7175,sil,calendar_remove,2
+1019,5343,cümə günü günəşli olacaq,weather_query,9
+1020,17126,poladın emailinə cavab ver,email_sendemail,5
+1021,6142,genişləndirilmiş hava proqnozu nədir,weather_query,9
+1022,4927,bu həftənin hava proqnozu,weather_query,9
+1023,10085,fərqli reseptlər axtar,cooking_recipe,3
+1024,9770,otuz dəqiqədən sonra üçüncü variantı çal,play_audiobook,6
+1025,10007,oli dondurma hazırlamaq üçün metod de,cooking_recipe,3
+1026,4628,sabah saat neçədə yağış yağacaq,weather_query,9
+1027,8233,o zaman gəlin görüşü buraxaq,calendar_remove,2
+1028,4707,zəhmət olmasa mənə yerli hava proqnozunu göstər,weather_query,9
+1029,6702,bu gün hava,weather_query,9
+1030,16268,cavidin bugün səhərki emailinə cavab yaz,email_sendemail,5
+1031,17114,emailə cavab verə bilərsən,email_sendemail,5
+1032,6030,yemək sərgidə veriləcək,weather_query,9
+1033,5742,hava xəbərləri,weather_query,9
+1034,7363,təqvimə get və iki min on yeddi martın iyirmi yeddisindəki planı sil,calendar_remove,2
+1035,4237,indi hava necədir,weather_query,9
+1036,6716,cümə günü səhər saat ondakı qısa toplantını sil,calendar_remove,2
+1037,1050,audiodan bası söndür,audio_volume_down,1
+1038,16969,zəhmət olmasa xyz ət gmail nöqtə com əvəzinə a. b. c. ət gmail nöqtə coma email göndər,email_sendemail,5
+1039,4382,gələn həftə lahıc ismayıllıda hava necə olacaq,weather_query,9
+1040,12351,gələn həftə üçün bakıya yataq oturacağı ilə qatar bileti sifariş et,transport_ticket,8
+1041,10191,toyuq çöp şiş necə bişirilir,cooking_recipe,3
+1042,2266,lahıc ismayıllıda bu gün hava necədir,weather_query,9
+1043,1868,indi olly iqlim təfərrüatları,weather_query,9
+1044,6884,sabah səhər saat ondakı görüşü sil,calendar_remove,2
+1045,4250,bu gün daha sonra yağış yağır,weather_query,9
+1046,15949,elnurun emailinə cavab ver,email_sendemail,5
+1047,3962,hava tətbiqini açın,weather_query,9
+1048,2339,bakı şəhərində hazırda hava necədir,weather_query,9
+1049,16882,email vasitəsilə mesaj göndər,email_sendemail,5
+1050,10136,mənə yeməş bişirmə saytları göstər,cooking_recipe,3
+1051,3252,bugün hava necədir,weather_query,9
+1052,558,saatın sabaha təyin olunmuş hər hansı zəngi var,alarm_query,0
+1053,11931,mənə baxmağım üçün yaxşı drama təklif edə bilərsən,recommendation_movies,7
+1054,3648,bakıda hava necədir,weather_query,9
+1055,6882,gələn həftənin cümə axşamı günorta saat ikidəki görüşü sil,calendar_remove,2
+1056,5377,zəhmət olmasa çərşənbə axşamı hava proqnozuna bax,weather_query,9
+1057,16258,zəhmət olmasa mənim arvadıma gələn həftəki hava haqqında email yaz,email_sendemail,5
+1058,9073,o planı təqvimdən sil,calendar_remove,2
+1059,16756,təzə email yaz,email_sendemail,5
+1060,347,sabahkı hava proqnozu nədir,weather_query,9
+1061,16691,cavidə cavab göndər,email_sendemail,5
+1062,3354,qar yağacaq,weather_query,9
+1063,16213,atama email göndər bu həftə hava necədir,email_sendemail,5
+1064,10228,bütün yeməklərimi bişirmək üçün necə hazırlayım,cooking_recipe,3
+1065,17130,anama mövzu tətil olmaqla email göndər,email_sendemail,5
+1066,9091,oli təqvimimdəki bütün planları sil,calendar_remove,2
+1067,8659,zəhmət olmasa təqvimimi tamamilə sil,calendar_remove,2
+1068,1130,bu gün yağış yağacaq,weather_query,9
+1069,5467,günəş eynəyinə ehtiyac varmı,weather_query,9
+1070,9925,mən yumurtanı neçə dəqiqə qaynatmalıyam,cooking_recipe,3
+1071,5789,bu gün hava günəşlidir,weather_query,9
+1072,584,bu həftə yağış ehtimalı varmı,weather_query,9
+1073,4327,üzgüçülük üçün çox soyuqdur,weather_query,9
+1074,12725,mənə qəbələyə ucuz qatar bileti tap,transport_ticket,8
+1075,2634,dinamiklərin səsini aşağı sal,audio_volume_down,1
+1076,5649,bugün səhər hava haqqında soruş,weather_query,9
+1077,10043,napoleon tortuna neçə stəkan şəkər gedir,cooking_recipe,3
+1078,12590,bakıya olan qatar cədvəlinə baxa bilərsənmi,transport_ticket,8
+1079,16511,cavidə email göndər soruş axşama planları var yeməyə getmək istəyir,email_sendemail,5
+1080,11870,hazırda mənim ərazimdə göstrilən filmlər hansılardır,recommendation_movies,7
+1081,591,indi nə qədər istidir,weather_query,9
+1082,5712,bu səhər günəşli olacaq,weather_query,9
+1083,4144,mənə bugün zəngli saatlarım haqqında xatırlatma et,alarm_query,0
+1084,4594,təyin etdiyim zəngli saatları mənə göstər,alarm_query,0
+1085,4790,bu gün temperatur necedir,weather_query,9
+1086,6735,oli növbəti iki gündə olacaq bütün planları sil,calendar_remove,2
+1087,4397,biraz sakit danışa bilərsən zəhmət olmasa,audio_volume_down,1
+1088,7092,təqvimdəki tədbirləri sil,calendar_remove,2
+1089,8369,ey oli bu günə olan bütün görüşləri təqvimimdən sil,calendar_remove,2
+1090,10211,resept necədir,cooking_recipe,3
+1091,12635,mənə sumqayıta birbaşa qatar tap,transport_ticket,8
+1092,8257,zəhmət olmasa bütün yaxınlaşan planları sil,calendar_remove,2
+1093,9944,dönər üçün resept necədir,cooking_recipe,3
+1094,6459,bayırda hava necədi buludludur,weather_query,9
+1095,5591,hava tətbiqini aç,weather_query,9
+1096,16313,mənim anama email göndər,email_sendemail,5
+1097,1936,bakıda yağış yağırmı,weather_query,9
+1098,16094,aygünə email göndər,email_sendemail,5
+1099,5440,indi paltosuz gedə bilərəm,weather_query,9
+1100,9176,təqvimdən qonaqlıq planını sil,calendar_remove,2
+1101,16682,cavidə imeyl yaz başlanğıc hissə satışa çıxardığınız maşına baxmaq istərdim görüş üçün tarix təyin edə bilərikmi göndər,email_sendemail,5
+1102,10012,sənin sevimli yeməyini axtar,cooking_recipe,3
+1103,8147,konserti təqvim planlarından çıxart,calendar_remove,2
+1104,12396,bakı şəhərinə qatar bileti sifariş et,transport_ticket,8
+1105,2894,dinamikin səsini azalt,audio_volume_down,1
+1106,16727,mənim caviddən gələn emailimə cavab yaz və təşəkkürlər de,email_sendemail,5
+1107,5247,bu gün palto gətirməliyəm,weather_query,9
+1108,1131,mənə bugün şəhərin mərkəzi üçün rütubət səviyyəsini deyin,weather_query,9
+1109,8979,planlardan lalənin ad gününü çıxart,calendar_remove,2
+1110,16517,mən cavab vermək istəyirəm,email_sendemail,5
+1111,6970,planı sil,calendar_remove,2
+1112,10221,evimizdə qida emalı biznesinin qurulmasının müsbət və mənfi cəhətləri var,cooking_recipe,3
+1113,12524,mənə bakıya ən ucuz qatar biletini sifariş et,transport_ticket,8
+1114,11957,olly mənə yaxın hansı filmlər nümayiş olunur,recommendation_movies,7
+1115,16433,zəhmət olmasa ailəmə növbəti dediklərimi email ilə göndər,email_sendemail,5
+1116,8897,bu gün üçün bütün görüşlərimi ləğv et,calendar_remove,2
+1117,10153,cücə plov üçün resept tap,cooking_recipe,3
+1118,1405,bakıda hava hazırda nə qədər istidir,weather_query,9
+1119,4219,mənə indi bayırda palto lazımdırmı,weather_query,9
+1120,3244,bugünkü hava haqqında məlumat ver,weather_query,9
+1121,4384,sabah hava isti yoxsa soyuq olacaq,weather_query,9
+1122,16348,cavadın emailinə bugün cavab yaz bildir ki gecikəcəyəm,email_sendemail,5
+1123,17067,məmməddən aldığım emailə cavab yaz,email_sendemail,5
+1124,3294,mərkəzi və şərqi arasında vaxt fərqi nə qədərdir,datetime_convert,4
+1125,1725,növbəti yeddi gün hava şəraiti necə olacaq,weather_query,9
+1126,16569,mən yeni qeydiyyatçıya email göndərmək istəyərdim,email_sendemail,5
+1127,4093,dünən hava küləkli idi,weather_query,9
+1128,5973,səhər saat altıdan öncəyə qurulmuş zəngli saatlarım var,alarm_query,0
+1129,2139,bayırda hava necədir,weather_query,9
+1130,605,çərşənbə axşamı hava necə olmalıdır,weather_query,9
+1131,12664,bakıdan sumqayıta iki nəfərlik qatar bileti,transport_ticket,8
+1132,16237,emaili yeni email ünvanına yönləndir,email_sendemail,5
+1133,433,bayırda hal hazırda nə qədər istidir,weather_query,9
+1134,845,indi hansı zəngli saatlar qurulmuşdur,alarm_query,0
+1135,17163,nərminə xəbərdarlıq emaili göndər,email_sendemail,5
+1136,3555,bu gecə hava küləkli olacaq,weather_query,9
+1137,12751,bakıdan gəncəyə bir həftə sonraya qatar bileti al,transport_ticket,8
+1138,6996,növbəti planı sil,calendar_remove,2
+1139,12671,günorta saat on ikidə iyirmi iki mart üçün qatar sifariş et,transport_ticket,8
+1140,1311,buradan bakıya nə qədər vaxt fərqi var,datetime_convert,4
+1141,15896,john ət gmail nöqtə com emeylini kontanktlarımda con ilə birləşdir,email_sendemail,5
+1142,10059,marqarinin əvəzinə nə olsun,cooking_recipe,3
+1143,2999,lahıc ismayıllı növbəti səkkiz gün üçün hava proqnozu,weather_query,9
+1144,7296,edə bilsən cədvələ qeyd olunmuş təqvim planlarımı sil,calendar_remove,2
+1145,10101,necə kabab bişirmək olar,cooking_recipe,3
+1146,2655,ən yüksək temperatur sabah yetmiş dərəcəni keçəcək,weather_query,9
+1147,5946,mənim dostumdan ordakı iqlimin necə olduğunu soruş,weather_query,9
+1148,16736,cavab göndərmək istəyirəm,email_sendemail,5
+1149,1262,mənim oyanmaq vaxtım saat neçəyə qurulub,alarm_query,0
+1150,3961,mənə proqnozu göstər,weather_query,9
+1151,16626,emaildən istifadə edərək cavidə gecikəcəyimi bildir,email_sendemail,5
+1152,9860,zəhmət olmasa audible tətbiqini aç və oxumağa davam et,play_audiobook,6
+1153,1390,olly şənbə günü hava necə olacaq,weather_query,9
+1154,10002,az kalorili səhər yeməyi necə hazırlamaq olar mənə göstər,cooking_recipe,3
+1155,6854,təqvimdəki növbəti planı sil,calendar_remove,2
+1156,15860,anama email yazaraq hava haqqında soruş,email_sendemail,5
+1157,7075,zəhmət olmasa növbəti təqvim planımı sil,calendar_remove,2
+1158,4602,havanın temperaturu bu gün olacaq,weather_query,9
+1159,1588,sabah hava necedir,weather_query,9
+1160,12172,bugün lökbatana qatar bileti bron et mənim üçün,transport_ticket,8
+1161,3374,əgər altıda gəncəyə əliyə zəng etsəm onun vaxtı necə olacaq,datetime_convert,4
+1162,5166,sonra bakıya yağış yağacaq,weather_query,9
+1163,9083,plandakı bütün detalları sil,calendar_remove,2
+1164,3805,bu həftə hava məlumatı,weather_query,9
+1165,16129,saraya cavab emaili yaz ki çox sağ ol,email_sendemail,5
+1166,9741,audio kitabı oxutmağa davam et,play_audiobook,6
+1167,12156,qatar bileti al,transport_ticket,8
+1168,8341,növbəti planımı sil,calendar_remove,2
+1169,12612,mənə bakıdan gəncəyə qatar bileti al,transport_ticket,8
+1170,16675,joejoe ət gmail nöqtə com üçün email yaz,email_sendemail,5
+1171,4218,bu gün qaloş geyinməliyəm,weather_query,9
+1172,9950,mənə resept ver,cooking_recipe,3
+1173,17171,zəhmət olmasa bu emailə yaz,email_sendemail,5
+1174,3738,zəhmət olmasa dinamiklərin səsini aşağı daha rahat səviyyəyə tənzimlə,audio_volume_down,1
+1175,3131,çöldə hava nə qədər soyuqdur,weather_query,9
+1176,14649,necə bişirməli,cooking_recipe,3
+1177,9704,mən audiokitabımda son qaldığım yerdən davam etmək istəyirəm,play_audiobook,6
+1178,4071,səsi azalt zəhmət olmasa,audio_volume_down,1
+1179,10068,kartof püresi üçün bişmə vaxtı nə qədərdir,cooking_recipe,3
+1180,9837,üçüncü mahnı,play_audiobook,6
+1181,9764,qazanılmış cəhənnəmi oynat,play_audiobook,6
+1182,5844,bu gün günəş kremi sürtməliyəm,weather_query,9
+1183,10192,spagetti üçün resept,cooking_recipe,3
+1184,12596,google mənə bakıya bir qatar bileti lazımdır mənim üçün sifariş edə bilərsən,transport_ticket,8
+1185,11722,mingəçevir kinoteatrlarında və ətrafında nümayiş olunan bir romantik komediya filminin adını de,recommendation_movies,7
+1186,5269,indi bakıda saat beş otuzdur fildişi sahilindəki vaxt haqqında nə demək olar,datetime_convert,4
+1187,13529,hansı filmə gedib baxmağım məsləhətdir,recommendation_movies,7
+1188,16065,mövzu yerində test yazılan məzmunsuz bir email göndər,email_sendemail,5
+1189,301,hava təqribən necədir,weather_query,9
+1190,12803,bakıya qatar bileti sifariş et zəhmət olmasa,transport_ticket,8
+1191,16623,mənim xidmət problemlərim haqqında baktelekoma emeyl göndərilməsi lazımdır,email_sendemail,5
+1192,12616,mən bakıdan gəncəyə qatar bileti sifariş etmək istəyirəm,transport_ticket,8
+1193,9763,tver bulvarını oynat,play_audiobook,6
+1194,356,mənim növbəti qudokum nədi,alarm_query,0
+1195,5144,zəhmət olmasa hava proqnozuna əsasən mənə hansı gün yağışlı olacağını de,weather_query,9
+1196,327,bazar günü,weather_query,9
+1197,9908,müharibə və sülhə davam et,play_audiobook,6
+1198,1399,mən həmişə diqqət yetirirəm,weather_query,9
+1199,12615,mən bakıdan gəncəyə qatar bileti sifariş etməliyəm,transport_ticket,8
+1200,8288,martın iyirmi üçündə nə etməliyəmsə sil,calendar_remove,2
+1201,16600,mən dostum jack ət gmail nöqtə coma email göndərmək istəyirəm,email_sendemail,5
+1202,1645,mənim qurulmuş hər hansı zəngli saatım var,alarm_query,0
+1203,4120,saatın zəngini saat neçəyə qurmusan,alarm_query,0
+1204,8254,növbəti planımı sil,calendar_remove,2
+1205,9757,audio kitabıma davam etmək istəyərdim,play_audiobook,6
+1206,4724,mənim zəngli saatlarım hansılardır,alarm_query,0
+1207,7078,bütün təqvimi sil,calendar_remove,2
+1208,16086,cavid imanova email göndər,email_sendemail,5
+1209,4207,bu gün palto geyinməliyəm,weather_query,9
+1210,12379,bakıdan qəbələyə qatar bileti sifariş et,transport_ticket,8
+1211,16118,yalnız nərminə kömək göndər,email_sendemail,5
+1212,16142,anara email yaz,email_sendemail,5
+1213,11918,bu həftə hansı filmlər göstərilir,recommendation_movies,7
+1214,5998,burda səhər saat altı olarsa bakıda saat neçədir,datetime_convert,4
+1215,4354,qəbələdə hazırkı hava necədir,weather_query,9
+1216,6904,gələn aya olan qazona qulluq üçün randevusunu sil,calendar_remove,2
+1217,905,gələn həftə havanın temperaturu necə olacaq,weather_query,9
+1218,12573,mənə bakı sifariş bileti almaq üçün qatar bileti lazımdır,transport_ticket,8
+1219,15940,ən son emailimə cavab ver,email_sendemail,5
+1220,5664,qolf klubuna gedəndə günəş kremi sürtməliyəm,weather_query,9
+1221,16460,mənim yeni kontaktım var newmail ət gmail nöqtə com məktub yaz,email_sendemail,5
+1222,10243,reseptə bax və bu yeməyi bişirmək üçün məni yönləndir,cooking_recipe,3
+1223,3869,arxa qapının zəngi qurulmuş və hazır vəziyyətdədir,alarm_query,0
+1224,12900,üç iyulda mənim üçün qatar keçidi ayır,transport_ticket,8
+1225,4128,mənim hazırda qurulmuş hər hansı zəngli saatım var,alarm_query,0
+1226,7995,cari planlarımı təqvimdən sil,calendar_remove,2
+1227,9679,mənim ən son dinlədiyim audiokitaba davam et,play_audiobook,6
+1228,12105,sürətli və qəzəbli,recommendation_movies,7
+1229,10034,necə dönər hazırlamaq olar,cooking_recipe,3
+1230,1724,bakı üçün ən yüksək temperatur nə qədərdir,weather_query,9
+1231,12309,qatar bileti sifariş etmək istəyirəm,transport_ticket,8
+1232,16567,atama maşının təmiri haqqında email yaz,email_sendemail,5
+1233,236,səhər uçuşu üçün zəngli saatım var mı,alarm_query,0
+1234,16278,qardaşıma bu emaili göndər salam bu axşam şam yeməyinə gəl,email_sendemail,5
+1235,7159,zəhmət olmasa yenidən başla və təqvimdəki bütün qeydləri sil,calendar_remove,2
+1236,5203,manila vaxtı ilə səhər saat səkkiz şərq vaxtı ilə neçədir,datetime_convert,4
+1237,5231,yağış çəkmələri geyinməliyəm,weather_query,9
+1238,4314,bu gecə hava buludludur,weather_query,9
+1239,2247,çərşənbə günü hava hələ də yağışlı və soyuq olacaq,weather_query,9
+1240,9939,kartof qızartmaq üçün yağ gərək hansı teperaturda olsun,cooking_recipe,3
+1241,3292,sakit okean və mərkəzi arasındakı vaxt fərqi nə qədərdir,datetime_convert,4
+1242,3857,bu həftə yağış yağacaq,weather_query,9
+1243,10115,sən toyuq kababını necə edirsən,cooking_recipe,3
+1244,3556,qar sabah səhər saat yeddidən qabaq dayanacaq,weather_query,9
+1245,15953,olly cavidə email göndər və soruş ki o işdən nə vaxt çıxır,email_sendemail,5
+1246,16257,gələn həftəki hava haqqında arvadıma email göndər,email_sendemail,5
+1247,12752,zəhmət olmasa aprelin biri lahıc ismayıllıdan bakı abşerona gedən amtrak bileti al,transport_ticket,8
+1248,9873,mənə səfillərdən bir az da oxu,play_audiobook,6
+1249,15960,pərvinə email göndər,email_sendemail,5
+1250,5801,səncə mən sandal geyinə bilərəm yoxsa bu axşam saat yeddidə idman ayaqqabısı geyinməliyəm,weather_query,9
+1251,9129,növbəti təqvimimi sil,calendar_remove,2
+1252,3469,burada doqquzdur kaliforniyada saat neçədir,datetime_convert,4
+1253,9714,rok oxut,play_audiobook,6
+1254,5846,bu gün özümlə artıq su gətirməliyəm,weather_query,9
+1255,5234,mən daha sonra çətir gətirəcəm,weather_query,9
+1256,11671,mənə bu gecə gəncədə göstərilən filmləri de,recommendation_movies,7
+1257,8770,növbəti təqvim planını sil,calendar_remove,2
+1258,6280,parkda olanda temperatur neçə idi,weather_query,9
+1259,12517,bu günə qatar bileti bron edə bilərsən,transport_ticket,8
+1260,4113,cari vaxtı ist dən e. s. t. yə çevir,datetime_convert,4
+1261,5248,bu gün palto gətirməliyəm,weather_query,9
+1262,1841,mən bugün işə çətir götürüm,weather_query,9
+1263,4414,gələn çərşənbə axşamı bakıda yağış yağacaq,weather_query,9
+1264,9784,mənim fasiləyə ehtiyacim var onu beş dəqiqə sonra başla,play_audiobook,6
+1265,16928,cavidin son emailinə yox cavabı yaz,email_sendemail,5
+1266,2895,dinamiklərin səsini azalt,audio_volume_down,1
+1267,8256,zəhmət olmasa təqvimimdə qeyd olunmuş bütün planları sil,calendar_remove,2
+1268,1634,olly mənə saatın zənglərini göstər,alarm_query,0
+1269,9703,mənim ən son audiokitabımı oxuda bilərsən,play_audiobook,6
+1270,739,bugün temperatur nə qədərdir,weather_query,9
+1271,15854,olly emaili mənim yeni email ünvanıma yönləndir,email_sendemail,5
+1272,8179,təqvimdəki bütün görüşlərimi silə bilərdin,calendar_remove,2
+1273,8342,zəhmət olmasa növbəti planımı tap və onu sil,calendar_remove,2
+1274,16095,müdirimə email yaz ki bugün gec gələcəyəm,email_sendemail,5
+1275,787,bugün hava necədir,weather_query,9
+1276,16441,kamilə email göndər bildir ki mən sabah işə gecikəcəyəm,email_sendemail,5
+1277,3933,bütün aktiv zəngli saatlarımı mənə göstər,alarm_query,0
+1278,16849,nərminə imeyl göndər və yaz ki,email_sendemail,5
+1279,3000,burdakı hava ilə lahıc ismayıllının havasını müqayisə et,weather_query,9
+1280,2123,lahıc ismayıllıda hava necədir,weather_query,9
+1281,2706,səsi iyirmi faiz aşağı sal,audio_volume_down,1
+1282,793,bu həftə dolu yağma ehtimalı nə qədərdir,weather_query,9
+1283,7681,bu həftə samir həkim ilə olan bütün görüşlərimi sil,calendar_remove,2
+1284,9740,audio kitabın oxunmasına davam et,play_audiobook,6
+1285,7077,zəhmət olmasa təqvimimdəki nöbəti tədbiri sil,calendar_remove,2
+1286,8969,işlədiyim yerdən olan gələcək tədbiri ləğv et,calendar_remove,2
+1287,4467,mənim zəngli saatım saat neçəyə qurulub,alarm_query,0
+1288,409,mənim qudoklarımı mənə de,alarm_query,0
+1289,11609,kinoteatrlarda nümayiş olunan ən son döyüş filmi hansıdır,recommendation_movies,7
+1290,6143,iki həftə sonra hava necə olacaq,weather_query,9
+1291,4682,bugün bakıda isti və bürküdür yoxsa ilıq və nəmişlik,weather_query,9
+1292,8277,zəhmət olmasa təqvimdən qeyd olunmuş bütün aztexnikanın iclaslarını sil,calendar_remove,2
+1293,650,zəngli saatı quraşıdırmalıyam mən neçə dəfə quraşdırmışam,alarm_query,0
+1294,8275,zəhmət olmasa cəfərin ad gününü təqvimdən sil,calendar_remove,2
+1295,15991,nərmin axundovaya email göndər ən xoş arzularla və iş p.d. f. əlavəsi,email_sendemail,5
+1296,8851,növbəti tədbiri ləğv et,calendar_remove,2
+1297,8547,növbəti təqvim planını sil,calendar_remove,2
+1298,5589,hava haqqında məlumatı tap,weather_query,9
+1299,4390,səsi azalt,audio_volume_down,1
+1300,9747,kimyagərə davam et,play_audiobook,6
+1301,4215,mənə mərkəzi saat qurşağının əvəzinə london ingiltərə saat qurşağı lazımdır,datetime_convert,4
+1302,9992,yarpaq dolması bişirmək üçün mənə resept de,cooking_recipe,3
+1303,5790,bu gün hava istidir,weather_query,9
+1304,8003,cümə günü üçün görüşümü ləğv et,calendar_remove,2
+1305,8371,ey olli iyirmisindəki təqvimimi təmizlə,calendar_remove,2
+1306,566,temperatur neçə dərəcədir,weather_query,9
+1307,7765,təqvimimi təmizləməyin yolu var,calendar_remove,2
+1308,8743,təqvimimdəki növbəti planı sil onu yenidən görmək istmərəm,calendar_remove,2
+1309,522,bu mümkün deyil,weather_query,9
+1310,4943,daha yavaş danış,audio_volume_down,1
+1311,6026,temperatur,weather_query,9
+1312,10067,mən kartof püresini necə hazırlayım,cooking_recipe,3
+1313,4105,şamaxıda növbəti bir neçə gün ərzində yağış yağacaq,weather_query,9
+1314,557,siyahıda neçə zəngli saat var,alarm_query,0
+1315,5778,hava necədir,weather_query,9
+1316,1728,zəhmət olmasa bu ayın on üçü tarixinə hava durumunu təsdiqlə,weather_query,9
+1317,12356,mənə qatar bileti lazımdır,transport_ticket,8
+1318,5302,ok google iyirmi mart iki min on yeddinci ildə hava necə olacaq,weather_query,9
+1319,1780,ümid edirəm orada günəşli hava olar,weather_query,9
+1320,10040,peçenye resepti necədir,cooking_recipe,3
+1321,8577,təqvimdəki hər şeyi sil,calendar_remove,2
+1322,12216,təyyarə bileti sifariş et,transport_ticket,8
+1323,16044,sonaya məşq cədvəli haqqında email göndər,email_sendemail,5
+1324,8225,çərşənbə axşamı üçün tədbiri sil,calendar_remove,2
+1325,8772,iyulun dördünə planlaşdırılmış səyahəti sil,calendar_remove,2
+1326,7036,bu həftə üçün təqvimi boşalt,calendar_remove,2
+1327,4751,hava buludlu olacaqmı,weather_query,9
+1328,16604,qızıma email göndər,email_sendemail,5
+1329,5448,bu gün günəşli və aydın görünür doğrudur,weather_query,9
+1330,5644,bu gün günorta hava necə olacaq,weather_query,9
+1331,952,indi bakıda hava pisdir,weather_query,9
+1332,6138,çəkmə geyinməliyəm,weather_query,9
+1333,12914,bakıya qatar bileti bron etməliyəm,transport_ticket,8
+1334,4613,sabah temperatur əllidən yuxarı olacaq,weather_query,9
+1335,8180,təqvimimdəki bütün planları silə bilərdin,calendar_remove,2
+1336,15887,ərimə imeyl göndərə bilərsənmi,email_sendemail,5
+1337,17031,anama emeyl yazmağa ehtiyacım var onu görmək üçün səfər etməyi planlaşdırıram ondan havanın necə olacağını soruş ki nə götürəcəyimi bilim,email_sendemail,5
+1338,10205,mənə düyü üçün resept tap,cooking_recipe,3
+1339,374,əgər aşağıdakılar gözlənilən hava şəraiti haqqında doğrudursa de mənə,weather_query,9
+1340,12753,bakıdan gəncəyə qatar bileti istəyirəm,transport_ticket,8
+1341,9038,sumqayıtdakı görüşü sil,calendar_remove,2
+1342,17085,gəl bu epoçta cavab verək,email_sendemail,5
+1343,5872,istinin qabağını almaq üçün bakıda yağış yağma ehtimalı varmı,weather_query,9
+1344,16500,zəhmət olmasa ərimə email yaz ki bu axşam gecikəcəyəm,email_sendemail,5
+1345,7764,zəhmət olmasa təqvimimdən bütün planları silə bilərsən,calendar_remove,2
+1346,12507,mən bakıya qatar bileti istəyirəm,transport_ticket,8
+1347,9833,müslüm maqomayevin mahnı siyahısıdan mahnıya davam et,play_audiobook,6
+1348,3814,sabah soyuq olacaq,weather_query,9
+1349,1556,zəhmət olmasa bu həftə üçün hava hesabatını ver,weather_query,9
+1350,6736,növbəti iki gün olacaq bütün planları sil,calendar_remove,2
+1351,5668,sonra okyə vurun,alarm_query,0
+1352,8546,təqvimimi təmiz sil,calendar_remove,2
+1353,1536,hal hazırda indi yaponiyada a. b. ş. ilə müqayisədə saat neçədir,datetime_convert,4
+1354,1843,gələn həftə burada daha isti olacaq,weather_query,9
+1355,16310,zəhmət olmasa cavab ver,email_sendemail,5
+1356,5610,növbəti zəngli saatların nə zaman olduğunu söylə,alarm_query,0
+1357,10096,zəhmət olmasa mənə hamburger bişir,cooking_recipe,3
+1358,8970,bütün konsert cədvəlini sil,calendar_remove,2
+1359,8108,növbəti təqvim planını sil,calendar_remove,2
+1360,2223,sumqayıtda hava,weather_query,9
+1361,15107,bu gecə hansı filmi məsləhət görürsən,recommendation_movies,7
+1362,9675,mənim sevimli king kong audiokitabımı oxuda bilərsən,play_audiobook,6
+1363,8190,zəhmət olmasa sabah üçün təqvimimi təmizlə,calendar_remove,2
+1364,16619,sabah iş haqqında kamilə email yaz,email_sendemail,5
+1365,1614,hər hansı bir yağış əlaməti,weather_query,9
+1366,10015,beş cümlə ilə mənə balıq ləvəngisini necə bişirmək olar izah elə,cooking_recipe,3
+1367,16329,saranın emailinə cavab ver,email_sendemail,5
+1368,10028,içində mal əti qiyməsi və balqabaq olan resept tap,cooking_recipe,3
+1369,14299,tesla üçün bilet hazırla,transport_ticket,8
+1370,1018,bu gün hava necə olacaq,weather_query,9
+1371,9039,iyulun üçünə olan nikahı sil,calendar_remove,2
+1372,4636,dinamikin səsini azalt,audio_volume_down,1
+1373,9196,zəhmət olmasa bu təqvim tədbirini sil,calendar_remove,2
+1374,2332,indi yağış yağır,weather_query,9
+1375,1992,mənə bazar ertəsi üçün hava haqqında məlumat verə bilərsən,weather_query,9
+1376,8242,oli ilin qalanı üçün təqvimimdən hər şeyi sil,calendar_remove,2
+1377,8098,salam google zəhmət olmazsa cümə günü üçün bütün proqramlar ı ləğv et,calendar_remove,2
+1378,17033,aygünün emailinə səhər cavab ver,email_sendemail,5
+1379,7024,təqvimdən bütün planları sil,calendar_remove,2
+1380,1662,nyu york və laqos arasında neçə saat fərq var,datetime_convert,4
+1381,5720,mənə bu ərazi üçün sabahın hava məlumatını göstər,weather_query,9
+1382,17016,emailə cavab istəyirəm,email_sendemail,5
+1383,2111,onda burada sumqayıtda saat neçədir,datetime_convert,4
+1384,3106,bu gün hava necədir,weather_query,9
+1385,4635,dinamikin səsini aşağı sal,audio_volume_down,1
+1386,9826,mahnı siyahısından madonnanın mahnısını oxutmağa davam et,play_audiobook,6
+1387,4484,mənə bu həftənin hava proqnozunu de,weather_query,9
+1388,10089,ən yaxşı küftə resepti hansıdır,cooking_recipe,3
+1389,11746,olly bakıda saat doqquzda gecə hansı kinolar oynanılır,recommendation_movies,7
+1390,1190,koloradoda gecə yarısıdırsa münhendə saat neçədir,datetime_convert,4
+1391,9790,gözəl və bədheybət audiokitabını oxutmağa başla,play_audiobook,6
+1392,1472,səsi iyirmiyə endir,audio_volume_down,1
+1393,6714,oli çərşənbə günü olan iş görüşümü ləğv et,calendar_remove,2
+1394,2059,yağış yağırmı,weather_query,9
+1395,7076,növbəti təqvim planımı sil,calendar_remove,2
+1396,5698,bu gün çətir götürməliyəm,weather_query,9
+1397,12653,mingəçevirə qatar bileti sifariş et,transport_ticket,8
+1398,12641,ismayıllıya axşam saat beş qatarına bilet sifariş et,transport_ticket,8
+1399,6754,bu həftəyə olan təqvim planlarını sil,calendar_remove,2
+1400,6019,göndərdiyin zəngli saatı biləmək istəyərdim,alarm_query,0
+1401,5451,bayırda hava günəşlidir,weather_query,9
+1402,5924,səsi azalt zəhmət olmasa,audio_volume_down,1
+1403,8844,mənim təqvimimin bütün təfərrüatlarını sil,calendar_remove,2
+1404,2039,bu gün xoş hava var,weather_query,9
+1405,7235,zəhmət olmasa növbəti saç kəsimimi ləğv et,calendar_remove,2
+1406,10063,buğlama nədir,cooking_recipe,3
+1407,9762,tolkien üzük qardaşlığı oxut,play_audiobook,6
+1408,9830,zəhmət olmasa aclıq oyunlarını oxumağa davam et,play_audiobook,6
+1409,2141,bugün çətir götür,weather_query,9
+1410,12614,bakıdan gəncəyə qatar bileti sifariş et,transport_ticket,8
+1411,5303,alexa iyirmi mart iki min on yeddinci ildə hava necə olacaq,weather_query,9
+1412,11793,mənə mövzusu sevgi olan film lazımdır hər hansı bir fikir,recommendation_movies,7
+1413,12589,mənim üçün bakıya qatar bileti sifariş edə bilərsən,transport_ticket,8
+1414,6173,çimərliyə getmək üçün yaxşı gündür,weather_query,9
+1415,7962,təqvimi formatla,calendar_remove,2
+1416,2240,bu həftə üçün hava proqnozu,weather_query,9
+1417,12053,bu həftəsonu hansı yüksək reytinqli filmlər göstərilir,recommendation_movies,7
+1418,17127,resept saytı haqqında ananın məktubuna cavab ver,email_sendemail,5
+1419,17124,atama göndərmək üçün emaili aç,email_sendemail,5
+1420,16057,o emailə cavab yaz,email_sendemail,5
+1421,259,çox ucadan danışırsan,audio_volume_down,1
+1422,4765,cümə günü yağış yağacaq,weather_query,9
+1423,12200,bu axşam azərbaycana qatar bileti sifariş ver,transport_ticket,8
+1424,11765,öyrədici oyunlar,recommendation_movies,7
+1425,3650,mənə qəbələ üçün havanı göstər,weather_query,9
+1426,1437,qoy öz xatırlatmalarıma baxım,alarm_query,0
+1427,16458,newmail ət gmail nöqtə com üçün email göndər,email_sendemail,5
+1428,7390,bu həftəki diş həkimi ilə görüşü ləğv et,calendar_remove,2
+1429,12131,mənə qatarla bakıdan gəncəyə gediş dönüş bileti sifariş et,transport_ticket,8
+1430,4167,səsi yarıya endir,audio_volume_down,1
+1431,2177,mənə hazırkı hava durumunu tap,weather_query,9
+1432,3531,zəhmət olmasa saat qurşağını a. b. ş. olaraq dəyişə bilərsən,datetime_convert,4
+1433,8813,xahiş edirəm mənim təqvimimi boşalt,calendar_remove,2
+1434,7285,növbəti yoqa sesiyalarının hamısını sil,calendar_remove,2
+1435,12226,qatar bileti al,transport_ticket,8
+1436,12833,alexa mənə bu gün günorta bakıya qatar bileti sifariş et,transport_ticket,8
+1437,4961,bu axşam çətir götürmək lazımdır,weather_query,9
+1438,9884,qisasın ölçüsünə davam et,play_audiobook,6
+1439,9698,ən yeni ausio kitab seçimimi oxutmağa davam et,play_audiobook,6
+1440,7018,təqvimdən yeni il gecəsini sil,calendar_remove,2
+1441,8240,təmizlə təqvimimi hər şeyi sil,calendar_remove,2
+1442,3971,olly hal hazırda hava necədir,weather_query,9
+1443,9983,oli krevetka salatını necə hazırlamağa başlıyım,cooking_recipe,3
+1444,3535,hava günəşli olacaq,weather_query,9
+1445,9800,mahnı adını aç,play_audiobook,6
+1446,9984,mənə tikə kababı resepti ver,cooking_recipe,3
+1447,7019,təqvimdən sevgililər günü planını sil,calendar_remove,2
+1448,6003,bu gün isti tutan paltarlar geyinməliyəm,weather_query,9
+1449,2778,dünəndən daha soyuqdur,weather_query,9
+1450,6086,otuz iki min iki yüz otuz dörd poçt indeksində hava necədir,weather_query,9
+1451,17079,nərminə email yaz ki itkinizə görə çox pis olduq,email_sendemail,5
+1452,9845,sonuncu audio kitabımı qaldığı yerdən oxutmağa davam et,play_audiobook,6
+1453,9814,kitabları aç və cəlilin kitabından doqquzuncu fəsili qoş,play_audiobook,6
+1454,16743,növbəti imeyli bacıma göndər,email_sendemail,5
+1455,11766,təhlükəsizlik məlumatlılığı,recommendation_movies,7
+1456,2855,bugün yağış yağır,weather_query,9
+1457,9848,jaiho mahnısı audio kitabına davam et,play_audiobook,6
+1458,16189,hazırkı hava vəziyyəti haqqında əmimə email yaz,email_sendemail,5
+1459,15855,email ünvanı mənim yeni emailimə yönləndir,email_sendemail,5
+1460,8683,təqvim planını sil,calendar_remove,2
+1461,16434,ailəmə bunu email ilə de,email_sendemail,5
+1462,10145,plov üçün darçının düzgün miqdarını tap,cooking_recipe,3
+1463,6316,hava necədir,weather_query,9
+1464,3815,cənubda sabah isti olacaq,weather_query,9
+1465,4530,saat on birdə zəngli saatın təsviri nədir,alarm_query,0
+1466,3707,həmin tarixdə hava necə olacaq,weather_query,9
+1467,16424,cavid imanova işdən gec göndərilən yeni email mesajı,email_sendemail,5
+1468,2229,mərkəzi standart saat şərq standart saatında doqquz neçədir,datetime_convert,4
+1469,16972,cavidə email ilə geri mesaj yaza bilərsən,email_sendemail,5
+1470,10199,biz necə küftə hazırlaya bilərik,cooking_recipe,3
+1471,1787,səsi azalt,audio_volume_down,1
+1472,5700,paltarları ipə asıb quruda bilərəm,weather_query,9
+1473,4169,zəhmət olmasa qəbələdə havanı yoxlaya bilərsən,weather_query,9
+1474,3095,bakıda hava necədir,weather_query,9
+1475,6797,təqvimdən növbəti görüşümü sil,calendar_remove,2
+1476,567,nə qədər istidir,weather_query,9
+1477,17129,yeni insana email aç zəhmət olmasa,email_sendemail,5
+1478,241,bayırda nə baş verir,weather_query,9
+1479,5662,günəş kremi sürtüm,weather_query,9
+1480,2041,bugünkü hava əladır,weather_query,9
+1481,5338,normal temperatur,weather_query,9
+1482,6512,saatın zəngləri,alarm_query,0
+1483,5779,bakının havası,weather_query,9
+1484,5817,doğma şəhərin havası,weather_query,9
+1485,4824,bu həftəsonu hava,weather_query,9
+1486,10033,balıq qızartmasını qısaca izah et,cooking_recipe,3
+1487,8942,bu ay üçün hər şeyi sil,calendar_remove,2
+1488,7837,hər şeyi sil,calendar_remove,2
+1489,10082,sən kükünü necə bişirirsən,cooking_recipe,3
+1490,6853,təqvimdə növbəti plana get və onu sil,calendar_remove,2
+1491,2430,zəhmət olmasa zəngli saatları yoxla,alarm_query,0
+1492,8727,bütün planları sil,calendar_remove,2
+1493,10239,mənə toyuğu necə bişirməklə bağlı təlimatlar ver,cooking_recipe,3
+1494,16954,kontaktları axtar,email_sendemail,5
+1495,16143,cavidə email yarat,email_sendemail,5
+1496,10232,balıq qızartması ən yaxşı necə bişirmək olar,cooking_recipe,3
+1497,5510,bura ilə oranın nə qədər saat fərqi var,datetime_convert,4
+1498,12498,sabah bakıya qatar bileti sifariş ver,transport_ticket,8
+1499,8183,təqvimimdən diş həkimi ilə randevunu çıxara bilərsən,calendar_remove,2
+1500,12648,praktiki sürücülük qiymətləndirməsi,transport_ticket,8
+1501,17078,lütfən nərminə görüş vaxtının dəyişdirilməsi haqqında iş imeyli göndərin,email_sendemail,5
+1502,9089,bu ay üçün olan cədvəlimi təmizlə,calendar_remove,2
+1503,6971,planı ləğv et,calendar_remove,2
+1504,9975,oli veqan yumurta əvəzinə nə yaxşıdır,cooking_recipe,3
+1505,8544,bütün təqvim planlarımı sil,calendar_remove,2
+1506,6829,sabaha olan bütün görüşləri sil,calendar_remove,2
+1507,8728,bütün planları sil,calendar_remove,2
+1508,16126,anama yaz ki ana çox sağ ol,email_sendemail,5
+1509,181,indi yağış yağır,weather_query,9
+1510,16538,emaili açarsan mən yeni bir email yazmaq istəyirəm,email_sendemail,5
+1511,49,g. m. t. üstəgəl beşdə mənə vaxtı de,datetime_convert,4
+1512,16403,nərminə yeni email yaz ki bugün üçün planların var,email_sendemail,5
+1513,9920,ketçup üçün resept necədir,cooking_recipe,3
+1514,9735,ən son audio kitabı davam et,play_audiobook,6
+1515,4595,gələn həftə yetmiş dərəcə gün olacaq,weather_query,9
+1516,9927,olly makaron bişirmək üçün nə qədər vaxt lazımdır,cooking_recipe,3
+1517,16114,axşam saat ondan səhər saat doqquza qədər gələn emaillərə cavab yaz,email_sendemail,5
+1518,5344,çərşənbə günü qar ehtimalı var,weather_query,9
+1519,8816,planın ilinə get və sil,calendar_remove,2
+1520,16728,cavidə de ki mənlə əlaqə saxladığı üçün minnətdaram,email_sendemail,5
+1521,3506,bugünkü hava proqnozu nədir,weather_query,9
+1522,9852,səhra çiçəyinin ən son sessiyasından başla,play_audiobook,6
+1523,17165,şəbnəmə email yaz,email_sendemail,5
+1524,12719,mənə buradan bakıya qatar bileti lazımdır,transport_ticket,8
+1525,7713,sabaha olan bütün planlarımı sil,calendar_remove,2
+1526,11955,yaxınlıqda hansı filmlər nümayiş olunur,recommendation_movies,7
+1527,335,bakıda havanı bilmək istərdim,weather_query,9
+1528,12400,səhər saat doqquzdan sonra bakı şəhərinə səyahət üçün mənə bir nəfərlik qatar bileti sifariş et,transport_ticket,8
+1529,4294,mənə qurmuş olduğum xəbərdarlıqlar barədə məlumat verə bilərsən,alarm_query,0
+1530,5454,qara günəş eynəyi ilə gedirəm ya yox,weather_query,9
+1531,9713,metin hara audiokitabını oxut,play_audiobook,6
+1532,2050,bakı şəhərinin havasını öyrən,weather_query,9
+1533,3858,çərşənbə axşamı qar yağacaqmı,weather_query,9
+1534,11735,olly məşədi ibad yaxşı filmdir,recommendation_movies,7
+1535,5645,bu gün axşam hava necə olacaq,weather_query,9
+1536,9786,mənim kitabımı oxu,play_audiobook,6
+1537,3935,bayırda soyuqdur,weather_query,9
+1538,2872,mənim qurulmuş zəngli saatlarım var,alarm_query,0
+1539,16117,iş komandasına bu həftənin cədvəlini email at,email_sendemail,5
+1540,12323,mənbə və təyinat,transport_ticket,8
+1541,8087,xatırlatma silə bilərəm,calendar_remove,2
+1542,4473,bugün günəş kremi sürtməliyəm,weather_query,9
+1543,10122,iskəndər dönəri üçün yaxşı resept hansıdır,cooking_recipe,3
+1544,2516,bu həftə hava necədir,weather_query,9
+1545,10111,oli mən kotleti necə bişirim,cooking_recipe,3
+1546,7793,bu gün səhər yeməyi haqqında nərminə email göndər,email_sendemail,5
+1547,5601,hava proqnozu necədir,weather_query,9
+1548,16435,mən emailə belə başlamaq istəyirəm,email_sendemail,5
+1549,13441,bugünkü temperatur nə qədərdir,weather_query,9
+1550,7284,diş həkimi ilə görüşümü sil,calendar_remove,2
+1551,7237,aprelin ikisindəki güləş şousunu təqvimimdən sil,calendar_remove,2
+1552,7177,zəhmət olmasa cənab əliyevə məktub göndərin ki mən onunla bir fevral iki min on yeddinci il axşam saat beşdə bu ofisdə görüşəcəm,email_sendemail,5
+1553,6574,global istiləşmə,weather_query,9
+1554,12628,gəncədən bakıya yola düşəcək növbəti qatara minmək istəyirəm,transport_ticket,8
+1555,9914,necə çizkek bişirmək olar,cooking_recipe,3
+1556,5818,doğma şəhərdə hava necədir,weather_query,9
+1557,9684,audiokitaba davam et,play_audiobook,6
+1558,330,daha sakit,audio_volume_down,1
+1559,9742,daha çox audiokitab dinləmək istəyirəm,play_audiobook,6
+1560,6121,indi hava nə qədər soyuqdur,weather_query,9
+1561,3663,cümə günü gecə isti olacaq,weather_query,9
+1562,10088,mənə küftə resepti ver,cooking_recipe,3
+1563,10163,hind toyuğu küftələri bişirməyin ən yaxşı yolu necədir,cooking_recipe,3
+1564,16633,mənim yeni email ünvanım var email göndərə bilərsən,email_sendemail,5
+1565,9850,alexa qisas ilahəsi kitabına axırıncı qaldığım yerdən davam et,play_audiobook,6
+1566,8637,təqvimimdən növbəti planı silə bilərsən,calendar_remove,2
+1567,2888,mənə şəmkir üçün hazırkı havanı de,weather_query,9
+1568,12762,zəhmət olmasa qatar bileti sifariş et,transport_ticket,8
+1569,12490,növbəti beşinci gün səhər üçün zəngilan qatarında mənə yer bron edə bilərsinizmi,transport_ticket,8
+1570,2051,mənə bakı üçün bugünkü hava hesabatını deyin,weather_query,9
+1571,4211,səncə bu həftə şort geyinmək olar,weather_query,9
+1572,5737,mənə növbəti iki gün üçün zəngli saatları ver,alarm_query,0
+1573,16571,mənim bacıma email göndər,email_sendemail,5
+1574,9686,müharibə sənətinə davam et,play_audiobook,6
+1575,10087,necə küftə bişirə bilərəm,cooking_recipe,3
+1576,16109,hər gün axşam saat ondan səhər saat yeddiyə kimi gələn bütün emaillərə cavab ver,email_sendemail,5
+1577,3122,nə geyinim çöldə soyuqdur,weather_query,9
+1578,6903,gələn həftəyə olan diş həkimi ilə görüşü sil,calendar_remove,2
+1579,8739,planları sil,calendar_remove,2
+1580,9917,pizza bişirmək üçün nə lazımdır,cooking_recipe,3
+1581,8231,həmin tarixdəki görüşü sil,calendar_remove,2
+1582,8871,iyirmi dörd mart görüşünü cədvəlimdən çıxart,calendar_remove,2
+1583,7714,sabah məşğul olduğuma görə bütün təqvim planlarını sil,calendar_remove,2
+1584,16408,alexa email yaz,email_sendemail,5
+1585,12642,mən axşam saat beş qatarı ilə qəbələyə getməliyəm,transport_ticket,8
+1586,1654,gələn çərşənbə axşamı hava nə qədər soyuq olacaq,weather_query,9
+1587,11739,biletlər,recommendation_movies,7
+1588,7251,samirin qonaqlığını sil,calendar_remove,2
+1589,9970,necə etmək olar sarımsaq pis dadmasın,cooking_recipe,3
+1590,7360,növbəti toy planını sil,calendar_remove,2
+1591,10018,quzunu necə qızardırsan,cooking_recipe,3
+1592,16950,əlaqə üçün yeni email,email_sendemail,5
+1593,833,bu həftə sonu bura qar yağacaq,weather_query,9
+1594,9866,proqramı dünən qaldığım yerdən çal,play_audiobook,6
+1595,10207,zəhmət olmasa düyü ilə olan resepti izah et,cooking_recipe,3
+1596,10151,tort üçün mənə resept tap,cooking_recipe,3
+1597,5430,bu gecə əlcək havası olacaq,weather_query,9
+1598,11850,yaxınlıqdakı kinoteatrda logan üçün nümayiş vaxtları neçədədir,recommendation_movies,7
+1599,16347,qayınanama sifarişləri cümə günündən əvvəl bron etmək üçün mesaj yaz yoxsa onların müddəti bitəcək,email_sendemail,5
+1600,10198,ən yaxşı spagetti resepti axtar,cooking_recipe,3
+1601,4210,sabah işə gedəndə palto geyinməliyəm,weather_query,9
+1602,15781,hey google nərminə emeyl yaz necəsən mənə son layihə haqqında yenilikləri göndərə bilərsən hələlik tomas,email_sendemail,5
+1603,4403,bu gün yanımda çətir götürməliyəm,weather_query,9
+1604,2680,tezliklə hava isinəcək,weather_query,9
+1605,5337,alexa mənə qurduğun zəngli saat vaxtlarını bildir,alarm_query,0
+1606,4732,səsi aşağı sal,audio_volume_down,1
+1607,9699,iki şəhərin hekayəsi audio kitabını qaldığım yerdən başlat,play_audiobook,6
+1608,2331,indi hava necədir,weather_query,9
+1609,15892,günaya email göndər,email_sendemail,5
+1610,9147,şənbə günü olan toy mərasimini silmək istəyirəm,calendar_remove,2
+1611,5983,mənə qurduğun qudokun vaxtını de,alarm_query,0
+1612,1689,bu həftəki hava proqnozu nədir,weather_query,9
+1613,5759,bakıda gələn həftə üçün hava məlumatı,weather_query,9
+1614,12058,ətrafda hər hansı yaxşı filmlər verilən kinoteatrlar varmı,recommendation_movies,7
+1615,6137,çöldə palto geyinməliyəm,weather_query,9
+1616,1865,bu saat temperatur,weather_query,9
+1617,16060,mənim bankımdan olan emailə cavab ver və onlara xəbər ver ki mən kredit kart borclarımı ödəmişəm,email_sendemail,5
+1618,3897,martın on altısı bakıda hava necə olacaq,weather_query,9
+1619,16565,anama günorta yeməyi ilə bağlı email yaz,email_sendemail,5
+1620,12500,növbəti şənbə günü bakıya qatar bileti bron edə bilərsən,transport_ticket,8
+1621,7737,təqvimimdən anarın ad günü yığıncağını sil,calendar_remove,2
+1622,10011,qəlyanaltı nahar şam yeməyi arasından yemək növünü seçin,cooking_recipe,3
+1623,2293,bu gün yağış yağacağı ehtimalı varmı,weather_query,9
+1624,7986,bu şam ziyafəti planını silə bilərsən,calendar_remove,2
+1625,15758,hey cavidə bizim görüşümüz haqqında email yaz,email_sendemail,5
+1626,5124,bayırda istidir yoxsa soyuq,weather_query,9
+1627,4208,sandal geyinməliyəm,weather_query,9
+1628,8852,növbəti tapşırığı çıxar,calendar_remove,2
+1629,6917,planları sil,calendar_remove,2
+1630,16267,ailəmə emeyl yaz ki mən hamınızı sevirəm,email_sendemail,5
+1631,12390,mənə qatar bileti al,transport_ticket,8
+1632,13401,indidən üç gün sonra mənə yaxın olan beş böyük şəhərdə hava necə olacaq,weather_query,9
+1633,12563,aprelin on dördünə bakıya qatar bileti al,transport_ticket,8
+1634,2228,c. s. t. vaxtı ilə səhər saat doqquzu e. s. t. vaxtına çevir,datetime_convert,4
+1635,5167,bu günorta bakıya çətir götüməliyəm,weather_query,9
+1636,16054,cavidə pul üçün məktub göndər,email_sendemail,5
+1637,3979,hal hazırda bayırda istidir mən qazaxdayam,weather_query,9
+1638,10051,mənə spagetti üçün resept tap,cooking_recipe,3
+1639,16716,cavidə email yaz bildir ki mən məzuniyyətdəyəm,email_sendemail,5
+1640,9685,oxumağa davam et,play_audiobook,6
+1641,740,bugün ətraf mühit nə qədər rütubətlidir,weather_query,9
+1642,8815,plan ayına get və onu sil,calendar_remove,2
+1643,795,zəngli saat sabah saat neçəyə təyin olunmuşdur,alarm_query,0
+1644,4146,bugünə təyin olunmuş bütün zəngli saatları mənə bildir,alarm_query,0
+1645,8009,planımı dəyiş növbəti planımı sil,calendar_remove,2
+1646,12562,mənə aprelin on dördü bakıya qatar bileti tap,transport_ticket,8
+1647,15766,zəhmət olmasa cavidə bu cavabı geri göndərə bilərsən,email_sendemail,5
+1648,16087,cavid imanova yeni email yaz,email_sendemail,5
+1649,10190,toyuq şorbasının reseptini tap,cooking_recipe,3
+1650,4451,mənim bugün üçün qurulmuş hər hansı zəngli saatım var,alarm_query,0
+1651,655,ismayıllıda hazırkı hava necədir,weather_query,9
+1652,9693,roma tarixi audio kitabında fasiləni bitir,play_audiobook,6
+1653,5429,bu gün günorta palto geyinməliyəm,weather_query,9
+1654,4251,bugün yun sviterimi geyinmək üçün çox istidir,weather_query,9
+1655,1198,mənə de görüm gecə saat on ikidə şəhərimizdə temperatur neçə dərəcə idi,weather_query,9
+1656,4204,bu həftə qar yağacaq,weather_query,9
+1657,16312,işdə cavidə email göndər,email_sendemail,5
+1658,16311,o emailə cavab göndər,email_sendemail,5
+1659,16784,anam bu həftə havanın necə olacağını bilmək istəyir ona email göndər,email_sendemail,5
+1660,5665,çöldə günəş eynəyi daşımalıyam,weather_query,9
+1661,16246,coana joanne ət a. o. l. nöqtə com email yaz və yeni kontakt kimi əlavə et,email_sendemail,5
+1662,12355,mənim üçün qatar bileti təşkil et zəhmət olmasa,transport_ticket,8
+1663,10187,kərə yağının ən yaxşı alternativi nədir,cooking_recipe,3
+1664,777,çöldəki temperatur altmış səkkiz dərəcəyə çatdıqda məni xəbərdar et,weather_query,9
+1665,9702,çingiz abdullayevin kitabına qulaq asmaq istəyirəm,play_audiobook,6
+1666,847,hazırda quraşdırılmış hər hansı zəngli saat var,alarm_query,0
+1667,1254,bu səhər bakıda temperatur nə qədər idi,weather_query,9
+1668,1503,missuridə gündüz saat dörddürsə londonda saat neçədir,datetime_convert,4
+1669,8738,təqvimdən planı sil,calendar_remove,2
+1670,10042,şəkərbura reseptini haradan tapa bilərəm,cooking_recipe,3
+1671,9836,ikinci mahnı,play_audiobook,6
+1672,9877,mənim audio kitabıma qulaq asmaq istəyərdim,play_audiobook,6
+1673,3773,mənə hava haqqında məlumatı verə bilərsən,weather_query,9
+1674,656,bakıda indi hava necədir,weather_query,9
+1675,4133,mənə de görüm bugün bakı şəhərinə neçə düym qar yağdı,weather_query,9
+1676,7954,mənim təqvimimdə olan bu həftə sonu gedəcəyim yığıncağı sil zəhmət olmasa,calendar_remove,2
+1677,2736,indi yağış yağır,weather_query,9
+1678,10094,necə xərçəng bişirmək olar,cooking_recipe,3
+1679,2915,dinamiklərin səsini al,audio_volume_down,1
+1680,1320,olly bu gün hava necədir,weather_query,9
+1681,5120,yoxla səhər saat beşdən sonra hər hansı zəngli saat varmı,alarm_query,0
+1682,13004,bu gün yağış yağmaq ehtimalı nə qədərdir,weather_query,9
+1683,3344,mən sabah saat neçədə oyanacağam,alarm_query,0
+1684,3379,bu günün hava proqnozu,weather_query,9
+1685,5892,azərbaycanda soyuqdur,weather_query,9
+1686,1906,səsi azalt,audio_volume_down,1
+1687,357,zəhmət olmasa zəngli saatlarımı mənə de,alarm_query,0
+1688,9710,audionu dayandırıb geri yığa bilərsən daha sonra da yenidən başlat,play_audiobook,6
+1689,9858,mənim seçimim sondan bir obyekti oynamaqdır,play_audiobook,6
+1690,5751,çölə çıxanda jaket geyinməliyəm,weather_query,9
+1691,336,bakıda qar yağır,weather_query,9
+1692,2826,mən neçə zəngli saat qurmuşam,alarm_query,0
+1693,10131,toyuğu neçə dəqiqə bişirməliyəm,cooking_recipe,3
+1694,5178,yoxla gör çətir götürməliyəm,weather_query,9
+1695,3806,sabah üçün hava məlumatı,weather_query,9
+1696,4744,mənim yaxınlaşan bütün xatırlatmalarımı siyahıya al,alarm_query,0
+1697,16080,anama email yaz,email_sendemail,5
+1698,6899,təqvimimdən bütün planları sil,calendar_remove,2
+1699,1975,mənim bugünə qurulmuş hər hansı zəngli saatım var,alarm_query,0
+1700,8162,görüş planını dəyiş,calendar_remove,2
+1701,5944,anama bu axşam gec gələcəyimi söylə,weather_query,9
+1702,8432,bu gün saat birdəki görüşümü sil,calendar_remove,2
+1703,1339,səhərə hansı zəngli saatlar qurulmuşdur,alarm_query,0
+1704,10102,lazanyanı necə bişirmək olar göstər,cooking_recipe,3
+1705,17025,anama email yaz bu həftəki hava haqqında soruş,email_sendemail,5
+1706,3012,xahiş edirəm mənə havanı de,weather_query,9
+1707,10005,oli düyünü necə bişirmək olar,cooking_recipe,3
+1708,1605,alarm sabah səhər üçün qurulub,alarm_query,0
+1709,10054,pesto üçün ən yaxşı reseptlər hansıdır,cooking_recipe,3
+1710,7982,bu gün üçün bütün planları ləğv et,calendar_remove,2
+1711,6717,oli cümə günü səhər saat ondakı qısa toplantını sil,calendar_remove,2
+1712,4471,emailə cavab ver,weather_query,9
+1713,5891,təyin olunmuş hər hansı zəngli saat var və onlar hansılardır,alarm_query,0
+1714,12595,günorta saat iki üçün qatar bileti sifariş etməyinə ehtiyacım var,transport_ticket,8
+1715,349,sabah qar yağacaq,weather_query,9
+1716,15859,göstərilən məzmunu blahblah ət blah nöqtə coma yönləndir,email_sendemail,5
+1717,5618,mənim üçün bugün səhər qurduğun zəngli saatlara bax,alarm_query,0
+1718,16942,mobil telefonlar vasitəsilə,email_sendemail,5
+1719,8713,iyirmi beş mart üçün qeyd olunmuş restoranda naharı ləğv et,calendar_remove,2
+1720,10133,mənə toyuq qızartması bişirməyə kömək lazımdır,cooking_recipe,3
+1721,8563,sabah günorta saat üçdə olan görüşümü sil,calendar_remove,2
+1722,9813,birincidən meymun ili audio kitabını oxu,play_audiobook,6
+1723,2049,siyahıda a hərfi ilə başlayan şəhərin hava durumunu yoxla,weather_query,9
+1724,1251,zəhmət olmasa bu həftənin havası haqqında mənə məlumat ver,weather_query,9
+1725,9717,heyvanıstanı oxut,play_audiobook,6
+1726,239,zəngilanda yağış yağır,weather_query,9
+1727,5505,evdə hansı zəngli saatlar qurulur,alarm_query,0
+1728,16043,maliyyə hesabatı iki min on yeddi üçün cavidə email göndər,email_sendemail,5
+1729,1309,bu gün burada iqlim necədir,weather_query,9
+1730,1284,bu saat qurşağını i. s. t. vaxtına dəyişdir,datetime_convert,4
+1731,16556,emeylə adından cavab ver,email_sendemail,5
+1732,4213,standart dağ vaxtını sakit okean vaxtına dəyişdir,datetime_convert,4
+1733,3800,sabah bakıda hava necə olacaq,weather_query,9
+1734,17021,alınan ən son emailə cavab yaz,email_sendemail,5
+1735,9803,iki qüllə audio kitabına başla,play_audiobook,6
+1736,5542,zəhmət olmasa mənə çərşənbə axşamı olan görüş üçün saxlanılmış zəngli saatı bildir,alarm_query,0
+1737,3878,ismayıllıda hazırkı hava necədir,weather_query,9
+1738,10241,oli mal ətinin ən dadlı hissəsi harasıdır,cooking_recipe,3
+1739,13425,səncə sviter geyinim,weather_query,9
+1740,3736,dinamikin səsini azalt zəhmət olmasa,audio_volume_down,1
+1741,2705,audionu aşağı sal,audio_volume_down,1
+1742,8054,yeddi martdan bütün tədbirləri sil,calendar_remove,2
+1743,1535,indi bakida yağış yağır,weather_query,9
+1744,15803,bacıma anamın ad günü ilə bağlı email yaz nərmin biz parkda yığıncaq təşkil etmək haqqında düşünməliyik,email_sendemail,5
+1745,7148,idarə heyəti iclasını sil və tarixini gələn çərşənbə gününə dəyiş,calendar_remove,2
+1746,4523,bayırda hava təqribən necədir,weather_query,9
+1747,12389,mənə qatar bileti al,transport_ticket,8
+1748,10139,peçenye necə hazırlamaq olar,cooking_recipe,3
+1749,5464,mənə şalvar lazımdır,weather_query,9
+1750,11738,vaxtları göstər,recommendation_movies,7
+1751,16058,cavidə email yaz bildir ki şənliyə qatılacağam,email_sendemail,5
+1752,8908,təmizlə,calendar_remove,2
+1753,10074,yumurtanı asan bişirmək üçün neçə dəqiqə bişirirsən,cooking_recipe,3
+1754,7910,sabah saat səkkizdəki görüşümü ləğv et,calendar_remove,2
+1755,8855,zəhmət olmasa təqvimdəki bütün tədbirləri sil,calendar_remove,2
+1756,8145,sabah saat birdəki görüşümü sil,calendar_remove,2
+1757,10147,dörd nəfərlik pomidor qayğanağı üçün resept axtar,cooking_recipe,3
+1758,10103,məni spagetti bişirmək videosuna apar,cooking_recipe,3
+1759,4413,bakıda qar yağır,weather_query,9
+1760,2104,evdə hava necədir,weather_query,9
+1761,9919,tort kremi üçün resept necədir,cooking_recipe,3
+1762,5724,bu gün gecə hava necə olacaq,weather_query,9
+1763,11727,ən yaxın kinoteatr üçün vaxt cədvəlini göstər,recommendation_movies,7
+1764,10032,necə pizza bişirmək olar,cooking_recipe,3
+1765,5588,mənə papaq lazımdır,weather_query,9
+1766,9731,da vinçi şifrəsini oxut,play_audiobook,6
+1767,8726,hər planı sil,calendar_remove,2
+1768,1555,bu həftə hava necə olacaq,weather_query,9
+1769,10236,maddələri bişirdikdən sonra üstünə biraz masala qarışığı əlavə edin sonra bir daha tavada bişirdikdən sonra süfrəyə qoyun,cooking_recipe,3
+1770,4665,bakıda hava necədir,weather_query,9
+1771,11988,indilərdə çıxan yaxşı film hansıdır,recommendation_movies,7
+1772,5904,yoxla gör mənim səhərə qurulmuş hər hansı zəngli saatım var,alarm_query,0
+1773,12192,bakıdan tovuza on yeri görməklə getməyi əhatə edən səfər sifariş et,transport_ticket,8
+1774,12341,bazar günü üçün axşam saat yeddidə üç gediş gəliş qatar bileti sifariş edin gələn həftənin bazar günü səhər saat səkkizdə dönüş bileti,transport_ticket,8
+1775,9773,zəhmət olmasa audio kitaba davam et,play_audiobook,6
+1776,7340,sabahkı görüşümü sil,calendar_remove,2
+1777,9722,birinci harry potter kitabına davam et,play_audiobook,6
+1778,1367,səsi aşağı sal,audio_volume_down,1
+1779,8986,iyula planlaşdırılmış tətilimi sil,calendar_remove,2
+1780,15768,günaya gmaildə epoçt yarat,email_sendemail,5
+1781,5710,bu gün günorta mənə günəş kremi lazımdır,weather_query,9
+1782,1080,mənə sabahkı hava haqqında məlumat ver,weather_query,9
+1783,1968,bayırda yağış yağır,weather_query,9
+1784,12100,dram teatrında oynamaq nədir,recommendation_movies,7
+1785,4750,qar yağacaq,weather_query,9
+1786,11958,mənə film saatlarını göstər,recommendation_movies,7
+1787,8332,bu gündən məşqimi sil,calendar_remove,2
+1788,1082,səsin çox yüksəkdir bunu daha aşağı səslə təkrar et zəhmət olmasa,audio_volume_down,1
+1789,4209,bu gecə mən çətir götürməliyəm,weather_query,9
+1790,2616,ikinci gün narahat olacağammı ki qartəmizləyən maşınlar mənim maşınımı basdırır,weather_query,9
+1791,5956,mağazaya gedəndə qış ayaqqabıları geyinməliyəm,weather_query,9
+1792,10117,dolma bişirmək nə qədər vaxt alır,cooking_recipe,3
+1793,16484,yeni email ünvanı yarat,email_sendemail,5
+1794,2857,bu gün hava necə olacaq,weather_query,9
+1795,5007,zəngli saatlarım hansı günlərə təyin olunub,alarm_query,0
+1796,9719,heyvanıstana geri qayıt,play_audiobook,6
+1797,12561,bakı üçün on dörd aprel cümə günü qatar bileti sifariş ver,transport_ticket,8
+1798,1976,əgər təyin olunmuş hər hansı zəngli saat varsa mənə bildir,alarm_query,0
+1799,11723,bakıdakı kinoteatrlarda nümayiş olunan ən məşhur romantik komediya filmi haqqında mənə məlumat ver,recommendation_movies,7
+1800,278,bakıda hava necədir,weather_query,9
+1801,4099,zəngli saatın saat səkkizə qurulmasını təsdiq et,alarm_query,0
+1802,4932,cümə günü hava necə olacaq,weather_query,9
+1803,4425,mənə yaxınlığımdakı həftəlik hava məlumatını ver,weather_query,9
+1804,5432,iki saatdan sonra isti olacaq,weather_query,9
+1805,10121,necə kətə bişirmək olar,cooking_recipe,3
+1806,1656,mənə planlaşdırılmış bütün zəngli saatları göstər,alarm_query,0
+1807,7173,sil,calendar_remove,2
+1808,16346,nərminə emeyl göndər və səhər portağalları unutmamağı xatırlat,email_sendemail,5
+1809,830,hey çöldə hava çox istidir bu gün günorta temperatur nə qədərdir,weather_query,9
+1810,4801,bayırda hazırkı temperatur nə qədərdir,weather_query,9
+1811,12801,bakıya qatar bileti bron et,transport_ticket,8
+1812,6152,zəhmət olmasa bu günün proqnozunu tap,weather_query,9
+1813,5999,london və nyu york arasında neçə saat fərq var,datetime_convert,4
+1814,12448,şənbə günü ismayıllıya qatar bileti sifariş ver və ödənişini et,transport_ticket,8
+1815,9894,axı dünya fırlanır audio kitabını oxutmağa davam et,play_audiobook,6
+1816,2135,növbəti qudok nə vaxtdır,alarm_query,0
+1817,238,hər hansı zəngli saat var,alarm_query,0
+1818,14991,alexa şəhərimizin hava şəraiti,weather_query,9
+1819,3346,mənim yerimlə hong kong arasındakı vaxt fərqi nədir,datetime_convert,4
+1820,6082,evdən çöldə yolumu kürəkləməyi planlaşdırmalıyammı,weather_query,9
+1821,12594,google mənə sabah üçün qatara bilet bron edə bilərsən,transport_ticket,8
+1822,701,havanı yoxla,weather_query,9
+1823,10223,bu dadlı olmalı idi,cooking_recipe,3
+1824,15759,zəhmət olmasa cavidə xatırlatma ilə email göndər,email_sendemail,5
+1825,9101,zəhmət olmasa təqvimimdə on iki fevral səhər saat doqquza olan həkimlə görüşü sil,calendar_remove,2
+1826,17022,alexa anama email yaz və orada havanın necə olduğunu soruş,email_sendemail,5
+1827,16957,ərimə email yazmağa başla,email_sendemail,5
+1828,12241,biletləri almaq üçün amtrak nöqtə koma gir zəhmət olmasa,transport_ticket,8
+1829,791,mənə bu həftə ən yüksək havanı göstər,weather_query,9
+1830,5036,bugün nə qədər istidir,weather_query,9
+1831,980,çox yüksəkdir zəhmət olmasa musiqininin səsini azalda bilərsən,audio_volume_down,1
+1832,7611,bu günə olan bütün görüşləri sil,calendar_remove,2
+1833,16238,email göndər,email_sendemail,5
+1834,1543,zəhmət olmasa mənə de bu həftəsonu qar yağacaqmı,weather_query,9
+1835,7091,təqvim planlarını sil,calendar_remove,2
+1836,11703,mənə teatr sinfində ən yaxşını göstər,recommendation_movies,7
+1837,7144,təqvimimdən bir iyundakı qonaqlığı sil,calendar_remove,2
+1838,16936,email cavabda qeyd olunmalıdır,email_sendemail,5
+1839,5320,mənə dünənin havasını göstər,weather_query,9
+1840,2063,mənə bu həftənin hava proqnozunu de,weather_query,9
+1841,1036,mənim sabaha iş üçün zəngli saatım qurulmuşdur,alarm_query,0
+1842,12287,sabah bakıya qatar bileti axtar,transport_ticket,8
+1843,10127,mənə peçenye resepti tap,cooking_recipe,3
+1844,6474,hava necədir,weather_query,9
+1845,10095,sağlam qidalar,cooking_recipe,3
+1846,15760,əzizə son xəbərlər haqqında email göndər,email_sendemail,5
+1847,15835,mənim ən son emailimə cavab ver zəhmət olmasa,email_sendemail,5
+1848,10014,beş cümlə ilə şükran günü üçün hind toyuğu bişirmək prosesini bilmək istəyirəm,cooking_recipe,3
+1849,1104,bakıda hazırkı hava necədir,weather_query,9
+1850,9031,gələn həftə üçün olan ofis toplantısı planımı sil,calendar_remove,2
+1851,6728,təranənin evindəki səhər yeməyini ləğv et,calendar_remove,2
+1852,10021,mənə inqrediyentləri göstər,cooking_recipe,3
+1853,8845,təqvimimi təmizlə,calendar_remove,2
+1854,5463,qısaqol geyinməliyəm,weather_query,9
+1855,12331,olly mənə ayın üçü zəngilana qatar bileti sifariş et saatın fərqi yoxdur,transport_ticket,8
+1856,3612,yağış yağmayacaq düzdür,weather_query,9
+1857,10057,kələm dolması bişirmək üçün nəyə ehtiyacım var,cooking_recipe,3
+1858,3097,bakıda yağış yağır,weather_query,9
+1859,16199,cavidin iş emailinə email göndər,email_sendemail,5
+1860,15876,fakturaların bir kopiyasını email ilə nərminə göndər,email_sendemail,5
+1861,3339,hava təqribən necədir,weather_query,9
+1862,10225,bu ədvalı olsa daha yaxşıdır,cooking_recipe,3
+1863,9806,mahnı siyahısından madonnanın mahnısını oxut,play_audiobook,6
+1864,860,bu gün hava məlumatı,weather_query,9
+1865,2219,bakıda hava,weather_query,9
+1866,16281,zəhmət olmasa sabahkı görüşümüzlə bağlı cavidin direktoruna email göndər,email_sendemail,5
+1867,8657,zəhmət olmasa təqvimimdən hər şeyi sil,calendar_remove,2
+1868,1388,şənbə günü yağış yağacaq,weather_query,9
+1869,9801,mahnının sözlərini aç,play_audiobook,6
+1870,15902,zəhmət olmasa mənim iş yoldaşlarıma sorğu ilə bağlı cavab yaz,email_sendemail,5
+1871,16474,ilqar məmmədova email göndər,email_sendemail,5
+1872,8472,təqvimdən bütün planları sil,calendar_remove,2
+1873,1863,mənim qurulmuş hər hansı zəngli saatım var,alarm_query,0
+1874,7700,bütün təqvimimi təmizlə,calendar_remove,2
+1875,7063,bütün təqvim planlarımı sil,calendar_remove,2
+1876,10079,yemək bişirmək üçün asan resept hansıdır,cooking_recipe,3
+1877,2256,bu gün mənə plaş lazımdır,weather_query,9
+1878,3978,ismayıllıda hava necədir,weather_query,9
+1879,1019,bugün qar yağacaq,weather_query,9
+1880,16902,mənim axırıncı emailimə cavab yaz,email_sendemail,5
+1881,9671,dədə qorqudu axırıncı dəfə qaldığım yerdən oxutmağa başla,play_audiobook,6
+1882,2873,mənim bugünə təyin olunmuş zəngli saatım var,alarm_query,0
+1883,15951,cavidin emailinə cavab qarala,email_sendemail,5
+1884,3310,bakıda hava necədir,weather_query,9
+1885,6004,bugün çətir götürməliyəm,weather_query,9
+1886,5616,saat qurşağını g. m. t. olaraq dəyiş,datetime_convert,4
+1887,5670,bu gecə küləyin sürəti ilə bağlı proqnoz al,weather_query,9
+1888,7983,bu günə olan bütün plan və tapşırıqları sil,calendar_remove,2
+1889,8982,əli ilə görüşümü sil,calendar_remove,2
+1890,8281,təqvimdən qeyd olunmuş bütün planları sil,calendar_remove,2
+1891,11694,hərhansı yaxşı filmlər,recommendation_movies,7
+1892,3965,mənə zəngli saatların siyahısını göstər,alarm_query,0
+1893,10230,mənim yeməyi bişirməyim nə qədər vaxt çəkəcək,cooking_recipe,3
+1894,9687,qürur və qərəzi aç,play_audiobook,6
+1895,1465,cümə günü yağış yağacaq,weather_query,9
+1896,805,ok google dinamiklərin səsini aşağı sal zəhmət olmasa,audio_volume_down,1
+1897,10003,amerikan sayağı makaron bişirmək istəyirəm göstər mənə,cooking_recipe,3
+1898,12890,cümə axşamı addy qatar bileti alın,transport_ticket,8
+1899,9893,iki qüllə filmini aç,play_audiobook,6
+1900,6606,ən yaxşı on film,recommendation_movies,7
+1901,7327,təqvimimdəki bütün məlumatları sil,calendar_remove,2
+1902,8232,bu həftə heç nə etməyəcəm,calendar_remove,2
+1903,10134,plov üçün resept tap,cooking_recipe,3
+1904,285,sabah küləkli olacaq,weather_query,9
+1905,5634,bugün hava buludlu olacaq,weather_query,9
+1906,9972,qəssab bıçağını itiləmək üçün ən yaxşı yol nədir,cooking_recipe,3
+1907,4214,saatımı mənim indiki qurşağımdan mərkəzi vaxt qurşağına dəyişin,datetime_convert,4
+1908,8744,dəvətli olduğum növbəti təqvim planını silə bilərəsən,calendar_remove,2
+1909,1436,mənim hansı zəngli saatlarım var,alarm_query,0
+1910,1013,honq konq ilə nyu york şəhəri arasında neçə saat fərq var,datetime_convert,4
+1911,16618,daha sonra nərminə iş haqqında email yaz,email_sendemail,5
+1912,1438,mənim hansı zəngli saatlarım var,alarm_query,0
+1913,16906,mənim ailəmə necə olduqlarını soruşan email göndər,email_sendemail,5
+1914,17164,nərminə emaili yönləndir,email_sendemail,5
+1915,10073,cücə plovun içinə gedənləri tap,cooking_recipe,3
+1916,10000,yumurtanı suda necə qaynadım,cooking_recipe,3
+1917,1642,yox yox aşağı sal,audio_volume_down,1
+1918,9928,mənə de necə makaron bişirim,cooking_recipe,3
+1919,10083,şokoladlı alman tortu üçün resept tap,cooking_recipe,3
+1920,7158,zəhmət olmasa təqvimdəki bütün işarələnmiş qeydləri sil,calendar_remove,2
+1921,5890,təyin olunmuş bütün zəngli saatların siyahısını göstər,alarm_query,0
+1922,10160,plov ilə nə gedir,cooking_recipe,3
+1923,6830,gələn həftəyə olan cədvəlimi boşalt,calendar_remove,2
+1924,8296,hazırki təqvimi sil,calendar_remove,2
+1925,7145,martın biri olan şam yeməyində daha iştirak etmək istəmirəm ona görə də gündəliyimdən onu silə bilərsən,calendar_remove,2
+1926,1105,mənə bakı üçün hava proqnozunu ver,weather_query,9
+1927,1691,bu gün hava necədir,weather_query,9
+1928,10091,necə kotlet bişirə bilərəm,cooking_recipe,3
+1929,16116,axşam saat ondan səhər saat doqquza kimi gələn bütün emaillərə cavab verilməlidir,email_sendemail,5
+1930,16792,mənim arvadıma salam mən səni sevirəm mesajını göndər,email_sendemail,5
+1931,3584,quraşdırılmış növbəti üç zəngli saat hansılardır,alarm_query,0
+1932,7308,təqvimimi sil,calendar_remove,2
+1933,5295,bunu bir az daha sakit edə bilərsən,audio_volume_down,1
+1934,326,axşam,weather_query,9
+1935,2021,səsi ən aşağı qoy,audio_volume_down,1
+1936,3692,o kitabdan son cümləni zəhmət olmasa təkrar et,play_audiobook,6
+1937,16508,yeni kontakt əlavə et və email göndər,email_sendemail,5
+1938,7362,növbəti nişan planını sil,calendar_remove,2
+1939,6171,mənə pencək lazım olacaq,weather_query,9
+1940,1857,aşağı,audio_volume_down,1
+1941,16015,zəhmət olmasa nərminə email yazmağa başla,email_sendemail,5
+1942,16004,hey dostuma email göndərmək istəyirəm,email_sendemail,5
+1943,8181,təqvimimdən diş həkimi müayinəsini silə bilərsən,calendar_remove,2
+1944,4108,saatın səhər saat dördə hər hansı zəngi var,alarm_query,0
+1945,5039,mənim ərazimdə hava yağmurludur,weather_query,9
+1946,1663,laqos və nyu york arasındakı vaxt fərqi nə qədərdir,datetime_convert,4
+1947,1707,dinamiklərin səsini beş faizə qədər azaldın,audio_volume_down,1
+1948,4719,çərşənbə günü temperatur donmadan yuxarı olacaqmı,weather_query,9
+1949,8295,bütün planları sil,calendar_remove,2
+1950,12598,həmin vaxt hara getməli olduğumu mənə de,transport_ticket,8
+1951,10124,mən necə yer fındığı yağlı peçenye bişirə bilərəm,cooking_recipe,3
+1952,9911,neçə dəqiqə yumurtaları qaynadım,cooking_recipe,3
+1953,17150,alexa mən aygünün mövcud vaxtlarını yoxlamaq istəyirəm ona email yazıb bu barədə soruşarsan,email_sendemail,5
+1954,1314,bugün hava qəşəng olmalıdır,weather_query,9
+1955,3105,hazırkı temperatur nə qədərdir,weather_query,9
+1956,10060,mənə orta bişmiş biftək hazırlamaq üçün nə qədər vaxt lazımdır,cooking_recipe,3
+1957,5504,evin zəngini qurmuşam,alarm_query,0
+1958,4106,sabah bakıda maksimal temperatur nə qədər olacaq,weather_query,9
+1959,10128,plov üçün resept istəyirəm,cooking_recipe,3
+1960,1918,növbəti yeddi gün ərzində hava necə olacaq,weather_query,9
+1961,9974,yumurtaya əvəzedici yaxşı veqan ərzağı nə olar,cooking_recipe,3
+1962,207,mənə bakıda havanı de,weather_query,9
+1963,7545,may ayını tamamilə təmizlə,calendar_remove,2
+1964,7342,təqvimdəki planları nəzərdən keçir və növbəti planı sil,calendar_remove,2
+1965,16867,dostuma meyl yaz,email_sendemail,5
+1966,507,qudokun vaxtını təsdiqlə,alarm_query,0
+1967,1106,gəncədə havanı bilmək istəyirəm,weather_query,9
+1968,9780,əclafların qanununu yenidən oxu,play_audiobook,6
+1969,300,bu gün üçün hava proqnozu nədir,weather_query,9
+1970,3303,bu həftə hava necədir,weather_query,9
+1971,8862,xahiş edirəm bu günlük axşam saat yeddidən sonra bütün görüşləri ləğv et,calendar_remove,2
+1972,3033,hazırkı hava necədir,weather_query,9
+1973,9105,bütün planları təqvimimdən sil,calendar_remove,2
+1974,12471,qatar bileti al,transport_ticket,8
+1975,824,ok google bu gün mən olduğum yerdə hava necədir,weather_query,9
+1976,5112,sonrakı gün plaşa ehtiyacım olacaq,weather_query,9
+1977,16783,mənim anamın həftəlik havanın ona göndərilməyinə ehtiyacı var,email_sendemail,5
+1978,5177,indi mənə çətir lazımdır,weather_query,9
+1979,9789,ən son çalınan audio kitaba davam et,play_audiobook,6
+1980,16269,caviddən bugün səhər aldığım emailə cavab yaz,email_sendemail,5
+1981,788,indi temperatur nə qədərdir,weather_query,9
+1982,4053,hal hazırda çöldə günəşlidir,weather_query,9
+1983,12270,sabah üçün mənə bakıya hər hansı bir qatara bilet sifariş et,transport_ticket,8
+1984,343,sabah hava necə olacaq,weather_query,9
+1985,5731,yağışlı və fırtınalı gündür,weather_query,9
+1986,1079,bu yerdə sabahkı hava necə olacaq,weather_query,9
+1987,12705,qatar bileti tətbiqini aç,transport_ticket,8
+1988,16240,ərimə email yaz restoran ideyaları soruş,email_sendemail,5
+1989,7354,sabah mənə ismayıllının havası haqqında məlumat verə bilərsən,weather_query,9
+1990,7364,iki min on yeddi martın iyirmi üçündəki birinci planı sil,calendar_remove,2
+1991,4437,sandal geyinə bilərəm,weather_query,9
+1992,12592,zəhmət olmasa mənə bakıya qatar bileti al,transport_ticket,8
+1993,3879,bakıda hava necədir,weather_query,9
+1994,8638,daha həkim müayinəsinə getməyəcəm həmin plan silinə bilər,calendar_remove,2
+1995,4926,bu həftənin hava proqnozu,weather_query,9
+1996,9178,iyirmi altı dekabrdakı bütün planları sil,calendar_remove,2
+1997,8981,ad günü yığıncağımı ləğv et,calendar_remove,2
+1998,1541,mən çətir götürmək istəmirəm bugün yağış yağacaq,weather_query,9
+1999,9128,növbəti təqvim planını sil,calendar_remove,2
+2000,3120,əgər şərq standart kentavr vaxtından on iki saat qabaqdırsa indi filippində saat neçədir,datetime_convert,4
+2001,3664,şənbə günü gecə üçün temperaturu deyə bilərsiniz,weather_query,9
+2002,7236,zəhmət olmasa aprelin birindəki görüşü çıxart,calendar_remove,2
+2003,513,xallarımıza görə,weather_query,9
+2004,2856,bu gün hava günəşlidir,weather_query,9
+2005,1328,bu gün hava necədir,weather_query,9
+2006,10120,necə spagetti bişirmək olar,cooking_recipe,3
+2007,10155,mən necə plov bişirə bilərəm,cooking_recipe,3
+2008,12472,qatar biletinin pulunu ödə,transport_ticket,8
+2009,2064,bu həftə hava necə olacaq,weather_query,9
+2010,101,bu həftə hava necədir,weather_query,9
+2011,4561,saat qurşağımı mərkəzi vaxtdan sakit okean vaxtına dəyişə bilərsən,datetime_convert,4
+2012,16133,anama email yaz ki mən şənliyə gedəcəyəm,email_sendemail,5
+2013,16472,zəhmət olmasa göstərilən email ünvanına email göndər hwu ət gmail nöqtə com,email_sendemail,5
+2014,15850,cimanov ət apple nöqtə koma email göndər,email_sendemail,5
+2015,9937,bir az qızılıbağım var necə bişirim onu,cooking_recipe,3
+2016,4677,bu gün günəş kreminə ehtiyacım olacaq,weather_query,9
+2017,10047,o yeməyi necə bişirirlər,cooking_recipe,3
+2018,16449,oxumaq üçün nərmin axundova epoçt ünvanını redaktə etməliyəm,email_sendemail,5
+2019,8000,martın iyirmi üçü cədvəlindən mənim nahar görüşümü sil,calendar_remove,2
+2020,9759,saxla davam et,play_audiobook,6
+2021,7748,təqvimimdəki bütün planlarımı sil,calendar_remove,2
+2022,1685,bəli yoxsa xeyr sabah temperatur isti olacaq,weather_query,9
+2023,9916,pizza bişirmək üçün nə lazımdır,cooking_recipe,3
+2024,12660,mənə qatar səfəri sifariş ver,transport_ticket,8
+2025,4438,lahıc ismayıllının hava durumu,weather_query,9
+2026,9990,mənə bişirməyi öyrənməyin yollarını de,cooking_recipe,3

@@ -1,0 +1,2028 @@
+,id,text,intent,label
+0,8087,a fedraf ddileu atgoffâd,calendar_remove,2
+1,3587,beth fydd y tywydd wythnos yma,weather_query,9
+2,1906,gostwng yr uchder,audio_volume_down,1
+3,1019,ydy hi'n mynd i fwrw heira heddiw,weather_query,9
+4,16200,anfon ebost i larry gan ddefnyddio yr ebost newydd larrylarry at gmail dot com,email_sendemail,5
+5,522,nid yw yn bosibl,weather_query,9
+6,96,ydi hi yn bwrw glaw,weather_query,9
+7,5586,ydw i'n mynd i fod angen esgidiau glaw,weather_query,9
+8,1329,ydi'r tywydd yn arferol heddiw,weather_query,9
+9,16626,defnyddia ebost i adael i chris wybod y byddaf yn hwyr,email_sendemail,5
+10,10040,beth yw rysáit cwci,cooking_recipe,3
+11,2021,gostwng yr uchder i tyner iawn,audio_volume_down,1
+12,17031,yr wyf angen cadwyn ebost i fy mam yr wyf yn cynllunio taith i'w gweld gofyn iddi sut y bydd y tywydd fel y byddaf yn gwybod beth i'w bacio,email_sendemail,5
+13,5698,oes angen mynd ac ymbarél allan heddiw,weather_query,9
+14,9774,chwarae lyfr sain lle wnaethon ni adael,play_audiobook,6
+15,16702,chwilia am ebost diweddaraf siân fel y gallaf i ateb,email_sendemail,5
+16,9178,cael gwared ar yr holl ddigwyddiadau ar ragfyr chweched ar hugain,calendar_remove,2
+17,9742,dwi eisiau clywed mwy o llyfr llafar,play_audiobook,6
+18,3505,beth fydd y tywydd yn dinas caerdydd wythnos nesaf,weather_query,9
+19,7132,dw'i eisiau i ti ddileu y briodas ar y degfed o fy nghalendr,calendar_remove,2
+20,8283,allwch chi wagio fy nghalendr,calendar_remove,2
+21,10145,dewch o hyd i'r swm cywir o sinamon ar gyfer y garam masala,cooking_recipe,3
+22,3556,fydd yr eira yn stopio cyn saith y bore yfory,weather_query,9
+23,8554,dileuwch y parti nadolig yn yr eglwys dydd mercher nesaf,calendar_remove,2
+24,7146,dewch o hyd i swper gyda mam ar fy nghalendr a dileuwch ef,calendar_remove,2
+25,507,cadarnhau amser y larwm,alarm_query,0
+26,8816,cer i flwyddyn y digwyddiad a dileu,calendar_remove,2
+27,10168,sut i goginior bwyd hwn,cooking_recipe,3
+28,724,rho'r rhagolygon tywydd am yr wythnos,weather_query,9
+29,2918,adroddiad tywydd misol,weather_query,9
+30,16149,ymateb i jack yn sydyn,email_sendemail,5
+31,5869,beth yw'r rhagolygon tywydd am bangor heddiw,weather_query,9
+32,12131,archeba taith dychwelyd o gaeredin i lundain ar drên i mi,transport_ticket,8
+33,1457,sut mae hi yng nghasnewydd,weather_query,9
+34,12459,dangoswch docynnau drên i mi,transport_ticket,8
+35,2292,mae heddiw yn mynd i fod yn heulog,weather_query,9
+36,7984,dileu fy nghalendr cyfan ar gyfer heddiw,calendar_remove,2
+37,16928,ateb ebost diwethaf elin drwy ateb na,email_sendemail,5
+38,7361,dileuwch y digwyddiad penblwydd nesaf,calendar_remove,2
+39,5818,beth yw'r tywydd yn y dref enedigol,weather_query,9
+40,4627,ydi hi fod bwrw glaw yfory,weather_query,9
+41,8658,yr wyf eisiau dileu popeth o'r calendr os gweli'n dda,calendar_remove,2
+42,2345,ydi hi yn glawio yng nghaerdydd ar hyn o bryd,weather_query,9
+43,16134,anfonwch ebost i dad bydda i'n mynd i'r parti penblwydd,email_sendemail,5
+44,327,dydd sul,weather_query,9
+45,4169,gwiria'r tywydd yn gwynedd,weather_query,9
+46,5210,pa larymau sydd wedi gosod gyda fi ar gyfer heddiw,alarm_query,0
+47,10124,sut ydw i yn gwneud bisgedi menyn pysgnau,cooking_recipe,3
+48,7023,dileu sul y tadau o'r calendr,calendar_remove,2
+49,16119,anfon i jane yn unig help,email_sendemail,5
+50,6917,dileu ddigwyddiadau,calendar_remove,2
+51,9888,dechrau chwarae lle fenais yn y goblet of fire,play_audiobook,6
+52,4720,ydi'r penwythnos am fod yn braf,weather_query,9
+53,4438,tywydd biwmares môn,weather_query,9
+54,1976,os oes unrhyw larwm wedi ei osod yna rhowch wybod i fi,alarm_query,0
+55,7501,mae y digwyddiad nesaf wedi ei ddiddymu,calendar_remove,2
+56,7344,dileuwch fy holl ddigwyddiadau calendr,calendar_remove,2
+57,16087,dechrau ebost newydd i george brown,email_sendemail,5
+58,4113,troswch amser presennol o g. m. t. i e. s. t.,datetime_convert,4
+59,7510,nigwyddiad clir,calendar_remove,2
+60,7116,dileuwch fy apwyntiad ar y deuddegfed o fy nghalendr,calendar_remove,2
+61,240,wneith hi fwrw heddiw,weather_query,9
+62,1919,dywedwch wrthyf am y tywydd yr wythnos hon,weather_query,9
+63,2257,ydy hi yn bwrw eira nawr,weather_query,9
+64,179,dweud y tywydd wrtha'i,weather_query,9
+65,9842,fedri di chwarae'r ffeil,play_audiobook,6
+66,10015,mewn pum brawddeg gadewch imi wybod y weithdrefn o wneud twrci diolchgarwch,cooking_recipe,3
+67,10578,cliria fy nigwyddiadau data chwilio,calendar_remove,2
+68,12498,archebu docyn drên i abertawe yfory,transport_ticket,8
+69,10087,sut mae coginio peli cig,cooking_recipe,3
+70,301,sut mae'r tywydd,weather_query,9
+71,5542,gadewch i fi wybod y larwm sydd wedi ei gadw ar gyfer cyfarfod dydd mawrth,alarm_query,0
+72,6759,dileu fy nghyfarfod nesaf,calendar_remove,2
+73,3663,fydd hi'n gynnes nos wener,weather_query,9
+74,16034,ysgrifenna ebost newydd i gyfeiriad ebost david davis,email_sendemail,5
+75,16946,ymateb ebost wedi'i dderbyn,email_sendemail,5
+76,9929,olly sut mae cogyddiwch phasta,cooking_recipe,3
+77,10191,sut i wneud tikka cyw iâr,cooking_recipe,3
+78,2999,y tywydd am yr wyth diwrnod nesaf yn aberffraw môn,weather_query,9
+79,12747,cofiwch archebu docyn drên i mi,transport_ticket,8
+80,6853,ewch i'r ddigwyddiad nesaf yn y calendr a fe ddileu,calendar_remove,2
+81,591,faint mor gynnes yw hi nawr,weather_query,9
+82,9880,llyfr os gwelwch yn dda,play_audiobook,6
+83,11791,beth sy'n ffilm sci fi newydd,recommendation_movies,7
+84,12524,archebwch y tocyn drên rhataf i caerdydd i mi,transport_ticket,8
+85,9796,ailddechrau the handmaid's tale os gweli'n dda,play_audiobook,6
+86,6280,beth oedd y tymheredd pan oeddwn i yn y parc,weather_query,9
+87,16237,anfon y pôst ymlaen i'r cyfeiriad ebost newydd,email_sendemail,5
+88,3612,dyw hi ddim yn mynd i fwrw glaw yw hi,weather_query,9
+89,12057,pa ffilm sydd yn y sinema lleol,recommendation_movies,7
+90,1353,dw'i eisiau arafu fy seinydd,audio_volume_down,1
+91,1657,faint o larymau sydd wedi gosod ar hyn o bryd,alarm_query,0
+92,10008,dywed olly sut mae llysiau cael eu coginio,cooking_recipe,3
+93,7793,anfonwch ebost i sarah ynglŷn â brynsh heddiw,email_sendemail,5
+94,218,ydi yn bwrw glaw allan olly,weather_query,9
+95,9847,chwarae llyfr sain albwm,play_audiobook,6
+96,12140,tocynnau trên wrth gefn,transport_ticket,8
+97,16059,ymateb i gwyn a gad iddo wybod y byddaf yn rhydd yfory,email_sendemail,5
+98,7390,canslo apwyntiad deintydd ar gyfer yr wythnos yma,calendar_remove,2
+99,649,oes unrhyw larymau wedi eu gosod ar gyfer heddiw gyda fi,alarm_query,0
+100,8527,canslo gyfarfod am dri,calendar_remove,2
+101,3964,faint o larymau sydd wedi gosod,alarm_query,0
+102,2671,wnewch chi wirio i weld ydw i wedi gosod fy larwm ar gyfer bore fory os gwelwch yn dda,alarm_query,0
+103,16055,anfon bost i elin ar gyfer ceri,email_sendemail,5
+104,9797,rwyf am ddarllen saith oes efa o'r diwedd,play_audiobook,6
+105,3150,pa bryd y canith fy larwm yn y bore,alarm_query,0
+106,16205,ysgrifenna y neges hon i grŵp y cydweithwyr,email_sendemail,5
+107,10179,sut i farbeciw stêc yn dda,cooking_recipe,3
+108,10060,pa mor hir sydd angen i mi goginio brisged er mwyn iddo fod yn ganolig,cooking_recipe,3
+109,5733,olly a oes angen eli sgrin haul arnaf heddiw,weather_query,9
+110,15888,allwch chi gasglu rhestr o fwytai lleol os gwelwch yn dda a'u hebostio i fy ngŵr,email_sendemail,5
+111,10160,beth sy'n mynd gyda reis wedi'i ffrio cyw iâr,cooking_recipe,3
+112,7713,dileuwch fy nigwyddiadau i gyd ar gyfer yfory,calendar_remove,2
+113,12270,archebwch docyn drên i mi mewn unrhyw drên i abertawe ar gyfer fory,transport_ticket,8
+114,4594,dangoswch y larymau dwi wedi gosod,alarm_query,0
+115,10032,sut i goginio pizza,cooking_recipe,3
+116,5432,fydd hi'n boeth mewn dwy awr,weather_query,9
+117,6088,ydi hi'n mynd i fod yn braf wythnos nesaf ar ddydd mawrth,weather_query,9
+118,16680,creuwch ebost i fy mrawd yn gofyn iddo fe faint o'r gloch fydd e draw am swper,email_sendemail,5
+119,9917,beth sydd ei angen i wneud pizza,cooking_recipe,3
+120,1328,sut y mae'r tywydd heddiw,weather_query,9
+121,8242,olly cliriwch popeth o fy nghalendr ar gyfer gweddill y flwyddyn,calendar_remove,2
+122,1437,gadewch i fi weld fy larymau,alarm_query,0
+123,181,ydi hi yn glawio ar hyn o bryd,weather_query,9
+124,5005,os oeddwn i yn y rhanbarth amser dwyreiniol faint o'r gloch fyddai hi,datetime_convert,4
+125,4523,sut mae'r tywydd tu allan,weather_query,9
+126,9908,ailddechrau nid wyf yn robot,play_audiobook,6
+127,7994,cliria fy nghalendr o yr holl ddigwyddiadau,calendar_remove,2
+128,16211,danfon e-bost i dad yn gofyn sut mae'r tywydd yr wythnos yma,email_sendemail,5
+129,8981,dileu fy mharti pen blwydd,calendar_remove,2
+130,7363,ewch i calendr a dileuwch trydydd digwyddiad mawrth y seithfed ar hugain dwy fil un deg saith,calendar_remove,2
+131,17139,anfon ateb i'r ebost hwn,email_sendemail,5
+132,8104,dileu yr holl apwyntiadau am heddiw,calendar_remove,2
+133,5331,rhanbarth amser rhwng india a'r unol daleithiau,datetime_convert,4
+134,16204,anfonwch y neges hwn i'r grwp teulu,email_sendemail,5
+135,3130,ydi hi yn wyntog heddiw,weather_query,9
+136,9950,cael rysáit i mi,cooking_recipe,3
+137,12855,archeba docyn am heddiw ar wefan g. w. r.,transport_ticket,8
+138,8009,newidiwch fy nghynllun dileuwch fy nigwyddiad nesaf,calendar_remove,2
+139,7200,cliriwch fy nghalendr,calendar_remove,2
+140,3800,sut y bydd y tywydd yfory ym machynlleth,weather_query,9
+141,16240,anfon ebost i'm gŵr i ofyn am syniadau o ran bwytai,email_sendemail,5
+142,4451,oes larwm gyda fi wedi ei osod ar gyfer heddiw,alarm_query,0
+143,4437,alla i wisgo sandalau,weather_query,9
+144,17032,hei anfon ebost i sam cyn nos os gweli'n dda,email_sendemail,5
+145,4665,beth yw'r tywydd mewn abertawe,weather_query,9
+146,9861,ailddechrau chwarae lle gadewais i ffwrdd yn y llyfr ar glywadwy,play_audiobook,6
+147,10116,sut wyt ti'n barbeciwio cyw iâr,cooking_recipe,3
+148,10007,dangos olly y dull i baratoi hufen iâ,cooking_recipe,3
+149,4552,rhestrwch fy holl larymau,alarm_query,0
+150,4743,hei google dwedwch wrtha i pa larymau sydd wedi gosod i fi,alarm_query,0
+151,15883,dw'i eisiau ymateb i alan,email_sendemail,5
+152,12164,allwch chi archebu docyn drên i fy nhad,transport_ticket,8
+153,16509,ateb e-bost,email_sendemail,5
+154,4473,a oes angen i mi roi eli haul heddiw,weather_query,9
+155,1867,manylion hinsawdd nawr,weather_query,9
+156,9083,dileuwch yr holl fanylion mewn digwyddiad,calendar_remove,2
+157,15962,dechrau outlook y mae arnaf angen anfon ebost,email_sendemail,5
+158,12151,archebwch docyn i mi i abertawe ar eurostar y penwythnos hwn,transport_ticket,8
+159,6953,dileu popeth o'r calendr,calendar_remove,2
+160,7921,dileu pob ddigwyddiad a drefnwyd,calendar_remove,2
+161,5669,beth yw'r tymereddau amcangyfrifedig y prynhawn yma,weather_query,9
+162,10139,sut ydych chi'n gwneud cwcis,cooking_recipe,3
+163,8682,dileu ddigwyddiadau,calendar_remove,2
+164,8862,dilëwch bob cyfarfod heddiw ar ôl saith o'r gloch y nos,calendar_remove,2
+165,5801,wyt ti'n meddwl y gallaf wisgo sandalau ynteu a ddylwn wisgo pymps am saith yr hwyr heno,weather_query,9
+166,12589,allwch chi archebu docyn drên i dunvant i mi,transport_ticket,8
+167,16571,anfon ebost i fy chwaer,email_sendemail,5
+168,12351,archebwch docyn drên gyda sedd angorfa i glasgow ar gyfer yr wythnos nesaf,transport_ticket,8
+169,3284,sut mae'r tywydd yn nefyn,weather_query,9
+170,3856,ydi hi'n mynd i fod yn braf yfori,weather_query,9
+171,16267,ebostia fy nheulu yn dweud fy mod yn eich caru i gyd,email_sendemail,5
+172,7545,cliria mis mai i gyd i mi,calendar_remove,2
+173,4901,tro uchder y sain i lawr,audio_volume_down,1
+174,12129,archebwch docyn i mi am drên i llundain o abertawe ymhen dau ddiwrnod o nawr,transport_ticket,8
+175,10180,sut mae coginio wy wedi'i ferwi'n galed,cooking_recipe,3
+176,8545,dileu fy nghalendr,calendar_remove,2
+177,6081,a fyddaf angen côt heddiw,weather_query,9
+178,5498,faint o'r gloch alla i alw o sir benfro a bydd hi'n oriau busnes yn awstralia,datetime_convert,4
+179,12507,dwi eisiau tocyn drên i abertawe,transport_ticket,8
+180,9092,ailosod pob digwyddiad yn y calendr,calendar_remove,2
+181,10128,dwi eisiau rysáit ar gyfer cacen gymraeg,cooking_recipe,3
+182,2050,gwirio tywydd dinas abertawe,weather_query,9
+183,9945,dewch o hyd i'r rysáit fwyaf poblogaidd ar gyfer tacos,cooking_recipe,3
+184,8370,hei siri cliria fy holl apwyntiadau calendr ar gyfer heddiw,calendar_remove,2
+185,12890,prynwch docyn drên g. w. r. dydd iau,transport_ticket,8
+186,5649,gofyn am y tywydd bore heddiw,weather_query,9
+187,8926,clirio pob ddigwyddiad o fy calendr cyfan,calendar_remove,2
+188,9954,pa dymheredd ddylai cyw iâr wedi'i bobi fod,cooking_recipe,3
+189,9914,sut i wneud cacen gaws,cooking_recipe,3
+190,7144,dileu y parti ar mehefin y cyntaf o fy nghalendr,calendar_remove,2
+191,8942,dileuwch popeth ar gyfer mis yma,calendar_remove,2
+192,11703,dangos y theatr gorau i mi,recommendation_movies,7
+193,1605,a yw y larwm wedi ei osod ar gyfer bore yfory,alarm_query,0
+194,16556,ymateb i ebost wrth enw,email_sendemail,5
+195,4635,tro uchder y seinydd i lawr,audio_volume_down,1
+196,17078,anfonwch ebost busnes i lauren ynglŷn â newid amser y cyfarfod,email_sendemail,5
+197,4904,bydd yn boeth,weather_query,9
+198,12648,asesiad gyrru ymarferol,transport_ticket,8
+199,10140,lawrlwytho ap coginio,cooking_recipe,3
+200,3344,am faint o'r gloch ydw i'n dihuno yfory,alarm_query,0
+201,2240,rhagolygon tywydd ar gyfer yr wythnos hon,weather_query,9
+202,513,yn ôl ein sgoriau ni,weather_query,9
+203,9668,dwi eisiau gorffen gwrando ar y llyfr y mabinogi o ble gadawes i bant,play_audiobook,6
+204,1254,beth oedd y tymheredd yng nghasnewydd bore yma,weather_query,9
+205,1320,olly beth yw'r tywydd heddiw,weather_query,9
+206,408,pa larymau sydd gyda fi wedi eu gosod,alarm_query,0
+207,16536,anfonwch ebost at fy ngoruchwyliwr,email_sendemail,5
+208,15780,ebost i carys sut wyt ti a fedri di anfon diweddariad am y prosiect diwethaf hwyl tomasz,email_sendemail,5
+209,5241,wnaethoch chi osod y larwm am bump o'r gloch y bore,alarm_query,0
+210,8969,cansla'r digwyddiad yn yr arfaeth o'r lle gweithiais,calendar_remove,2
+211,4285,beth fydd y tymheredd uchaf yr wythnos hon,weather_query,9
+212,11696,pa ffilmiau sydd yn y sinema leol,recommendation_movies,7
+213,5203,wyth o'r gloch y bore amser manila yw beth yn amser dwyreiniol,datetime_convert,4
+214,1690,olly beth yw rhagolygon y tywydd am yr wythnos hon,weather_query,9
+215,4354,beth yw'r tywydd yn dinbych ar hyn o bryd,weather_query,9
+216,10244,edrychwch am y ryseitiau orau,cooking_recipe,3
+217,16058,ateb gwyn gan ddweud y ceisiaf fynychu y parti,email_sendemail,5
+218,16429,anfonwch ebost i mam yn dweud mod i'n gallu dod wythnos nesaf os gwelwch yn dda,email_sendemail,5
+219,1800,wyt ti yn meddwl y bydd wedi bwrw glaw heddiw,weather_query,9
+220,5235,ambarel yn nes ymlaen,weather_query,9
+221,4374,adolygwch larymau sydd wedi eu gosod,alarm_query,0
+222,12664,tocynnau trên i ddau o bobl o gaerdydd i gasnewydd,transport_ticket,8
+223,10109,dwi angen help i wneud crempogau,cooking_recipe,3
+224,9933,dewch o hyd i rysáit ar gyfer cinio rhamantus i ddau,cooking_recipe,3
+225,10067,sut mae gwneud datws stwnsh,cooking_recipe,3
+226,16566,ebostiwch gweithiwr cwmni ynglŷn â phrosiect gwaith,email_sendemail,5
+227,3664,beth fydd y tymheredd ar nos sadwrn,weather_query,9
+228,6474,beth yw'r tywydd,weather_query,9
+229,16690,ateb ebost newydd daf,email_sendemail,5
+230,16691,anfona ateb i alwyn,email_sendemail,5
+231,11728,beth yw'r ffilm boblogaidd mwyaf yr wythnos hon,recommendation_movies,7
+232,17086,ateb i hwn os gweli'n dda,email_sendemail,5
+233,8180,allwch chi ddileu'r digwyddiadau ar fy nghalendr i gyd,calendar_remove,2
+234,9786,chwarae fy llyfr,play_audiobook,6
+235,5335,oes unrhyw larymau wedi eu gosod,alarm_query,0
+236,12379,archebwch docyn drên o gymru i'r alban,transport_ticket,8
+237,1050,diffodd y bas o'r sain,audio_volume_down,1
+238,1992,allwch chi ddweud wrthyf y tywydd ar gyfer dydd llun,weather_query,9
+239,9704,dwi eisiau ailddechrau ble gadawes i bant yn fy seinlyfr,play_audiobook,6
+240,6003,a oes angen i mi wisgo dillad cynnes heddiw,weather_query,9
+241,12471,prynu docyn drên,transport_ticket,8
+242,3857,yw hi'n mynd i fwrw glaw wythnos yma,weather_query,9
+243,10207,esboniwch y rysáit reis os gwelwch yn dda,cooking_recipe,3
+244,16094,anfon ebost i siaron,email_sendemail,5
+245,9848,ailddechrau seinlyfr harbwr diogel,play_audiobook,6
+246,1106,yr wyf eisiau gwybod y tywydd yn nefyn,weather_query,9
+247,4071,cwympa'r uchder os gweli di'n dda,audio_volume_down,1
+248,5973,oes unrhyw larymau gyda fi cyn chwech yn y bore,alarm_query,0
+249,2104,beth yw y tywydd gartref,weather_query,9
+250,789,sut oedd y tywydd yr wythnos hon,weather_query,9
+251,4759,ydi hi'n mynd i fwrw eira heno,weather_query,9
+252,4252,a ddylwn i gario ambarél gyda mi heddiw,weather_query,9
+253,8010,diweddarwch fy nghalendr a dileuwch y digwyddiad nesaf,calendar_remove,2
+254,648,allwch chi ddweud wrtha i pa larymau ydw i wedi gosod,alarm_query,0
+255,9852,dechrau chwarae o fy sesiwn olaf o wythnos yng nghymru fydd,play_audiobook,6
+256,8745,dilëwch y ddigwyddiad calendr nesaf yr wyf wedi i greu,calendar_remove,2
+257,4528,allwch chi ddweud wrtha i am y larwm or enw gwely,alarm_query,0
+258,7760,tynnu'r nigwyddiad hwnnw o fy calendr,calendar_remove,2
+259,9882,ailddechrau llyfr tudur owen,play_audiobook,6
+260,9865,chwarae'r llyfr sain hwn i mi,play_audiobook,6
+261,6714,olly canslwch fy nghyfarfod busnes ar ddydd mercher,calendar_remove,2
+262,9090,dileu pob ddigwyddiadau ar y calendr,calendar_remove,2
+263,7739,dydw i ddim yn mynd i barti pen-blwydd bryn terfel mwyach,calendar_remove,2
+264,12172,cadw tocyn drên i mi heddiw i dinbych,transport_ticket,8
+265,12287,chwiliwch am docynnau drên i caeredin fory,transport_ticket,8
+266,5466,oes angen i mi ddefyddio eli haul cynd mynd i gwrdd â fy ffrind am ginio,weather_query,9
+267,3375,pa amser fydd hi yn lleol am naw o'r gloch y bore amser bangalore india,datetime_convert,4
+268,16557,ateb i enw,email_sendemail,5
+269,5504,wnes i osod fy larwm tŷ,alarm_query,0
+270,10222,maer daflen ffeithiau yma yn darparu ystyriaethau am sut i sefydlu eich busnes prosesu bwyd,cooking_recipe,3
+271,11609,beth yw'r ffilm gyffrous diweddaraf yn y sinemau,recommendation_movies,7
+272,1079,beth fydd y tywydd yfory yn y lleoliad hwn,weather_query,9
+273,239,ydi hi'n bwrw yng nghonwy,weather_query,9
+274,1654,faint mor oer fydd hi dydd mawrth nesaf,weather_query,9
+275,7702,glanhewch lan fy amserlen,calendar_remove,2
+276,12616,rwyf am archebu tocyn drên rajdhani o bangor i gaerdydd,transport_ticket,8
+277,1725,beth fydd cyflwr y tywydd y saith niwrnod nesaf,weather_query,9
+278,9780,ailchwarae cannwyll yn olau,play_audiobook,6
+279,3738,os gweli di'n dda addasa'r seinyddion i lefel is a mwy cysurus,audio_volume_down,1
+280,8845,gwagia fy nghalendr,calendar_remove,2
+281,3389,beth yw rhagolygon y tywydd ar gyfer abertawe,weather_query,9
+282,12538,olly dod o hyd i mi y docyn drên rhataf i cymru,transport_ticket,8
+283,17125,dechrau ateb i ebost diweddaraf marleen,email_sendemail,5
+284,5463,dyle'n ni wisgo llewys cwta,weather_query,9
+285,11736,ydi y llyfrgell yn ffilm da,recommendation_movies,7
+286,16231,atebwch ebost greg yn dweud bod ei syniad yn wych,email_sendemail,5
+287,9970,a oes unrhyw beth i'w wneud â quinoa i wneud iddo beidio â blasu'n ofnadwy,cooking_recipe,3
+288,259,ti'n rhy swnllyd,audio_volume_down,1
+289,4208,a ddylwn i wisgo sandalau,weather_query,9
+290,5645,sut y bydd y tywydd gyda'r nos heddiw,weather_query,9
+291,3560,gostynga'r sŵn os gweli di'n dda,audio_volume_down,1
+292,1863,oes unrhyw larymau gyda fi wedi eu gosod,alarm_query,0
+293,9899,ailddechrau chwarae y llyfr sain cyfredol,play_audiobook,6
+294,8256,dileu holl ddigwyddiadau wedi'i drefnu ar fy nghalendr os gweli di'n dda,calendar_remove,2
+295,16065,anfonwch ebost i gyda'r pwnc fel prawf a dim cynnwys,email_sendemail,5
+296,9665,ailweindiwch llyfr llafar tri deg eiliad,play_audiobook,6
+297,11957,pa ffilmiau sy'n chwarae yn agos i mi olly,recommendation_movies,7
+298,7093,cliriwch fy nghalendr,calendar_remove,2
+299,12719,dwi angen tocyn drên i cambridge o fan hyn,transport_ticket,8
+300,16674,anfon ebost i joejoe at gmail dot com,email_sendemail,5
+301,1937,rho i mi gyflwr y tywydd yn llandudno,weather_query,9
+302,4505,ydi hi'n heulog,weather_query,9
+303,9886,ailddechrau chwarae y llyfr llafar hawl i fyw,play_audiobook,6
+304,1131,dywedwch wrthyf lefel y lleithder yng dunvant heddiw,weather_query,9
+305,9829,sain,play_audiobook,6
+306,6143,sut y bydd y tywydd ymhen pythefnos,weather_query,9
+307,3120,os yw hi deuddeg awr ymlaen o amser safonol dwyreiniol amser centaur beth yw'r amser yn y philippines nawr,datetime_convert,4
+308,9727,ailddechrau seinlyfr,play_audiobook,6
+309,15960,anfon ebost i elin,email_sendemail,5
+310,4602,bydd y tymheredd yn uchel heddiw,weather_query,9
+311,16839,anfon ebost i fy ngwraig,email_sendemail,5
+312,11931,fedri di awgrymu drama dda i wylio,recommendation_movies,7
+313,6029,dw'i angen gwisgo siaced yn y bore,weather_query,9
+314,2222,tywydd yn llanbedrog,weather_query,9
+315,3965,dangoswch rhestr o larymau i fi,alarm_query,0
+316,3122,beth ddylwn ei wisgo ydi hi'n oer allan,weather_query,9
+317,9905,parha i chwarae o ble adais i e,play_audiobook,6
+318,16837,llunia yr ebost yma i'r cyfeiriad ebost newydd yma,email_sendemail,5
+319,10021,dangos i mi beth yw'r cynhwysion,cooking_recipe,3
+320,2229,beth yw'r naw y bore c. s. t. i e. s. t.,datetime_convert,4
+321,12506,archebu docyn drên i abertawe,transport_ticket,8
+322,5234,ydw i yn mynd i ddod ac ymbarél yn hwyrach,weather_query,9
+323,15892,anfonwch e-bost i adele,email_sendemail,5
+324,509,pa larymau sydd gyda fi,alarm_query,0
+325,4562,olly allwch chi drosi fy rhanbarth amser i'r rhanbarth amser dwi ynddo ar hyn o bryd,datetime_convert,4
+326,8108,dileuwch digwyddiad calendr nesaf,calendar_remove,2
+327,15750,anfon neges i jan i ddweud y byddaf yn hwyr,email_sendemail,5
+328,7837,dileuwch popeth,calendar_remove,2
+329,15889,fedri di anfon ebost i fy nghyfaill sian i adael iddi wybod na fyddaf yn yr eglwys yfory,email_sendemail,5
+330,3584,beth yw'r tri larwm nesaf sydd wedi eu gosod i fynd bant,alarm_query,0
+331,15846,sut y daeth i ni,email_sendemail,5
+332,5935,bydd arnaf angen ambarel heddiw,weather_query,9
+333,16441,danfon ebost i carl byddai'n hwyr i'r gwaith yfory,email_sendemail,5
+334,6882,canslo'r gyfarfod yr wythnos nesaf dydd iau am ddau o'r gloch,calendar_remove,2
+335,4435,pa ddiwrnod fydd yn heulog,weather_query,9
+336,3346,beth yw'r gwahaniaeth amser rhwng fy lleoliad a hong kong,datetime_convert,4
+337,9080,cansla holl gyfarfodydd heddiw,calendar_remove,2
+338,11956,olly pa ffilmiau sy'n chwarae yn agos ataf,recommendation_movies,7
+339,12357,allech chi wneud tocyn trên i mi,transport_ticket,8
+340,16835,anfon yr ebost i'r cyfeiriad ebost newydd hwn,email_sendemail,5
+341,14991,alexa adrodd y tywydd yn ein dinas,weather_query,9
+342,2826,faint o larymau ydw i wedi gosod,alarm_query,0
+343,5787,mae hi'n oer allan,weather_query,9
+344,16756,arddywedyd ebost newydd,email_sendemail,5
+345,2634,cwympa'r seinyddion,audio_volume_down,1
+346,7701,cael gwared ar yr holl ddigwyddiadau yn fy nghalendr,calendar_remove,2
+347,12614,archebwch docyn trên ewrosar o merthyr i abersoch,transport_ticket,8
+348,7737,tynnu barti penblwydd dewi o fy nghalendr,calendar_remove,2
+349,7430,hoffwn i'r digwyddiad hwn gael ei ddileu o fy nghalendr,calendar_remove,2
+350,62,rhestrwch larymau gweithredol os gwelwch yn dda,alarm_query,0
+351,8835,dileu popeth o fy nghalendr am y ddwy wythnos nesaf,calendar_remove,2
+352,16499,danfon ebost i mam yn dweud dwi'n dod adref penwythnos yma,email_sendemail,5
+353,10149,dewch o hyd i'r rysáit sydd ar y raddfa uchaf o foodnetworkcom ar gyfer omled pedwar caws,cooking_recipe,3
+354,8657,os gwelwch yn dda dileu bopeth o fy nghalendr,calendar_remove,2
+355,6092,fydd hi yn gymylog yn llanberis yn ystod y penwythnos,weather_query,9
+356,805,ok google cwympa'r holl uchder ar y seinyddion os gweli di'n dda,audio_volume_down,1
+357,12590,allwch chi wirio amserlen y drên i llanelli,transport_ticket,8
+358,7078,cliria fy holl galendr,calendar_remove,2
+359,10123,beth yw'r chili gorau sydd i gael,cooking_recipe,3
+360,10035,dywedwch wrthyf y rysáit ar gyfer reis melyn,cooking_recipe,3
+361,7681,dileuwch fy holl apwyntiadau gyda doctor smith yr wythnos hon,calendar_remove,2
+362,6736,canslo pob digwyddiad yn ystod y ddau ddiwrnod nesaf,calendar_remove,2
+363,10043,sawl cwpan o siwgr sydd mewn bara brith,cooking_recipe,3
+364,9988,anweddu,cooking_recipe,3
+365,4801,beth yw'r tymheredd presennol tu allan,weather_query,9
+366,7327,dileuwch holl gynnwys yn fy nghalendr,calendar_remove,2
+367,15826,ymateb i bawb fy mod ar fy ffordd,email_sendemail,5
+368,8908,iawn,calendar_remove,2
+369,15855,anfon y cyfeiriad ebost ymlaen i'm ebost newydd,email_sendemail,5
+370,12561,archebwch docyn trên ar gyfer dydd gwener ebrill y pedwerydd ar ddeg ar gyfer abertawe,transport_ticket,8
+371,3783,sut mae'r tywydd yn edrych yn llandudno,weather_query,9
+372,4766,bydd angen cot arnaf y bore yma,weather_query,9
+373,11635,pa amser bydd ffilm yn cael ei ddangos yfori,recommendation_movies,7
+374,17025,ysgrifenna ebost i mam a gofyn sut y mae'r tywydd yr wythnos yma,email_sendemail,5
+375,2248,ydy'r tywydd wedi newid ar gyfer dydd mercher o gwbl,weather_query,9
+376,1314,a ydyw y tywydd i fod yn braf heddiw,weather_query,9
+377,10223,byddain flasus,cooking_recipe,3
+378,12100,beth sydd yn cael ei ddangos yn sinema yr odeon,recommendation_movies,7
+379,10095,bwydoedd iach,cooking_recipe,3
+380,3531,allwch chi newid y rhanbarth amser i'r unol daleithiau os gwelwch yn dda,datetime_convert,4
+381,4251,ydi hi'n rhy boeth i wisgo fy siwmper wlân heddiw,weather_query,9
+382,5506,dywedwch wrtha i ydy fy larwm wedi ei osod ar gyfer y bore,alarm_query,0
+383,16484,crea gyfeiriad ebost newydd,email_sendemail,5
+384,2078,tro'r uchder lawr tamaid os gweli di'n dda,audio_volume_down,1
+385,4943,siarad yn fwy tawel os gweli di'n dda,audio_volume_down,1
+386,7340,canslwch fy nghyfarfod yfory,calendar_remove,2
+387,12292,tocyn ar gyfer llundain,transport_ticket,8
+388,205,dangoswch larymau,alarm_query,0
+389,644,beth fydd y tymheredd uchaf yr wythnos yma,weather_query,9
+390,12448,archebwch a thalu am docyn drên i llangefni ar gyfer dydd sadwrn,transport_ticket,8
+391,12053,pa ffilmiau gradd uchel sy'n chwarae penwythnos yma,recommendation_movies,7
+392,12803,archebwch docyn drên i caerdydd os gwelwch yn dda,transport_ticket,8
+393,12871,archebwch docyn drên i abertawe i mi,transport_ticket,8
+394,17128,mewnbynna y cyfeiriad newydd ar ffurf ebost,email_sendemail,5
+395,9799,agor enw albwm,play_audiobook,6
+396,10054,beth yw'r ryseitiau orau ar gyfer cacen gymraeg,cooking_recipe,3
+397,5166,fydd hi'n bwrw glaw yng nghaerdydd wedyn,weather_query,9
+398,278,sut mae'r tywydd yn abertawe,weather_query,9
+399,11694,unrhyw ffilmiau da,recommendation_movies,7
+400,4219,oes angen cot tu allan ar hyn o bryd,weather_query,9
+401,4250,fydd hi yn glawio yn hwyrach heddiw,weather_query,9
+402,8815,ewch i'r digwyddiad mis a dileuwch,calendar_remove,2
+403,9850,alexa ailddechreuwch pobol dafydd iwan o ble gadawes i bant tro diwethaf,play_audiobook,6
+404,16836,alexa anfon yr ebost i'r cyfeiriad ebost newydd hwn,email_sendemail,5
+405,2346,beth yw'r tymheredd yn nefyn ar hyn o bryd,weather_query,9
+406,10005,sut i goginio olewog reis,cooking_recipe,3
+407,7092,dileu ddigwyddiadau calendr,calendar_remove,2
+408,17163,anfon bost rhybudd i sandy,email_sendemail,5
+409,566,beth yw'r tymheredd,weather_query,9
+410,4079,faint o'r gloch mae fy larwm wedi ei osod ar gyfer bore fory,alarm_query,0
+411,16963,darllen yr ebost ac anfon efi i'r aelod teulu,email_sendemail,5
+412,6899,dileu holl ddigwyddiadau o fy nghalendr,calendar_remove,2
+413,432,beth yw'r tywydd tu allan rwan,weather_query,9
+414,7982,dileuwch pob digwyddiad ar gyfer heddiw,calendar_remove,2
+415,3897,sut y bydd y tywydd yn abertawe ar yr unfed ar bymtheg o fawrth,weather_query,9
+416,8331,dileuwch fy nghyfarfod ar gyfer yfory,calendar_remove,2
+417,16755,danfon ebost llais,email_sendemail,5
+418,8369,hei olly cliriwch fy holl apwyntiadau calendr ar gyfer heddiw,calendar_remove,2
+419,12641,archeba drên pump y. h. i abertawe,transport_ticket,8
+420,4863,sut mae'r tywydd yn sir y fflint,weather_query,9
+421,793,beth yw'r siawns o genllysg yr wythnos hon,weather_query,9
+422,9867,rhestra y llyfrau llafar yr wyf fi eisoes wedi gwrando arnynt,play_audiobook,6
+423,6574,cynhesu byd-eang,weather_query,9
+424,4093,oedd hi'n wyntog ddoe,weather_query,9
+425,8872,dileu cinio gyda michael,calendar_remove,2
+426,10084,beth sy'n ddewis arall yn lle blawd,cooking_recipe,3
+427,8342,canfod fy nigwyddiad nesaf a'i ddileu ef,calendar_remove,2
+428,17114,allwch chi ateb yr ebost,email_sendemail,5
+429,6137,dylen ni wisgo cot ti allan,weather_query,9
+430,5664,ydw i angen rhoi eli llosg haul pan wyf yn mynd i'r clwb golff,weather_query,9
+431,9859,agor audible a pharhau i chwarae y llyfr yr oeddwn yn gwrando arno,play_audiobook,6
+432,1251,diweddara fi am dywydd yr wythnos hon os gweli'n dda,weather_query,9
+433,2706,gostwng yr uchder ugain y cant,audio_volume_down,1
+434,2041,mae tywydd heddiw yn anhygoel,weather_query,9
+435,5467,a oes angen sbectol haul,weather_query,9
+436,7764,cliriwch fy nghalendr o'r holl ddigwyddiadau os gwelwch yn dda,calendar_remove,2
+437,8147,dileu y gyngerdd o digwyddiadau y calendr,calendar_remove,2
+438,16595,anfon yr ebost ymlaen,email_sendemail,5
+439,8665,dileuwch popeth o fy nghalendr,calendar_remove,2
+440,1081,dangos y tywydd ar gyfer yfory i mi,weather_query,9
+441,325,hapus,weather_query,9
+442,12574,archebwch docyn i abertawe ar y drên,transport_ticket,8
+443,11774,beth wyt ti'n awgrymu dwi'n gwylio penwythnos yma,recommendation_movies,7
+444,5944,dywed wrth mam fy mod am fod yn hwyr heno,weather_query,9
+445,16208,ebostia tom dyddiad ac amser cyfarfod yfory,email_sendemail,5
+446,4120,pa amser larwm wnaethoch chi osod,alarm_query,0
+447,16988,dywedwch wrth yr ebost wnaeth george anfon i fi dwi angen yr arian nawr ar frys,email_sendemail,5
+448,2791,sut mae'r rhagolygon pum diwrnod yn edrych yn dinas caerdydd,weather_query,9
+449,7076,dileu fy ddigwyddiad calendr nesaf,calendar_remove,2
+450,12628,hoffwn i fynd ar y drên nesaf a fydd yn gadael niwbwrch mynd i llanfairfechan,transport_ticket,8
+451,8613,dileu fy nigwyddiad diweddaraf,calendar_remove,2
+452,9963,pethau rhyfedd mae pobl eisiau gwybod,cooking_recipe,3
+453,12914,mae angen i mi archebu tocyn drên i abertawe,transport_ticket,8
+454,9937,mae gen i ychydig o eogiaid sut mae paratoi hyn,cooking_recipe,3
+455,16031,olly agor ebost newydd i'r cydweithiwr hwn gan ddefnyddio'r cyfeiriad ebost hwn,email_sendemail,5
+456,3858,oes yn mynd i fod eira ar ddydd mawrth,weather_query,9
+457,9687,chwarae aros mae,play_audiobook,6
+458,16188,anfonwch e-bost i rohan i gwrdd â fi heddiw gyda'r nos,email_sendemail,5
+459,3869,ydy'r larwm i'r drws cefn wedi ei osod ac yn barod i fynd,alarm_query,0
+460,16143,llunia ebost i aran,email_sendemail,5
+461,15952,anfonwch e-bost i james yn gofyn pryd ma fe'n gorffen gwaith,email_sendemail,5
+462,6026,dymheredd,weather_query,9
+463,4613,a fydd y tymheredd dros hanner cant yfory,weather_query,9
+464,12900,cadarnha taith trên ar y trydydd o orffennaf i mi,transport_ticket,8
+465,1405,faint mor boeth yw hi'n gyfredol ym mhen llŷn,weather_query,9
+466,17124,agor ebost i'w anfon i dad,email_sendemail,5
+467,16348,ateb ebost siôn a ddaeth heddiw gan ddweud y byddaf yn hwyr,email_sendemail,5
+468,9683,chwarae llyfr,play_audiobook,6
+469,1262,am bryd mae fy larwm wedi ei osod,alarm_query,0
+470,847,oes unrhyw larymau wedi eu gosod nawr,alarm_query,0
+471,10130,ar ba tymheredd ddylwn i bobi cwcis,cooking_recipe,3
+472,10014,rydw i eisiau gwybod y drefn o wneud twrci diolchgarwch mewn pum brawddeg,cooking_recipe,3
+473,16233,danfon ebost at dale yn ei rybuddio am y gwylanod ger y traeth,email_sendemail,5
+474,8225,dileuwch digwyddiad ar gyfer dydd mawrth,calendar_remove,2
+475,10184,faint o siwgr sy'n mynd mewn te melys,cooking_recipe,3
+476,699,beth yw adroddiad y tywydd,weather_query,9
+477,2340,dywedwch wrthyf y tywydd presennol yn ninas abertawe,weather_query,9
+478,5248,olly a oes angen i mi ddod a chôt heddiw,weather_query,9
+479,12592,plis prynwch docyn drên i abertawe i mi,transport_ticket,8
+480,9041,dileuwch parti penblwydd,calendar_remove,2
+481,9791,chwarae'r ymbelydredd o'r llyfr sain,play_audiobook,6
+482,4467,faint o'r gloch mae fy larwm wedi ei osod,alarm_query,0
+483,4761,oes eira yn dod heno,weather_query,9
+484,9960,sut ydw i'n stemio reis,cooking_recipe,3
+485,1707,tro'r seinyddion lawr i bump y cant,audio_volume_down,1
+486,3962,agor yr ap tywydd,weather_query,9
+487,4561,allwch chi newid fy rhanbarth amser o amser canolog i pasiffig,datetime_convert,4
+488,1975,a wyf i wedi gosod unrhyw larwm ar gyfer heddiw,alarm_query,0
+489,15848,ebostia fy mam,email_sendemail,5
+490,10215,dangoswch ganlyniadau ar gyfer coginio lasagna o'r we,cooking_recipe,3
+491,9995,pa mor hir mae'n cymryd dwr i ferwi,cooking_recipe,3
+492,2616,ydw i'n mynd i orfod poeni am arad eira yn claddu fy nghar ar y lôn dydd mawrth,weather_query,9
+493,9944,beth yw'r rysáit ar gyfer tacos,cooking_recipe,3
+494,10142,ffeindia y tymheredd cywir i ffrio twrci cyfan,cooking_recipe,3
+495,12155,archebwch docyn i fynd i'r gyrchfan ar y drên,transport_ticket,8
+496,2047,cwymp yr uchder,audio_volume_down,1
+497,9695,chwarae trons dy dad gan gwibdaith hen fran,play_audiobook,6
+498,285,ydi hi'n mynd i fod yn wyntog yfori,weather_query,9
+499,4475,a fyddaf angen fy nillad glaw,weather_query,9
+500,7389,dileuwch gyfarfod swper wedi ei drefnu ar gyfer dydd gwener am naw o'r gloch yr hwyr,calendar_remove,2
+501,5440,ga i fynd heb got nawr,weather_query,9
+502,14299,darllen llyfr glas nebo,transport_ticket,8
+503,3252,sut dywydd ydi hi heddiw,weather_query,9
+504,16453,ebostia fy nghyfaill parthed ein cynlluniau heno,email_sendemail,5
+505,9974,eth yw amnewidyn wy fegan da,cooking_recipe,3
+506,10134,dod o hyd i rysáit ar gyfer reis ffrio cymraeg,cooking_recipe,3
+507,12573,dw'i angen tocyn trên i rhufain archeba docyn,transport_ticket,8
+508,2080,ydy fy larwm dihuno wedi ei osod ar gyfer chwech o'r gloch y bore,alarm_query,0
+509,15830,danfon hynny,email_sendemail,5
+510,7913,dileu y digwyddiad o ddydd llun,calendar_remove,2
+511,4484,dweud rhagolygon y tywydd wrtha'i yr wythnos hon,weather_query,9
+512,3934,dangoswch yr holl larymau sydd wedi gosod i fi,alarm_query,0
+513,9093,cliriwch pob digwyddiad yn y calendr ar gyfer mis mawrth,calendar_remove,2
+514,7998,dileu fy digwyddiad calendr nesaf,calendar_remove,2
+515,1969,bydd heddiw yn heulog neu beidio,weather_query,9
+516,662,allwch chi ddweud faint o oriau o wahaniaeth sydd rhwng boston a los angeles,datetime_convert,4
+517,9884,parhau i chwarae ymbelydredd,play_audiobook,6
+518,10002,dangoswch imi sut i goginio brecwast calorïau isel,cooking_recipe,3
+519,5167,oes angen i mi ddod ag ambarél i abertawe prynhawn yma,weather_query,9
+520,11765,gemau addysgu,recommendation_movies,7
+521,7869,cymryd ddigwyddiad allan o'r calendr,calendar_remove,2
+522,4559,dangos rhagolygon yr wythnos hon,weather_query,9
+523,690,mae'n rhy swnllyd gostwng yr uchder,audio_volume_down,1
+524,12750,prynwch docyn drên o bangor gwynedd i llandudno,transport_ticket,8
+525,17079,anfownch ebost mewn cydymdeimlad i pat,email_sendemail,5
+526,6100,pa larymau cartref sydd wedi eu gosod,alarm_query,0
+527,4072,galli di droi hwnna lawr,audio_volume_down,1
+528,6972,dileu ddigwyddiad,calendar_remove,2
+529,9949,pa mor hir ydych chin ei goginio,cooking_recipe,3
+530,5874,a ddylwn i wisgo cot i'r pwll,weather_query,9
+531,16957,dechrau ebost i fy ngŵr,email_sendemail,5
+532,6006,bydd menyg yn ddefnyddiol ar ddydd mawrth,weather_query,9
+533,10117,pa mor hir mae'n ei gymryd i wneud taflen gig,cooking_recipe,3
+534,330,tawelach,audio_volume_down,1
+535,5078,oes angen got arnaf,weather_query,9
+536,16500,anfonwch ebost i fy ngwr bydda i'n hwyr heno,email_sendemail,5
+537,11983,olly argymellwch comedi ramantus yn fy ardal,recommendation_movies,7
+538,15876,anfona gopi o'r biliau i beca ar ebost,email_sendemail,5
+539,9913,beth cynhwysion sydd eu angen arnaf ar gyfer cawl tomato,cooking_recipe,3
+540,5712,fydd bore yma yn parhau i fod yn heulog,weather_query,9
+541,6716,dileu sefyll i fyny dydd gwener am ddeg y bore,calendar_remove,2
+542,10118,ar ba dymheredd ydych chi'n coginio porc,cooking_recipe,3
+543,5768,rhy swnllyd,audio_volume_down,1
+544,10239,rhowch gyfarwyddiadau i mi ar sut i goginio cyw iâr,cooking_recipe,3
+545,9762,chwarae pobol gan dafydd iwan,play_audiobook,6
+546,16257,gyrrwch ebost i fy ngwraig ynglŷn â thywydd yr wythnos nesaf,email_sendemail,5
+547,10068,beth yw'r amser coginio ar gyfer datws stwnsh,cooking_recipe,3
+548,8340,cliriwch fy nigwyddiad nesaf,calendar_remove,2
+549,9837,cerddoriaeth tri,play_audiobook,6
+550,2332,ydy hi'n bwrw glaw ar hyn o bryd,weather_query,9
+551,16418,anfonwch ebost i fy ewythr john yn dweud wrtho y byddaf i yno os gwelwch yn dda,email_sendemail,5
+552,8814,ewch i ddiwrnod y digwyddiad a dileuwch,calendar_remove,2
+553,16142,cyfansoddwch ebost at aran,email_sendemail,5
+554,10228,sut ydw in paratoi fy holl fwyd ar gyfer coginio,cooking_recipe,3
+555,10065,pa sbeisys sydd mewn bwyd cymraeg,cooking_recipe,3
+556,16329,ateb ebost sarah,email_sendemail,5
+557,12080,gwiria'r ffilmiau sy'n chwarae mewn theatrau gerllaw,recommendation_movies,7
+558,7339,dileuwch y cyfarfod yfory,calendar_remove,2
+559,16508,ychwanega gyswllt newydd ac anfon ebost,email_sendemail,5
+560,5845,alexa dyle'n ni wisgo eli haul heddiw,weather_query,9
+561,8577,dileu popeth o'r calendr,calendar_remove,2
+562,7075,dileu y digwyddiad nesaf o'm calendr os gweli'n dda,calendar_remove,2
+563,6971,dileu digwyddiad,calendar_remove,2
+564,1258,rho i mi fanylion y tywydd ar gyfer y pymthegfed o fawrth,weather_query,9
+565,4915,tymheredd yn amlwch môn,weather_query,9
+566,2516,sut y mae'r tywydd yn edrych ar gyfer yr wythnos hon,weather_query,9
+567,833,a ydi hi am fwrw eira yma y penwythnos hwn,weather_query,9
+568,10233,a yw pysgod a sglodion yn wirioneddol brau,cooking_recipe,3
+569,1322,casgla adroddiad y tywydd ar gyfer heddiw,weather_query,9
+570,3963,oes unrhyw larymau ar gyfer heddiw,alarm_query,0
+571,6957,glanha fy nghalendr,calendar_remove,2
+572,10063,beth sydd mewn cyri,cooking_recipe,3
+573,16360,ysgrifenna ebost i siôn a llywelyn,email_sendemail,5
+574,12671,bwcia drên am hanner nos ar yr ail ar hugain o fawrth,transport_ticket,8
+575,2059,mae hi yn glawio,weather_query,9
+576,16238,anfon ebost,email_sendemail,5
+577,5036,faint mor boeth yw heddiw,weather_query,9
+578,1250,a oes posibilrwydd o law yr wythnos hon,weather_query,9
+579,10153,dewch o hyd i rysáit ar gyfer cyw iâr alfredo,cooking_recipe,3
+580,8844,dileuwch holl fanylion fy nghalendr,calendar_remove,2
+581,12643,mynnwch docyn i mi am y cymudwr pump yr hwyr i gricieth,transport_ticket,8
+582,11786,hedd wyn,recommendation_movies,7
+583,1052,beth yw'r siawns am glaw heddiw,weather_query,9
+584,5834,fydd hi'n oer yn y dyddiau nesaf,weather_query,9
+585,10088,rhowch rysáit i mi ar gyfer peli cig,cooking_recipe,3
+586,6165,dylen ni wisgo eli haul heddiw,weather_query,9
+587,4707,dangoswch y tywydd lleol i mi,weather_query,9
+588,1789,ydi'r tywydd yn oer,weather_query,9
+589,10208,arogl,cooking_recipe,3
+590,17028,olly beth am ebostio sioned,email_sendemail,5
+591,8544,clirio fy i gyd ddigwyddiadau calendr,calendar_remove,2
+592,16014,allwch chi greu e-bost i fi,email_sendemail,5
+593,5291,sut mae'r tymheredd tu allan rwan,weather_query,9
+594,9690,dechrau chwarae eto,play_audiobook,6
+595,4466,ydw i wedi gosod unrhyw larymau yn y bore,alarm_query,0
+596,9181,dileuwch fy atgoffâd penblwydd ar gyfer wythnos nesaf,calendar_remove,2
+597,11747,pa ffilmiau sy'n chwarae yn sinema yr odeon am naw yr hwyr heno,recommendation_movies,7
+598,16604,anfona ebost i fy merch,email_sendemail,5
+599,16936,dylai'r ateb ebost ddatgan,email_sendemail,5
+600,3772,darllenwch fy larymau i fi os gwelwch yn dda,alarm_query,0
+601,6139,olly oes angen i mi wisgo esgidiau trwm,weather_query,9
+602,180,beth yw'r tywydd nawr,weather_query,9
+603,10025,dywedwch wrthyf sut i goginio souffl caws,cooking_recipe,3
+604,4425,tyrd â'r tywydd wythnosol yn yr ardal hon i mi,weather_query,9
+605,1013,faint o oriau o wahaniaeth ydy hong kong o efrog newydd,datetime_convert,4
+606,9873,darllenwch peth mwy o gwaed ar eu dwylo,play_audiobook,6
+607,5377,gwiria tywydd dydd mawrth,weather_query,9
+608,9777,ailddechrwch inkheart,play_audiobook,6
+609,4760,oes eira yn y rhagolygon,weather_query,9
+610,5903,cadarnha fy mod wedi setio larwm am chwech y bore,alarm_query,0
+611,5007,am ba ddyddiau mae fy larymau wedi eu gosod ar gyfer,alarm_query,0
+612,16507,anfonwch e-bost i gyfeiriad e-bost newydd,email_sendemail,5
+613,9745,cychwyn y sain,play_audiobook,6
+614,10111,olly sut mae gwneud taflen gig,cooking_recipe,3
+615,9195,dileuwch y digwyddiad hwn o fy hysbysiad calendr,calendar_remove,2
+616,9766,chwaraewch llyfr llafar cannwyll yn olau,play_audiobook,6
+617,8683,dileu digwyddiad calendr,calendar_remove,2
+618,9755,gadewch i ni wrando ar mab y cychwr,play_audiobook,6
+619,335,dw'i eisiau gwybod y y tywydd yn llanddewi brefi,weather_query,9
+620,3446,fydd hi yn bwrw glaw dydd sadwrn,weather_query,9
+621,794,cadarnha y larwm bore yfory,alarm_query,0
+622,4750,ydi hi am fwrw eira,weather_query,9
+623,5971,sut mae'r hinsawdd heddiw,weather_query,9
+624,9017,calendr dileu popeth,calendar_remove,2
+625,8986,dileuwch fy ngwyliau wedi ei drefnu ar gyfer gorffennaf,calendar_remove,2
+626,10211,beth yw rysáit,cooking_recipe,3
+627,16735,agor ateb i'r ebost os gweli'n dda,email_sendemail,5
+628,3246,dywed wrthyf sut dywydd yw hi yn bangor gwynedd,weather_query,9
+629,349,a fydd heira fory,weather_query,9
+630,16269,anfonwch ateb i robert am ei ebost a dderbyniwyd bore heddiw,email_sendemail,5
+631,3254,beth oedd adroddiad y tywydd heddiw,weather_query,9
+632,10042,ble alla i ddod o hyd i'r rysáit honno ar gyfer bariau cwci hud,cooking_recipe,3
+633,12598,dwed wrtha'i ble dylem fynd am amseroedd,transport_ticket,8
+634,4413,ydi hi'n bwrw eira yn abertawe,weather_query,9
+635,9833,parhau i chwarae cân o'r llyfr llafar gan bryn fôn,play_audiobook,6
+636,16321,yamteb i bob smith,email_sendemail,5
+637,1663,beth yw'r gwahaniaeth amser rhwng llanbedr pont steffan ac efrog newydd,datetime_convert,4
+638,8743,dileu'r nigwyddiad nesaf ar fy nghalendr fel nad wyf yn ei weld eto,calendar_remove,2
+639,10240,beth yw'r toriad blasu gorau o gig eidion,cooking_recipe,3
+640,15804,ebostia james am y gêm bêl feddal james mae angen i ni gael rhywbeth i yfed cyn mynd draw yno,email_sendemail,5
+641,10036,sut i goginio reis melyn,cooking_recipe,3
+642,6179,ydw i angen bwtsias eira,weather_query,9
+643,10198,chwilio am y rysáit sbageti orau,cooking_recipe,3
+644,7641,rho i mi y tywydd am y pum diwrnod diwethaf,weather_query,9
+645,4122,gadewhc i fi wybod amser y larwm,alarm_query,0
+646,2344,sut fydd y tywydd yn abertawe dydd llun,weather_query,9
+647,16572,ebost i'r cyfeiriad,email_sendemail,5
+648,725,arddangoswch tywydd am yr wythnos,weather_query,9
+649,17012,yr wyf angen i ebost gael ei anfon i sdfa at hotmail dot com,email_sendemail,5
+650,6799,dileu y cyfarfod nesaf heddiw o fy nghalendr,calendar_remove,2
+651,9177,dileu digwyddiad taith,calendar_remove,2
+652,4209,a ddylwn i fynd ag ymbarél efo fi heno,weather_query,9
+653,2141,heddiw tyrd ag ambarel,weather_query,9
+654,16633,mae gennyf fi gyfeiriad ebost newydd a fedri anfon ebost i mi,email_sendemail,5
+655,5893,a fydda'i hi'n braf yng ngheredigion,weather_query,9
+656,9717,chwarae aros mae,play_audiobook,6
+657,10121,sut i wneud reis wedi'i ffrio,cooking_recipe,3
+658,9946,beth yw'r rysáit orau ar gyfer tacos,cooking_recipe,3
+659,1311,beth yw'r gwahaniaeth amser rhwng fan hyn a ottawa,datetime_convert,4
+660,8098,cansla yr holl rhaglenni am ddydd gwener,calendar_remove,2
+661,12615,mae angen i mi archebu tocyn trên rajdhani o abertawe i dunvant,transport_ticket,8
+662,9670,ailddechrau y llinyn aur,play_audiobook,6
+663,4785,a fedraf fynd allan mewn trowsus cwta,weather_query,9
+664,16434,dywedwch hyn wrth fy nheulu mewn e-bost,email_sendemail,5
+665,10098,allwch chi baratoi brechdan gaws,cooking_recipe,3
+666,16943,anfon ebost i nain pwnc dydd sadwrn testun byddwn yn galw acw ddydd sadwrn fe'ch gwelwn chi bryd hynny,email_sendemail,5
+667,7063,dileuwch fy holl ddigwyddiadau calendr,calendar_remove,2
+668,5731,ydi hi'n ddiwrnod glawog a stormus,weather_query,9
+669,5112,a ydw i angen cot law y diwrnod ar ôl,weather_query,9
+670,6030,darperir bwyd yn yr arddangosfa,weather_query,9
+671,5320,dangoswch y tywydd ddoe i mi,weather_query,9
+672,15766,a fedri anfon yr ateb hwn yn ôl i pawel os gweli'n dda,email_sendemail,5
+673,12400,archeba docyn trên un-ffordd yn teithio i dinas efrog newydd ar ôl naw y bore,transport_ticket,8
+674,10155,sut mae coginio cyw iâr alfredo,cooking_recipe,3
+675,3736,gostwng uchder y seinydd os gweli di'n dda,audio_volume_down,1
+676,12753,rydw i eisiau tocyn drên o gaerdydd i abertawe,transport_ticket,8
+677,4210,a fyddaf angen gwisgo côt pan fyddaf yn gadael am y gwaith yfory,weather_query,9
+678,16792,hei anfon neges dwi'n dy garu di i'm gwraig,email_sendemail,5
+679,2224,y tywydd yn llanrwst,weather_query,9
+680,11772,pa ffilmiau sy'n chwarae rwan,recommendation_movies,7
+681,10009,rysáit ar gyfer pryd bwyd,cooking_recipe,3
+682,5496,ddylen i wylio y ffilm yma,recommendation_movies,7
+683,5247,ydw i angen mynd a chôt heddiw,weather_query,9
+684,1036,ydy fy larwm gwaith wedi ei osod ar gyfer yfory,alarm_query,0
+685,16970,yr wyf eisiau i'r ebost gael ei anfon i fy nghyfeiriad ebost newydd a. b. c. at gmail dot com,email_sendemail,5
+686,9731,chwarae'r i ble'r aeth haul y bore,play_audiobook,6
+687,8380,hei siri canslo beth bynnag sydd wedi'i drefnu nesaf ar fy nghalendr,calendar_remove,2
+688,10057,beth sydd ei angen arnaf i wneud cawl,cooking_recipe,3
+689,9105,cliriwch fy nghalendr o'r holl ddigwyddiadau os gwelwch yn dda,calendar_remove,2
+690,8563,dileuwch fy apwyntiad ar gyfer yfory am dri o'r gloch y prynhawn,calendar_remove,2
+691,8232,sai'n neud y peth wythnos yma,calendar_remove,2
+692,11792,sut mae ffilm star wars,recommendation_movies,7
+693,4237,sut y mae'r tywydd rwan,weather_query,9
+694,6173,a yw hi yn ddiwrnod da i fynd i'r traeth,weather_query,9
+695,10003,rydw i eisiau coginio pasta mewn arddull ewropeaidd i mi sut,cooking_recipe,3
+696,10051,dewch o hyd i rysáit o sbageti i mi,cooking_recipe,3
+697,8737,clirio fy amserlen ar gyfer y dyddiad hwn,calendar_remove,2
+698,1263,faint o larymau sydd gyda fi,alarm_query,0
+699,3978,sut y mae'r tywydd yn abertawe,weather_query,9
+700,6142,beth yw'r rhagolygon estynedig,weather_query,9
+701,1080,rho diweddariad tywydd yfory i mi,weather_query,9
+702,11850,beth yw'r amser sioe am hedd wyn yn y sinemâu sy'n agos ataf fi,recommendation_movies,7
+703,12157,cael tocyn drên i mi fynd iddo,transport_ticket,8
+704,343,sut fydd y tywydd fory,weather_query,9
+705,1020,sut mae'r tywydd ar hyn o bryd,weather_query,9
+706,12594,google allwch chi archebu docyn i mi ar y drên ar gyfer fory,transport_ticket,8
+707,9129,diddymwch digwyddiad calendr nesaf,calendar_remove,2
+708,5904,gwiriwch ydw i wedi gosod unrhyw larwm ar gyfer y bore,alarm_query,0
+709,8240,glanhewch fy nghalendr mas dileuwch popeth,calendar_remove,2
+710,376,gwirio ap y tywydd i weld os,weather_query,9
+711,13441,beth yw'r tymheredd heddiw,weather_query,9
+712,8733,symud pob apwyntiad i'r bin sbwriel,calendar_remove,2
+713,3703,pa larymau sydd wedi setio am yr wythnos yma,alarm_query,0
+714,9870,dwi eisiau gwrando ar trysor ynys gan robert louis stevenson,play_audiobook,6
+715,9698,ailddechrau chwarae fy newisiad llyfr sain mwyaf diweddar,play_audiobook,6
+716,16111,rhwng deg o'r gloch y nos a saith o'r gloch y bore pob dydd rhaid ateb pob ebost,email_sendemail,5
+717,7961,dileuwch fy holl gyfarfodydd,calendar_remove,2
+718,4539,nid wyf eisiau i ti anfon y neges destun yna nes i mi ddweud anfon,email_sendemail,5
+719,17026,olly anfon ebost i mam i'w hatgoffa i'm cyfarfod ar gyfer cinio heddiw,email_sendemail,5
+720,7018,dileu noswyl blwyddyn newydd o'r calendr,calendar_remove,2
+721,5983,dywedwch wrthyf amser y larwm a osodwyd gennych,alarm_query,0
+722,4207,bydd angen gwisgo cot heddiw,weather_query,9
+723,16246,anfon ebost i joanne at a. o. l. dot com ac ychwanega hi fel cyswllt newydd,email_sendemail,5
+724,3814,fydd hi'n oer yfori,weather_query,9
+725,16347,anfon neges i'm mam yng nghyfraith a gofyn iddi i fwcio y trefniadau cyn ddydd gwener neu fe fyddant yn dod i ben,email_sendemail,5
+726,8162,newidiwch cynllun y cyfarfod,calendar_remove,2
+727,12763,dwi angen tocyn drên i,transport_ticket,8
+728,860,tywydd heddiw,weather_query,9
+729,236,oes larwm gyda fi wedi ei osod ar gyfer hedfaniad bore,alarm_query,0
+730,10183,beth yw jalapenos,cooking_recipe,3
+731,16743,anfonwch yr ebost canlynol i fy chwaer,email_sendemail,5
+732,5994,wyt ti'n meddwl y bydd yn bwrw glaw yfory,weather_query,9
+733,16939,ateb efo fy nghyfeiriad i ioan,email_sendemail,5
+734,8183,fedri di ddileu apwyntiad deintyddol o fy nghalendr,calendar_remove,2
+735,16727,ateb fy ebost oddi wrth sioned gan ddweud diolch,email_sendemail,5
+736,16110,pob dydd fe ddylid ateb yr holl ebyst a dderbyniwyd rhwng deg yr hwyr a saith y bore,email_sendemail,5
+737,5601,beth yw rhagolygon y tywydd,weather_query,9
+738,5230,a ddylwn wisgo het heddiw,weather_query,9
+739,10232,sut i baratoi eog neu adag orau,cooking_recipe,3
+740,1104,beth yw'r tywydd cyfredol yn abertawe,weather_query,9
+741,1541,nid wyf eisiau cario ymbarél a fyddwn yn cael glaw heddiw,weather_query,9
+742,16715,anfon ebost i ioan a dywed fy mod ar fy ngwyliau,email_sendemail,5
+743,1389,sut fydd y tywydd tu allan dydd sadwrn,weather_query,9
+744,1436,pa larymau sydd gyda fi,alarm_query,0
+745,7177,anfon ebost i mistar richard yn dweud y byddaf yn ei gyfarfod ar y cyntaf o chwefror dwy fil ac un deg saith am bump yr hwyr yn ei swyddfa os gweli'n dda,email_sendemail,5
+746,16619,anfon ebost i chris ynglŷn â gwaith yfory,email_sendemail,5
+747,16424,neges ebost newydd i robert peck dwi'n hwyr o'r gwaith,email_sendemail,5
+748,9981,coginiwch peth o basta i mi gyda chaws fe mêl ynddo,cooking_recipe,3
+749,5495,a ddylwn i fynd ag ambarel heddiw,weather_query,9
+750,13425,ddylen ni wisgo siwmper,weather_query,9
+751,656,sut mae'r tywydd presennol yn abertawe,weather_query,9
+752,16534,wnewch chi ysgrifennu ebost at chelsea i fi,email_sendemail,5
+753,16121,ateb yn ôl i elin,email_sendemail,5
+754,7435,alla i ofyn i ti ddileu'r digwyddiad nesaf o fy nghalendr,calendar_remove,2
+755,6728,canslo'r brecwast yn nhŷ tiffany,calendar_remove,2
+756,9091,olly cliriwch pob digwyddiad yn y calendr,calendar_remove,2
+757,2655,a fydd y tymheredd uchaf yn uwch na saith deg gradd yfory,weather_query,9
+758,5662,a ddylwn wisgo eli haul,weather_query,9
+759,16480,paratowch e-bost ateb i mark,email_sendemail,5
+760,558,oes unrhyw larymau gyda fi wedi eu gosod ar gyfer yfory,alarm_query,0
+761,16537,dw'i angen ysgrifennu ebost i fy nghydweithwr,email_sendemail,5
+762,4403,bydd angen i mi gario ymbarél heddiw,weather_query,9
+763,3303,sut beth yw'r tywydd yr wythnos hon,weather_query,9
+764,16189,anfon ebost i fy ewythr am sefyllfa y tywydd gartref,email_sendemail,5
+765,11746,olly pa ffilmiau sy'n cael eu dangos am naw yr hwyr yn sinema'r odeon heno,recommendation_movies,7
+766,7252,ail-amserlenna y parti i ddydd iau,calendar_remove,2
+767,9819,tyrd a chrynodeb i mi o'r llyfrau llafar gorau a gyhoeddwyd y mis yma,play_audiobook,6
+768,5790,mae'n boeth heddiw,weather_query,9
+769,203,dangoswch y larymau wnes i osod,alarm_query,0
+770,7748,dileu fy holl ddigwyddiadau yn fy nghalendr,calendar_remove,2
+771,10234,casglur holl gynhwysion sydd ei angen ar gyfer coginio gyda'r fesuriadau union ar cyfarpar angenrheidiol,cooking_recipe,3
+772,17029,olly anfonwch bob ac ebost,email_sendemail,5
+773,16996,y mae angen i mi anfon ebost i michael,email_sendemail,5
+774,17021,rhêd ateb i'r ebost diwethaf i mi ei dderbyn,email_sendemail,5
+775,3245,wyt ti yn gwybod os oes unrhyw law heddiw,weather_query,9
+776,9826,ail ddechrau chwarae y gân o'r llyfr llafar gan madonna,play_audiobook,6
+777,16118,anfon gymorth i jane yn unig,email_sendemail,5
+778,15759,anfon ebost i owain efo atgoffâd,email_sendemail,5
+779,5946,gofyn i fy nghyfaill sut mae'r hinsawdd fan yna,weather_query,9
+780,5610,dwedwch wrthyf pryd mae'r larymau nesaf ar gyfer,alarm_query,0
+781,9802,ailddechrau chwarae y llyfr llafar the two towers,play_audiobook,6
+782,10192,rysáit ar gyfer sbageti,cooking_recipe,3
+783,17131,anfon yr ebost i jill sydd wedi ei gadw yn fy ffolder drafftiau,email_sendemail,5
+784,12893,rwyf am i chi archebu tocyn drên i mi,transport_ticket,8
+785,3805,tywydd yr wythnos hon,weather_query,9
+786,7058,dileu digwyddiad tachwedd,calendar_remove,2
+787,16439,mae yna ebost dw'i angen i ti ddanfon i fy nghyfaill,email_sendemail,5
+788,2326,beth yw'r rhagolygon,weather_query,9
+789,16057,ateb yr ebost yna,email_sendemail,5
+790,655,sut mae'r tywydd presennol yng nghardydd,weather_query,9
+791,16474,anfon ebost i stan francis,email_sendemail,5
+792,8770,dileu y digwyddiad calendr sydd ar fin ymddangos,calendar_remove,2
+793,9814,agor llyfrau a chwarae fferm a ffair a phentre o pennod naw,play_audiobook,6
+794,12635,dod o hyd i drên di-stop i abertawe,transport_ticket,8
+795,9681,chwaraewch harry potter o'r man lle stopiais i wrando ddiwethaf,play_audiobook,6
+796,9925,faint o amser sydd raid fi mi berwi wy,cooking_recipe,3
+797,10082,sut ydych chi'n gwneud lasagna llysieuol,cooking_recipe,3
+798,8190,cliria fy nghalendr ar gyfer yfory,calendar_remove,2
+799,9891,chwarae dyddiadur dyn priod,play_audiobook,6
+800,2051,dywedwch wrthyf adroddiad tywydd heddiw o pen-y-bont ar ogwr,weather_query,9
+801,12138,archeba tocynnau trên i mi,transport_ticket,8
+802,4434,beth yw rhagolygon yr wythnos hon,weather_query,9
+803,433,faint mor gynnes yw hi tu allan nawr,weather_query,9
+804,16884,anfonwch ebost i mam yn gofyn a wnaeth hi lwyddo archebu'r llyfr o amazon wedes i wrthi amdano,email_sendemail,5
+805,10235,dechreuwch y stôf nwy addaswch y fflam i goginio'r pryd a rhowch yr holl gynhwysyn coginio i'r popty pwysau i goginio'r cynhwysion cadwch e ar y stôf arhoswch i'r cynhwysion gael eu coginio,cooking_recipe,3
+806,6702,tywydd heddiw,weather_query,9
+807,9845,ailddechrau chwarae fy llyfr llafar cyfredol,play_audiobook,6
+808,4470,beth yw'r rhagolygon presennol ar gyfer abertawe,weather_query,9
+809,6762,gollwng fy ngwyliau mehefin o'r calendr,calendar_remove,2
+810,2915,tro'r seinyddion i lawr,audio_volume_down,1
+811,16212,ebostiwch dad sut mae'r tywydd yr wythnos hon,email_sendemail,5
+812,10122,beth yw rysáit taco da,cooking_recipe,3
+813,3773,fedri di roi adolygiad tywydd i mi,weather_query,9
+814,15859,anfon ymlaen y cynnwys a ddangoswyd i blahblah at blah dot com efo'r ebost,email_sendemail,5
+815,16686,anfon ebost i gyfeiriad newydd,email_sendemail,5
+816,9713,chwarae seinlyfr john jenkins,play_audiobook,6
+817,7765,oes ffordd i glirio fy nghalendr,calendar_remove,2
+818,16950,ebost newydd ar gyfer cyswllt,email_sendemail,5
+819,2308,mae hi'n ddeg o'r gloch y bore mewn amser safonol dwyreiniol faint o'r gloch yw hi nawr amser safonol pasiffig,datetime_convert,4
+820,16174,danfon e-bost i'r bos ddim yn hwylus bydda'i ddim yna heddiw,email_sendemail,5
+821,9927,olly faint o amser i coginio basta,cooking_recipe,3
+822,8526,dileu y cyfarfod sampl o'r ap calendr,calendar_remove,2
+823,9957,pa mor hir ddylech chi goginio cyw iâr cyfan mewn popty tri chant saith deg pum gradd,cooking_recipe,3
+824,4864,dywed wrthyf beth yw'r tywydd yn sir benfro,weather_query,9
+825,12605,dewch o hyd i mi'r tocyn drên cynharaf sy'n gadael bore gwener i llundain,transport_ticket,8
+826,5535,os yw hi'n glawio bydda'i ddim yn mynd am y swydd,weather_query,9
+827,10052,dod o hyd i rysáit i mi ar gyfer cawl moron,cooking_recipe,3
+828,15896,cysyllta john at gmail dot com i john yn cysylltiadau,email_sendemail,5
+829,739,beth yw'r tymheredd heddiw,weather_query,9
+830,5872,oes siawns am glaw yn stiniog,weather_query,9
+831,1321,beth yw'r tywydd heddiw,weather_query,9
+832,1399,yr wyf bob amser yn sylwgar,weather_query,9
+833,11657,beth yw amseroedd sioe logan,recommendation_movies,7
+834,5875,a ddylwn wisgo ffrog neu grys chwys heddiw,weather_query,9
+835,5269,nawr mae hi'n hanner awr wedi pump y nos yn india beth am yr amser yn aberporth,datetime_convert,4
+836,10011,dewis pryd bwyd yntau frecwast cinio neu swper,cooking_recipe,3
+837,7642,dangos ragolygon y tywydd ar gyfer y tri diwrnod nesaf i mi,weather_query,9
+838,16015,dechreuwch ebost i jesse os gwelwch yn dda,email_sendemail,5
+839,6022,fydd hi yn noson fwyn heno,weather_query,9
+840,12660,archeba taith trên i mi,transport_ticket,8
+841,16784,mae fy mam eisiau gwybod sut y bydd y tywydd am yr wythnos anfon ebost iddi,email_sendemail,5
+842,1588,sut mae'r tywydd fory,weather_query,9
+843,16346,anfon ebost i elain ac atgoffa hi i beidio ac anghofio yr orennau yn y bore,email_sendemail,5
+844,12472,talu am docyn drên,transport_ticket,8
+845,4824,y tywydd dros y sul nesaf,weather_query,9
+846,11702,dangoswch y theatr agosaf i mi,recommendation_movies,7
+847,7434,dileu y digwyddiad nesaf o fy nghalendr,calendar_remove,2
+848,9922,sut mae rholio swshi,cooking_recipe,3
+849,5120,gwiriwch os oes unrhyw larwm ar ôl pump y bore,alarm_query,0
+850,6080,fydd angen fy nghot trwm ar ol cinio heddiw,weather_query,9
+851,2857,sut fydd y tywydd heddiw,weather_query,9
+852,7360,dileu y digwyddiad priodas nesaf,calendar_remove,2
+853,8852,dileu tasg sydd ar ddod,calendar_remove,2
+854,9686,ailddechrau y gelfyddyd o rhyfel,play_audiobook,6
+855,1604,am faint o'r gloch mae'r larwm wedi ei osod ar gyfer bore fory,alarm_query,0
+856,2778,ydy hi'n oerach na ddoe,weather_query,9
+857,3795,faint o raddau ydi hi yng nghaernarfon rwan,weather_query,9
+858,5303,alexa sut dywydd fydd yna ar yr ugeinfed o fawrth dwy fil ac un deg saith,weather_query,9
+859,3650,dangos i mi y tywydd ar gyfer dinbych,weather_query,9
+860,5602,bydd hi'n braf wythnos yma,weather_query,9
+861,8831,cliria'r holl data o calendr,calendar_remove,2
+862,12562,dod o hyd i docyn drên i abertawe ar ebrill pedwerydd ar ddeg i mi,transport_ticket,8
+863,5789,mae yn ddiwrnod heulog heddiw,weather_query,9
+864,9703,allwch chi chwarae fy seinlyfr diweddaraf,play_audiobook,6
+865,347,beth yw rhagolygon y tywydd ar gyfer yfory,weather_query,9
+866,9763,chwarae the scarlet letter,play_audiobook,6
+867,10243,edrychwch am rysáit a chanllaw ar gyfer y dysgl hon,cooking_recipe,3
+868,15925,ebostia teulu,email_sendemail,5
+869,12401,archeba docyn trên yn gadael caerdydd canolog yfory yn teithio i unrhyw ddinas sy'n bellach na ddau can milltir,transport_ticket,8
+870,4265,beth yw rhagolygon y tywydd heddiw,weather_query,9
+871,16902,ateb fy ebost diwethaf,email_sendemail,5
+872,16312,anfonwch ebost at frank yn y gwaith,email_sendemail,5
+873,4916,rhagolygon deg diwrnod ar gyfer abertawe,weather_query,9
+874,11670,olly pa ffilm sy'n chwarae gerllaw,recommendation_movies,7
+875,9779,chwarae dyddiadur dyn priod,play_audiobook,6
+876,16102,anfon ebost i fy mos ynglŷn â'm gwyliau,email_sendemail,5
+877,9721,ailddechrau aros mae,play_audiobook,6
+878,5534,ydi'r tywydd ynn gymylog,weather_query,9
+879,17024,anfon ebost i mam a gofyn sut y mae'r tywydd am fod yr wythnos hon,email_sendemail,5
+880,16675,ebostia joejoe at gmail dot com,email_sendemail,5
+881,16115,mae holl ebyst a dderbyniwyd rhwng deg o'r gloch y nos a naw o'r gloch y bore i'w hateb,email_sendemail,5
+882,787,sut y mae'r tywydd heddiw,weather_query,9
+883,6005,ydi hi'n mynd i fod yn wyntog heddiw,weather_query,9
+884,1614,unrhyw arwydd o law,weather_query,9
+885,16449,dwi angen golygu cyfeiriad ebost marie jones i ddarllen,email_sendemail,5
+886,16417,danfon yr ebost canlynol i fy ewythr john bydda'i 'na,email_sendemail,5
+887,4531,pa bryd y mae'r diwrnod cynnes nesaf,weather_query,9
+888,8472,dileuwch y digwyddiadau i gyd o'r calendr,calendar_remove,2
+889,9843,ailddechrau y gân gyfredol o masti,play_audiobook,6
+890,4595,a fydd yna ddiwrnodau o saith deg gradd yr wythnos nesaf,weather_query,9
+891,16458,anfon ebost i newmail at gmail dot com,email_sendemail,5
+892,9804,agor y ddau dwr a chwarae,play_audiobook,6
+893,5866,oes unrhyw larwm yn weithredol,alarm_query,0
+894,5417,sut mae hi am fod heddiw,weather_query,9
+895,16095,ebostiwch fy mos fy mod i'n dod mewn yn hwyr heddiw,email_sendemail,5
+896,238,oes yna unrhyw larymau,alarm_query,0
+897,13004,beth yw'r tebygolrwydd y bydd hi'n bwrw glaw heddiw,weather_query,9
+898,16618,drafftia ebost i kailey ynglun a gwaith wedyn,email_sendemail,5
+899,7544,dileu yr holl apwyntiadau am yfory,calendar_remove,2
+900,11739,tocynnau,recommendation_movies,7
+901,12333,archeba docyn trên i mi ar drên i fynd i abertawe yfory beth sydd ar gael,transport_ticket,8
+902,16194,danfon ebost at eleri,email_sendemail,5
+903,9869,dechrau dune o ble adawais i e,play_audiobook,6
+904,9753,olly a fedri chwarae fferm a ffair a phentre,play_audiobook,6
+905,9887,dwi eisiau chwarae'r llyfr clywadwy y dylluan wen,play_audiobook,6
+906,5892,tywydd yn y deyrnas unedig yn oer,weather_query,9
+907,8727,dileu yr holl ddigwyddiadau,calendar_remove,2
+908,8179,fedri di ddileu fy holl apwyntiadau yn y calendr,calendar_remove,2
+909,8950,chwilia am atgoffâd a dileu ef,calendar_remove,2
+910,9711,dw'i eisiau i ti fwrw ymlaen y sain ac wedyn ailddechrau,play_audiobook,6
+911,11870,beth yw'r ffilmiau cyfredol sy'n chwarae yn fy ardal,recommendation_movies,7
+912,8943,dw'i eisiau fy holl ddigwyddiadau wedi'i dileu,calendar_remove,2
+913,16882,danfon neges trwy ebost,email_sendemail,5
+914,5123,beth yw'r tymheredd tu allan,weather_query,9
+915,16941,trwy outlook,email_sendemail,5
+916,10219,beth sydd ei angen arnaf i wneud tost cymraeg,cooking_recipe,3
+917,7308,dileuwch fy nghalendr,calendar_remove,2
+918,4105,fydd hi'n bwrw glaw dros y dyddiau nesaf yn llanelwy,weather_query,9
+919,6884,dileu y gyfarfod fory am ddeg y bore,calendar_remove,2
+920,5800,bydd angen siaced arna'i ar ôl deg yr hwyr yn fy ardal,weather_query,9
+921,8002,dileu fy apwyntiad yfory,calendar_remove,2
+922,8813,gwagiwch fy nghalendr os gwelwch yn dda,calendar_remove,2
+923,16962,danfon ebost i aelod o'r teulu a'i ddarllen yn gyntaf,email_sendemail,5
+924,9788,chwarae'r llyfr llafar chwaraewyd ddiwethaf,play_audiobook,6
+925,1018,beth fydd y tywydd heddiw,weather_query,9
+926,13489,awgryma ffilmiau a chaneuon byddem yn hoffi and sydd ddim o reidrwydd yn debyg i'r rhai dw'i wedi dweud dwi'n hoffi,recommendation_movies,7
+927,15781,ebostia catrin fedri di ddnafon diweddariadau y prosiect diwethaf diolch tomasz,email_sendemail,5
+928,9832,cariwch mlan o ble gadawon ni yn fi fy hun,play_audiobook,6
+929,8738,dileu'r nigwyddiad oddi ar y calendr,calendar_remove,2
+930,7543,clirio pob ddigwyddiadau o fy nghalendr ar gyfer yr wythnos nesaf,calendar_remove,2
+931,10174,dewch o hyd i rysáit da ar gyfer dewch o stecen,cooking_recipe,3
+932,5618,edrychwch i fi pa larymau sydd gyda chi wedi eu gosod bore heddiw,alarm_query,0
+933,604,sut bydd y tywydd wythnos o rwan,weather_query,9
+934,17033,ymateb i ebost tudur yn y bore,email_sendemail,5
+935,16181,danfon ebost i bubbles dw'i eisiau cwrdd a hi yn y swyddfa yfory am ddau y prynhawn,email_sendemail,5
+936,10144,pa more hir ydw in oeri pastai blwch iâ,cooking_recipe,3
+937,5114,oes unrhyw larwm ar ôl pump o'r gloch y bore,alarm_query,0
+938,15912,ebostia gareth,email_sendemail,5
+939,8233,gadewch i ni jyst sgipio apwyntiad am amser,calendar_remove,2
+940,16213,danfon e-bost i dad sut mae'r tywydd wythnos yma,email_sendemail,5
+941,11766,ymwybyddiaeth o ddiogelwch,recommendation_movies,7
+942,16600,dwi eisiau anfon ebost i fy ffrind jack at gmail dot com,email_sendemail,5
+943,9910,yr wyf eisiau dechrau war and peace ble y gadewais i fo,play_audiobook,6
+944,14351,beth yw tymheredd cyfartalog pennsylvania ym mis mawrth a sut y mae hynny yn cymharu i'r deng mlynedd diwethaf,weather_query,9
+945,6048,ddyle'n ni wisgo menyg heno,weather_query,9
+946,12192,archeba daith o abertawe i gaeredin gan basio deg lle i'w gweld,transport_ticket,8
+947,16425,creuwch neges newydd i robert yn y gwaith faint o'r gloch wyt ti bant wrtha i anfonwch,email_sendemail,5
+948,16259,ysgrifenna ebost ynglŷn â thywydd wythnos nesaf i fy ngwraig,email_sendemail,5
+949,2856,ydi hi'n heulog heddiw,weather_query,9
+950,12226,prynu docyn drên,transport_ticket,8
+951,16736,hoffwn anfon ateb,email_sendemail,5
+952,5588,oes angen het arna i,weather_query,9
+953,1198,dywedwch wrthyf beth oedd y tymheredd yn ein dinas am ddeuddeg p. m.,weather_query,9
+954,8971,cansla fy amserlen am saith diwrnod o heddiw,calendar_remove,2
+955,1130,ydy hi'n mynd i fwrw glaw yn hwyrach heddiw,weather_query,9
+956,1008,a fydd y tywydd yn ddrwg dydd sul,weather_query,9
+957,2585,dechrau'r radio nawr ar uchder isel,audio_volume_down,1
+958,7986,dileu y digwyddiad cinio gwâdd hwn,calendar_remove,2
+959,12272,archeba tocyn trên i abertawe ar unrhyw trên ar gyfer yfory,transport_ticket,8
+960,10047,sut i goginior pryd o fwyd yna,cooking_recipe,3
+961,9830,parha i ddarllen aros mae os gweli di'n dda,play_audiobook,6
+962,3483,beth yw'r tywydd yn ôl adref heddiw,weather_query,9
+963,4144,atgoffwch fi ynglŷn â fy larymau heddiw,alarm_query,0
+964,8470,dileuwch yr holl ddigwyddiadau o'r calendr yn y mis yma,calendar_remove,2
+965,9099,dileuwch yr apwyntiad meddyg ychwanegais i fy nghalendr ar gyfer chwefror y deuddegfed am naw o'r gloch y bore,calendar_remove,2
+966,9805,chwarae gân meic stevens o'r seinlyfr,play_audiobook,6
+967,16940,drwy y gwasanaethwr ebost,email_sendemail,5
+968,4749,ydi hi am lawio,weather_query,9
+969,5041,statws y tywydd,weather_query,9
+970,5700,fedra'i sychu fy nillad ar y lein,weather_query,9
+971,7821,dileuwch yr atgofiadau i gyd o'r calendr,calendar_remove,2
+972,2223,tywydd yn abertawe,weather_query,9
+973,16004,hei yr wyf eisiau anfon ebost i'm ffrind,email_sendemail,5
+974,12197,dod o hyd i docyn drên i lerpwl i mi,transport_ticket,8
+975,1313,beth yw rhagolygon y tywydd ar gyfer heddiw,weather_query,9
+976,8257,dileuwch holl ddigwyddiadau sy'n dod lan os gwelwch yn dda,calendar_remove,2
+977,11984,beth sy'n chwarae yn stadiwm y mileniwm,recommendation_movies,7
+978,17130,anfon ebost i mam gan ddechrau efo'r testun gwyliau,email_sendemail,5
+979,10136,dangos gwefannau coginio i mi,cooking_recipe,3
+980,2091,oes unrhyw gawodydd yn mynd i fod bore fory,weather_query,9
+981,7251,cansla parti sam,calendar_remove,2
+982,567,pa mor gynnes yw hi,weather_query,9
+983,6807,dileu holl ddigwyddiadau heddiw,calendar_remove,2
+984,4563,allwch chi newid fy rhanbarth amser i canolog,datetime_convert,4
+985,1367,gwna'r uchder yn is,audio_volume_down,1
+986,11671,dweud wrtha'i pa ffilmiau sy'n chwarae ym mae caerdydd heno,recommendation_movies,7
+987,755,newidwch yr amser yn y lleoliad yma i g. m. t.,datetime_convert,4
+988,8145,dileuwch fy apwyntiad am un yfory,calendar_remove,2
+989,8556,dileuwch y cinio gwaith dydd gwener hwn,calendar_remove,2
+990,4932,beth fydd y tywydd ddydd gwener,weather_query,9
+991,16114,ateb yr holl ebyst a dderbyniwyd rhwng deg yr hwyr a naw y bore,email_sendemail,5
+992,3971,olly beth yw y tywydd rwan,weather_query,9
+993,1891,sut mae'r tywydd heddiw,weather_query,9
+994,3535,fydd hi yn heulog,weather_query,9
+995,9883,mynd yn ôl i y gyfres hanner nos,play_audiobook,6
+996,9740,ailddechrau chwarae y llyfr llafar,play_audiobook,6
+997,1082,mae dy uchder yn rhy uchel ailddweud hwnna'n is os gweli di'n dda,audio_volume_down,1
+998,15803,ebostia fy chwaer ynglŷn â phenblwydd mam jane fe ddylem ystyried trefnu parti yn y parc,email_sendemail,5
+999,356,beth yw fy larwm nesaf,alarm_query,0
+1000,7761,newid fy nghalendr ar gyfer heddiw,calendar_remove,2
+1001,2177,canfod yr amodau tywydd ar hyn o bryd,weather_query,9
+1002,16167,dw'i angen danfon ymateb i charlotte,email_sendemail,5
+1003,5634,a fydd y tywydd heddiw yn gymylog,weather_query,9
+1004,9939,pa dymheredd ddylai'r olew fod i ffrio sglodion,cooking_recipe,3
+1005,15768,ysgrifenna ebost i twm at twmelias dot com,email_sendemail,5
+1006,10187,beth sy'n amnewidyn da yn lle fenyn,cooking_recipe,3
+1007,16122,gwna ebost newydd ar gyfer emily,email_sendemail,5
+1008,2049,gwirio tywydd y ddinas ar y rhestr yn dechrau gyda a,weather_query,9
+1009,374,dweud wrthaf os yw'r canlynol yn wir am y tywydd,weather_query,9
+1010,12199,chwilio am docyn drên i abertawe,transport_ticket,8
+1011,6727,tynnu sgwrs gyda bwrn,calendar_remove,2
+1012,8744,allwch chi ddileu'r nigwyddiad calendr nesaf ar gyfer i yr hyn y cefais wahoddiad,calendar_remove,2
+1013,559,beth yw'r sefyllfa larwm ar gyfer yfory,alarm_query,0
+1014,6117,adroddiad tywydd yr wythnos,weather_query,9
+1015,7343,cewch gwared a bopeth ar fy nghalendr,calendar_remove,2
+1016,10101,sut ydych chi'n coginio stecen,cooking_recipe,3
+1017,1724,beth yw y tymheredd uchaf yng nghaerdydd,weather_query,9
+1018,4128,oes unrhyw larymau gyda fi wedi eu gosod ar hyn o bryd,alarm_query,0
+1019,7954,allwch chi ddiystyru'r parti fydda i'n mynd iddo penwythnos yma ar fy nghalendr os gwelwch yn dda,calendar_remove,2
+1020,15951,drafftiwch ymateb i ebost john,email_sendemail,5
+1021,8296,cliria y calendr cyfredol,calendar_remove,2
+1022,16080,ebostiwch fy mam,email_sendemail,5
+1023,9751,defnyddio gosodiadau amser,play_audiobook,6
+1024,1037,pa larymau sydd gyda fi wedi gosod ar gyfer dydd iau,alarm_query,0
+1025,1733,gwiria heddiw larwm y cyfarfod,alarm_query,0
+1026,12324,amser a dyddiad,transport_ticket,8
+1027,16127,anfon e-bost i manoj vyas,email_sendemail,5
+1028,1284,newidwch yr amser yma i g. m. t.,datetime_convert,4
+1029,7296,dileu fy nigwyddiadau calendr a drefnwyd pe gallech,calendar_remove,2
+1030,9862,dechrau fy llyfr hi yw fy ffrind eto,play_audiobook,6
+1031,8854,dileu digwyddiadau calendr,calendar_remove,2
+1032,7714,yr wyf yn brysur fory felly dileu holl ddigwyddiadau calendr,calendar_remove,2
+1033,9757,hoffwn barhau i ddarllen fy llyfr llafar,play_audiobook,6
+1034,10147,edrychwch am ryseitiau ar gyfer pedwar omled caws,cooking_recipe,3
+1035,5644,syt fydd y tywydd yn y prynhawn heddiw,weather_query,9
+1036,9176,diddymwch y digwyddiad parti o'r calendr,calendar_remove,2
+1037,9036,dileu yr holl ddigwyddiadau am heddiw a noder fy mod yn brysur,calendar_remove,2
+1038,10085,edrychwch am wahanol ryseitiau,cooking_recipe,3
+1039,9828,ailddechrau chwarae yn ôl,play_audiobook,6
+1040,336,ydi hi'n bwrw eira yng ngheredigion,weather_query,9
+1041,8161,canslwch gynllun y parti,calendar_remove,2
+1042,4963,tro'r uchder i lawr,audio_volume_down,1
+1043,9984,rhowch y rysáit o stecen i mi,cooking_recipe,3
+1044,8341,dileu fy nigwyddiad nesaf,calendar_remove,2
+1045,326,gyda'r nos,weather_query,9
+1046,1503,os yw hi'n bedwar o'r gloch y prynhawn yn missouri faint o'r gloch yw hi yn llundain,datetime_convert,4
+1047,9750,defnyddio botwm chwarae saib,play_audiobook,6
+1048,12341,archebwch dri thocyn trên dwyffordd ar gyfer dydd sul am saith o'r gloch tocyn dychwelyd dydd sul yr wythnos nesaf am wyth o'r gloch y bore,transport_ticket,8
+1049,10241,beth yw'r torriad mwyaf blasus o gig eidon,cooking_recipe,3
+1050,2135,pryd maer larwm nesaf,alarm_query,0
+1051,2916,sut mae'r tywydd ar ddydd hyn a hyn,weather_query,9
+1052,9089,cliriwch fy amserlen ar gyfer y mis,calendar_remove,2
+1053,1780,gobeiithio ei bod yn heulog yna,weather_query,9
+1054,1920,beth yw y tywydd am yr wythnos ysgol,weather_query,9
+1055,11738,dangos amseroedd,recommendation_movies,7
+1056,4342,gostwng uchder y seinyddion,audio_volume_down,1
+1057,16917,a fedri di ateb y pôst hwnnw os gweli'n dda,email_sendemail,5
+1058,16278,anfonwch yr ebost canlynol i brawd helo dere lawr am swper heno,email_sendemail,5
+1059,4500,beth yw'r rhagolygon tywydd wythnosol,weather_query,9
+1060,3585,syt y mae'r tywydd yn llundain,weather_query,9
+1061,16516,ymateb i'r ebost hwn,email_sendemail,5
+1062,5460,a ddylwn i ddod ag ambarel efo fi rwan,weather_query,9
+1063,10141,beth ydych chi'n ei ddefnyddio i wneud chwcis,cooking_recipe,3
+1064,16285,danfon ebost i pedro am ei gar,email_sendemail,5
+1065,3807,y tywydd yn florida yr wythnos hon,weather_query,9
+1066,16510,anfonwch yr ateb hwn i'r ebost a dderbyniwyd,email_sendemail,5
+1067,12396,archebu docyn drên i ddinas leeds,transport_ticket,8
+1068,11989,olly beth sy'n ffilm da sydd allan ar hyn o bryd,recommendation_movies,7
+1069,5178,gwiria os wyf angen ymbarél nawr,weather_query,9
+1070,12767,alla i gael tocyn drên i,transport_ticket,8
+1071,13435,beth yw'r rysáit orau ar gyfer felgarita,cooking_recipe,3
+1072,3000,cymhara y tywydd gartref efo llanelli abertawe,weather_query,9
+1073,754,newidwch y rhanbarth amser yma i washington,datetime_convert,4
+1074,6606,ffilmiau deg uchaf,recommendation_movies,7
+1075,1685,mae y tymheredd am fod yn boeth yfory ydi ynteu nac ydi,weather_query,9
+1076,8982,dileuwch fy apwyntiad gyda tudur,calendar_remove,2
+1077,12653,archebu docyn drên i caeredin,transport_ticket,8
+1078,10193,sut i goginio cig cranc,cooking_recipe,3
+1079,5981,gadewch i fi wybod am y larymau wnaethoch chi osod,alarm_query,0
+1080,10059,beth sy'n cymryd lle fargarîn,cooking_recipe,3
+1081,17150,alexa yr wyf eisiau gwirio y dyddiadau sydd ar gael gan sian felly a fedri anfon ebost iddi i'w holi am hyn,email_sendemail,5
+1082,16043,danfon ebost am adroddiad cyllid dwy fil a dwy ar bymtheg i john,email_sendemail,5
+1083,16958,dechrau ebost i gleient,email_sendemail,5
+1084,3933,dangoswch i fi fy holl larymau gweithredol,alarm_query,0
+1085,1768,troswch mil a tri deg o g. m. t. plws dau gant a thri deg o g. m. t. dim cant,datetime_convert,4
+1086,410,am faint o'r gloch mae fy larymau wediu gosod,alarm_query,0
+1087,5751,oes angen i mi wisgo siaced pan dwi'n mynd allan,weather_query,9
+1088,15961,dwi angen anfon e-bost i laura,email_sendemail,5
+1089,6038,wnaiff hi fwrw glaw am ganol dydd,weather_query,9
+1090,5012,ydi hi'n stormi nawr,weather_query,9
+1091,1485,rhestrwch yr holl larymau,alarm_query,0
+1092,2855,ydi hi yn bwrw glaw heddiw,weather_query,9
+1093,1438,pa larymau sydd gyda fi,alarm_query,0
+1094,7149,dileu yr holl gyfarfodydd staff ailadroddol,calendar_remove,2
+1095,358,pa amser bydd fy larwm yn canu heddiw,alarm_query,0
+1096,16905,anfon ebost i fy nheulu yn dweud wrthyn nhw ynglŷn â fy nghynlluniau penblwydd sydd ar ddod,email_sendemail,5
+1097,8255,cansla digwyddiad sydd i ddod,calendar_remove,2
+1098,5215,olly oes angen eli haul arnaf,weather_query,9
+1099,2124,dywed wrthyf y tywydd ar gyfer amlwch môn,weather_query,9
+1100,17022,alexa ebostia mam a gofyn sut y mae y tywydd yno,email_sendemail,5
+1101,16969,enfon ebost i a. b. c. at gmail dot com yn lle xyz at gmail dot com,email_sendemail,5
+1102,4140,pa bryd mae hi fod dros pum deg eto,weather_query,9
+1103,10236,ar ôl coginior stwff ychwanegwch ychydig o gynnwys masala a’i goginio eto mewn tawa a’i weini,cooking_recipe,3
+1104,9985,allwn ni wneud stecen gyda chyw iâr,cooking_recipe,3
+1105,6453,teithiau hedfan rhataf i caerdydd o cernyw,transport_ticket,8
+1106,6754,dileu digwyddiadau calendr am yr wythnos yma,calendar_remove,2
+1107,6004,a oes angen i mi gario ambarel heddiw,weather_query,9
+1108,8851,canslwch y digwyddiad nesaf,calendar_remove,2
+1109,9705,dechrau o ble y stopiwyd ddiwethaf yn fy llyfr llafar,play_audiobook,6
+1110,10167,dod o hyd i rysáit pastai afal,cooking_recipe,3
+1111,241,beth sy'n mynd ymlaen tu allan,weather_query,9
+1112,12390,dere a docyn trên i mi,transport_ticket,8
+1113,2039,mae'n dymunol heddiw,weather_query,9
+1114,10188,sut mae brwysio lwyn porc,cooking_recipe,3
+1115,9741,ailddechrau chwarae y llyfr llafar,play_audiobook,6
+1116,16281,anfon ebost i brifathro tom parthed y cyfarfod sydd gennym yfory,email_sendemail,5
+1117,7159,dechreuwch eto os gwelwch yn dda a dileuwch yr holl gofnodion yn y calendr,calendar_remove,2
+1118,4525,beth yw rhagolygon y tywydd am heddiw,weather_query,9
+1119,101,beth yw tywydd wythnos yma,weather_query,9
+1120,845,pa larymau sydd wedi gosod nawr,alarm_query,0
+1121,2998,tywydd caergybi ynys môn,weather_query,9
+1122,16287,danfon ebost pen-blwydd i fy mos,email_sendemail,5
+1123,9735,parhau i chwarae y llyfr llafar diweddar,play_audiobook,6
+1124,8555,cael gwared ar y codwr arian ar gyfer dolffiniaid ym mis ebrill,calendar_remove,2
+1125,9037,marciau yr holl ddigwyddiadau sydd ar ôl yn y calendr ar gyfer heddiw fel rhai sydd wedi eu clirio,calendar_remove,2
+1126,4294,allwch chi ddweud wrtha i am y rhybuddion rydw i wedi eu gosod,alarm_query,0
+1127,320,ddyle'n ni gael ymbarél yfory,weather_query,9
+1128,7307,clirio holl ddigwyddiadau y mis hwn,calendar_remove,2
+1129,12173,dod o hyd i docyn drên i mi dydd llun nesaf i abertawe,transport_ticket,8
+1130,6797,dileu y cyfarfod nesaf o fy nghalendr,calendar_remove,2
+1131,2219,y tywydd yn dinbych,weather_query,9
+1132,8105,alexa dileuwch holl apwyntiadau ar gyfer heddiw,calendar_remove,2
+1133,17044,cyfansodda ebost i robert,email_sendemail,5
+1134,10010,sut allai coginio pryd bwyd,cooking_recipe,3
+1135,788,beth yw y tymheredd rwan,weather_query,9
+1136,16403,derbyniwr ebost newydd donna oes cynlluniau gyda ti ar gyfer heddiw,email_sendemail,5
+1137,661,alla i wybod faint o'r gloch fydd hi am chwech o'r gloch y nos yma yn awstralia,datetime_convert,4
+1138,3163,pa larymau sydd gyda fi wedi eu gosod ar gyfer yfory,alarm_query,0
+1139,5344,a oes siawns y cawn eira ddydd mercher,weather_query,9
+1140,283,ydych chi'n disgwyl haul ar ddydd sul,weather_query,9
+1141,3885,pa larymau sydd wedi eu gosod ar hyn o bryd,alarm_query,0
+1142,4529,beth yw fy larwm nesaf wedi ei drefnu,alarm_query,0
+1143,3928,beth yw'r rhagolygon cyfredol yn conwy,weather_query,9
+1144,5360,pa rhanbarth amser ydyn ni ynddi os gwelwch yn dda newidwch i presennol,datetime_convert,4
+1145,9967,beth yw'r ffordd orau i goginio basta,cooking_recipe,3
+1146,5742,newyddion tywydd,weather_query,9
+1147,12099,beth sy'n cael ei ddangos yn sinema'r odeon,recommendation_movies,7
+1148,5637,a fyddaf angen dod â chôt i fynd allan heno,weather_query,9
+1149,9835,gerddoriaeth un,play_audiobook,6
+1150,599,tro'r uchder lawr,audio_volume_down,1
+1151,7175,dileu,calendar_remove,2
+1152,9846,cynnydd o bwynt saib olaf fy llyfr sain,play_audiobook,6
+1153,4636,lleihau uchder y seinydd,audio_volume_down,1
+1154,8547,dileuwch y digwyddiad calendr i ddod,calendar_remove,2
+1155,16435,dwi eisiau dechrau fy ebost fel hyn,email_sendemail,5
+1156,16012,olly anfonwch e-bost i jesse,email_sendemail,5
+1157,6717,dileu sefyll i fyny dydd gwener am ddeg y bore,calendar_remove,2
+1158,6733,bwcia dacsi i nefyn mewn hanner awr,calendar_remove,2
+1159,7079,tynnwch yr holl eitemau ar fy nghalendr,calendar_remove,2
+1160,7648,dileuwch digwyddiad o calendr,calendar_remove,2
+1161,16460,mae cyswllt newydd gyda fi newmail at gmail dot com cyfansoddwch ebost,email_sendemail,5
+1162,16428,anfonwch ebost i dad yn gofyn am y tywydd yn abertawe os gwelwch yn dda,email_sendemail,5
+1163,1723,sut y byd y tywydd yn casnewydd ar gyfer y nawfed o chwefror dwy fil un deg saith,weather_query,9
+1164,16623,yr ydw i angen i ebost gael ei anfon at comcastcom ynglŷn â materion am fy ngwasanaeth,email_sendemail,5
+1165,4751,ydi hi'n mynd i fod yn gymylog,weather_query,9
+1166,8927,diddymwch yr holl ddigwyddiadau o fy nghalendr cyfan,calendar_remove,2
+1167,17014,ateb yr ebost,email_sendemail,5
+1168,8288,cael gwared ar yr hyn sy'n rhaid i mi ei wneud ar y tri ar hugain o mawrth,calendar_remove,2
+1169,10083,dewch o hyd i rysáit ar gyfer cacen siocled cymraeg,cooking_recipe,3
+1170,9938,pa mor hir ddylwn i goginio byrgyr ar bob ochr,cooking_recipe,3
+1171,10115,sut wyt ti'n barbeciwio cyw iâr,cooking_recipe,3
+1172,2895,tro lawr y seinyddion,audio_volume_down,1
+1173,3354,ydi hi'n mynd i fwrw eira,weather_query,9
+1174,16440,anfonwch e-bost i cat y byddaf yn derbyn cynnig swydd,email_sendemail,5
+1175,15827,dos i'm cysylltiadau ac ychwanega ebost newydd at y rhestr,email_sendemail,5
+1176,6094,ddylen ni gadw fy ffenestri ar agor heno,weather_query,9
+1177,2736,ydi hi'n bwrw glaw ar hyn o bryd,weather_query,9
+1178,831,mae'n rhy boeth tu allan beth fydd y tymheredd y prynhawn yma,weather_query,9
+1179,9972,beth ywr ffordd orau i awchlymu cyllell cigydd,cooking_recipe,3
+1180,950,sut mae'r tywydd yn abertawe,weather_query,9
+1181,1787,gostwng yr uchder,audio_volume_down,1
+1182,17066,ateb yr ebost dderbyniais i wrth mark,email_sendemail,5
+1183,7431,rwyf am i chi ddileu'r digwyddiad hwn,calendar_remove,2
+1184,5591,agor tywydd,weather_query,9
+1185,2139,sut mae'r tywydd tu allan,weather_query,9
+1186,9821,ailddechrau the girl on the train ar audible,play_audiobook,6
+1187,12596,google mae angen un docyn drên arnaf i llundain a allwch chi archebu hynny i mi,transport_ticket,8
+1188,8281,dilewuch holl ddigwyddiadau wedi eu hamserlennu o'r calendr,calendar_remove,2
+1189,11856,awgrymwch ffilm os gwelwch chi'n dda olly,recommendation_movies,7
+1190,8181,a fedri ddileu fy mod yn gweld y deintydd o'm calendr,calendar_remove,2
+1191,6998,nigwyddiad dyfodol clir,calendar_remove,2
+1192,1645,oes gyda fi unrhyw larymau wedi eu gosod,alarm_query,0
+1193,3619,sut dywydd ydi hi yn llwyngwril,weather_query,9
+1194,16849,ebostia susan ac ysgrifenna bod,email_sendemail,5
+1195,8659,cliria fy nghalendr yn llwyr,calendar_remove,2
+1196,5779,tywydd abertawe,weather_query,9
+1197,16739,agor ebost newydd i cyswllt,email_sendemail,5
+1198,16498,anfon ebost atgoffa,email_sendemail,5
+1199,9997,beth sy'n rhaid ei niweidio mewn hufen i wneud menyn,cooking_recipe,3
+1200,17155,ateb ebost arwel,email_sendemail,5
+1201,16942,drwy ffonau symudol,email_sendemail,5
+1202,4789,sut y bydd y tywydd heddiw,weather_query,9
+1203,10133,mae angen help arnaf i goginio cyw iâr wedi'i bobi,cooking_recipe,3
+1204,12130,trefnwch daith i llandudno ar y drên,transport_ticket,8
+1205,5846,a ddylwn i ddod â dwr ychwanegol gyda mi heddiw,weather_query,9
+1206,9782,chwarae ef ar ôl pum munud,play_audiobook,6
+1207,16548,allwch chi ebostio mary a rhoi gwybod iddi fy mod ar y ffordd,email_sendemail,5
+1208,10091,sut mae coginio taflen gig,cooking_recipe,3
+1209,5998,os yw hi yn chwech o'r gloch yn y bore yma faint o'r gloch yw hi yn tokyo,datetime_convert,4
+1210,823,sut mae'r tywydd lle rydw i heddiw,weather_query,9
+1211,2543,beth yw'r tywydd gerllaw,weather_query,9
+1212,9807,chwaraewch gân y beatles o llyfr llafar,play_audiobook,6
+1213,16783,mae fy mam angen i ragolygon y tywydd yr wythnos gael ei anfon iddi,email_sendemail,5
+1214,3286,beth yw'r siawns o stormydd mellt a tharanau heddiw yn dunvant,weather_query,9
+1215,15832,anfon ebost i'r cyswllt fel a ganlyn,email_sendemail,5
+1216,12241,cer i amtrak dot com i brynu tocynnau os gwelwch yn dda,transport_ticket,8
+1217,16220,ateb ebost amy yn dweud y byddaf yn dod nôl ati,email_sendemail,5
+1218,7290,dileu fy holl apwyntiadau am heddiw,calendar_remove,2
+1219,15748,anfon ebost i martha gan ddweud bod neithiwr yn wyllt,email_sendemail,5
+1220,10173,beth sy'n ffordd dda o wneud stecen,cooking_recipe,3
+1221,1309,beth yw'r hinsawdd heddiw,weather_query,9
+1222,4108,oes larwm am bedwar o'r gloch y bore,alarm_query,0
+1223,9759,oedi ailddechrau,play_audiobook,6
+1224,8254,dileuwch fy nigwyddiad nesaf,calendar_remove,2
+1225,4485,sut fath o dywydd fydd hi yr wythnos hon,weather_query,9
+1226,2873,oes larymau gyda fi wedi gosod ar gyfer heddiw,alarm_query,0
+1227,12290,cofrestra digwyddiad neu docyn,transport_ticket,8
+1228,4706,beth yw y rhagolygon ar gyfer fy ardal i heddiw,weather_query,9
+1229,3292,beth yw'r gwahaniaeth amser rhwng pasifig a chanolog,datetime_convert,4
+1230,16207,ebostia teulu gyda manylion y parti,email_sendemail,5
+1231,15940,ateb yr ebost diweddaraf,email_sendemail,5
+1232,15755,anfon ebost i fy mrawd,email_sendemail,5
+1233,16404,anfonwch ebost at elfed,email_sendemail,5
+1234,7236,dileu yr apwyntiad ar ebrill y cyntaf,calendar_remove,2
+1235,6046,fedra'i wisgo trowsus byrion heddiw,weather_query,9
+1236,3294,beth yw'r gwahaniaeth amser rhwng canolog a dwyreiniol,datetime_convert,4
+1237,5323,dywedwch wrthyf beth yw'r tywydd ar gyfer bangor,weather_query,9
+1238,206,sut y mae'r tywydd yn y bala,weather_query,9
+1239,9784,dwi angen seibiant dechreuwch chwarae fe ar ôl pum munud,play_audiobook,6
+1240,16064,anfon ebost i peter gan ofyn ble y mae o rwan ac os yw yn y farchnad anfon neges destun iddo i ddod ac ychydig wîn,email_sendemail,5
+1241,1350,beth ydi'r tywydd am yr wythnos hon,weather_query,9
+1242,4682,yw hi'n boeth a thrymedd neu'n gynnes a llaith yn y cob heddiw,weather_query,9
+1243,9666,chwarae llyfr llafar,play_audiobook,6
+1244,2430,gwiriwch larymau os gwelwch yn dda,alarm_query,0
+1245,16234,yr wyf angen i ti ymateb i ebost mari gan ddweud y byddwn yn hwyr,email_sendemail,5
+1246,16265,anfon ebost i'r teulu a dywed dwi'n eich caru chi i gyd,email_sendemail,5
+1247,16306,danfon ebost i fy nheulu,email_sendemail,5
+1248,6996,dileu'r digwyddiad nesaf,calendar_remove,2
+1249,12389,prynwch docyn drên i mi,transport_ticket,8
+1250,5538,a fydd angen i mi roi eli haul arnaf heddiw,weather_query,9
+1251,3692,ailadroddwch y frawddeg olaf o'r llyfr hwn os gwelwch yn dda,play_audiobook,6
+1252,3105,beth yw'r tymheredd presennol,weather_query,9
+1253,11793,dw'i angen ffilm am gennod unrhyw awgrymiadau,recommendation_movies,7
+1254,6138,a fyddaf angen gwisgo esgidiau glaw,weather_query,9
+1255,16117,ebostia amserlen yr wythnos hon i'r tîm gwaith,email_sendemail,5
+1256,605,sut y rhagwelir y bydd y tywydd ddydd mawrth,weather_query,9
+1257,1868,manylion hinsawdd olly nawr,weather_query,9
+1258,3533,newidwch rhanbarth amser i india os gwelwch yn dda,datetime_convert,4
+1259,6082,a ddylwn gynllunio ar gyfer rhawio fy ffordd allan o'r tŷ,weather_query,9
+1260,10178,dysgu torri datws yn gywir,cooking_recipe,3
+1261,15842,ysgrifenna ebost y derbynydd ydi ray,email_sendemail,5
+1262,9773,ailddechrau y llyfr llafar os gweli'n dda,play_audiobook,6
+1263,3879,sut mae'r tywydd yn crymych,weather_query,9
+1264,10106,dangos i mi rysáit cyri cyw iâr,cooking_recipe,3
+1265,11723,gad i fi wybod am y ffilm rom com mwyaf poblogaidd sy'n chwarae nawr mewn theatrau yng nghaerdydd,recommendation_movies,7
+1266,6769,dileu fy digwyddiad nesaf,calendar_remove,2
+1267,3506,beth yw rhagolygon y tywydd heddiw,weather_query,9
+1268,9836,cerddoriaeth dau,play_audiobook,6
+1269,5008,a fydd arnaf angen siaced p'nawn heddiw,weather_query,9
+1270,12754,rydw i eisiau'r docyn drên rhataf i abertawe,transport_ticket,8
+1271,7297,cymer fy nghalendr a cliria fo,calendar_remove,2
+1272,10033,esboniwch yn gryno am ffrio pysgod,cooking_recipe,3
+1273,1433,os gweli di'n dda tro'r uchder i lawr,audio_volume_down,1
+1274,8406,dileu pob ddigwyddiad ar gyfer fory,calendar_remove,2
+1275,5759,tywydd am yr wythnos nesaf yn abertawe,weather_query,9
+1276,7024,dileu pob digwyddiad o'r calendr,calendar_remove,2
+1277,905,beth fydd y dymheredd ar gyfer yr wythnos nesaf,weather_query,9
+1278,10151,dewch o hyd i mi'r rysáit ar gyfer chacen,cooking_recipe,3
+1279,3033,beth yw'r tywydd ar hyn o bryd,weather_query,9
+1280,5723,a fydd hi'n bwrw glaw gyda'r hwyr heddiw,weather_query,9
+1281,17122,dechrau ebost i fy chwaer os gweli'n dda,email_sendemail,5
+1282,12282,dwi eisiau tocyn drên o abertawe i llundain,transport_ticket,8
+1283,15941,ateb i'r ebost,email_sendemail,5
+1284,8054,cliriwch pob digwyddiad o vis mawrth y seithfed,calendar_remove,2
+1285,17068,ateb yr ebost a dderbyniais oddi wrth jennifer,email_sendemail,5
+1286,16867,postia fy nghyfaill,email_sendemail,5
+1287,1932,ydi'r tywydd yn dawel heddiw,weather_query,9
+1288,4719,a fydd y dymheredd yn uwch na'r rhewbwynt ddydd mercher,weather_query,9
+1289,9748,cariwch ymlaen gyda pride and prejudice,play_audiobook,6
+1290,8713,canslwch cinio yn y bwyty wedi ei fwcio ar gyfer mawrth y pumed ar hugain,calendar_remove,2
+1291,8440,dileu'r holl ddigwyddiadau o fy nghalendr,calendar_remove,2
+1292,3899,fydd hi'n bwrw glaw ar awst y pymthegfed,weather_query,9
+1293,12500,allwch chi archebu docyn trên ar gyfer dydd sadwrn nesaf i abertawe,transport_ticket,8
+1294,904,sut mae'r tywydd am fod am yr wythnos nesaf,weather_query,9
+1295,12489,dwi angen tocyn ar y drên i ddinas birmingham fory,transport_ticket,8
+1296,583,a fydd machlud am hanner awr wedi pump yr hwyr fory,weather_query,9
+1297,16879,danfon ebost i jerry am y cyfarfod,email_sendemail,5
+1298,4471,ateb yr ebost oddi wrth,weather_query,9
+1299,9684,ailddechrau chwarae y llyfr llafar,play_audiobook,6
+1300,207,dywed wrthyf beth yw y tywydd yn nghaerdydd,weather_query,9
+1301,12490,allwch chi gadw sedd i mi ar y drên i pen-y-bont ar ogwr bore dydd gwener nesaf,transport_ticket,8
+1302,1728,cadarnha y tywydd ar gyfer y trydydd ar ddeg o'r mis hwn,weather_query,9
+1303,17077,anfonwch e-bost diolch personol i george,email_sendemail,5
+1304,3615,mae yfory yn heulog yn dyw e,weather_query,9
+1305,1455,tywydd,weather_query,9
+1306,9100,dileuwch fy apwyntiad meddyg ar gyfer chwefror y deuddegfed,calendar_remove,2
+1307,3035,olly amodau tywydd ar gyfer y diwrnod nesaf,weather_query,9
+1308,5295,galli di wneud e bach yn fwy tawel,audio_volume_down,1
+1309,8332,dileu fy ymarfer corff o heddiw ymlaen,calendar_remove,2
+1310,7364,dileuwch digwyddiad cyntaf y trydydd ar hugain o fawrth dwy fil un deg saith,calendar_remove,2
+1311,3025,tywydd yn llangefni môn,weather_query,9
+1312,11872,wyt ti'n awgrymu unrhyw ffilmiau sy'n chwarae yn fy ardal,recommendation_movies,7
+1313,6019,hoffwn wybod y larwm wnaethoch chi anfon,alarm_query,0
+1314,15856,anfon ebost i gyfeiriad ebost cyfredol,email_sendemail,5
+1315,6153,dweud wrtha'i am y tywydd cyfredol,weather_query,9
+1316,6128,dylen ni ddod ac esgidiau eira,weather_query,9
+1317,16716,ebostia john a dweud fy mod ar fy ngwyliau,email_sendemail,5
+1318,3036,amodau tywydd am y diwrnod nesaf,weather_query,9
+1319,9932,pa gynhwysion sydd angen am bwdin,cooking_recipe,3
+1320,15944,ebostia'r gweinyddwr,email_sendemail,5
+1321,5177,a oes angen ambarel arnaf i ar hyn o bryd,weather_query,9
+1322,9901,dewch o hyd i fersiwn llyfr llafar llyfr glas nebo a chwaraewch ef i fi,play_audiobook,6
+1323,5711,dyle'n ni fynd a cot i birmingham heno,weather_query,9
+1324,16569,hoffem ddanfon ebost i ebost y derbynnydd newydd,email_sendemail,5
+1325,4211,wyt ti yn meddwl y bydd yn iawn i mi wisgo trowsus cwta yr wythnos hon,weather_query,9
+1326,10221,mae manteision ac anfanteision i sefydlu busnes prosesydd bwyd yn ein cartref,cooking_recipe,3
+1327,8980,cansla'r apwyntiad am y trydydd o ebrill,calendar_remove,2
+1328,15928,danfon ebost i wil yn ymddieurio do'n ni ddim yn sylweddoli ei fod mor sal,email_sendemail,5
+1329,1472,gostwng yr uchder i ugain,audio_volume_down,1
+1330,2294,a fydd yr indecs uwch fioled yn fwy nac wyth heddiw,weather_query,9
+1331,1465,bydd hi'n bwrw glaw dydd gwener,weather_query,9
+1332,16728,dywed wrth siôn fy mod yn gwerthfawrogi iddi gysylltu â mi,email_sendemail,5
+1333,10089,beth yw'r rysáit peli cig gorau,cooking_recipe,3
+1334,5737,rho i mi amseriad pob larwm ar gyfer y ddau ddiwrnod nesaf,alarm_query,0
+1335,6020,ga'i wybod am y larwm setiaist ti,alarm_query,0
+1336,1633,dangoswch fy larymau i fi,alarm_query,0
+1337,3504,beth yw'r tywydd yn wrexham heddiw,weather_query,9
+1338,10096,os gwelwch yn dda coginio byrgyr i mi,cooking_recipe,3
+1339,11988,beth sy'n ffilm da sydd allan ar hyn o bryd,recommendation_movies,7
+1340,16937,arbeda'r ebost i wedyn,email_sendemail,5
+1341,9697,parhau darllen llwyd owen i fi,play_audiobook,6
+1342,15956,ebostia alice a gâd iddi wybod ein bod ar y ffordd,email_sendemail,5
+1343,409,darllenwch fy larymau i fi,alarm_query,0
+1344,4218,dyle'n ni wisgo esgidiau glaw heddiw,weather_query,9
+1345,1235,faint o'r gloch yw hi yn singapore pan mae ein amser ni yn bump o'r gloch y nos,datetime_convert,4
+1346,1634,olly dangoswch fy larymau i fi,alarm_query,0
+1347,12193,archebwch docyn drên o blaenau ffestiniog i corwen sy'n mynd galw yn nefyn,transport_ticket,8
+1348,2065,sut y mae'r tywyd yr wythnos hon,weather_query,9
+1349,10062,pa fwyd syn dda,cooking_recipe,3
+1350,8432,dileuwch fy nghyfarfod heddiw am un o'r gloch y prynhawn,calendar_remove,2
+1351,7910,cansla fy nghyfarfod am wyth o'r gloch yfory,calendar_remove,2
+1352,16868,ymgyrraedd at fy nheulu drwy bôst,email_sendemail,5
+1353,2653,fydd hi yn bwrw glaw ddydd sadwrn,weather_query,9
+1354,3339,sut mae'r tywydd,weather_query,9
+1355,7622,allwch chi ddileu'r digwyddiadau i gyd o fy nghalendr,calendar_remove,2
+1356,9764,chware little women,play_audiobook,6
+1357,6047,oes angen siaced gaeaf arnaf i bore yma,weather_query,9
+1358,12510,google search archebu tocyn drên,transport_ticket,8
+1359,12191,archebu tocyn drên o ffrainc i caerdydd,transport_ticket,8
+1360,10120,sut i goginio sbageti,cooking_recipe,3
+1361,1484,adolyga'r larymau sydd gennyf fi,alarm_query,0
+1362,9789,ailddechrau y llyfr sain a chwaraewyd ddiwethaf,play_audiobook,6
+1363,10148,dewch o hyd i'r rysáit sydd ar y raddfa uchaf o foodnetworkcom ar gyfer omled pedwar caws,cooking_recipe,3
+1364,15760,ebostia pawel ynglŷn â'r newyddion diweddaraf,email_sendemail,5
+1365,12522,archebwch docyn drên i mi,transport_ticket,8
+1366,650,dwi angen gosod larwm faint ydw i wedi gosod,alarm_query,0
+1367,5956,a ddylwn wisgo esgidiau gaeaf pan fyddaf yn mynd i'r siop,weather_query,9
+1368,15764,ymateb i ebost diwethaf pawel,email_sendemail,5
+1369,4214,newidiwch fy nghloc i rhanbarth amser canolog o fy rhanbarth presennol,datetime_convert,4
+1370,3095,beth yw'r tywydd yn fflint,weather_query,9
+1371,16129,anfon ebost fel ateb i sarah gan ddweud diolch yn fawr,email_sendemail,5
+1372,1307,beth yw hinsawdd heddiw fan hyn,weather_query,9
+1373,6916,dileu pob ddigwyddiadau o'r calendr,calendar_remove,2
+1374,5936,dwi angen fy het heddiw,weather_query,9
+1375,16313,danfon e-bost i fy mam,email_sendemail,5
+1376,7700,glanhewch my nghalendr cyfan,calendar_remove,2
+1377,4146,gadewch i fi wybod am unrhyw larymau wedi eu gosod heddiw,alarm_query,0
+1378,10013,dewisiwch rysáit,cooking_recipe,3
+1379,6635,tywydd fel,weather_query,9
+1380,980,mae'n wir swnllyd fedri di droi'r gerddoriaeth i lawr os gweli di'n dda,audio_volume_down,1
+1381,98,ydi hi'n bwrw eira ar hyn o bryd,weather_query,9
+1382,12725,dod o hyd i docyn drên rhad i dunvant,transport_ticket,8
+1383,16617,anfon ebost i mike ynglŷn â'r parti y penwythnos yma,email_sendemail,5
+1384,8000,dileuwch fy nêt cinio o amserlen mawrth y trydydd ar hugain,calendar_remove,2
+1385,863,fy larymau,alarm_query,0
+1386,17149,dwi eisiau gwirio'r dyddiadau mae julia ar gael felly wnewch chi anfon ebost iddi a gofyn amdano,email_sendemail,5
+1387,16195,enfonwch e-bost at liz,email_sendemail,5
+1388,4107,pa larymau sydd wedi setio yn y ffôn,alarm_query,0
+1389,2894,gostwng uchder y seinydd,audio_volume_down,1
+1390,9860,agorwch ap audible os gwelwch yn dda ac ailddechreuwch chwarae,play_audiobook,6
+1391,16190,ysgrifennwch ebost i fi ffrind cwmni i gyflwyno'r dasg yfory,email_sendemail,5
+1392,2010,yr wythnos hon fydd y tywydd yn heulog ynteu na,weather_query,9
+1393,7285,dileuwch holl sesiynau yoga sydd ar ddod,calendar_remove,2
+1394,16598,atebwch ie i hwn,email_sendemail,5
+1395,4865,sut mae'r tywydd yn gwynedd ar hyn o bryd,weather_query,9
+1396,8728,dileu yr holl digwyddiadau,calendar_remove,2
+1397,8003,canslwch fy nghyfarfod ar gyfer dydd gwener,calendar_remove,2
+1398,10026,google y camau i baratoir ddysgl,cooking_recipe,3
+1399,1190,os yw hi'n ganol nos yn aberhonddu faint o'r gloch yw hi yn munich,datetime_convert,4
+1400,7145,dw'i ddim eisiau mynychu y cinio ar y cyntaf o fawrth rhagor felly fedri di ddileu e o fy amserlen,calendar_remove,2
+1401,15758,hei ebostia sian ynghylch ein cyfarfod,email_sendemail,5
+1402,11722,enwa ffilm gomedi rhamantus sy'n chwarae o gwmpas efrog newydd,recommendation_movies,7
+1403,9790,dechrau chwarae'r seinlyfr sali mali,play_audiobook,6
+1404,7831,dileu yr holl apwyntiadau,calendar_remove,2
+1405,9803,dechreuwch lyfr llafar the two towers,play_audiobook,6
+1406,10069,faint o lwyau de sydd mewn cwpan,cooking_recipe,3
+1407,4384,fydd y tywydd yn boeth neu'n oer yfory,weather_query,9
+1408,3343,am ba amser y mae fy larwm wedi ei osod,alarm_query,0
+1409,12595,fi angen i chi archebu tocyn drên sy'n gadael am dau yn y prynhawn,transport_ticket,8
+1410,3691,beth yw y tymheredd ar hyn o bryd yn pen-y-bont ar ogwr,weather_query,9
+1411,15779,ebostia morgan yn dweud bod y prosiect wedi gorffen,email_sendemail,5
+1412,14349,google beth yw y tymheredd y tu allan,weather_query,9
+1413,6753,dileu pob digwyddiad sydd gennyf heddiw,calendar_remove,2
+1414,16689,atebwch ebost iwan,email_sendemail,5
+1415,8335,dwi ddim eisiau unrhyw ddigwyddiadau wedi eu rhestru ar y calendr,calendar_remove,2
+1416,1535,ydi hi yn bwrw glaw yn y fenni ar hyn o bryd,weather_query,9
+1417,10202,dywedwch wrthyf sut i wneud tacos,cooking_recipe,3
+1418,6970,dileu ddigwyddiad,calendar_remove,2
+1419,3802,dangosa tywydd yfori yng nghaernarfon,weather_query,9
+1420,4677,bydd angen eli haul arna i heddiw,weather_query,9
+1421,9073,dileuwch y digwyddiad yna o fy nghalendr,calendar_remove,2
+1422,1656,dangoswch fy holl larymau sydd wedi eu trefnu,alarm_query,0
+1423,3403,ydi hi'n mynd i fod yn heulog penwythnos yma,weather_query,9
+1424,4530,beth yw'r disgrifiad ar gyfer y larwm am unarddeg o'r gloch y bore,alarm_query,0
+1425,8772,dileu y taith wed'i drefnu am y pedwerydd o orffennaf,calendar_remove,2
+1426,5464,a ydw i angen trowsus llaes,weather_query,9
+1427,3374,os ffonia i hywel yn california am chwech o'r gloch y nos beth fydd ei amser ef,datetime_convert,4
+1428,49,dywed wrthyf yr amser bum awr o flaen g. m. t.,datetime_convert,4
+1429,16378,alexa anfona ebost i mam nawr,email_sendemail,5
+1430,9991,dangos tiwtorialau i mi ar goginio bwyd,cooking_recipe,3
+1431,277,beth yw'r tywydd yn llanelli,weather_query,9
+1432,12915,dwi angen archebu tocyn drên i abertawe,transport_ticket,8
+1433,1968,ydi hi yn glawio y tu allan,weather_query,9
+1434,8833,cliriwch fy nghalendr ar gyfer gweddill y dydd,calendar_remove,2
+1435,10227,dywedwch wrthyf y dull paratoi ar gyfer cyw iâr chwe deg pump,cooking_recipe,3
+1436,8285,dileu parti penblwydd oddi ar y claendr am mis mai,calendar_remove,2
+1437,8632,allwch chi ddileu hynny o fy nghalendr,calendar_remove,2
+1438,4414,fydd hi yn glawio yn nhrawsfynydd dydd mawrth nesaf,weather_query,9
+1439,16658,anfon ebost i siencyn i ofyn sut y bydd y tywydd yr wythnos yma,email_sendemail,5
+1440,6969,beth sy'n rhaid i mi wneud heddiw,calendar_remove,2
+1441,7062,dilëwch fy nigwyddiadau calendr,calendar_remove,2
+1442,1456,sut mae hi tu allan,weather_query,9
+1443,5214,a ddylwn ddod a dillad cynnes,weather_query,9
+1444,6512,larymau,alarm_query,0
+1445,3388,beth fydd y tywydd yn abertawe heddiw,weather_query,9
+1446,5231,ddyle'n ni wisgo esgidiau glaw,weather_query,9
+1447,11734,olly sut mae'r ffilm newydd y llyfrgell,recommendation_movies,7
+1448,9693,stopia yr oediad ar y seinlyfr un nos ola leuad,play_audiobook,6
+1449,6102,hei olly sut bydd y tywydd heddiw yn abertawe de cymru,weather_query,9
+1450,17132,danfon ebost i shaun yn gofyn am ddiwrnod bant dydd sul nesaf,email_sendemail,5
+1451,9776,dechrau fy llyfr llafar o ble y stopiais,play_audiobook,6
+1452,8334,clirio fy nghalendr,calendar_remove,2
+1453,10204,esbonia sut i serio stêc,cooking_recipe,3
+1454,8636,allwch chi ddileu yr apwyntiad meddyg oedd gyda fi ar ddydd mawrth,calendar_remove,2
+1455,11930,pa ffilmiau newydd sy'n dda,recommendation_movies,7
+1456,846,pa larymau fydd yn dihuno fi yfory,alarm_query,0
+1457,12705,agor ap tocyn trên,transport_ticket,8
+1458,3141,siarad yn is os gweli di'n dda,audio_volume_down,1
+1459,9785,agor llyfr,play_audiobook,6
+1460,5778,beth yw'r tywydd,weather_query,9
+1461,16981,post anfon i ashok,email_sendemail,5
+1462,16126,danfon diolch yn fawr mam i mam,email_sendemail,5
+1463,10001,sut i greu llaeth enwyn o llaeth,cooking_recipe,3
+1464,9749,defnyddio'r rheolwr o bell,play_audiobook,6
+1465,284,ydi hi'n mynd i lawio heno,weather_query,9
+1466,16199,anfon ebost i ebost gwaith jim,email_sendemail,5
+1467,11958,dangoswch amseroedd ffilmiau i mi,recommendation_movies,7
+1468,10073,dewch o hyd i gynhwysion ar gyfer marsala cyw iâr,cooking_recipe,3
+1469,15107,pa ffilm wyt ti'n awgrymu ar gyfer heno,recommendation_movies,7
+1470,9825,ailddechrau'r gân o'r llyfr llafar gan huw chiswell,play_audiobook,6
+1471,9824,ailddechrau chwarae y mabinogion o ble y gadewais i fo,play_audiobook,6
+1472,9128,dileu'r digwyddiad calendr nesaf,calendar_remove,2
+1473,9675,allwch chi chwarae fy hoff seinlyfr king kong,play_audiobook,6
+1474,7036,calendr gwag ar gyfer yr wythnos hon,calendar_remove,2
+1475,489,beth yw'r dymheredd y tu allan,weather_query,9
+1476,16053,anfonwch ebost i raj am swydd,email_sendemail,5
+1477,16904,dw'i eisiau ymateb i fy ebost diwethaf,email_sendemail,5
+1478,12126,dw'i eisiau cael trên i abertawe dydd mercher,transport_ticket,8
+1479,4679,a fyddaf angen siaced ysgafn neu drom heddiw,weather_query,9
+1480,557,faint o larymau sydd wedi rhestru,alarm_query,0
+1481,4724,beth yw fy larymau,alarm_query,0
+1482,5448,mae'n edrych a heulog ac yn glir heddiw a yw hynny'n wir,weather_query,9
+1483,12323,tarddle a cyrchfan,transport_ticket,8
+1484,859,rhagolygon y tywydd,weather_query,9
+1485,9781,chwarae hawl i fyw,play_audiobook,6
+1486,7284,dileu fy apwyntiad deintydd,calendar_remove,2
+1487,16700,dôs i gmail clicia ar creu ar ôl gorffen fe ddywedaf wrthyt beth yr wyf eisiau ei ysgrifennu yn yr ebost,email_sendemail,5
+1488,10064,faint o llysiau ddylwn i eu bwyta bob dydd,cooking_recipe,3
+1489,16397,wnewch chi anfon yr e-bost i greg,email_sendemail,5
+1490,9868,chwarae the jungle book,play_audiobook,6
+1491,9031,dileu y digwyddiad cyfarfod swyddfa yr wythnos nesaf,calendar_remove,2
+1492,6715,dileu nigwyddiad briodas rhys ifans y flwyddyn nesaf,calendar_remove,2
+1493,7740,dileu parti penblwydd wil o fy nghalendr,calendar_remove,2
+1494,9920,beth yw'r rysáit ar gyfer saws pasta,cooking_recipe,3
+1495,8441,dileuwch fy nghalendr i gyd,calendar_remove,2
+1496,16625,dweud wrth chris byddaf yn hwyr drwy ebost,email_sendemail,5
+1497,3355,a oes niwl yn mynd i fod yn y bore,weather_query,9
+1498,16682,creu ebost i john dechrau corff mae diddordeb gyda fi i weld y car sydd gyda chi ar werth allwn ni drefnu amser i gwrdd anfon,email_sendemail,5
+1499,5891,oes unrhyw larymau wedi eu gosod beth ydyn nhw,alarm_query,0
+1500,8371,hey olly ar yr ugeinfed clir fy nghalendr,calendar_remove,2
+1501,16558,ymateb i ebost john yn dweud gallaf,email_sendemail,5
+1502,14649,sut i goginio,cooking_recipe,3
+1503,15959,cyfansoddwch e-bost i parisa,email_sendemail,5
+1504,5924,cwympa'r uchder os gweli di'n dda,audio_volume_down,1
+1505,735,galli di ostwng dy uchder os gweli di'n dda,audio_volume_down,1
+1506,2111,pan mae hi'n ddeg o'r gloch y nos yma faint o'r gloch yw hi yn brisbane,datetime_convert,4
+1507,10189,dangos rysáit tikka cyw iâr,cooking_recipe,3
+1508,7985,dileu y digwyddiad yma ar fawrth y trydydd,calendar_remove,2
+1509,15749,ateb patrick a dywed fy mod ar fy ffordd,email_sendemail,5
+1510,10114,beth sydd i angen arnaf ar gyfer byrgyr da,cooking_recipe,3
+1511,5783,dymheredd machlud heddiw,weather_query,9
+1512,10159,sut wyt ti'n gwneud wyau heulog,cooking_recipe,3
+1513,4469,bydd angen siaced arna'i heddiw,weather_query,9
+1514,1662,beth yw'r gwahaniaeth amser rhwng efrog newydd a abertawe,datetime_convert,4
+1515,10108,beth sy'n ffordd dda o goginio wyau,cooking_recipe,3
+1516,1338,pa larymau sydd gyda fi wedi'u trefnu ar gyfer yfory,alarm_query,0
+1517,2705,gostwng sain,audio_volume_down,1
+1518,11810,pa ffilmiau sy'n chwarae gerllaw,recommendation_movies,7
+1519,2429,statws larwm,alarm_query,0
+1520,16972,fedri di anfon neges nol i siân trwy ebost,email_sendemail,5
+1521,2064,beth fydd y tywydd yr wythnos hon,weather_query,9
+1522,5337,alexa rhowch yr amserau larwm 'ych chi wedi gosod i fi,alarm_query,0
+1523,5077,mae i weld yn oer,weather_query,9
+1524,17171,ysgrifenna i'r ebost hwn,email_sendemail,5
+1525,5334,pa larymau sydd wedi eu gosod gyda chi,alarm_query,0
+1526,17127,ymateb i neges bost mam am y wefan ryseitiau,email_sendemail,5
+1527,15949,ateb yr ebost wrth john,email_sendemail,5
+1528,16590,dw'i angen ateb yr ebost diwethaf yna,email_sendemail,5
+1529,5750,a fydd angen ambarél arnaf ar gyfer heddiw,weather_query,9
+1530,16472,anfonwch e-bost i'r cyfeiriad canlynol os gwelwch yn dda hwu at gmail dot com,email_sendemail,5
+1531,10209,dymunol,cooking_recipe,3
+1532,7995,dileu fy nigwyddiadau cyfredol o'r calendr,calendar_remove,2
+1533,15992,ebostia dei huws efo fy nymuniadau gorau gyda'r pdf gwaith fel atodiad,email_sendemail,5
+1534,9919,beth yw'r rysáit ar gyfer saws pasta,cooking_recipe,3
+1535,16268,ateb ebost robert o bore heddiw,email_sendemail,5
+1536,16109,atebwch pob ebost a dderbyniwyd rhwng deg yr hwyr a saith y bore bob dydd,email_sendemail,5
+1537,15927,anfon ebost i julie fel y gallaf gyfarfod â hi dydd sadwrn am un o’r gloch y prynhawn,email_sendemail,5
+1538,10181,beth yw'r cynhwysion mewn macaroni a chaws,cooking_recipe,3
+1539,792,mae'r haf yn mynd ymlaen,weather_query,9
+1540,5817,tywydd yn y dref ble yr wyf yn byw,weather_query,9
+1541,5668,yna tapiwch ok,alarm_query,0
+1542,16013,anfon ebost i osian,email_sendemail,5
+1543,6007,a ddylwn gau'r ffenestr cyn i mi adael y prynhawn yma,weather_query,9
+1544,8855,dileuwch holl ddigwyddiadau calendr os gwelwch yn dda,calendar_remove,2
+1545,12523,fedri di archebu trên i mi o dan punnoedd,transport_ticket,8
+1546,15991,ebostia aled pritchard efo fy nghofion gorau a rho atodiad o p. d. f. gwaith,email_sendemail,5
+1547,10212,bwyd dda,cooking_recipe,3
+1548,12218,mae angen tocyn awyren arnaf,transport_ticket,8
+1549,3469,mae hi'n naw yma faint o'r gloch yw hi yn california,datetime_convert,4
+1550,16311,anfona ateb i'r ebost yna,email_sendemail,5
+1551,12234,archebwch sedd dosbarth busnes ar y drên nesaf i abertawe,transport_ticket,8
+1552,438,ydi hi yn mynd i fwrw glaw heddiw,weather_query,9
+1553,5075,syt y mae'r tywydd yr wythnos yma,weather_query,9
+1554,5174,beth yw y tywydd am yr wythnos gyfan,weather_query,9
+1555,10066,dywedwch wrthyf y rysáit ar gyfer tatws stwnsh,cooking_recipe,3
+1556,6904,dileu yr apwyntiad gofal lawnt mis nesaf,calendar_remove,2
+1557,4474,a ydwyf angen dillad glaw,weather_query,9
+1558,12833,alexa archebwch docyn drên i mi ar gyfer y prynhawn yma i abertawe,transport_ticket,8
+1559,12563,prynu tocyn drên i abertawe ar gyfer ebrill pedwerydd ar ddeg,transport_ticket,8
+1560,16599,dileu yr ebost hwn,email_sendemail,5
+1561,12156,prynu docyn drên i,transport_ticket,8
+1562,6121,faint mor oer yw hi rwan,weather_query,9
+1563,5484,ydi hi yn rhy boeth i drowsus,weather_query,9
+1564,10000,sut mae potsio wy,cooking_recipe,3
+1565,2228,dwi angen i chi drosi naw o'r gloch y bore c. s. t. i amser g. m. t.,datetime_convert,4
+1566,7362,jyst dileuwch y digwyddiad ymgysylltu nesaf,calendar_remove,2
+1567,357,dywedwch wrthyf am fy larymau,alarm_query,0
+1568,8637,allwch chi dynnu bant y digwyddiad nesaf ar fy nghalendr,calendar_remove,2
+1569,8889,dileu hwnna,calendar_remove,2
+1570,5252,alla i fynd allan heb unrhyw ambarél,weather_query,9
+1571,12163,allwch chi archebu docyn drên i fy mam,transport_ticket,8
+1572,7962,fformat y calendr,calendar_remove,2
+1573,10046,sut mae coginio stêc canolig prin,cooking_recipe,3
+1574,11900,chwarae ffilm byddem yn hoffi,recommendation_movies,7
+1575,584,oes yna unrhyw siawns am law yr wythnos hon,weather_query,9
+1576,5144,dywed wrthyf pryd y bydd diwrnod glawog ar sail y rhagolygon tywydd,weather_query,9
+1577,4052,a yw'n gynnes y tu allan,weather_query,9
+1578,15902,ateb fy nghydweithwyr ynglŷn â'i ymholiad os gweli'n dda,email_sendemail,5
+1579,5302,sut fydd y tywydd ar mawrth yr ugeinfed dwy fil ac un deg saith,weather_query,9
+1580,13529,pa ffilm ddylen ni fynd i weld,recommendation_movies,7
+1581,5587,mae heddiw yn ddiwrnod eli haul,weather_query,9
+1582,1864,pa larymau sydd ymlaen nawr,alarm_query,0
+1583,15833,dos i ebost ac anfon neges i,email_sendemail,5
+1584,17126,ateb ebost paul,email_sendemail,5
+1585,9106,ailosod fy nghalendr yn ôl i diwrnod un,calendar_remove,2
+1586,1938,adroddiad tywydd yn bangor,weather_query,9
+1587,9047,cliria fy niwrnod ar y nawfed ar hugain,calendar_remove,2
+1588,9900,pigwch lan ble gadawon ni ar llyfr glas nebo,play_audiobook,6
+1589,12147,dw'i angen cyrraedd bryste ar nos wener fedri di archebu tocyn i mi,transport_ticket,8
+1590,9702,dwi eisiau clywed llyfr gan caradog pritchard,play_audiobook,6
+1591,7342,gwiriwch y digwyddiadau ar calendr a dileuwch y digwyddiad nesaf,calendar_remove,2
+1592,17165,gwna ebost i sandy,email_sendemail,5
+1593,15908,anfon ateb drwy ebost diolch yn fawr i john at gmail dot com,email_sendemail,5
+1594,16681,danfon e-bost i joy fethes i ti ddoe wyt ti eisiau mynd am ginio heno,email_sendemail,5
+1595,12200,archeba docyn trên i ogledd cymru heno,transport_ticket,8
+1596,16568,anfonwch ebost i'r intern newydd os gwelwch yn dda,email_sendemail,5
+1597,9801,agor enw lyrics,play_audiobook,6
+1598,9992,dywedwch wrthyf y rysáit i goginio cyri,cooking_recipe,3
+1599,791,dangos y tymheredd uchaf wythnos yma i mi,weather_query,9
+1600,16887,ateb y post hwn,email_sendemail,5
+1601,11637,dywed wrthai'r ffilm gyda adolygiadau gorau ar i. m. d. b. sydd yn y sinemâu gerllaw,recommendation_movies,7
+1602,9989,sut alla i ddysgu coginio,cooking_recipe,3
+1603,9990,dywedwch wrthaf ffyrdd i ddysgu coginio,cooking_recipe,3
+1604,5454,sbectol haul ddu neu beidio,weather_query,9
+1605,17129,agor ebost i berson newydd os gweli'n dda,email_sendemail,5
+1606,4314,ydi y tywydd yn gymylog heno,weather_query,9
+1607,3979,ydi hi yn boeth allan ar hyn o bryd dwi yn ninbych-y-pysgod,weather_query,9
+1608,9039,dileuwch priodas gorffennaf y trydydd,calendar_remove,2
+1609,825,dangos i mi y rhagolygon saith diwrnod ar gyfer fy nghartref,weather_query,9
+1610,3026,sut y bydd y tywydd yr wythnos nesaf yn abertawe,weather_query,9
+1611,3097,ydy hi'n bwrw glaw yn tywyn,weather_query,9
+1612,4790,beth yw'r tymheredd heddiw,weather_query,9
+1613,1691,beth yw'r tywydd heddiw,weather_query,9
+1614,5710,bydda'i angen eli haul p'nawn yma,weather_query,9
+1615,10205,cael y rysáit i mi ar gyfer reis,cooking_recipe,3
+1616,16980,anfonwch post i rywun,email_sendemail,5
+1617,6440,beth sy'n ffilm da i weld ar hyn o bryd,recommendation_movies,7
+1618,1391,fydd hi'n braf dydd sadwrn,weather_query,9
+1619,2328,beth fydd yr uchaf heddiw,weather_query,9
+1620,6126,oes angen i mi wisgo cot,weather_query,9
+1621,6830,rhyddhewch lan fy amserlen ar gyfer yr wythnos nesaf,calendar_remove,2
+1622,2871,pa larymau sydd wedi eu setio i mi,alarm_query,0
+1623,16128,anfon ebost i robin,email_sendemail,5
+1624,9906,chwarae y llyfr llafar hwn,play_audiobook,6
+1625,4905,fydd hi yn oer,weather_query,9
+1626,1865,y tymheredd yr awr yma,weather_query,9
+1627,11982,olly pa ffilmiau sy'n chwarae yn aberteifi,recommendation_movies,7
+1628,12148,dwi angen cyrraedd bryste nos gwener fedrwch chi archebu tocyn i fi os gwelwch yn dda,transport_ticket,8
+1629,9806,chwarae gân madonna o'r llyfr llafar i mi,play_audiobook,6
+1630,795,faint o'r gloch mae'r larwm wedi ei osod ar gyfer yfory,alarm_query,0
+1631,16433,danfon ebost at fy nheulu yn dweud y canlynol,email_sendemail,5
+1632,4592,pa larymau sydd ar y ffordd,alarm_query,0
+1633,11591,awgryma ffilm gyda matthew rhys,recommendation_movies,7
+1634,8871,dileuwch cyfarfod y pedwerydd ar hugain o fawrth o'r amserlen,calendar_remove,2
+1635,394,os yw hi'n ganol dydd yn virginia faint o'r gloch yw hi yn california,datetime_convert,4
+1636,9196,dilëwch y ddigwyddiad calendr yma,calendar_remove,2
+1637,1009,sut fydd y tywydd yr wythnos yma,weather_query,9
+1638,5665,oes angen i mi gario gwydrau haul y tu allan,weather_query,9
+1639,9877,hoffwn wrando ar fy llyfr llafar,play_audiobook,6
+1640,7696,dileu y cyfarfod sydd wedi ei drefnu am hanner dydd ar hydref y pedwerydd,calendar_remove,2
+1641,9719,cer yn ôl i animal farm,play_audiobook,6
+1642,1339,pa larymau sydd wedi eu gosod yn y bore,alarm_query,0
+1643,3482,beth yw tywydd heddiw yn llanrwst,weather_query,9
+1644,16547,hoffem ebostio mary a gofyn iddi os hoffa'i gwrdd ar ol gwaith dydd gwener,email_sendemail,5
+1645,15835,ateb fy ebost diweddaraf os gweli'n dda,email_sendemail,5
+1646,12309,rydw i eisiau archebu docyn drên,transport_ticket,8
+1647,5429,a fydd angen i mi wisgo côt heddiw yn y p'nawn,weather_query,9
+1648,4397,fedri di siarad yn dawelach os gweli di'n dda,audio_volume_down,1
+1649,9710,wnei di oedi ac ailweindio'r sain yna ailddechrau,play_audiobook,6
+1650,7996,dilëwch fy nigwyddiad calendr sydd ar ddod,calendar_remove,2
+1651,10112,sut ydych chi'n coginio byrger da,cooking_recipe,3
+1652,4139,a oes angen i mi wisgo côt drom heddiw,weather_query,9
+1653,9893,agor i botany bay,play_audiobook,6
+1654,4215,yr wyf angen y parth amser ar gyfer llundain ac nid ar gyfer y parth amser canolog,datetime_convert,4
+1655,1991,beth yw'r tywydd heddiw,weather_query,9
+1656,3379,rhagolygon heddiw,weather_query,9
+1657,12762,archebwch docyn drên i,transport_ticket,8
+1658,10028,canfod rysait sy'n defnyddio briwgig eidon a chorbwmpen,cooking_recipe,3
+1659,3707,sut fydd y tywydd ar y dyddiad,weather_query,9
+1660,17016,dwi eisiau ateb i'r ebost,email_sendemail,5
+1661,12271,fedri di archebu tocyn trên i abertawe yfory ar unrhyw drên,transport_ticket,8
+1662,10231,beth yw enghreifftiau o fwydydd sbeislyd,cooking_recipe,3
+1663,1521,gostwng yr uchder i ddeg,audio_volume_down,1
+1664,15996,ebostia y staff o'r grŵp dosbarthu ynglŷn â'r cyfarfod yfory,email_sendemail,5
+1665,16511,danfon ebost i chris yn dweud wyt ti eisiau mynd am swper heno,email_sendemail,5
+1666,9747,ailddechreuwch wythnos yng nghymru fydd,play_audiobook,6
+1667,568,faint mor oer yw hi,weather_query,9
+1668,9854,ailddechrau chwarae sain un nos olau leuad,play_audiobook,6
+1669,15831,dechrau e-bost newydd i,email_sendemail,5
+1670,1203,gwiria diweddariadau tywydd am abertawe yr wythnos yma,weather_query,9
+1671,5343,a fydd hi yn heulog dydd gwener,weather_query,9
+1672,7987,tynnu'r ddigwyddiad hwn o fy nghalendr,calendar_remove,2
+1673,16954,chwilia drwy fy nghysylltiadau,email_sendemail,5
+1674,6829,dileu cyfarfodydd i gyd ar gyfer yfory,calendar_remove,2
+1675,16258,ebostiwch fy ngwraig ynglŷn â thywydd wythnos nesaf,email_sendemail,5
+1676,1556,rhowch adroddiad tywydd yr wythnos hon i mi,weather_query,9
+1677,6903,dileu apwyntiad y deintydd yr wythnos nesaf,calendar_remove,2
+1678,15875,anfon ebost i ioan sef fy mod ar fy ffordd gartref,email_sendemail,5
+1679,824,iawn google beth yw'r tywydd lle rydw i heddiw,weather_query,9
+1680,3244,gadewch i mi wybod y tywydd ar gyfer heddiw,weather_query,9
+1681,2680,a yw'n mynd i gynhesu yn fuan,weather_query,9
+1682,4401,oes angen i mi gario ymbarél heddiw,weather_query,9
+1683,3770,rhestrwch larymau,alarm_query,0
+1684,16676,anfon ebost newydd i joejoe at gmail dot com,email_sendemail,5
+1685,7328,dileuwch holl ddigwyddiadau a chynnwys o fy nghalendr,calendar_remove,2
+1686,16180,anfon ebost at mike i ddweud wrtho fe byddwn ni'n cwrdd heddiw am saith yr hwyr am swper yn tŷ coffi,email_sendemail,5
+1687,8897,dileu fy holl apwyntiadau am heddiw,calendar_remove,2
+1688,17067,ateb yr ebost a dderbyniais oddi wrth peter,email_sendemail,5
+1689,15840,anfonwch e-bost at arwyn,email_sendemail,5
+1690,5482,olly torra'r uchder i lawr,audio_volume_down,1
+1691,8408,dileuwch fy nigwyddiad swper ar gyfer yfory,calendar_remove,2
+1692,16640,ebostiwch joe a dywedwch iddo frysio,email_sendemail,5
+1693,2557,sut dywydd ydi hi yn seattle,weather_query,9
+1694,16631,dwi angen ateb yr ebost hwn,email_sendemail,5
+1695,17154,ateba'r e-bost hwn plîs,email_sendemail,5
+1696,5663,oes angen siaced arnaf fin nos,weather_query,9
+1697,8109,dileu y digwyddiad nesaf yn fy nghalendr,calendar_remove,2
+1698,4961,angen cario ymbarel heno,weather_query,9
+1699,1390,olly sut dywydd fydd hi ddydd sadwrn,weather_query,9
+1700,15850,anfon ebost i sjobs at apple dot com,email_sendemail,5
+1701,4504,a ragwelir glawio yn y ddau ddiwrnod nesaf,weather_query,9
+1702,9723,dechrau seinlyfr eto,play_audiobook,6
+1703,1686,ai ie neu na y bydd dymheredd fory yn boeth,weather_query,9
+1704,2293,a yw'n debygol y byddai nglaw yn y rhagolygon heddiw,weather_query,9
+1705,9696,ailddechrau chwarae un nos olau leuad,play_audiobook,6
+1706,4927,rhagolygon tywydd yr wythnos hon,weather_query,9
+1707,11771,olly pa ffilmiau sy'n chwarae ar hyn o bryd,recommendation_movies,7
+1708,2614,ydy hi'n mynd i fwrw glaw ar fy mhenblwydd,weather_query,9
+1709,16782,a fedri anfon ebost i mam am y tywydd wythnosol,email_sendemail,5
+1710,10158,allwch chi ddweud wrthyf sut i goginio cwcis sglodion siocled,cooking_recipe,3
+1711,1388,olly bydd hi'n bwrw glaw dydd sadwrn,weather_query,9
+1712,11735,olly ydi yr amgueddfa yn ffilm da,recommendation_movies,7
+1713,9890,dechreuwch llyfr glas nebo eto,play_audiobook,6
+1714,6362,pa ffilm ddylem wylio,recommendation_movies,7
+1715,16307,creu ebost sydd angen mynd allan i fy nheulu,email_sendemail,5
+1716,12355,trefnwch docyn drên i mi os gwelwch yn dda,transport_ticket,8
+1717,16147,cyfansodda ebost i jack,email_sendemail,5
+1718,16086,anfon e-bost i george brown,email_sendemail,5
+1719,10203,pa gamau sydd angen i mi eu gwneud ar gyfer parmigiana berdys,cooking_recipe,3
+1720,9046,ar gyfer wythnos yr ugeinfed dileuwch pob digwyddiad tiwtora,calendar_remove,2
+1721,1534,sut y mae'r tywydd yn rhuddlan,weather_query,9
+1722,8979,dileuwch penblwydd rhian o digwyddiadau,calendar_remove,2
+1723,5843,alexa a ydwyf angen ambarel heddiw,weather_query,9
+1724,4390,tro lawr yr uchder,audio_volume_down,1
+1725,9679,ailgydia yn y seinlyfr wrandawais i arno ddiwethaf,play_audiobook,6
+1726,4328,beth yw'r rhagolwg pum niwrnod,weather_query,9
+1727,11727,amseroedd sioe am y theatr agosaf,recommendation_movies,7
+1728,16830,anfon ebost cadarnhau i sali,email_sendemail,5
+1729,10127,cael rysáit i mi ar gyfer cwcis,cooking_recipe,3
+1730,2123,sut dywydd yw hi yn new brighton,weather_query,9
+1731,16906,anfon ebost i'm teulu i ofyn sut y maent,email_sendemail,5
+1732,12198,archebwch docyn drên i newcastle i mi,transport_ticket,8
+1733,1603,gwiriwch os oes unrhyw larymau gyda fi wedi gosod ar gyfer bore fory,alarm_query,0
+1734,5124,ydi hi'n boeth neu'n oer tu allan,weather_query,9
+1735,8726,dileuwch pob digwyddiad,calendar_remove,2
+1736,16475,anfonwch yr ebost yna i james os gwelwch yn dda,email_sendemail,5
+1737,5338,tymheredd arferol,weather_query,9
+1738,12751,pryna docyn trên am un wythnos o nawr o abertawe i llundain lloegr,transport_ticket,8
+1739,4327,ydi hi yn rhy oer i fynd i nofio,weather_query,9
+1740,16172,anfon ebost i mam a dywed wrthi y gwelaf hi yn disney world,email_sendemail,5
+1741,2888,dweud tywydd presennol yn y rhyl,weather_query,9
+1742,6110,dwi'n mynd i angen ymbarél ar ôl iddi fachlud heddiw,weather_query,9
+1743,11811,beth sy'n chwarae yn odeon abertawe,recommendation_movies,7
+1744,6315,olly sut maer tywydd,weather_query,9
+1745,17164,anfon yr ebost yn ei flaen i siân,email_sendemail,5
+1746,3555,a fydd hi yn wyntog heno,weather_query,9
+1747,10094,sut i goginio crancod,cooking_recipe,3
+1748,4732,uchder i lawr,audio_volume_down,1
+1749,10126,faint o wyau ddylwn i eu rhoi yn fy nghymysgedd cacen,cooking_recipe,3
+1750,7237,tynna y noson lawen o'm amserlen ar ebrill yr ail,calendar_remove,2
+1751,14990,noda y tywydd yn ein dinas ni,weather_query,9
+1752,9818,ailddechrau y seinlyfr mwyaf newydd,play_audiobook,6
+1753,9724,ailddechrau chwaraewr seinlyfr,play_audiobook,6
+1754,15980,anfon ateb i sior,email_sendemail,5
+1755,3304,sut mae'r tywydd yr wythnos hon,weather_query,9
+1756,701,gwiria'r tywydd,weather_query,9
+1757,16345,dwi angen anfon ebost newydd dyma'r cyfeiriad ac yna ychwanegwch e i'r rhestr cysylltiad,email_sendemail,5
+1758,9858,fy newis i chwarae gwrthrych o'r diwethaf,play_audiobook,6
+1759,12847,fedri di archebu tocyn trên o abertawe i aberystwyth bore yfory,transport_ticket,8
+1760,15887,wnei di anfon ebost i'm gŵr os gweli'n dda,email_sendemail,5
+1761,5999,faint o oriau o wahaniaeth sydd yna rhwng caerdydd ac efrog newydd,datetime_convert,4
+1762,750,gostwng yr uchder i ddeg y cant,audio_volume_down,1
+1763,10113,sut ydych chi'n coginio olewydd cawl cymraeg da,cooking_recipe,3
+1764,9714,chwarae roc,play_audiobook,6
+1765,5039,ydi hi'n lawiog yn fy ardal,weather_query,9
+1766,12058,oes unrhyw ffilmiau da yn y theatrau ger llaw,recommendation_movies,7
+1767,4628,faint o'r gloch fydd hi'n bwrw glaw yfory,weather_query,9
+1768,4053,ydi hi yn heulog ar y funud,weather_query,9
+1769,9813,chwarae'r llyfr llafar llwch yn yr haul o'r gyntaf,play_audiobook,6
+1770,7019,cansla'r digwyddiad diwrnod valentine o'r calendr,calendar_remove,2
+1771,16497,anfonwch gais i martin,email_sendemail,5
+1772,4557,tywydd dunvant abertawe,weather_query,9
+1773,10165,pa mor hir ydw i'n berwi wy wedi'i ferwi'n galed,cooking_recipe,3
+1774,12517,allwch chi gadw tocyn drên ar gyfer y diwrnod hwn,transport_ticket,8
+1775,16054,anfon bost i john i ofyn am arian,email_sendemail,5
+1776,10161,gyda beth mae gwin reis yn mynd,cooking_recipe,3
+1777,1857,lawr,audio_volume_down,1
+1778,15907,anfonwch fe wnaf i diolch i john fel ateb i'w neges ddiwethaf,email_sendemail,5
+1779,8231,dileu apwyntiad am amser,calendar_remove,2
+1780,8739,dileu digwyddiadau,calendar_remove,2
+1781,9094,dileu cyfarfod wedi'i drefnu gyda john ar yr unfed ar hugain o fis mawrth,calendar_remove,2
+1782,8546,cliria fy nghalendr yn llwyr,calendar_remove,2
+1783,9894,ailddechrau chwarae hunangofiant rhys jones,play_audiobook,6
+1784,10230,faint o amser wnaiff hi gymryd i goginio fy mhryd,cooking_recipe,3
+1785,8471,cael gwared ar holl ddigwyddiadau y fis diwethaf o'r calendr,calendar_remove,2
+1786,1844,ydi hi am rewi dros nos,weather_query,9
+1787,12790,archebu tocyn drên i abertawe,transport_ticket,8
+1788,15854,anfon ymlaen y cyfeiriad ebost i fy ebost newydd olly,email_sendemail,5
+1789,5863,beth fydd y tymheredd cyfartalog yn y rhyl yr wythnos hon,weather_query,9
+1790,5616,gosodwch y rhanbarth amser i g. m. t.,datetime_convert,4
+1791,10044,sut mae gwneud caserol tiwna o'r dechrau,cooking_recipe,3
+1792,1843,fydd hi yn mynd yn gynhesach yma yr wythnos nesaf,weather_query,9
+1793,9016,cliria yr holl ddigwyddiadau calendr,calendar_remove,2
+1794,16116,rhwng deg o'r gloch y nos a naw o'r gloch y bore mae pob ebost a dderbynnir i'w hateb,email_sendemail,5
+1795,2266,sut y mae'r tywydd yn llannerch y medd môn ar hyn o bryd,weather_query,9
+1796,15981,ateb yr ebost oddi wrth sally,email_sendemail,5
+1797,16831,anfon ebost gwahoddiad i mari,email_sendemail,5
+1798,1767,troswch dwy fil tri chant a thri deg o g. m. t. plws pedwar cant tri deg i g. m. t. dau gant,datetime_convert,4
+1799,5452,a ydw i angen mynd ag ambarel heddiw,weather_query,9
+1800,16964,ysgrifenna ebost i aelod teulu a darllen ef yn ei ôl i mi,email_sendemail,5
+1801,5932,newidwch i amser los angeles,datetime_convert,4
+1802,3548,pryd fydd hi'n bwrw eira nesaf,weather_query,9
+1803,10034,sut i wneud byrgyr,cooking_recipe,3
+1804,6854,dileu'r nigwyddiad nesaf yn y calendr,calendar_remove,2
+1805,12216,archebu docyn awyren i,transport_ticket,8
+1806,10006,sut i goginio reis,cooking_recipe,3
+1807,9975,beth yw olewydd amnewid wyau fegan da,cooking_recipe,3
+1808,16177,ateb yr ebost,email_sendemail,5
+1809,1947,uchder is,audio_volume_down,1
+1810,15926,anfon ebost i rae gan ddweud wrthi fod fy ffôn yn gweithio unwaith eto,email_sendemail,5
+1811,8970,cliria holl amserlen y cyngerdd,calendar_remove,2
+1812,7911,tynnu cinio gyda mike o fy nghalendr,calendar_remove,2
+1813,4593,dywedwch wrtha i am larymau sydd ar ddod,alarm_query,0
+1814,9752,ailddechreuwch lord of the rings,play_audiobook,6
+1815,2422,sut mae'r tywydd yn llanelli ar hyn o bryd,weather_query,9
+1816,606,beth yw rhagolygon y tywydd dros y penwythnos,weather_query,9
+1817,16567,ebostiwch dad ynglŷn â trwsio fy nghar,email_sendemail,5
+1818,777,rhybuddiwch fi pan fydd y dymheredd y tu allan yn cyrraedd chwe deg wyth gradd,weather_query,9
+1819,2331,beth yw'r tywydd ar hyn o bryd,weather_query,9
+1820,7115,dileu fy nhaliad car ar y pymthegfed o fy nghalendr,calendar_remove,2
+1821,9722,ailddechrau harry potter llyfr un,play_audiobook,6
+1822,8477,allwch chi ddileu y digwyddiad hwn,calendar_remove,2
+1823,7173,dileu,calendar_remove,2
+1824,5459,bydda'i angen siwmper ar ol gwaith,weather_query,9
+1825,12801,archebu tocyn drên i caerdydd,transport_ticket,8
+1826,3027,rhagfynegiadau cronni eira yn yr wyddfa,weather_query,9
+1827,1642,na na tro fe lawr,audio_volume_down,1
+1828,6459,sut mae'r tywydd tu allan ydi hi'n gymylog,weather_query,9
+1829,9987,rhewi,cooking_recipe,3
+1830,7133,bellach ni fyddaf yn mynychu y briodas ar y degfed felly dileu hyn oddi ar fy nghalendr,calendar_remove,2
+1831,11672,amseroedd ffilmiau heno,recommendation_movies,7
+1832,7148,dileu y cyfarfod bwrdd a'i ail-amserlennu ar gyfer dydd mercher nesaf,calendar_remove,2
+1833,830,mae'n rhy boeth tu allan beth fydd y tymheredd y prynhawn yma,weather_query,9
+1834,11873,wyt ti'n argymell unrhyw ffilmiau sy'n chwarae yn fy ardal ar hyn o bryd,recommendation_movies,7
+1835,9928,dywedwch wrthyf sut cogyddiwch phasta,cooking_recipe,3
+1836,8275,cliriwch penblwydd jeff o'r calendr os gwelwch yn dda,calendar_remove,2
+1837,9823,chwarae fferm a ffair a phentre o ble adais i ef,play_audiobook,6
+1838,3878,sut mae'r tywydd yn harlech ar hyn o bryd,weather_query,9
+1839,4382,sut fydd y tywydd yr wythnos nesaf yn llangefni môn,weather_query,9
+1840,10201,beth yw'r camau ar gyfer pryd biryani,cooking_recipe,3
+1841,7091,dileu digwyddiadau calendr,calendar_remove,2
+1842,2247,fydd hi yn dal yn lawog ac oer dydd mercher,weather_query,9
+1843,1779,ydi hi yn oer yno,weather_query,9
+1844,10190,dod o hyd i rysáit tikka cyw iâr,cooking_recipe,3
+1845,3106,sut mae'r tywydd heddiw,weather_query,9
+1846,12331,archeba tocyn trên i efrog newydd ar y trydydd does dim ots pwy amser,transport_ticket,8
+1847,8295,dileuwch unrhyw a phob digwyddiad,calendar_remove,2
+1848,15953,olly anfon ebost i sion i ofyn pa bryd y bydd yn gorffen gwaith,email_sendemail,5
+1849,5724,sut bydd y tywydd gyda'r nos heddiw,weather_query,9
+1850,11590,awgryma ffilm gafodd ei rhyddhau dydd gwener diwethaf,recommendation_movies,7
+1851,12139,archebu trên i mi,transport_ticket,8
+1852,15954,olly ebostia jennifer efo'r amserlen newydd ar gyfer y cyfarfod yfory,email_sendemail,5
+1853,13401,sut y bydd y tywydd tri diwrnod o nawr mewn pum dinas fawr yn agos ataf fi,weather_query,9
+1854,12897,dwi angen tocyn dosbarth aur ar drên rhif pump gan ddefnyddio fy ngherdyn credyd,transport_ticket,8
+1855,10030,mae angen rysáit chorizo arnaf sy'n rhagddyddio mil naw cant saith deg,cooking_recipe,3
+1856,7611,canslo pob gyfarfod ar gyfer heddiw,calendar_remove,2
+1857,2341,dwi angen gwybod y tywydd presennol yn ninas caerdydd,weather_query,9
+1858,9671,dechrau chwarae lleuad yn olau ble orffenais i ddiwethaf,play_audiobook,6
+1859,16565,ebostia mam ynglun a cinio,email_sendemail,5
+1860,9038,dileu cyfarfod yn bala,calendar_remove,2
+1861,9682,chwarae harry potter i fi o'r lle wnes i stopio ddiwethaf olly,play_audiobook,6
+1862,8277,tynnwch yr holl gyfarfodydd terawat a drefnwyd o'r calendr os gwelwch yn dda,calendar_remove,2
+1863,10012,chwiliwch am eich hoff bryd o fwyd,cooking_recipe,3
+1864,7158,tynnwch yr holl gofnodion sydd wedi'u marcio yn y calendr,calendar_remove,2
+1865,7621,dileu fy holl ddigwyddiadau calendr,calendar_remove,2
+1866,9667,parha i chwarae aros mae gan gwynfor evans,play_audiobook,6
+1867,9770,chwarae hawl i fyw ar ôl tri deg munud,play_audiobook,6
+1868,3044,am faint o'r gloch mae'r larwm wedi ei osod,alarm_query,0
+1869,8099,helo google dileu y cynllun swper ar ddydd iau,calendar_remove,2
+1870,5451,ydi hi yn heulog y tu allan,weather_query,9
+1871,11855,awgrymwch ffilm,recommendation_movies,7
+1872,16538,wnewch chi ateb yr ebost a hoffwn gyfansoddi un newydd,email_sendemail,5
+1873,9701,dw'i eisiau clywed y llyfr ysgrifennwyd gan fam y saethwr yn columbine,play_audiobook,6
+1874,5143,beth fydd y tywydd yn abertawe yn yr wythnos i ddod,weather_query,9
+1875,2872,oes larymau gyda fi wedi gosod,alarm_query,0
+1876,4204,a fydd heira yr wythnos hon,weather_query,9
+1877,12069,olly pa ffilmiau sy'n chwarae yn sinemau odeon,recommendation_movies,7
+1878,17085,gadewch i ni ateb yr e-bost hwn,email_sendemail,5
+1879,1543,dweud wrtha'i os oes eira yn ynd i fod penwythnos yma,weather_query,9
+1880,10056,sut ydych chi'n gwneud basta,cooking_recipe,3
+1881,3927,faint o eira a ddisgynnodd yn llanberis ers ddoe,weather_query,9
+1882,9911,pa mor hir ddylwn i ferwi'r wyau,cooking_recipe,3
+1883,6086,beth yw y tywydd yn y côd pôst l. l. pump tri pump b. n.,weather_query,9
+1884,9101,dileuwch yr apwyntiad meddygol yn fy nghalendr ar gyfer chwefror y deuddegfed am naw y bore os gwelwch yn dda,calendar_remove,2
+1885,5585,oes angen eli haul arnaf ar gyfer heddiw,weather_query,9
+1886,740,pa mor llaith yw'r amgylchedd heddiw,weather_query,9
+1887,4744,rhestrwch fy holl larymau sydd ar ddod,alarm_query,0
+1888,1689,beth yw rhagolygon y tywydd ar gyfer yr wythnos hon,weather_query,9
+1889,8830,dileu holl ddata o calendr,calendar_remove,2
+1890,9820,chwarae milionêrs ar audible,play_audiobook,6
+1891,16310,ymateb os gweli'n dda,email_sendemail,5
+1892,5995,ydw i angen gwisgo fy siwmper heddiw,weather_query,9
+1893,10163,beth sy'n ffordd dda o wneud peli cig twrci,cooking_recipe,3
+1894,7649,cliria'r digwyddiadau i gyd o fy nghalendr,calendar_remove,2
+1895,6171,a fyddaf angen siaced,weather_query,9
+1896,12894,helpwch fi i archebu docyn drên,transport_ticket,8
+1897,10018,sut ydych chi'n rhostio cig oen,cooking_recipe,3
+1898,5351,sut y mae'r diwrnod o hyn ymlaen,weather_query,9
+1899,15898,ebostia blwyddyn newydd dda i john,email_sendemail,5
+1900,16060,ateb yr ebost o'm banc a dywed wrthynt fy mod wedi talu dyledion y cerdyn credyd,email_sendemail,5
+1901,8433,dileu fy nigwyddiad gyfarfod ar gyfer mawrth pedwar ar bymtheg am un p. m.,calendar_remove,2
+1902,11919,fedri di ddweud wrtha'i pa ffilm sydd gyda'r adolygiadau gorau,recommendation_movies,7
+1903,10200,pa gynhwysion sydd eu hangen ar gyfer gwneud rarebit cymraeg,cooking_recipe,3
+1904,5720,dangos tywydd yfory yn yr ardal hon,weather_query,9
+1905,5505,pa larymau sydd wedi eu gosod yn y tŷ,alarm_query,0
+1906,700,sut mae gwybodaeth am y tywydd,weather_query,9
+1907,10225,dylai sbeisys,cooking_recipe,3
+1908,5736,dangoswch pa amserau larwm ydw i wedi gosod ar gyfer yr wythnos,alarm_query,0
+1909,12612,mynnwch docyn drên o llandudno i fae colwyn,transport_ticket,8
+1910,7759,dileuwch y digwyddiad yna o fy nghalendr os gwelwch yn dda,calendar_remove,2
+1911,12332,archebwch docyn trên i gaerdydd i mi ar y trydydd does dim ots gen i faint o'r gloch,transport_ticket,8
+1912,398,a fydd hi'n gynnes fory,weather_query,9
+1913,8638,nid oes angen i mi weld y meddyg mwyach a ellir dileu'r digwyddiad hwnnw,calendar_remove,2
+1914,1555,sut mae'r tywydd yn mynd i fod wythnos yma,weather_query,9
+1915,5510,beth yw'r gwahaniaeth amser rhwng fan hyn a fan yna,datetime_convert,4
+1916,3815,de ydi hi am fod yn boeth yfory,weather_query,9
+1917,10024,dewch o hyd i mi'r rysáit ar gyfer stroganoff cig eidion,cooking_recipe,3
+1918,9915,dywedwch wrthyf sut i goginio stecen,cooking_recipe,3
+1919,16632,wnewch chi anfon ebost i'r cyfeiriad ebost newydd yma,email_sendemail,5
+1920,7077,dileu y digwyddiad nesaf ar fy nghalendr,calendar_remove,2
+1921,9685,parha i ddarllen,play_audiobook,6
+1922,12356,dwi angen tocyn trên,transport_ticket,8
+1923,1105,beth yw rhagolygon y tywydd am y bala,weather_query,9
+1924,1504,mae'n wyth o'r gloch y nos yn ffrainc faint o'r gloch yw hi yn efrog newydd,datetime_convert,4
+1925,5844,ddylem wisgo eli haul heddiw,weather_query,9
+1926,10199,sut allwn ni baratoi biryani,cooking_recipe,3
+1927,5430,a fydd hi'n digon oer i wisgo menig cau heno,weather_query,9
+1928,8832,dileu yr holl data o'r calendr,calendar_remove,2
+1929,9864,parhau i chwarae llyfr maes y mes,play_audiobook,6
+1930,9898,darllenwch y llyfr llafar dyddiadur dyn priod,play_audiobook,6
+1931,1781,fedra'i wybod y tywydd fan yna,weather_query,9
+1932,204,oes unrhyw larymau gyda fi,alarm_query,0
+1933,7354,allwch chi adael i mi wybod y tywydd sir ddinbych fory,weather_query,9
+1934,7391,fydda i ddim yn ymuno gyda mam ar gyfer cinio yfory,calendar_remove,2
+1935,395,beth yw'r gwahaniaeth amser rhwng amser dwyreiniol ac amser pasiffig,datetime_convert,4
+1936,1536,beth yw'r amser nawr yn siapan o gymharu â unol daleithiau america,datetime_convert,4
+1937,12613,mae angen i mi archebu tocyn drên o pwllheli i harlech,transport_ticket,8
+1938,3131,faint mor oer yw hi tu allan,weather_query,9
+1939,1842,ydi'r haul am dywynnu yn pen llŷn penwythnos yma,weather_query,9
+1940,17027,gadewch i ni e-bostio sandy,email_sendemail,5
+1941,2327,pa dymheredd ydyw,weather_query,9
+1942,9866,chwarae y rhaglen o ble y gadewais i fo ddoe,play_audiobook,6
+1943,1514,ydi hi fod bwrw glaw heno,weather_query,9
+1944,4133,dywed wrthyf sawl modfedd o eira gafodd dinas caerdydd heddiw,weather_query,9
+1945,4167,cwympa'r uchder i hanner,audio_volume_down,1
+1946,9769,ailddechreuwch y stori,play_audiobook,6
+1947,3616,dydy'n ni ddim yn disgwyl glaw nos yfory,weather_query,9
+1948,9048,cansla ymrwymiadau meddygol y penwythnos hwn,calendar_remove,2
+1949,3012,dweud y tywydd wrthaf os gweli di'n dda,weather_query,9
+1950,5447,ydw i am nofio neu weithio heddiw,weather_query,9
+1951,12105,gwyllt a'r cyflym,recommendation_movies,7
+1952,1729,dywed wrthyf os bydd haul heb gymylau dydd gwener yr wythnos hon os gweli'n dda,weather_query,9
+1953,9744,ailddechrau y sain,play_audiobook,6
+1954,10075,pryd mae asbaragws yn ei dymor,cooking_recipe,3
+1955,4450,pa bryd y bydd fy larwm yn fy neffro,alarm_query,0
+1956,2956,faint o'r gloch mae fy larymau,alarm_query,0
+1957,16209,anfon ebost i nancy am fanylion parti gwaith yfory,email_sendemail,5
+1958,3032,olly beth yw'r tywydd ar hyn o bryd,weather_query,9
+1959,16033,danfon ebost i alex yn gofyn am y taliad dyledus,email_sendemail,5
+1960,16687,anfon ebost cyfeiriad newydd,email_sendemail,5
+1961,9699,dechrau y seinlyfr fferm a ffair a phentre o le adais i ef,play_audiobook,6
+1962,5670,canfod rhagolwg cyflymder y gwynt am heno,weather_query,9
+1963,6872,fedri di ddileu y digwyddiad cyfredol,calendar_remove,2
+1964,6316,sut mae'r tywydd,weather_query,9
+1965,97,ydi hi'n mynd i fwrw glaw,weather_query,9
+1966,3935,ydi hi yn oer allan,weather_query,9
+1967,9672,ailddechrau chwarae duw cariad yw,play_audiobook,6
+1968,16644,paratoa i anfon neges ateb allan,email_sendemail,5
+1969,11955,poa ffilmiau sy'n chwarae yn agos ataf,recommendation_movies,7
+1970,12749,allwch chi brynu tocyn drên i mi os gwelwch yn dda,transport_ticket,8
+1971,5978,troswch amser dwyreiniol i amser gorllewinol,datetime_convert,4
+1972,4106,beth fydd yr uchaf yn abertawe yfory,weather_query,9
+1973,3310,beth yw'r tywydd yn ardudwy,weather_query,9
+1974,16871,anfon ebost i rhiannon,email_sendemail,5
+1975,4765,ydi hi'n mynd fwrw glaw ar ddydd gwener,weather_query,9
+1976,9758,hoffwn ddechrau'r llyfr llafar newydd yma,play_audiobook,6
+1977,7283,dileu fy apwyntiad hanner awr wedi un,calendar_remove,2
+1978,15860,anfon ebost i mam i ofyn am y tywydd,email_sendemail,5
+1979,4099,dim ond i gadarhau wnaethoch chi osod y larwm i fynd bant am wyth o'r gloch y bore,alarm_query,0
+1980,1918,beth yw'r tywydd am y saith diwrnod nesaf,weather_query,9
+1981,8529,rho y tywydd ar gyfer machynlleth am dri y p'nawn i mi,weather_query,9
+1982,11918,pa ffilmiau sy'n chwarae yr wythnos hon,recommendation_movies,7
+1983,16517,dw'i eisiau ymateb,email_sendemail,5
+1984,10071,pa mor hir ydych chi'n coginio cyw iâr cyfan ar dri chant a hanner,cooking_recipe,3
+1985,7983,dileu yr holl ddigwyddiadau a thasgau am heddiw,calendar_remove,2
+1986,16044,anfonwch ebost i samantha ynglŷn â amserlen ymarfer corff,email_sendemail,5
+1987,10102,dangos i mi sut i goginio lasagna,cooking_recipe,3
+1988,6735,cansla pob digwyddiad yn y deuddydd nesaf,calendar_remove,2
+1989,9916,beth sydd ei angen i wneud pizza,cooking_recipe,3
+1990,3806,tywydd am yfori,weather_query,9
+1991,2063,dywed wrthyf beth fydd tywydd yr wythnos hon,weather_query,9
+1992,3737,cwympa'r uchder ar y seinyddion,audio_volume_down,1
+1993,7235,canslwch fy apwyntiad torri gwallt nesaf os gwelwch yn dda,calendar_remove,2
+1994,3961,dangoswch ragolwg i mi,weather_query,9
+1995,10029,pa tymheredd ydych chi'n pobi tatws,cooking_recipe,3
+1996,16688,llunia ebost i gyfeiriad newydd,email_sendemail,5
+1997,3648,sut mae'r tywydd yn tywyn,weather_query,9
+1998,16133,anfon ebost i mam a dywed y byddaf yn mynd i'r parti,email_sendemail,5
+1999,1936,ydy hi'n bwrw glaw yn bangor,weather_query,9
+2000,4423,beth yw'r tywydd wythnos yma,weather_query,9
+2001,8476,dileuwch y digwyddiad hwn os gwelwch yn dda,calendar_remove,2
+2002,9800,agor enw'r gân,play_audiobook,6
+2003,5589,canfod adroddiad tywydd,weather_query,9
+2004,5617,newidwch y rhanbarth amser o rhanbarth amser gwyddelig i rhanbarh amser brydeinig,datetime_convert,4
+2005,4213,newidwch safon mynydd i pasiffig,datetime_convert,4
+2006,6152,dewch o hyd i ragolygon heddiw,weather_query,9
+2007,5188,sut mae'r tywydd yn dinas caerdydd,weather_query,9
+2008,2256,oes angen cot glaw arna'i heddiw,weather_query,9
+2009,952,ydy'r tywydd yn ddrwg yn caerdydd ar hyn o bryd,weather_query,9
+2010,12832,archebwch docyn drên i mi ar gyfer y prynhawn yma i swindon,transport_ticket,8
+2011,10079,beth yw rysáit hawdd i'w goginio ar gyfer bwyd,cooking_recipe,3
+2012,9147,dwi eisiau diddymu'r brecwast priodas ar ddydd sadwrn,calendar_remove,2
+2013,5890,rhestrwch yr holl larymau sydd wedi eu gosod,alarm_query,0
+2014,16408,alexa ysgrifenna ebost,email_sendemail,5
+2015,12752,prynwch docyn trên o abertawe morgannwg i gaerdydd morgannwg sy'n gadael ar y cyntaf o ebrill,transport_ticket,8
+2016,300,beth yw'r rhagolygon am heddiw,weather_query,9
+2017,2339,beth ydi y tywydd yn ninas caerdydd ar hyn o bryd,weather_query,9
+2018,9983,olly sut mae dechrau gwneud bisque cimwch,cooking_recipe,3
+2019,4051,ydi hi yn bwrw eira ar hyn o bryd,weather_query,9
+2020,10103,ewch â fi at fideo o sut i goginio sbageti,cooking_recipe,3
+2021,12642,dw'i angen gadael ar y trên pump yr hwyr i abertawe,transport_ticket,8
+2022,1841,ddylwn i fynd ag ymbarél i'r gwaith heddiw,weather_query,9
+2023,10131,am faint ddylwn i goginio cyw iâr,cooking_recipe,3
+2024,10074,pa mor hir ydych chi'n coginio wy yn hawdd,cooking_recipe,3
+2025,4926,rhagolygon tywydd yr wythnos hon,weather_query,9
+2026,7178,anfon neges-lais i swyddfa mistar richard ynglŷn â'r cyfarfod gydag ef ar y cyntaf o chwefror dwy fil ac un deg saith am bump yr hwyr,email_sendemail,5

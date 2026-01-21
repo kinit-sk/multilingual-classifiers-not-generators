@@ -1,0 +1,2065 @@
+,Unnamed: 0,text,intent,label
+0,0.0,Kateri alarm se bo obšel ob koncu meseca?,alarm_query,0
+1,1.0,Kako dolgo še ostaja do mojega prvenga alarma?,alarm_query,0
+2,2.0,Kateri alarmi so nastavljeni na ponavljajoče se obdobje?,alarm_query,0
+3,3.0,Kolikokrat sem že spreminjal svoje alarme?,alarm_query,0
+4,4.0,Kolkovna razlika med dvema mojima alarmoma?,alarm_query,0
+5,5.0,"Ali imaš kakšen alarm, ki se bo obšel jutri ob 7 uri?",alarm_query,0
+6,6.0,Katera uro imam največ alarmov?,alarm_query,0
+7,7.0,"Povej mi, kdaj bo moj naslednji alarm?",alarm_query,0
+8,8.0,Kdo lahko vidi moje alarme?,alarm_query,0
+9,9.0,Kateri alarm se bo obšel čez eno uro?,alarm_query,0
+10,10.0,Pokaži mi seznam vseh mojih alarmov po kategorijah.,alarm_query,0
+11,11.0,Imate kakšen alarm nastavljen za petek?,alarm_query,0
+12,12.0,Imam kakšen alarm nastavljen za jutro?,alarm_query,0
+13,13.0,Katero uro je moj drugi alarm nastavljen za danes?,alarm_query,0
+14,14.0,Katera aplikacija upravlja moje alarme?,alarm_query,0
+15,15.0,Kateri alarmi so nastavljeni za zgodnjo jutranjo?,alarm_query,0
+16,16.0,Kateri alarmi so nastavljeni za ta mesec?,alarm_query,0
+17,17.0,Kateri alarmi so trenutno aktivi?,alarm_query,0
+18,18.0,Ali imaš kakšen alarm nastavljen za danes?,alarm_query,0
+19,19.0,"Pokaži mi vse moje alarme, ki se bodo obšle jutri.",alarm_query,0
+20,20.0,Kateri dan imam največ alarmov?,alarm_query,0
+21,21.0,Kdo lahko spreminja moje alarme?,alarm_query,0
+22,22.0,Imamo kakšen alarm nastavljen za soboto?,alarm_query,0
+23,23.0,Ali imam kakšen alarm nastavljen za soboto?,alarm_query,0
+24,24.0,Kolikokrat sem že uporabil alarme?,alarm_query,0
+25,25.0,Kateri alarm se bo obšel čeprav sem že waken up?,alarm_query,0
+26,26.0,Kateri alarm se bo obšel ob koncu tedna?,alarm_query,0
+27,27.0,Pokaži mi seznam vseh mojih aktivnih alarmov.,alarm_query,0
+28,28.0,Katero leto sem zadnjič spremenil svoj alarm?,alarm_query,0
+29,29.0,Imamo kakšen alarm nastavljen za jutro?,alarm_query,0
+30,30.0,Kateri alarmi so nastavljeni za jutri?,alarm_query,0
+31,31.0,Kateri alarmi so nastavljeni za zvečer?,alarm_query,0
+32,32.0,Kateri alarm se bo obšel čeprav nisem doma?,alarm_query,0
+33,33.0,Kolkovna je razlika med mojimi dvema najbližjima alarmoma?,alarm_query,0
+34,34.0,"Pokaži mi ure, ko se bo obudilo mojo budilko.",alarm_query,0
+35,35.0,Ali imam kakšen alarm nastavljen za sredo?,alarm_query,0
+36,36.0,Kateri alarmi so nastavljeni za večer?,alarm_query,0
+37,37.0,Ali lahko vidim svoje alarme na grafikonu?,alarm_query,0
+38,38.0,Katere alarme imam za naslednji teden?,alarm_query,0
+39,39.0,Kako dolgo bom imel alarm za soboto?,alarm_query,0
+40,40.0,Katero leto je bil moj prvi alarm?,alarm_query,0
+41,41.0,Imam kakšen alarm nastavljen za naslednjo soboto?,alarm_query,0
+42,42.0,Kateri alarm se bo obšel takoj ko pride čas?,alarm_query,0
+43,43.0,"Pokaži mi ure, ko se bodo obudili moji alarmi.",alarm_query,0
+44,44.0,Koliko alarmov imam že nastavilo?,alarm_query,0
+45,45.0,Katero uro je moj prvi alarm nastavljen za danes?,alarm_query,0
+46,46.0,Katera ura je moj najzgodnejši alarm?,alarm_query,0
+47,47.0,Kateri alarmi so nastavljeni za naslednji mesec?,alarm_query,0
+48,48.0,Kateri alarmi so nastavljeni za delavnik?,alarm_query,0
+49,49.0,Katera ura je moj trenutni alarm nastavljen?,alarm_query,0
+50,50.0,Pokaži mi seznam vseh mojih alarmov s prihodnjim datumom.,alarm_query,0
+51,51.0,Kateri alarmi so nastavljeni za danes?,alarm_query,0
+52,52.0,"Pokaži mi čas, ko se bo zbudil moj prvi alarm.",alarm_query,0
+53,53.0,"Imamo kakega alarma, ki še ni bil izvajan?",alarm_query,0
+54,54.0,Kteremu času se bo obšel moj naslednji alarm?,alarm_query,0
+55,55.0,"Pokaži mi vse moje alarme, ki se bodo obudili danes.",alarm_query,0
+56,56.0,Lahko vidim svoje alarme na kalendarju?,alarm_query,0
+57,57.0,"Imam kakšen alarm, ki se ne bo več ponavljajoč?",alarm_query,0
+58,58.0,Koliko minut pred alarmom dobim opozorilo?,alarm_query,0
+59,59.0,Koliko alarmov imam nastavljeno za ta mesec?,alarm_query,0
+60,60.0,"Pokaži mi vse moje alarme, ki se bodo obudile jutri.",alarm_query,0
+61,61.0,Katera ura je moj najbližji alarm?,alarm_query,0
+62,62.0,Kateri alarmi so nastavljeni za delovnik?,alarm_query,0
+63,63.0,Prikazi mi seznam vseh mojih aktivnih alarmov.,alarm_query,0
+64,64.0,Katere alarme imam nastavljene za naslednji teden?,alarm_query,0
+65,65.0,Ali lahko spreminjam več kot en alarm hkrati?,alarm_query,0
+66,66.0,Koliko kratkih alarmov imam nastavljeno?,alarm_query,0
+67,67.0,Kako lahko izbrisem vse svoje alarme?,alarm_query,0
+68,68.0,Kako izbrisati vse moje alarme?,alarm_query,0
+69,69.0,Koliko časa še ostaja do mojega drugega alarma?,alarm_query,0
+70,70.0,Kateri alarmi so nastavljeni za naslednjo nedeljo?,alarm_query,0
+71,71.0,Katero uro je moj zadnji alarm nastavljen?,alarm_query,0
+72,72.0,Imam en ali več alarmov nastavljenih za soboto?,alarm_query,0
+73,73.0,Kolikokrat sem že uporabil alarm v tej tednu?,alarm_query,0
+74,74.0,Koliko alarmov imam nastavljenih za ta tedenski konec?,alarm_query,0
+75,75.0,Ali bom imel kakšen alarm za naslednjo nedeljo?,alarm_query,0
+76,76.0,Prikaži mi seznam vseh mojih alarmov.,alarm_query,0
+77,77.0,Imamo kakšen skupinski alarm nastavljen za jutri?,alarm_query,0
+78,78.0,Koliko alarmov imam nastavljeno za jutri?,alarm_query,0
+79,79.0,Ali lahko vidim vse svoje alarme na enem mestu?,alarm_query,0
+80,80.0,Kdo ima nastavljene alarme za danes?,alarm_query,0
+81,81.0,Ali imam kakšen alarm nastavljen za petek?,alarm_query,0
+82,82.0,"Katera je zadnja budilka, ki jo imam nastavljeno?",alarm_query,0
+83,83.0,Kdo je nastavil mojo zadnjo budilko?,alarm_query,0
+84,84.0,Kdaj je bil moj prvotni alarm nastavljen?,alarm_query,0
+85,85.0,Koliko puta se bo ponavaljal moj alarm?,alarm_query,0
+86,86.0,Kteri alarmi so nastavljeni za dopoldan?,alarm_query,0
+87,87.0,Kako dolgo še imaš aktivnih alarmov?,alarm_query,0
+88,88.0,Pokaži mi seznam vseh mojih aktivnih in neaktivnih alarmov.,alarm_query,0
+89,89.0,Ali imam kakšen alarm nastavljen za nedeljo?,alarm_query,0
+90,90.0,Katera ura je moj prvi alarm nastavljen?,alarm_query,0
+91,91.0,Kolkovna je razlika med dvema alarmoma?,alarm_query,0
+92,92.0,"Katera je najbližja budilka, ki jo imam nastavljeno?",alarm_query,0
+93,93.0,Koliko dni prej moram postaviti alarm?,alarm_query,0
+94,94.0,Pokaži mi seznam vseh mojih neaktivnih alarmov.,alarm_query,0
+95,95.0,Kateri alarmi so nastavljeni za danas?,alarm_query,0
+96,96.0,Kateri alarmi so bili nastavljeni pred enim letom?,alarm_query,0
+97,97.0,Ali imajo vsi člani družine nastavljene alarme za danes?,alarm_query,0
+98,98.0,Kdaj bom imel naslednji alarm?,alarm_query,0
+99,99.0,Kateri dan imam najmanj alarmov?,alarm_query,0
+100,100.0,"Prosim, utišaj glasnost, ker se ne morem koncentrirati.",audio_volume_down,1
+101,101.0,Znižaj jo še malo.,audio_volume_down,1
+102,102.0,"Zmanjšajmo glasnost, da lahko razgovarjamo.",audio_volume_down,1
+103,103.0,"Prosimo vas, znižajte glasnost.",audio_volume_down,1
+104,104.0,"Glede na mojo željo, utiši glasnost!",audio_volume_down,1
+105,105.0,"Znižaj glasnost, če lahko.",audio_volume_down,1
+106,106.0,"Pomagal bi mi, če bi utišal ta zvok.",audio_volume_down,1
+107,107.0,Ni mi všeč tako gromko.,audio_volume_down,1
+108,108.0,"Preglasno je, utišaj!",audio_volume_down,1
+109,109.0,Ne morem več spremljati tega glasnega zvoka.,audio_volume_down,1
+110,110.0,Kako lahko utišam ta zvok?,audio_volume_down,1
+111,111.0,Lahko to utišamo zdaj.,audio_volume_down,1
+112,112.0,Lahko to utišajo s tem gumbom.,audio_volume_down,1
+113,113.0,"To je preglasno, utišaj zdaj!",audio_volume_down,1
+114,114.0,"Govorite tiše, prosim.",audio_volume_down,1
+115,115.0,"Pomagaj mi, utiši glasnost zvočnika.",audio_volume_down,1
+116,116.0,Utiši zvok na polovico.,audio_volume_down,1
+117,117.0,Želim manjše zvoka.,audio_volume_down,1
+118,118.0,Ta glasnost je previsoka.,audio_volume_down,1
+119,119.0,"Glejte, ali lahko utišijo ta zvok.",audio_volume_down,1
+120,120.0,"Upokojeno delo, utišaj glasnost!",audio_volume_down,1
+121,121.0,Kako lahko utišam ta radio?,audio_volume_down,1
+122,122.0,"Tisti zvoki so preglasni, utiši jih prosim.",audio_volume_down,1
+123,123.0,"Glede na mojo željo, lahko znižaš volumen.",audio_volume_down,1
+124,124.0,"Ni treba tako glasno, utišite ga!",audio_volume_down,1
+125,125.0,Glasnost je prehuda.,audio_volume_down,1
+126,126.0,"Znižaj volumen, prosim.",audio_volume_down,1
+127,127.0,Utiši zvoke na polovico.,audio_volume_down,1
+128,128.0,Preveč je glasno tukaj.,audio_volume_down,1
+129,129.0,Želim imeti manjše glasnosti v ozadju.,audio_volume_down,1
+130,130.0,"V redu, utišaj glasnost, prosim.",audio_volume_down,1
+131,131.0,"Ne morem razumeti, ker je preglasno, utiši prosim.",audio_volume_down,1
+132,132.0,"Utišaj TV, prosim.",audio_volume_down,1
+133,133.0,"Prosimo, znižajte glasnost.",audio_volume_down,1
+134,134.0,"Oče že dolgo časa pravi, da moramo utišati televizijo.",audio_volume_down,1
+135,135.0,"Glejte, kako lahko znižate glasnost.",audio_volume_down,1
+136,136.0,Prenoči glasnost v ozadju.,audio_volume_down,1
+137,137.0,Želim manjše glasnosti.,audio_volume_down,1
+138,138.0,Lahko ga še malo utenja?,audio_volume_down,1
+139,139.0,Ni treba tako glasno.,audio_volume_down,1
+140,140.0,Kdo lahko utiša ta hrupa?,audio_volume_down,1
+141,141.0,Lahko ga še malo utišati?,audio_volume_down,1
+142,142.0,Uredi volumen navzdol.,audio_volume_down,1
+143,143.0,"V redu, utiši zvočnik.",audio_volume_down,1
+144,144.0,Utišaj glasnost na polovico.,audio_volume_down,1
+145,145.0,Zmanjšaj glasnost!,audio_volume_down,1
+146,146.0,"Moja mama pravi, da moramo utišati televizijo.",audio_volume_down,1
+147,147.0,"Utišaj glasnost, ker se ne morem koncentrirati.",audio_volume_down,1
+148,148.0,"Glasnost je preglasna, utiši jo prosim.",audio_volume_down,1
+149,149.0,Ta glasnost me sprva.,audio_volume_down,1
+150,150.0,"Zmanjšaj glasnost, prosim.",audio_volume_down,1
+151,151.0,"Prosim, utiši zvočnik.",audio_volume_down,1
+152,152.0,"Znižaj glasnost, prosim.",audio_volume_down,1
+153,153.0,"Prosimo, znižajte volumen.",audio_volume_down,1
+154,154.0,Znižaj volumen za petdeset procentov.,audio_volume_down,1
+155,155.0,Prenoči glasnost na polovico.,audio_volume_down,1
+156,156.0,"Prosimo, utiši televizijo.",audio_volume_down,1
+157,157.0,"Ta pesem je preglasna, utišaj jo!",audio_volume_down,1
+158,158.0,Želim imeti manjši zvok.,audio_volume_down,1
+159,159.0,"Morda bi bilo bolje, če bi znižal glasnost.",audio_volume_down,1
+160,160.0,"Glejte, kako lahko utišate glasnost.",audio_volume_down,1
+161,161.0,Kdo bo utišal ta radio?,audio_volume_down,1
+162,162.0,Tišanje glasnosti bi bilo dobro.,audio_volume_down,1
+163,163.0,"V redu, znižaj glasnost zvočnikov.",audio_volume_down,1
+164,164.0,"Znižaj glasnost, da lahko spim.",audio_volume_down,1
+165,165.0,"Naredi, da bo glasnost nižja.",audio_volume_down,1
+166,166.0,Utiži ta hrupni zvok!,audio_volume_down,1
+167,167.0,Ni mi všeč tolikšen zvok.,audio_volume_down,1
+168,168.0,Lahko utišamo ta zabavo?,audio_volume_down,1
+169,169.0,Lahko utišate glasnost tega videa?,audio_volume_down,1
+170,170.0,Glasnost je preglasna.,audio_volume_down,1
+171,171.0,Lahko to utišamo skupaj.,audio_volume_down,1
+172,172.0,Znižaj volumen za polovice.,audio_volume_down,1
+173,173.0,Spremeni glasnost v nižjo stopnjo.,audio_volume_down,1
+174,174.0,"Prosim, utiši tisto glasno.",audio_volume_down,1
+175,175.0,"Lahko mi povejte, kako utišati glasnost?",audio_volume_down,1
+176,176.0,"Prosimo vas, da znižate glasnost.",audio_volume_down,1
+177,177.0,Lahko mi pomagajo pri znižanju glasu?,audio_volume_down,1
+178,178.0,"To je preglaso, utiši ga!",audio_volume_down,1
+179,179.0,"Glede na mojo željo, utišaj glasnost.",audio_volume_down,1
+180,180.0,"To je preglasno, utiši ga!",audio_volume_down,1
+181,181.0,"Slišim te slabo, utišaj glasnost!",audio_volume_down,1
+182,182.0,"Tisti zvok me razdraži, utišaj ga!",audio_volume_down,1
+183,183.0,Na voljo imam možnost utišanja glasnosti.,audio_volume_down,1
+184,184.0,Lahko to utišamo kasneje.,audio_volume_down,1
+185,185.0,Preveč glasno je tu.,audio_volume_down,1
+186,186.0,"Ko bom mogel, utišam glasnost.",audio_volume_down,1
+187,187.0,"To je preveč glasno, molim.",audio_volume_down,1
+188,188.0,"Utišaj glasnost, ker me moti.",audio_volume_down,1
+189,189.0,Lahko ga utišaš?,audio_volume_down,1
+190,190.0,Znižaj volumena za deset odstotkov.,audio_volume_down,1
+191,191.0,"Utišaj glasnost, saj sem že dolgo časa poslušal.",audio_volume_down,1
+192,192.0,Želim imeti mirnejše okolje.,audio_volume_down,1
+193,193.0,"To glasno, utiši malo prosim.",audio_volume_down,1
+194,194.0,"To je preglasno, utišaj!",audio_volume_down,1
+195,195.0,"Prosimo vas, da utišite zvočnik.",audio_volume_down,1
+196,196.0,"Glede na mojo željo, lahko znižaš glasnost.",audio_volume_down,1
+197,197.0,"Ta pesem je preglasna, utiši jo.",audio_volume_down,1
+198,198.0,"Glejte, ali lahko utišite ta zvok.",audio_volume_down,1
+199,199.0,Preveč glasno je v tej sobi.,audio_volume_down,1
+200,200.0,Lahko izbrišem svoj seminar iz koledarja?,calendar_remove,2
+201,201.0,Kako lahko izbrišem vse dogodke iz svojega Yahoo! Maila?,calendar_remove,2
+202,202.0,"Prosim, izbriši ta dogodek iz mojega Microsoft Outlooka.",calendar_remove,2
+203,203.0,Izbriši vilo iz mojega seznam dogodkov.,calendar_remove,2
+204,204.0,Izbrisi vse dogodke iz mojega osebnega koledarja,calendar_remove,2
+205,205.0,Odstrani obljubljeno srečanje iz urnika,calendar_remove,2
+206,206.0,Odstani ta dogodek iz mojega privatnega koledarja,calendar_remove,2
+207,207.0,Izbriši vsakršen dogodek iz mojega iPhone koledarja.,calendar_remove,2
+208,208.0,Zavrži vse dogodke iz mojega LinkedIn profila.,calendar_remove,2
+209,209.0,Odpovej mojo rezervacijo za petek.,calendar_remove,2
+210,210.0,Ali lahko izbrišeš mojo poročilo o absenci?,calendar_remove,2
+211,211.0,Počisti moj koledar za naslednjih sedm dni,calendar_remove,2
+212,212.0,Zavrži vse dogodke iz preteklega tedna,calendar_remove,2
+213,213.0,Odstrani ta sestanek iz mojega koledarja prosim,calendar_remove,2
+214,214.0,Lahko odstranim vso zasedenost iz mojega koledarja?,calendar_remove,2
+215,215.0,Lahko mi pomočeš izbrisati mojo nedeljsko aktivnost?,calendar_remove,2
+216,216.0,Lahko izbrišeš mojo pogodbo iz koledarja?,calendar_remove,2
+217,217.0,Odstrani mojo poročilo iz koledarja,calendar_remove,2
+218,218.0,Odpovej mojo praznično dopoldne iz prejšnje službe.,calendar_remove,2
+219,219.0,Počisti mojo soboto v koledarju,calendar_remove,2
+220,220.0,Lahko izbrišeš mojo razpisano srečanje?,calendar_remove,2
+221,221.0,Lahko odstraniš tisto sestanek iz mojega koledarja?,calendar_remove,2
+222,222.0,Zbriši mojo šolsko dejavnost iz urnika.,calendar_remove,2
+223,223.0,Lahko mi pokažeš kako izbrisati vse dogodke iz Android aplikacije?,calendar_remove,2
+224,224.0,Lahko izbrišeš mojo šolsko pripravo iz koledarja?,calendar_remove,2
+225,225.0,Odstrani mojo koncert iz koledarja,calendar_remove,2
+226,226.0,"Prosim, odstrani ta dogodek iz mojega Outlooka.",calendar_remove,2
+227,227.0,Izbriši mojo koncertno vstopnico iz koledarja.,calendar_remove,2
+228,228.0,Odstrani mojo rezervacijo iz restavrana iz koledarja.,calendar_remove,2
+229,229.0,Izbrisi vse dogodke iz mojega dela koledarja,calendar_remove,2
+230,230.0,"Prosim, izbriši moj šolski projekt iz urnika",calendar_remove,2
+231,231.0,Izbrisi včerajšnjo razstavico iz mojega urnika.,calendar_remove,2
+232,232.0,Izbrisi vse dogodke iz mojega družinskih koledarja,calendar_remove,2
+233,233.0,Lahko izbrišem svoj letni urlaub iz koledarja?,calendar_remove,2
+234,234.0,Počisti mojo četrto ure v koledarju,calendar_remove,2
+235,235.0,Zbriši mojo glasbeno večerjo iz koledarja.,calendar_remove,2
+236,236.0,Izbriši vso zasedanja iz mojega koledarja,calendar_remove,2
+237,237.0,Odstrani ta sestanek iz urnika,calendar_remove,2
+238,238.0,Kako lahko izbrišem dogodek iz svojega Google koledarja?,calendar_remove,2
+239,239.0,Lahko mi pomagaš odstraniti vse dogodke iz prejšnjega tedna?,calendar_remove,2
+240,240.0,Počisti moj urnik za soboto,calendar_remove,2
+241,241.0,Izbrisi vse dogodke iz mojega koledarja,calendar_remove,2
+242,242.0,Izbriši mojo poročilo o dopustu iz koledarja.,calendar_remove,2
+243,243.0,Izbriši vse dogodke za danes.,calendar_remove,2
+244,244.0,"Prosim, odstrani ta dogodek iz mojega iCloud koledarja.",calendar_remove,2
+245,245.0,Izbriši vse obveznosti iz mojega urnika,calendar_remove,2
+246,246.0,Izbriši mojo nedeljsko planinsko ekskurzijo,calendar_remove,2
+247,247.0,Odstrani mojo razgibano delovno sejo iz koledarja.,calendar_remove,2
+248,248.0,Odstrani mojo razpisano srečanje iz koledarja.,calendar_remove,2
+249,249.0,"Prosim, izbriši ta datum iz mojega koledarja.",calendar_remove,2
+250,250.0,"Prosim, odstrani mojo delovno srečanje iz urnika.",calendar_remove,2
+251,251.0,Počisti mojo petkov večer v koledarju,calendar_remove,2
+252,252.0,Odpovej vso svobodno čas iz koledarja,calendar_remove,2
+253,253.0,Lahko mi pomočeš izbrisati mojo sobotno dejavnost?,calendar_remove,2
+254,254.0,Izbriši vse dogodke iz maja,calendar_remove,2
+255,255.0,Odpovej mojo rezervacijo za soboto.,calendar_remove,2
+256,256.0,Odstrani mojo pogovorno sejo iz urnika,calendar_remove,2
+257,257.0,Izbriši vse dogodke iz mojega Google kalendara.,calendar_remove,2
+258,258.0,Počisti mojo sobotno popoldne v koledarju,calendar_remove,2
+259,259.0,"Prosim, izbriši mojo delovno razpravo iz urnika.",calendar_remove,2
+260,260.0,Zavrži vse dogodke iz mojega koledarja.,calendar_remove,2
+261,261.0,Odstrani obljubljeno srečanje iz mojega koledarja.,calendar_remove,2
+262,262.0,Izbrisi vse obveznosti iz mojega urnika.,calendar_remove,2
+263,263.0,Lahko izbrišem svoj trening iz koledarja?,calendar_remove,2
+264,264.0,Počisti moj koledar za letošnji avgust.,calendar_remove,2
+265,265.0,Počisti moj koledar za naslednji teden.,calendar_remove,2
+266,266.0,Ali lahko izbrišeš mojo razpisanou dejavnost iz koledarja?,calendar_remove,2
+267,267.0,"Prosim, izbriši mojo razpisanou dejavnost iz koledarja.",calendar_remove,2
+268,268.0,Počisti moj urnik za danas.,calendar_remove,2
+269,269.0,Odstrani mojo poročilo iz urnika,calendar_remove,2
+270,270.0,Počisti moj koledar za naslednjo nedeljo.,calendar_remove,2
+271,271.0,Lahko mi pomagate izbrisati mojo zapisnik iz koledarja?,calendar_remove,2
+272,272.0,Odstrani mojo delovno srečanje iz koledarja,calendar_remove,2
+273,273.0,Počisti moj koledar za vikend.,calendar_remove,2
+274,274.0,Odstrani mojo poročilo iz koledarja.,calendar_remove,2
+275,275.0,Ali lahko izbrišem vse dogodke iz mojega koledarja?,calendar_remove,2
+276,276.0,Odpovej včerajšnjo večerjo iz koledarja,calendar_remove,2
+277,277.0,Odstrani mojo razpisano srečanje iz urnika.,calendar_remove,2
+278,278.0,Odstrani vsa opravila iz mojega koledarja,calendar_remove,2
+279,279.0,Počisti mojo današnjo razpisano agendo,calendar_remove,2
+280,280.0,Počisti moj koledar za letošnjo novo leto.,calendar_remove,2
+281,281.0,Odstrani obveznost iz mojega urnika za jutri.,calendar_remove,2
+282,282.0,Počisti moj urnik za jutri,calendar_remove,2
+283,283.0,Izbriši mojo koncertno vstopnico iz koledarja,calendar_remove,2
+284,284.0,"Prosim, izbriši obljubljeno opravilo iz mojega urnika.",calendar_remove,2
+285,285.0,Počisti moj koledar za danes,calendar_remove,2
+286,286.0,Počisti moj koledar za naslednjih sedem dni.,calendar_remove,2
+287,287.0,Odstrani vse dogodke iz aprila,calendar_remove,2
+288,288.0,Zavrži vse nepotrebne dogodke iz koledarja,calendar_remove,2
+289,289.0,Počisti moj koledar za praznik,calendar_remove,2
+290,290.0,Lahko zbrišeš mojo pogodbeno srečanje iz mojega koledarja?,calendar_remove,2
+291,291.0,Izbriši včerajšnji dogodek iz koledarja,calendar_remove,2
+292,292.0,Izbrisi vse obveze iz mojega urnika.,calendar_remove,2
+293,293.0,Izbriši vso zgodovino dogodkov iz mojega računalnika.,calendar_remove,2
+294,294.0,Odstrani ta dogodek iz mojega skupinskega koledarja,calendar_remove,2
+295,295.0,Lahko mi pomagaš izbrisati staro razpoređeno delo?,calendar_remove,2
+296,296.0,Izbriši mojo očetovo rojstvo iz koledarja,calendar_remove,2
+297,297.0,"Prosim, izbriši mojo razpisano vadbo iz urnika.",calendar_remove,2
+298,298.0,"Prosim, odstrani ta dogodek iz mojega koledarja",calendar_remove,2
+299,299.0,Odstrani mojo osnovnošolsko dejavnost iz koledarja.,calendar_remove,2
+300,300.0,Kako naj kuhamom špargljeve v paru?,cooking_recipe,3
+301,301.0,Kako pripravimo hrano za vegetariance?,cooking_recipe,3
+302,302.0,Kako naj spreminjam recept za torte?,cooking_recipe,3
+303,303.0,Kako naj kuham riž za štirikratnik?,cooking_recipe,3
+304,304.0,Koliko sladkorja je dovoljeno dodať v kolač?,cooking_recipe,3
+305,305.0,Kako narediti domače makarone brez gluten?,cooking_recipe,3
+306,306.0,Kako pripravimo pravega indijskega curryja?,cooking_recipe,3
+307,307.0,Koliko olja je potrebno za pečenje palčinov?,cooking_recipe,3
+308,308.0,"Mi lahko povejte, kako se pripravlja dobrotvorno jedilo?",cooking_recipe,3
+309,309.0,Kako pripravim domače klobase?,cooking_recipe,3
+310,310.0,Koliko sladkorja je potrebenega za sladko palacinke?,cooking_recipe,3
+311,311.0,Koliko časa je treba kuhati gobe za juho?,cooking_recipe,3
+312,312.0,Ali lahko pripravite sendvič s tunčevo?,cooking_recipe,3
+313,313.0,Kdo mi lahko pomaga pri pripravljanju omlete?,cooking_recipe,3
+314,314.0,Koliko soli dodate v omako za gibanice?,cooking_recipe,3
+315,315.0,Kdo ima recept za tradicionalni božični kolač?,cooking_recipe,3
+316,316.0,Kako narediti domače palacinke brez glutena?,cooking_recipe,3
+317,317.0,Kako narediti koktajl od banan in jogurta?,cooking_recipe,3
+318,318.0,Kako pripravim omako za kuhanje rakce?,cooking_recipe,3
+319,319.0,Ali lahko dodamo sveže cvete v salato?,cooking_recipe,3
+320,320.0,Kako narediš mehke in nežne palačinke?,cooking_recipe,3
+321,321.0,Ali lahko pripravite omako iz kumarice?,cooking_recipe,3
+322,322.0,Kako pripravimo pravega mexicana?,cooking_recipe,3
+323,323.0,Ali lahko pripravite vegansko verzijo lasagne?,cooking_recipe,3
+324,324.0,Kako naredijo tradicionalno idrijsko žlikrofko?,cooking_recipe,3
+325,325.0,Kako dolgo se kuha juha iz gobicev?,cooking_recipe,3
+326,326.0,Kako narediš kremasto omako za jedilnik?,cooking_recipe,3
+327,327.0,Kako naredijo tradicionalno slovensko gostilno jedilo?,cooking_recipe,3
+328,328.0,Koliko časa je treba kuhati špageti?,cooking_recipe,3
+329,329.0,Koliko škroba je potrebnega za gostejše umakanje?,cooking_recipe,3
+330,330.0,Ali lahko uporabite mleko namesto smetane v receptu?,cooking_recipe,3
+331,331.0,Ali lahko uporabijo ocvirki namesto paradižnika v solati?,cooking_recipe,3
+332,332.0,Kako naj začnemo pripravljati kisla kapušočo?,cooking_recipe,3
+333,333.0,Koliko sladkorja je potrebnega za medeno torto?,cooking_recipe,3
+334,334.0,Na kateri temperaturi moram pečati kruh?,cooking_recipe,3
+335,335.0,Ali lahko pripravite juhico brez mesa?,cooking_recipe,3
+336,336.0,Na koliko stopinj moramo kuhati jajčka?,cooking_recipe,3
+337,337.0,Kako izdelam sladoled iz naravnega mleka?,cooking_recipe,3
+338,338.0,Kako izdelam svoje slašiče?,cooking_recipe,3
+339,339.0,Ali se da uporabiti maslo namesto olja v pečenju?,cooking_recipe,3
+340,340.0,Koliko časa je treba kuhati meso za goulash?,cooking_recipe,3
+341,341.0,Kako naj pripravijo hruškov košček?,cooking_recipe,3
+342,342.0,Koliko vode je potrebnega za kuhanje riža?,cooking_recipe,3
+343,343.0,Kako naj kuham riž za štirinajst oseb?,cooking_recipe,3
+344,344.0,Kako pripravim jogurtovo umazanje za salato?,cooking_recipe,3
+345,345.0,Na kakšni temperaturi pečemo klobase?,cooking_recipe,3
+346,346.0,"Koliko časa trebam kuhati fižol, da je mehek?",cooking_recipe,3
+347,347.0,Ali lahko uporabite jogurt namesto smetane v receptu?,cooking_recipe,3
+348,348.0,Kakšen je razmerje med mlekom in vodo za kuhanje riža?,cooking_recipe,3
+349,349.0,Koliko časa je treba kuhati fižolovo juho?,cooking_recipe,3
+350,350.0,Kako pripravimo hrano za diabetike?,cooking_recipe,3
+351,351.0,Kako narediti koktajl od avokada in limone?,cooking_recipe,3
+352,352.0,"Lahko mi pokaže, kako narežiš dobrotvorno palačinko?",cooking_recipe,3
+353,353.0,Kako naj začnemo pripravljati pomarančevo salato?,cooking_recipe,3
+354,354.0,Kako naredomo pomarančno salato?,cooking_recipe,3
+355,355.0,Kdo znajo recept za prave italijanske spagete?,cooking_recipe,3
+356,356.0,"Mi lahko povejte, kako pripraviti kokosovo mleko?",cooking_recipe,3
+357,357.0,Kako naredijo tradicionalno idrijsko potico?,cooking_recipe,3
+358,358.0,Kako naj začnemo pripravljati slano kobasco?,cooking_recipe,3
+359,359.0,Kako izdelam domače makarone?,cooking_recipe,3
+360,360.0,Koliko olja je potrebno za kuhanje riža?,cooking_recipe,3
+361,361.0,Kako naj pripravijo kokosovo mleko za sladoled?,cooking_recipe,3
+362,362.0,Kako naj pripravijo makaronije s parmezano?,cooking_recipe,3
+363,363.0,Kako pripravimo dobrotoljubno jedilo za Božič?,cooking_recipe,3
+364,364.0,Ali lahko uporabite maslo namesto olja v pekarstvu?,cooking_recipe,3
+365,365.0,Kako naj spreminjam recept za kolače?,cooking_recipe,3
+366,366.0,Kako naj spreminjam testo za palačinke?,cooking_recipe,3
+367,367.0,Kako pripravimo pravo italijansko pizza?,cooking_recipe,3
+368,368.0,Kako narediti pravilno testenino za pita?,cooking_recipe,3
+369,369.0,Ali lahko uporabim kokosovo mleko v receptu?,cooking_recipe,3
+370,370.0,Koliko škroba je potrebnega za gosto juho?,cooking_recipe,3
+371,371.0,Kako narediš slano pogačo brez glutena?,cooking_recipe,3
+372,372.0,"Koliko časa treba kuhati šparglje, da so mehki?",cooking_recipe,3
+373,373.0,Kako pripravim pravo hrvaško juho?,cooking_recipe,3
+374,374.0,Na kakšni temperaturi pečemo pita s perutnino?,cooking_recipe,3
+375,375.0,Kako naj kuhamom rižev keks?,cooking_recipe,3
+376,376.0,Kako naj začnemo pripravljati testenine za palačinke?,cooking_recipe,3
+377,377.0,Koliko soli dodamo v testo za pecivo?,cooking_recipe,3
+378,378.0,Kako naj pripravimo ocvirke iz sveže zelene?,cooking_recipe,3
+379,379.0,Kako naj kuhamom fižolove v solati?,cooking_recipe,3
+380,380.0,Koliko olja je potrebno za pečenje klobase?,cooking_recipe,3
+381,381.0,Kako naj pripravijo glavni obrok za praznika?,cooking_recipe,3
+382,382.0,Kako naredimo dobrotvorno jedilo iz fižola?,cooking_recipe,3
+383,383.0,Koliko olja je potrebno za prženje kobasic?,cooking_recipe,3
+384,384.0,"Mi lahko povejte, kako pripraviti čokoladno kremono?",cooking_recipe,3
+385,385.0,Na kateri temperaturi moramo pečati kruh?,cooking_recipe,3
+386,386.0,Ali lahko uporabim limono namesto citrona v receptu?,cooking_recipe,3
+387,387.0,Kako naj začnemo pripravljati slaščično kavo?,cooking_recipe,3
+388,388.0,Kdo znajo recept za prava angleška eggs benedict?,cooking_recipe,3
+389,389.0,Kako pripravim omako za kuhanje jegulj?,cooking_recipe,3
+390,390.0,Na kakšni temperaturi morajo biti pečeni bureki?,cooking_recipe,3
+391,391.0,Na kakšni temperaturi pečem pita s sirom?,cooking_recipe,3
+392,392.0,Ali lahko uporabimo mandljevino namesto masla v pecivu?,cooking_recipe,3
+393,393.0,Kako naj začnemo pripravljati kremasto juho?,cooking_recipe,3
+394,394.0,Koliko olja je potrebno za kuhanje palčinov?,cooking_recipe,3
+395,395.0,Kako naredimo hrano za mačke iz lososa?,cooking_recipe,3
+396,396.0,Ali lahko uporabim mleko namesto smetane v receptu?,cooking_recipe,3
+397,397.0,"Koliko časa treba kuhati krompir, da je mehek?",cooking_recipe,3
+398,398.0,Kakšen je razlika med pečenjem v loncu in pečenjem v pečici?,cooking_recipe,3
+399,399.0,Koliko časa je treba kuhati fižol?,cooking_recipe,3
+400,400.0,"Koliko je ure v Singapuru, če je 17:00 v Milanu?",datetime_convert,4
+401,401.0,Koliko je ure razlike med našim in kalifornijskim časom?,datetime_convert,4
+402,402.0,Kako nastavis časovnik na britanski zimski čas?,datetime_convert,4
+403,403.0,"Povej mi, kakšen je čas v Sydneyju, če je tu ob 18:00.",datetime_convert,4
+404,404.0,Kako prevesti lokalni čas v Greenwichski srednji čas?,datetime_convert,4
+405,405.0,Časovna razlika med Los Angelesom in Miami je ... ?,datetime_convert,4
+406,406.0,Prevedi 23:59 iz avstralskega vzhodnega časa v naš čas.,datetime_convert,4
+407,407.0,"Kakšen je čas v Moskvi, če je tu ob 12:00?",datetime_convert,4
+408,408.0,Čas 11:50 iz severozahodnega časa pretvori v naš čas.,datetime_convert,4
+409,409.0,"Katero uro ima Pekingu, če je 18:00 v Berlinu?",datetime_convert,4
+410,410.0,"Katero uro ima zdaj v Parizu, če je tu ob 10 uri?",datetime_convert,4
+411,411.0,Ali lahko nastavimo časovnik na-kitajski čas?,datetime_convert,4
+412,412.0,Prevedi 14:00 GMT v naš lokalni čas.,datetime_convert,4
+413,413.0,Koliko je ure razlike med Rio de Janeirom in Buenos Airesom?,datetime_convert,4
+414,414.0,"Povej mi, kako dolgo je trajalo potovanje od Londona do Bejruta glede na čas.",datetime_convert,4
+415,415.0,"Kakšen je čas v New Yorku, če je zvečer v Ljubljani?",datetime_convert,4
+416,416.0,"Katero uro ima zdaj v Meksiku, če je tu ob 14:00?",datetime_convert,4
+417,417.0,"Povej mi, kakšna je časovna razlika med Meksikom in Los Angelesom.",datetime_convert,4
+418,418.0,Koliko je ure razlike med našim in kanadskim časom?,datetime_convert,4
+419,419.0,Kako prevesti čas iz enega pásma v drugo?,datetime_convert,4
+420,420.0,Spusti se na časovni pas Srednjega Vzhoda.,datetime_convert,4
+421,421.0,Spoji čas 20:45 iz zahodne Evrope v osrednje evropsko čas.,datetime_convert,4
+422,422.0,"Kakšen je čas v Pekingu, če je tu 12:00?",datetime_convert,4
+423,423.0,"Kakšen je čas v Pekingu, če je 08:00 v Berlinu?",datetime_convert,4
+424,424.0,Pretvori 14:30 iz zahodnega v vzhodni standardni čas.,datetime_convert,4
+425,425.0,Kakšna je časovna razlija med našim časom in časom v Indoneziji?,datetime_convert,4
+426,426.0,Razlika med našim časom in časom v Hong Kongu je ... ?,datetime_convert,4
+427,427.0,Preoblikuj čas 11:50 iz severozahodne Amerike v osrednjo Evropo.,datetime_convert,4
+428,428.0,Spoji čas 15:45 iz Vzhodnega standardnega časa v Zahodni standardni čas.,datetime_convert,4
+429,429.0,V koliko se premesti čas 13:40 iz Rima v Berlin?,datetime_convert,4
+430,430.0,Nastavi na centralni evropski čas.,datetime_convert,4
+431,431.0,Koliko je ure razlike med Seulom in Tokiom?,datetime_convert,4
+432,432.0,"Povej mi, kako dolgo trajajo dni v Južni Afriki glede na naš čas.",datetime_convert,4
+433,433.0,"Koliko je ure v Tokiu, če je 12:00 v Parizu?",datetime_convert,4
+434,434.0,"Kakšen je čas v Hong Kongu, če je tu 16:00?",datetime_convert,4
+435,435.0,Ali lahko nastaviš časovni pas na Indonezijo?,datetime_convert,4
+436,436.0,Časovna razlika med Mexico Cityjem in Limom je ... ?,datetime_convert,4
+437,437.0,Ali lahko prevedeš 06:35 iz kitajskega časa v naš čas?,datetime_convert,4
+438,438.0,"Koliko je ure v Rio de Janeiru, če je tu ob 21:00?",datetime_convert,4
+439,439.0,Spoji čas 08:25 iz južnoafriškega časa v naš čas.,datetime_convert,4
+440,440.0,Nastavi na brazilski čas.,datetime_convert,4
+441,441.0,Kako dolgo trajajo dnevi v Antarktiki glede na naš čas?,datetime_convert,4
+442,442.0,Kako pretvorim čas iz UTC v naše lokalnočas?,datetime_convert,4
+443,443.0,"Kakšen je čas v Pekingu, če je tu ob 10:00?",datetime_convert,4
+444,444.0,Koliko je ure razlike med Šanghajem in Singapuru?,datetime_convert,4
+445,445.0,Ali lahko določiš čas 07:40 iz Kitajske v naš čas?,datetime_convert,4
+446,446.0,Spoji čas 21:55 iz brazilskog časa v naš čas.,datetime_convert,4
+447,447.0,Spomi ni pomagati pri konvertiranju časa iz enega pásma v drugega?,datetime_convert,4
+448,448.0,Ali lahko prevedeš 17:45 iz zahodnega časa v vzhodni čas?,datetime_convert,4
+449,449.0,Pretvori čas 14:30 iz centralne v vzhodno Evropo.,datetime_convert,4
+450,450.0,"Koliko je ure v Tokiu, če je tu ob 12:00?",datetime_convert,4
+451,451.0,"Koliko je ure v Los Angelesu, če je 20:00 v Londonu?",datetime_convert,4
+452,452.0,V koliko se premesti čas 15:20 iz Istanbula v Atene?,datetime_convert,4
+453,453.0,Prevedi 01:15 iz Vzhodnega standardnega časa v Pacifiški standardni čas.,datetime_convert,4
+454,454.0,"Povej mi, kako dolgo trajajo dnevi v Antarktiki glede na naše čase.",datetime_convert,4
+455,455.0,"Kakšen je čas v Bejrutu, če je tu 09:00?",datetime_convert,4
+456,456.0,"Katero uro ima New York, če je tu 10:00?",datetime_convert,4
+457,457.0,Prevedi 18:45 iz britanskega poletnega časa v standardni čas.,datetime_convert,4
+458,458.0,Koliko je ure razlike med našim in kitajskim časom?,datetime_convert,4
+459,459.0,Ali lahko določiš čas 19:25 iz Indije v naš čas?,datetime_convert,4
+460,460.0,Ali lahko spreminjaš časovni pas na Tokio?,datetime_convert,4
+461,461.0,Koliko je ure razlike med Parizom in Riom?,datetime_convert,4
+462,462.0,"Katero uro ima Sydney, če je 10:00 v New Yorku?",datetime_convert,4
+463,463.0,Kolika je časovna razlika med Parizom in Sydneyjem?,datetime_convert,4
+464,464.0,Koliko je ure razlike med našim in japanskim časom?,datetime_convert,4
+465,465.0,"Katero uro ima Bangkok, če je 17:00 v Kuala Lumpurju?",datetime_convert,4
+466,466.0,Spusti se na časovni pas Zahodne Evrope.,datetime_convert,4
+467,467.0,Kakšna je časovna razlika med Buenos Airesom in Chicagom?,datetime_convert,4
+468,468.0,Pretvori čas 09:35 iz Osrednjega Evrope v Zahodno Evropo.,datetime_convert,4
+469,469.0,"Kakšen je čas v Singapuru, če je tu 14:00?",datetime_convert,4
+470,470.0,"Če je 12:00 v Londonu, koliko je ure v Beogradu?",datetime_convert,4
+471,471.0,Pretvori trenutni čas iz avstralskega v evropski standardni čas.,datetime_convert,4
+472,472.0,"Povej mi, ali je že večer v Moskvi, če je 19:00 v Ljubljani.",datetime_convert,4
+473,473.0,"Koliko je ure v Bangkoku, če je 07:00 v Moskvi?",datetime_convert,4
+474,474.0,Časovna razlika med Londonom in Bejrutom je kako velika?,datetime_convert,4
+475,475.0,Ali lahko nastaviš čas 19:40 iz ruskega časa v naš čas?,datetime_convert,4
+476,476.0,Nastavi čas 20:15 iz britanskega poletnega časa v naš zimski čas.,datetime_convert,4
+477,477.0,"Koliko je ure v Bejrutu, če je 09:00 v Aténah?",datetime_convert,4
+478,478.0,Kako določiš časovno razliko med dvema mestoma?,datetime_convert,4
+479,479.0,Pretvori lokalni čas v Tokio v naš časovni pas.,datetime_convert,4
+480,480.0,"Povej mi, kako pretvoriti lokalni čas v UTC.",datetime_convert,4
+481,481.0,"Kakšen je čas v Carigradu, če je 14:00 v Ankari?",datetime_convert,4
+482,482.0,"Če je 15:00 v Riomu, koliko je ure v Meksiku?",datetime_convert,4
+483,483.0,"Povej mi, kakšna je časovna razlika med Avstralijo in ZDA.",datetime_convert,4
+484,484.0,Ali lahko prevedeš čas 8:15 iz angleškega v naš čas?,datetime_convert,4
+485,485.0,Spoji čas 14:30 iz centalnega ameriškega časa v naš čas.,datetime_convert,4
+486,486.0,Preobrazi čas 01:15 iz Zahodne Kanade v Osrednjo Evropo.,datetime_convert,4
+487,487.0,Pretvori datum in čas iz ameriškega formata v evropski format.,datetime_convert,4
+488,488.0,"Če je 22:00 v Istanbulu, koliko je ure v Stockholmu?",datetime_convert,4
+489,489.0,Spoji čas 09:50 iz Zahodnega standardnega časa v Osrednji evropski čas.,datetime_convert,4
+490,490.0,"Kakšen je čas v Rio de Janeiru, če je 14:00 v Madridu?",datetime_convert,4
+491,491.0,"Če je 08:00 v Berlinu, koliko je ure v Pragi?",datetime_convert,4
+492,492.0,Pretvori lokalni čas v Tokiu v naš čas.,datetime_convert,4
+493,493.0,Spusti se na švicarski čas.,datetime_convert,4
+494,494.0,Ali lahko prevedeš 14:30 iz PST v CST?,datetime_convert,4
+495,495.0,Prevedi 20:15 iz Osrednjeg evropskega časa v Vzhodni evropski čas.,datetime_convert,4
+496,496.0,Spoji čas 23:55 iz Avstralije v naš čas.,datetime_convert,4
+497,497.0,"Povej mi, kako dolgo je trajala potovanje od Londona do New Yorka glede na čas.",datetime_convert,4
+498,498.0,"Kakšen je čas v Rio de Janeiru, če je 22:00 v São Paulu?",datetime_convert,4
+499,499.0,Pretvori lokalni čas v Šanghaju v naš časovni pas.,datetime_convert,4
+500,500.0,Začni pisati e-pošto in jo pošlji direktorju podjetja.,email_sendemail,5
+501,501.0,Sestavi e-pošto za brata glede dogodka v soboto.,email_sendemail,5
+502,502.0,Oddaja e-pošte za vodjo ekipe o ciljih in zadolžitvah.,email_sendemail,5
+503,503.0,Pošilji spletno sporočilo oziroma elektronsko pismo predsedniku.,email_sendemail,5
+504,504.0,"Pošlji elektronsko sporočilo sestre o novem filmu, ki ga bom gledal.",email_sendemail,5
+505,505.0,Pošilji e-pošto prijateljcu o koncertu.,email_sendemail,5
+506,506.0,Pošilji spletno sporočilo računovodski službi.,email_sendemail,5
+507,507.0,"Pošilji e-pošto bratu o novici, ki se je zgodila včeraj.",email_sendemail,5
+508,508.0,"Prosim, oddaji elektronsko sporočilo o zaključku projekta.",email_sendemail,5
+509,509.0,Pošilji elektronsko sporočilo bratu o novici.,email_sendemail,5
+510,510.0,Sestavi kratko e-pošto za kolega o morebitnih spremembah.,email_sendemail,5
+511,511.0,Odprti novo okno in začni pisati e-pošto.,email_sendemail,5
+512,512.0,"Pošlji elektronsko sporočilo bratu, kako sem opravil vozniški izpit.",email_sendemail,5
+513,513.0,Začni pisanje e-pisma profesorju.,email_sendemail,5
+514,514.0,Sestavi novo e-pošto za brata o vašem letovanju.,email_sendemail,5
+515,515.0,Pošilaj spletno sporočilo družinski članom o pomenu zdravljenja.,email_sendemail,5
+516,516.0,Odprti e-pošto za stranko o ponudbi storitev.,email_sendemail,5
+517,517.0,Pošilaj spletno sporočilo znancu o možnosti zaposlitve.,email_sendemail,5
+518,518.0,Preberi ponovno in pošlji e-pošto še enkrat.,email_sendemail,5
+519,519.0,Začni novo e-pošto za prijatelje o dogodkih v mestu.,email_sendemail,5
+520,520.0,Doda dodatne informacije v e-pošto.,email_sendemail,5
+521,521.0,Pošilji spletno sporočilo direktorju o problemu.,email_sendemail,5
+522,522.0,"Pošlji elektronsko sporočilo tvoji ženi, kaj bova večerjala.",email_sendemail,5
+523,523.0,Napisati e-pošto za lastnika trgovine o promocijski akciji.,email_sendemail,5
+524,524.0,Pošilji elektronsko sporočilo oziroma elektronsko pismo tajnici.,email_sendemail,5
+525,525.0,Začni novo e-pošto za kolega o projektu.,email_sendemail,5
+526,526.0,Odpri okno za pisanje nove e-pošte.,email_sendemail,5
+527,527.0,Pošilaj elektronsko sporočilo materi o novici.,email_sendemail,5
+528,528.0,Pošlji spletno sporočilo strankam o promocijskem razprodaju.,email_sendemail,5
+529,529.0,Pošlji spletno sporočilo zdravniku o morebitnem pregledu.,email_sendemail,5
+530,530.0,"Pošlji elektronsko sporočilo materi, čeprav ni doma.",email_sendemail,5
+531,531.0,"Prosim, oddaji elektronsko sporočilo o začasnem zaprtju trgovine.",email_sendemail,5
+532,532.0,"Pošilji spletno sporočilo materi, kako si počnem danes.",email_sendemail,5
+533,533.0,"Prosim, pošli elektronsko sporočilo profesorju o temi izdelka.",email_sendemail,5
+534,534.0,Pošilji e-pošto stranko o ponudbi.,email_sendemail,5
+535,535.0,Sestavi novo e-pošto za brata in ga pošlji še danes.,email_sendemail,5
+536,536.0,Napiši e-pošto za dekana fakultete o študentskih tezah.,email_sendemail,5
+537,537.0,Naredi seznam sprejemnikov za e-pošto.,email_sendemail,5
+538,538.0,Pošilaj elektronsko sporočilo svojemu bratcu o poročilih v medijih.,email_sendemail,5
+539,539.0,Poslji elektronsko sporočilo omeni o razporedu dela.,email_sendemail,5
+540,540.0,Pošilaj elektronsko sporočilo mentorju o uspehu projekta.,email_sendemail,5
+541,541.0,Naredi e-pošto za ministra o prometnih zmedah v državi.,email_sendemail,5
+542,542.0,Pošilji elektronsko sporočilo o prometni nezgodi.,email_sendemail,5
+543,543.0,Naredi novo e-pošto za direktorja podjetja o morebitni sodelovanju.,email_sendemail,5
+544,544.0,Sestavi kratko e-pošto za sestro o vašem stanju.,email_sendemail,5
+545,545.0,"Pošlji elektronsko sporočilo profesorju Furlanu o tem, kako bom opravil projekt.",email_sendemail,5
+546,546.0,Naredi kopijo e-pošte in jo pošilji še enkrat.,email_sendemail,5
+547,547.0,"Prosim, pošlji elektronsko sporočilo gospodu Petroviču o novici.",email_sendemail,5
+548,548.0,Pošilaj spletno sporočilo staremu prijatelju o spominu na skupne dane.,email_sendemail,5
+549,549.0,Spremeni naslov in pošlji e-pošto znova.,email_sendemail,5
+550,550.0,Napiši e-pošto za ministra o pomembnem vprašanju.,email_sendemail,5
+551,551.0,Sestavi kratko e-pošto za sina glede šolskega dneva.,email_sendemail,5
+552,552.0,"Napiši elektronsko sporočilo materi, kako si.",email_sendemail,5
+553,553.0,Pošlji elektronsko sporočilo bratoma o morebitnem obisku.,email_sendemail,5
+554,554.0,Dodaš pripeto in pošlji e-pošto.,email_sendemail,5
+555,555.0,"Prosim, oddaji elektronsko sporočilo svetovalcu o strokovnih izobraževanjih.",email_sendemail,5
+556,556.0,Napiši in pošli elektronsko sporočilo gospodu direktorju.,email_sendemail,5
+557,557.0,Začni novo e-pošto za kolega glede nove projekcije.,email_sendemail,5
+558,558.0,Poslji e-pošto prijatelju iz tujine.,email_sendemail,5
+559,559.0,Zazeni pisanje e-pisma bratoma.,email_sendemail,5
+560,560.0,Pošilaj spletno sporočilo sovem delovnem kolegu o problemu z računalnikom.,email_sendemail,5
+561,561.0,Napiši kratko e-pošto in jo pošlji prijateljicam iz delovne skupine.,email_sendemail,5
+562,562.0,Zamenjaj tekst in pošlji e-pošto še enkrat.,email_sendemail,5
+563,563.0,Zacetek e-poštovanja za predsednika uprave o finančnem stanju.,email_sendemail,5
+564,564.0,Pošilaj elektronsko sporočilo učitelju o šolskih dejavnostih.,email_sendemail,5
+565,565.0,Spremeni e-pošto za direktorja podjetja o razvojni strategiji.,email_sendemail,5
+566,566.0,"Prosim, pošlji elektronsko sporočilo svetovalcu o finančnih možnosteh.",email_sendemail,5
+567,567.0,"Pošlji elektronsko sporočilo deklicam iz razreda, kdaj bomo imeli naslednjo soboto.",email_sendemail,5
+568,568.0,Pošlji elektronsko sporočilo teti o rojstnem dnev-u.,email_sendemail,5
+569,569.0,"Pošlji elektronsko sporočilo materi o novici, ki smo dobili.",email_sendemail,5
+570,570.0,Vloži prilogo v e-pošto in poišči gumb Pošli.,email_sendemail,5
+571,571.0,"Pošlji elektronsko sporočilo svoji hčerki, kako si pomagamo z nalogami.",email_sendemail,5
+572,572.0,"Pošlji elektronsko sporočilo učiteljici, kako bom prisoten na uri.",email_sendemail,5
+573,573.0,"Pošlji elektronsko sporočilo staremu očetu, kako se ima.",email_sendemail,5
+574,574.0,Naredi kopijo e-pošt in jo pošlji še enkrat.,email_sendemail,5
+575,575.0,"Prosim, pošlji elektronsko sporočilo učitelju o morebitnih dodatnih urah.",email_sendemail,5
+576,576.0,Pošlji spletno sporočilo kolegu o morebitnem sestanku.,email_sendemail,5
+577,577.0,"Pošlji elektronsko sporočilo babi, kako si.",email_sendemail,5
+578,578.0,Pošilji elektronsko sporočilo učitelju o vprašanju.,email_sendemail,5
+579,579.0,Sestavi e-pošto za brata o dogodkih v mestu.,email_sendemail,5
+580,580.0,Vključi sliko in pošlji e-pošto.,email_sendemail,5
+581,581.0,Sestavi e-pošto za novo zaposlitev.,email_sendemail,5
+582,582.0,Pošilji spletno sporočilo banke o kreditu.,email_sendemail,5
+583,583.0,Pošilji elektronsko sporočilo kolegu o sestanku.,email_sendemail,5
+584,584.0,Pošilji e-pošto očetu o rojstnem dnevu.,email_sendemail,5
+585,585.0,"Prosim, pošlji elektronsko sporočilo profesorju o morebitnem izpitu.",email_sendemail,5
+586,586.0,Pošilji elektronsko sporočilo sosedu o dogodkih.,email_sendemail,5
+587,587.0,Pošilji spletno sporočilo upravljalcu o napaki.,email_sendemail,5
+588,588.0,Pošilji elektronsko sporočilo oziroma elektronsko pismo ministru.,email_sendemail,5
+589,589.0,"Oddaji elektronsko pismo profesorju o temi, ki smo ji bili zadeti.",email_sendemail,5
+590,590.0,Napiši e-pošto za dekana fakultete o študentskem življenju.,email_sendemail,5
+591,591.0,Začni novo e-pošto za lastnika lokal-a o rezervaciji stolov.,email_sendemail,5
+592,592.0,Pošilji elektronsko sporočilo dekli o razporedu.,email_sendemail,5
+593,593.0,Pošlji spletno sporočilo prijateljcu o možnosti skupnega izleta.,email_sendemail,5
+594,594.0,"Prosim, pošilji kopijo e-porca svojemu šefa.",email_sendemail,5
+595,595.0,Posli elektronsko sporočilo prijatelju o koncertu v soboto.,email_sendemail,5
+596,596.0,Pošilji elektronsko sporočilo učitelju o morebitnih vprašanjih.,email_sendemail,5
+597,597.0,Pošilji spletno sporočilo oziroma elektronsko pismo direktorju.,email_sendemail,5
+598,598.0,"Pošlji elektronsko sporočilo kolegu, kako smo reшили problem.",email_sendemail,5
+599,599.0,Pošilji elektronsko obvestilo o končani opravilu.,email_sendemail,5
+600,600.0,Nadaljujte z zvočnom knjigom.,play_audiobook,6
+601,601.0,Predvajaj zvočno knjigo o filozofiji.,play_audiobook,6
+602,602.0,Predvajajmo drugi del zvočne knjige.,play_audiobook,6
+603,603.0,Nadaljuj z branjem te zvočne knjige.,play_audiobook,6
+604,604.0,Zazeni zvočno knjigo o vzpenjanju.,play_audiobook,6
+605,605.0,Predvajaj zgodbo o Aladinovi čudežni lampi.,play_audiobook,6
+606,606.0,Pojdi nazaj na zadnjem poglavju.,play_audiobook,6
+607,607.0,Začni predvajati mojo nova zvočna knjiga.,play_audiobook,6
+608,608.0,Predvajaj mojo omiljeno mladinsko zgodbo.,play_audiobook,6
+609,609.0,Znova začni predvajati to zgodbo o pirih.,play_audiobook,6
+610,610.0,Posluši še en razdelek iz te zbrane literature.,play_audiobook,6
+611,611.0,Predvajaj mojo najljubšo zvočno knjigo.,play_audiobook,6
+612,612.0,Predvajaj naslednji del zgodbe.,play_audiobook,6
+613,613.0,Predvajaj naslednji del zvočne knjige.,play_audiobook,6
+614,614.0,Rad bi začel brati to novo zvočno knjigo.,play_audiobook,6
+615,615.0,"Predvajaj to, kar smo razpravljali.",play_audiobook,6
+616,616.0,Predvajaj zvočno knjigo o psihologiji.,play_audiobook,6
+617,617.0,Predvajaj mojo priljubljeno zgodbo o ljudeh.,play_audiobook,6
+618,618.0,"Prosimo, začnite znova.",play_audiobook,6
+619,619.0,Znova začni z zvočnim romanom.,play_audiobook,6
+620,620.0,Znova začni predvajati to zgodbo o železnicah.,play_audiobook,6
+621,621.0,Nadaljuj z branjem tega romana.,play_audiobook,6
+622,622.0,Znova začnite z zvočno knjigo.,play_audiobook,6
+623,623.0,"Prosimo, nadalujte z branjem.",play_audiobook,6
+624,624.0,Predvajaj zvočno knjigo o znanosti.,play_audiobook,6
+625,625.0,Znova začni predvajati mojo združeno zvočno knjigo.,play_audiobook,6
+626,626.0,Nadaljuj z branjem te zgodbe.,play_audiobook,6
+627,627.0,Predvajaj zvočno knjigo v slovenskem jeziku.,play_audiobook,6
+628,628.0,Predvajaj to znanstveno fantastično zgodbo.,play_audiobook,6
+629,629.0,Posluši še en razdelek iz te zbirke kratkih zgodb.,play_audiobook,6
+630,630.0,Začni s predvajo zvočne knjige.,play_audiobook,6
+631,631.0,Pojdi nazaj na začetek knjige.,play_audiobook,6
+632,632.0,"V redu, začnite znova od začetka.",play_audiobook,6
+633,633.0,Nadaljujte z branjem tega dela.,play_audiobook,6
+634,634.0,Pojdi nazaj na prvemu poglavju.,play_audiobook,6
+635,635.0,Pojdi nazaj na začetek tega poglavja.,play_audiobook,6
+636,636.0,"Prosimo, nadalujete z branjem.",play_audiobook,6
+637,637.0,Nazaj na začetek poglavja.,play_audiobook,6
+638,638.0,Nadaljujte z branjem tega romana.,play_audiobook,6
+639,639.0,Predvajaj še enkrat to letošnjo uspešnico.,play_audiobook,6
+640,640.0,Predvajaj mojo najljubšo zgodbo.,play_audiobook,6
+641,641.0,Predvajaj zgodbo o pustolovcih.,play_audiobook,6
+642,642.0,"Uporabite daljni kontroler, da predvajaš zvočno knjigo.",play_audiobook,6
+643,643.0,Rad bi začel slušet to novo zvočno knjigo o zvezdah.,play_audiobook,6
+644,644.0,Pojdimo nazaj k prvemu poglavju.,play_audiobook,6
+645,645.0,Pojdi naprej v naslednjem poglavju.,play_audiobook,6
+646,646.0,Predvajaj zdaj to zelo popularno zvočno knjigo.,play_audiobook,6
+647,647.0,Predvajaj še en kratki delež.,play_audiobook,6
+648,648.0,"Prosim, začnite znova.",play_audiobook,6
+649,649.0,Predvajaj še en del tega mladinskega romana.,play_audiobook,6
+650,650.0,Nadaljuj z branjem tej zgodbi.,play_audiobook,6
+651,651.0,Predvajaj zgodbo o Sneguljcki.,play_audiobook,6
+652,652.0,Predvajaj še eno poglavje.,play_audiobook,6
+653,653.0,Kako lahko predvamem svojo zvočno knjigo?,play_audiobook,6
+654,654.0,Predvajaj mojo omiljeno otroško zgodbo.,play_audiobook,6
+655,655.0,Predvajaj še en kratkoterminski roman.,play_audiobook,6
+656,656.0,"Prosim, začnite znova od začetka.",play_audiobook,6
+657,657.0,Posluši še en kratki delček iz te zgodbe.,play_audiobook,6
+658,658.0,Rad bi slišal še en poglavje iz tega romana.,play_audiobook,6
+659,659.0,Predvajaj zgodbo o Mici Puntarju.,play_audiobook,6
+660,660.0,Predvajaj zgodbo o Alice v čudežni deželi.,play_audiobook,6
+661,661.0,Predvajaj zgodbo o Harryju Potterju.,play_audiobook,6
+662,662.0,Začni s predvajanjem tega romana.,play_audiobook,6
+663,663.0,Predvajaj mojo omiljeno zvočno knjigo o avijaciji.,play_audiobook,6
+664,664.0,Nadaljuj z branjem te zgodbe o ljudeh.,play_audiobook,6
+665,665.0,Nazadnje smo bili pri tem mestu v zgodbi.,play_audiobook,6
+666,666.0,Ali lahko predvajaš mojo zbirko kratkih zgodb?,play_audiobook,6
+667,667.0,Rad bi poslušel še en poglavje.,play_audiobook,6
+668,668.0,Znova začni brati zvočno knjigo o skrivnostnem otoku.,play_audiobook,6
+669,669.0,Predvajaj zvočno knjigo o umetnosti.,play_audiobook,6
+670,670.0,Predvajaj mojo novo nakupljeno zvočno knjigo.,play_audiobook,6
+671,671.0,Nadaljuj z branjem te zgodbe o glasbi.,play_audiobook,6
+672,672.0,Pojdi nazaj na prvem poglavju tega romana.,play_audiobook,6
+673,673.0,Predvajaj zvočno knjigo o zgodovini.,play_audiobook,6
+674,674.0,Pojdi nazaj na začetek te zvoke knjige.,play_audiobook,6
+675,675.0,Rad bi poslušel še en poglavje iz te zgodbe.,play_audiobook,6
+676,676.0,Znova začnite brati zvočno knjigo.,play_audiobook,6
+677,677.0,Predvajaj še enkrat to epsko zgodbo.,play_audiobook,6
+678,678.0,Predvajaj zdaj to zelo zabavno zgodbo.,play_audiobook,6
+679,679.0,Znova začni predvajati to zgodbo o vojnah.,play_audiobook,6
+680,680.0,Predvajaj zdaj to znanstvenofantastično zgodbo.,play_audiobook,6
+681,681.0,Nazaj na prvotno mesto v zgodbi.,play_audiobook,6
+682,682.0,Zazeni zgodbo o Harryju Potterju.,play_audiobook,6
+683,683.0,Predvajaj zgodbo o Sherlocku Holmesu.,play_audiobook,6
+684,684.0,Predvajaj zdaj to zanimivo zgodbo o znanosti.,play_audiobook,6
+685,685.0,Posluši še en razdelek iz te knjige.,play_audiobook,6
+686,686.0,Nadaljuj branje zvočne knjige o vesoljskem pomorskem letu.,play_audiobook,6
+687,687.0,"Uporabi daljnica, da predvajaš zvočno knjigo.",play_audiobook,6
+688,688.0,Predvajaj to zgodbo o pomorstvu.,play_audiobook,6
+689,689.0,Predvajaj zgodbo o otrocih.,play_audiobook,6
+690,690.0,Rad bi poslušel zvočno knjigo o znanosti.,play_audiobook,6
+691,691.0,Nadaljuj branje zvočne knjige o pirih.,play_audiobook,6
+692,692.0,Predvajaj zvočno knjigo o kemiji.,play_audiobook,6
+693,693.0,Predvajaj to zgodbo o pirih.,play_audiobook,6
+694,694.0,Rad bi začel slušet to novo zvočno knjigo.,play_audiobook,6
+695,695.0,Predvajaj to zgodbo o vesoljskem raziskovanju.,play_audiobook,6
+696,696.0,Znova začni brati zvočno knjigo o vampirjih.,play_audiobook,6
+697,697.0,Predvajaj mojo omiljeno zvočno knjigo otrokom.,play_audiobook,6
+698,698.0,"Predvajaj to, kar smo prebrali včeraj.",play_audiobook,6
+699,699.0,Predvajaj še enkrat prvi del tega romana.,play_audiobook,6
+700,700.0,"Koliko filmov sem že zamudil, ki so že izšli letos?",recommendation_movies,7
+701,701.0,Kateri film je najbolje ocenjen med mladimi?,recommendation_movies,7
+702,702.0,Kdo je vaš najljubši film vseh časov?,recommendation_movies,7
+703,703.0,Kako naj bom izbral pravi film za svojo starost?,recommendation_movies,7
+704,704.0,Priporočite mi nekaj romantičnih filmov za valentinovo!,recommendation_movies,7
+705,705.0,Kateri film bi bil zelo zabaven?,recommendation_movies,7
+706,706.0,"Ali lahko dobim seznam filmov, ki so na sporedju v moji okolici?",recommendation_movies,7
+707,707.0,Kateri romantični film bi bil primeren za valentinovo?,recommendation_movies,7
+708,708.0,"Kdo bi ti priporočal, da gledam film iz kategorije grozljivke?",recommendation_movies,7
+709,709.0,"Priporočite mi nekaj filmov, ki so bili nominirani za oskarja.",recommendation_movies,7
+710,710.0,Ali mi lahko priporočiš kakšen romantičen film?,recommendation_movies,7
+711,711.0,"Ali imaš kakšen film, ki je že izšel letos?",recommendation_movies,7
+712,712.0,Kateri film je bil nagrada oskarja letos?,recommendation_movies,7
+713,713.0,Kateri film bi bil primeren za deklice?,recommendation_movies,7
+714,714.0,"Ali lahko vidim seznam filmov, ki se predvajajo v kinu zdaj?",recommendation_movies,7
+715,715.0,Kateri film bi bil zelo vzhičevan?,recommendation_movies,7
+716,716.0,"Kako film bi moral gledati, če Imam prost čas?",recommendation_movies,7
+717,717.0,"Kako najem gledam filme, če nimam časa?",recommendation_movies,7
+718,718.0,"Poišči mi filme, ki se trenutno predvajajo v kinu.",recommendation_movies,7
+719,719.0,Kateri film bi moral biti naslednji na moji seznam?,recommendation_movies,7
+720,720.0,Priporočila filmskih kritikov za leto.,recommendation_movies,7
+721,721.0,"Najboljši filmi, ki se dogajajo v Sloveniji.",recommendation_movies,7
+722,722.0,"Kdo bi še rad pogledal, če bi imel prosto noč?",recommendation_movies,7
+723,723.0,"Kateri film bi bilo vredno ogledat, če Imam rad dokumentarce?",recommendation_movies,7
+724,724.0,Kako izbrati pravi film za večer?,recommendation_movies,7
+725,725.0,Kateri film bi bil primeren za otroke?,recommendation_movies,7
+726,726.0,Kateri film je aktualno najbolje ocenjen?,recommendation_movies,7
+727,727.0,"Ali imate kakšen nov film, ki bi ga moral videti?",recommendation_movies,7
+728,728.0,Kateri film bi bil idealen za mojo mater?,recommendation_movies,7
+729,729.0,Kateri film bi ti priporočal za danes?,recommendation_movies,7
+730,730.0,Kateri film bi bil primeren za mojo razpoložbo?,recommendation_movies,7
+731,731.0,Ali lahko priporočite kakšen film za dekleta?,recommendation_movies,7
+732,732.0,Kateri film bo hit zadnjega letnika?,recommendation_movies,7
+733,733.0,"Povej mi, ali je novi film vreden ogleda?",recommendation_movies,7
+734,734.0,"Ali mi lahko pokažeš liste filmov, ki jih bom mogel gledati v kinu jutri?",recommendation_movies,7
+735,735.0,Ali lahko priporočite kakšen film o glasbeniku?,recommendation_movies,7
+736,736.0,"Kateri film bi moral gledati, če Imam rad romantične filme?",recommendation_movies,7
+737,737.0,Kateri film bi bil idealen za romantičen večer?,recommendation_movies,7
+738,738.0,Ali mi lahko priporočiš kakšen akcijski film?,recommendation_movies,7
+739,739.0,Kateri film bi bil idealen za mojo generacijo?,recommendation_movies,7
+740,740.0,"Koliko filmov sem že zamudil, ki so že izšli?",recommendation_movies,7
+741,741.0,Priporočite mi nekaj dobrih filmov za prehodnost noč!,recommendation_movies,7
+742,742.0,Ali ste že videli novo sezono filma?,recommendation_movies,7
+743,743.0,Izberi mi nekaj dobrih filmov za noč.,recommendation_movies,7
+744,744.0,"Prikaži mi seznam filmov, ki so na sporedju v moji okolici za konec tedna.",recommendation_movies,7
+745,745.0,Ali mi lahko pomagaš s priporočilom filma za večer?,recommendation_movies,7
+746,746.0,Lahko me prosim priporočite kakšen film za otroke?,recommendation_movies,7
+747,747.0,"Kdo bi še rad pogledal, če ne bi imel nobene ideje?",recommendation_movies,7
+748,748.0,Kateri komediji so trenutno popularni?,recommendation_movies,7
+749,749.0,"Katere filme morem gledati, da bom postal kulturno razgiban?",recommendation_movies,7
+750,750.0,Kateri film bi bil dober za starejše?,recommendation_movies,7
+751,751.0,"Kako izbrati med vsemi filmi, ki se aktualno predvajajo?",recommendation_movies,7
+752,752.0,"Najboljši filmi, ki jih moram videti.",recommendation_movies,7
+753,753.0,Kateri film je trenutno najpopularnejši med mladimi?,recommendation_movies,7
+754,754.0,Kako izbrati med tako mnogimi dobrimi filmi?,recommendation_movies,7
+755,755.0,Kateri film bi bil primeren za družinsko večerjo?,recommendation_movies,7
+756,756.0,"Kdo bi mi dal nasvet, kako izbrati pravi film?",recommendation_movies,7
+757,757.0,"Priporočite mi nekaj dobrih filmov, ki jih še ni videl!",recommendation_movies,7
+758,758.0,Kako film bi bilo dobro ogledati s prijatelji?,recommendation_movies,7
+759,759.0,Ali lahko priporočite kakšen film o skrivnosti?,recommendation_movies,7
+760,760.0,Ali lahko priporočite kakšen film o ljubezni?,recommendation_movies,7
+761,761.0,Kateri film bi bil primeren za otroka starega pet let?,recommendation_movies,7
+762,762.0,"Kateri film bi bilo vredno ogledat, če Imam rad komedije?",recommendation_movies,7
+763,763.0,Kateri film bi bil primeren za mojo družino?,recommendation_movies,7
+764,764.0,Kdo bi mi priporočal film za današnji večer?,recommendation_movies,7
+765,765.0,"Ali lahko dobim nasvet, katerega filma bi moral gledati?",recommendation_movies,7
+766,766.0,"Kateri film bi moral gledati, če Imam rad družinske filme?",recommendation_movies,7
+767,767.0,Kateri film bi bil vreden ogleda v kinu?,recommendation_movies,7
+768,768.0,Kateri film je bil najbolje ocenjen letos?,recommendation_movies,7
+769,769.0,Priporočanje filmov za konec tedna.,recommendation_movies,7
+770,770.0,"Prikaži mi seznam novih filmov, ki jih moram videti!",recommendation_movies,7
+771,771.0,"Ali mi lahko poveš, katere filme bodo kmalu prikazovali v kinu?",recommendation_movies,7
+772,772.0,Katere filme bi morale gledati kot par?,recommendation_movies,7
+773,773.0,"Lahko me priporočite neke filme, ki so bili premierno predstavljeni letos?",recommendation_movies,7
+774,774.0,"Ali lahko preveriš, ali je že kdo prikazoval film X v kinu?",recommendation_movies,7
+775,775.0,"Ali lahko poiščeš filme, ki se dogajajo v zimskem času?",recommendation_movies,7
+776,776.0,"Seznam filmov, ki jih bom moral videti pred smrtjo.",recommendation_movies,7
+777,777.0,"Ali imaš kakšen film, ki ga moram videti?",recommendation_movies,7
+778,778.0,Ali lahko priporočite kakšen film o zgodovini?,recommendation_movies,7
+779,779.0,"Povej mi o novem filmu, ki se začel predvajati v kinu.",recommendation_movies,7
+780,780.0,Kateri film je trenutno najbolji v mestnem kino?,recommendation_movies,7
+781,781.0,Kateri film bo najbolje za mojo noč?,recommendation_movies,7
+782,782.0,Ali lahko priporočite kakšen film o fantazijskem svetu?,recommendation_movies,7
+783,783.0,"Ali lahko vidim seznam filmov, ki se predvajajo v kinu v centru mesta?",recommendation_movies,7
+784,784.0,"Ali imaš kakšen film, ki je bil izbran kot najboljši letos?",recommendation_movies,7
+785,785.0,"Ali ste že slišali za novi film, ki se začne predvajati jutri?",recommendation_movies,7
+786,786.0,Kateri film bi bil primeren za mlade?,recommendation_movies,7
+787,787.0,Ali mi lahko pomagaš s priporočilom filma za konec tedna?,recommendation_movies,7
+788,788.0,Kateri film bi bilo treba ogledati pred koncem tedna?,recommendation_movies,7
+789,789.0,"Ali lahko vidim seznam filmov, ki se predvajajo v kinu blizu mene?",recommendation_movies,7
+790,790.0,Ali lahko priporočite kakšen film o avanturi?,recommendation_movies,7
+791,791.0,"Seznam najboljših filmov, ki jih še ni videl.",recommendation_movies,7
+792,792.0,Kateri film bi bile vredni ogleda?,recommendation_movies,7
+793,793.0,"Kako najem vedeti, ali je film vreden ogleda?",recommendation_movies,7
+794,794.0,"Ali mi lahko pokažeš seznam filmov, ki jih bom mogel gledati doma?",recommendation_movies,7
+795,795.0,"Kterega filma bi moral gledati, če Imam rad akcijo?",recommendation_movies,7
+796,796.0,Kateri film je bil ocenjen s strani kritikov kot eden najboljših?,recommendation_movies,7
+797,797.0,Kateri film bi bil idealen za mojo deklico?,recommendation_movies,7
+798,798.0,Kateri film bi bil primeren za mojo družinsko zabavo?,recommendation_movies,7
+799,799.0,Kateri film bi bil dober za otroke?,recommendation_movies,7
+800,800.0,Poizkusite pridobiti vozovnico za letalo do Zagreba.,transport_ticket,8
+801,801.0,Rad bi imel vozovnico za železniško progo Ljubljana-Maribor.,transport_ticket,8
+802,802.0,Rezerviraj mi vozovnico za vlak do Sarajeva.,transport_ticket,8
+803,803.0,"Prosim, izdajte mi vozovnico za mestni promet.",transport_ticket,8
+804,804.0,Koliko stane vozovnica za vlak do Novega Mesta?,transport_ticket,8
+805,805.0,Ali lahko kupim vozovnico za vlak v zadnjem trenutku?,transport_ticket,8
+806,806.0,Rezerviraj mi vozovnico za vlak do Rogašky.,transport_ticket,8
+807,807.0,Poizkusite pridobiti vozovnico za letalo do Pariza.,transport_ticket,8
+808,808.0,Imaš vozovnico za vlak do Krškega?,transport_ticket,8
+809,809.0,Rezerviraj mi vozovnico za vlak do Krškega.,transport_ticket,8
+810,810.0,Preveri razpoložljivost vozovnic za vlak do Pulja.,transport_ticket,8
+811,811.0,Rezerviraj mi vozovnico za vlak do Trbovlija.,transport_ticket,8
+812,812.0,Ko moram kupiti vozovnico za vlak do Ankare?,transport_ticket,8
+813,813.0,Odpri mojo vozovnico za avtobusno linijo št. pet.,transport_ticket,8
+814,814.0,Odprtje aplikacije za nakup vozovnic za regionalni promet.,transport_ticket,8
+815,815.0,Poišči vozovnico za avtobus do Splita.,transport_ticket,8
+816,816.0,Lahko kupim vozovnico za vlak do Italije?,transport_ticket,8
+817,817.0,Koliko časovno trajajo vozovnice za mestni promet v Kopru?,transport_ticket,8
+818,818.0,Kupi vozovnico za autobus št. 27.,transport_ticket,8
+819,819.0,"Prosim, rezerviraj mi vozovnico za vlak do Portoroža.",transport_ticket,8
+820,820.0,Kupil bom vozovnico za avtobus št. 27.,transport_ticket,8
+821,821.0,Poišči vozovnico za vlak do Celja za naslednji teden.,transport_ticket,8
+822,822.0,Kako lahko dobim vozovnico za avtobus št. 12?,transport_ticket,8
+823,823.0,Kako lahko pridobim informacije o cenah vozovnic za vlak?,transport_ticket,8
+824,824.0,Katero vozovnico potrebujem za vlak do Rijeke?,transport_ticket,8
+825,825.0,"Vozovnica za vlak do Krška stane 20 evrov, ali ni res?",transport_ticket,8
+826,826.0,"Prosimo, izdajte mi vozovnico za vlak do Novega Mesta.",transport_ticket,8
+827,827.0,Nakupi vozovnico za vlak do Rijeke.,transport_ticket,8
+828,828.0,Kupil bi vozovnico za vlak do Trsta.,transport_ticket,8
+829,829.0,Potrebujem vozovnico za vlak do Ptuja.,transport_ticket,8
+830,830.0,Lahko dobim vozovnico za vlak do Celja?,transport_ticket,8
+831,831.0,Kdo prodaja vozovnice za vlak v Mariboru?,transport_ticket,8
+832,832.0,Rezerviraj mi vozovnico za vlak do Budimpešte.,transport_ticket,8
+833,833.0,Potrebujem vozovnico za vlak št. dva.,transport_ticket,8
+834,834.0,Rad bi imel vozovnico za vlak do Zagreba za naslednji teden.,transport_ticket,8
+835,835.0,Poišči mi najcenejše vozovnice za letalo do Pariza.,transport_ticket,8
+836,836.0,Rezervacija vozovnic za vlak do Zagreba je že odprta.,transport_ticket,8
+837,837.0,Kako dolgo velja vozovnica za javni prevoz v Mestni občini Ljubljana?,transport_ticket,8
+838,838.0,Zamenjava vozovnice za vlak ni možna.,transport_ticket,8
+839,839.0,Želim rezervirati vozovnico za vlak proti koncu tedna.,transport_ticket,8
+840,840.0,Koliko časa predhodno moram rezervirati vozovnico za vlak?,transport_ticket,8
+841,841.0,Rezerviraj mi vozovnico za vlak do Celja za soboto.,transport_ticket,8
+842,842.0,Rezerviraj mi vozovnico za vlak do Šentjurija.,transport_ticket,8
+843,843.0,Koliko stane vozovnica za mestni promet v Ljubljani?,transport_ticket,8
+844,844.0,Odpri aplikacijo za nakup vozovnic za mestni promet.,transport_ticket,8
+845,845.0,Kdo prodaja vozovnice za vlak do Slovenskih Konjic?,transport_ticket,8
+846,846.0,Koliko stane vozovnica za vlak do Ljubljanskega letališča?,transport_ticket,8
+847,847.0,Koliko stane vozovnica za avtobus od Ljubljane do Maribora?,transport_ticket,8
+848,848.0,Poišči vozovnico za vlak do Novega Mesta.,transport_ticket,8
+849,849.0,"Prosimo, pomagajte mi pri rezerviranju vozovnice za vlak do Dunaja.",transport_ticket,8
+850,850.0,Nakupi vozovnico za avtobus do Ljubljanskega aerodroma.,transport_ticket,8
+851,851.0,Kdo prodaja vozovnice za avtobus v Ljubljani?,transport_ticket,8
+852,852.0,Vprašaj me o cenah vozovnic za mestni promet.,transport_ticket,8
+853,853.0,Rezerviraj mi vozovnico za vlak do Celja.,transport_ticket,8
+854,854.0,Ali lahko rezerviram vozovnico za vlak do Pulja?,transport_ticket,8
+855,855.0,Rezerviraj mi vozovnico za vlak do Rijeke.,transport_ticket,8
+856,856.0,"Vprašaj, ali je možna rezervacija vozovnice za vlak do Krška.",transport_ticket,8
+857,857.0,Cena vozovnice za vlak se razlikuje glede na vrsto vlaka.,transport_ticket,8
+858,858.0,Ali lahko rezerviram vozovnico za vlak online?,transport_ticket,8
+859,859.0,Kako dobim vozovnico za mestni promet brez gotovine?,transport_ticket,8
+860,860.0,Rezerviraj mi dva vozovna lista za vlak do Beograda.,transport_ticket,8
+861,861.0,Rezerviraj mi vozovnico za vlak do Bukarešte.,transport_ticket,8
+862,862.0,Potrebujem vozovnico za autobus do Maribora.,transport_ticket,8
+863,863.0,"Vprašam, ali lahko kupim vozovnico za vlak na železniški postaji?",transport_ticket,8
+864,864.0,Rezerviraj mi vozovnico za vlak do Slovenske Bistrice.,transport_ticket,8
+865,865.0,Katera vozovnica je najprimernejša za potovanje iz Maribora v Novo Gorico?,transport_ticket,8
+866,866.0,Kolkovna vozovnica potrebna za vlak do Jesenic?,transport_ticket,8
+867,867.0,Rezerviraj mi enosmerno karto za vlak do Zagreba.,transport_ticket,8
+868,868.0,Nakupi vozovnico za mestni avtobus št. 12.,transport_ticket,8
+869,869.0,Kako dobim vozovnico za avtobusno linijo št. osm?,transport_ticket,8
+870,870.0,Naročil bom vozovnico za vlak do Zagreba.,transport_ticket,8
+871,871.0,Poizkusite pridobiti vozovnico za letalo do Berlina.,transport_ticket,8
+872,872.0,"Prosimo, izdajte mi vozovnico za vlak do Ljubljanskega letališča.",transport_ticket,8
+873,873.0,Koliko stane vozovnica za čoln na Bledskem jezeru?,transport_ticket,8
+874,874.0,"Prosimo, rezerviraj mi vozovnico za vlak do Pulja.",transport_ticket,8
+875,875.0,Rezerviraj mi dvosmerno karto za vlak do Portoroža.,transport_ticket,8
+876,876.0,Želim kupiti vozovnico za vlak št. sedem.,transport_ticket,8
+877,877.0,Rezervacija vozovnice za vlak je že začela.,transport_ticket,8
+878,878.0,Vprašaj o cenah vozovnic za železniško progo do Italije.,transport_ticket,8
+879,879.0,Kdo prodaja vozovnice za železniške proge v Sloveniji?,transport_ticket,8
+880,880.0,Rezerviraj mi vozovnico za vlak do Cerkvenjak.,transport_ticket,8
+881,881.0,Ali lahko kupim vozovnico za mestni promet v Ljubljani?,transport_ticket,8
+882,882.0,Rezerviraj mi vozovnico za vlak do Idrije.,transport_ticket,8
+883,883.0,Rezerviraj mi vozovnico za vlak do Novega Sada.,transport_ticket,8
+884,884.0,Najboljša možnost nakupa vozovnic za vlak je na spletni strani.,transport_ticket,8
+885,885.0,Kupite mi vozovnico za autobusno linijo št. šest.,transport_ticket,8
+886,886.0,Odprite aplikacijo za nakup vozovnic za mednarodni promet.,transport_ticket,8
+887,887.0,Poišči vozovnico za vlak do Šentjurija.,transport_ticket,8
+888,888.0,Nakupujte vozovnice za vlak online.,transport_ticket,8
+889,889.0,"Prosimo, izdajte mi vozovnico za vlak do Cerkelj pri Dragatuši.",transport_ticket,8
+890,890.0,"Dvakrat dnevno vozim vlak iz Ljubljane v Maribor, potrebujem vozovnico.",transport_ticket,8
+891,891.0,Katera vozovnica je primernejša za mladino pod 26 let?,transport_ticket,8
+892,892.0,"Prosim, rezerviraj mi vozovnico za vlak do Celja.",transport_ticket,8
+893,893.0,Rezerviraj mi vozovnico za vlak do Krška.,transport_ticket,8
+894,894.0,Lahko kupim vozovnico za vlak do Zagreba?,transport_ticket,8
+895,895.0,Kupil bi dve vozovnici za avtobus št. 27.,transport_ticket,8
+896,896.0,Lahko kupim vozovnico za vlak do Beograda?,transport_ticket,8
+897,897.0,Odprite aplikacijo za nakup vozovnic za mestni promet.,transport_ticket,8
+898,898.0,Kupil bom vozovnico za avtobus št. tri.,transport_ticket,8
+899,899.0,Kupil bi dve vozovnici za avtobus do Maribora.,transport_ticket,8
+900,900.0,Ali bo neurjenje v prihodnjem tednu?,weather_query,9
+901,901.0,Ali bo sunek danes?,weather_query,9
+902,902.0,Ali bo ledeno v prihodu?,weather_query,9
+903,903.0,Ali bo deževano v soboto?,weather_query,9
+904,904.0,Kateri dan bo najtopliši v tej sedmici?,weather_query,9
+905,905.0,Kako visoka bo bila vlaga?,weather_query,9
+906,906.0,"Povej mi, ali bo snegalo v gorah.",weather_query,9
+907,907.0,Ali bo sončno danes?,weather_query,9
+908,908.0,Kako dolgo bo trajala hladna fronta?,weather_query,9
+909,909.0,Ali bo sončno v četrtek?,weather_query,9
+910,910.0,Kakšen bo temperaturni razvoj v nadaljnji tedni?,weather_query,9
+911,911.0,Ali bo toplo v prihodnjih dneh?,weather_query,9
+912,912.0,Kakšno bo vreme v Portorožu?,weather_query,9
+913,913.0,Ali bo snegalo v gorah?,weather_query,9
+914,914.0,Kako bo vreme v Celju?,weather_query,9
+915,915.0,Dežuje li v Ljubljani?,weather_query,9
+916,916.0,Ali bo neurjenje v prihodu?,weather_query,9
+917,917.0,"Prosim, povej mi o vremenu v Portorožu.",weather_query,9
+918,918.0,Katera bomo imeli največ dežja?,weather_query,9
+919,919.0,Kakšen bo razvoj temperature v prihodnjem tednu?,weather_query,9
+920,920.0,Bo toplije v prihodnjem tednu?,weather_query,9
+921,921.0,Kateri dan bo najtoplejši ta teden?,weather_query,9
+922,922.0,Bo deževano v Kršku?,weather_query,9
+923,923.0,Ali bo oblakovno v sredo?,weather_query,9
+924,924.0,Bo vetreno včeraj zvečer?,weather_query,9
+925,925.0,Bo toplo v avgustu?,weather_query,9
+926,926.0,Kako bo vreme v Mariboru?,weather_query,9
+927,927.0,"Povej mi, ali bo veterno v prihodu.",weather_query,9
+928,928.0,Bo mrazil v zgodnjih jutrih?,weather_query,9
+929,929.0,Kateri je trenutni veter?,weather_query,9
+930,930.0,Kako bo vreme jutri?,weather_query,9
+931,931.0,"Prosim, povej mi o vremenu v slovenskih Alpah.",weather_query,9
+932,932.0,Bo deževano v Ljubljani?,weather_query,9
+933,933.0,Koliko mm dežja bo padlo včeraj?,weather_query,9
+934,934.0,Kako bo vreme v okolici?,weather_query,9
+935,935.0,Bo toplo v soboto?,weather_query,9
+936,936.0,Kakšen bo razvoj vlage v vzduhu?,weather_query,9
+937,937.0,"Prosim, povej mi o vremenu na morebitnem oddihu.",weather_query,9
+938,938.0,Kako bo vreme v goricah?,weather_query,9
+939,939.0,Ali bo popoldanško sonce?,weather_query,9
+940,940.0,Kako bo vreme v Bledu?,weather_query,9
+941,941.0,Koliko stopinj bo temperatura danes?,weather_query,9
+942,942.0,Kako bo vreme v mestu?,weather_query,9
+943,943.0,Bo možen tornado v naših krajih?,weather_query,9
+944,944.0,Kakšno bo vreme ob koncu tedna?,weather_query,9
+945,945.0,Ali bo lahko športati zunaj danes?,weather_query,9
+946,946.0,Kako bo vreme na morju?,weather_query,9
+947,947.0,Kakšno vreme bo za konec tedna?,weather_query,9
+948,948.0,Kako bo vreme v Mariboru danes?,weather_query,9
+949,949.0,"Povej mi, ali bo burja v prihodu.",weather_query,9
+950,950.0,Ali bo snegalo v Bohinju?,weather_query,9
+951,951.0,Bo snegalo v gorah?,weather_query,9
+952,952.0,Ali bo sončno v soboto?,weather_query,9
+953,953.0,Ali bo jasen večer?,weather_query,9
+954,954.0,Bo mrzlo v soboto?,weather_query,9
+955,955.0,Kakšen bo razplet vremena naslednjih dni?,weather_query,9
+956,956.0,Bo mogoče še vedno snegati?,weather_query,9
+957,957.0,Kako bo vreme v Murski Soboti?,weather_query,9
+958,958.0,Kako bo vreme v krajevni skupnosti?,weather_query,9
+959,959.0,Bo deževano v Idriji?,weather_query,9
+960,960.0,Kako bo vreme v Velenju?,weather_query,9
+961,961.0,Kakšen je izgled vremena za naslednji mesec?,weather_query,9
+962,962.0,Kako bo vreme v Novi Gorici?,weather_query,9
+963,963.0,Kakšno bo vreme na morju?,weather_query,9
+964,964.0,Koliko stopinj bo zraka danes?,weather_query,9
+965,965.0,Kakšen je pogoj vremena za vaš promet?,weather_query,9
+966,966.0,Bo toplišče danes?,weather_query,9
+967,967.0,Kakšen je razvoj vremena za naslednjih pet dni?,weather_query,9
+968,968.0,Bo jasno nebo danes?,weather_query,9
+969,969.0,Koliko mm dežja bo padlo danes?,weather_query,9
+970,970.0,Bo oblakovno v petek?,weather_query,9
+971,971.0,Koliko stopinj bo danes?,weather_query,9
+972,972.0,Bo veterno včeraj dopoldan?,weather_query,9
+973,973.0,Bo toplo v maju?,weather_query,9
+974,974.0,Kako bo vreme v hribih?,weather_query,9
+975,975.0,Kakšen je trend vremena za letošnje poletje?,weather_query,9
+976,976.0,Kako bo vreme za šport v naravi?,weather_query,9
+977,977.0,Ali bo deževano v Zagorju?,weather_query,9
+978,978.0,Bo hladno včeraj večer?,weather_query,9
+979,979.0,Bo hladno v januarju?,weather_query,9
+980,980.0,Bo mrzlo v noči?,weather_query,9
+981,981.0,Bo toplo v juniju?,weather_query,9
+982,982.0,Kako dolgo bo trajala suša?,weather_query,9
+983,983.0,Bo deževano v prvem delu dneva?,weather_query,9
+984,984.0,Kako dolgo bo trajala hladna tema?,weather_query,9
+985,985.0,Kako bo vreme za smučanje v Kranjski Gori?,weather_query,9
+986,986.0,Ali bo deževno v sredo?,weather_query,9
+987,987.0,"Prosim, kako bo vreme čez en teden?",weather_query,9
+988,988.0,Povej mi o vremenu v Cerknici.,weather_query,9
+989,989.0,Ali bo sunčano v nedeljo?,weather_query,9
+990,990.0,Ali bo oblačno v nedeljo?,weather_query,9
+991,991.0,Bo hladno v noči?,weather_query,9
+992,992.0,Kako visoko bo bila temperatura zvečer?,weather_query,9
+993,993.0,Kako bo vreme za piknik v parku?,weather_query,9
+994,994.0,Ali bo oblačno v soboto?,weather_query,9
+995,995.0,Bo mogoče še enkrat imeti topli dnevi?,weather_query,9
+996,996.0,Kako hitro bo vetar pihal?,weather_query,9
+997,997.0,Kako bo vreme v Kršku?,weather_query,9
+998,998.0,Ali bo burja v prihodu?,weather_query,9
+999,999.0,Ali bo sončno ob koncu tedna?,weather_query,9
+0,,"Je že času, da nastavim nov alarm?",alarm_query,0
+1,,Znižaj volumen na polovico.,audio_volume_down,1
+2,,Je že čas alarma za zbor?,alarm_query,0
+3,,"Želim naučiti kuhati indijski curry, ima kdo dober recept?",cooking_recipe,3
+4,,"Kolikšen delež soli dodam k juhi, da ne bo prehladena?",cooking_recipe,3
+5,,"Prosim, kako je vreme danes v Celju?",weather_query,9
+6,,Ali imaš kakšen alarm nastavljen za danes?,alarm_query,0
+7,,"Prosim, kako bo vreme za dnevi v Portorožu?",weather_query,9
+8,,Imate kakšen poseben ponudbe za vozovnice za vlak do Dubrovnika?,transport_ticket,8
+9,,Katero je prognoza za vreme v soboto?,weather_query,9
+10,,Zbriši zadnji dogodek iz mojega koledarja,calendar_remove,2
+11,,"Prosim, izbriši vse dogodke do konca tedna",calendar_remove,2
+12,,počisti celotni koledar in začni znova,calendar_remove,2
+13,,Napiši in pošlji elektronsko sporočilo materi za rojstni dan.,email_sendemail,5
+14,,"Mi lahko priporočate neke nove filme, ki so izšli pred kratkim?",recommendation_movies,7
+15,,Ali je že nastavljena moja budilka za danes?,alarm_query,0
+16,,katere filme bodo predvajali jutri v mariboru,recommendation_movies,7
+17,,Poišči mi enostaven recept za kuhanje črnega riža!,cooking_recipe,3
+18,,izberi naključno poglavje v zvočni knjigi in ga predvaji,play_audiobook,6
+19,,"Utiži zvočnike, prosim!
+Znižaj še malce glasnost, prosimo.",audio_volume_down,1
+20,,Prikaži mi cene vozovnic za vlak med Ljubljano in Celjem.,transport_ticket,8
+21,,"Prosim, znižaj glasnost, da lahko razumljivo govorimo!",audio_volume_down,1
+22,,"Vrstite osnovno vsebino elektronskega sporocila za Simona, ki mu čestita rojstni dan.",email_sendemail,5
+23,,"Lahko bi bilo tišje?
+Ni mi všeč tako glasno, utišaj!
+Tone utiši, prosim.
+Zmanjšaj glasnost na pol.
+Preglasno je, utišaj!",audio_volume_down,1
+24,,"Pošlji elektronsko sporočilo Karolu in mu oznanil, da sem končal projekt.",email_sendemail,5
+25,,Imaš kaj priporočila za romanticne filme?,recommendation_movies,7
+26,,nadljuj z brazdo leta,play_audiobook,6
+27,,Prikaži mi cene vozovnic za vlak iz Ljubljane v Pulj,transport_ticket,8
+28,,Kakšen je recept za tradicionalni idrijski žlikrofi?,cooking_recipe,3
+29,,Kakšen je razmerje med oljem in octom pri marinanu?,cooking_recipe,3
+30,,Potrebujejo informacije o cenah vozovnic za železniške proge.,transport_ticket,8
+31,,Koliko časa moram kuhati bele strocnice?,cooking_recipe,3
+32,,ponovna začnitev in izbrisite vse vnose v koledarju,calendar_remove,2
+33,,Kje lahko najdem recept za pravi italijanski risotto?,cooking_recipe,3
+34,,Imate informacije o cenah vozovnic za vlak med Slovensko Bistrico in Krškim?,transport_ticket,8
+35,,Katere ure imajo moji alarmi nastavljeno?,alarm_query,0
+36,,Kateri filmski naslovi bodo izšli letos?,recommendation_movies,7
+37,,Lahko bi bil malo tiše.,audio_volume_down,1
+38,,Kateri alarm se bo sprožil naslednjega dne?,alarm_query,0
+39,,Prikaži vse moje nastavitve alarmov!,alarm_query,0
+40,,"Vozovnica za vlak do Kranja, prosim?",transport_ticket,8
+41,,zbriši vsa prihodnostna opravila iz mojega koledarja,calendar_remove,2
+42,,Ali bo veliko sonca v Mariboru ob koncu tedna?,weather_query,9
+43,,"Znižaj občutljivost zvoka, prosim.",audio_volume_down,1
+44,,Koliko oblačnosti pričakujete za danes?,weather_query,9
+45,,"Čas v Pekingu je dva uri naprej od nas, ali je tako?",datetime_convert,4
+46,,Koliko stopinj bo zraka danes v Mariboru?,weather_query,9
+47,,Katere alarme imam nastavitve za danes?,alarm_query,0
+48,,Pretvori času iz Rima v Pariz!,datetime_convert,4
+49,,Spremeni časovni pas iz pacifiškega na evropski.,datetime_convert,4
+50,,V katerem časovnem pasu je ZDA ko je tu treh popoldne?,datetime_convert,4
+51,,Tišji! To je preglasno!,audio_volume_down,1
+52,,Odstrani vsa opravila za ta mesec,calendar_remove,2
+53,,"Imam dve Evropine jabolke, kako jih uporabim za pecivo?",cooking_recipe,3
+54,,"Pošiljaj elektronsko sporocilo Denisu, da se je začel nov projekt in potrebuje njegove podatke.",email_sendemail,5
+55,,Vozovnice za vlak za dva dni z Ljubljane do Kopra.,transport_ticket,8
+56,,Ali je bil alarm za danes že sprožen?,alarm_query,0
+57,,"Zbriši vsakršen dogodek, ki je nastavljen za jutri",calendar_remove,2
+58,,"Imam en kilogram šampinjonov, kako jih pripravim na žaru?",cooking_recipe,3
+59,,Ali bo dež uživaš čez tri dni?,weather_query,9
+60,,"Imam polov kile češenj, kako jih uporabim v sladici?",cooking_recipe,3
+61,,"Povedaj mi, katere filme bi moral pogledati, če bom imel prost čas?",recommendation_movies,7
+62,,priporoči mi nekaj dobrega iz žanra znanstvene fantastike!,recommendation_movies,7
+63,,V kolikšnih je zdaj čas v New Yorku če je tu pol ene?,datetime_convert,4
+64,,"Lahko prosim preveriš, če bo dež v soboto v Celju?",weather_query,9
+65,,"Kako dolgo moram peči pita, da bo zlaten brown?",cooking_recipe,3
+66,,Naredi rezervacijo vozovnice za vlak iz Ljubljane v Zagreb zanjemi prostorskima sedežema,transport_ticket,8
+67,,Potrebujem informacije o vozovnicah za vlak do Zagreba.,transport_ticket,8
+68,,kje najdem recept za pravi italijanski risoto,cooking_recipe,3
+69,,"Pojdi povej mi, kako bo vreme jutri.",weather_query,9
+70,,želem recept za kuhanega rakca,cooking_recipe,3
+71,,Predlagaš nekaj dobrih filmov?,recommendation_movies,7
+72,,Ali bo še vedno toplo vreme do konca tedna?,weather_query,9
+73,,"Koliko časa bom kuhal krompir, če ga želim mehki?",cooking_recipe,3
+74,,Kateri vremenski pogoj pričakuje na goro?,weather_query,9
+75,,"Povprašaj, kako bo vreme v sredo v Celju.",weather_query,9
+76,,Katere Alarmer So Zajtraj Nastavljene?,alarm_query,0
+77,,"Prosim, pošljite elektronsko sporočilo na novo ustanovljenem elektronskem naslovu našega direktorja.",email_sendemail,5
+78,,začni ponovno predvajati zvočno knjigo ki sem jo prekinil,play_audiobook,6
+79,,Počisti moj koledar za dnevi med prvim januarjem in koncem marca,calendar_remove,2
+80,,"Predlagaš nove filme, ki so pravkar izšli?",recommendation_movies,7
+81,,"Pošlji elektronsko sporočilo tati in mu naroči, naj kupi kruh in mleko.",email_sendemail,5
+82,,počni ponovno predvajati zvočno knjigo od začetka,play_audiobook,6
+83,,pomagaj mi rezervirati vozovnico za vlak do kopra,transport_ticket,8
+84,,"Lahko bi bil zvok nekoliko tišší?
+Utiži tone, prosim!
+Znižaj glasnost za en decibel.
+Prosim, utišaj glasnost!
+Zmanjšaj glasnost na polovico, prosim!",audio_volume_down,1
+85,,Kolikšen je občasni padavinski indeks danes?,weather_query,9
+86,,Poišči mi recept za slaščično palačinke!,cooking_recipe,3
+87,,Koliko stopinj bo zraka danes v Celju?,weather_query,9
+88,,Ponovna začnitev in izbrisite vse moje dogodke,calendar_remove,2
+89,,Prosim povejte mi koliko bo ura tu ob enih zvečer v Tokiu.,datetime_convert,4
+90,,Spremeniti časovni pas iz romunskega v berlinski.,datetime_convert,4
+91,,Če je tu ena popoldne koliko je ura v Tokiu?,datetime_convert,4
+92,,izbriši vse dogodke do konca tedna,calendar_remove,2
+93,,ali imaš kakšen primeren film za večer,recommendation_movies,7
+94,,"Napiši in pošlji elektronsko sporočilo materi, da ji čestitamo hvala za rojstni dan!",email_sendemail,5
+95,,Rezerviraj mi še eno vozovnico za vlak do Portoroža za naslednjo soboto.,transport_ticket,8
+96,,Ali imaš kakšen alarm nastavljen zanjutraj?,alarm_query,0
+97,,priporočite mi filme s komedijo,recommendation_movies,7
+98,,Ali bo jutri sončno vreme na Primorskem?,weather_query,9
+99,,"Spomini mi, ali sem nastavil alarm za danes?",alarm_query,0
+100,,Počisti celoten koledar in zbriši vse dogodke,calendar_remove,2
+101,,Kateri filmski klasiki bi ti priporočal za ogled doma?,recommendation_movies,7
+102,,"Prosim, izbriši vse zapise iz mojega koledarja",calendar_remove,2
+103,,Koliko časa moram peči piščančke krila?,cooking_recipe,3
+104,,Ali je alarm za danes že nastavljen?,alarm_query,0
+105,,"Povej mi, koliko stopinj bo znotraj dneva?",weather_query,9
+106,,Katere alarme sem nastavil za ta teden?,alarm_query,0
+107,,"Nadaljuj s predvajanjem zadnje zvočne knjige, prosim.",play_audiobook,6
+108,,"Glasnost je preglasna, znižaj jo, prosim.",audio_volume_down,1
+109,,Nastavi mi obvestilo na 7.00!,alarm_query,0
+110,,"Odgovori Uršku na elektronsko sporocilo, da smo že prejeli naročilo in bomo začeli delati takoj.",email_sendemail,5
+111,,"Napiši in pošlji elektronsko sporočilo Marku, da mu sporoči, kdaj bo končal projekt.",email_sendemail,5
+112,,V katerem času smo zdaj prosim spremenite ga na newyorški čas.,datetime_convert,4
+113,,"V kakšnem času smo zdaj, ko je v Parizu ena uro popoldan?",datetime_convert,4
+114,,"Nadaljuj s predvajanjem zvočne knjige, ko sem jo zapustil.",play_audiobook,6
+115,,nadlaguj se nazaj k prebranemu delu knjige,play_audiobook,6
+116,,"Imam sveže školjke, kako jih pripravim?",cooking_recipe,3
+117,,Zbriši mojo zadnjo dodano dogodanje,calendar_remove,2
+118,,predvajaj naslednji del zvočne knjige,play_audiobook,6
+119,,Pošlji elektronsko sporočilo našemu partnerju in ga obvesti o spreminjanju datumov.,email_sendemail,5
+120,,Zmanjšajmo glasnost na polovično ravni!,audio_volume_down,1
+121,,"Prosim, izbriši zadnji dodan dogodek iz mojega koledarja",calendar_remove,2
+122,,"Želim naučit, kako spravit pomladni salat z omako!",cooking_recipe,3
+123,,Ali je alarm za 7. uro že nastavljen?,alarm_query,0
+124,,Koliko časa moram peči pita s sirom?,cooking_recipe,3
+125,,zaačni znova predvajati moje omiljeno zvočno delo,play_audiobook,6
+126,,"Oddaj elektronsko sporocilo Janezu, da moramo opraviti projekt do konca tedna.",email_sendemail,5
+127,,"Koliko možnosti je za to, da bo danes sončno?",weather_query,9
+128,,"Prosim, znižaj šumu v ozadju.",audio_volume_down,1
+129,,zapri trenutno predvajano zvočno knjigo in odprite novo,play_audiobook,6
+130,,"Znižaj glasnost, ker je preglasno!",audio_volume_down,1
+131,,izbriši dogodek šolske priprave,calendar_remove,2
+132,,"Glasnost je previsoka, lahko jo znižaš?",audio_volume_down,1
+133,,"Prosim, kako je vreme danes na Primorskem?",weather_query,9
+134,,Katero oblačnost lahko pričakamo danes?,weather_query,9
+135,,Zbriši vse zapise iz mojega koledarja za letošnji avgust,calendar_remove,2
+136,,"Prosim, znižaj še malce glasnost.",audio_volume_down,1
+137,,odpovej obveznosti do konca tedna,calendar_remove,2
+138,,lahko bi mi priporočal kakšen dober akcijski film,recommendation_movies,7
+139,,Spremeni časovni pas iz pacifičnega na centralni.,datetime_convert,4
+140,,nadaljuj z zadnjo prebrano zvočno knjigo,play_audiobook,6
+141,,Prosim povej mi koliko bo ure tukaj v Sydneyju ob osmih zjutraj?,datetime_convert,4
+142,,Je moj glavni alarm še vedno nastavljen na 7.00 ure?,alarm_query,0
+143,,Kdo bi mi dal nasvet za dober film za večer?,recommendation_movies,7
+144,,nadaljuj s predvajanjem zadnje zvočne knjige,play_audiobook,6
+145,,Želim recept za tradicionalni prekmurski gibanica!,cooking_recipe,3
+146,,"Preglasno igrajo, utiši jih!
+Znižaj glasnost za polovico.",audio_volume_down,1
+147,,Pretvori devet uri dopoldan iz greenwichenga v madridski čas.,datetime_convert,4
+148,,Kateri film bi ti priporočal za večer?,recommendation_movies,7
+149,,"Imam različne vrste začimb, ampak ne vem, kako jih kombinirati za Dobro živalsko jed!",cooking_recipe,3
+150,,Pretvori lokalni čas v čas v Buenos Airesu.,datetime_convert,4
+151,,Je moj glavni alarm že aktiviran?,alarm_query,0
+152,,Zbriši sestanek pripravljalcem in ga prestavi na petek.,calendar_remove,2
+153,,Lahko me obvesti o morebitnem dežju v prvem tednu aprila?,weather_query,9
+154,,Kakšen film bi bilo treba ogledati?,recommendation_movies,7
+155,,Prikaži vse moje aktivne alarme!,alarm_query,0
+156,,predvajaj moj najljubši avdio zmaji,play_audiobook,6
+157,,izbriši mojo razpisano srečanje,calendar_remove,2
+158,,Naredi rezervacijo vozovnice za vlak do Portoroža.,transport_ticket,8
+159,,počni predvajati zvočno knjigo od novice,play_audiobook,6
+160,,"Narezi osnutek odgovora na spletno sporočilo od simona in ga prositi, da ti pošlje informacije o koncertu.",email_sendemail,5
+161,,"Prosim, pošlji mojo družinski članom e-sporočilo z obrazložitvijo dogodka.",email_sendemail,5
+162,,Vprašam za vremensko napoved.,weather_query,9
+163,,Katero količino sladkorja je potrebna za slaščično pita?,cooking_recipe,3
+164,,Rezervacija vlaka za Ljubljano za jutri,transport_ticket,8
+165,,"Povej mi, kdo ima dobre reference na nove filme.",recommendation_movies,7
+166,,Pretvori čas 14:30 iz osrednjega evropskega časa v zahodni afriški čas.,datetime_convert,4
+167,,Ali bo še vedno sončno vreme do konca tedna?,weather_query,9
+168,,"Če je tukaj tri ure popoldan, koliko je ura v Parizu?",datetime_convert,4
+169,,"Glasnost znižaj na minimum.
+Ta glasnost me razdraži, utišaj jo.
+Naredi, da bo glasnost nižja.",audio_volume_down,1
+170,,"Zvočniki so predglih, utihi jih, prosim!",audio_volume_down,1
+171,,"Poslji elektronsko sporočilo Ani in ji povej, kdaj bo prišel domov.",email_sendemail,5
+172,,katero olje je najboljše za kuhanje na odprtem ognju,cooking_recipe,3
+173,,"V kakšnem času smo, če je v New Yorku treh popoldan?",datetime_convert,4
+174,,začni predvajati tisto zvočno knjigo spet,play_audiobook,6
+175,,"Povej mi, kako bo vreme v prvem tednu marca.",weather_query,9
+176,,Pokaži mi razpoložljive vozovnice za vlak v Pulju.,transport_ticket,8
+177,,"Odgovori na spletno sporočilo od Barbare in jo vprašaj, ali ji je všeč novo delo.",email_sendemail,5
+178,,"Pošlji elektronsko sporočilo Ani, da ji poročam o stanju opravil.",email_sendemail,5
+179,,Je že čas za toplejše oblačila?,weather_query,9
+180,,"Spoštovanja, prosim vas, da pošiljte elektronsko sporočilo našemu kolegu in mu preložite naročila.",email_sendemail,5
+181,,Spremeni časovni pas iz pacifičnega na berlinski.,datetime_convert,4
+182,,Pretvoriti trenutni čas iz zahodnega pacifičnega časa v srednjeevropejski čas.,datetime_convert,4
+183,,"Prosim, izbriši vse obveznosti za naslednjik teden",calendar_remove,2
+184,,"Če je tukaj tri ure dopoldne, koliko je ure v Pekingu?",datetime_convert,4
+185,,Napiši kratko elektronsko sporočilo prijatelju iz tujine in vprašaj kako živi.,email_sendemail,5
+186,,Pošlji elektronsko sporočilo kolegu o končanih opravilih.,email_sendemail,5
+187,,Pošlji kratko elektronsko sporočilo prijatelju iz tujine in vprašaj kako se ima.,email_sendemail,5
+188,,"Prosim, pošlji elektronsko sporočilo Mojci in ji povej, da smo že začeli novo projekt.",email_sendemail,5
+189,,"Odgovorite Janezu na njegovo elektronsko sporočilo in mu napisite, da bom prisoten na dogodek.",email_sendemail,5
+190,,predvajaj prvo poglavje nove zvočne knjige,play_audiobook,6
+191,,Vprašaj me o cenah in razpoložljivosti vozovnic za vlec iz Ljubljane v Dunaj.,transport_ticket,8
+192,,Koliko stopinj bo danes temperatura v Kopru?,weather_query,9
+193,,"Nadaljuj predvajanje zvočne knjige, ki smo jo prekinili.",play_audiobook,6
+194,,"Pošlji elektronsko sporočilo svojim kolegom, da jim sporoči, kdaj bo začel seminar.",email_sendemail,5
+195,,"Tisti glas je preglasen, lahko ga znižaš?",audio_volume_down,1
+196,,iz koliko kosov mesa lahko naredim dobro piko,cooking_recipe,3
+197,,"Odgovori na elektronsko sporočilo od Sonje in ji povej, kakšen je bil tvoj konec tedna.",email_sendemail,5
+198,,Odvetniku pošljite elektronsko sporočilo z izračunom stroška.,email_sendemail,5
+199,,Lahko me obvesti o morebitnem dežju za konec tedna?,weather_query,9
+200,,"V kolikih je zdaj v Sydneyju, če je tu pol tri po domači uri?",datetime_convert,4
+201,,predvajaj zgodbo o rimu,play_audiobook,6
+202,,"Mi lahko priporočamo novo sezono serije ""Stranger Things"", če te zanima.",recommendation_movies,7
+203,,Poišči mi recept za bolonjski rezanc!,cooking_recipe,3
+204,,Ali bo še toplije v prihodom tednu v Mariboru?,weather_query,9
+205,,"Ponovna začnitev predvajanja zvočne knjige, prosim.",play_audiobook,6
+206,,V kakšem vremenu lahko še hoje na smučanje?,weather_query,9
+207,,Pošlji elektronsko sporočilo kolegu in ga obvesti o spreminjanju urnika delavcev.,email_sendemail,5
+208,,odpri novo poglavje v tej zvočni knjigi,play_audiobook,6
+209,,"Pošljite elektronsko sporočilo našemu upravniku, da ga obvestimo o morebitnih stroških projekta.",email_sendemail,5
+210,,"Utiši glasnost, prosim",audio_volume_down,1
+211,,nadaljuj tam kjer sem prekinil,play_audiobook,6
+212,,zbriši obveznost kupovanja hrane za naslednjih 7 dni,calendar_remove,2
+213,,Ali bo že jesen danes toplo?,weather_query,9
+214,,Poišči mi recept za slane pogače z olivami!,cooking_recipe,3
+215,,Ali je alarm za danes že nastavljena?,alarm_query,0
+216,,Kako naredim dobrotvorno juho iz pečene paprike?,cooking_recipe,3
+217,,Koliko stopinj bo znotraj danes?,weather_query,9
+218,,Ali bo alarm zazvonil ob pol osmih zjutraj?,alarm_query,0
+219,,"Povej mi, kakšno vreme pričakuje v Ljubljani danes.",weather_query,9
+220,,"Prosim, kako dobim vozovnico za vlak do Pulja?",transport_ticket,8
+221,,zbriši zadnji dogodek iz mojega koledarja,calendar_remove,2
+222,,Počisti svoj koledar in začni znova.,calendar_remove,2
+223,,Poišči mi enostaven recept za omako iz kumaric!,cooking_recipe,3
+224,,Počisti moj koledar za naslednjih pet dni,calendar_remove,2
+225,,"Želim naučit, kako naredim pravo italijansko pico?",cooking_recipe,3
+226,,Kaj je trenutno nastaveno na mojo uređajo?,alarm_query,0
+227,,"Povej, če lahko znižamo glasnost!",audio_volume_down,1
+228,,"Lahko sporočiš, katero bo vreme v soboto?",weather_query,9
+229,,Predvajaj mojo najljubšo zvočno knjigo.,play_audiobook,6
+230,,Ali je bil alarm za danes že nastavljen?,alarm_query,0
+231,,"Ali imaš seznam vseh alarmov, ki jih imam nastavljenih?",alarm_query,0
+232,,Časovna razlika med Meksikom in Buenos Airesom je?,datetime_convert,4
+233,,Počisti koledar za naslednjih pet dni,calendar_remove,2
+234,,Ali imaš kakšne novice o novem filmskem hitu?,recommendation_movies,7
+235,,Ali bo jutri sončno v Mariboru?,weather_query,9
+236,,"Imam sveže borovnice, kako jih uporabim v slaščicah?",cooking_recipe,3
+237,,"Bo hladno jutri, ali lahko še grem brez kabata?",weather_query,9
+238,,začni novo poglavje v tej zvočni knjigi,play_audiobook,6
+239,,Prikaži mi cenik vozovnic za avtobusni prevoz med Ljubljano in Celjem,transport_ticket,8
+240,,"Nadaljuj z zvočno knjigo, ko smo prekinili.",play_audiobook,6
+241,,Koliko stane vozovnica za vlak do Krka?,transport_ticket,8
+242,,Počisti koledar za dnevi med 10. in 17. apriljem,calendar_remove,2
+243,,Želim recept za indijski curry iz čičerne.,cooking_recipe,3
+244,,Poišči mi recept za pravi italijanski risoto!,cooking_recipe,3
+245,,"Tišja glasba prosim!
+Zmanjšaj zvok za polovico!
+Glasnost je že dovolj visoka, utihni jo malo!",audio_volume_down,1
+246,,Napiši kratko elektronsko sporočilo za Anico in jo obvesti o prihodu.,email_sendemail,5
+247,,Prikaži seznam vseh nastavljenih alarmov!,alarm_query,0
+248,,Sedaj je devet triindvajset zvečer v Sloveniji kako je urejen čas v Tokiu?,datetime_convert,4
+249,,priporoči mi filme z nagrado oskarja,recommendation_movies,7
+250,,"Zmanjšajmo glasnost, prosim!
+Naredi, da bo manj glasno!
+Prosim, utišaj ta glasnost!
+Ne sme biti tako glasno, znižaj!
+Znižaj ga, da lahko delam!",audio_volume_down,1
+251,,Bo(va) deževno vreme v soboto na Primorskem?,weather_query,9
+252,,Prikaži mi cene vozovnic za avtobus iz Ljubljane do Celja.,transport_ticket,8
+253,,Kakšen je razmerje med maslom in muko v pecivu?,cooking_recipe,3
+254,,odstrani vsa opravila za ta teden,calendar_remove,2
+255,,Ali je že nastavljen alarm za jutranjo zgodnjo vstajo?,alarm_query,0
+256,,"Zmanjšajjo, da jih ni tako glasno!",audio_volume_down,1
+257,,"Vreme v Celju, prosim?",weather_query,9
+258,,predvajaj zvočno knjigo o rimski zgodovini,play_audiobook,6
+259,,"Vreme za jutri, prosim.",weather_query,9
+260,,"Odgovori na elektronsko sporočilo od Ane in jo vprašaj, ali bo prisotna na sestanku.",email_sendemail,5
+261,,"Počasnejše, prosim, znižaj glasnost.
+To glasno urejanje me razdraži, znižaj ga.
+Ne morem več to glasnosti, znižaj jo.
+V redu, znižaj glasnost, hvala.",audio_volume_down,1
+262,,Mi lahko ponudiš kakšen dobrega filma za večer?,recommendation_movies,7
+263,,"Začni ponovno predvajati zvočno knjigo, ki smo jo prekinili!",play_audiobook,6
+264,,"Glasnost je preglosna, utišaj jo!",audio_volume_down,1
+265,,Je možno videti seznam vseh mojih aktivnih alarmov?,alarm_query,0
+266,,"imaš kakšen dober nasvet za film, ki paše po mojem okusu?",recommendation_movies,7
+267,,"Zmanjšaj moč zvoka.
+Utiši glasnost, zdaj.
+Glasnost je previsoka, utišaj jo.
+Prosim, znižaj zvok za polovico.
+Tišja glasba, prosim.",audio_volume_down,1
+268,,Prikaži mi cene vozovnic za vlak med Ljubljano in Mariborom.,transport_ticket,8
+269,,ponovna začela in zbriši vse zapise v koledarju,calendar_remove,2
+270,,Pretvori čas iz centrale Evrope v časovni pas Havaja.,datetime_convert,4
+271,,izberi naslednji del zvočne knjige za predvajanje,play_audiobook,6
+272,,Kako dolgo pečem piletino da ostane suho?,cooking_recipe,3
+273,,Vozovnico za vlak do Novogorice moram kupiti.,transport_ticket,8
+274,,"Prosim, znižaj glasnost na osem odstotkov!
+Trenutna glasnost je previsoka!
+Utiši glasnost, ko se gleda film!",audio_volume_down,1
+275,,Odgovori na spletno sporočilo od Franceta in mu naroči srečno letovanje.,email_sendemail,5
+276,,"Pošlji elektronsko sporočilo očetu, da ga obvestiš, da bom prišel zgodaj.",email_sendemail,5
+277,,"Če je v Sloveniji tri ure dopoldan, koliko je ura v New Yorku?",datetime_convert,4
+278,,Kako bo vreme na morju v soboto?,weather_query,9
+279,,Želim recept za curry jazbec!,cooking_recipe,3
+280,,Predvajaj naslednjo poglavje v zvočni knjigi!,play_audiobook,6
+281,,Nastavi Ti Alarm Za Pet Zjutraj?,alarm_query,0
+282,,"Napiši kratko elektronsko sporočilo za mojo mamo in jo prosim, naj mi povesti, kako se ima.",email_sendemail,5
+283,,"Prosim, oddaji elektronsko sporocilo Mojci za menoj, da bo prišla na sestanek.",email_sendemail,5
+284,,Ali imaš kakšen prijeten romantičen film za mojo ženo in jaz?,recommendation_movies,7
+285,,"Odgovori na elektronsko sporočilo od Anke in jo vprašaj, ali smo že dobili odgovor od klienta.",email_sendemail,5
+286,,Odstrani obisk očeta iz mojega koledarja za nedeljo,calendar_remove,2
+287,,Je moj glavni alarm še vedno nastavljen?,alarm_query,0
+288,,"Želim naučiti, kako se kuha prava japonska juha miso.",cooking_recipe,3
+289,,"Pošlji elektronsko sporočilo Janki in ji naroči, da pride čez dva tedna.",email_sendemail,5
+290,,"Stisnjeno tipkanje, ali pa znižaj glasnost.
+Tišja glasba, prosim.
+Glasnost je preglušna, utiši jo.
+Povečanje glasnosti ni potrebno, lahko jo znižam.",audio_volume_down,1
+291,,"Prosim, kako bo vreme v soboto v Celju?",weather_query,9
+292,,nadaljuj z branjem zvočne knjige,play_audiobook,6
+293,,izbiri mi enega od najbolj priljubljenih filmov letos,recommendation_movies,7
+294,,Zbriši zadnji dodani dogodek,calendar_remove,2
+295,,Ali je bil alarm za soboto nastavljen na 8.00?,alarm_query,0
+296,,"Kako dolgo moram kuhati bele stroinke, da so mehke in nežne?",cooking_recipe,3
+297,,zbriši sejemski dogodek za naslednjo soboto,calendar_remove,2
+298,,"Znižaj volumena!
+Tišja glasba, prosim!
+Zvočniki so preglasi, utišaj jih!
+Glasnost je previsoka, znižaj jo!
+Znižaj zvok, prosimo!",audio_volume_down,1
+299,,Različice vozovnic za vlak med Ljubljano in Zagrebm so?,transport_ticket,8
+300,,Želim recept za sladke palčinke!,cooking_recipe,3
+301,,"Utiši zvoke, prosim",audio_volume_down,1
+302,,"Kako dolgo bi bilo tam poldnev, če je tu polnoči?",datetime_convert,4
+303,,Odstranite vse dogodke do konca tedna,calendar_remove,2
+304,,"Prosim, pošlji elektronsko sporočilo kolegu Janezu o pomembnem sestanku.",email_sendemail,5
+305,,Napiši kratko e-sporočilo mami in ji povesti o svojem prihodu.,email_sendemail,5
+306,,"Zmanjšaj glasnost, da bom lažje slišal!",audio_volume_down,1
+307,,Napiši in pošlji elektronsko sporočilo mojo materi za rojstni dan.,email_sendemail,5
+308,,"Zmanjšaj glasnost, prosim, ker me moti.",audio_volume_down,1
+309,,Je bil alarm za 7. uro že sprožen?,alarm_query,0
+310,,Poišči mi recept za sladke palčinke!,cooking_recipe,3
+311,,Je mojo glavnega alarma nastavitve spremenit?,alarm_query,0
+312,,Katero uro je moj naslednji alarm?,alarm_query,0
+313,,Počistiti trenutne dogodke v koledarju,calendar_remove,2
+314,,Pretvori dve uri po poldnevu iz Zahodnega standardnega časa v Srednjeevropeški čas.,datetime_convert,4
+315,,pomagaj mi pri rezervaciji vozovnice za vlak do novogorice,transport_ticket,8
+316,,Predvajaj mi zvočno knjigo o zgodovini Slovenije.,play_audiobook,6
+317,,odpri mojo najljubšo zvočno knjigo,play_audiobook,6
+318,,Morda lahko znižaš glasnost še malce?,audio_volume_down,1
+319,,počisti koledar za naslednjih 7 dni,calendar_remove,2
+320,,zaženi ponoven predvaj zvočne knjige,play_audiobook,6
+321,,Koliko je cena vozovnice za Vlak Lendava-Maribor?,transport_ticket,8
+322,,"Poslji elektronsko sporočilo soivézi in jo prosim, da se oglasi čez en teden.",email_sendemail,5
+323,,Rezerviraj mi kartu za vlak do Maribora jutri zjutra.,transport_ticket,8
+324,,"Povprašaj me, kako bo vreme čez tedan dni.",weather_query,9
+325,,Kateri film bi ti priporočal?,recommendation_movies,7
+326,,nadaljuj s predvajanjo prebrane zvočne knjige,play_audiobook,6
+327,,Razmisli o rezervaciji vozovnic za vlak do Kranja!,transport_ticket,8
+328,,Ali je že času za prvega alarma?,alarm_query,0
+329,,film oz. serija ki bi bil zelo podoben tistem izbranim,recommendation_movies,7
+330,,zabriši mojo razpisano srečanje za petek,calendar_remove,2
+331,,"Začni ponovno predvajati zvočno knjigo, ki sem jo ustavil.",play_audiobook,6
+332,,"Če je tu ena uro dopoldne, koliko je ura v Tokiu?",datetime_convert,4
+333,,"Potrebujem vozovnico za vlak do Zagreba, če lahko pomagate.",transport_ticket,8
+334,,predvajaj prvo poglavje iz zvočne knjige,play_audiobook,6
+335,,Če je sedem uri zvečer tukaj koliko je ure v Los Angelesu?,datetime_convert,4
+336,,Bo vreme dobro za šport dnevo dni?,weather_query,9
+337,,Koliko stopinj bo danes v Mariboru?,weather_query,9
+338,,Kako dolgočasna je razlika med našim časom in časom v Rio de Janeiru?,datetime_convert,4
+339,,"prosim, pokaži mi vozovnice za vlak iz maribora do ptuja",transport_ticket,8
+340,,"Žal mi je, ampak moram znižati glasnost.",audio_volume_down,1
+341,,izvedi še eno poglavje iz zvočne knjige prosim,play_audiobook,6
+342,,zaigraj nazaj zadnji del zvočne knjige,play_audiobook,6
+343,,Odstrani sestanek z Janezom iz mojega koledarja,calendar_remove,2
+344,,Poišči vozovnice za železniški prevoz med Ljubljano in Celjem.,transport_ticket,8
+345,,Spremeni časovni pas iz Rima v Tokio.,datetime_convert,4
+346,,Spremeni trenutni čas iz britanskega poletnega časa v osrednjeevropski čas.,datetime_convert,4
+347,,"Znižaj moj zvok!
+Kako znižam glasnost?
+Znižaj glasnost, da lahko slišim ostale.
+Znižaj glasnost zvočnikov, prosim.",audio_volume_down,1
+348,,zabriši vsa opravila za jutri,calendar_remove,2
+349,,Prikaži mi cene vozovnic za vlak do Pulja,transport_ticket,8
+350,,Mi lahko priporočate neke dobre filme za večer?,recommendation_movies,7
+351,,"Povej mi, ali bo dežmono v sredo v Portorožu.",weather_query,9
+352,,zapustil smo pri petem poglavju restartiraj predvajanje,play_audiobook,6
+353,,Pošlite elektronsko sporočilo Karolu in mu navedite čas sestanka.,email_sendemail,5
+354,,Ali imaš kaj novih alarmskih obvestil?,alarm_query,0
+355,,"Ni mi všeč tako glasno, znižaj!",audio_volume_down,1
+356,,"Prosim, utišaj zvok za polovico",audio_volume_down,1
+357,,Bomo imeli še en sunčen konec tedna?,weather_query,9
+358,,Ali lahko vidim seznam vseh mojih nastavljenih alarmov?,alarm_query,0
+359,,pomagaj mi izbrati med tremi filmskimi naslovi,recommendation_movies,7
+360,,kako lahko pripravljeno hrano ohranjamo sveže,cooking_recipe,3
+361,,"Prosim, pošlji mojo mamo elektronsko sporočilo, da pride domu ob petih.",email_sendemail,5
+362,,Poišči mi recept za kuhanje testenin z gobe.,cooking_recipe,3
+363,,"Kako dolgo moram pečati kostanj, da postane dosti mehek?",cooking_recipe,3
+364,,Ali bo vikend topel?,weather_query,9
+365,,Katere alarme imam trenutno nastavljene?,alarm_query,0
+366,,Poišči mi recept za slaščično palačinko!,cooking_recipe,3
+367,,"Prosim, oddaji elektronsko sporočilo Uradu za promet, da dobijo informacije o prometu v času krizne situacije.",email_sendemail,5
+368,,Rezerviraj mi vozovnico za vlak iz Ljubljane v Celje.,transport_ticket,8
+369,,zbriši nepreheceno sestanco iz mojega koledarja,calendar_remove,2
+370,,Rezerviraj mi kartu za hitri vlak do Zagreba,transport_ticket,8
+371,,Je bil alarm za danes nastavljena ob desetih zvečer?,alarm_query,0
+372,,"Povej mi, kdaja pride do konca zime v tej sezoni.",weather_query,9
+373,,Koliko časa moram peči kruh v pečici?,cooking_recipe,3
+374,,"Prosim, pošljite elektronsko sporočilo mojoj materi z novo fotografijo.",email_sendemail,5
+375,,Odstrani vse obveznosti iz mojega koledarja,calendar_remove,2
+376,,"V katerem času smo, če je ena uro popoldan v Pekingu?",datetime_convert,4
+377,,Kako narežem dober pomodovec z majhno količino olja?,cooking_recipe,3
+378,,ali je možno rezervirati vozovnico za vlak iz ljubljane v celje,transport_ticket,8
+379,,računaj ceno vozovnic za dva za železniški promet med ljubljano in mariborom,transport_ticket,8
+380,,Katere alarme imam nastavitve za jutri?,alarm_query,0
+381,,Vremenska prognoza za jutri?,weather_query,9
+382,,Katere ure imaš nastavljene alarme?,alarm_query,0
+383,,pokliči mojo zvočno knjigo,play_audiobook,6
+384,,Želim sprejeti nov recept za juhico iz kopra.,cooking_recipe,3
+385,,"Napiši elektronsko sporočilo materi, da ji želim vse najboljše za rojstni dan.",email_sendemail,5
+386,,Kateri alarm se bo izvedel ob 7. uri zjutraj?,alarm_query,0
+387,,zbriši vsa opravila iz mojega koledarja,calendar_remove,2
+388,,izberi naključno poglavje in predvajaj ga,play_audiobook,6
+389,,Kateri film bi ti priporočal za danes večer?,recommendation_movies,7
+390,,predvajaj zadnjo shranjeno točko v zvočni knjigi,play_audiobook,6
+391,,Kaj je času mojega prvenga alarma?,alarm_query,0
+392,,V kakšnem času smo zdaj če je v New Yorku ena uro dopoldan?,datetime_convert,4
+393,,Predvajaj mi naslednji del zvočne knjige o avventuri.,play_audiobook,6
+394,,Želim recept za sladke palčinke z orisi!,cooking_recipe,3
+395,,"Nadaljuj z zadnjo predvajano zvočno knjigo, prosim.",play_audiobook,6
+396,,Je že čas alarma za šolanje?,alarm_query,0
+397,,Kako pripravim okusno juho iz gobice?,cooking_recipe,3
+398,,odstrani srečanje direktorjev za petek,calendar_remove,2
+399,,Zbriši obveznost kupovanja hrane,calendar_remove,2
+400,,Lahko me obvesti o morebitnem dežju v soboto?,weather_query,9
+401,,Potrebujem hitro rezervacijo vozovnice za vlak do Zagreba.,transport_ticket,8
+402,,"Slišim vas slabo, znižaj glasnost!",audio_volume_down,1
+403,,"Imam en kilogram šampinjonov, kako jih pripravim na jelodružinski večer?",cooking_recipe,3
+404,,"Prenošenje glasu je previsoko, znižaj ga!",audio_volume_down,1
+405,,"Nadaljuj zgodbo, kjer smo ostali pri prebranju zvočne knjige.",play_audiobook,6
+406,,"Zaigraj mi katerokoli zvočno knjigo, prosim.",play_audiobook,6
+407,,Ali bo jutri sončno v Ljubljani?,weather_query,9
+408,,Poišči mi recept za juhico z gobe!,cooking_recipe,3
+409,,Če je v Ljubljani tri ure dopoldan kako pozna je v Sydneyju?,datetime_convert,4
+410,,"Vreme za naslednjih pet dni, prosim?",weather_query,9
+411,,"Glede na tvoje okuse, te bom priporočil film ""La La Land"".",recommendation_movies,7
+412,,Koliko stopinj bo zmrastila temperatura danes?,weather_query,9
+413,,Katere alarme imajo zvonjenje na telefonu?,alarm_query,0
+414,,odstrani zadnjo rezervacijo iz mojega koledarja,calendar_remove,2
+415,,Katere alarme sem že nastavil?,alarm_query,0
+416,,Zbriši obveznost kupovanja hrane za naslednjih pet dni.,calendar_remove,2
+417,,"Izberi mi neke odlične filme, ki jih še nisi videl!",recommendation_movies,7
+418,,Kako dolgo bom imel alarm nastavljen?,alarm_query,0
+419,,Rezerviraj vozovnico za avtobus iz Ljubljane do Portoroža.,transport_ticket,8
+420,,počisti moj tedenski koledar,calendar_remove,2
+421,,"Pojdi povej, kako vreme prihaja na more?",weather_query,9
+422,,"kakšen film bi mi svetoval, če želim razvedril obstarec?",recommendation_movies,7
+423,,"Želi si, da bi bila glasnost manjša.
+Ni mogoče, da bi bil glasnost nižja?
+Glasnost je preglasna, znižaj jo.",audio_volume_down,1
+424,,Predvajaj trenutno poglavje,play_audiobook,6
+425,,"Imejte kdaj novice o novem filmu, ki pride kmalu v kino?",recommendation_movies,7
+426,,rezervacija vozovnice za vlak iz vogelja do bohinjske bistre,transport_ticket,8
+427,,izbereite kakšen romantičen film za mojo deklico!,recommendation_movies,7
+428,,Lahko bi bil zvok malo tiši?,audio_volume_down,1
+429,,"Prosim, pošljite elektronsko sporočilo bratoma, da pridejo na kosilo ob nedeljah.",email_sendemail,5
+430,,"Napiši elektronsko sporočilo za brata in mu povej, kdaj bo prišel doma iz dela.",email_sendemail,5
+431,,ponovna začnitev predvajanja moje aktualne zvočne knjige,play_audiobook,6
+432,,Je moj glavni alarm nastavljen za jutro?,alarm_query,0
+433,,"Pošlite elektronsko sporočilo prijatelju, da se dogovorimo za skupno izlet.",email_sendemail,5
+434,,Kako pripravim pravo italijansko pizza?,cooking_recipe,3
+435,,"Nadaljuj z zadnjo predvajo zvočne knjige, prosim.",play_audiobook,6
+436,,"Napiši in pošlji e-pošto materi o tem, kdaj bom prišel domov.",email_sendemail,5
+437,,Pretvori čas 14:30 iz GMT+1 v GMT-5.,datetime_convert,4
+438,,Naredi mi rezervacijo vozovnice za Vlak Koper-Ljubljana.,transport_ticket,8
+439,,Vozovnic za vlak do Kranja prosim!,transport_ticket,8
+440,,Kako film bi bil primeren za mojo družino?,recommendation_movies,7
+441,,počisti moj koledar za prihodnji tedenski,calendar_remove,2
+442,,Priporočilo za film na temo zvezd,recommendation_movies,7
+443,,kako dobim vozovnico za vlak do celja,transport_ticket,8
+444,,"Utiži glasnost na minimum!
+Žal mi je preglasno, znižaj!
+Prijazni, lahko bi bilo tiše?
+Znižaj občutljivost zvoka!",audio_volume_down,1
+445,,Rezerviraj mi karto za hitri vlek iz Ljubljane v München.,transport_ticket,8
+446,,Odstrani vsa opravila za prihodnji teden,calendar_remove,2
+447,,Prikaži mi seznam aktivnih alarmov!,alarm_query,0
+448,,Katere alarme sem nastavile na telefonu?,alarm_query,0
+449,,Počisti celotni koledar in zbriši vse dogodke,calendar_remove,2
+450,,"Znižaj glasnost, da ne moteči drugih",audio_volume_down,1
+451,,"Prenizko glasno, lahko spreminjam?",audio_volume_down,1
+452,,"Nadaljuj zbrane zvočne knjige, prosim!",play_audiobook,6
+453,,V katerem času je sedem uro popoldan v New Yorku?,datetime_convert,4
+454,,Prikaži seznam vseh mojih aktivnih alarmov!,alarm_query,0
+455,,"Že preglasno, lahko znižamo volumen?",audio_volume_down,1
+456,,V kakšem stanju bo vreme v soboto?,weather_query,9
+457,,Rezervacija vlaka iz Ljubljane do Celja za jutri,transport_ticket,8
+458,,nadaljuj z zadnjo slušelno knjigo,play_audiobook,6
+459,,Kako dolgo moram pečati kostanj v peći?,cooking_recipe,3
+460,,Odpri zvočno knjigo o zgodovini Slovenije.,play_audiobook,6
+461,,Zbriši zadnji dodan dogodek,calendar_remove,2
+462,,Kateri filmski klasiki moram videti?,recommendation_movies,7
+463,,Ali bo alarm zvonil ob polnoči?,alarm_query,0
+464,,Poišči mi enostaven recept za kuhanje jeguljčkov?,cooking_recipe,3
+465,,Ali je že nastavljen alarm za danes?,alarm_query,0
+466,,ali imaš vozovnic za vlak iz ljubljane do nova gorica,transport_ticket,8
+467,,Koliko stopinj bo zmrastal danes v Celju?,weather_query,9
+468,,Počisti moj tedenski koledar.,calendar_remove,2
+469,,Priporočilo za filmske novice: kateri film si moral videti?,recommendation_movies,7
+470,,Če je v Ljubljani ena uro dopoldne koliko je ure v New Yorku?,datetime_convert,4
+471,,"Če je zdaj tri ure popoldan, koliko je ure v New Yorku?",datetime_convert,4
+472,,prosim za navodila za pečenje sladkega kruha,cooking_recipe,3
+473,,Ali mogoče kupiti karto za Vlak Celje-Velenje?,transport_ticket,8
+474,,odstrani današnje dogodke iz mojega koledarja,calendar_remove,2
+475,,Ponovna začnitev in izbrisite vse vnose v koledarju,calendar_remove,2
+476,,zbrisi dogodek za jutri,calendar_remove,2
+477,,Kdo ima nekaj priporočil za nove filme ki jih še nisem videl,recommendation_movies,7
+478,,"Ponudba novega filma, ki paše mojemu okusu?",recommendation_movies,7
+479,,Ali je bil kakšen alarm že nastavljen za jutranjo uro?,alarm_query,0
+480,,"Napiši elektronsko sporocilo Francetu, da se je vrnil iz dopusta in je razpoložen za novo delo.",email_sendemail,5
+481,,počisti koledar za letošnjo leto,calendar_remove,2
+482,,ali boste vedeli kdaj bo v kino prišel novi film o Harryju Potterju,recommendation_movies,7
+483,,Katera ura ima najpomembnejši alarm?,alarm_query,0
+484,,Povej mi kakovše bo vreme čez en teden!,weather_query,9
+485,,ali obstaja kakšen recept za slane pogače brez glutena,cooking_recipe,3
+486,,odstrani zadnji dogodek iz koledarja,calendar_remove,2
+487,,Potrebujem informacije o vozovnicah za železniški prevoz v Avstrijo,transport_ticket,8
+488,,"Napiši in pošlji elektronsko sporočilo mojo mamo o tem, kdaj bom prišel domov.",email_sendemail,5
+489,,"Ali znas kake dobre filme, ki jih še ni videl?",recommendation_movies,7
+490,,V kakšem času smo zdaj če je v Parizu tri ure dopoldan?,datetime_convert,4
+491,,Ponovna začnitev predvajanja zvočne knjige 'Vrnitev k srcu'.,play_audiobook,6
+492,,"Preglasen je, lahko ga znižaš?",audio_volume_down,1
+493,,odstrani najpomembnejše dogodke iz mojega letnega koledarja,calendar_remove,2
+494,,"Imam 300g mesa, kako ga pripravim za golaže?",cooking_recipe,3
+495,,Prikaži mi seznam vseh nastavljenih alarmov!,alarm_query,0
+496,,"Ali lahko preverim, ali je bil alarm za soboto nastavljen?",alarm_query,0
+497,,nadaljuj z branjem avdio knjig,play_audiobook,6
+498,,"Povej mi, kako bo vreme naslednjih pet dni.",weather_query,9
+499,,"Glasnost je preglasna, utišaj jo!",audio_volume_down,1
+500,,Kako bo vreme za ostatak meseca v Sloveniji?,weather_query,9
+501,,"Pošiljite mojo mamico elektronsko sporočilo z navodom, kako sem opravil izpit.",email_sendemail,5
+502,,Vozovnico za vlak iz Ljubljane do Dunaja želim kupiti.,transport_ticket,8
+503,,Ali bo vikend topliji kot sedanji dan?,weather_query,9
+504,,Želim recept za tradicionalno idrijsko žlikrofi!,cooking_recipe,3
+505,,Napiši kratko elektronsko sporočilo za mamo in omeni novo službo.,email_sendemail,5
+506,,"Vrne me nazaj na filmske klasike, kot sta ""Casablanca"" in ""Roman Holiday"".",recommendation_movies,7
+507,,vnovi predvajanje zadnje zapuščene zvočne knjige,play_audiobook,6
+508,,"Pošlji bratu elektronsko sporočilo, da pride čim prej domov.",email_sendemail,5
+509,,"Vrni se nazaj k predvajanju zvočne knjige, ko sem jo zapustil.",play_audiobook,6
+510,,"Prosim, izbriši zadnji dodan dogodek v koledarju",calendar_remove,2
+511,,Ali bo še vedno toploto v Ljubljani do konca tedna?,weather_query,9
+512,,"Odgovori na elektronsko sporočilo od Ane, da jo prosim za pomoč pri projektu.",email_sendemail,5
+513,,"Imam kuhanega krumpla, kako ga združim z omako?",cooking_recipe,3
+514,,izbriši obveznosti iz mojega koledarja za danes,calendar_remove,2
+515,,Pojdi pogledat koliko oblačnosti bo danes.,weather_query,9
+516,,"Prijazni, znižajte glasnost!",audio_volume_down,1
+517,,Katere alarme sem nastavil za danes?,alarm_query,0
+518,,"Povedaji mi o aktualnih filmih, ki se vrtijo v Mariboru!",recommendation_movies,7
+519,,"Je že čas za letni šort, glede na vreme?",weather_query,9
+520,,"Kateri film bi ti priporočal, če išeš v kino danes?",recommendation_movies,7
+521,,Koliko časa moram peči kostanjeve orehe?,cooking_recipe,3
+522,,"Prosim, kako bo vreme na morju v soboto?",weather_query,9
+523,,Katere ureimsonalne alarme imam nastavljene?,alarm_query,0
+524,,Napiši in pošljite elektronsko sporočilo mami za rojstni dan.,email_sendemail,5
+525,,"Preglasno je, utišaj malo!",audio_volume_down,1
+526,,Katere alarme imam nastavljene danes?,alarm_query,0
+527,,Mi lahko priporočaš kakšen dober akcijski film?,recommendation_movies,7
+528,,Povej mi kaj novo iz sveta filma.,recommendation_movies,7
+529,,"lahko me čisto slučajno spomnite na neke filme, ki jih moram videti?",recommendation_movies,7
+530,,Spremeni časovni pas iz pariškega na berlinski.,datetime_convert,4
+531,,Potrebujem vozovnico za vlak iz Celja v Novo Gorico,transport_ticket,8
+532,,vprašaj me kakšen tip vozovnice za vlak potrebuješ,transport_ticket,8
+533,,Prikaži vse moje alarme!,alarm_query,0
+534,,Kako dolgo bi bilo tam sedem ur popoldan če smo tukaj ob enih zjutraj?,datetime_convert,4
+535,,Zakupi dva vozovna lista za vlak iz Kopra do Novogorice,transport_ticket,8
+536,,"izberi mi neke odlične filme, ki jih moram videti!",recommendation_movies,7
+537,,odstrani obljubljeno delo iz mojega koledarja,calendar_remove,2
+538,,Odstrani obljubljeno srečanje jutri iz mojega koledarja,calendar_remove,2
+539,,Vprašam za vremensko napoved za jutri!,weather_query,9
+540,,Vračaj se nazaj k predvajanju moje priljubljene zvočne knjige!,play_audiobook,6
+541,,Odvetniku pošljite elektronsko sporočilo z vprašanjem o stanju primera.,email_sendemail,5
+542,,Prikaži mi ceno vozovnic za vsek dnevni vlak do Ajdovščine.,transport_ticket,8
+543,,Je že času za zvonjenje prvega alarma danes?,alarm_query,0
+544,,Zakupil bi rad vozovnico za vlak v smeri proti Kranju,transport_ticket,8
+545,,zbriši vse zapise iz mojega koledarja,calendar_remove,2
+546,,Naroci mi dvema obvezno vozovnico za vsek zgodnjek zjutrajšnji vlek do Nove Gorice.,transport_ticket,8
+547,,"Utiži glasnost, prosim",audio_volume_down,1
+548,,Odpri zvočno knjigo in začni predvajati od začetka.,play_audiobook,6
+549,,"Znižaj mojo glasnost!
+Zmanjšaj volumena na minimum.
+Naredi, da ni več tako glasno!
+Znižaj to glasbo, prosim.
+Tišja glasba, prosim.",audio_volume_down,1
+550,,Brisi vse zapise iz mojega koledarja,calendar_remove,2
+551,,Pretvori čas iz zahodnega standardnega časa v osrednje evropski čas.,datetime_convert,4
+552,,"Žal mi je, ampak moram vprašati, če lahko znižaš glasnost?",audio_volume_down,1
+553,,izbriši vse dogodke med prvim in petim septembrom,calendar_remove,2
+554,,Odvetniku pošlji elektronsko sporočilo z dodatkom dokumenta o kupoprodaji nepremičnine.,email_sendemail,5
+555,,počni ponovno predvajati zadnjo luško zvočno knjigo,play_audiobook,6
+556,,Zmanjšaj volume na petnajst odstotkov,audio_volume_down,1
+557,,"Koliko časa moram kuhati črne fazole, da so mehke?",cooking_recipe,3
+558,,Kako narediš dober pir na osnovi makovega semena?,cooking_recipe,3
+559,,Rezervacija vozovnic za vlak Ljubljana - Celje za jutri,transport_ticket,8
+560,,Ali imaš nekaj novega alarma?,alarm_query,0
+561,,Lahko me obvesti o morebitnem dežju za naslednjih dni?,weather_query,9
+562,,"Vreme za končnik tedna, prosim.",weather_query,9
+563,,V katerem času smo zdaj? Prosim spremenite na newyorški čas.,datetime_convert,4
+564,,Počisti vse zapise v mojem koledarju,calendar_remove,2
+565,,"V kolikšnem času smo, če je tu sedem zvečer?",datetime_convert,4
+566,,Priporočite mi kakšen zanimiv film iz zadnjega leta.,recommendation_movies,7
+567,,Lahko prosim navedete vremensko napoved za konec tedna?,weather_query,9
+568,,ponovna začela in izbriši vse dogodke iz koledarja,calendar_remove,2
+569,,kupil bi vlakovo karto do novogorice,transport_ticket,8
+570,,Spremeni časovni pas iz severnonemškega na južnoafriški.,datetime_convert,4
+571,,kupil bi vozovnico za vlak od ljubljane do krška,transport_ticket,8
+572,,"Navedi naslov in vsebino elektronskega sporčila, ki ga želim poslati svojem kolegu.",email_sendemail,5
+573,,Izloči dogodka v soboto iz mojega koledarja.,calendar_remove,2
+574,,Znižaj glasnost predvajača!,audio_volume_down,1
+575,,Povej mi kaj pravi vremenska napoved za jutri.,weather_query,9
+576,,Ponovna začela in izbriši vse moje dogodke,calendar_remove,2
+577,,"Prosim, koliko stopinj bo temperatura danes?",weather_query,9
+578,,Predvajaj prvo poglavje nove zvočne knjige.,play_audiobook,6
+579,,Spremeni časovni pas iz Rima na Tokio.,datetime_convert,4
+580,,kako dolgo moram kuhati riž,cooking_recipe,3
+581,,"Odstrani vsak dogodek, ki je na seznamu",calendar_remove,2
+582,,Lahko me obvestiš o morebitnem neurju v prvem tednu marca?,weather_query,9
+583,,"Imam nekaj sveže ribe, kako jo pripravim na grillu?",cooking_recipe,3
+584,,Začni predvajati prvo poglavje nove zvočne knjige.,play_audiobook,6
+585,,Katero vreme lahko pričakovamo v soboto v Idriji?,weather_query,9
+586,,"V kakšnem času je tam, ko je tukaj devet zjutraj?",datetime_convert,4
+587,,Koliko stane vozovnica za vlak do Portoroža?,transport_ticket,8
+588,,Kako bo vreme za smučanje v Kranjski Gori v tednu?,weather_query,9
+589,,Če je tu treh popoldne koliko je ure v Beogradu?,datetime_convert,4
+590,,Kakšen film se predvaja v kinu bližnjem mojemu domu?,recommendation_movies,7
+591,,ali imaš kakšen novoizdani film ki bi bil zanje dostopen,recommendation_movies,7
+592,,"Imam en kilogram svine krave, kako jo najbolj pripravim?",cooking_recipe,3
+593,,Ali je bil že nastavljen alarm za danes?,alarm_query,0
+594,,Naredi rezrvacijo vozovnice za vlak v Pulj.,transport_ticket,8
+595,,Je moj glavni alarm še vedno aktiviran?,alarm_query,0
+596,,Ponovno začni in izbriši vse vnos v koledarju,calendar_remove,2
+597,,Želim recept za dobrotvorno palacinke na sladkor.,cooking_recipe,3
+598,,izbira med filmskimi žanri ki so aktualno na voljo,recommendation_movies,7
+599,,"Odvetniku pošljem elektronsko sporočilo, da bo pregledal dokumente do petka.",email_sendemail,5
+600,,odpri še enkrat zvočno knjigo o rimu,play_audiobook,6
+601,,naroči mi nekaj novega iz kategorije akcijskih filmov,recommendation_movies,7
+602,,Ali lahko spremenimo čas iz Čikağa v lokalni čas v Meksiku?,datetime_convert,4
+603,,Prikaži vse mojo nastavitve alarmov!,alarm_query,0
+604,,zahtevam prenos v zvočno knjigo mojega izbora,play_audiobook,6
+605,,Prosim izbriši vse moje dogodke do konca tedna,calendar_remove,2
+606,,Kakšen je razmerje med oljem in octom pri pripravi salate?,cooking_recipe,3
+607,,Zbriši vse zapise v koledarju za letošnjo poletje,calendar_remove,2
+608,,kateri film bom zagotovo užival,recommendation_movies,7
+609,,Odpri zvočno knjigo in začni predvajati!,play_audiobook,6
+610,,"Če je sedem dopoldan v Sloveniji, koliko je ure v Madridu?",datetime_convert,4
+611,,Ali je bil alarm za včeraj večer nastavljen?,alarm_query,0
+612,,Želim recept za indijsko kari pikantno!,cooking_recipe,3
+613,,"Prosim, izbriši zadnji dogodek v koledarju",calendar_remove,2
+614,,Imam kuhanega mesa iz kobyle in bi rad kuhal tudi omako.,cooking_recipe,3
+615,,Prosim pošljite elektronsko sporočilo bratu z vprašanjem ali ima prosti čas.,email_sendemail,5
+616,,nadaljuj zbral zvočnih knjig,play_audiobook,6
+617,,Pošljite elektronsko sporočilo profesorju z vprašanjem o študentskem delu.,email_sendemail,5
+618,,"Odvetniku pošljite elektronsko sporočilo, ki vsebuje novice o zakonu.",email_sendemail,5
+619,,Je že čas za letovanje ob morju zaradi vremena?,weather_query,9
+620,,Poišči mi recept za tradicionalno idrijsko žlikrofi!,cooking_recipe,3
+621,,Začni predvajati novo poglavje,play_audiobook,6
+622,,Odpri zvočno knjigo o raziskovanju vesolja.,play_audiobook,6
+623,,Spremeni časovni pas iz angleškega na japonski.,datetime_convert,4
+624,,Ponovno predvajaj prvih petdeset strani,play_audiobook,6
+625,,"Prijavi mi nove filme, ki so izšli nazadnje četrtek!",recommendation_movies,7
+626,,Priporoči mi kakšen zelo popularen film iz zadnjega leta.,recommendation_movies,7
+627,,Kakšen je recept za domače palacinke?,cooking_recipe,3
+628,,"Predlagaš kakšen zanimiv dokumentarni film, ki je bil premierno predstavljen to leto?",recommendation_movies,7
+629,,"Raje gledam romantične komedije, imaš kake priporočila?",recommendation_movies,7
+630,,zbrisi vse dogodke med prvim in petim marca,calendar_remove,2
+631,,računaj ceno vozovnice za vlak od maribora do celja,transport_ticket,8
+632,,"Prijazni, lahko bi bil malo tiše",audio_volume_down,1
+633,,naroči mi nekaj zabavnega iz zadnjih let,recommendation_movies,7
+634,,odpri zvočno knjigo in začni predvajati,play_audiobook,6
+635,,izberi mi kakšen film za večer,recommendation_movies,7
+636,,Ali bi mi lahko priporočili kakšen zabaven akcijski film?,recommendation_movies,7
+637,,"Prosim, utiši Glasnost",audio_volume_down,1
+638,,"Prosim, pobriši vse moje dogodke za prihodnjo nedeljo",calendar_remove,2
+639,,Stisni tipko za zmanjšanje glasnosti!,audio_volume_down,1
+640,,"Imaš kakšen dober film, ki pa še ni tako poznan?",recommendation_movies,7
+641,,"Tiše, prosim, glasnost je premočna",audio_volume_down,1
+642,,Katero je prognoza vremena za Ljubljano za naslednjo nedeljo?,weather_query,9
+643,,"Lahko bi bil glasenek, če ga znižaš?",audio_volume_down,1
+644,,"Če je devet zjutraj v Sloveniji, koliko je ura v Tokiu?",datetime_convert,4
+645,,Koliko je ure v Riu de Janeiru če je tule pol ena zjutraj?,datetime_convert,4
+646,,"Prijavi mi filme, ki jih bom rad videl s svojo punco.",recommendation_movies,7
+647,,odstrani vse prihode v koledarju za ta mesec,calendar_remove,2
+648,,Ali bom spustil alarm ob polnoči?,alarm_query,0
+649,,nadlaguj se k predvajanju knjig,play_audiobook,6
+650,,"V kolikšnem času smo, če je sedem zapopolodne v New Yorku?",datetime_convert,4
+651,,Poišči mi recept za slane palčinke z omako.,cooking_recipe,3
+652,,Koliko stane vozovnica za vlak iz Ljubljane do Celja?,transport_ticket,8
+653,,odpri prvo poglavje zvočne knjige,play_audiobook,6
+654,,Vodiču pošlji elektronsko sporočilo z vprašanjem o morebitnih izboljšavah naših storitev.,email_sendemail,5
+655,,"Odgovorite na elektronsko sporočilo od Simona in mu napisite, da bom prisoten na srečanju.",email_sendemail,5
+656,,Potrebujem pomoč pri naročilu vozovnice za vlak do Kranja.,transport_ticket,8
+657,,Nastavitve mojega alarma prosim!,alarm_query,0
+658,,"V Sloveniji je sedem uro, kolikšen je čas v New Yorku?",datetime_convert,4
+659,,Naredi rezervacijo vozovnice za vlak za jutri do Pulja.,transport_ticket,8
+660,,"Priporočite mi filme, ki so aktualno na seznamu najbolje ocenjenih!",recommendation_movies,7
+661,,Ali bo vreme topla za način trekinga v gorah čez nedeljo?,weather_query,9
+662,,"V kolikšnem času smo zdaj, če je v New Yorku 10 uri zjutraj?",datetime_convert,4
+663,,Pretvori čas iz zahodnega standardnega časa v moskovski čas.,datetime_convert,4
+664,,"Znižaj glasnost, da ne mote drugi!",audio_volume_down,1
+665,,"Ponovno začni predvajati zvočno knjigo, ki sem jo prekinil.",play_audiobook,6
+666,,"Prijazni, ali lahko znižamo glasnost?",audio_volume_down,1
+667,,Zmanjšaj volumena na petdeset odstotkov!,audio_volume_down,1
+668,,"Vozovnica za vlak iz Kopra do Ljubljane, kako dolgo zdržim?",transport_ticket,8
+669,,Želim sprejeti recept za domače palčinke.,cooking_recipe,3
+670,,katere filme bodo prikazovali v kino v prvem tednu marca,recommendation_movies,7
+671,,Lahko bi bil malo tiše,audio_volume_down,1
+672,,Je already nastavljen alarm za soboto?,alarm_query,0
+673,,Zmanjšaj glasnost za pet odstotkov,audio_volume_down,1
+674,,"Kolikšen je čas v Los Angelesu, če je tu tri ure popoldan?",datetime_convert,4
+675,,Odstrani vse dogodke do konca tedna,calendar_remove,2
+676,,Odstrani še eno opravilo iz mojega koledarja za ta mesec,calendar_remove,2
+677,,"Zakrij glasnost, prosim.
+Glasnost je previsoka, utišaj jo.
+Lahko bi bilo tiše, prosim.",audio_volume_down,1
+678,,"Glasnost je prevec glasná, lahko jo znižaš?",audio_volume_down,1
+679,,Prikaži seznam vseh aktivnih alarmov!,alarm_query,0
+680,,"Predlagaj film, ki bi bil primeren za mojo družino.",recommendation_movies,7
+681,,Imam kaj nekega alarma nastavljeno za naslednjo noč?,alarm_query,0
+682,,"Prosim, izbriši vse moje dogodke med tednom in vzemi si prosti dan.",calendar_remove,2
+683,,"Prosim, pošlite e-pošto bratu z vsebino ""Kako si?"".",email_sendemail,5
+684,,poskuši ponovno odprt zvočno knjigo o kraljestvu,play_audiobook,6
+685,,"Zmanjšaj glasnost na pol!
+Glasnost je previsoka, utišaj jo!
+Znižaj zvok, da slišim bolje!",audio_volume_down,1
+686,,Sporoči Mi Čas Alarma!,alarm_query,0
+687,,Pošljite elektronsko sporočilo profesorju z vprašanji o domu.,email_sendemail,5
+688,,"Znižaj glasnost, prosim!
+Naredi to tiše.
+Zvok je prehuden, lahko ga znižaš?
+Utiži tone, prosim.
+Zmanjšaj glasnost na minimum!",audio_volume_down,1
+689,,odpri zvočnik in začni predvajati knjigo,play_audiobook,6
+690,,kakšen je razmerje med oljem in octom pri peki pite,cooking_recipe,3
+691,,Priporoči mi kakšen dober akcijski film iz zadnjega leta.,recommendation_movies,7
+692,,računaj ceno vozovnic za dva vlaka do celja,transport_ticket,8
+693,,naročanje filmskega urnika za danes,recommendation_movies,7
+694,,Priporočite mi nekaj dobrih akcijskih filmov!,recommendation_movies,7
+695,,Če je tukaj sedem zvečer koliko je ura v Pekingu?,datetime_convert,4
+696,,Priporočite mi nekaj zabavnega za večer!,recommendation_movies,7
+697,,"Žal mi je, ampak glasnost je preglasna!",audio_volume_down,1
+698,,"Oddaj elektronsko sporočilo na univerzitetni odbor, da razglasijo rezultate študentskega tekmovanja.",email_sendemail,5
+699,,Koliko stopinj bo zraka danes v Velenju?,weather_query,9
+700,,ima kdo dober recept za sladke palčke,cooking_recipe,3
+701,,"Prosim, kako bo vreme v soboto v Mariboru?",weather_query,9
+702,,"V kolikšnem času bomo, če je tri ure popoldan v Londinu?",datetime_convert,4
+703,,V Kataru je sedem zvečer koliko je ura pri nas?,datetime_convert,4
+704,,"Priporoči mi kakšen novo izdan filma, ki ga še nisi videl.",recommendation_movies,7
+705,,"Napiši in pošlji spletno sporočilo mojo mamo, da ji sporoči, kdaj bom prišel domov.",email_sendemail,5
+706,,predvajaj naslednji del zgodbe,play_audiobook,6
+707,,odstrani zadnji dogodek iz mojega dnevnika,calendar_remove,2
+708,,izberi naslednjo poglavje v zvočni knjigi,play_audiobook,6
+709,,Katere alarme so bile nastanjene pred enim tednom?,alarm_query,0
+710,,Spremeni čas iz pacifičnega na evropski.,datetime_convert,4
+711,,ali lahko dobim seznam novih filmov iz leta 2022,recommendation_movies,7
+712,,Lahko bi mi priporočal filme glede na mojo razpoloženje danes,recommendation_movies,7
+713,,Pretvori trenutni čas iz pacifičnega v centralni časovni pas.,datetime_convert,4
+714,,V kolikih je zdaj v Beogradu če je tu sedem ujutri?,datetime_convert,4
+715,,Ali bo večer deževno v Mariboru?,weather_query,9
+716,,koliko stane vozovnica za železniški promet iz ljubljane v benečijo,transport_ticket,8
+717,,"Lahko mi povejte, ali bo topla zima letos?",weather_query,9
+718,,Kako vreme pričakujejo za soboto v Celju?,weather_query,9
+719,,"Prosim, znižaj glasnost, da slišim bolje.",audio_volume_down,1
+720,,Kako dolgo še do prvega alarma?,alarm_query,0
+721,,Rezerviraj mi dva vstopna kupona za mestni promet v Novi Gorici,transport_ticket,8
+722,,odstrani vse obveznosti iz mojega koledarja,calendar_remove,2
+723,,priporočilo filme glede na mojo razpoloženo vivo dni,recommendation_movies,7
+724,,Pretvori čas iz zahodnog evropskega časa v moskovski čas.,datetime_convert,4
+725,,"Povejte mi, kdo odigral glavno vlogo v tem filmu in ali ga bom rada gledala.",recommendation_movies,7
+726,,"Pošlji elektronsko sporočilo bratu, da ga prosim, naj ti pomaga pri organizaciji dogodka.",email_sendemail,5
+727,,lahko me obvestiš o novem animiranem filmu,recommendation_movies,7
+728,,"Prosim, pošlji elektronsko sporočilo bratu, da mu naročim, naj pride domov kasneje.",email_sendemail,5
+729,,Kakšen odstotek sladkorja dodam k Testenininam?,cooking_recipe,3
+730,,"Če je sedem uri zvečer v New Yorku, koliko je ura v Zagrebu?",datetime_convert,4
+731,,Kako dolgo trajajo dnevi v Antarktiki glede na naš čas?,datetime_convert,4
+732,,Če je sedem ujutri tukaj koliko je ura v Parizu?,datetime_convert,4
+733,,Kako dolgo časa je razlike med Tokiom in Ljubljano?,datetime_convert,4
+734,,"naročil bi si priporočilo novega filma, ki pa še ni tako poznan!",recommendation_movies,7
+735,,"Poženi, znižaj glasnost!",audio_volume_down,1
+736,,"Preglasen je, znižaj",audio_volume_down,1
+737,,"Tisti zvok je pregluš, lahko ga znižaš?!",audio_volume_down,1
+738,,Kako naredim dobrotvorno omako za žitarice?,cooking_recipe,3
+739,,Poišči mi najcenejše vozovnice za vlak do Pulja.,transport_ticket,8
+740,,predvajaj naslednji del zvočne knjige o rimski zgodovini,play_audiobook,6
+741,,Če je tu treh popoldne koliko je ura v Tokiu?,datetime_convert,4
+742,,Odpri naziv zvočne knjige in začni predvajati.,play_audiobook,6
+743,,ponovna začnitev zvočne knjige od začetka,play_audiobook,6
+744,,odpri prvinski del zvočne knjige,play_audiobook,6
+745,,Odgovori na elektronsko sporočilo od Mateja in mu vrni vprašanje o projektu.,email_sendemail,5
+746,,kateri film si vreden ogleda v kino Komuna,recommendation_movies,7
+747,,Pretvori čas iz greenwichenga na severnoameriški.,datetime_convert,4
+748,,"Ni mi všeč tako glasno, lahko ga znižaš?",audio_volume_down,1
+749,,Kakšen romantičen film bi bil primeren za mojo aktualno razpoloženo?,recommendation_movies,7
+750,,Je že čas za letovanje na morju glede na vreme?,weather_query,9
+751,,Stisni tipko za znižanje glasnosti!,audio_volume_down,1
+752,,Je moj glavni alarm še vedno nastavljen na soboto?,alarm_query,0
+753,,Stisni glasnost navzdol!,audio_volume_down,1
+754,,Kateri filmski naslovi bi bili zelo priporočeni?,recommendation_movies,7
+755,,"Prosim, pošlji elektronsko sporočilo mojemu bratu z vprašanjem, ali bo prišel na kosilo.",email_sendemail,5
+756,,Odgovori na elektronsko sporočilo od sosede in povej mu za prihajajoče dogodke.,email_sendemail,5
+757,,Pošljite elektronsko sporočilo našemu upravniku z vsebinom o končani raziskavi.,email_sendemail,5
+758,,Katere alarme so aktivirane zvečer?,alarm_query,0
+759,,Pretvori lokalni čas v časovni pas GMT+1.,datetime_convert,4
+760,,"Prosim povejte mi, koliko bo ure v Rio de Janeirju ob enih zvečer tukaj.",datetime_convert,4
+761,,"Prijavi mi nove filme, ki bodo kmalu prišli v naš kino.",recommendation_movies,7
+762,,"Prijazni, ali lahko znižaš zvok?
+Utiži, prosim, ta zvok je preglasen!
+Glasnost je previsoka, lahko jo znižaš?
+Znižaj jo, prosim, mojo uho boleče.",audio_volume_down,1
+763,,"Odgovori na spletno sporočilo odanke in jo prositi, da pride na srečanje.",email_sendemail,5
+764,,"Utiži to glasnost, če moreš.",audio_volume_down,1
+765,,Ali obstaja možnosti za točo vreme v Piranu?,weather_query,9
+766,,"Povej, ali sem spustil alarm za jutri?",alarm_query,0
+767,,"V Kranju je tri ure popoldne, kakšen je čas v Chicagu?",datetime_convert,4
+768,,"Pošlji elektronsko sporočilo profesorju, da mu pošiljam povezavo do našega projekta.",email_sendemail,5
+769,,Kako dolgo imaš svoj alarm nastavljeno?,alarm_query,0
+770,,ali imaš vozovnice za vlak iz ljubljane do krška,transport_ticket,8
+771,,"Prosim, odstrani vsak dogodek, ki je bil dodan lansko leto",calendar_remove,2
+772,,Vreme v Mariboru za naslednjih pet dni?,weather_query,9
+773,,počni predvajati mojo najljubšo zvočno knjigo,play_audiobook,6
+774,,"Napiši in pošli elektronsko sporočilo Francu, da bo prišel na sestanek ob 10. uri.",email_sendemail,5
+775,,"Vračaj se k predvajanju zvočne knjige, ko sem jo zapustil.",play_audiobook,6
+776,,Odstrani sestanek prikupljanja odpadnin iz mojega koledarja.,calendar_remove,2
+777,,Začni ponovno predvajati zadnji del zvočne knjige.,play_audiobook,6
+778,,"Vozovnica za vlak do Kranja, koliko stane?",transport_ticket,8
+779,,izberi naslednjega branje za meni,play_audiobook,6
+780,,V kolikšnih minutah se spreminja čas od newyorška do los angeleskega časa?,datetime_convert,4
+781,,Poišči mi enostaven recept za kuhanje čokolade.,cooking_recipe,3
+782,,Poizkusiti rezervirati vozovnico za bus do Pirana!,transport_ticket,8
+783,,"Predlagajte mi nekaj filmskih klasikov, ki jih še nisem videl!",recommendation_movies,7
+784,,Kako preučimo časovna pásma v Evropi in Ameriki?,datetime_convert,4
+785,,"Znižaj zvok, ker se komaj čujem.",audio_volume_down,1
+786,,"Povej mi, ali bo deževalo v soboto v Celju.",weather_query,9
+787,,"Lepo, če bi bilo manj glasu.
+Kako znižam glasnost?
+Želim, da glasnost znižem.",audio_volume_down,1
+788,,Ali imaš kakšen alarm nastavljen za jutro?,alarm_query,0
+789,,Prikaži Mi Moje Alarme!,alarm_query,0
+790,,"Znižaj glasnost, da ne moti!",audio_volume_down,1
+791,,Brisi celotni koledar in začnite znova,calendar_remove,2
+792,,"Želim naučiti kuhati indijski curry, prosim za recept.",cooking_recipe,3
+793,,izdeli mi prosimo vozovnico za bus med ljubljanami in mariborom,transport_ticket,8
+794,,Povej mi kakšen bo vremenski izid za konec leta.,weather_query,9
+795,,Je bil alarm za zgodajše jutro nastavljen?,alarm_query,0
+796,,Je moj glavni alarm že nastavljen?,alarm_query,0
+797,,"Prosim, kakšno vreme pričakuje na Goriška Brda v naslednjih dveh dneh?",weather_query,9
+798,,Lahko ga zmanjšaš? Glasnost je previsoka,audio_volume_down,1
+799,,"Kako dolgo je zdaj dopoldne v Riu de Janeiroju, če je tukaj tri ure popoldan?",datetime_convert,4
+800,,izbriši prihodnji dogodek iz mojega koledarja,calendar_remove,2
+801,,Imam kaj nastavljeno za zgodnjo jutrnanjo budnost?,alarm_query,0
+802,,"Je že čas, da vzamem sončna očala?",weather_query,9
+803,,"Želim kuhati dober čokoladni kolač, prosim za recept!",cooking_recipe,3
+804,,"Slišim slabo, znižaj glasnost, prosim!",audio_volume_down,1
+805,,"Odgovori na elektronsko sporočilo od Simona in mu napiši, da bom prisla na srečanje.",email_sendemail,5
+806,,Lahko me obvestiš o morebitnem dežju danes?,weather_query,9
+807,,Počisti koledar in zbriši vse zapise,calendar_remove,2
+808,,"Kako dolgo moram peči pita, da se znotraj raztopijo?",cooking_recipe,3
+809,,Spremeni časovni pas iz pacifičnega na atlantski.,datetime_convert,4
+810,,"Zvok je preglasen, lahko ga znižaš?
+Prosim, utišaj malo, slušam radio.
+Naredi, da zvok ni tako glasen.
+Znižaj glasnost, ko se oglasi alarm.",audio_volume_down,1
+811,,Lahko me obvesti o morebitnem dežju danes?,weather_query,9
+812,,nadlaguj k knjigi in začni ponovno predvajati,play_audiobook,6
+813,,Povej mi kaj pravi vremenska napoved za torek?,weather_query,9
+814,,Kateri film bi ti priporočal za danes?,recommendation_movies,7
+815,,zapusti trenutno predvajano zvočno knjigo in odprite novo,play_audiobook,6
+816,,Spremeni časovni pas iz Tokija na Londonski.,datetime_convert,4
+817,,Ali je že obstoječ alarm nastavljen za danes?,alarm_query,0
+818,,Izbrisi mojo zadnjo dodano dogodkovino.,calendar_remove,2
+819,,odstrani vse zapise iz mojega meseca,calendar_remove,2
+820,,"Stisnjeno govoriš, lahko znižaš glasnost?",audio_volume_down,1
+821,,"Predvajaj novo zvočno knjigo, ki mi je bila priporočena.",play_audiobook,6
+822,,Spremeni čas iz greenwicha v časovni pas Severne Amerike.,datetime_convert,4
+823,,Rezervacija vozovnice za Vlak Ljubljana-Kranj zanjutri.,transport_ticket,8
+824,,"Ti glasnosti že boljšno, lahko jo še malo znižaš?",audio_volume_down,1
+825,,Rezerviraj mi kartu za vlak do Krka.,transport_ticket,8
+826,,Spremeni časovni pas iz Pariza v Tokio.,datetime_convert,4
+827,,V katere ure se prevede lokalni čas v času v Rиму?,datetime_convert,4
+828,,Predlagaš kakšen romantičen film za večer?,recommendation_movies,7
+829,,"Odgovor na elektronsko sporočilo od direktorja in mu navedi, da bom prišel na sestanek.",email_sendemail,5
+830,,Kaj je trenutno nastavitev alarma na mojo ure?,alarm_query,0
+831,,Kakšen je različek med pečenjem v gluhi pečici in navadni pečici?,cooking_recipe,3
+832,,Ali je bil alarm že nastavljena za danes?,alarm_query,0
+833,,lahko mi pomagaš z rezervacijo vozovnice za vlak do pirana,transport_ticket,8
+834,,odstrani obveznost kupovanja hrane iz mojega koledarja,calendar_remove,2
+835,,Vljubi se nazaj v prebrano zvočno knjigo,play_audiobook,6
+836,,Potrebujem vozovnico za vlak iz Celja v Novo Gorico.,transport_ticket,8
+837,,Poišči mi enostaven recept za jogurt z malinami.,cooking_recipe,3
+838,,zaigraj znova zadnjega dela knjige,play_audiobook,6
+839,,Kako dolgo bom imel ta alarm?,alarm_query,0
+840,,V kolikšnih je uri zdaj v New Yorku če sem v Sloveniji ima deset zvečer?,datetime_convert,4
+841,,Poišči mi recept za slane palačinke!,cooking_recipe,3
+842,,"Znižaj glasnost, to je preglasno!
+Prosim, utišaj svojo glasnost!
+Ni mi všeč tako glasno, znižaj jo!
+Želim mirnejše okolje, znižaj glasnost!",audio_volume_down,1
+843,,"Pošlji elektronsko sporočilo Mojci z vprašanjem, ali bo sprejela sodelovanje v projektu.",email_sendemail,5
+844,,"Prosim, da pošljem spletno sporočilo materi za rojstni dan.",email_sendemail,5
+845,,Pokaži mi cene vozovnic za vlak med Ljubljano in Zagrebo,transport_ticket,8
+846,,"Prosim, odstrani vse zapise o poročilih v mojem koledarju.",calendar_remove,2
+847,,Poišči mi najboljše ceno za karto na Vlak Ljubljana-Žalec.,transport_ticket,8
+848,,Poišči vozovnice za vlak iz Ljubljane do Zagreba!,transport_ticket,8
+849,,"Lahko govoriš še tiše, prosim!",audio_volume_down,1
+850,,Pošlite ravnatelju šole elektronsko sporočilo z vprašanjem o morebitnem dogodku.,email_sendemail,5
+851,,Ali Je Moj Alarm Za Jutri Nastavljen In Pripravljen?,alarm_query,0
+852,,Koliko stane vozovnica za vlak do Zagreba?,transport_ticket,8
+853,,"pomagaj, potrebujem vozovnico za vlak iz konstanze v dunajska",transport_ticket,8
+854,,"Prosim, kako je vreme danes v Mariboru?",weather_query,9
+855,,prosim te rezerviraj mi vozovnico za vlak do kopra,transport_ticket,8
+856,,"pomagaj, iščem film, ki bo zelo zabaven!",recommendation_movies,7
+857,,zbrisi zadnji dodan dogodek,calendar_remove,2
+858,,Koliko stane vozovnica za vlak iz Celja v Novo Gorico?,transport_ticket,8
+859,,izdeli mi rezervacijo za vlak do krška,transport_ticket,8
+860,,Kakšen je razmerje med sladkorjem in maslom pri pečenju kolačev?,cooking_recipe,3
+861,,Zakupi mi elektronsko vozovnico za bus do Pirana.,transport_ticket,8
+862,,Pretvori trenutni čas iz greenwiška v brazilski čas.,datetime_convert,4
+863,,"Pošlji elektronsko sporočilo sekretarici in ji naroči, da organizira sestanek.",email_sendemail,5
+864,,"Imam sveže brokoli, kako ga kuham?",cooking_recipe,3
+865,,"Imam en kilogram češenj, kako iz njih naredim dobrotno juho.",cooking_recipe,3
+866,,Je alarm za danes že nastavljen in pripravljen?,alarm_query,0
+867,,nadalojni s predvajanjem knjige ki sem jo začel slušati,play_audiobook,6
+868,,"Žal mi je preglasno, utiši zvok",audio_volume_down,1
+869,,"Želim poskusiti kuhati indijski curry, ali ima kdo dober recept?",cooking_recipe,3
+870,,rezervacija vozovnic za vlak je možna na spletni strani,transport_ticket,8
+871,,Ali je že nastavitev alarma za jutrišnjemu času?,alarm_query,0
+872,,Prikaži mi cene vozovnic za železniški prevoz med Ljubljano in Mariborom.,transport_ticket,8
+873,,"Poišči mi kakšen dober dokumentarni film, ki govori o zgodovini.",recommendation_movies,7
+874,,"Prosim, kolikšna je temperatura zunaj?",weather_query,9
+875,,"prosim, koliko stojijo vozovnice za vlak do novogorice?",transport_ticket,8
+876,,"Imam nekaj sveže paprike, kako jo uporabim v salati?",cooking_recipe,3
+877,,Razpisali so novo vozovnico za vlak do Zagreba.,transport_ticket,8
+878,,Vprašaj me kako dobim vozovnico za mestni promet v Ljubljani.,transport_ticket,8
+879,,nadlaguj se kjer sem prekinil branje,play_audiobook,6
+880,,"Pošlji elektronsko sporočilo Mojci in ji sporoči, da sem že končal projekt in ga bo kmalu objavljen.",email_sendemail,5
+881,,Kako dolgo bom še čakal na nastavljanje novega alarma?,alarm_query,0
+882,,kako zarezinam piščančja prsa,cooking_recipe,3
+883,,Prikaži mi razpoložljive vozovnice za vlak iz Ljubljane do Celja.,transport_ticket,8
+884,,"Prosim, pošljite mojo materi elektronsko sporočilo, da jo oznanim rojstni dan.",email_sendemail,5
+885,,"Prosim, pošlji elektronsko sporočilo mojo mamo in ji povej, kdaj bom doma.",email_sendemail,5
+886,,Poišči mi recept za slano palačinko!,cooking_recipe,3
+887,,"V kakšnem času bomo jutra, ko bo v Los Angelesu polnoč?",datetime_convert,4
+888,,"Glasnost je previsoka, utiži jo, prosim!",audio_volume_down,1
+889,,Rezervacija vozovnic za vlak je še vedno možna?,transport_ticket,8
+890,,"Kakšen film bi ti predlagal, če želiš nekaj razburljivega?",recommendation_movies,7
+891,,Pretvori čas iz zahodnega afriškega časa v osrednjeevropski čas.,datetime_convert,4
+892,,Spremeni časovni pas iz berlinskega na madridski.,datetime_convert,4
+893,,Naroči mi vozovnico za železniški prevoz iz Kranja do Novega mesta.,transport_ticket,8
+894,,Kolikšen je časovna razlika med Slovenijo in Avstralijo?,datetime_convert,4
+895,,Ali imaš kakšen alarm nastavitev za jutri?,alarm_query,0
+896,,Potrebujem dvokratno vozovnico za vlak do Zagreba,transport_ticket,8
+897,,Predvajaj znano zvočno knjigo o življenju velikih ljudi.,play_audiobook,6
+898,,Pretvori čas iz ameriškega pacifičnega časa v evropski centralni čas.,datetime_convert,4
+899,,Katere alarme sem postavil za ta teden?,alarm_query,0
+900,,Ali bo že jeseni v Ljubljani?,weather_query,9
+901,,Rezerviraj mi dva vstopna vozovnična kupona za vlak do Portoroža,transport_ticket,8
+902,,Napiši kratko elektronsko sporočilo Simoni in jo obvesti o spreminjenem času srečanja.,email_sendemail,5
+903,,Kakšen film bi ti priporočal za danes?,recommendation_movies,7
+904,,Vremenski pogoj za jutri v Mariboru.,weather_query,9
+905,,kateri filmski klasiki bi ti priporočal za ogled doma?,recommendation_movies,7
+906,,začni novo predvajanje zvočne knjige prosim,play_audiobook,6
+907,,izdaji mi elektronsko vozovnico za bus do celja,transport_ticket,8
+908,,naročil bom nove filme iz zadnjega leta!,recommendation_movies,7
+909,,priporoči mi kakšen film s podrobnostmi o njem,recommendation_movies,7
+910,,"Pošljite elektronsko sporočilo Mojci in ji povejte, da sem že začel novo delo.",email_sendemail,5
+911,,Izbrisi svečano kosilo zanj še enkrat,calendar_remove,2
+912,,Nadaljuj s predvajanjem zadnjega dela knjige.,play_audiobook,6
+913,,Koliko stopinj bo danes v Celju?,weather_query,9
+914,,"Če je v Londonu ena uro dopoldan, koliko je ure pri nas?",datetime_convert,4
+915,,Prosim pošljite spletno sporočilo mojemu bratcu z vprašanjem ali ima prosti čas za skupno kosilo.,email_sendemail,5
+916,,"Prosim, pošlji spletno sporočilo mojo mamo, da jo obvestim o prihodu.",email_sendemail,5
+917,,Kako bo vreme v soboto v Celju?,weather_query,9
+918,,"Ali znas kakšen lep romantičen film, ki pa ni preveč dolg?",recommendation_movies,7
+919,,"Stisni tipko za zmanjšanje glasnosti.
+Tišja glasba, prosim.
+Kako zmanjšam glasnost na tem televiziji?",audio_volume_down,1
+920,,"Napiši in pošlji elektronsko sporočilo Karinu, da prihaja na sestanek ob 10. uri.",email_sendemail,5
+921,,Ali lahko preverim svoje nastavitve alarmov?,alarm_query,0
+922,,"Preglasno mi je, prosim utišaj!",audio_volume_down,1
+923,,Spremeni časovni pas iz ameriškega pacifičnega časa na evropski centralni čas.,datetime_convert,4
+924,,Utišaj ta glas!,audio_volume_down,1
+925,,Je moj alarm že nastavljen za danes?,alarm_query,0
+926,,Odstrani vsa opravila iz mojega koledarja,calendar_remove,2
+927,,Začasni trenutno predvajano zvočno knjigo in začni novo.,play_audiobook,6
+928,,kakšen je razlika med kuhanjem v paru in kuhanjem na vazduhu,cooking_recipe,3
+929,,"Odgovorite na elektronsko sporočilo od Marka in mu napisite, da smo že začeli delati na projektu.",email_sendemail,5
+930,,"Imam pol kilograma gobice, kako jo zagotovo pripravim?",cooking_recipe,3
+931,,"Utiši zvok, prosim.",audio_volume_down,1
+932,,"Vozovnica za vlak Ljubljana - Novo mesto, kdaj odpotuje prvi vlak?",transport_ticket,8
+933,,Lahko me obvesti o morebitnem sneženju v Gorici?,weather_query,9
+934,,"Prosim pošlji elektronsko sporočilo bratu in vprašaj ga, ali bo prišel na večerjo.",email_sendemail,5
+935,,Razpoložljive vozovnice za vlak do Zagreba prosim.,transport_ticket,8
+936,,računaj ceno vozovnic za dva odrasla in enega otroka od krška do novogoriče,transport_ticket,8
+937,,"Prosim, koliko stopinj bo danes v Mariboru?",weather_query,9
+938,,Zbriši svečano večerjo iz mojega koledarja,calendar_remove,2
+939,,izberi mi film s Nathanom Fillionom,recommendation_movies,7
+940,,Rezerviraj mi karti za vlak v Maribor.,transport_ticket,8
+941,,Poišči vreme za danes v Murski Soboti.,weather_query,9
+942,,Je možno videti seznam vseh mojih nastavljenih alarmov?,alarm_query,0
+943,,"Če je v Ljubljani ena uro, kolikšen je čas v Sidnejju?",datetime_convert,4
+944,,"Znižaj občutljivost zvočnika.
+Utiži zvok, prosim!
+Ni slušati, utišaj glasnost.
+Lahko bi bil zvok nekoliko tišší.
+Znižaj glasnost, da slišim bolje.",audio_volume_down,1
+945,,nastavi glasnost in začni predvajati zvočno knjigo,play_audiobook,6
+946,,"Prosim, utišaj glasnost, da bom lažje slišala.
+Slišim te slabo, prosim znižaj glasnost.
+Glasnost je premočna, lahko jo znižaš?",audio_volume_down,1
+947,,Počisti moj koledar in zbriši vse dogodke,calendar_remove,2
+948,,Priporoči mi nekaj novega iz koprodukcije Hollywood-Bollywood!,recommendation_movies,7
+949,,Pretvori čas iz pacifičnega časa v osrednjeevropski čas.,datetime_convert,4
+950,,"Priporočanje filmov: kaj bi rekli za ""Titanic""?",recommendation_movies,7
+951,,Lahko me priporočate kakšen dobrega filma iz zadnjih let,recommendation_movies,7
+952,,ali obstaja recep za pravi italijanski risoto,cooking_recipe,3
+953,,"Zvočnik deluje preglasno, utišaj ga!",audio_volume_down,1
+954,,Poišči vozovnice za avtobus iz Ljubljane do Celja.,transport_ticket,8
+955,,Spremeni časovni pas iz osloškega na madridski.,datetime_convert,4
+956,,Odstrani svečano večerjo iz mojega dnevnika,calendar_remove,2
+957,,Odstrani obveznost kupovanja hrane iz mojega koledarja.,calendar_remove,2
+958,,"Koliko časa moram kuhati mesa, da postane mehko?",cooking_recipe,3
+959,,"Prosim, pošljite elektronsko sporočilo mojo materi in ji preberite, kakšen je bil izlet v gorove.",email_sendemail,5
+960,,odstrani vse zapise iz mojega koledarja,calendar_remove,2
+961,,Odgovori na elektronsko sporočilo odanke in jo obvesti o morebitnih spremembah.,email_sendemail,5
+962,,Napiši kratko elektronsko sporočilo za Mojco in jo obvesti o spreminjanju termina.,email_sendemail,5
+963,,Ali imaš seznam vseh mojih nastavitev?,alarm_query,0
+964,,nastavi glasnost in predvajaj še enkrat zvočno knjigo,play_audiobook,6
+965,,Naredi rezervacijo za vlak do Celja za jutri!,transport_ticket,8
+966,,Pretvori aktualni čas iz zahodnoevropskega v osrednjeevropski čas.,datetime_convert,4
+967,,Katere alarme še ni bilo ugasnjeno?,alarm_query,0
+968,,Kako velja lokalen čas v Bejrutu če je tu ena uro popoldan?,datetime_convert,4
+969,,počni spet predvajat mojo najljubšo zvočno knjigo,play_audiobook,6
+970,,Je moj alarm za soboto nastavљen na pravilen čas?,alarm_query,0
+971,,"Napisati in pošlji elektronsko sporočilo mojo hčerki, ki ji želim vse najboljše.",email_sendemail,5
+972,,Kako dobro skuhajo testenine za lasagne?,cooking_recipe,3
+973,,V kolikih je uri v Tokiu če je tukaj tri ujutra?,datetime_convert,4
+974,,"V katerem času smo zdaj, če je v New Yorku pol ene?",datetime_convert,4
+975,,kakšen je razmerje med maslo in močnim mlijekom za slaščično testo,cooking_recipe,3
+976,,"V Ljubljani je sedem uro popoldan, kako je to v New Yorku?",datetime_convert,4
+977,,Naredi osnutek elektronskega sporocila za kolega in ga obvesti o spreminjanju urnika.,email_sendemail,5
+978,,"Vsem kolegom pošljite elektronsko sporočilo, da bomo zavoljo dneva svobode zaprli pisarno.",email_sendemail,5
+979,,Ponovno predvajaj prvi del knjige.,play_audiobook,6
+980,,zbriši mojo zadnjo razpisano pripravljenost,calendar_remove,2
+981,,Povedaj mi za nove filme!,recommendation_movies,7
+982,,izberi naslednjega bralca za mojo zvočno knjigo,play_audiobook,6
+983,,"Žal mi je preglasno, prosim utenij!",audio_volume_down,1
+984,,Ali bo veter močan danes v Ljubljani?,weather_query,9
+985,,ali bi mi pokazal seznam filmov ki jih še ni videl in bi jim bil všeč,recommendation_movies,7
+986,,Začni predvajati novo poglavje v zvočni knjigi.,play_audiobook,6
+987,,"Pošlji elektronsko sporočilo Tadeju in mu naroči, naj se javi čimprej.",email_sendemail,5
+988,,Kako dolgo bom čakal na znov nastavitve alarma?,alarm_query,0
+989,,Lahko bi bil malo tiše?,audio_volume_down,1
+990,,Odstrani vsa opravila iz dnevnika za ta mesec,calendar_remove,2

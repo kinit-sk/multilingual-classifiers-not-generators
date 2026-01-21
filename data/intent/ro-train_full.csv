@@ -1,0 +1,2003 @@
+,Unnamed: 0,text,intent,label
+0,0.0,Ce este cea mai devreme alarmă setată pentru mine?,alarm_query,0
+1,1.0,A fost activată alarma mea pentru această după-amiază?,alarm_query,0
+2,2.0,Pot să primesc o listă cu toate alarmele mele?,alarm_query,0
+3,3.0,Potrivesteți-mi orele de alarmă pentru săptămâna viitoare.,alarm_query,0
+4,4.0,Unde pot găsi lista cu toate alarmele mele?,alarm_query,0
+5,5.0,Ce alarme sunt asociate cu evenimentele mele?,alarm_query,0
+6,6.0,Este posibil să dezactivez toate alarmele?,alarm_query,0
+7,7.0,Ce alarme au fost activate recent?,alarm_query,0
+8,8.0,Arată-mi lista cu toate alarmele mele.,alarm_query,0
+9,9.0,Ce este ora primei alarme din ziua de azi?,alarm_query,0
+10,10.0,Afișază-mi toate alarmele mele inactive.,alarm_query,0
+11,11.0,Ce fel de alarme am eu setate pentru această lună?,alarm_query,0
+12,12.0,Există vreo alarmă setată pentru ziua de mâini?,alarm_query,0
+13,13.0,Există vreo alarmă setată pentru prima parte a zilei?,alarm_query,0
+14,14.0,Câte alarme am eu programate pentru weekend?,alarm_query,0
+15,15.0,La ce oră este setată alarma mea de ieri?,alarm_query,0
+16,16.0,Poți să mi-o arăți pe cea mai apropiată alarmă?,alarm_query,0
+17,17.0,Am vreo alarmă setată pentru weekend?,alarm_query,0
+18,18.0,La ce oră trebuie să mă trezesc mâine?,alarm_query,0
+19,19.0,La ce oră este setată alarma mea de după-amiază?,alarm_query,0
+20,20.0,Oferă-mi detalii despre alarma mea de la ora 7 dimineață.,alarm_query,0
+21,21.0,În ce moment este setată alarma mea preferată?,alarm_query,0
+22,22.0,Îmi poți spune dacă am vreo alarmă setată pentru noapte?,alarm_query,0
+23,23.0,Cum pot să verificăm dacă am vreo alarmă activă?,alarm_query,0
+24,24.0,Arată-mi ultima alarmă pe care am setat-o.,alarm_query,0
+25,25.0,Ce alarme au fost activate ieri?,alarm_query,0
+26,26.0,Ce ora e setată alarma mea pentru seara?,alarm_query,0
+27,27.0,Arată-mi lista cu toate alarmele mele active.,alarm_query,0
+28,28.0,La ce oră va suna alarma mea de sâmbătă?,alarm_query,0
+29,29.0,Îmi poți spune la ce oră începe alarma mea de mâine?,alarm_query,0
+30,30.0,Sunt disponibile alte opțiuni de alarmă decât cele standard?,alarm_query,0
+31,31.0,În cât timp va suna următoarea alarmă?,alarm_query,0
+32,32.0,Ce este ora exactă a primei alarme de azi?,alarm_query,0
+33,33.0,Ce alarme am activ în prezent?,alarm_query,0
+34,34.0,La ce oră este setată alarma mea de duminică?,alarm_query,0
+35,35.0,Este posibil să schimb ora unei alarme existente?,alarm_query,0
+36,36.0,Oferă-mi detalii despre următoarea alarmă.,alarm_query,0
+37,37.0,Cum pot să dezactivez alarma mea curentă?,alarm_query,0
+38,38.0,Am vreo alarmă setată pentru după-amiaza asta?,alarm_query,0
+39,39.0,Sunt vreun fel de alarme setate pentru noaptea asta?,alarm_query,0
+40,40.0,Cât timp mai e până la următoarea alarmă?,alarm_query,0
+41,41.0,Care sunt cele mai importante alarme ale zilei de azi?,alarm_query,0
+42,42.0,Arată-mi toate alarmele mele setate pentru zilele lucrătoare.,alarm_query,0
+43,43.0,Când este setată prima alarmă din ziua de azi?,alarm_query,0
+44,44.0,Sunt setate vreodată alarme pentru seara?,alarm_query,0
+45,45.0,La ce ora se va opri alarma mea curentă?,alarm_query,0
+46,46.0,La ce ora se va declanșa alarma mea de după-amiază?,alarm_query,0
+47,47.0,Ce tipuri de alarme sunt disponibile?,alarm_query,0
+48,48.0,Afișază-mi toate orele de alarmă din această săptămână.,alarm_query,0
+49,49.0,Ce ora e setată alarma mea pentru ziuă?,alarm_query,0
+50,50.0,Există vreo alarmă setată pentru sfârșitul săptămânii?,alarm_query,0
+51,51.0,Arată-mi lista tuturor alamelor mele active.,alarm_query,0
+52,52.0,Cât timp până la următoarea alarmă?,alarm_query,0
+53,53.0,Poți să-mi spună dacă am vreo alarmă setată pentru iarna asta?,alarm_query,0
+54,54.0,Câte alarme am eu în acest moment?,alarm_query,0
+55,55.0,Poți să-mi arăți ultima alarmă setată?,alarm_query,0
+56,56.0,Îmi poți spune dacă am vreo alarmă setată pentru sfârșitul săptămânii?,alarm_query,0
+57,57.0,Ce alarme am activat în prezent?,alarm_query,0
+58,58.0,Ce alarme am eu setate în acest moment?,alarm_query,0
+59,59.0,La ce ora trebuie sa ma trezesc azi?,alarm_query,0
+60,60.0,Arată-mi lista cu toate orele de alarmă ale meu.,alarm_query,0
+61,61.0,Sunt vreun fel de alarme setate pentru sfârșitul lunii?,alarm_query,0
+62,62.0,La ce oră îmi sună alarma de mâine?,alarm_query,0
+63,63.0,Ce alarme am eu setate pentru luni?,alarm_query,0
+64,64.0,Am vreo alarmă specială pentru ziua de naștere?,alarm_query,0
+65,65.0,Am vreo alarmă setată pentru astăzi?,alarm_query,0
+66,66.0,Arată-mi numărul total de alarme setate.,alarm_query,0
+67,67.0,Am vreo alarmă setată pentru ora 7 dimineață?,alarm_query,0
+68,68.0,Există vreo alarmă setată pentru mijlocul zilei?,alarm_query,0
+69,69.0,Arată-mi orele de alarmă pentru săptămâna viitoare.,alarm_query,0
+70,70.0,Ce este cel mai apropiat timp de alarmă?,alarm_query,0
+71,71.0,Am vreo alarmă setată pentru sfârșitul săptămânii?,alarm_query,0
+72,72.0,La ce oră se activează prima alarmă de azi?,alarm_query,0
+73,73.0,Există vreo alarmă nouă pentru azi-noapte?,alarm_query,0
+74,74.0,La ce oră trebuie să mă trezesc azi?,alarm_query,0
+75,75.0,Ce ora e setată alarma mea pentru astăzi?,alarm_query,0
+76,76.0,La ce oră încep să funcționeze prima alarmă de azi?,alarm_query,0
+77,77.0,De când este setată alarma mea pentru luni?,alarm_query,0
+78,78.0,Pot să primesc o listă cu toate alarmele mele inactive?,alarm_query,0
+79,79.0,Îmi poți spune câte alarme am setat până acum?,alarm_query,0
+80,80.0,Cum pot să modific o alarmă existentă?,alarm_query,0
+81,81.0,Ce alarme am setat pentru data de mâine?,alarm_query,0
+82,82.0,Sunt setate alarme pentru noaptea trecută?,alarm_query,0
+83,83.0,Ce alarme am eu programate pentru luna viitoare?,alarm_query,0
+84,84.0,Arată-mi primele cinci alarme setate pentru azi.,alarm_query,0
+85,85.0,Care este următoarea alarmă setată pentru mine?,alarm_query,0
+86,86.0,Pot să văd toate alarmele mele inactive?,alarm_query,0
+87,87.0,Sunt vreun fel de alarme setate pentru noaptea aceasta?,alarm_query,0
+88,88.0,Îmi poți arăta toate alarmele mele inactive?,alarm_query,0
+89,89.0,Când va suna următoarea alarmă?,alarm_query,0
+90,90.0,Care este ora la care mi-e setată alarma de mâine?,alarm_query,0
+91,91.0,La ce oră este setată alarma mea pentru sfârșitul săptămânii?,alarm_query,0
+92,92.0,Mă poate ajuta să găsesc alarma pierdută?,alarm_query,0
+93,93.0,Câte alarme am setat pentru weekend?,alarm_query,0
+94,94.0,Arată-mi cum funcționează alarma mea de somn.,alarm_query,0
+95,95.0,La ce ora începe alarma mea de dimineață?,alarm_query,0
+96,96.0,Sunt setate vreun fel de alarme pentru seara aceasta?,alarm_query,0
+97,97.0,Când este ultima dată când am setat o alarmă?,alarm_query,0
+98,98.0,Poți să-mi spună câte alarme am setat până acum?,alarm_query,0
+99,99.0,Poți să mi-o arăți pe prima alarmă din listă?,alarm_query,0
+100,100.0,"Nu pot suporta zgomotul, scade volumul!",audio_volume_down,1
+101,101.0,"Este prea zgomot, reduceți volumul!",audio_volume_down,1
+102,102.0,"Zgomotul e prea mare, poți să-l reduci?",audio_volume_down,1
+103,103.0,"Este prea tare, scădem volumul imediat!",audio_volume_down,1
+104,104.0,"Este prea puternic, reduceți-i intensitatea acum!",audio_volume_down,1
+105,105.0,Vreau să scad volumul muzicii.,audio_volume_down,1
+106,106.0,Vrei să coborâm volumul radioului?,audio_volume_down,1
+107,107.0,"Este prea tare, micșorăm volumul!",audio_volume_down,1
+108,108.0,Îmi place să ascult muzica cu volum mic.,audio_volume_down,1
+109,109.0,Hai să scădem volumul și să ne relaxăm.,audio_volume_down,1
+110,110.0,Este timpul să scadăm volumul.,audio_volume_down,1
+111,111.0,"Este prea zgomotos acolo, scade volumul!",audio_volume_down,1
+112,112.0,"Volumul e prea ridicat, scădem!",audio_volume_down,1
+113,113.0,"E prea tare, scădeați-l puțin!",audio_volume_down,1
+114,114.0,Pot să scad volumul și să-l fac mai mic?,audio_volume_down,1
+115,115.0,Poate fi redus nivelul de sunet?,audio_volume_down,1
+116,116.0,"E prea puternic, reduce volumul!",audio_volume_down,1
+117,117.0,Sistemul de sunet are volumul prea ridicat.,audio_volume_down,1
+118,118.0,Vrei să scad volumul și să-l fac mai liniștit?,audio_volume_down,1
+119,119.0,Reduceți volumul și faceți-mă să mă simt confortabil.,audio_volume_down,1
+120,120.0,Coboară nivelul sonor al aparatului.,audio_volume_down,1
+121,121.0,"Mai încet cu vocea, vă rog.",audio_volume_down,1
+122,122.0,Vom reduce volumul și vom avea o seară liniștită.,audio_volume_down,1
+123,123.0,Coboarați nivelul de sunet al sistemului de audio.,audio_volume_down,1
+124,124.0,Dă-mi voie să coborâm volumul.,audio_volume_down,1
+125,125.0,"Sunt surd, pot să scad volumul?",audio_volume_down,1
+126,126.0,Scaziți nivelul de sunet al sistemului de Boxe.,audio_volume_down,1
+127,127.0,"Este prea gălăgie, scade volumul televizorului!",audio_volume_down,1
+128,128.0,Trebuie să scad volumul ca să mă concentrez.,audio_volume_down,1
+129,129.0,Reduceti volumul aparatului de radio.,audio_volume_down,1
+130,130.0,"Este prea tare, micșorați-l puțin.",audio_volume_down,1
+131,131.0,"Îmi place melodia, dar e prea tare, scadeți-o!",audio_volume_down,1
+132,132.0,"Volumul e prea mare, poți să-l reduci?",audio_volume_down,1
+133,133.0,Reducerea volumului este necesară acum.,audio_volume_down,1
+134,134.0,"Scade volumul muzicii, vreau să mă odihnesc.",audio_volume_down,1
+135,135.0,"Aparatele au volumul prea mare, scade-le!",audio_volume_down,1
+136,136.0,Faceți-mă să aud mai încet.,audio_volume_down,1
+137,137.0,"Sunt obosit, scade volumul și hai să dormim.",audio_volume_down,1
+138,138.0,Reducem volumul aparatului de sonorizare.,audio_volume_down,1
+139,139.0,"Dacă poți, dă-i mai încet cu muzica.",audio_volume_down,1
+140,140.0,Coborâți volumul pentru că e prea ridicat.,audio_volume_down,1
+141,141.0,Doriți să reducem volumul difuzorului?,audio_volume_down,1
+142,142.0,Poți să scadă volumul și să economisim baterii.,audio_volume_down,1
+143,143.0,Este important să reducem volumul în acest moment.,audio_volume_down,1
+144,144.0,"Coborâți volumul, vreau să citesc o carte.",audio_volume_down,1
+145,145.0,"Micșorează-l puțin, e prea zgomot.",audio_volume_down,1
+146,146.0,Vom scădea volumul în curând.,audio_volume_down,1
+147,147.0,"Este prea tare, dă-i mai încet!",audio_volume_down,1
+148,148.0,Micșorează volumul aparatului de radio.,audio_volume_down,1
+149,149.0,Vouă permiteți să coborâm volumul?,audio_volume_down,1
+150,150.0,"Vrei să dai mai încet cu volumul, te rog?",audio_volume_down,1
+151,151.0,M-ar prinde bine să scad volumul difuzorului.,audio_volume_down,1
+152,152.0,Poate fi posibil să reducem volumul?,audio_volume_down,1
+153,153.0,Sper să poți să reduci volumul.,audio_volume_down,1
+154,154.0,"Vouă aveți volumul prea mare, scădeți-l!",audio_volume_down,1
+155,155.0,Reduceți nivelul de sunet al televizorului.,audio_volume_down,1
+156,156.0,"Nivelul sunetului e prea ridicat, coboară-l puțin.",audio_volume_down,1
+157,157.0,"E prea tare, reduceți volumul și ascultați-mă!",audio_volume_down,1
+158,158.0,Nivelul sonor trebuie redus imediat.,audio_volume_down,1
+159,159.0,"Acest volum e prea ridicat, reduceți-l imediat!",audio_volume_down,1
+160,160.0,Poți să reduci volumul un pic?,audio_volume_down,1
+161,161.0,Nu este nevoie de atât de multă energie sonoră.,audio_volume_down,1
+162,162.0,"Mă deranjează zgomotul, scade volumul!",audio_volume_down,1
+163,163.0,Vreau să scad volumul difuzorului meu.,audio_volume_down,1
+164,164.0,Trebuie să reducem nivelul sonor.,audio_volume_down,1
+165,165.0,Puteți să micșorați volumul și să mă ajutați?,audio_volume_down,1
+166,166.0,Vom scădea volumul pentru ca toată lumea să se poată concentra.,audio_volume_down,1
+167,167.0,Coborâți volumul televizorului vă rog.,audio_volume_down,1
+168,168.0,Vrei să reducem volumul sistemului de sonorizare?,audio_volume_down,1
+169,169.0,"Este prea gălăgios, pot să-l reduc?",audio_volume_down,1
+170,170.0,Micșorați-vă vouă însumi volumul!,audio_volume_down,1
+171,171.0,"Volumul e prea mare, poate fi redus?",audio_volume_down,1
+172,172.0,Pot să dau în jos volumul difuzoarelor?,audio_volume_down,1
+173,173.0,Pot să scad volumul acestui canal?,audio_volume_down,1
+174,174.0,Reduceți volumul pentru că mă deranjează.,audio_volume_down,1
+175,175.0,Putem să reducem volumul și să ascultăm liniștiți.,audio_volume_down,1
+176,176.0,Vrei să dăm în jos volumul și să ne odihnim.,audio_volume_down,1
+177,177.0,Putem să reducem volumul și să ne relaxăm?,audio_volume_down,1
+178,178.0,"E prea zgomot, poți să-l faci mai încet?",audio_volume_down,1
+179,179.0,Nu pot asculta cu volumul atât de ridicat.,audio_volume_down,1
+180,180.0,"Este prea puternic, reduceți-i intensitatea.",audio_volume_down,1
+181,181.0,Micșorați volumul televizorului.,audio_volume_down,1
+182,182.0,"Mă deranjează zgomotul, dă-i mai încet!",audio_volume_down,1
+183,183.0,"Coboară volumul difuzoarelor, este prea puternic.",audio_volume_down,1
+184,184.0,"Este prea zgomotos, coborâți volumul!",audio_volume_down,1
+185,185.0,Coboară volumul și să fim liniștiți.,audio_volume_down,1
+186,186.0,"Aparatul de sonorizare e prea tare, scadeți-l!",audio_volume_down,1
+187,187.0,"Îmi place să ascult muzică, dar nu prea tare.",audio_volume_down,1
+188,188.0,Este nevoie să scadăm volumul sistemului.,audio_volume_down,1
+189,189.0,"Nu mai poate fi auzit, reduceți volumul!",audio_volume_down,1
+190,190.0,"Este prea gălăgie în camera aceea, scade volumul!",audio_volume_down,1
+191,191.0,Coborîți volumul aparatului de radio.,audio_volume_down,1
+192,192.0,Poate fi redus nivelul sunetului?,audio_volume_down,1
+193,193.0,"Volumul este prea ridicat, scade-l!",audio_volume_down,1
+194,194.0,"Este prea zgomotos, puteți să mi-l reduceți?",audio_volume_down,1
+195,195.0,"Este prea gălăgios, dă-i mai încet!",audio_volume_down,1
+196,196.0,"Zgomotul mă enervează, dă-i mai încet!",audio_volume_down,1
+197,197.0,"E prea tare, poți să reduci volumul un pic?",audio_volume_down,1
+198,198.0,"Nivelul de sunet e prea ridicat, reduceți-l!",audio_volume_down,1
+199,199.0,Scade volumul căsuței de sunet.,audio_volume_down,1
+200,200.0,Vreau să îmi eliminați programarea de la bibliotecă,calendar_remove,2
+201,201.0,Eliminați programarea de la sala de sport din calendar,calendar_remove,2
+202,202.0,Anulați excursia de vacanță din calendar.,calendar_remove,2
+203,203.0,Cum pot să șterg evenimentul de ieri din calendarul meu?,calendar_remove,2
+204,204.0,Eliminați evenimentul de duminică din agenda.,calendar_remove,2
+205,205.0,Îmi permiteți să șterg evenimentul de astăzi din calendar?,calendar_remove,2
+206,206.0,Nu mai vreau să apară evenimentul de alaltăieri în calendar.,calendar_remove,2
+207,207.0,Stergeți evenimentul de Crăciun din calendarul meu.,calendar_remove,2
+208,208.0,Eliminați toată agendă pentru următoarele două săptămâni.,calendar_remove,2
+209,209.0,Eliminați programarea de la cinematograf din calendar,calendar_remove,2
+210,210.0,Ștergeți evenimentul de mâine dimineață din agenda mea.,calendar_remove,2
+211,211.0,Stergeți toată ziua de joi din agenda mea,calendar_remove,2
+212,212.0,Vreau să îmi eliminați evenimentul de joi din calendar.,calendar_remove,2
+213,213.0,Stergeți evenimentul de azi din calendar!,calendar_remove,2
+214,214.0,Vrei să eliminați evenimentul de Crăciun din calendarul meu?,calendar_remove,2
+215,215.0,Înlăturați evenimentul de Halloween din lista mea de evenimente.,calendar_remove,2
+216,216.0,Eliminați programarea de azi din calendar,calendar_remove,2
+217,217.0,Eliberati-mi calendarul pentru următoarele trei zile.,calendar_remove,2
+218,218.0,Ștergeți evenimentul de la muzeu din calendarul meu,calendar_remove,2
+219,219.0,Anulați vizita la medic de mâine după-amiază,calendar_remove,2
+220,220.0,Vreau să îmi eliminați programarea de la birou,calendar_remove,2
+221,221.0,Stergeți evenimentul de azi din calendar.,calendar_remove,2
+222,222.0,Eliberați-mi calendarul pentru următoarele trei zile.,calendar_remove,2
+223,223.0,Ștergeți evenimentul de duminică din agenda mea.,calendar_remove,2
+224,224.0,Eliminați evenimentul religios din calendarul meu.,calendar_remove,2
+225,225.0,Înlăturați vizita la medic din calendarul meu.,calendar_remove,2
+226,226.0,Eliberați-mi timpul liber pentru următoarele două zile,calendar_remove,2
+227,227.0,Te rog să îmi elimini evenimentul de seara din calendar.,calendar_remove,2
+228,228.0,Stergeți evenimentul deosebit de acum o săptămână.,calendar_remove,2
+229,229.0,Golești calendarul meu pentru următoarele două zile.,calendar_remove,2
+230,230.0,Vreau să eliminați toate evenimentele din acest lună din calendar.,calendar_remove,2
+231,231.0,Stergeți evenimentul de Paști din calendarul meu personal.,calendar_remove,2
+232,232.0,Anulați excursia din calendarul meu.,calendar_remove,2
+233,233.0,"Te rog, eliminați evenimentul de luni.",calendar_remove,2
+234,234.0,Cum pot să elimin evenimentul de sfârșit de săptămână din calendar?,calendar_remove,2
+235,235.0,Golești calendarul meu până la sfârșitul lunii.,calendar_remove,2
+236,236.0,Stergeți tot ce este planificat pentru mâine.,calendar_remove,2
+237,237.0,"Te rog, ștergeți evenimentul de Crăciun din calendar",calendar_remove,2
+238,238.0,Evenimentul de azi-noapte poate fi eliminat din calendar.,calendar_remove,2
+239,239.0,Vrei să ștergi evenimentul de sărbători din calendarul meu?,calendar_remove,2
+240,240.0,Te rog să elimini evenimentul de marți din agenda mea.,calendar_remove,2
+241,241.0,Vreau să îmi eliminați evenimentul de ieri din calendar.,calendar_remove,2
+242,242.0,Cum pot să elimin evenimentul de sfârșit de lună din calendar?,calendar_remove,2
+243,243.0,Eliminați programarea la sală de sport din calendar.,calendar_remove,2
+244,244.0,Stergeți evenimentul de afaceri din agenda mea.,calendar_remove,2
+245,245.0,"Te rog, elimină evenimentul de la ora 10 din calendar.",calendar_remove,2
+246,246.0,Eliberați-mi calendarul pentru săptămâna aceasta.,calendar_remove,2
+247,247.0,Eliminați evenimentul de săptămâna trecută din agenda mea.,calendar_remove,2
+248,248.0,Te rog să ștergi evenimentul de joi din calendarul meu.,calendar_remove,2
+249,249.0,Ștergeți toate evenimentele din acest weekend.,calendar_remove,2
+250,250.0,Înlăturați evenimentul de la ora 10 din calendar,calendar_remove,2
+251,251.0,Anulați întâlnirea de mâine dimineață.,calendar_remove,2
+252,252.0,Vreau să îmi eliminați evenimentul de luni din calendar.,calendar_remove,2
+253,253.0,Te rog să îmi elimini evenimentul de seară din calendar.,calendar_remove,2
+254,254.0,Ștergeți evenimentul familial din calendarul meu.,calendar_remove,2
+255,255.0,Stergeți toate evenimentele sociale din calendar,calendar_remove,2
+256,256.0,Stergeți toate evenimentele din săptămâna aceasta,calendar_remove,2
+257,257.0,Golești calendarul meu pentru următoarele trei zile.,calendar_remove,2
+258,258.0,Ștergeți tot ce este planificat pentru astăzi,calendar_remove,2
+259,259.0,Stergeți toate evenimentele personale din calendar,calendar_remove,2
+260,260.0,Anulați rezervarea la restaurant din calendarul meu.,calendar_remove,2
+261,261.0,Stergeți evenimentul de Ziua Mamei din calendarul meu personal.,calendar_remove,2
+262,262.0,Ștergeți evenimentul deosebit din calendarul meu.,calendar_remove,2
+263,263.0,Ștergeți evenimentul de luni din calendarul meu,calendar_remove,2
+264,264.0,Nu mai aveți nevoie de evenimentul de anul trecut în calendar,calendar_remove,2
+265,265.0,Anulați programarea mea de azi după-amiaza.,calendar_remove,2
+266,266.0,Eliberați-mi calendarul pentru lunile iunie și iulie,calendar_remove,2
+267,267.0,"Acest eveniment nu mai e necesar, îl pot șterge.",calendar_remove,2
+268,268.0,Cum pot să elimin evenimentul de weekend din calendar?,calendar_remove,2
+269,269.0,Eliberați-mi calendarul pentru următoarele două zile.,calendar_remove,2
+270,270.0,Eliminați evenimentul de ziua mea de naștere din agenda.,calendar_remove,2
+271,271.0,Este posibil să eliminați evenimentul de astăzi din agenda mea?,calendar_remove,2
+272,272.0,Eliminați toate evenimentele repetitive din calendar,calendar_remove,2
+273,273.0,Eliberati-mi calendarul pentru ziua de mâine.,calendar_remove,2
+274,274.0,"Te rog, ștergeți evenimentul de Paști din calendar",calendar_remove,2
+275,275.0,Pot să șterg evenimentul de Paști din agenda mea?,calendar_remove,2
+276,276.0,"Nu mai este nevoie de evenimentul respectiv, îl puteți șterge.",calendar_remove,2
+277,277.0,Stergeți evenimentul repetitiv din calendar.,calendar_remove,2
+278,278.0,Nu mai vreau să apară evenimentul de astăzi în calendar.,calendar_remove,2
+279,279.0,Pot să șterg evenimentul de acum o oră din agenda mea?,calendar_remove,2
+280,280.0,Anulați excursia de week-end din calendar,calendar_remove,2
+281,281.0,Eliminați evenimentul personal din calendarul meu.,calendar_remove,2
+282,282.0,Poate fi eliminat evenimentul de ieri seara?,calendar_remove,2
+283,283.0,Vreau să eliminați evenimentul de luni din calendarul meu.,calendar_remove,2
+284,284.0,Înlăturați evenimentul de Crăciun din lista mea de evenimente.,calendar_remove,2
+285,285.0,Înlăturați evenimentul cultural din calendar.,calendar_remove,2
+286,286.0,Eliberați-mi timpul liber în calendar pentru astăzi.,calendar_remove,2
+287,287.0,Stergeți toate evenimentele din acest weekend din calendar.,calendar_remove,2
+288,288.0,Anulați întâlnirea cu prietenii din calendar.,calendar_remove,2
+289,289.0,Anulați excursia de week-end din calendar.,calendar_remove,2
+290,290.0,Înlăturați evenimentul de la orele 14 din calendar,calendar_remove,2
+291,291.0,Cum pot să șterg un eveniment din calendarul meu?,calendar_remove,2
+292,292.0,Îndepărtați evenimentul social din agenda mea.,calendar_remove,2
+293,293.0,"Te rog, ștergeți evenimentul de Halloween din calendar",calendar_remove,2
+294,294.0,Înlăturați evenimentul de Noël din lista mea de evenimente.,calendar_remove,2
+295,295.0,Anulați întâlnirea de mâine dimineață,calendar_remove,2
+296,296.0,Eliberați-mi calendarul pentru ziua de naștere.,calendar_remove,2
+297,297.0,"Te rog, eliminați evenimentul de la ora 5 seara.",calendar_remove,2
+298,298.0,Te rog să îmi elimini evenimentul de după-amiază din calendar.,calendar_remove,2
+299,299.0,Înlăturați evenimentul de la restaurant din calendar,calendar_remove,2
+300,300.0,Cum se pregătește salsa verde pentru tacos?,cooking_recipe,3
+301,301.0,Poți să-mi dai rețeta pentru salata de boeuf?,cooking_recipe,3
+302,302.0,Câte linguri de zahăr sunt necesare pentru a face înghețata de vanilie?,cooking_recipe,3
+303,303.0,Ce fel de mirodenii sunt necesare pentru supa cremă de broccoli?,cooking_recipe,3
+304,304.0,Cât timp durează să se gateasca puiul în cuptor?,cooking_recipe,3
+305,305.0,Ce este secretul pentru a face cele mai bune mamaliga?,cooking_recipe,3
+306,306.0,Care sunt pașii pentru a face sushi acasă?,cooking_recipe,3
+307,307.0,Îmi poți da sfaturi pentru a gati somon la gratar?,cooking_recipe,3
+308,308.0,Când și cum adaugăm condimentele într-un bol de supă cremă?,cooking_recipe,3
+309,309.0,Cum se face umplutura pentru plăcintea moldovenească?,cooking_recipe,3
+310,310.0,În cât timp se găteşte mămăligă pentru 5 persoane?,cooking_recipe,3
+311,311.0,Îmi poți explica cum se face piureul de cartofi?,cooking_recipe,3
+312,312.0,Ce este rețeta ideală pentru un desert de Crăciun?,cooking_recipe,3
+313,313.0,Ce ingrediente sunt necesare pentru a face înghețată de vanilie?,cooking_recipe,3
+314,314.0,Ce este cel mai bun mod de a găti somonul proaspăt?,cooking_recipe,3
+315,315.0,Cum se pregătește un suc de roșii proaspăt pentru pizza?,cooking_recipe,3
+316,316.0,La ce temperatură trebuie să gătesc puiul pentru grătar?,cooking_recipe,3
+317,317.0,Cum se pregătește un sos de mentă pentru cocktail-uri?,cooking_recipe,3
+318,318.0,Ce este secretul pentru a face cele mai bune gogoși rumene?,cooking_recipe,3
+319,319.0,Poți să-mi explici cum să faci pizza acasă?,cooking_recipe,3
+320,320.0,Cum se face dressing-ul pentru salata de crudités?,cooking_recipe,3
+321,321.0,Cum se pregateste sosul de tomate pentru paste?,cooking_recipe,3
+322,322.0,La ce ora trebuie să scoatem pita din cuptor?,cooking_recipe,3
+323,323.0,Cum se face siropul de ghimbir pentru răceli?,cooking_recipe,3
+324,324.0,Cum se face cel mai bun suc de roșii din lume?,cooking_recipe,3
+325,325.0,Câte ouă sunt necesare pentru a face o tortă de ciocolată?,cooking_recipe,3
+326,326.0,Cât timp durează să gătești orezul pentru a fi perfect?,cooking_recipe,3
+327,327.0,Ce fel de carne e cel mai bun pentru gatit în slow cooker?,cooking_recipe,3
+328,328.0,În cât timp se găteşte supa de leguminoase?,cooking_recipe,3
+329,329.0,Care este secretul pentru a face cele mai bune clătite?,cooking_recipe,3
+330,330.0,Câte ouă sunt necesare pentru o prăjitură clasică?,cooking_recipe,3
+331,331.0,Cum se pregătește smântână pentru mâncarea tradițională românească?,cooking_recipe,3
+332,332.0,Îmi poți explica cum se face un risotto cremos?,cooking_recipe,3
+333,333.0,Ce cantitate de apă este nevoie pentru a fierbe orezul?,cooking_recipe,3
+334,334.0,Poți să-mi dai rețeta pentru sufleu de brocoli?,cooking_recipe,3
+335,335.0,Îmi poți da sfaturi pentru a face cele mai bune chiftele românești?,cooking_recipe,3
+336,336.0,La ce temperatura trebuie să fierbem orezul pentru pilaf?,cooking_recipe,3
+337,337.0,Cum se pregătesc creveții pentru salată?,cooking_recipe,3
+338,338.0,Îmi poți da sfatul despre cum să fac un desert de fructe de sezon?,cooking_recipe,3
+339,339.0,Câte ouă sunt necesare pentru o tortă de ciocolată?,cooking_recipe,3
+340,340.0,Cum se face un sos de muștar pentru carne de porc?,cooking_recipe,3
+341,341.0,Cum se pregateste sosul de ciuperci pentru paste?,cooking_recipe,3
+342,342.0,Cum se face un sos de citrice pentru peşte?,cooking_recipe,3
+343,343.0,La ce temperatura trebuie să gătesc carnea de porc pentru șnițel?,cooking_recipe,3
+344,344.0,Câte ouă sunt necesare pentru o tartă de ciocolată?,cooking_recipe,3
+345,345.0,Îmi poți da sfatul despre cum să gătesc orezul perfect?,cooking_recipe,3
+346,346.0,Cum se pregătește dressing-ul pentru salata de fructe?,cooking_recipe,3
+347,347.0,Îmi poți da rețeta pentru supa de burtă?,cooking_recipe,3
+348,348.0,Cum se pregăteşte smântână pentru borș?,cooking_recipe,3
+349,349.0,Ce este cel mai bun mod de a conserva murăturile?,cooking_recipe,3
+350,350.0,Cum se pregătește crema de branza pentru tartine?,cooking_recipe,3
+351,351.0,Îmi poți da rețeta pentru a face un budincă de cartofi?,cooking_recipe,3
+352,352.0,La ce temperatură trebuie să coacem pita pentru a fi crustă și aurie?,cooking_recipe,3
+353,353.0,Câte linguri de ulei sunt necesare pentru sărmalele de post?,cooking_recipe,3
+354,354.0,Care este secretul pentru a face cele mai bune clătite din lume?,cooking_recipe,3
+355,355.0,Îmi poți da rețeta pentru a face clatite americane?,cooking_recipe,3
+356,356.0,Cum se face un sos de smântână pentru salata de boeuf?,cooking_recipe,3
+357,357.0,Poți să-mi dai rețeta pentru salată de boeuf?,cooking_recipe,3
+358,358.0,Cum se face untul de arahide pentru sandwich-uri?,cooking_recipe,3
+359,359.0,Cum se pregătește un amestec de mirodenii pentru carnea de miel?,cooking_recipe,3
+360,360.0,Îmi poți da sfaturile pentru a face cele mai bune mămăliguțe?,cooking_recipe,3
+361,361.0,Cum se pregateste sosul de smantana pentru mamaliga?,cooking_recipe,3
+362,362.0,Ce fel de condimente sunt necesare pentru a face un curry indian autentic?,cooking_recipe,3
+363,363.0,Ce este cel mai bun mod de a găti ciupercile pentru a fi moi?,cooking_recipe,3
+364,364.0,Cum se pregateste sosul de ciuperci pentru pui?,cooking_recipe,3
+365,365.0,Îmi poți explica cum să faci chifle pentru mic dejun?,cooking_recipe,3
+366,366.0,Care sunt pașii pentru a face un cake de ciocolată moelleux?,cooking_recipe,3
+367,367.0,Îmi poți da ideea pentru un desert rapid și delicios?,cooking_recipe,3
+368,368.0,Cum se pregăteşte sosul de usturoi pentru mâncarea chineză?,cooking_recipe,3
+369,369.0,Poți să-mi dai sfatul despre cum să gătesc somonul proaspăt?,cooking_recipe,3
+370,370.0,Ce fel de condimente sunt necesare pentru a face sarmale delicioase?,cooking_recipe,3
+371,371.0,Ce este cel mai bun mod de a găti broccoli-ul pentru a fi crud?,cooking_recipe,3
+372,372.0,Cum se pregătește smântână pentru borș?,cooking_recipe,3
+373,373.0,Îmi poți da rețeta pentru a face clătite americane?,cooking_recipe,3
+374,374.0,Cum se pregăteşte sosul de ciuperci pentru carne de porc?,cooking_recipe,3
+375,375.0,La ce temperatură trebuie să gătesc puiul pentru a fi suculent?,cooking_recipe,3
+376,376.0,Cum se pregătește crema de branza pentru paste?,cooking_recipe,3
+377,377.0,Ce este secretul pentru a face cele mai bune covrigi?,cooking_recipe,3
+378,378.0,Când și cât să adaugem sare într-un borș de peste?,cooking_recipe,3
+379,379.0,Ce este cel mai bun mod de a gati broccoli fără să-și piardă vitaminele?,cooking_recipe,3
+380,380.0,Ce ingrediente sunt necesare pentru a face un sos de hrean?,cooking_recipe,3
+381,381.0,Cum se face un sos de lapte pentru cina de Craciun?,cooking_recipe,3
+382,382.0,Care sunt ingredientele necesare pentru a face înghețata de vanilie?,cooking_recipe,3
+383,383.0,Cum se face piure-ul de cartofi pentru copii?,cooking_recipe,3
+384,384.0,Câte minute trebuie să gătesc oul pentru a fi fiert?,cooking_recipe,3
+385,385.0,La ce temperatura trebuie să gătesc carne de vită pentru steak?,cooking_recipe,3
+386,386.0,Ce fel de condimente sunt necesare pentru salata de boeuf?,cooking_recipe,3
+387,387.0,Îmi poți explica cum se face crema de brânză pentru ravioli?,cooking_recipe,3
+388,388.0,Cine poate să-mi spună cum se face un platou de branzeturi?,cooking_recipe,3
+389,389.0,Cine poate să-mi spună cum să facă înghețată de vanilie acasă?,cooking_recipe,3
+390,390.0,Ce cantitate de sare e nevoie pentru conservele de tomate?,cooking_recipe,3
+391,391.0,Îmi poți da rețeta pentru a face turtă dulce de nuci?,cooking_recipe,3
+392,392.0,Câți minute trebuie să fierbe orezul pentru pilaf?,cooking_recipe,3
+393,393.0,La ce temperatură trebuie să gătesc somonul pentru a fi rosu?,cooking_recipe,3
+394,394.0,Poți să-mi dai rețeta pentru budinca de ricotta?,cooking_recipe,3
+395,395.0,Îmi poți spune cum se pregătește un sos de usturoi pentru friptură?,cooking_recipe,3
+396,396.0,Cât timp durează să gătești fasolea pentru a fi moale și gustoasă?,cooking_recipe,3
+397,397.0,Care sunt ingredientele necesare pentru a face supă cremă de broccoli?,cooking_recipe,3
+398,398.0,Cum se face umplutura pentru gołąbki poloneze?,cooking_recipe,3
+399,399.0,Poți să-mi dai rețeta pentru papanași cu smântână și dulceață?,cooking_recipe,3
+400,400.0,"dacă este ora 10 dimineața în România, ce ora este în Japonia?",datetime_convert,4
+401,401.0,converteste ora 09:00 din zona de timp dubai în zona de timp kuwait,datetime_convert,4
+402,402.0,Setează fusul orar la ora standard americană,datetime_convert,4
+403,403.0,Convertește ora 22:00 din zona Hawaii-Aleutian în ora Pacific Standard Time.,datetime_convert,4
+404,404.0,Ora exactă în Cairo când sunt 12:00 în Alexandria,datetime_convert,4
+405,405.0,Diferența de timp între Amsterdam și Stockholm,datetime_convert,4
+406,406.0,setează fusul orar la ora standard africană,datetime_convert,4
+407,407.0,Setează ora sistemului la ora Europei Centrale,datetime_convert,4
+408,408.0,cum se traduce ora 14:30 din CST în IST,datetime_convert,4
+409,409.0,te rog să mi-i spună ora locală în Cairo,datetime_convert,4
+410,410.0,Ora 17:00 în zona Pacificului corespunde cu ce ora în zona Atlanticului?,datetime_convert,4
+411,411.0,Spune-mi ora actuală în Beijing când este 08:00 în Shanghai,datetime_convert,4
+412,412.0,cât este diferența de timp între Istanbul și Ankara,datetime_convert,4
+413,413.0,Ce ora este acum în Dubai dacă sunt 22:00 în Abu Dhabi?,datetime_convert,4
+414,414.0,Ce diferență de timp există între Los Angeles și Chicago?,datetime_convert,4
+415,415.0,cum se traduce ora 12:00 din JST în KST,datetime_convert,4
+416,416.0,Diferența de timp între Istanbul și Cairo este de cate minute?,datetime_convert,4
+417,417.0,Ce ora este în Beijing când este ora 19 în Berlin?,datetime_convert,4
+418,418.0,Ce ora este acum în Sydney când este ora 15:00 în Atena?,datetime_convert,4
+419,419.0,Spune-mi ora actuală în Moscova,datetime_convert,4
+420,420.0,Câte ore sunt între ora locală și ora de vară britanică?,datetime_convert,4
+421,421.0,Ora 23:59 în zona Eastern Time Zone corespunde cu ce ora în zona Central European Time?,datetime_convert,4
+422,422.0,Converteste ora 23:59 din PST în MST,datetime_convert,4
+423,423.0,Schimbă fusul orar în cel european central,datetime_convert,4
+424,424.0,Spune-mi ora exactă în Tokyo când este ora 12:00 în Paris.,datetime_convert,4
+425,425.0,Converteste ora 14:30 din EST în CST,datetime_convert,4
+426,426.0,Converteste ora 01:45 din AEST în AWST,datetime_convert,4
+427,427.0,Spune-mi ora actuală în Bangkok când este 06:00 în Chiang Mai,datetime_convert,4
+428,428.0,Câte minute sunt între ora României și ora Australiei?,datetime_convert,4
+429,429.0,"Dacă este ora 8 seara în New York, care este ora în Los Angeles?",datetime_convert,4
+430,430.0,"dacă este ora 07:00 în Germania, ce ora este în Franţa?",datetime_convert,4
+431,431.0,Care este ora în Londra dacă sunt ora 10 dimineața în București?,datetime_convert,4
+432,432.0,Convertește ora 13:15 din zona Africa de Sud în ora Europei Occidentale.,datetime_convert,4
+433,433.0,Transformă ora 11:15 AM din PST în GMT,datetime_convert,4
+434,434.0,Transformă ora 19:45 din zona Indianapolis în ora Chicago.,datetime_convert,4
+435,435.0,te rog să mi-i spună ora locală în Sydney,datetime_convert,4
+436,436.0,cât este diferența de timp între București și New York,datetime_convert,4
+437,437.0,Spune-mi ora actuală în Moscova când este ora 18:00 în Istanbul.,datetime_convert,4
+438,438.0,transformă ora actuală din EST în PST,datetime_convert,4
+439,439.0,"Dacă este ora 07:00 în Shanghai, care este ora în Singapore?",datetime_convert,4
+440,440.0,transformă ora actuală din zona de timp new york în zona de timp londra,datetime_convert,4
+441,441.0,Cât este diferența de timp între ora României și ora Indoneziei?,datetime_convert,4
+442,442.0,"Dacă este 12:00 în Berlin, ce ora este în Madrid?",datetime_convert,4
+443,443.0,Schimbă ora de iarna în ora de vară pentru ora 02:15,datetime_convert,4
+444,444.0,te rog să mi-i spui ora curentă în zona de timp singapore,datetime_convert,4
+445,445.0,Ce ora este în Tokyo când este ora 9 seara în Europa Centrală?,datetime_convert,4
+446,446.0,Care este ora în Dubai când este ora 14 în Roma?,datetime_convert,4
+447,447.0,Cum se converteşte ora 16:40 din CET în WET,datetime_convert,4
+448,448.0,te rog să mi-i spună ora locală în Beijing,datetime_convert,4
+449,449.0,"Dacă este ora 11 dimineața în Berlin, care este ora în Roma?",datetime_convert,4
+450,450.0,Cât este diferența de timp între Rio de Janeiro și Mexico City?,datetime_convert,4
+451,451.0,cât este diferența de timp între india și pakistan,datetime_convert,4
+452,452.0,Spune-mi ora exactă în Dubai când este ora 15:00 în Cairo.,datetime_convert,4
+453,453.0,Schimbă ora 17:45 din zona Mountain Time Zone în ora Eastern Standard Time.,datetime_convert,4
+454,454.0,care este diferența de fus orar între Londra și Paris,datetime_convert,4
+455,455.0,Care este ora în Buenos Aires când sunt 19:00 în Santiago,datetime_convert,4
+456,456.0,setează ora sistemului meu la zona de timp a Europei Centrale,datetime_convert,4
+457,457.0,care este diferența de fus orar între stockholm și oslo,datetime_convert,4
+458,458.0,cum se converteşte ora 09:15 din MST în PDT,datetime_convert,4
+459,459.0,convertiți ora 01:45 din CEST în BST,datetime_convert,4
+460,460.0,spune-mi ora exactă în zona de timp a Americilor,datetime_convert,4
+461,461.0,Ce ora este acum în Tokyo dacă sunt 15:00 în New York?,datetime_convert,4
+462,462.0,Schimbă ora în fusul orar al Europei Centrale,datetime_convert,4
+463,463.0,Transformă ora 20:00 din zona Central European Summer Time în ora Pacific Daylight Time.,datetime_convert,4
+464,464.0,transformă ora 20:45 din zona de timp pariz în zona de timp istanbul,datetime_convert,4
+465,465.0,care este ora curentă în zona de timp a Asiei de Est,datetime_convert,4
+466,466.0,care este ora locală în sydney când sunt orele 22 în melbourne,datetime_convert,4
+467,467.0,Care este ora în Londra când sunt 10 dimineața în București?,datetime_convert,4
+468,468.0,converteste ora 14:30 din zona de timp chicago în zona de timp los angeles,datetime_convert,4
+469,469.0,cât este diferența de timp între Moscova şi Sankt Petersburg,datetime_convert,4
+470,470.0,care este ora curentă în zona de timp a Australiei de Est,datetime_convert,4
+471,471.0,Spune-mi ora exactă în Paris când este 20:00 în Roma,datetime_convert,4
+472,472.0,Ce diferență de timp există între Mexic şi SUA?,datetime_convert,4
+473,473.0,care este diferența de fus orar între budapesta și viena,datetime_convert,4
+474,474.0,"setează fusul orar la CET pentru mine, vă rog",datetime_convert,4
+475,475.0,Schimbă ora de vara în ora de iarna pentru ora 21:30,datetime_convert,4
+476,476.0,transformă ora 01:15 din zona de timp frankfurt în zona de timp milano,datetime_convert,4
+477,477.0,"dacă este ora 12 în madrid, ce ora este în berlin",datetime_convert,4
+478,478.0,spune-mi ora exactă în GMT minus două ore,datetime_convert,4
+479,479.0,Setează fusul orar la ora standard canadiană,datetime_convert,4
+480,480.0,Transformă ora 07:45 din GMT în EET,datetime_convert,4
+481,481.0,Schimbă ora 21:30 din zona Alaska-Hawaii în ora Eastern Standard Time.,datetime_convert,4
+482,482.0,Spune-mi ora exactă în Paris când este ora 12 în România,datetime_convert,4
+483,483.0,Ce ora este acum în Rio de Janeiro dacă sunt 20:00 în São Paulo?,datetime_convert,4
+484,484.0,convertiți ora 20:45 din EET în UTC,datetime_convert,4
+485,485.0,"Dacă este ora 20 în New York, care este ora în Los Angeles?",datetime_convert,4
+486,486.0,Ce ora este în Santiago când este ora 11 în Lima?,datetime_convert,4
+487,487.0,"Dacă este ora 16:00 în Madrid, care este ora în Lisabona?",datetime_convert,4
+488,488.0,Converteste ora 14:30 din zona Pacificului în ora Europei Centrale.,datetime_convert,4
+489,489.0,spune-mi ora exactă în zona de timp cape town acum patru ore,datetime_convert,4
+490,490.0,care este ora acum în zona de timp a Pacificului?,datetime_convert,4
+491,491.0,"dacă este ora 18 în mexico city, ce ora este în lima",datetime_convert,4
+492,492.0,Cât este diferența de timp între Bangkok și Kuala Lumpur?,datetime_convert,4
+493,493.0,Setează ora sistemului la ora Pacificului,datetime_convert,4
+494,494.0,"dacă este ora 17:00 în Spania, ce ora este în Portugalia?",datetime_convert,4
+495,495.0,spune-mi ora exactă în zona de timp cairo acum trei ore,datetime_convert,4
+496,496.0,Care este ora în Sydney când este ora 18 în Atena?,datetime_convert,4
+497,497.0,care este ora în paris când sunt orele 10 seara în bucurești,datetime_convert,4
+498,498.0,care este ora locală în amsterdam când sunt orele 16 în roma,datetime_convert,4
+499,499.0,Ce ora este acum în Beijing când este ora 12:00 în Londra?,datetime_convert,4
+500,500.0,Trebuie să trimit un email lui Marius despre problema tehnică.,email_sendemail,5
+501,501.0,Trimite un email lui Andreea despre locurile disponibile la cursuri.,email_sendemail,5
+502,502.0,Scrie un mesaj electronic pentru mama ei.,email_sendemail,5
+503,503.0,Trimite un email lui Radu despre modificările aduse contractului.,email_sendemail,5
+504,504.0,Scrie un email pentru fratele meu despre excursia de week-end.,email_sendemail,5
+505,505.0,Am nevoie ca tu să scrii un email pentru firma de transport.,email_sendemail,5
+506,506.0,Trimite un mesaj electronic lui Ciprian despre excursia de week-end.,email_sendemail,5
+507,507.0,Trebuie să compunem un email oficial pentru ministerul educației.,email_sendemail,5
+508,508.0,Trimite un email lui Ioana despre orele de lucru ale magazinului.,email_sendemail,5
+509,509.0,Scrie un email pentru sora mea despre vacanța ei.,email_sendemail,5
+510,510.0,Trimite un email lui Bogdan despre întrunirea de luni.,email_sendemail,5
+511,511.0,Trebuie să compunem un email oficial pentru primarul orașului.,email_sendemail,5
+512,512.0,Poți să compui un email pentru biroul nostru regional?,email_sendemail,5
+513,513.0,Scrie un mesaj electronic pentru mama și tatăl meu.,email_sendemail,5
+514,514.0,Ar fi bine să trimitem un email lui Elena despre evenimentul caritabil.,email_sendemail,5
+515,515.0,Compune un email pentru departamentul de resurse umane.,email_sendemail,5
+516,516.0,Compune un email pentru directorul companiei noastre.,email_sendemail,5
+517,517.0,Trimite un email lui Florin despre rezultatele examenelor.,email_sendemail,5
+518,518.0,Trimite-i un email lui Mihai despre întrunirea de luni.,email_sendemail,5
+519,519.0,Am nevoie să trimitem un email către serviciul de relații clienți.,email_sendemail,5
+520,520.0,Vrei să trimiți un email lui Adrian despre oferta specială?,email_sendemail,5
+521,521.0,Compune un email pentru serviciul clienți al companiei X.,email_sendemail,5
+522,522.0,Trimite un email lui Laura despre cursul online gratuit.,email_sendemail,5
+523,523.0,Compune un email pentru directorul general al companiei.,email_sendemail,5
+524,524.0,Te rog să trimiti o scrisoare electronică lui Ionel.,email_sendemail,5
+525,525.0,Trimiteti un email lui Mihai despre schimbarea programului.,email_sendemail,5
+526,526.0,Te rog să scrii un email lui George despre problema tehnică.,email_sendemail,5
+527,527.0,Scrie un email pentru biroul de presă despre conferința de presă.,email_sendemail,5
+528,528.0,Te rog să scrii un email lui Ana despre proiectul nostru.,email_sendemail,5
+529,529.0,Trimite un email lui Ana despre locurile disponibile.,email_sendemail,5
+530,530.0,Trimite un mesaj electronic lui Adrian despre stadiul lucrărilor.,email_sendemail,5
+531,531.0,Trebuie să trimit un email lui George despre modificările din contract.,email_sendemail,5
+532,532.0,Te rog să mi-l trimiți un email lui Ciprian despre schimbarea adresei.,email_sendemail,5
+533,533.0,Trimite un email lui Lucian despre oferta specială de Black Friday.,email_sendemail,5
+534,534.0,Trebuie să răspundem la email-ul primit de la departamentul de marketing.,email_sendemail,5
+535,535.0,Compune un email pentru colegii din departament.,email_sendemail,5
+536,536.0,Te rog să mi-l trimiți un email lui Dan despre orașele vizitate.,email_sendemail,5
+537,537.0,Trimite un email lui Bogdan despre modificările aduse contractului.,email_sendemail,5
+538,538.0,Vrei să trimiți un email lui Oana despre oportunitatea de afaceri?,email_sendemail,5
+539,539.0,Răspunde la email-ul primit de la banca în ultimele 48 de ore.,email_sendemail,5
+540,540.0,Trebuie să compunem un email oficial pentru minister.,email_sendemail,5
+541,541.0,Trimite un email lui Cristina despre cursurile online.,email_sendemail,5
+542,542.0,Poate să-mi scrii un email lui Gabriel despre locul de munca liber.,email_sendemail,5
+543,543.0,Te rog să mi-l trimiți un email lui Radu despre evenimentul din weekend.,email_sendemail,5
+544,544.0,Îmi poți trimite un email lui Ana despre locurile disponibile?,email_sendemail,5
+545,545.0,Compune un email pentru profesorul meu preferat.,email_sendemail,5
+546,546.0,Trimite un email lui Radu despre modificările în programarea zborurilor.,email_sendemail,5
+547,547.0,Răspunde la email-ul primit de la birou în următoarele 24 de ore.,email_sendemail,5
+548,548.0,Trebuie să trimitem un email către furnizorii noștri.,email_sendemail,5
+549,549.0,Trimite un email lui Vlad despre întâlnirea de business.,email_sendemail,5
+550,550.0,Vreau să trimit un email lui Elena despre cursul de limba engleză.,email_sendemail,5
+551,551.0,Poți să compui un email pentru departamentul de marketing?,email_sendemail,5
+552,552.0,"Am un email important pentru tatăl meu, pot să-l trimitem?",email_sendemail,5
+553,553.0,Trimite un mesaj electronic lui Bogdan despre proiectul nou.,email_sendemail,5
+554,554.0,Scrie un email pentru prietenii mei despre petrecerea de Crăciun.,email_sendemail,5
+555,555.0,Trimite-i un email lui Laura despre întâlnirea de afaceri.,email_sendemail,5
+556,556.0,Trimite un email lui Florin despre prezentarea produselor noi.,email_sendemail,5
+557,557.0,Te rog să mi-l trimiți un email lui Raluca despre evenimentul caritabil.,email_sendemail,5
+558,558.0,Am nevoie ca tu să mi-l trimiți un email lui Cristina despre evenimentul caritabil.,email_sendemail,5
+559,559.0,Pot să trimit un email lui domnul Popescu despre cererea mea de ajutor.,email_sendemail,5
+560,560.0,Vrei să trimiți un email lui mama despre vacanță?,email_sendemail,5
+561,561.0,Poți să compui un email pentru centrul comercial local?,email_sendemail,5
+562,562.0,Am nevoie ca tu să scrii un email pentru profesorul meu.,email_sendemail,5
+563,563.0,Compune un email pentru profesorul meu despre tema proiectului.,email_sendemail,5
+564,564.0,Scrie un email pentru sora mea despre ziua ei de naștere.,email_sendemail,5
+565,565.0,Vrei să trimiți un email lui Radu despre proiect?,email_sendemail,5
+566,566.0,Trimite un mesaj electronic lui Cătălin despre întâlnirea de luni.,email_sendemail,5
+567,567.0,Am nevoie ca tu să scrii un email pentru biroul nostru central.,email_sendemail,5
+568,568.0,Am nevoie să trimit un email lui Laura despre rezervarea hotelului.,email_sendemail,5
+569,569.0,Trimite un email lui Vlad despre rezultatele examenului.,email_sendemail,5
+570,570.0,Trimite un email lui Ion despre întâlnirea de azi.,email_sendemail,5
+571,571.0,Scrie un email pentru prietena mea despre petrecerea de Crăciun.,email_sendemail,5
+572,572.0,Compune un email pentru ministru despre propunerile legislative.,email_sendemail,5
+573,573.0,Te rog să scrii un email lui Daniel despre schimbarea planificată.,email_sendemail,5
+574,574.0,Trimiteti un email lui Mihai despre evenimentul din weekend.,email_sendemail,5
+575,575.0,Te rog să mi-l trimiți un email lui Mihai despre eveniment.,email_sendemail,5
+576,576.0,Trebuie să trimit un email către serviciul clienți.,email_sendemail,5
+577,577.0,Am nevoie să trimit un email lui tatăl meu despre sărbătoarea Paștelui.,email_sendemail,5
+578,578.0,Trimiteti un email lui Ana despre evenimentul de weekend.,email_sendemail,5
+579,579.0,Ai putea să-mi scrii un email lui Marcel despre întâlnirea de luni?,email_sendemail,5
+580,580.0,Am nevoie ca tu să mi-l trimiți un email lui George despre factură.,email_sendemail,5
+581,581.0,Răspunde la email-ul primit de la biroul de resurse umane.,email_sendemail,5
+582,582.0,Poate să-mi trimiți un email lui sora mea despre vacanța noastră?,email_sendemail,5
+583,583.0,Un prieten mi-a spus să-i trimit un email lui Cătălin despre petrecerea de Crăciun.,email_sendemail,5
+584,584.0,Scrie un mesaj electronic pentru directorul nostru.,email_sendemail,5
+585,585.0,Scrie un email lui Cristina despre schimbarea adresei sale.,email_sendemail,5
+586,586.0,Trimite un email lui Bogdan despre noua oportunitate de afaceri.,email_sendemail,5
+587,587.0,Vreau să trimit un email lui Alex despre problema tehnică.,email_sendemail,5
+588,588.0,Trimite un email lui Maria despre întâlnirea de azi.,email_sendemail,5
+589,589.0,Trimite un email lui Andreea despre programarea consultației.,email_sendemail,5
+590,590.0,Trebuie să trimit un email către departamentul de resurse umane.,email_sendemail,5
+591,591.0,Trebuie să trimit un email lui Corina despre plata facturilor.,email_sendemail,5
+592,592.0,Compune un email pentru colegii mei de clasă.,email_sendemail,5
+593,593.0,Trebuie să trimitem un email către partenerii noștri strategici.,email_sendemail,5
+594,594.0,Vrei să trimitem un email lui George despre problema tehnică?,email_sendemail,5
+595,595.0,Compune un email pentru directorul firmei.,email_sendemail,5
+596,596.0,Treceți la capitolele bonus ale cărții audio,play_audiobook,6
+597,597.0,Redeschideți fila cu povestirea lui Jules Verne.,play_audiobook,6
+598,598.0,Puteți să redeschideți capitolul anterior?,play_audiobook,6
+599,599.0,Mergem la pagina 50 în cartea audio,play_audiobook,6
+600,600.0,Puneți cartea audio cu Harry Potter,play_audiobook,6
+601,601.0,redeschideți secțiunea de ficțiune,play_audiobook,6
+602,602.0,Aş vrea să ascultăm o poveste.,play_audiobook,6
+603,603.0,Mi-e dor de o carte audio clasică.,play_audiobook,6
+604,604.0,Vreau să ascultăm o carte audio de aventură,play_audiobook,6
+605,605.0,Redă-mi capitolele favorite ale meu,play_audiobook,6
+606,606.0,redeschideți ultima parte citită,play_audiobook,6
+607,607.0,Porniți cartea audio și lăsați-mă să mă relaxez,play_audiobook,6
+608,608.0,activează funcția de lectură lentă,play_audiobook,6
+609,609.0,Puteți să mi-o redeschideți pe cea mai bună carte audio?,play_audiobook,6
+610,610.0,Începeți să citiți cartea audio de Crăciun,play_audiobook,6
+611,611.0,Vreau să aud cartea lui Agatha Christie.,play_audiobook,6
+612,612.0,puneți cartea audio pe repeat,play_audiobook,6
+613,613.0,Vreau să ascultăm o poveste nouă,play_audiobook,6
+614,614.0,puneți muzica în pauză și activați cartea audio,play_audiobook,6
+615,615.0,Începeți să citiți cartea audio de la mijloc,play_audiobook,6
+616,616.0,Aş dori să ascultăm o carte de Crăciun.,play_audiobook,6
+617,617.0,Vrei să ascultăm o carte audio de aventuri?,play_audiobook,6
+618,618.0,Reiați lectura de la capitolul 5.,play_audiobook,6
+619,619.0,vreau să aud o poveste de dragoste,play_audiobook,6
+620,620.0,Redă-mi ultimul capitol al cărții audio,play_audiobook,6
+621,621.0,Puneți pe lista de lectură cartea lui Tolkien.,play_audiobook,6
+622,622.0,"Am uitat numele personajelor, reiați lectura",play_audiobook,6
+623,623.0,dați drumul la audiobook-ul meu preferat,play_audiobook,6
+624,624.0,Continuați să citiți după pauză.,play_audiobook,6
+625,625.0,Porneşte cartea audio!,play_audiobook,6
+626,626.0,Vreau să aud cartea lui Jane Austen.,play_audiobook,6
+627,627.0,Puneți cartea audio cu Sherlock Holmes,play_audiobook,6
+628,628.0,"Reporniți cartea audio, vă rog.",play_audiobook,6
+629,629.0,"Reporniți cartea audio, vreau să aud mai mult",play_audiobook,6
+630,630.0,"Reporniţi cartea audio, vă rog.",play_audiobook,6
+631,631.0,Trebuie să ascultăm cartea audio despre istorie,play_audiobook,6
+632,632.0,Continuă să citescă de unde am rămas.,play_audiobook,6
+633,633.0,Redă-i ultimul episod al serialului audio,play_audiobook,6
+634,634.0,Vreau să ascultăm o carte audio de ficțiune,play_audiobook,6
+635,635.0,Puteți să mi-o redea pe cea mai bună carte audio?,play_audiobook,6
+636,636.0,Oferiți-mi o recomandare de carte audio,play_audiobook,6
+637,637.0,Ascultați-mă pe autorul meu preferat.,play_audiobook,6
+638,638.0,vreau să aud o carte de istorie,play_audiobook,6
+639,639.0,Ascultați prima parte a romanului,play_audiobook,6
+640,640.0,Începeți lectura cărții noi.,play_audiobook,6
+641,641.0,Găseşte-mi o carte audio în limba engleză.,play_audiobook,6
+642,642.0,puneți cartea audio pe pause,play_audiobook,6
+643,643.0,Începe să citească din nou.,play_audiobook,6
+644,644.0,reluați de unde am lăsat,play_audiobook,6
+645,645.0,Redă-mi ultimul capitol.,play_audiobook,6
+646,646.0,Redă partea a doua a romanului.,play_audiobook,6
+647,647.0,Redă primul capitol al cărţii.,play_audiobook,6
+648,648.0,Porniți cartea audio și continuați să citiți.,play_audiobook,6
+649,649.0,Trebuie să reluăm de unde am rămas.,play_audiobook,6
+650,650.0,Oferiți-mi o selecție de povești audio noi,play_audiobook,6
+651,651.0,Puneți cartea audio cu Alice în Țara Minunilor,play_audiobook,6
+652,652.0,Oferiți-mi o recomandare de carte audio bună.,play_audiobook,6
+653,653.0,Aduceți-mi cartea audio despre dragoni,play_audiobook,6
+654,654.0,Reporniți cartea audio de la început,play_audiobook,6
+655,655.0,reluați lectura de la mijloc,play_audiobook,6
+656,656.0,Citiți-mi primul capitol al cărții audio,play_audiobook,6
+657,657.0,Reîncepeți cartea audio de la pagina 20,play_audiobook,6
+658,658.0,Vreau să ascultăm o carte audio de dragoste,play_audiobook,6
+659,659.0,redeschideți capitolul doi,play_audiobook,6
+660,660.0,Începeți să citiți cartea audio de la început.,play_audiobook,6
+661,661.0,Continuați să citească de unde am rămas,play_audiobook,6
+662,662.0,"Reporniți cartea audio, am ratat un pasaj",play_audiobook,6
+663,663.0,"Nu m-am putut concentra, reîncepem.",play_audiobook,6
+664,664.0,Vreau să aud cartea lui J.K. Rowling.,play_audiobook,6
+665,665.0,Redă-mi partea mea favorită din carte.,play_audiobook,6
+666,666.0,Redă-mi partea favorită a romanului,play_audiobook,6
+667,667.0,Aduceți-mi cartea audio despre vrăjitori,play_audiobook,6
+668,668.0,Aş vrea să ascultăm o carte de ficțiune.,play_audiobook,6
+669,669.0,Puneți cartea audio în limba engleză,play_audiobook,6
+670,670.0,porniți cartea audio de la capăt,play_audiobook,6
+671,671.0,Mergeți la capitolul următor,play_audiobook,6
+672,672.0,Redeschideți fișierul și începeți din nou.,play_audiobook,6
+673,673.0,Citiți pentru mine ultimul capitol al romanului,play_audiobook,6
+674,674.0,Puneți pe lista de lectură următoarea carte.,play_audiobook,6
+675,675.0,Citește-mi despre aventurile lui Harry Potter.,play_audiobook,6
+676,676.0,redeschideți capitolul trei,play_audiobook,6
+677,677.0,Opreșteți muzica și porniți cartea audio,play_audiobook,6
+678,678.0,reluăm lectura cărții audio,play_audiobook,6
+679,679.0,Începeți să citiți cartea audio acum.,play_audiobook,6
+680,680.0,Citiți pentru mine prima parte a romanului,play_audiobook,6
+681,681.0,Continuați să citiți de unde am rămas.,play_audiobook,6
+682,682.0,citește-mi despre dragoni,play_audiobook,6
+683,683.0,Redă-mi cartea audio favorită!,play_audiobook,6
+684,684.0,Redă ultimul capitol al cărţii.,play_audiobook,6
+685,685.0,Începeți să citiți cartea audio de la început,play_audiobook,6
+686,686.0,vreau să ascultăm o poveste,play_audiobook,6
+687,687.0,Redă ultimul episod al seriei.,play_audiobook,6
+688,688.0,Redă prima parte a romanului.,play_audiobook,6
+689,689.0,Ascultați această carte audio interesantă.,play_audiobook,6
+690,690.0,Reiați lectura de la pagina 20.,play_audiobook,6
+691,691.0,Ascultați-mă o poveste de Crăciun,play_audiobook,6
+692,692.0,Îmi place să ascult cărți audio.,play_audiobook,6
+693,693.0,Aduceți-mi volumul doi al seriei favorite.,play_audiobook,6
+694,694.0,Redeschideți cartea audio pe care am uitat-o,play_audiobook,6
+695,695.0,Vreau să ascultăm o poveste nouă azi,play_audiobook,6
+696,696.0,Sfaturi pentru un film de dragoste?,recommendation_movies,7
+697,697.0,Ce filme de animație sunt valoroase de văzut?,recommendation_movies,7
+698,698.0,Poți să îmi spui despre un film care valorează să fie văzut?,recommendation_movies,7
+699,699.0,Ce este cel mai bun film SF din ultimii ani?,recommendation_movies,7
+700,700.0,Mă întrebam dacă poți să îmi recomanzi un film western.,recommendation_movies,7
+701,701.0,Cine crezi că e cel mai bun film al anului?,recommendation_movies,7
+702,702.0,Poți să îmi spună despre un film thriller care m-aș uita?,recommendation_movies,7
+703,703.0,Ai vreo recomandare pentru un film de arte marțiale?,recommendation_movies,7
+704,704.0,Un film care merită să fie vazut de către oricine?,recommendation_movies,7
+705,705.0,Cine este cel mai bun film din ultimul timp?,recommendation_movies,7
+706,706.0,"Sunt interesat de un film istoric, pot să îmi recomanzi unul?",recommendation_movies,7
+707,707.0,Am nevoie de o recomandare de film pentru familia mea,recommendation_movies,7
+708,708.0,Poți să îmi recomanzi un film romantic pentru weekend?,recommendation_movies,7
+709,709.0,"Acest sezon, ce filme sunt obligatorii de vazut?",recommendation_movies,7
+710,710.0,Vrei să mă sfătuiți să vizionez filmul W în cinematograf?,recommendation_movies,7
+711,711.0,Care este cel mai bun film al anului trecut?,recommendation_movies,7
+712,712.0,Ce filme clasice sunt obligatoriu de văzut?,recommendation_movies,7
+713,713.0,Ce este cel mai bun film de Crăciun pentru copii?,recommendation_movies,7
+714,714.0,Recomandi niște filme care au primit premii Oscar.,recommendation_movies,7
+715,715.0,"Un prieten mi-a spus despre un film fantastic, poți să îmi spui despre el?",recommendation_movies,7
+716,716.0,Există vreun film bun care merită să fie văzut?,recommendation_movies,7
+717,717.0,Mă sfătuieșteți să vizionez sau nu filmul X?,recommendation_movies,7
+718,718.0,Unde pot găsi lista filmelor noi apărute?,recommendation_movies,7
+719,719.0,Recomandati-mi un film pentru seara asta!,recommendation_movies,7
+720,720.0,"Acest film e value of watching, crezi?",recommendation_movies,7
+721,721.0,Ce filme sunt în cinema în momentul actual?,recommendation_movies,7
+722,722.0,Mă ajutați să alegem un film pentru seara aceasta?,recommendation_movies,7
+723,723.0,"Am auzit că filmul Y este foarte bun, dar nu știu unde să-l caut...",recommendation_movies,7
+724,724.0,"Am auzit că există un film de muzical foarte bun, e adevărat?",recommendation_movies,7
+725,725.0,Ce filme clasice trebuie neapărat să le vizionez?,recommendation_movies,7
+726,726.0,Ce filme sunt în cinematografele din oraș?,recommendation_movies,7
+727,727.0,Ce filme noi sunt disponibile online?,recommendation_movies,7
+728,728.0,Ce filme sunt în topurile actuale?,recommendation_movies,7
+729,729.0,Arată-mi cele mai bune filme care rulează în prezent!,recommendation_movies,7
+730,730.0,Arată-mi cele mai apreciate filme ale anului trecut.,recommendation_movies,7
+731,731.0,Recomandă-mi un film bun pentru seara asta!,recommendation_movies,7
+732,732.0,Care este cel mai bun film SF din ultimii ani?,recommendation_movies,7
+733,733.0,O listă de filme excelente pentru o seară liberă?,recommendation_movies,7
+734,734.0,Cine mi-ar fi recomandați să vizionez azi?,recommendation_movies,7
+735,735.0,La ce film trebuie să mă uit în weekend?,recommendation_movies,7
+736,736.0,Poți să îmi dai o listă cu cele mai bune filme ale lui [actor/regizor]?,recommendation_movies,7
+737,737.0,Oricine poate să îmi recomande un film de comedie?,recommendation_movies,7
+738,738.0,Vrei să îmi spui despre un film de aventură care mi-ar plăcea?,recommendation_movies,7
+739,739.0,Ce filme sunt valabile de vizionat în prezent?,recommendation_movies,7
+740,740.0,Mi-ar plăcea să primesc o recomandare de film SF,recommendation_movies,7
+741,741.0,Ce filme noi rulează la cinema în această săptămână?,recommendation_movies,7
+742,742.0,Un film pe care nu-l ratez sub nicio formă?,recommendation_movies,7
+743,743.0,Ce filme de documentar sunt valoroase de văzut?,recommendation_movies,7
+744,744.0,"Oricât de ocupat aș fi, trebuie să vizionez filmul X?",recommendation_movies,7
+745,745.0,În ce film ar trebui să investesc timpul meu liber?,recommendation_movies,7
+746,746.0,Poți să îmi dai o listă de filme noi și interesante?,recommendation_movies,7
+747,747.0,Pot să îmi recomanzi un film horror bun?,recommendation_movies,7
+748,748.0,Spune-mi despre un film nou și interesant,recommendation_movies,7
+749,749.0,Vrei să mă recomandeze un film de comedie?,recommendation_movies,7
+750,750.0,Spune-mi despre un film romantic care merită văzut.,recommendation_movies,7
+751,751.0,Un film pe care trebuie să-l vizionez înainte de a muri?,recommendation_movies,7
+752,752.0,Cine mi-a recomanda un film de acțiune?,recommendation_movies,7
+753,753.0,Cum alegeți un film bun de vizionat?,recommendation_movies,7
+754,754.0,Recomandă-mi un film pentru seara asta!,recommendation_movies,7
+755,755.0,Ai vreo sugestie de film pentru o seară relaxantă?,recommendation_movies,7
+756,756.0,Arată-mi cele mai bune filme de comedie din ultima lună.,recommendation_movies,7
+757,757.0,La ce film trebuie să mă uit în weekend-ul acesta?,recommendation_movies,7
+758,758.0,Mi-ar placea să vizionez un film cu...,recommendation_movies,7
+759,759.0,Ce filme sunt recomandate pentru copii?,recommendation_movies,7
+760,760.0,Care este cel mai bun film din ultima vreme?,recommendation_movies,7
+761,761.0,Arată-mi cele mai bune filme din cinematografele din apropiere,recommendation_movies,7
+762,762.0,Spune-mi despre un film nou și interesant!,recommendation_movies,7
+763,763.0,Ce e cel mai bun film pe care l-am ratat recent?,recommendation_movies,7
+764,764.0,Ce filme horror sunt valoroase de vizionat înainte să adoarm?,recommendation_movies,7
+765,765.0,Mă ajutați să găsesc un film bun pentru familia mea?,recommendation_movies,7
+766,766.0,"Mă interesează un film de dragoste, ai vreo sugestie?",recommendation_movies,7
+767,767.0,Îmi poți da o listă cu cele mai bune filme ale anului trecut?,recommendation_movies,7
+768,768.0,Filme noi și interesante de vizionat?,recommendation_movies,7
+769,769.0,Sfaturi pentru un film deosebit de bun?,recommendation_movies,7
+770,770.0,Care e cel mai bun film de acțiune pe care l-am putea vedea?,recommendation_movies,7
+771,771.0,"Acest film este atât de popular, dar merită să-l vizionez?",recommendation_movies,7
+772,772.0,Vrei să îmi recomanzi un film romantic?,recommendation_movies,7
+773,773.0,Ce filme rulează în cinematografele din orașul meu?,recommendation_movies,7
+774,774.0,Pot să primesc o recomandare de film pentru copii?,recommendation_movies,7
+775,775.0,Mă sfătuiești să vizionez acel film?,recommendation_movies,7
+776,776.0,Ce este cel mai bun film de război din ultimii ani?,recommendation_movies,7
+777,777.0,Ce filme sunt în trend în momentul actual?,recommendation_movies,7
+778,778.0,Ce filme noi sunt valoroase de vizionat?,recommendation_movies,7
+779,779.0,Ce este cel mai bun film de comedie pe care l-am putut rata?,recommendation_movies,7
+780,780.0,Recomandă-mi un film de acțiune nou-nouț.,recommendation_movies,7
+781,781.0,Îmi poți recomanda un film romantic pentru seara aceasta?,recommendation_movies,7
+782,782.0,Ce este cel mai bun film pe care l-am ratat recent?,recommendation_movies,7
+783,783.0,Arată-mi cele mai populare filme ale momentului.,recommendation_movies,7
+784,784.0,Ce este cel mai bun film al anului trecut?,recommendation_movies,7
+785,785.0,Sunt curios să știu ce filme noi și interesante au fost lansate recent!,recommendation_movies,7
+786,786.0,"Trebuie să vizionez un film clasic, care este recomandarea dvs.?",recommendation_movies,7
+787,787.0,Poți să îmi spună despre un film care m-a impresiona?,recommendation_movies,7
+788,788.0,Mă ajutați să găsesc un film bun pentru copii?,recommendation_movies,7
+789,789.0,Poți să îmi recomandeze un film thriller?,recommendation_movies,7
+790,790.0,Ce este cel mai bun film de animație din ultimii ani?,recommendation_movies,7
+791,791.0,"Un prieten mi-a recomandat un film, dar am uitat titlul...",recommendation_movies,7
+792,792.0,Ce filme noi ruleaza la cinema?,recommendation_movies,7
+793,793.0,"Un prieten mi-a spus despre filmul Z, dar nu știu dacă merită să-l vizionez...",recommendation_movies,7
+794,794.0,Care este cel mai bun film de familie pentru o seară relaxantă?,recommendation_movies,7
+795,795.0,Ce filme noi și interesante rulează în cinematografele din oraș?,recommendation_movies,7
+796,796.0,Vreau să rezerve un bilet de autocar pentru excursia la Sinaia.,transport_ticket,8
+797,797.0,Găsiți biletele de autobuz spre Constanța pentru weekend.,transport_ticket,8
+798,798.0,Am nevoie de două bilete de metrou pentru linia M2.,transport_ticket,8
+799,799.0,Înregistrată-mi un bilet de tren spre Arad pentru marți.,transport_ticket,8
+800,800.0,Caută biletele de autobuz spre București pentru sâmbătă.,transport_ticket,8
+801,801.0,Trebuie să îmi luați un bilet de tren spre Iași pentru joi.,transport_ticket,8
+802,802.0,Trebuie să îmi rezerv un bilet de troleibuz pentru linia 73.,transport_ticket,8
+803,803.0,Cumpărați un pachet de bilete de tramvai pentru familia mea.,transport_ticket,8
+804,804.0,Vreau să împachetez un abonament lunar pentru tramvai.,transport_ticket,8
+805,805.0,Găsește cele mai ieftine bilete de autobuz pentru ruta Iași - Bacău.,transport_ticket,8
+806,806.0,Am nevoie de un bilet de vapor pentru excursia pe Dunăre.,transport_ticket,8
+807,807.0,Poți să îmi explici cum funcționează abonamentele lunare pentru transport public?,transport_ticket,8
+808,808.0,Vreau să achiziționez un bilet de vapor spre Istanbul.,transport_ticket,8
+809,809.0,Am nevoie de un bilet de autobuz pentru ruta spre Târgu Mureș.,transport_ticket,8
+810,810.0,Cât costă un bilet de metrou pentru o călătorie simplă?,transport_ticket,8
+811,811.0,Cumperi un abonament sezonier pentru transportul feroviar.,transport_ticket,8
+812,812.0,Găsiți biletele de avion ieftine spre Paris.,transport_ticket,8
+813,813.0,Creați un cont pentru a beneficia de reduceri la bilete de tren.,transport_ticket,8
+814,814.0,Rezervă trei locuri în trenul spre Suceava pentru duminică.,transport_ticket,8
+815,815.0,Deschideți aplicația de bilete de tren și cumpărați unul pentru mine.,transport_ticket,8
+816,816.0,Cum pot rezerva un bilet de avion spre Paris?,transport_ticket,8
+817,817.0,Trebuie să îmi returnez biletul de autobuz și să primesc rambursarea.,transport_ticket,8
+818,818.0,Achiziționați un abonament lunar pentru tramvaiul nr. 41.,transport_ticket,8
+819,819.0,Poți să îmi dai detalii despre abonamentele lunare pentru tramvai?,transport_ticket,8
+820,820.0,Verifică disponibilitatea biletelor de avion spre Barcelona.,transport_ticket,8
+821,821.0,Rezervă un bilet de avion spre Barcelona pentru vara asta.,transport_ticket,8
+822,822.0,Caută oferte speciale pentru biletele de tren spre Suceava.,transport_ticket,8
+823,823.0,Vreau să îmi rezerveți un bilet de autocar spre Timișoara.,transport_ticket,8
+824,824.0,Am nevoie de un abonament lunar pentru metroul din București.,transport_ticket,8
+825,825.0,Cine poate să îmi ajute să rezerv un bilet de avion?,transport_ticket,8
+826,826.0,Aveți nevoie de ajutor pentru a cumpăra un bilet de metrou?,transport_ticket,8
+827,827.0,Unde pot cumpăra un bilet de metrou în oraș?,transport_ticket,8
+828,828.0,Pot să plătesc cu cardul meu de credit un bilet de metrou?,transport_ticket,8
+829,829.0,Cum funcționează sistemul de rezervare online pentru bilete de tren?,transport_ticket,8
+830,830.0,Am nevoie de un bilet de tren spre Iași pentru săptămâna viitoare.,transport_ticket,8
+831,831.0,Caută biletele de metrou pentru zona centrală a orașului.,transport_ticket,8
+832,832.0,Trebuie să îmi rezerv un bilet de vaportowards Constanta.,transport_ticket,8
+833,833.0,Cumperi un pachet de zece bilete de metrou pentru uz frecvent.,transport_ticket,8
+834,834.0,Aflați mai mult despre reducerile pentru studenți la bilete de tren.,transport_ticket,8
+835,835.0,Rezervați un loc în trenul rapid spre Cluj-Napoca.,transport_ticket,8
+836,836.0,Încarcă biletul meu de tren electronic.,transport_ticket,8
+837,837.0,Rezervați un loc în autocarul spre Viena.,transport_ticket,8
+838,838.0,Cum pot rezerva un bilet de metrou pentru linia 3?,transport_ticket,8
+839,839.0,Am nevoie de un bilet de tren pentru ruta București - Craiova.,transport_ticket,8
+840,840.0,Cumperă un pachet de zece călătorii cu autobuzul spre Craiova.,transport_ticket,8
+841,841.0,Cât costă un bilet de autobuz pentru o călătorie dus-întors?,transport_ticket,8
+842,842.0,Trebuie să văd programul de sosire al trenului din București.,transport_ticket,8
+843,843.0,Cum funcționează sistemul de rezervare online pentru biletele de tren?,transport_ticket,8
+844,844.0,Vreau să cumpăr un abonament lunar pentru tramvai.,transport_ticket,8
+845,845.0,Cumperă un bilet de metrou pentru o zi întreagă.,transport_ticket,8
+846,846.0,Trebuie să rezerve un bilet de tren spre Timișoara pentru luni.,transport_ticket,8
+847,847.0,Trebuie să îmi schimb biletul de tren din cauza unei modificări în program.,transport_ticket,8
+848,848.0,"Am nevoie de un bilet de metrou pentru linia 4, vă rugăm.",transport_ticket,8
+849,849.0,Înregistrați-mi un bilet de tren spre Iași pentru joi.,transport_ticket,8
+850,850.0,Rezervă un bilet de avion spre Istanbul pentru vara aceasta.,transport_ticket,8
+851,851.0,Cumperiți un bilet de autobuz pentru ruta București - Brașov.,transport_ticket,8
+852,852.0,Caută biletele de avion pentru zborul București - Paris.,transport_ticket,8
+853,853.0,Încercați să găsiți bilete de autobuz disponibile pentru weekend.,transport_ticket,8
+854,854.0,Rezervați o cameră în trenul de noapte spre Constanța.,transport_ticket,8
+855,855.0,Cum pot să obțin reducere pentru un bilet de avion dacă sunt student?,transport_ticket,8
+856,856.0,Cumperi un bilet de autobuz pentru ruta București - Brașov.,transport_ticket,8
+857,857.0,Descoperă ofertele speciale pentru biletele de tren spre Oradea.,transport_ticket,8
+858,858.0,Ce este cel mai ieftin mod de a cumpăra un bilet de autobuz?,transport_ticket,8
+859,859.0,Poți să îmi faci o rezervare pentru un bilet de autobuz spre Brașov?,transport_ticket,8
+860,860.0,Trebuie să cumpăr un bilet de navă spre Istanbul.,transport_ticket,8
+861,861.0,Rezervă o cameră dublă în trenul de noapte către Timișoara.,transport_ticket,8
+862,862.0,Caută bilete de tren rapide spre Suceava.,transport_ticket,8
+863,863.0,Când sunt ultimele bilete de tren disponibile spre Suceava?,transport_ticket,8
+864,864.0,Deschide aplicația de bilete de tren și caută rutele disponibile.,transport_ticket,8
+865,865.0,Trebuie să rezerv un bilet de tren spre Cluj Napoca pentru joi.,transport_ticket,8
+866,866.0,Cum pot să obțin reducere pentru biletul meu de tren?,transport_ticket,8
+867,867.0,Cumperi un abonament lunar pentru transportul public din Cluj-Napoca.,transport_ticket,8
+868,868.0,Rezervă un bilet de avion spre Londra pentru Crăciun.,transport_ticket,8
+869,869.0,Rezervă două locuri în trenul spre Timișoara.,transport_ticket,8
+870,870.0,Trebuie să îmi rezerv un bilet de tramvai pentru linia 41.,transport_ticket,8
+871,871.0,Câte bilete de autobuz sunt disponibile spre Galați pentru azi?,transport_ticket,8
+872,872.0,Rezervă un loc în trenul spre Oradea pentru marți.,transport_ticket,8
+873,873.0,Deschide aplicația de bilete de tren și caută ruta spre Cluj-Napoca.,transport_ticket,8
+874,874.0,Caută biletele de autobuz spre Ploiești pentru azi-noapte.,transport_ticket,8
+875,875.0,Găsește bilete de tren disponibile spre Iași pentru duminică.,transport_ticket,8
+876,876.0,Găsiți cele mai bune oferte pentru bilete de avion low-cost.,transport_ticket,8
+877,877.0,Rezervă două locuri în trenul rapid spre Cluj-Napoca.,transport_ticket,8
+878,878.0,Am nevoie de un bilet de autobuz pentru ruta Pitești - Craiova.,transport_ticket,8
+879,879.0,Înregistrează-mă pentru un bilet de tren spre Brașov.,transport_ticket,8
+880,880.0,Câteva informații despre biletele de tren disponibile pentru ruta spre Oradea.,transport_ticket,8
+881,881.0,Verificați prețurile biletelor de avion spre Londra.,transport_ticket,8
+882,882.0,Găsește cele mai ieftine bilete de avion spre Madrid.,transport_ticket,8
+883,883.0,Rezervă două locuri în trenul rapid către Constanța.,transport_ticket,8
+884,884.0,"Am pierdut biletul meu de autobuz, cum pot să-l recuperez?",transport_ticket,8
+885,885.0,Trebuie să îmi rezerv un bilet de avion pentru următoarea zi.,transport_ticket,8
+886,886.0,Comandați online bilete de autocar pentru excursia la mare.,transport_ticket,8
+887,887.0,Rezervă două locuri în trenul spre Timișoara pentru luni.,transport_ticket,8
+888,888.0,Cum pot să obțin un bilet gratuit de autobuz?,transport_ticket,8
+889,889.0,Vreau să cumpăr un pachet de bilete de autobuz pentru studenți.,transport_ticket,8
+890,890.0,Înregistrează-mă pentru un bilet de navă spre Insula Mare a Brăilei.,transport_ticket,8
+891,891.0,Îmi poți ajuta să găsesc bilete de autocar spre Constanța?,transport_ticket,8
+892,892.0,"Am pierdut biletul meu de autobuz, ce trebuie să fac?",transport_ticket,8
+893,893.0,Poți să îmi rezervi un bilet de autocar spre Constanța?,transport_ticket,8
+894,894.0,Deschide aplicația de bilete de tren și caută ruta spre Brașov.,transport_ticket,8
+895,895.0,Am nevoie de un bilet de avion spre Paris pentru luna viitoare.,transport_ticket,8
+896,896.0,"Te rog, spune-mi despre vremea de azi.",weather_query,9
+897,897.0,Este vreme potrivită pentru picnic azi?,weather_query,9
+898,898.0,Cât de rece va fi iarna aceasta?,weather_query,9
+899,899.0,Prognoza meteo pentru luna mai.,weather_query,9
+900,900.0,Va fi căldură excesivă în vară?,weather_query,9
+901,901.0,Este vremea potrivită pentru excursii azi?,weather_query,9
+902,902.0,Plouă în Iași acum?,weather_query,9
+903,903.0,Vreau să știu despre prognoza meteo!,weather_query,9
+904,904.0,Va fi furtună în zilele următoare?,weather_query,9
+905,905.0,Este vreme bună pentru excursie azi?,weather_query,9
+906,906.0,O să facă căldură în vară?,weather_query,9
+907,907.0,Va fi vijelie în zilele următoare?,weather_query,9
+908,908.0,"Te rog, spune-mi despre vremea de azi!",weather_query,9
+909,909.0,Este frig afară?,weather_query,9
+910,910.0,Prognoza meteo pentru primăvara aceasta.,weather_query,9
+911,911.0,Vremea în Constanța este frumoasă azi?,weather_query,9
+912,912.0,O să plouă în Cluj mâine?,weather_query,9
+913,913.0,O să fie vreme bună pentru schi în februarie?,weather_query,9
+914,914.0,Vremea pentru următoarea săptămână este proastă?,weather_query,9
+915,915.0,Cum e vremea în zona rurală?,weather_query,9
+916,916.0,Cum o să fie vremea în prima zi de primăvară?,weather_query,9
+917,917.0,Trebuie să port umbrela azi?,weather_query,9
+918,918.0,Poți să mi-e spui despre vremea pentru Crăciun?,weather_query,9
+919,919.0,Cum este vremea în Cluj?,weather_query,9
+920,920.0,Ce fel de vreme avem în aprilie?,weather_query,9
+921,921.0,Pot merge la piscină dacă e cald?,weather_query,9
+922,922.0,Vremea în Arad pentru următorii trei zile,weather_query,9
+923,923.0,O să plouă în Constanța sâmbătă?,weather_query,9
+924,924.0,Cum este vremea în Sibiu?,weather_query,9
+925,925.0,O să ningă în weekend?,weather_query,9
+926,926.0,Cât de cald o să fie vara aceasta?,weather_query,9
+927,927.0,O să plouă în Timișoara mâine?,weather_query,9
+928,928.0,Temperatura apei este rece?,weather_query,9
+929,929.0,Vremea în Timișoara pentru ziua de mâine?,weather_query,9
+930,930.0,Vremea în Iași este umedă azi?,weather_query,9
+931,931.0,Cum o să fie vremea la sfârșitul lunii?,weather_query,9
+932,932.0,Este vreme bună pentru schi azi?,weather_query,9
+933,933.0,Vremea în București azi?,weather_query,9
+934,934.0,Cât de mult o să ningă în iarnă?,weather_query,9
+935,935.0,Poate mi-e spui despre prognoza meteo pentru luna viitoare?,weather_query,9
+936,936.0,Cât de cald este în sudul țării?,weather_query,9
+937,937.0,Va fi viscol în zilele următoare?,weather_query,9
+938,938.0,A fost cel mai cald an înregistrat?,weather_query,9
+939,939.0,Este vremea bună pentru excursia noastră?,weather_query,9
+940,940.0,Este prea rece pentru excursia mea?,weather_query,9
+941,941.0,E vremea potrivită pentru schiat?,weather_query,9
+942,942.0,Va fi vijelie în următoarea săptămână?,weather_query,9
+943,943.0,Vremea în Brașov este rece azi?,weather_query,9
+944,944.0,Vremea în Brașov pentru sfârșitul săptămânii?,weather_query,9
+945,945.0,Va fi ploaie înainte de Crăciun?,weather_query,9
+946,946.0,Ce temperatură este afară acum?,weather_query,9
+947,947.0,O să se încălzească în curând?,weather_query,9
+948,948.0,O să se rupă norii azi?,weather_query,9
+949,949.0,Va fi soare în București azi?,weather_query,9
+950,950.0,O să se răcorească în curând?,weather_query,9
+951,951.0,Când începe primăvara?,weather_query,9
+952,952.0,Cum e vremea în Brașov acum?,weather_query,9
+953,953.0,O să se producă o furtună electrică?,weather_query,9
+954,954.0,O să ningă mâine?,weather_query,9
+955,955.0,Ce temperatură este afara?,weather_query,9
+956,956.0,O să ningă înainte de Crăciun?,weather_query,9
+957,957.0,Cât de cald va fi vara aceasta?,weather_query,9
+958,958.0,Sunt condiții de zăpadă în munți?,weather_query,9
+959,959.0,O să se întâmple ceva rău datorită vremii?,weather_query,9
+960,960.0,Ce prognoză meteo pentru săptămâna viitoare?,weather_query,9
+961,961.0,Plouă în Craiova acum?,weather_query,9
+962,962.0,O să fie cald vara viitoare?,weather_query,9
+963,963.0,O să ningă în februarie?,weather_query,9
+964,964.0,Ce temperatură este afară?,weather_query,9
+965,965.0,Este vremea ideală pentru camping?,weather_query,9
+966,966.0,Spune-mi despre vremea în Galați azi.,weather_query,9
+967,967.0,O să facem picnic dacă nu plouă?,weather_query,9
+968,968.0,A fost căldură extremă iarna trecută?,weather_query,9
+969,969.0,Temperatura apei la mare acum?,weather_query,9
+970,970.0,Vremea în Iași pentru ziua de mâine,weather_query,9
+971,971.0,"Te rog, spune-mi despre vremea de iarnă!",weather_query,9
+972,972.0,Vremea în Cluj azi?,weather_query,9
+973,973.0,Sunt nori negri acolo unde sunt eu?,weather_query,9
+974,974.0,Vremea este periculoasă pentru copiii mei?,weather_query,9
+975,975.0,Vremea pentru sâmbătă este bună?,weather_query,9
+976,976.0,Cât de multă zăpadă vom avea?,weather_query,9
+977,977.0,Ce prognoză meteo pentru sfârșitul lunii?,weather_query,9
+978,978.0,A fost ger ieri noaptea?,weather_query,9
+979,979.0,Va fi ninsoare în decembrie?,weather_query,9
+980,980.0,O să ningă în Cluj?,weather_query,9
+981,981.0,Ce fel de vreme avem în februarie?,weather_query,9
+982,982.0,Este timpul bun pentru picnic azi?,weather_query,9
+983,983.0,Poate faceți o prognoză a vremii pentru sfârșitul lunii?,weather_query,9
+984,984.0,Vremea în Pitești pentru ziua de mâine?,weather_query,9
+985,985.0,Vremea pentru weekend este bună?,weather_query,9
+986,986.0,O să se rupă gheața pe lacuri?,weather_query,9
+987,987.0,Mâine va fi noros?,weather_query,9
+988,988.0,O să facă frig în noaptea aceasta?,weather_query,9
+989,989.0,Cum va fi vremea maine?,weather_query,9
+990,990.0,O să fie vreme rea în zilele următoare?,weather_query,9
+991,991.0,Spune-mi despre vremea în Constanța azi.,weather_query,9
+992,992.0,Vremea în Timișoara pentru săptămâna viitoare,weather_query,9
+993,993.0,Mâine va fi frig?,weather_query,9
+994,994.0,Este vreme potrivită pentru excursie azi?,weather_query,9
+995,995.0,Cum este vremea în Brașov?,weather_query,9
+0,,am nevoie de un bilet de tren spre brașov cu locuri libere,transport_ticket,8
+1,,"am aflat că există un film bazat pe viața lui Einstein, ai putea să mi-l recomandezi?",recommendation_movies,7
+2,,îi scrie o scrisoare electronică doamnei popescu pentru a confirma întâlnirea de mâine,email_sendemail,5
+3,,Poți să îmi sugerezi un thriller bun?,recommendation_movies,7
+4,,Mai e vreun film SF care merită vizionat?,recommendation_movies,7
+5,,Poti să îmi spui cât de călduță va fi vara anul acesta?,weather_query,9
+6,,Mă simt plictisit și vreau să vizionez un film interesant.,recommendation_movies,7
+7,,vreau să rezerve un bilet de autocar pentru mâine spre Constanța,transport_ticket,8
+8,,Arată-mi toate alarmele pe care le-am setat!,alarm_query,0
+9,,Ce temperatură este afară?,weather_query,9
+10,,Sugereză mi-un film de dragoste care să fie disponibil online!,recommendation_movies,7
+11,,închiriază-mi un bilet de tren spre constanța,transport_ticket,8
+12,,repornirește cartea audio terminând ultimul capitol,play_audiobook,6
+13,,"volumul e prea mare, scade-l puțin",audio_volume_down,1
+14,,îi scrie un email lui bogdan și spune-i că sunt ocupat azi,email_sendemail,5
+15,,"Potrivit listei, care sunt alarmele mele active azi?",alarm_query,0
+16,,roagă-l pe alexa să trimită un email de confirmare pentru eveniment,email_sendemail,5
+17,,mi-ar place să rezerve un bilet de tren spre timisoara,transport_ticket,8
+18,,vreau să rezerv un bilet de avion pentru weekend,transport_ticket,8
+19,,stergerea tuturor întâlnirilor planificate pentru luna mai,calendar_remove,2
+20,,poți să reduci volumul în acest moment,audio_volume_down,1
+21,,"volumul e prea ridicat, te rog micșoră-l",audio_volume_down,1
+22,,reîncepeți să redați ultimul capitol al cărții,play_audiobook,6
+23,,redăți capitolul doi al cărții lui mircea Eliade,play_audiobook,6
+24,,Când vom avea zăpadă în București?,weather_query,9
+25,,"Dacă acum este unsprezece și un sfert noaptea în New York, cât e ora în Timișoara?",datetime_convert,4
+26,,vreau să rezerve un bilet de tren la clasa întâi,transport_ticket,8
+27,,Este posibil să ningă în București în această iarnă?,weather_query,9
+28,,trimite un email la colegii mei în care le spui despre intalnirea de mâine,email_sendemail,5
+29,,Recomandați-mi un film care mi-a scăpat până acum!,recommendation_movies,7
+30,,duceți-vă volumul un pic mai jos,audio_volume_down,1
+31,,"nu mai striga, dă volumul jos, mă doare capul!",audio_volume_down,1
+32,,Spune-mi dacă este setată alarma pentru întâlnirea de astăzi.,alarm_query,0
+33,,Care este temperatura în Cluj azi?,weather_query,9
+34,,Care este rețeta perfectă pentru clătite franceze?,cooking_recipe,3
+35,,"volumul este prea mare, poate fi redus?",audio_volume_down,1
+36,,"Dacă acum este ora unu după-amiaza în Madrid, ce ora este în Cluj-Napoca?",datetime_convert,4
+37,,Poți să îmi spună orele la care sunt setate alarmele?,alarm_query,0
+38,,te rog să elimini evenimentul de Crăciun din calendar,calendar_remove,2
+39,,"vreau să vizionez un film de dragoste, are vreo sugestie?",recommendation_movies,7
+40,,dă-i înapoi un pic volumului,audio_volume_down,1
+41,,Te rog să transformi ora 14:30 din zona PST în ora locală a Bucureștiului.,datetime_convert,4
+42,,Scrie și trimite un email lui Bogdan despre întrunirea de mâine.,email_sendemail,5
+43,,Sunt sigur că am setat o alarmă pentru maine?,alarm_query,0
+44,,dă-i înapoi un pic volumul,audio_volume_down,1
+45,,Trimite un email de confirmare a comenzii la client.,email_sendemail,5
+46,,În ce fus orar ne aflăm? Te rog să o schimbi în ora României.,datetime_convert,4
+47,,Care este temperatura în București în această dimineață?,weather_query,9
+48,,Transformă ora 14:30 din fusul orar al Tokyo-ului în ora locală.,datetime_convert,4
+49,,ștergeți întreaga zi de muncă de joi din calendarul meu,calendar_remove,2
+50,,Spuneți-mi despre ultima alarmă pe care am setat-o.,alarm_query,0
+51,,"Mă interesează să vizionez un film de SF, ce părere ai?",recommendation_movies,7
+52,,vreau să rezerve un bilet de tren pentru mâine,transport_ticket,8
+53,,Anulați întreaga zi din calendarul meu.,calendar_remove,2
+54,,"Potrivit listei mele, ce alarme sunt activate azi?",alarm_query,0
+55,,reluați să vă bucurați de aventurile lui Sandokan în format audio,play_audiobook,6
+56,,Ce temperatură este prevăzută pentru București mâine?,weather_query,9
+57,,Stergeți tot ce este planificat în calendarul meu pentru luna aceasta.,calendar_remove,2
+58,,"nu-mi place când e așa de tare, dai-i un pic înapoi pe volum",audio_volume_down,1
+59,,vreau să redactez un răspuns la email-ul primit de la doamna popescu și să-o mulțumim pentru oferta ei,email_sendemail,5
+60,,"volumul e prea ridicat, scade-l!",audio_volume_down,1
+61,,"Dacă acum sunt opt dimineaţa în Tokyo, ce oră este în Cluj-Napoca?",datetime_convert,4
+62,,Pot să îmi spui care este prima alarmă setată?,alarm_query,0
+63,,îmi trebuie un bilet de metrou până la Gara de Nord,transport_ticket,8
+64,,-reia povestea de dragoste din carte audio,play_audiobook,6
+65,,începe să citești din nou cartea audio favorită,play_audiobook,6
+66,,Ce ore sunt setate alarmele pentru astăzi?,alarm_query,0
+67,,Cât durează să gătesc un curcan întreg în cuptor?,cooking_recipe,3
+68,,duce volumul la minim,audio_volume_down,1
+69,,Poti să îmi sugerezi un thriller pe care să-l vizionez?,recommendation_movies,7
+70,,Răspunde la email-ul primit de la colegiu meu și mulțumește-i pentru ajutor.,email_sendemail,5
+71,,Schimbă ora locală cu ora de vară a Europei Centrale.,datetime_convert,4
+72,,Arată-mi toate alarmele programate!,alarm_query,0
+73,,"imi placea un film cu Will Smith, poți să îl găsești?",recommendation_movies,7
+74,,resetați calendarul meu și îndepărtați toate evenimentele vechi,calendar_remove,2
+75,,Schimbă fusul orar al Japoniei cu cel al României.,datetime_convert,4
+76,,În ce fus orar suntem acum? Te rog să-l schimbi în cel al României.,datetime_convert,4
+77,,Scrie un email catre biroul nostru pentru a solicita informatii suplimentare,email_sendemail,5
+78,,cumperă-mi un bilet de tramvai pentru linia 4,transport_ticket,8
+79,,Anulați evenimentul de azi și resetați calendarul meu.,calendar_remove,2
+80,,scrie un email la prietenul meu și întreabă-l dacă este liber să ieșiți seara asta,email_sendemail,5
+81,,te rog să micșorezi volumul,audio_volume_down,1
+82,,redăți înapoi la punctul unde m-am oprit,play_audiobook,6
+83,,întocmeşte un e-mail către directorul firmei şi solicită o întâlnire,email_sendemail,5
+84,,Te rog să transformi ora douăsprezece noaptea din G.M.T. în E.S.T.,datetime_convert,4
+85,,Mă întreb dacă ai setat vreo alarmă nouă.,alarm_query,0
+86,,"volumul este prea ridicat, poți să-l reduci?",audio_volume_down,1
+87,,Prognoză meteo pentru București pentru săptămâna aceasta!,weather_query,9
+88,,Te rog să transformi ora locală din Sydney în ora locală din Tokyo.,datetime_convert,4
+89,,"vreau să vizionez un film de acţiune cu Tom Cruise, poți să mi-l recomanzi?",recommendation_movies,7
+90,,Gasesti o reteta simpla pentru clatite?,cooking_recipe,3
+91,,"Vorbind de vreme, ce spun meteorologii pentru această săptămână?",weather_query,9
+92,,Este timp bun pentru o excursie în munți acum?,weather_query,9
+93,,"duce volumul mai jos, este deranjant",audio_volume_down,1
+94,,Goleşte agenda mea pentru luna viitoare,calendar_remove,2
+95,,redacteaza un raspuns la email-ul primit de la birou,email_sendemail,5
+96,,sugereză-mi un film de dragoste pentru seara asta,recommendation_movies,7
+97,,Vreau să ştiu prognoza meteo pentru weekend!,weather_query,9
+98,,resetează și elimină toate înregistrările din calendarul meu,calendar_remove,2
+99,,imi place un film cu Tom Hanks,recommendation_movies,7
+100,,cum sa gatesti caracatița înăbușită,cooking_recipe,3
+101,,vreau să achiziționez un bilet de autobus spre Constanța,transport_ticket,8
+102,,Ai vreo idee de film pe care ar fi bine să-l vizionez?,recommendation_movies,7
+103,,vreau sa vizionam un film cu rating ridicat pe imdb,recommendation_movies,7
+104,,încercați să transmiteți o scrisoare electronică persoanei responsabile cu rezervările,email_sendemail,5
+105,,reteta de clatite cu frisca si capsuni,cooking_recipe,3
+106,,Poți să îmi arăți orele la care am setat alarmele?,alarm_query,0
+107,,reîncepe să redea ultimul capitol al cărți audio,play_audiobook,6
+108,,Poţi să mi-i spui prognoza meteo pentru weekend?,weather_query,9
+109,,Mă poti ajuta să văd toate alarmele mele?,alarm_query,0
+110,,scrie un email către doamna popescu și anunţ-o despre evenimentul din weekend,email_sendemail,5
+111,,Vor fi înnorate în weekend în Constanța?,weather_query,9
+112,,Stergeți tot ce este planificat pentru luna aceasta.,calendar_remove,2
+113,,Care este prima alarmă care sună dimineața?,alarm_query,0
+114,,unde gasesc reteta originala pentru mamaliga,cooking_recipe,3
+115,,"puteți reduce volumul, vă rog?",audio_volume_down,1
+116,,Când și unde vom avea zăpadă anul acesta?,weather_query,9
+117,,Redacteaza un raspuns la email-ul lui bogdan referitor la factura,email_sendemail,5
+118,,Goleșiți-vă calendarul pentru săptămâna aceasta.,calendar_remove,2
+119,,Care este următoarea alarmă care va suna?,alarm_query,0
+120,,Mai e mult până când se face frig?,weather_query,9
+121,,Ce temperatură este afară acum?,weather_query,9
+122,,Care este următoarea alarmă pe care am setat-o?,alarm_query,0
+123,,pune-mi să aud cartea lui jules verne,play_audiobook,6
+124,,începe un email către tatăl meu și spune-i că vin acasă sâmbăta viitoare,email_sendemail,5
+125,,Poti spune mie ce va fi cu vremea în Braşov până sâmbătă?,weather_query,9
+126,,reiați și continuați să audiați povestirea lui Creangă,play_audiobook,6
+127,,va trebui sa trimiteti un mesaj la adresa de email a colegilor mei,email_sendemail,5
+128,,unde pot să cumpăr un bilet de tramvai,transport_ticket,8
+129,,e prea zgomot în cameră și vreau să mi-l reduceți,audio_volume_down,1
+130,,trebuie să îl rezerv un bilet de autobuz pentru mâine spre Brașov,transport_ticket,8
+131,,Elimină tot conţinutul calendarului meu şi reîncepe de la zero,calendar_remove,2
+132,,Recomandă un film romantic pentru seara aceasta!,recommendation_movies,7
+133,,cum se face cel mai bun papanas în lume,cooking_recipe,3
+134,,Caut o rețetă simplă și delicioasă pentru prânz.,cooking_recipe,3
+135,,Cum se prepară corect ciorba de burtă?,cooking_recipe,3
+136,,Stergeți tot ce este planificat în cursul săptămânii viitoare!,calendar_remove,2
+137,,vă rog să transformați ora doisprezece și patruzeci și cinci minute din est european în ora new yorkului,datetime_convert,4
+138,,Te rog sa trimiti un email catre mama meu ca sa o felicit pentru ziua ei de nastere.,email_sendemail,5
+139,,reduce volumul că este prea puternic,audio_volume_down,1
+140,,oferă-mi opțiuni pentru biletele de autobuz spre timișoara,transport_ticket,8
+141,,imi poți rezerva un bilet de metrou pentru mâine?,transport_ticket,8
+142,,Pot să îmi arăți lista cu toate alarmele active?,alarm_query,0
+143,,trimite o scrisoare electronica fratelui meu pentru a-l intreba despre sanatatea lui,email_sendemail,5
+144,,Ce ore sunt setate alarmele mele pentru weekend?,alarm_query,0
+145,,Vreau să știu prognoza meteo pentru weekend.,weather_query,9
+146,,începe să redeați capitolul următor al cărții audio,play_audiobook,6
+147,,"Ștergeți toate evenimentele sociale din calendar!
+Te rugăm eliminati toate înregistrările din calendarul meu!
+Reinițializează calendarul meu și înlătură toate evenimentele vechi!
+Stergeţi evenimentul de naştere din calendarul meu!
+Înlătură toate evenimentele care au loc în week-end!",calendar_remove,2
+148,,Este vreme bună afară pentru o excursie azi?,weather_query,9
+149,,Eliminați programarea de la data de 15 mai din calendarul meu!,calendar_remove,2
+150,,Unde gasesc reteta originala pentru sarmalele romanesti?,cooking_recipe,3
+151,,reîncepeți să citiți ultimul capitol al cărții audio,play_audiobook,6
+152,,"În clipa aceasta este ora unu după-amiaza în Berlin, cât este ora în București?",datetime_convert,4
+153,,reia redarea celui mai bun audiobook,play_audiobook,6
+154,,mai am vreo alarmă setată pentru astăzi?,alarm_query,0
+155,,"Dacă acum este unsprezece noaptea în România, cât e ora în Tokyo?",datetime_convert,4
+156,,încerca să trimită un email către domnul popescu,email_sendemail,5
+157,,cauta un film care s-a lansat recent si are review-uri bune,recommendation_movies,7
+158,,Goleșteți calendarul meu și începeți de la zero.,calendar_remove,2
+159,,trimiteți un mesaj electronic departamentului de resurse umane referitor la cererea mea,email_sendemail,5
+160,,dați play la audiobookul meu preferat,play_audiobook,6
+161,,unde pot găsi biletele de metrou?,transport_ticket,8
+162,,Vreau să ştiu cum va fi vremea sâmbătă în Constanța.,weather_query,9
+163,,Este vremea bună pentru excursie azi?,weather_query,9
+164,,ce ingrediente necesit pentru a face pizza,cooking_recipe,3
+165,,cum sa pregatesc supa crema de broccoli,cooking_recipe,3
+166,,îmi poți rezerva un bilet de metrou până la gara de nord?,transport_ticket,8
+167,,reîncepem să ascultăm cartea audio de ieri seară,play_audiobook,6
+168,,Poți să îmi arăți lista cu toate alarmele setate?,alarm_query,0
+169,,ștergeți programarea la meditatie pentru săptămâna viitoare,calendar_remove,2
+170,,Ce alarme trebuie să fie dezactivate înainte de culcare?,alarm_query,0
+171,,reteta pentru cele mai bune clatite din lume,cooking_recipe,3
+172,,Resetează și șterge tot conținutul calendarului meu.,calendar_remove,2
+173,,Vreau să știu dacă va fi soare sau nori azi.,weather_query,9
+174,,cât costă un bilet de tramvai?,transport_ticket,8
+175,,Ce ingrediente sunt necesare pentru a face un delicios budinca de ciocolata?,cooking_recipe,3
+176,,Ce alarme trebuie să îmi reamintesc?,alarm_query,0
+177,,vând un bilet de avion dus-întors către frankfurt,transport_ticket,8
+178,,Cum pot face cel mai bun sos de tomate?,cooking_recipe,3
+179,,vreau o reteta simpla pentru clatite cu fructe,cooking_recipe,3
+180,,Ce ore sunt setate alarmele pe telefonul meu?,alarm_query,0
+181,,ce e cel mai bun film pe care trebuie să-l vizionez,recommendation_movies,7
+182,,poți să scadăți un pic volumul,audio_volume_down,1
+183,,poți să îmi recomanzi un thriller psihologic?,recommendation_movies,7
+184,,"sunetul este prea puternic, reduce-l la jumătate!",audio_volume_down,1
+185,,Te rog să transformi ora douăsprezece și un sfert PM în ora Berlinului.,datetime_convert,4
+186,,îmi trebuie un bilet de metrou până în centrul orașului,transport_ticket,8
+187,,Spune-mi dacă este setată vreo alarmă pentru după-amiaza.,alarm_query,0
+188,,continuă să citești cartea mea preferată,play_audiobook,6
+189,,o zi buna pentru vizionarea unui film de dragoste,recommendation_movies,7
+190,,Mă interesează să văd toate alarmele mele.,alarm_query,0
+191,,Schimbă ora locală din Paris în ora României.,datetime_convert,4
+192,,începe să citești din nou cartea mea preferată,play_audiobook,6
+193,,Eliminați din calendar vizita la medic pentru luna viitoare.,calendar_remove,2
+194,,în ce condiţii meteo vom avea în Bucureşti până sâmbătă,weather_query,9
+195,,Pot să îmi arăți toate alarmele setate?,alarm_query,0
+196,,Transformă ora 20:45 din Western European Summer Time în Central European Time.,datetime_convert,4
+197,,Cum se pregateste sosul de smântână pentru mămăligă?,cooking_recipe,3
+198,,Stergeți tot ce este programat pentru ziua de azi!,calendar_remove,2
+199,,"Caut un film bun cu Tom Hanks, ai vreo recomandare?",recommendation_movies,7
+200,,redă înapoi la pagina precedentă a audiobook-ului,play_audiobook,6
+201,,vreau să achiziționez un bilet de avion pentru Paris,transport_ticket,8
+202,,dă-i jos un pic volumul,audio_volume_down,1
+203,,vreau să împachetez un bilet de tramvai pentru rândul meu de dimineață,transport_ticket,8
+204,,Cum putem conserva murăturile pentru iarnă?,cooking_recipe,3
+205,,O să fie soare în weekend în Mamaia?,weather_query,9
+206,,"Dacă acum este ora unu după-amiaza în România, cât e ora în Paris?",datetime_convert,4
+207,,reîncepem să ascultăm cea mai frumoasă carte audio,play_audiobook,6
+208,,Redactează un răspuns la email-ul primit de la doamna Popescu.,email_sendemail,5
+209,,În ce zonă de timp suntem? Te rog să o schimbi în ora României.,datetime_convert,4
+210,,Spune-mi prognoza meteo pentru weekend!,weather_query,9
+211,,trimite un email la birou și anunță-le că voi fi absent azi,email_sendemail,5
+212,,"e prea gălăgie, dați-i înapoi volumul un pic",audio_volume_down,1
+213,,"Dacă este ora doisprezece și jumătate pm în Madrid, atunci ce ora este în Timișoara?",datetime_convert,4
+214,,Care este temperatura în Cluj în această săptămână?,weather_query,9
+215,,volumul e prea mare scade-l,audio_volume_down,1
+216,,puteți să reduceți puțin volumul?,audio_volume_down,1
+217,,vreau să trimit un mesaj prin email celor din departamentul financiar pentru a solicita raportul lunar,email_sendemail,5
+218,,Ștergeți din calendar vizita la medic pentru luna viitoare.,calendar_remove,2
+219,,Care este secretul pentru cele mai bune clatite?,cooking_recipe,3
+220,,redă pasajul favorit din cartea lui Jules Verne,play_audiobook,6
+221,,da-mi voie să reluăm lectura cartei audio,play_audiobook,6
+222,,câte costă un bilet de tren dus-întors între București și Cluj Napoca,transport_ticket,8
+223,,"începe să mă doară capul de atât de multă gălăgie, scade volumul!",audio_volume_down,1
+224,,cine are recomandari pentru filme noi,recommendation_movies,7
+225,,"e prea zgomotos aici, reduce volumul vreo 20 de procente",audio_volume_down,1
+226,,Stergeți evenimentul de azi din agenda mea.,calendar_remove,2
+227,,începe un email către colegul meu și transmite-i felicitările pentru ziua de naștere,email_sendemail,5
+228,,Transformă ora 3:15 AM din CST în WAT.,datetime_convert,4
+229,,Resetează și elimină toate evenimentele repetitive din calendar.,calendar_remove,2
+230,,"volumul e prea mare, micșorează-l",audio_volume_down,1
+231,,Cât de rece va fi noaptea trecută?,weather_query,9
+232,,Te rog să transformi ora 14:30 din zona de timp Pacific Standard Time în Eastern European Time.,datetime_convert,4
+233,,Te rog să-mi spui prognoza meteo pentru sfârșitul săptămânii!,weather_query,9
+234,,vreau să îl rezerv un bilet de avion spre Paris,transport_ticket,8
+235,,Care dintre alarmele mele sunt activate în acest moment?,alarm_query,0
+236,,cum se face supa crema de brocoli,cooking_recipe,3
+237,,reudivizualizează ultimul capitol al cărții audio,play_audiobook,6
+238,,Anulați programarea la medic pentru mâine și reprogramați-o pentru vineri.,calendar_remove,2
+239,,Unde găsesc rețete noi și interesante pentru prăjiturele de post?,cooking_recipe,3
+240,,poti sa mi recomanzi un film pentru weekend,recommendation_movies,7
+241,,"Dacă acum este 7 dimineața în Paris, cât este ceasul în București?",datetime_convert,4
+242,,redă înapoi la capitolul anterior al cărții audio,play_audiobook,6
+243,,Care este secretul pentru a face cele mai bune clatite?,cooking_recipe,3
+244,,Sugerez un film care mi-ar placea și mie!,recommendation_movies,7
+245,,Te rog să elimineți toată programarea pentru weekend-ul acesta.,calendar_remove,2
+246,,te rugam sa trimiti o replica la email-ul primit de la doamna popescu,email_sendemail,5
+247,,Recomandă-mi un film cu Tom Hanks!,recommendation_movies,7
+248,,continuă să mă încânte cu povestea de iubire din această carte audio,play_audiobook,6
+249,,redă înregistrarea audio a povestirii mele favorite,play_audiobook,6
+250,,"În momentul în care este ora doi după-amiaza în New York, ce ora este în Cluj-Napoca?",datetime_convert,4
+251,,Îmi poți spune dacă am vreo alarmă setată pentru astăzi?,alarm_query,0
+252,,Sugerează-mi un film pe care să-l pot urmări seara asta!,recommendation_movies,7
+253,,Câte minute trebuie să gătesc un fileu de somn pentru a fi suculent?,cooking_recipe,3
+254,,care este secretul unei creme brulee perfecte,cooking_recipe,3
+255,,vreau să îmi rezervi un bilet de avion spre Paris,transport_ticket,8
+256,,Care este secretul pentru a face cele mai bune mămăligă?,cooking_recipe,3
+257,,recomanda-mi un film de actiune care ruleaza acum in cinema,recommendation_movies,7
+258,,trimiteti un mesaj lui maria cerandu-i sa ne trimita factura actualizata,email_sendemail,5
+259,,Raspunde la email-ul lui bogdan și anunță-l despre modificările din program.,email_sendemail,5
+260,,vreau să îl iei un bilet de bus spre otopeni,transport_ticket,8
+261,,"În momentul în care este 10 noaptea în New York, ce ora este în Cluj-Napoca?",datetime_convert,4
+262,,Trimite un mesaj de felicitare prin email surorilor mele.,email_sendemail,5
+263,,Poți să îmi sugerezi un film SF bun?,recommendation_movies,7
+264,,redeschideți volumul doi al seriei de romane,play_audiobook,6
+265,,Sunt setate alarmele mele pentru weekend?,alarm_query,0
+266,,mai am vreo alarmă setată pentru după-amiaza,alarm_query,0
+267,,trimite un email la birou pentru a confirma întrunirea de mâine,email_sendemail,5
+268,,Spune-mi cum va fi vremea în Constanța până la sfârșitul săptămânii.,weather_query,9
+269,,încearcă să mișcăm volumul la jumătate,audio_volume_down,1
+270,,Eliminați evenimentul de la 15 august din calendarul meu personal.,calendar_remove,2
+271,,reîncepem să ascultăm de unde am rămas,play_audiobook,6
+272,,Eliminați programarea de la data de 15 mai din calendar.,calendar_remove,2
+273,,citește-mi despre aventurile lui Sherlock Holmes,play_audiobook,6
+274,,câte costă un bilet de avion spre paris,transport_ticket,8
+275,,îmi trebuie un bilet de metrou până la gara de nord,transport_ticket,8
+276,,Caut un film de dragoste să mă uit azi seară.,recommendation_movies,7
+277,,Ce ingrediente necesit pentru a face cel mai bun ciorbă de burtă?,cooking_recipe,3
+278,,reluare lectura cartii în loc să mă întorc la munca,play_audiobook,6
+279,,Ștergeți programarea la medic de săptămâna viitoare.,calendar_remove,2
+280,,Te rog să trimită un mesaj prin email lui Mihai și să-l anunți despre întrunirea de mâine.,email_sendemail,5
+281,,stergerea tuturor programărilor pentru luna aceasta,calendar_remove,2
+282,,redă capitolul anterior al cărții,play_audiobook,6
+283,,Ce sunt ingredientele necesare pentru a face clatite?,cooking_recipe,3
+284,,cum sa pregatesti sosul de usturoi si smantana,cooking_recipe,3
+285,,vreau să vizionez un thriller nou și interesant,recommendation_movies,7
+286,,când pot să îl iau pe cel mai ieftin bilet de autocar spre constanța?,transport_ticket,8
+287,,Stergeţi toate evenimentele personale din calendarul meu,calendar_remove,2
+288,,Ai putea să-mi spună un film de aventură care e valoros de vazut?,recommendation_movies,7
+289,,Stergeți evenimentul de săptămâna viitoare din agenda mea!,calendar_remove,2
+290,,"Dacă e 10 seara în New York, ce ora este în Constanța?",datetime_convert,4
+291,,Care este prognoza meteo pentru weekend?,weather_query,9
+292,,"dacă poți să-l reduci un pic, mulțumesc!",audio_volume_down,1
+293,,Sunt curios să văd care sunt alarmele mele active acum.,alarm_query,0
+294,,Va fi soare în Constanța sâmbătă?,weather_query,9
+295,,Te rog să transformi ora curentă din EET în CET.,datetime_convert,4
+296,,dă-i un pic mai încet pe volum,audio_volume_down,1
+297,,"mai încet cu volumul, te rog",audio_volume_down,1
+298,,Trimite un email lui radu cu informatiile necesare pentru evenimentul de weekend.,email_sendemail,5
+299,,e prea tare scade volumul,audio_volume_down,1
+300,,cum arată prognoza pentru sfârșitul săptămânii?,weather_query,9
+301,,îi trimit o scrisoare electronică prietenului meu în care îl invit la petrecere,email_sendemail,5
+302,,vreau să cumpăr un bilet de tramvai pentru ruta 41,transport_ticket,8
+303,,vreau să văd un film de aventură cu actori români!,recommendation_movies,7
+304,,Ce este cel mai bun mod de a pregăti peștele proaspăt?,cooking_recipe,3
+305,,Poti să îmi dai detalii despre vremea din Cluj?,weather_query,9
+306,,sugerez un film pentru seara aceasta,recommendation_movies,7
+307,,Trimite un email lui radu pentru a-l intreba daca este disponibil pentru întâlnire,email_sendemail,5
+308,,vreau să trimit un e-mail soţiei mele în care să-i spun cât mă bucur să ne vedem diseară,email_sendemail,5
+309,,Cum se prepară sosul de tomate pentru paste?,cooking_recipe,3
+310,,te rugăm să trimiți o scrisoare electronică lui alexandru și să-l anunți despre evenimentul special,email_sendemail,5
+311,,Vreau să ştiu cum va fi vremea sâmbătă.,weather_query,9
+312,,Spune-mi cum va fi timpul în Constanța până sâmbătă.,weather_query,9
+313,,reluare lectura cartei în format audio,play_audiobook,6
+314,,"potrivit preferinţelor mele, care este cel mai bun film de dragoste?",recommendation_movies,7
+315,,Pot să îmi activezi alarma de la 7 dimineața?,alarm_query,0
+316,,În ce oraş european este aceeaşi oră ca și în București?,datetime_convert,4
+317,,Unde găsesc rețeta originală pentru sarmalele moldovenești?,cooking_recipe,3
+318,,sugerează-mi un film care a avut premiera recent în România,recommendation_movies,7
+319,,E posibil să ningă în București până la sfârșitul lunii?,weather_query,9
+320,,reîncepe să citești cartea mea preferată,play_audiobook,6
+321,,reiați să vă audiem romanul polirom,play_audiobook,6
+322,,reîncepem audiobook-ul anterior,play_audiobook,6
+323,,Caut un film de dragoste care a fost lansat anul acesta. Poţi să îmi dai câteva sugestii?,recommendation_movies,7
+324,,oferă-mi opțiuni pentru biletele de avion către Paris,transport_ticket,8
+325,,Cum se prepară sosul de smântână pentru mămăligă?,cooking_recipe,3
+326,,Este vreme bună pentru excursie azi?,weather_query,9
+327,,"Dacă sunt două noaptea aici, cât e ora în Madrid?",datetime_convert,4
+328,,Ce ore sunt setate alarmele mele pentru astăzi?,alarm_query,0
+329,,vreau să îmi recomanzi cel mai nou film de groază,recommendation_movies,7
+330,,Schimbă fusul orar al Londrei cu cel al New York-ului.,datetime_convert,4
+331,,Caut un film de acțiune bun pe care să-l vizionez în weekend.,recommendation_movies,7
+332,,"Dacă e opt seara aici, ce ora este în Sydney?",datetime_convert,4
+333,,Câte minute trebuie să fierb orezul pentru a-l face să fie moale?,cooking_recipe,3
+334,,reteta traditionala pentru sarmale cu carne de porc,cooking_recipe,3
+335,,închiriează-mi un bilet de autocar spre constanța,transport_ticket,8
+336,,unde pot găsi biletele de autobuz pentru linia 104?,transport_ticket,8
+337,,Mai are cineva vreo recomandare pentru un film SF?,recommendation_movies,7
+338,,îmi trebuie un bilet de metrou până în centru,transport_ticket,8
+339,,trimite un email la mama și tata pentru a le da vestea bună,email_sendemail,5
+340,,Te rog să transformi ora 10:45 PM din PST în EET.,datetime_convert,4
+341,,cum gatesc corect pește la gratar,cooking_recipe,3
+342,,vreau să rezerve un bilet de avion pentru vară,transport_ticket,8
+343,,Anulați toată programarea pentru săptămâna aceasta în calendarul meu.,calendar_remove,2
+344,,poți să îmi recomanzi un thriller pe care să-l vizionez?,recommendation_movies,7
+345,,rezervă un bilet de avion pentru zborul spre frankfurt,transport_ticket,8
+346,,Ștergeți toate notele din calendar înainte de sfârșitul săptămânii.,calendar_remove,2
+347,,Unde gasesc o reteta traditionala pentru mamaliga?,cooking_recipe,3
+348,,e prea zgomotos acolo dai volumul jos,audio_volume_down,1
+349,,vă rog să redactezi un răspuns la email-ul de la doamna Popescu privind solicitarea ei,email_sendemail,5
+350,,Care dintre alarmele mele sunt active în acest moment?,alarm_query,0
+351,,Spune-mi prognoza meteo pentru ziua de mâine!,weather_query,9
+352,,Te rog sa trimiti o notificare prin email celor care au participat la eveniment.,email_sendemail,5
+353,,înlăturați programarea la sală pentru weekend-ul acesta,calendar_remove,2
+354,,Care este ora alarmei pe care am setat-o ieri?,alarm_query,0
+355,,Stergeți evenimentul deosebit de pe 20 aprilie din lista mea.,calendar_remove,2
+356,,Vrei să îmi spui cum va fi vremea la mare săptămâna aceasta?,weather_query,9
+357,,Goliți-vă calendarul și începeți de la zero.,calendar_remove,2
+358,,Unde gasesc o reteta simpla pentru cina de Paste?,cooking_recipe,3
+359,,poți să îmi rezerve un bilet de tren spre Timișoara?,transport_ticket,8
+360,,Care este temperatura maximă prevăzută pentru ziua de mâine?,weather_query,9
+361,,Recomandați-mi un film SF nou lansat!,recommendation_movies,7
+362,,poți să îmi recomanzi un film de acțiune bun?,recommendation_movies,7
+363,,Goliți calendarul și începeți de la zero!,calendar_remove,2
+364,,Găsește o rețetă simplă și rapidă pentru supa de legume!,cooking_recipe,3
+365,,vreau să trimit un mesaj electronic lui ana și să o anunț despre evenimentul din weekend,email_sendemail,5
+366,,Prognoza meteo pentru weekend-ul acesta.,weather_query,9
+367,,vreau sa invat sa gatesc clatite,cooking_recipe,3
+368,,Resetează și elimină toate înregistrările din calendarul meu!,calendar_remove,2
+369,,vrem sa trimitem un email lui alexandrui pentru a confirma data întâlnirii,email_sendemail,5
+370,,poate să îmi găsești un bilet de bus pentru weekend?,transport_ticket,8
+371,,Este timpul bun pentru excursii în munte în acest sfârșit de săptămână?,weather_query,9
+372,,începe un email catre prietena mea pentru a-o invita la evenimentul din weekend,email_sendemail,5
+373,,Transformă ora 23:59 GMT+1 în oraFusei Orei Britanice.,datetime_convert,4
+374,,Vrei să îmi spui prognoza meteo pentru weekend?,weather_query,9
+375,,Poți să îmi sugerez un film care mi-ar fi pe plac?,recommendation_movies,7
+376,,Mai eşti la curent cu ultimile apariţii cinematografice? Recomandă-mi ceva nou şi interesant!,recommendation_movies,7
+377,,E timpul să iau umbrela cu mine azi?,weather_query,9
+378,,rezeră un bilet de tren înainte de Crăciun,transport_ticket,8
+379,,Spuneți-mi ce alarme am setat pentru astăzi.,alarm_query,0
+380,,"sunetul e prea puternic, reduceți-l vă rog",audio_volume_down,1
+381,,Eliminați programarea la medic pentru luna viitoare.,calendar_remove,2
+382,,trimite un mesaj la adresa de email a lui alexandru și roagă-l să ne trimită raportul final,email_sendemail,5
+383,,În ce zonă de timp suntem acum și cum poate fi convertită în zona de timp Tokyo?,datetime_convert,4
+384,,Poți să îmi spui ce fel de timp este acum în Cluj?,weather_query,9
+385,,cat de mult timp trebuie sa marinem carnea de pui,cooking_recipe,3
+386,,"dacă nu-mi dai jos volumul, o să mă mut din cameră. Este insuportabil!",audio_volume_down,1
+387,,trimiteti un mesaj catre departamentul de resurse umane pentru a solicita informatii suplimentare,email_sendemail,5
+388,,Mă poti ajuta să îmi arăți toate alarmele setate?,alarm_query,0
+389,,te rog sa redactezi un mesaj pentru a fi trimis prin email catre prietenii mei,email_sendemail,5
+390,,Spunemile dacă va fi soare sau noroi azi.,weather_query,9
+391,,Te rog sa trimiti o replica la email-ul primit de la departamentul resurse umane.,email_sendemail,5
+392,,cat de mult timp trebuie sa gatim carne de vita,cooking_recipe,3
+393,,"Dacă este ora 3 PM în Paris, atunci ce oră este în București?",datetime_convert,4
+394,,Care este starea vremii pentru ziua de mâine?,weather_query,9
+395,,începe să redea de la capitolul trei,play_audiobook,6
+396,,"Dacă acum este 3 pm în Londra, cât e ora în Timișoara?",datetime_convert,4
+397,,Câte minute trebuie să înăbușăm carnea de pui pentru că își păstreze suculența?,cooking_recipe,3
+398,,Recomandați-mi un thriller pe care trebuie neapărat să-l văd!,recommendation_movies,7
+399,,poți să reduci volumul ca să ne auzim între noi?,audio_volume_down,1
+400,,trimiteţi un e-mail celui care mi-a trimis mesajul anterior şi spuneţi-i că am primit mesajul,email_sendemail,5
+401,,cum se prepara salata de boeuf la franceza,cooking_recipe,3
+402,,Ai vreo recomandare de film de Crăciun?,recommendation_movies,7
+403,,reia redarea ultimului capitolel citit,play_audiobook,6
+404,,puteți să-mi spuneți cum pot să obțin un bilet de tramvai în acest oraș?,transport_ticket,8
+405,,ce ingrediente sunt necesare pentru salata de boeuf,cooking_recipe,3
+406,,vreau să îl iei un bilet de tramvai până la Gara de Nord,transport_ticket,8
+407,,Eliminați evenimentul de la ora 10 dimineața din calendarul meu.,calendar_remove,2
+408,,Transformă ora 14:30 din zona de timp Madrid în zona de timp Atena.,datetime_convert,4
+409,,dacă e nouă seara în berlin atunci ce ora este în constanța,datetime_convert,4
+410,,scade volumul acum,audio_volume_down,1
+411,,Care este secretul pentru a face cele mai bune mamaliga din lume?,cooking_recipe,3
+412,,o retetă simplă și rapidă pentru clatite cu smântână,cooking_recipe,3
+413,,volumul e prea mare scade-l puțin,audio_volume_down,1
+414,,"Dacă este ora opt dimineața în New York, atunci ce ora este în Timișoara?",datetime_convert,4
+415,,Câte minute trebuie să fierb cartofii noi pentru salată?,cooking_recipe,3
+416,,"Dacă acum este 3 am aici, care este ora în Sydney?",datetime_convert,4
+417,,reluați redarea cărții lui Jules Verne,play_audiobook,6
+418,,Caut un film bun pentru seara asta!,recommendation_movies,7
+419,,dă-i înapoi volumul jos,audio_volume_down,1
+420,,"ești prea loud, scade-o puțin!",audio_volume_down,1
+421,,vreau să rezerv un bilet de autobuz spre Timișoara pentru săptămâna viitoare,transport_ticket,8
+422,,începe un email către directorul general și prezintă propunerea ta,email_sendemail,5
+423,,continuă să citească din cartea lui jules verne,play_audiobook,6
+424,,nu este nevoie de atât de multă energie dau jos volumul,audio_volume_down,1
+425,,trimite o scrisoare electronică lui andrei în care să-i mulțumești pentru ajutor,email_sendemail,5
+426,,Goliți-vă complet calendarul până la sfârșitul lunii!,calendar_remove,2
+427,,cât de rece va fi în Cluj mâine,weather_query,9
+428,,vreau să îmi rezerve un bilet de autobuz spre constanța,transport_ticket,8
+429,,"mai încet cu sunetul, te rog",audio_volume_down,1
+430,,Mă poti arăta toate alarmele pe care le-am creat?,alarm_query,0
+431,,Eliminați evenimentul de la ora 10 dimineața din calendar.,calendar_remove,2
+432,,Mi-ai setat vreo alarmă pentru întâlnirea de mâine?,alarm_query,0
+433,,Te rog să-mi spui ce ora este acum în zona de timp a Berlinului.,datetime_convert,4
+434,,reluare lectura cartei himalaya înflorită,play_audiobook,6
+435,,Sugerez un film de aventură pentru copii carerulează în prezent în cinematograf!,recommendation_movies,7
+436,,poți să mi-o activezi pe cea de la 7 dimineața,alarm_query,0
+437,,cum se pregateste desertul de rabanoape,cooking_recipe,3
+438,,reluati cartea audio și continuați de acolo unde am încetat,play_audiobook,6
+439,,puteți să micșorați puțin volumul,audio_volume_down,1
+440,,Unde găsesc rețeta pentru prăjiturile de Crăciun?,cooking_recipe,3
+441,,înainte de a pleca te rog să trimiți un email lui radu pentru a confirma programarea,email_sendemail,5
+442,,care este următoarea alarmă pe care am setat-o,alarm_query,0
+443,,Sunt setate corect alarmele pentru weekend?,alarm_query,0
+444,,"mai încet cu muzica, este prea tare",audio_volume_down,1
+445,,Ce alarme sunt active în momentul acesta?,alarm_query,0
+446,,Poți să îmi dai prognoza meteo pentru weekend?,weather_query,9
+447,,Recomandați-mi un film de acțiune recent lansat!,recommendation_movies,7
+448,,alexa trimite un email lui alexandru pentru a-l intreba despre evenimentul din weekend,email_sendemail,5
+449,,Schimbă ora locală cu ora din Paris.,datetime_convert,4
+450,,Resetează și șterge tot ce este planificat în calendarul meu.,calendar_remove,2
+451,,Ce fel de condimente folosim pentru a da gust la ciorba de burtă?,cooking_recipe,3
+452,,Vreau să ştiu când începe primăvara.,weather_query,9
+453,,Scrie și trimite un email de bun venit noului angajat în companie.,email_sendemail,5
+454,,trimite un email fratelui meu și întreabă-l dacă este liber sâmbătă seara,email_sendemail,5
+455,,îmi poți da sfaturi pentru un film SF recent?,recommendation_movies,7
+456,,îmi place actorul Johnny Depp și aş dori să îl văd într-un film nou,recommendation_movies,7
+457,,Îmi poți recomanda un film de aventură care rulează în prezent?,recommendation_movies,7
+458,,continuă să redai povestea lui Ilf și Petrov,play_audiobook,6
+459,,câte alarme mai am setate azi,alarm_query,0
+460,,cum putem gati iahnie de fasole în slow cooker,cooking_recipe,3
+461,,rezervă-mi doi bilete de tren spre Constanța pentru weekend,transport_ticket,8
+462,,Începe un email către departamentul de resurse umane și solicită informații despre posturile vacante.,email_sendemail,5
+463,,unde pot găsi biletele de metrou în acest oraş,transport_ticket,8
+464,,Este înnorat în Bucureşti azi?,weather_query,9
+465,,poate să îmi rezervați un bilet de autocar spre craiova?,transport_ticket,8
+466,,"Dacă acum sunt 11 noaptea în Paris, cât e ora în Timișoara?",datetime_convert,4
+467,,poti sa mi sugesti un film de aventura,recommendation_movies,7
+468,,"Dacă acum e două după-amiaza în Berlin, cât e ora în Iaşi?",datetime_convert,4
+469,,Eliminați întreaga zi din calendarul meu.,calendar_remove,2
+470,,cine e cel mai bun film de dragoste lansat anul acesta?,recommendation_movies,7
+471,,"volumul e prea ridicat, te rog să-l reduci puțin",audio_volume_down,1
+472,,cumperă un bilet de autocar pentru mine și prietenul meu,transport_ticket,8
+473,,îmi trebuie un bilet de tren pentru mâine,transport_ticket,8
+474,,vreau să rezerv un bilet de autocar spre Constanța,transport_ticket,8
+475,,puteți să reîncepem să redăm cartea audio de la început?,play_audiobook,6
+476,,Cât timp trebuie să lasăm să se răcească cremeșteii înainte de a-i coace?,cooking_recipe,3
+477,,Câte grade sunt afară în acest moment?,weather_query,9
+478,,Vreau să vizionez un film SF în seara asta. Ce mi-ai recomanda?,recommendation_movies,7
+479,,o reteta usoara pentru prajitura de cartofi,cooking_recipe,3
+480,,te rugăm să trimită un email la familia mea și să le spui că ne vedem în weekend,email_sendemail,5
+481,,Stergeți toate programările medicale din acest sezon din calendarul meu.,calendar_remove,2
+482,,îmi trebuie un bilet de tren până la timișoara,transport_ticket,8
+483,,poți să scadăți un pic volumul?,audio_volume_down,1
+484,,E posibil să facem picnic azi cu timpul acesta?,weather_query,9
+485,,Mă poti ajuta să găsesc toate alarmele mele active?,alarm_query,0
+486,,Recomandă-mi un film de acțiune nou apărut!,recommendation_movies,7
+487,,vreau să trimit un email celor din departamentul de marketing,email_sendemail,5
+488,,"e prea zgomot, reduce volumul!",audio_volume_down,1
+489,,Spune-mi prognoza meteo pentru weekend.,weather_query,9
+490,,"dă-i un pic în jos cu volumul, te rog!",audio_volume_down,1
+491,,reluă redarea cărți audio de la pagina 10,play_audiobook,6
+492,,Mi-ai setat vreo alarmă nouă ieri seara?,alarm_query,0
+493,,trimite un email celor doi parteneri nostrii pentru a le multumi pentru colaborare,email_sendemail,5
+494,,"mie îmi plac filmele SF, ai vreo recomandare?",recommendation_movies,7
+495,,Poti să-mi dai detalii despre vremea din Brașov pentru ziua de mâine?,weather_query,9
+496,,"În România sunt două după-amiaza, cât e ora în Istanbul?",datetime_convert,4
+497,,reîncepe să citești ultimul capitol al cărții,play_audiobook,6
+498,,Găsește o rețetă simplă și rapidă pentru prăjiturile cu cremă de zahăr?,cooking_recipe,3
+499,,Anulați evenimentul de azi din calendarrul meu.,calendar_remove,2
+500,,Ce alarme sunt active în acest moment?,alarm_query,0
+501,,Pot să îmi arăți lista cu toate alarmele setate?,alarm_query,0
+502,,Cine e cel mai bun film horror din ultimul an?,recommendation_movies,7
+503,,sunetul e prea puternic dă-i un pic înapoi,audio_volume_down,1
+504,,Arată-mi toate alarmele pe care le-am creat.,alarm_query,0
+505,,Te rog spunemi cum va fi vremea în Cluj Napoca până sâmbătă.,weather_query,9
+506,,Anulați toată agendă pentru săptămâna aceasta și începeți de la zero.,calendar_remove,2
+507,,"Caut un film romantic pentru seara asta, ai vreo sugestie?",recommendation_movies,7
+508,,începe să citești primul capitol al cărții audio,play_audiobook,6
+509,,"e prea zgomot în cameră, micșorează volumul",audio_volume_down,1
+510,,Anulați evenimentul de azi din agendă!,calendar_remove,2
+511,,Recomandă-mi un film nou apărut pe Netflix!,recommendation_movies,7
+512,,cât costă un bilet de avion spre frankfurt?,transport_ticket,8
+513,,pot să îmi faci o rezervare pentru un bilet de tren spre constanța?,transport_ticket,8
+514,,Transformă ora 14:30 din GMT+2 în ora locală a Bucureștiului.,datetime_convert,4
+515,,te rugam sa transmiti o notificare prin email celor din departamentul resurse umane,email_sendemail,5
+516,,cat de mult timp trebuie sa gatesti un pulpet de pui,cooking_recipe,3
+517,,Goleșiți calendarul meu pentru săptămâna aceasta.,calendar_remove,2
+518,,"Dacă este 9 am în Berlin, cât e ora în Craiova?",datetime_convert,4
+519,,Care este temperatura afară acum?,weather_query,9
+520,,Goliți-vă calendarul de toate evenimentele vechi pentru luna trecută.,calendar_remove,2
+521,,"e prea tare, micșoră-l!",audio_volume_down,1
+522,,Raspunde la email-ul primarului trimis ieri si spune-i ca sunt interesat de propunerea lor.,email_sendemail,5
+523,,reîncepem să ascultăm povestirea de dragoste,play_audiobook,6
+524,,Mă poti ajuta să gasesc toate alarmele mele?,alarm_query,0
+525,,ești prea în gândiți să reduceți volumul,audio_volume_down,1
+526,,Poti sa imi spuneti daca va fi frig în iarna aceasta?,weather_query,9
+527,,vreau să trimit un email lui maria și să o întreb dacă este liberă azi seară,email_sendemail,5
+528,,puteți să-mi convertiți ora douăzeci și unu noaptea din zona asiatică în ora zonei europene centrale,datetime_convert,4
+529,,Pot să îmi arătați lista tuturor alarmlor mele?,alarm_query,0
+530,,Poți să îmi arăți toate alarmele setate?,alarm_query,0
+531,,Te rog să transformi ora nouăsprezece și patruzeci și cinci minute din G.M.T. în E.S.T.,datetime_convert,4
+532,,care este secretul unei creme branza perfecte,cooking_recipe,3
+533,,Poți să îmi recomanzi un film horror pe care nu l-am văzut?,recommendation_movies,7
+534,,mai încet cu volumul vă rog,audio_volume_down,1
+535,,puteți să îl reduceți la jumătate?,audio_volume_down,1
+536,,Resetează și elimină toate notele din calendarul meu!,calendar_remove,2
+537,,"e prea tare, reduce volumul",audio_volume_down,1
+538,,reiați să citiți din nou cartea despre aventuri,play_audiobook,6
+539,,"încearcă să reducă volumul la jumătate, e prea mare pentru mine.",audio_volume_down,1
+540,,Poți să îmi spui ce temperatură este previzionată pentru ziua de mâine?,weather_query,9
+541,,Ce alarme am setat pentru următoarele zile?,alarm_query,0
+542,,trimite un email de confirmare la adresa de email a companiei pentru a finaliza comenzile,email_sendemail,5
+543,,"volumul e prea ridicat, scade-l",audio_volume_down,1
+544,,În ce fus orar suntem acum? Te rog să îl schimbi în cel al Parisului.,datetime_convert,4
+545,,În ce fus orar este Japonia și cum poate fi convertită ora ei în ora noastră?,datetime_convert,4
+546,,o să fie soare sau nori azi,weather_query,9
+547,,puteți să mi-l reduceți un pic volumul?,audio_volume_down,1
+548,,Care sunt ingredientele necesare pentru a face papanași?,cooking_recipe,3
+549,,poate fi că vom da volumul un pic mai încet?,audio_volume_down,1
+550,,Resetează și elimină tot ce este programat în calendarul meu.,calendar_remove,2
+551,,gasesc o reteta simpla pentru prajitura de cartofi,cooking_recipe,3
+552,,Ai vreo sugestie pentru un film pe care aş putea să-l vizionez în familia mea?,recommendation_movies,7
+553,,Ce fel de vreme ne așteaptă în București până la sfârșitul săptămânii?,weather_query,9
+554,,Sunt curios dacă ai setat vreo alarmă pentru evenimentul de sâmbătă.,alarm_query,0
+555,,"Trimite un mesaj electronic celor doi prieteni ai mei, spunand-le ca ne vedem sambata viitoare.",email_sendemail,5
+556,,începe un email către mama și spune-i că mă simt bine aici,email_sendemail,5
+557,,Caut un film de acțiune care să mă facă să mă simt bine.,recommendation_movies,7
+558,,"volumul este prea ridicat, poti sa il scadesti?",audio_volume_down,1
+559,,pot să primesc informații despre biletele de tren spre Cluj-Napoca?,transport_ticket,8
+560,,câte minute trebuie să gătesc carnea de miel,cooking_recipe,3
+561,,Măsură-te să recomanzi un film de acţiune nou!,recommendation_movies,7
+562,,Schimbă ora din zona de timp New York cu ora din zona de timp Berlin.,datetime_convert,4
+563,,"imi plac filmele lui Tarantino, poti sa mi sugerez unul",recommendation_movies,7
+564,,Pot să văd lista tuturor alarmerilor mele?,alarm_query,0
+565,,mă puteți ajuta să rezerve un bilet de avion către Paris,transport_ticket,8
+566,,dă-i volumul în jos puțin te rog,audio_volume_down,1
+567,,Şterge evenimentul de la sfârşitul săptămânii trecute,calendar_remove,2
+568,,Unde pot găsi rețetele pentru prăjiturele cu ciocolată?,cooking_recipe,3
+569,,cât costă un bilet de tramvai pentru o zi,transport_ticket,8
+570,,care este următoarea alarmă setată pentru azi,alarm_query,0
+571,,Redacteazã un raspuns la email-ul de la ana referitor la solicitarea ei de ajutor.,email_sendemail,5
+572,,te rog eliminați evenimentele personale din calendar,calendar_remove,2
+573,,redă înapoi la pagina 5,play_audiobook,6
+574,,mai e mult până când începe primăvara,weather_query,9
+575,,redă de la început cartea lui jules verne,play_audiobook,6
+576,,rezervă un bilet de autocar spre constanța mâine,transport_ticket,8
+577,,Care este ora primei alarme de astăzi?,alarm_query,0
+578,,puteam să-mi scad voumul un pic,audio_volume_down,1
+579,,trimite un mesaj elektronik lui radu și roagă-l să ne întâlnim joi la ora 5,email_sendemail,5
+580,,poți să îmi spună orele la care sunt setate alarmele mele,alarm_query,0
+581,,Care este ora primei alarme pe care am setat-o?,alarm_query,0
+582,,Va fi soare în București saptamana aceasta?,weather_query,9
+583,,oferă-mi opțiuni pentru bilete de tren spre Constanța,transport_ticket,8
+584,,Spuneți-mi ce prognoză meteo este pentru week-end.,weather_query,9
+585,,"Dacă acum este opt seara în România, cât e ora în Londra?",datetime_convert,4
+586,,Mă interesează ce alarme sunt activate acum.,alarm_query,0
+587,,îmi trebuie un bilet de metrou pentru zona centrală,transport_ticket,8
+588,,Schimbă fusul orar al Japoniei cu cel al Bucureștiului.,datetime_convert,4
+589,,cumperă-mi un bilet de tren spre Timișoara în weekend,transport_ticket,8
+590,,"Dacă este ora unu după-amiaza în Londra, atunci ce ora este în București?",datetime_convert,4
+591,,Schimbă ora locală cu ora din Londra.,datetime_convert,4
+592,,Ștergeți ultimul eveniment adăugat în calendarul meu!,calendar_remove,2
+593,,puteți trimite un email fratelui meu și spuneți-i să vină la mine în vizită,email_sendemail,5
+594,,Schimbă fusul orar al Parisului cu cel al New York-ului!,datetime_convert,4
+595,,Care este următoarea alarmă programată pentru mine?,alarm_query,0
+596,,eliberați-mă de toate angajamentele din acest week-end,calendar_remove,2
+597,,începeți să redați povestirea de dragoste din cărțile audio,play_audiobook,6
+598,,Poți să îmi recomanzi un film horror?,recommendation_movies,7
+599,,cât costă un bilet de tramvai pentru o zi întreagă?,transport_ticket,8
+600,,continuă să mă bucur de povestirea lui Ion Creangă,play_audiobook,6
+601,,câte alarme am setat înainte să plec,alarm_query,0
+602,,vreau să rezerv un bilet de tren spre Constanța pentru week-end,transport_ticket,8
+603,,poți să mă ajuteți să găsesc cele mai bune bilete de avion spre madrid?,transport_ticket,8
+604,,e prea tare scade puțin volumul,audio_volume_down,1
+605,,Poți să îmi arăți toate alarmele pe care le-am setat?,alarm_query,0
+606,,Anulați și eliminați toate întrunirile din acest lună!,calendar_remove,2
+607,,Anulați toate activitățile planificate până la sfârșitul lunii.,calendar_remove,2
+608,,"volumul este prea ridicat, micșoră-l",audio_volume_down,1
+609,,Ștergeți tot ce este înregistrat în calendarul meu.,calendar_remove,2
+610,,Arată-mi orele la care sunt setate alarmele mele.,alarm_query,0
+611,,continuă să citească din cartea audio în loc,play_audiobook,6
+612,,am nevoie de un bilet de tramvai pentru ruta 41,transport_ticket,8
+613,,Îmi poți spune dacă este setată alarma de trezire?,alarm_query,0
+614,,Stergeți evenimentul de la data de 15 mai din calendarul meu personal.,calendar_remove,2
+615,,dă-i volumul în jos!,audio_volume_down,1
+616,,e prea tare închide-o un pic,audio_volume_down,1
+617,,începe să redeați povestirea în format audio,play_audiobook,6
+618,,"sunetul e prea puternic, mi-ar plăcea să fie mai încet!",audio_volume_down,1
+619,,redeschide și continua să citească cartea în limba română,play_audiobook,6
+620,,volumul este mult prea ridicat scădeați-l puțin,audio_volume_down,1
+621,,Mai ești capabil să recomanzi un film SF nou apărut?,recommendation_movies,7
+622,,redă ultimul capitol al acestui audiobook,play_audiobook,6
+623,,"Dacă acum este 10 noaptea în New York, cât este ceasul în Timișoara?",datetime_convert,4
+624,,"În momentul în care e nouă noaptea în New York, cât e ora în Bucureşti?",datetime_convert,4
+625,,Eliminați întrunirea de luni și reprogramați-o pentru joi.,calendar_remove,2
+626,,reluati înregistrarea cartii pentru mine,play_audiobook,6
+627,,redă înapoi la pagina unde am întrerupt,play_audiobook,6
+628,,câte costă un bilet de tren dus-întors către constanța?,transport_ticket,8
+629,,resetează și elimină tot conținutul calendarului meu,calendar_remove,2
+630,,Anulați și ștergeți toate întrunirile programate pentru luna aceasta.,calendar_remove,2
+631,,Ești sigur că nu va fi frig azi?,weather_query,9
+632,,"sunt dispus să vizionez orice film care are loc în Paris, poți să mi-l recomezi?",recommendation_movies,7
+633,,"Stergeţi toate evenimentele de lucru din calendar!
+Elimină evenimentul de Crăciun din calendarul meu!
+Goleştă calendarul meu de toate evenimentele sociale!
+Resetări calendarul meu şi eliminaţi toate evenimentele vechi!
+Înlăturaţi toate evenimentele care au fost adaugate recent!",calendar_remove,2
+634,,pot să îmi rezerveți un bilet de avion spre Londra?,transport_ticket,8
+635,,vreau să trimit un email celor doi prieteni și să le urez ziua bună,email_sendemail,5
+636,,cumperă-mi un bilet de tren spre timisoara,transport_ticket,8
+637,,Cât de rece va fi diseară?,weather_query,9
+638,,-redă-mi capitolul 5 al cărți audio,play_audiobook,6
+639,,reia lectura cărții audio de unde am rămas,play_audiobook,6
+640,,sunetul e prea puternic reduce-l,audio_volume_down,1
+641,,începe să citești din nou cartea audio,play_audiobook,6
+642,,care este secretul pentru a face cea mai buna ciorba de burtă,cooking_recipe,3
+643,,vreau să rezerve un bilet de tren spre timisoara,transport_ticket,8
+644,,vreau sa trimiteti un email celor de la departamentul resurse umane,email_sendemail,5
+645,,Ștergeți evenimentul de săptămâna trecută din calendar.,calendar_remove,2
+646,,reiați redarea celui mai bun audiobook al anului trecut,play_audiobook,6
+647,,"dă-i jos puțin volumului, te rog!",audio_volume_down,1
+648,,Unde găsesc o rețetă simplă și delicioasă pentru clătite?,cooking_recipe,3
+649,,Cand este cel mai bun moment sa gatesc dovleceii?,cooking_recipe,3
+650,,Este timpul bun pentru o excursie în munții Carpați în zilele următoare?,weather_query,9
+651,,rezeră un bilet de avion pentru luna viitoare,transport_ticket,8
+652,,vreau să ştiu cum va fi vremea săptămâna aceasta,weather_query,9
+653,,pornește audiobook-ul și continui să-l audiez de unde am lăsat,play_audiobook,6
+654,,încearcă să găseşti un film care se află în top 10 pe imdb,recommendation_movies,7
+655,,cate feluri de carne sunt necesare pentru chili con carne,cooking_recipe,3
+656,,dă-i înapoi un pic volumului!,audio_volume_down,1
+657,,cauta un film pe care nu l-am vazut inca,recommendation_movies,7
+658,,Ai setat alarma pentru ora 7 dimineața?,alarm_query,0
+659,,"Dacă e unsprezece și douăzeci și cinci minute a.m. aici, cât e ora în Istanbul?",datetime_convert,4
+660,,Spuneți-mi dacă este setată alarma de la 7 dimineața.,alarm_query,0
+661,,poate să îmi spui despre vremea din Cluj pentru weekend,weather_query,9
+662,,Ce alarme sunt programate pentru astăzi?,alarm_query,0
+663,,reiați să mă bucur de povestirea acestei cărți audio,play_audiobook,6
+664,,Caut un film dramatic care a primit premii la festivaluri de film!,recommendation_movies,7
+665,,Sugereză-mi un film de dragoste pentru seara aceasta.,recommendation_movies,7
+666,,Care este temperatura afară în acest moment?,weather_query,9
+667,,"e prea tare, micșorați-l un pic",audio_volume_down,1
+668,,vreau să achiziționez un bilet de tramvai pentru o zi,transport_ticket,8
+669,,Schimbă fusul orar al Berlinului cu fusul orar al Viena.,datetime_convert,4
+670,,câte costă un bilet de tramvai în București?,transport_ticket,8
+671,,redă-mi capitolul trei din seria fantastică,play_audiobook,6
+672,,reține un loc pe primul tren spre Constanța mâine,transport_ticket,8
+673,,volumul e prea ridicat dă-i mai jos,audio_volume_down,1
+674,,dă-i un pic mai încet,audio_volume_down,1
+675,,cat timp trebuie sa gatesc pieptul de pui,cooking_recipe,3
+676,,redeschideși și reluă citirea înregistrării audio,play_audiobook,6
+677,,poți să îmi spui despre vremea de weekend?,weather_query,9
+678,,sunetul este prea puternic reduce-l,audio_volume_down,1
+679,,cum se prepara cel mai bun raciturilor de post,cooking_recipe,3
+680,,Care este următoarea alarmă setată pentru mine?,alarm_query,0
+681,,reteta pentru prajitura de ciocolata,cooking_recipe,3
+682,,Care este secretul unei creme brulee perfecte?,cooking_recipe,3
+683,,Ce fel de vreme vom avea în Constanța până sâmbătă?,weather_query,9
+684,,îmi poți arăta lista cu alarmele setate pentru astăzi,alarm_query,0
+685,,trimite un e-mail doamnei Popescu și roag-o să-mi ofere detalii suplimentare despre eveniment,email_sendemail,5
+686,,Cand si cum se adauga condimentele într-un bol de ciorba?,cooking_recipe,3
+687,,reîncepe să citești cartea audio,play_audiobook,6
+688,,Te rog să transformi ora douăsprezece şi un sfert PM din EST în CST.,datetime_convert,4
+689,,Eliminați evenimentul de pe 15 mai din calendarul meu.,calendar_remove,2
+690,,stergeți toată activitatea planificată pentru weekend,calendar_remove,2
+691,,vreau sa vizionez un film nou,recommendation_movies,7
+692,,vreau sa gatesc cea mai buna ciorba de burta,cooking_recipe,3
+693,,Care este temperatura aerului afară?,weather_query,9
+694,,Schimbă fusul orar al Londrei cu cel al Berlinului!,datetime_convert,4
+695,,Sugereză-mi un film cu Tom Hanks!,recommendation_movies,7
+696,,Ștergeți din calendar întâlnirea cu echipa de marketing.,calendar_remove,2
+697,,Cand si cum se adauga condimentele intr-un bol de supa crema?,cooking_recipe,3
+698,,Sunt setate vreo alarme pentru ora 7 dimineața?,alarm_query,0
+699,,gatesc eu înabusit iahnie cu smantana si mămăligă,cooking_recipe,3
+700,,e prea tare reduceți-l puțin,audio_volume_down,1
+701,,"În cazul în care este ora opt seara în Madrid, ce ora este în București?",datetime_convert,4
+702,,Eliminați programarea la medic pentru azi.,calendar_remove,2
+703,,vreau să rezerve un bilet de avion spre paris,transport_ticket,8
+704,,poate trimiteți un email lui bogdan și să-l anunțați despre evenimentul din weekend,email_sendemail,5
+705,,scrie un email lui alexandru si spune-i ca am gasit solutia problemei,email_sendemail,5
+706,,Caut o reteta simpla pentru cina astazi.,cooking_recipe,3
+707,,cum sa gatesti orezul perfect,cooking_recipe,3
+708,,Ce este prognoza meteo pentru weekend?,weather_query,9
+709,,volumul este prea ridicat scade-l puțin,audio_volume_down,1
+710,,reiați povestirea de ieri seară,play_audiobook,6
+711,,vreau să îmi arateți opțiuni de bilete de tren spre Timisoara,transport_ticket,8
+712,,Ai putea să-mi spună despre cel mai recent film de aventură?,recommendation_movies,7
+713,,trimiteti o scrisoare electronică lui alexandru și anunța-l despre evenimentul din weekend,email_sendemail,5
+714,,Este posibil să ningă în zona montană până sâmbătă?,weather_query,9
+715,,Care este ora exactă a primei alarme de astăzi?,alarm_query,0
+716,,Sunt setate vreo alarme pentru weekend?,alarm_query,0
+717,,Câte alarme mai am setate pentru astăzi?,alarm_query,0
+718,,vreau să ştiu prognoza pentru weekend,weather_query,9
+719,,Anulează toată ziua de azi din calendar,calendar_remove,2
+720,,Trimite un mesaj electronic fratelui meu în care să-l întrebi despre sănătate.,email_sendemail,5
+721,,Ai vreo idee de film pe care ar trebui să-l vizionez?,recommendation_movies,7
+722,,dacă e douăsprezece și jumătate în amsterdam atunci ce ora este în timișoara,datetime_convert,4
+723,,pornește de unde am rămas la carte,play_audiobook,6
+724,,Schimbă ora din Tokyo în ora locală din România.,datetime_convert,4
+725,,Resetează și elimină tot ce este înregistrat în calendarul meu.,calendar_remove,2
+726,,cum se prepara corect salata de boeuf,cooking_recipe,3
+727,,"În Cluj este 3 după-amiaza, cât e ora în Frankfurt?",datetime_convert,4
+728,,Anulați și eliminați toată programarea din calendarul meu.,calendar_remove,2
+729,,Transformă ora nouă și jumătate AM în ora Sydney-ului.,datetime_convert,4
+730,,Cum se prepara corect salata de boeuf?,cooking_recipe,3
+731,,rezervă un bilet de tren cu loc în vagoanele de clasă întâi spre timișoara,transport_ticket,8
+732,,"Dacă acum este unsprezece noaptea în Franța, ce ora este în București?",datetime_convert,4
+733,,cineva mi-a spus că ar fi bine să vizitez cinema city,recommendation_movies,7
+734,,Găsiți-mi o rețetă de post pentru sarmale de vara!,cooking_recipe,3
+735,,trimiteti un mesaj electronic prietenilor mei despre evenimentul din weekend,email_sendemail,5
+736,,Anulați toate programările din acest weekend.,calendar_remove,2
+737,,cât costă un bilet de metrou în București?,transport_ticket,8
+738,,dă-i volumul mai mic un pic,audio_volume_down,1
+739,,Poți să îmi arăți toate alarmele meu active?,alarm_query,0
+740,,reluăm lectura în locul unde am rămas,play_audiobook,6
+741,,cine are cele mai bune recomandări pentru weekend,recommendation_movies,7
+742,,dă-i în jos cu volumul,audio_volume_down,1
+743,,începe să citești cartea audio,play_audiobook,6
+744,,poți să scadă volumul un pic,audio_volume_down,1
+745,,Când începe primăvara anului acesta?,weather_query,9
+746,,O să înghețeți în weekend în București?,weather_query,9
+747,,vreau să vizionez un film SF nou apărut,recommendation_movies,7
+748,,rezervă un bilet de tren spre constanța mâine,transport_ticket,8
+749,,Te rog să transformi ora 14:45 din zona de timp a Berlinului în ora zonei de timp a Parisului.,datetime_convert,4
+750,,Goleșiți-vă calendarul până la sfârșitul săptămânii.,calendar_remove,2
+751,,e necesar să fie mai încet cu volumul acela,audio_volume_down,1
+752,,deschideți fila de lectură a cărții audio favorite,play_audiobook,6
+753,,În ce fus orar suntem? Te rog să-l schimbi în fusul orar al New York-ului.,datetime_convert,4
+754,,vreau să rezerv un bilet de tren spre Timișoara,transport_ticket,8
+755,,Ce alarme am setat pentru weekend?,alarm_query,0
+756,,reîncepe să citești cartea mea preferată de povești,play_audiobook,6
+757,,ce ingrediente sunt necesare pentru a face papanași,cooking_recipe,3
+758,,Redactează și trimite un mesaj de mulțumire lui Bogdan via email.,email_sendemail,5
+759,,Recomandă-mi un film nou apărut în cinema!,recommendation_movies,7
+760,,"scade volumul, e prea tare!",audio_volume_down,1
+761,,Care este starea vremii în Brașov în acest moment?,weather_query,9
+762,,Ce alarme am setat pentru săptămâna viitoare?,alarm_query,0
+763,,porniți înapoi cartea audio și continuați de unde am rămas,play_audiobook,6
+764,,"volumul e prea ridicat, ar fi bine să îl dai un pic în jos!",audio_volume_down,1
+765,,vreau să ştiu cât de rece va fi mâine!,weather_query,9
+766,,Te rog să trimiti o scrisoare electronică prietenilor mei pentru a le anunța evenimentul.,email_sendemail,5
+767,,Vreau să ştiu cum va fi vremea mâine.,weather_query,9
+768,,Te rog să transformi ora doisprezece și un sfert din zona Pacificului în ora Europei Centrale.,datetime_convert,4
+769,,când pot rezerva biletele de tren pentru weekend?,transport_ticket,8
+770,,Este vreo şansă să ningă în Bucureşti în weekend?,weather_query,9
+771,,Mă întreb dacă este setată alarma pentru astăzi.,alarm_query,0
+772,,Sugereză-mi un film de aventură care a avut premiera recent!,recommendation_movies,7
+773,,Care este ultima alarmă pe care am setat-o?,alarm_query,0
+774,,Schimbă fusul orar al Londrei cu fusul orar al New York-ului.,datetime_convert,4
+775,,îl faci prea tare da-i mai încet,audio_volume_down,1
+776,,reteta clasică pentru ciorba de burtă,cooking_recipe,3
+777,,sugereză-mi un film pe care nu l-am vazut niciodată,recommendation_movies,7
+778,,înlăturați evenimentul de azi din calendar,calendar_remove,2
+779,,Recomandă-mi un film care a avut premiera recent!,recommendation_movies,7
+780,,roagă-l pe alexa să trimită un email la birou cu detalii despre întrunire,email_sendemail,5
+781,,mi-ar place să rezerv un bilet de metrou spre centrul orașului,transport_ticket,8
+782,,Poti să mi dai prognoza meteo pentru săptămâna viitoare în Constanța?,weather_query,9
+783,,reluaiți să ascultați înregistrarea despre spiritualitate,play_audiobook,6
+784,,reiați să citim cartea despre vânătoare de comori,play_audiobook,6
+785,,o reteta simpla pentru salata de boeuf,cooking_recipe,3
+786,,o să fie frig în Bucureşti peste două zile?,weather_query,9
+787,,Poți să îmi spui dacă va fi soare sau nori astăzi?,weather_query,9
+788,,volumul e prea ridicat dă-l mai încet,audio_volume_down,1
+789,,unde pot găsi biletele de autobuz pentru ruta bucurești-pitești,transport_ticket,8
+790,,Ai vreo recomandare pentru un film care a câștigat premii?,recommendation_movies,7
+791,,Goliți calendarul meu de toate evenimentele personale!,calendar_remove,2
+792,,Ce temperatură are afară acum?,weather_query,9
+793,,"Dacă acum este unsprezece noaptea în Londra, cât e ora în București?",datetime_convert,4
+794,,Puteți să îmi sugerați un film pentru weekend?,recommendation_movies,7
+795,,Poți să îmi sugerez un film nou apărut?,recommendation_movies,7
+796,,"Dacă acum este unsprezece noaptea în România, cât este ora în Tokyo?",datetime_convert,4
+797,,reîncepe să citească în locul unde am rămas,play_audiobook,6
+798,,te rog să redactezi un răspuns la email-ul lui alexandru,email_sendemail,5
+799,,Poți să îmi arăți lista completă a alarmelor mele?,alarm_query,0
+800,,recomanda mi-un film cu tom hanks,recommendation_movies,7
+801,,"Dacă acum este douăsprezece şi jumătate noaptea în România, cât e ora în Japonia?",datetime_convert,4
+802,,îmi trebuie un bilet de metrou pentru centrul orașului,transport_ticket,8
+803,,Poti sa gasesc un film de dragoste pe care să-l pot viziona azi?,recommendation_movies,7
+804,,recomanda mi-un film de aventură cu Tom Hanks,recommendation_movies,7
+805,,Spuneți-mi ce vreme vom avea în Brașov până sâmbătă!,weather_query,9
+806,,continuă să mă bucur de cartea audio favorită,play_audiobook,6
+807,,Cum se prepară cel mai bun sos de smântână pentru mămăligă?,cooking_recipe,3
+808,,"volumul este prea mare, micșorăți-l",audio_volume_down,1
+809,,Anulați și eliminați toate evenimentele personale din calendar!,calendar_remove,2
+810,,Pot să îmi arăți toate alarmele setate pentru săptămâna aceasta?,alarm_query,0
+811,,Ce ore au fost setate alarmele pentru azi?,alarm_query,0
+812,,arată-mi ofertele pentru biletele de tren spre Cluj Napoca,transport_ticket,8
+813,,pornește și redă-mi ultimul capitol al cărții audio favorite,play_audiobook,6
+814,,când pot să îl iau pe biletul meu de avion,transport_ticket,8
+815,,Ce alarme sunt programate să sune astăzi?,alarm_query,0
+816,,Care este secretul pentru a face cel mai bun papanas?,cooking_recipe,3
+817,,Scrie un email catre colegii tai din echipa si anunta-i ca vom avea o sedinta azi dupa-amiaza.,email_sendemail,5
+818,,cumperă-mi un bilet de tren spre Constanța,transport_ticket,8
+819,,Care dintre aceste alarme este prima care sună?,alarm_query,0
+820,,vreau sa trimit un email prietenilor mei pentru a le da vestea buna,email_sendemail,5
+821,,trimite un email de confirmare lui bogdan despre rezervarea biletelor de avion,email_sendemail,5
+822,,vând bilete de autobuz pentru ruta București-Iași,transport_ticket,8
+823,,începe un email către director și spune-le că am ajuns deja acolo,email_sendemail,5
+824,,mai încet cu muzica te rog,audio_volume_down,1
+825,,vreau să primesc oferte pentru biletele de tren spre timișoara,transport_ticket,8
+826,,continuă să mă învețești despre istorie prin această carte audio,play_audiobook,6
+827,,În ce fus orar suntem? Te rog să-l schimbi în fusul orar al României.,datetime_convert,4
+828,,E posibil să ningă în weekend în zona montană?,weather_query,9
+829,,reteta traditionala pentru sarmale romaneasca,cooking_recipe,3
+830,,Resetează și elimină toate intrările din calendarul meu actual.,calendar_remove,2
+831,,Trimiteti un email familiei pentru a le spune ca am ajuns bine acasa,email_sendemail,5
+832,,Sugerez un film nou și interesant!,recommendation_movies,7
+833,,cumperă un bilet de tren spre Cluj-Napoca înainte de Crăciun,transport_ticket,8
+834,,"Dacă acum este 3:45 PM în Los Angeles, cât e ora în Timișoara?",datetime_convert,4
+835,,"ești prea obraznic, scade volumul puțin!",audio_volume_down,1
+836,,Te rog spune-mi ce ora este acum în Sydney dacă aici este 10 noaptea?,datetime_convert,4
+837,,în ce zi din săptămână vom avea soare?,weather_query,9
+838,,cumperă-mi un bilet de tren spre constanța,transport_ticket,8
+839,,îmi poți rezerva un bilet de metrou pentru mâine?,transport_ticket,8
+840,,Spune-mi cât de însorit va fi vremea în Constanța vara aceasta.,weather_query,9
+841,,mie place să primesc recomandări de filme noi și interesante!,recommendation_movies,7
+842,,ștergeți din agendă vizita la medicului pentru luna aceasta,calendar_remove,2
+843,,Îmi poți spune ce ore sunt setate alarmele pentru azi?,alarm_query,0
+844,,anulează evenimentul de mâine și îl reprogramăm pentru săptămâna viitoare,calendar_remove,2
+845,,reiați să citiți cartea audio pentru mine vă rog,play_audiobook,6
+846,,reiați redarea cărții pentru mine,play_audiobook,6
+847,,Poți să îmi arăți lista cu toate alarmele mele?,alarm_query,0
+848,,Care este ora la care trebuie să se activeze alarma?,alarm_query,0
+849,,reluare audiobook în loc să mă plictisesc,play_audiobook,6
+850,,Goliți calendarul meu pentru săptămâna aceasta.,calendar_remove,2
+851,,Începe un email către colegii tăi prin care să le mulțumești pentru ajutor.,email_sendemail,5
+852,,Care este temperatura aerului în Cluj-Napoca azi?,weather_query,9
+853,,redă prima parte a cărți audio pentru mine,play_audiobook,6
+854,,Stergeți toate întâlnirile din acest weekend din calendarul meu.,calendar_remove,2
+855,,În ce fus orar suntem? Te rog să îl transformi în cel al Timișoarei.,datetime_convert,4
+856,,e necesar să reducem nivelul sonor,audio_volume_down,1
+857,,Am uitat să închid alarma de ieri seară.,alarm_query,0
+858,,pot să îmi rezerve un bilet de autobuz pentru mâine dimineață?,transport_ticket,8
+859,,Ce alarme sunt activate în acest moment?,alarm_query,0
+860,,Te rog să transformi ora 10:45 AM din zona Pacificului în ora României.,datetime_convert,4
+861,,reteta traditionala pentru mamaliga,cooking_recipe,3
+862,,Resetează și elimină toate notele din calendarul meu.,calendar_remove,2
+863,,Anulați toate evenimentele și reprogramați-le pentru săptămâna viitoare.,calendar_remove,2
+864,,trimite un email de confirmare catre clientii nostri,email_sendemail,5
+865,,"Dacă e şapte seara în Sydney, Australia, ce oră este în Timişoara?",datetime_convert,4
+866,,Cum se prepară sosul de smântână pentru mămăliguță?,cooking_recipe,3
+867,,vreau să îl ajut pe prietenul meu să-și rezerve un bilet de autocar spre constanța,transport_ticket,8
+868,,"În Australia este acum doisprezece și jumătate, cât e ora în Cluj-Napoca?",datetime_convert,4
+869,,am nevoie de un bilet de bus tur-retur între bucharest și brașov,transport_ticket,8
+870,,pot să îmi rezervi un bilet de tren spre timișoara mâine dimineață,transport_ticket,8
+871,,"Dacă e doisprezece noaptea în New York, ce ora este în Timișoara?",datetime_convert,4
+872,,Cand si cum se adauga condimentele in sosul bolognez?,cooking_recipe,3
+873,,reuiesc să îmi faci o rezervare pentru un bilet de tren spre Constanţa?,transport_ticket,8
+874,,"volumul e prea ridicat, scădeați-l vă rog",audio_volume_down,1
+875,,Puteți să îmi arateți lista tuturor alarinelor mele?,alarm_query,0
+876,,"mai încet cu muzica, te rog",audio_volume_down,1
+877,,goliti calendarul meu de toate evenimentele până la sfârșitul lunii,calendar_remove,2
+878,,Te rog să transformi ora 14:30 din zona PST în ora zonei CST.,datetime_convert,4
+879,,Puteți să îmi recomandați un film de animație pentru copii?,recommendation_movies,7
+880,,reteta traditionala pentru mamaliga cu smantana si cascaval,cooking_recipe,3
+881,,Poți să îmi spună ce alarme am setat pentru weekend?,alarm_query,0
+882,,poate mi spui cum va fi timpul peste două zile,weather_query,9
+883,,"e prea puternic, scade volumul",audio_volume_down,1
+884,,Cum se prepara cel mai delicios budinca de orez?,cooking_recipe,3
+885,,poți să îmi găsești biletele de tren disponibile spre Constanța?,transport_ticket,8
+886,,Goliți calendarul meu până la sfârșitul lunii.,calendar_remove,2
+887,,volumul este prea ridicat scade-l,audio_volume_down,1
+888,,citește-mi încă o dată pasajul preferat,play_audiobook,6
+889,,poti sa mi recomanzi un film nou,recommendation_movies,7
+890,,"Dacă acum este douăsprezece și jumătate ziua în Madrid, cât este ora în Cluj?",datetime_convert,4
+891,,puteți să-mi spuneți ce ora este acum în madrid dacă aici sunt opt dimineața,datetime_convert,4
+892,,Ce ore sunt setate alarmele pentru azi?,alarm_query,0
+893,,Ar fi bine să vizionăm un film de comedie astă seară!,recommendation_movies,7
+894,,"Dacă acum este opt și jumătate noaptea în Paris, cât e ora în București?",datetime_convert,4
+895,,Trimite un email lui Andreea și întreab-o dacă este disponibilă pentru o întâlnire joi.,email_sendemail,5
+896,,Cum se prepara sosul de tomate pentru paste?,cooking_recipe,3
+897,,Care este secretul unei supe de fasole gustoase?,cooking_recipe,3
+898,,Te rog să transformi ora nouă dimineața din zona Pacificului în ora zonei Moscova.,datetime_convert,4
+899,,"Dacă e ora trei dimineața aici, ce ora este în Sydney?",datetime_convert,4
+900,,reîncepe redarea cărții audio favorite,play_audiobook,6
+901,,golesc calendarul și încep de la zero,calendar_remove,2
+902,,Te rog să transformi ora curentă din UTC în ora Europei Centrale.,datetime_convert,4
+903,,unde pot găsi bilete de autobuz ieftine pentru Timişoara?,transport_ticket,8
+904,,"Dacă acum e şapte seara în Londra, cât e ora în Timişoara?",datetime_convert,4
+905,,te rog sa trimiti un email la prietenul meu cu informatii despre eveniment,email_sendemail,5
+906,,"poate fi și mai încet, te rog?",audio_volume_down,1
+907,,Schimbă ora locală cu ora Londrei.,datetime_convert,4
+908,,Eliminați evenimentul de la 15 mai și reschedulează-l pentru luni viitoare.,calendar_remove,2
+909,,"nu e nevoie de atâta zgomot, reduce volumul",audio_volume_down,1
+910,,ești sigur că e necesar să fie atât de tare? Mi-e zgomot în urechi.,audio_volume_down,1
+911,,Anulați programarea la medic pentru azi.,calendar_remove,2
+912,,imi plac filmele lui quentin tarantino poti sa mi recomanzi unul,recommendation_movies,7
+913,,duce volumul mai jos te rugăm,audio_volume_down,1
+914,,goliți lista de evenimente pentru săptămâna viitoare,calendar_remove,2
+915,,trimite o scrisoare electronica fratelui meu pentru a-l anunta ca vine acasa,email_sendemail,5
+916,,vreau să reluăm cartea audio despre vânătoare,play_audiobook,6
+917,,Vreau să știu cum va fi vremea sâmbătă.,weather_query,9
+918,,Poți să îmi arăți toate alarmele?,alarm_query,0
+919,,Mă întrebăm ce alarme sunt activate în acest moment.,alarm_query,0
+920,,Pot să văd lista tuturor alarinelor mele?,alarm_query,0
+921,,poti sa îmi recomanzi un film de acțiune care ruleaza acum la cinema,recommendation_movies,7
+922,,cât costă un bilet de tramvai pentru o călătorie?,transport_ticket,8
+923,,Spune-mi dacă va fi soare sau nori în București mâine!,weather_query,9
+924,,Eliminați evenimentul de weekend din agendă!,calendar_remove,2
+925,,Scrie un email către directorul general și prezintă propunerile pentru noul proiect.,email_sendemail,5
+926,,"Dacă sunt două după-amiaza în Londra, cât este ora în Cluj-Napoca?",datetime_convert,4
+927,,Goliți calendarul meu pentru săptămâna viitoare.,calendar_remove,2
+928,,care este secretul pentru a face cea mai buna pizza acasa,cooking_recipe,3
+929,,"Dacă este ora unsprezece noaptea în New York, cât este ceasul în Cluj-Napoca?",datetime_convert,4
+930,,Trimite un email la birou cu detalii despre întrunirea de azi-noapte.,email_sendemail,5
+931,,golește-l pe cel mai apropiat eveniment din agendă,calendar_remove,2
+932,,vreau să trimit un mesaj la prietenilor mei prin care să le urez ziua bunaței,email_sendemail,5
+933,,îmi trebuie un bilet de metrou până la stația Gara de Nord,transport_ticket,8
+934,,îmi poți arăta lista tuturor alarmlor setate,alarm_query,0
+935,,Te rog să transformi ora 14:30 din zona de timp New York în ora locală din Chișinău.,datetime_convert,4
+936,,Care este secretul unei mâncăruri de pește perfect gătite?,cooking_recipe,3
+937,,Spune-mi ce ore sunt setate alarmele pe telefonul meu?,alarm_query,0
+938,,reproduceți cartea lui jules verne,play_audiobook,6
+939,,reîncercați să vă întoarcem la lectura înregistrată anterior,play_audiobook,6
+940,,Unde gasesc reteta originala pentru sarmale?,cooking_recipe,3
+941,,am nevoie de ajutor pentru a rezerva un bilet de avion,transport_ticket,8
+942,,anulați și eliminați evenimentele repetitive,calendar_remove,2
+943,,redă capitolul următor al cărții audio,play_audiobook,6
+944,,redă-mi povestirea de dragoste din ultimul meu audiobook,play_audiobook,6
+945,,reînceperea citirii lui „enigma otiliei“ în format audio,play_audiobook,6
+946,,puteți să îmi dați detalii despre prognoza meteo pentru ziua de mâine,weather_query,9
+947,,Goleșiți calendarul meu și începeți de la zero.,calendar_remove,2
+948,,Am uitat ce alarme am setat pentru săptămâna viitoare.,alarm_query,0
+949,,Ce fel de ulei folosim pentru a praji carnea de vita?,cooking_recipe,3
+950,,Ștergeți întreaga zi din agenda mea.,calendar_remove,2
+951,,dă-i un pic mai încet cu muzica,audio_volume_down,1
+952,,Spuneți-mi despre toate alarmele pe care le-am setat ieri.,alarm_query,0
+953,,scade puțin volumul din difuzor,audio_volume_down,1
+954,,redă partea a doua a romanului istoric,play_audiobook,6
+955,,trimiteti un email doamnei Popescu cu detalii despre oferta speciala,email_sendemail,5
+956,,te rog sa compunem un email destinat parintelui meu pentru a-l intreba daca este bine,email_sendemail,5
+957,,Care este temperatura afara acum?,weather_query,9
+958,,Eliminați programarea la sala de sport pentru luna viitoare!,calendar_remove,2
+959,,"o zi foarte grea azi şi am nevoie de un film relaxant, poate o comedie romantică?",recommendation_movies,7
+960,,te rog sa redactezi un raspuns la email-ul lui bogdan referitor la problema tehnica,email_sendemail,5
+961,,întocmește un email pentru mama și tatăl meu și spune-le despre excursia planificată,email_sendemail,5
+962,,În ce fus orar sunt eu acum și cum poate fi transformat în ora României?,datetime_convert,4
+963,,Spune-mi dacă este setată alarma pentru întâlnirea de mâine.,alarm_query,0
+964,,cum se face siuja de miel în stil moldovenesc,cooking_recipe,3
+965,,Sugereză un film SF care mi-ar placea.,recommendation_movies,7
+966,,dați-mi drumul să aud cartea lui Jules Verne,play_audiobook,6
+967,,Ștergeți evenimentul de mâine din calendarul meu personal.,calendar_remove,2
+968,,redeschide și contină să mă faci să râd cu această carte audio hilară,play_audiobook,6
+969,,reîncepem să ascultăm cartea audio de la început,play_audiobook,6
+970,,Cât de rece va fi în Brașov până la sfârșitul săptămânii?,weather_query,9
+971,,vreau sa vad un film nou,recommendation_movies,7
+972,,Eliminați toate întrunirile planificate în ultima lună din calendar.,calendar_remove,2
+973,,rezervă-mi un bilet de tren cu loc în vagonul de dormit spre Viena,transport_ticket,8
+974,,vreau să aflăm care este temperatura maximă pentru azi,weather_query,9
+975,,cum se prepara sosul de racoritoare pentru paste,cooking_recipe,3
+976,,"Dacă acum este 3 pm în Tokyo, cât este ceasul în Cluj-Napoca?",datetime_convert,4
+977,,vreau să continui să aud cartea de dragoste,play_audiobook,6
+978,,ce fel de condimente sunt necesare pentru ciorba de burtă,cooking_recipe,3
+979,,"Stergeti toate evenimentele repetitive din calendar!
+Împuşcă tot ce este programat în calendarul meu!
+Eliminați toate evenimentele care sunt mai vechi de o săptămână!
+Goliti calendarul meu de toate evenimentele personale!
+Resetează calendarul meu şi eliminează toate evenimentele!",calendar_remove,2
+980,,Ce fel de vreme vom avea la mare săptămâna aceasta?,weather_query,9
+981,,reîncepe redarea celui mai bun audiobook de povești,play_audiobook,6
+982,,"Dacă acum este opt dimineața în Londra, cât e ora în București?",datetime_convert,4
+983,,E vreme bună pentru excursie azi?,weather_query,9
+984,,"puteți să reduceți volumul, e cam deranjant!",audio_volume_down,1
+985,,Trimiteti un email doamnei Popescu pentru a o felicita pentru ziua ei de nastere.,email_sendemail,5
+986,,scrie un email catre mama si tata pentru a le spune ca ma simt bine acolo,email_sendemail,5
+987,,îmi trebuie un bilet de metrou pentru centrul oraşului,transport_ticket,8
+988,,Care este rețeta perfectă pentru sarmalele de post?,cooking_recipe,3
+989,,Te rog să transformi ora 14:30 din zona Pacificului în ora Europei Centrale.,datetime_convert,4
+990,,"când vine vorba de filme, ce mi-ai recomanda?",recommendation_movies,7
+991,,Te rog sa trimiti un email lui maria pentru a o anunta despre eveniment,email_sendemail,5
+992,,întocmeşte un email pentru mama şi spune-i că mă gândesc la ea,email_sendemail,5
+993,,reîncepe să citești ultimul capitol al cărți audio,play_audiobook,6

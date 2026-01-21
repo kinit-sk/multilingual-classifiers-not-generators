@@ -1,0 +1,1967 @@
+,Unnamed: 0,text,intent,label
+0,0.0,Notify me whenever someone changes my alarm settings,alarm_query,0
+1,1.0,Do I have any alarms set during the night?,alarm_query,0
+2,2.0,Inform me about my evening alarms,alarm_query,0
+3,3.0,Are there any alarms set for this weekend?,alarm_query,0
+4,4.0,Recite back my entire alarm schedule.,alarm_query,0
+5,5.0,Give me a list of all my active alarms,alarm_query,0
+6,6.0,Summarize my monthly alarm usage statistics,alarm_query,0
+7,7.0,Why arent my alarms showing up here?,alarm_query,0
+8,8.0,Can you remind me of my alarm schedule?,alarm_query,0
+9,9.0,Provide me with a summary of my alarms,alarm_query,0
+10,10.0,Show me only my recurring alarms,alarm_query,0
+11,11.0,Can you tell me about my current alarms?,alarm_query,0
+12,12.0,Am I using multiple alarms at once?,alarm_query,0
+13,13.0,Show me only the repeating alarms.,alarm_query,0
+14,14.0,Can I prioritize certain alarms over others?,alarm_query,0
+15,15.0,What alarms did I set yesterday?,alarm_query,0
+16,16.0,Can I customize my alarm settings?,alarm_query,0
+17,17.0,Have I got any alarms going off during lunchtime?,alarm_query,0
+18,18.0,Summarize my weekly alarm pattern.,alarm_query,0
+19,19.0,Could you display only the repeating alarms?,alarm_query,0
+20,20.0,What alarms were triggered recently?,alarm_query,0
+21,21.0,Has anyone accessed my alarm settings recently?,alarm_query,0
+22,22.0,Recommend optimal alarm intervals for better rest,alarm_query,0
+23,23.0,Will I wake up early with these alarms?,alarm_query,0
+24,24.0,Tell me if I have any snoozed alarms.,alarm_query,0
+25,25.0,Describe my current alarm settings,alarm_query,0
+26,26.0,Whats the default alarm sound setting?,alarm_query,0
+27,27.0,Give me a summary of my alarms.,alarm_query,0
+28,28.0,Is there an alarm set for tonight?,alarm_query,0
+29,29.0,What happens when two or more alarms overlap?,alarm_query,0
+30,30.0,What time will my first alarm go off tomorrow?,alarm_query,0
+31,31.0,Explain why certain alarms didnt trigger.,alarm_query,0
+32,32.0,Is there an option to snooze multiple alarms at once?,alarm_query,0
+33,33.0,Show me all my upcoming alarms,alarm_query,0
+34,34.0,Are there any alarms set during my sleep hours?,alarm_query,0
+35,35.0,Teach me how to customize alarm tones,alarm_query,0
+36,36.0,Are there any alarms still pending for today?,alarm_query,0
+37,37.0,Whats the most recent alarm I set?,alarm_query,0
+38,38.0,Whats the total number of alarms Ive set so far?,alarm_query,0
+39,39.0,Are there any alarms set for tonight?,alarm_query,0
+40,40.0,Do I have any recurring alarms?,alarm_query,0
+41,41.0,How many alarms do I have scheduled?,alarm_query,0
+42,42.0,Can Alexa tell me about my alarms?,alarm_query,0
+43,43.0,Let me know which alarm wakes me up the latest,alarm_query,0
+44,44.0,Can you show me my current alarms?,alarm_query,0
+45,45.0,Would it remind me about my appointments via alarm?,alarm_query,0
+46,46.0,Should I adjust my sleep schedule based on my alarms?,alarm_query,0
+47,47.0,Read aloud my daily alarm routine.,alarm_query,0
+48,48.0,Whats the status of my alarms?,alarm_query,0
+49,49.0,How long until my next alarm goes off?,alarm_query,0
+50,50.0,Can you delete expired alarms automatically?,alarm_query,0
+51,51.0,Tell me when my first alarm goes off tomorrow,alarm_query,0
+52,52.0,Whats the earliest alarm I have set?,alarm_query,0
+53,53.0,Instruct me on silencing specific alarms temporarily,alarm_query,0
+54,54.0,Should I adjust my bedtime due to alarms?,alarm_query,0
+55,55.0,When does my next alarm go off?,alarm_query,0
+56,56.0,Reveal hidden or secret alarms.,alarm_query,0
+57,57.0,Display all my scheduled alarms,alarm_query,0
+58,58.0,Are there any alarms set between 6-8 AM?,alarm_query,0
+59,59.0,Can I view my entire alarm history?,alarm_query,0
+60,60.0,Provide me with my daily alarm schedule,alarm_query,0
+61,61.0,Are there any recurring alarms set?,alarm_query,0
+62,62.0,What was the last alarm I turned off?,alarm_query,0
+63,63.0,Am I going to oversleep without an alarm?,alarm_query,0
+64,64.0,What time do I need to get up according to my alarms?,alarm_query,0
+65,65.0,Why did my alarm fail to trigger yesterday?,alarm_query,0
+66,66.0,Whats the average duration between my alarms?,alarm_query,0
+67,67.0,Count how many alarms I have for each day.,alarm_query,0
+68,68.0,Are there any alarms set within the next hour?,alarm_query,0
+69,69.0,Provide me with a list of all my alarms.,alarm_query,0
+70,70.0,Is there an alarm set for midnight?,alarm_query,0
+71,71.0,What time do I need to wake up tomorrow according to my alarm?,alarm_query,0
+72,72.0,List out all my alarms for this week.,alarm_query,0
+73,73.0,Check if I have any recurring alarms,alarm_query,0
+74,74.0,Are there any alarms set between 6-8 am?,alarm_query,0
+75,75.0,List out all the alarms Ive created so far,alarm_query,0
+76,76.0,Explain how to cancel an existing alarm,alarm_query,0
+77,77.0,How many alarms do I have set?,alarm_query,0
+78,78.0,Have I got any silent alarms set?,alarm_query,0
+79,79.0,Which alarms are currently enabled?,alarm_query,0
+80,80.0,When will my next alarm go off?,alarm_query,0
+81,81.0,Identify duplicate or redundant alarms.,alarm_query,0
+82,82.0,Show me my upcoming alarms.,alarm_query,0
+83,83.0,Highlight potential conflicts among my alarms.,alarm_query,0
+84,84.0,Can you show me all my alarms?,alarm_query,0
+85,85.0,List out all my current alarms,alarm_query,0
+86,86.0,In which days do I have more than one alarm set?,alarm_query,0
+87,87.0,Guide me through deleting old alarms permanently,alarm_query,0
+88,88.0,What alarms do I have set?,alarm_query,0
+89,89.0,How often do I typically hit the snooze button?,alarm_query,0
+90,90.0,Can I silence all my alarms temporarily?,alarm_query,0
+91,91.0,Do I have any silent alarms set?,alarm_query,0
+92,92.0,Did I accidentally disable an alarm?,alarm_query,0
+93,93.0,What alarms did I set?,alarm_query,0
+94,94.0,"Display all my active alarms, please",alarm_query,0
+95,95.0,Can I transfer my alarms to another device?,alarm_query,0
+96,96.0,Which days do I have alarms set for?,alarm_query,0
+97,97.0,Can you remind me when my alarm goes off?,alarm_query,0
+98,98.0,Am I supposed to wake up early tomorrow?,alarm_query,0
+99,99.0,Have I reached the maximum allowed alarms?,alarm_query,0
+100,100.0,"That song is way too loud, tone it down.",audio_volume_down,1
+101,101.0,"Dont blast the radio, keep it low.",audio_volume_down,1
+102,102.0,The radio is blasting; turn it down.,audio_volume_down,1
+103,103.0,"Reduce the noise level, its disturbing me.",audio_volume_down,1
+104,104.0,"Please mute it or something, its really loud.",audio_volume_down,1
+105,105.0,Would you mind turning down the stereo?,audio_volume_down,1
+106,106.0,"Thats too much bass, tone it down.",audio_volume_down,1
+107,107.0,"Tone down the bass, its overwhelming.",audio_volume_down,1
+108,108.0,Can you lower the music?,audio_volume_down,1
+109,109.0,"Make it less loud, Im trying to focus.",audio_volume_down,1
+110,110.0,May I request a slight reduction in loudness?,audio_volume_down,1
+111,111.0,"I need it softer, can you help?",audio_volume_down,1
+112,112.0,"Its too loud, reduce the volume.",audio_volume_down,1
+113,113.0,"Not so loud, grandmas sleeping.",audio_volume_down,1
+114,114.0,"Go easy on the amp, bro.",audio_volume_down,1
+115,115.0,Could you mute it or something?,audio_volume_down,1
+116,116.0,Please reduce the speaker volume now.,audio_volume_down,1
+117,117.0,Quit making such a racket!,audio_volume_down,1
+118,118.0,"Lower the TV volume, its disturbing me.",audio_volume_down,1
+119,119.0,"If you wouldnt mind, just a little softer.",audio_volume_down,1
+120,120.0,"Decrease the headphone volume, it hurts.",audio_volume_down,1
+121,121.0,Be gentle with the volume knob.,audio_volume_down,1
+122,122.0,"Lower the radio volume, thanks.",audio_volume_down,1
+123,123.0,"Its too loud, reduce the sound.",audio_volume_down,1
+124,124.0,"Not so loud, grandma is sleeping.",audio_volume_down,1
+125,125.0,"Make it softer, my ears hurt.",audio_volume_down,1
+126,126.0,"Keep it down, we have neighbors nearby.",audio_volume_down,1
+127,127.0,"Take it easy on the eardrums, okay?",audio_volume_down,1
+128,128.0,"Volume down, its hurting my ears.",audio_volume_down,1
+129,129.0,"This song is too loud, adjust the volume.",audio_volume_down,1
+130,130.0,"Too much bass, tone it down.",audio_volume_down,1
+131,131.0,"Bring down the decibel level, thanks.",audio_volume_down,1
+132,132.0,Reduce the noise level immediately.,audio_volume_down,1
+133,133.0,"For goodness sake, turn it down already!",audio_volume_down,1
+134,134.0,"Volume down, its hurting my ears!",audio_volume_down,1
+135,135.0,"Take it down a peg, will ya?",audio_volume_down,1
+136,136.0,"Dial it back, buddy; its too much.",audio_volume_down,1
+137,137.0,"Dont blast the music so loudly, okay?",audio_volume_down,1
+138,138.0,Shh! Some people are studying here.,audio_volume_down,1
+139,139.0,Bring the noise level down a bit.,audio_volume_down,1
+140,140.0,"Thats way too loud, bring it down.",audio_volume_down,1
+141,141.0,"Just calm down the overall volume, alright?",audio_volume_down,1
+142,142.0,"Diminish the background noise, thanks.",audio_volume_down,1
+143,143.0,Silence would be golden right now.,audio_volume_down,1
+144,144.0,"Lower the radio volume, its blasting.",audio_volume_down,1
+145,145.0,Would you mind keeping it down?,audio_volume_down,1
+146,146.0,"Music volume down, voices only.",audio_volume_down,1
+147,147.0,"Just bring it down to reasonable levels, okay?",audio_volume_down,1
+148,148.0,"The TV is blasting, can you turn it down?",audio_volume_down,1
+149,149.0,"Not so loud, grandma has a headache.",audio_volume_down,1
+150,150.0,Hush! Some of us are sleeping.,audio_volume_down,1
+151,151.0,"Keep it down, there are people sleeping nearby.",audio_volume_down,1
+152,152.0,"Cut back on the decibels, man!",audio_volume_down,1
+153,153.0,"Turn down the TV volume, please.",audio_volume_down,1
+154,154.0,Tone it down or use headphones.,audio_volume_down,1
+155,155.0,"Mom said to turn it down, so yeah...",audio_volume_down,1
+156,156.0,"Reduce the noise level, I beg of you.",audio_volume_down,1
+157,157.0,"Decrease the TV volume, please.",audio_volume_down,1
+158,158.0,"That song is way too loud, fix it.",audio_volume_down,1
+159,159.0,"Be gentle with the volume knob, friend.",audio_volume_down,1
+160,160.0,"Make it quieter, Im trying to focus.",audio_volume_down,1
+161,161.0,"A bit more subtle would be nice, thank you.",audio_volume_down,1
+162,162.0,"If you could keep it down, appreciate it.",audio_volume_down,1
+163,163.0,"We get it, but could you just chill with the volume?",audio_volume_down,1
+164,164.0,Decrease the music volume now.,audio_volume_down,1
+165,165.0,Please mute it or turn it down low.,audio_volume_down,1
+166,166.0,"A little softer, if you dont mind.",audio_volume_down,1
+167,167.0,A little less volume would be nice.,audio_volume_down,1
+168,168.0,"Keep the ruckus to a minimum, guys.",audio_volume_down,1
+169,169.0,Decrease the speaker output by half.,audio_volume_down,1
+170,170.0,"For Petes sake, keep it down!",audio_volume_down,1
+171,171.0,"My ears are sensitive, keep it soft.",audio_volume_down,1
+172,172.0,My ears are ringing; make it softer.,audio_volume_down,1
+173,173.0,"For the love of peace, quiet down!",audio_volume_down,1
+174,174.0,Lower the voice assistants volume.,audio_volume_down,1
+175,175.0,Dont blast the music so loudly.,audio_volume_down,1
+176,176.0,Could you quieten down the stereo?,audio_volume_down,1
+177,177.0,"We dont want to disturb others, keep it soft.",audio_volume_down,1
+178,178.0,"This song is too loud, fix it.",audio_volume_down,1
+179,179.0,Please adjust the headphones volume.,audio_volume_down,1
+180,180.0,"Tone it down, I need peace.",audio_volume_down,1
+181,181.0,"Youre being too loud, quieten down.",audio_volume_down,1
+182,182.0,"Dial it back, buddy; its getting out of hand.",audio_volume_down,1
+183,183.0,Would you mind turning down the amp?,audio_volume_down,1
+184,184.0,Your voice carries; speak more quietly.,audio_volume_down,1
+185,185.0,"Soften the music, its overwhelming.",audio_volume_down,1
+186,186.0,Could you mute it slightly?,audio_volume_down,1
+187,187.0,"Volume down, please, its disturbing me.",audio_volume_down,1
+188,188.0,"Soften up the sound, its piercing my eardrums.",audio_volume_down,1
+189,189.0,This podcast is too loud; fix it.,audio_volume_down,1
+190,190.0,Bring the decibel level down a notch.,audio_volume_down,1
+191,191.0,"No more loud outbursts, okay?",audio_volume_down,1
+192,192.0,"The volume is too high, fix it.",audio_volume_down,1
+193,193.0,"Bring the decibels down, thanks.",audio_volume_down,1
+194,194.0,"Calm down the background noise, thanks.",audio_volume_down,1
+195,195.0,Put the volume on silent mode.,audio_volume_down,1
+196,196.0,"The music is blasting, tone it down.",audio_volume_down,1
+197,197.0,Your laughter is carrying over; pipe down.,audio_volume_down,1
+198,198.0,"Make it quiet, Im trying to focus.",audio_volume_down,1
+199,199.0,"Take it down a peg, would ya?",audio_volume_down,1
+200,200.0,how do i remove duplicates from my schedule?,calendar_remove,2
+201,201.0,Remove the unconfirmed bookings from my calendar,calendar_remove,2
+202,202.0,request cancellation of group events,calendar_remove,2
+203,203.0,erase last weeks entries,calendar_remove,2
+204,204.0,Remove the expired coupons from my calendar,calendar_remove,2
+205,205.0,remove july 15th event from calendar,calendar_remove,2
+206,206.0,Remove the weekly team meeting from my calendar,calendar_remove,2
+207,207.0,Cancel the charity event from my calendar,calendar_remove,2
+208,208.0,Can I delete recurring events?,calendar_remove,2
+209,209.0,Clear my evening schedule for the weekend,calendar_remove,2
+210,210.0,cancel everything after 5 pm today,calendar_remove,2
+211,211.0,reverse erroneous bookings,calendar_remove,2
+212,212.0,remove the doctors visit from my diary,calendar_remove,2
+213,213.0,Take off Johns wedding from my calendar,calendar_remove,2
+214,214.0,Get rid of yesterdays reminders from my calendar,calendar_remove,2
+215,215.0,remove the hidden events from my view,calendar_remove,2
+216,216.0,repudiate pending invitations,calendar_remove,2
+217,217.0,eradicate last months calendar data,calendar_remove,2
+218,218.0,whats the best way to purge unwanted events?,calendar_remove,2
+219,219.0,please cancel tomorrows conference call,calendar_remove,2
+220,220.0,delete the reminder about the project deadline,calendar_remove,2
+221,221.0,Delete the unnecessary reminders from my calendar,calendar_remove,2
+222,222.0,Take away the anniversary celebration from my calendar,calendar_remove,2
+223,223.0,Remove the job interview from my calendar,calendar_remove,2
+224,224.0,Cancel my dinner plans for tonight,calendar_remove,2
+225,225.0,surrender planned outings,calendar_remove,2
+226,226.0,abandon saved dates,calendar_remove,2
+227,227.0,Remove the incorrect phone number from my calendar,calendar_remove,2
+228,228.0,void previous arrangements,calendar_remove,2
+229,229.0,erase the training sessions from my calendar,calendar_remove,2
+230,230.0,wipe clean my weekly schedule,calendar_remove,2
+231,231.0,take away the family gathering from my calendar,calendar_remove,2
+232,232.0,take away saturday morning yoga session,calendar_remove,2
+233,233.0,remove the repeated notifications,calendar_remove,2
+234,234.0,Eradicate the old entries from my calendar,calendar_remove,2
+235,235.0,annihilate unnecessary commitments,calendar_remove,2
+236,236.0,Cancel the volunteer work from my calendar,calendar_remove,2
+237,237.0,delete this upcoming event,calendar_remove,2
+238,238.0,remove saturdays appointments,calendar_remove,2
+239,239.0,How do I get rid of duplicate events?,calendar_remove,2
+240,240.0,delete all past appointments,calendar_remove,2
+241,241.0,Delete the completed tasks from my calendar,calendar_remove,2
+242,242.0,Remove todays appointments from my calendar,calendar_remove,2
+243,243.0,get rid of old reminders,calendar_remove,2
+244,244.0,cancel my flight booking on thursday,calendar_remove,2
+245,245.0,revise conflicting appointments,calendar_remove,2
+246,246.0,Is it possible to clear just one specific date?,calendar_remove,2
+247,247.0,Remove Sarahs graduation ceremony from my calendar,calendar_remove,2
+248,248.0,cancel my yoga classes for the month,calendar_remove,2
+249,249.0,omit social engagements from calendar view,calendar_remove,2
+250,250.0,can you take out the movie night from my social calendar?,calendar_remove,2
+251,251.0,nullify all alarms,calendar_remove,2
+252,252.0,expunge outdated entries,calendar_remove,2
+253,253.0,retract sent invites,calendar_remove,2
+254,254.0,destroy obsolete calendar items,calendar_remove,2
+255,255.0,clear my evening plans,calendar_remove,2
+256,256.0,eliminate recurring events,calendar_remove,2
+257,257.0,Delete this weeks schedule from my calendar,calendar_remove,2
+258,258.0,rebuff unconfirmed appointments,calendar_remove,2
+259,259.0,Remove all upcoming birthdays from my calendar,calendar_remove,2
+260,260.0,How do I cancel a repeating event?,calendar_remove,2
+261,261.0,Erase last Fridays meetings from my calendar,calendar_remove,2
+262,262.0,roll back recent changes,calendar_remove,2
+263,263.0,clear my daily planner,calendar_remove,2
+264,264.0,Eliminate the conference call from my schedule,calendar_remove,2
+265,265.0,how do i erase recurring events?,calendar_remove,2
+266,266.0,delete the outdated events,calendar_remove,2
+267,267.0,Remove the irrelevant notifications from my calendar,calendar_remove,2
+268,268.0,remove birthday celebrations from calendar,calendar_remove,2
+269,269.0,drop scheduled tasks for the weekend,calendar_remove,2
+270,270.0,remove the staff meeting from every friday,calendar_remove,2
+271,271.0,remove the blocked time slots,calendar_remove,2
+272,272.0,clear my morning schedule,calendar_remove,2
+273,273.0,cancel my participation in the group project,calendar_remove,2
+274,274.0,please delete the team lunch from my agenda,calendar_remove,2
+275,275.0,Remove the travel itinerary from my calendar,calendar_remove,2
+276,276.0,abolish weekly team meetings,calendar_remove,2
+277,277.0,delete the cancelled flights from my itinerary,calendar_remove,2
+278,278.0,Remove the wrong address from my calendar entry,calendar_remove,2
+279,279.0,remove the company picnic from our shared calendar,calendar_remove,2
+280,280.0,delete upcoming appointments,calendar_remove,2
+281,281.0,rescind previously set reminders,calendar_remove,2
+282,282.0,cancel all meetings today,calendar_remove,2
+283,283.0,Delete the old passwords from my calendar notes,calendar_remove,2
+284,284.0,Cancel the gym membership renewal from my calendar,calendar_remove,2
+285,285.0,delete the unnecessary reminders,calendar_remove,2
+286,286.0,erase the suggested activities,calendar_remove,2
+287,287.0,recall mistaken bookings,calendar_remove,2
+288,288.0,empty my task list for the day,calendar_remove,2
+289,289.0,relinquish reserved slots,calendar_remove,2
+290,290.0,clear my monthly outlook,calendar_remove,2
+291,291.0,Clear my daily planner completely,calendar_remove,2
+292,292.0,Delete the cancelled trip from my calendar,calendar_remove,2
+293,293.0,erase this weeks schedule,calendar_remove,2
+294,294.0,clear my daily routines,calendar_remove,2
+295,295.0,scrub yesterdays activities,calendar_remove,2
+296,296.0,cancel the sales meeting scheduled for monday,calendar_remove,2
+297,297.0,obliterate unnecessary reminders,calendar_remove,2
+298,298.0,is there a way to delete multiple events at once?,calendar_remove,2
+299,299.0,forget about tuesday afternoon meeting,calendar_remove,2
+300,300.0,What spices do I need to add to make authentic Moroccan chili?,cooking_recipe,3
+301,301.0,Whats the secret to making perfect scrambled eggs?,cooking_recipe,3
+302,302.0,How do I poach eggs like a pro?,cooking_recipe,3
+303,303.0,How long does it take to roast chicken thighs at 400°F?,cooking_recipe,3
+304,304.0,Can you provide a simple recipe for spaghetti carbonara?,cooking_recipe,3
+305,305.0,How do I get rid of excess moisture in cooked spinach?,cooking_recipe,3
+306,306.0,Can you walk me through making homemade ravioli from scratch?,cooking_recipe,3
+307,307.0,Can you guide me through the process of curing bacon at home?,cooking_recipe,3
+308,308.0,How do I make homemade ricotta cheese using vinegar?,cooking_recipe,3
+309,309.0,Can you demonstrate how to chop fresh herbs efficiently?,cooking_recipe,3
+310,310.0,How do I cook quinoa perfectly every time?,cooking_recipe,3
+311,311.0,Can you walk me through the process of baking a perfect apple pie?,cooking_recipe,3
+312,312.0,Whats the ideal internal temp for cooked turkey?,cooking_recipe,3
+313,313.0,How do I achieve crispy skin when roasting pork belly?,cooking_recipe,3
+314,314.0,Can someone explain how to poach eggs properly?,cooking_recipe,3
+315,315.0,How long does it take to boil potatoes until theyre tender?,cooking_recipe,3
+316,316.0,Can you provide a simple recipe for guacamole?,cooking_recipe,3
+317,317.0,How do I prevent overmixing when making cookie dough?,cooking_recipe,3
+318,318.0,How do I prevent overmixing when making muffin batter?,cooking_recipe,3
+319,319.0,At what temperature should I set my oven for slow-cooked short ribs?,cooking_recipe,3
+320,320.0,How do I caramelize onions without burning them?,cooking_recipe,3
+321,321.0,Whats the best way to roast Brussels sprouts with garlic?,cooking_recipe,3
+322,322.0,Whats the recommended cooking time for hard-boiled eggs?,cooking_recipe,3
+323,323.0,Can you share your favorite smoothie bowl recipe?,cooking_recipe,3
+324,324.0,Can you recommend a good recipe for homemade pizza dough?,cooking_recipe,3
+325,325.0,How do I store leftover soup safely?,cooking_recipe,3
+326,326.0,How do I make creamy tomato soup from scratch?,cooking_recipe,3
+327,327.0,Can you help me with a basic vinaigrette dressing recipe?,cooking_recipe,3
+328,328.0,How do you make crispy fried chicken wings?,cooking_recipe,3
+329,329.0,"How do you achieve tender, fall-apart pork ribs?",cooking_recipe,3
+330,330.0,How do you ensure juicy burgers on the grill?,cooking_recipe,3
+331,331.0,Can you share a foolproof method for roasting chestnuts?,cooking_recipe,3
+332,332.0,"Whats the trick to getting fluffy, buttery mashed potatoes?",cooking_recipe,3
+333,333.0,How do I poach eggs perfectly every time?,cooking_recipe,3
+334,334.0,How do I clarify butter for making hollandaise sauce?,cooking_recipe,3
+335,335.0,What is the best way to grill steak?,cooking_recipe,3
+336,336.0,Whats the ratio of water to rice for fluffy white rice?,cooking_recipe,3
+337,337.0,Whats the secret to making crispy fried chicken wings?,cooking_recipe,3
+338,338.0,Can you show me how to chop fresh herbs like a pro?,cooking_recipe,3
+339,339.0,How long does it take to roast chicken at 400 degrees Fahrenheit?,cooking_recipe,3
+340,340.0,How long do I boil potatoes before mashing them?,cooking_recipe,3
+341,341.0,Can you recommend a good substitute for buttermilk in recipes?,cooking_recipe,3
+342,342.0,Can you share your favorite vegan quinoa salad recipe?,cooking_recipe,3
+343,343.0,Can someone recommend a good marinade for grilled steak?,cooking_recipe,3
+344,344.0,Whats the secret to baking moist banana bread?,cooking_recipe,3
+345,345.0,Whats the deal with tempering chocolate for dipping strawberries?,cooking_recipe,3
+346,346.0,Can you give me a recipe for vegan brownies?,cooking_recipe,3
+347,347.0,Can you guide me through braising short ribs step-by-step?,cooking_recipe,3
+348,348.0,Can you teach me basic knife skills for chopping veggies?,cooking_recipe,3
+349,349.0,Can you walk me through making homemade tortillas?,cooking_recipe,3
+350,350.0,Can I substitute olive oil with coconut oil in baked goods?,cooking_recipe,3
+351,351.0,How do I get rid of excess moisture in baked ziti?,cooking_recipe,3
+352,352.0,Whats the ideal internal temperature for medium-rare burgers?,cooking_recipe,3
+353,353.0,What ingredients do I need to make beef stroganoff?,cooking_recipe,3
+354,354.0,Can you provide a vegan substitute for honey in recipes?,cooking_recipe,3
+355,355.0,Can you teach me how to poach salmon fillets perfectly?,cooking_recipe,3
+356,356.0,Whats the best type of oil to use for frying fish?,cooking_recipe,3
+357,357.0,Can you walk me through making beef Wellington step by step?,cooking_recipe,3
+358,358.0,How do I make homemade pasta sauce?,cooking_recipe,3
+359,359.0,Can you show me how to assemble a charcuterie board?,cooking_recipe,3
+360,360.0,How do I achieve the perfect sear on a scallop?,cooking_recipe,3
+361,361.0,Can someone show me how to assemble a charcuterie board?,cooking_recipe,3
+362,362.0,How do I toast almonds evenly in the oven?,cooking_recipe,3
+363,363.0,Can you share a recipe for classic apple pie filling?,cooking_recipe,3
+364,364.0,How do I debone a whole chicken quickly and easily?,cooking_recipe,3
+365,365.0,Can you explain the concept of deglazing in cooking?,cooking_recipe,3
+366,366.0,At what temperature should I roast chicken breast?,cooking_recipe,3
+367,367.0,Whats the ratio of water to rice when cooking Japanese-style rice?,cooking_recipe,3
+368,368.0,Can you explain the art of braising short ribs?,cooking_recipe,3
+369,369.0,Can I use almond milk instead of regular milk in pancakes?,cooking_recipe,3
+370,370.0,Can you walk me through making beef Wellington?,cooking_recipe,3
+371,371.0,How do I convert a recipe from Celsius to Fahrenheit?,cooking_recipe,3
+372,372.0,Can you give me a recipe for homemade pasta sauce?,cooking_recipe,3
+373,373.0,Whats the ratio of water to rice when cooking white rice?,cooking_recipe,3
+374,374.0,Can someone share their favorite apple pie crust recipe?,cooking_recipe,3
+375,375.0,At what temperature should I grill steak for medium-rare?,cooking_recipe,3
+376,376.0,How do I make perfect scrambled eggs?,cooking_recipe,3
+377,377.0,How do I properly chop fresh herbs like parsley and cilantro?,cooking_recipe,3
+378,378.0,How do I clarify butter for sautéing vegetables?,cooking_recipe,3
+379,379.0,How do I toast spices to bring out their flavor?,cooking_recipe,3
+380,380.0,How do I toast almonds evenly without burning them?,cooking_recipe,3
+381,381.0,Whats the ideal internal temperature for cooked turkey breast?,cooking_recipe,3
+382,382.0,How do I make homemade ice cream without an ice cream maker?,cooking_recipe,3
+383,383.0,Can I freeze cooked soup for later reheating?,cooking_recipe,3
+384,384.0,Can you guide me through braising short ribs?,cooking_recipe,3
+385,385.0,Can you provide a simple recipe for banana bread muffins?,cooking_recipe,3
+386,386.0,Can you give me a recipe for homemade pizza dough?,cooking_recipe,3
+387,387.0,How do I make crispy fried chicken wings?,cooking_recipe,3
+388,388.0,How do I make beef stroganoff with egg noodles?,cooking_recipe,3
+389,389.0,Whats the best way to grill salmon fillets?,cooking_recipe,3
+390,390.0,At what temperature should I set my oven for roasting vegetables?,cooking_recipe,3
+391,391.0,Can you share your favorite recipe for vegan black bean tacos?,cooking_recipe,3
+392,392.0,How do I ensure juicy turkey breast during Thanksgiving dinner?,cooking_recipe,3
+393,393.0,How long does it take to boil potatoes?,cooking_recipe,3
+394,394.0,Whats the science behind tempering chocolate for dipping strawberries?,cooking_recipe,3
+395,395.0,Can you teach me how to whip heavy cream into stiff peaks?,cooking_recipe,3
+396,396.0,Can you explain how to temper chocolate?,cooking_recipe,3
+397,397.0,What ingredients do I need to make chicken fajitas?,cooking_recipe,3
+398,398.0,How do I prevent overmixing when making muffins?,cooking_recipe,3
+399,399.0,How do I whip heavy cream into stiff peaks?,cooking_recipe,3
+400,400.0,Tell me the time in Tokyo if its 5 pm cst.,datetime_convert,4
+401,401.0,Switch the timezone to Central European Summer Time.,datetime_convert,4
+402,402.0,Change my timezone to India Standard Time.,datetime_convert,4
+403,403.0,What time would it be in Rio de Janeiro if its 2 pm ct?,datetime_convert,4
+404,404.0,Interpret 2 pm art in est format.,datetime_convert,4
+405,405.0,Whats the time difference between Houston and Bogota?,datetime_convert,4
+406,406.0,What is the time difference between mountain standard time and central european summer time?,datetime_convert,4
+407,407.0,Convert 7 am cest to mt.,datetime_convert,4
+408,408.0,How many hours ahead is Seoul compared to San Francisco?,datetime_convert,4
+409,409.0,Is Berlin three hours ahead or behind Athens?,datetime_convert,4
+410,410.0,How many hours ahead of Chicago is London?,datetime_convert,4
+411,411.0,"If its 7 am utc, what time is it in Moscow?",datetime_convert,4
+412,412.0,What is the time difference between Paris and Sydney?,datetime_convert,4
+413,413.0,What time would it be in Rio de Janeiro if its 3 pm et?,datetime_convert,4
+414,414.0,"When its 1 pm in Toronto, what time is it in Vancouver?",datetime_convert,4
+415,415.0,Set my clock to Eastern Daylight Time.,datetime_convert,4
+416,416.0,Is Paris one hour ahead or behind Rome?,datetime_convert,4
+417,417.0,Give me the time in Cairo if its 2 pm est.,datetime_convert,4
+418,418.0,Convert 3 pm cst to pst.,datetime_convert,4
+419,419.0,Tell me the time in Hong Kong if its 2 pm cst.,datetime_convert,4
+420,420.0,Is it morning or afternoon in Paris if its 3 pm cst?,datetime_convert,4
+421,421.0,What is the hour difference between Santiago and Stockholm?,datetime_convert,4
+422,422.0,How many minutes behind is Hawaii compared to California?,datetime_convert,4
+423,423.0,Set the timezone to India Standard Time.,datetime_convert,4
+424,424.0,"If its 5 pm in Istanbul, what time is it in Cairo?",datetime_convert,4
+425,425.0,What time would it be in Santiago if its 3 pm et?,datetime_convert,4
+426,426.0,Can you convert 12 pm bst to edt?,datetime_convert,4
+427,427.0,Whats the time difference between San Francisco and Shanghai?,datetime_convert,4
+428,428.0,What is the time difference between central standard time and mountain daylight time?,datetime_convert,4
+429,429.0,"When its 3 pm in Amsterdam, what time is it in Berlin?",datetime_convert,4
+430,430.0,"When its 3 pm in Toronto, what time is it in Vancouver?",datetime_convert,4
+431,431.0,Express 8 am brt in cst terms.,datetime_convert,4
+432,432.0,Translate 1 pm pdt to cst.,datetime_convert,4
+433,433.0,"If its 2 pm cet, what time is it in Moscow?",datetime_convert,4
+434,434.0,Can you convert 12 pm edt to bst?,datetime_convert,4
+435,435.0,Convert 2 pm cet to pdt.,datetime_convert,4
+436,436.0,What is the time difference between Santiago and Bogota?,datetime_convert,4
+437,437.0,"If its 4 pm gmt, what time is it in Johannesburg?",datetime_convert,4
+438,438.0,"If Im in Los Angeles at 12 pm, what time is it in Mexico City?",datetime_convert,4
+439,439.0,Change my timezone to Australian Western Standard Time.,datetime_convert,4
+440,440.0,Convert 3 pm est to pst.,datetime_convert,4
+441,441.0,Adjust the clock to Australian Western Standard Time.,datetime_convert,4
+442,442.0,Shift the timezone to China Standard Time.,datetime_convert,4
+443,443.0,Convert 8 am brt to ct.,datetime_convert,4
+444,444.0,Can you set my phone to Pacific Standard Time?,datetime_convert,4
+445,445.0,"If its 11 am in Melbourne, what time is it in Auckland?",datetime_convert,4
+446,446.0,"If its 9 am in Denver, what time is it in Dallas?",datetime_convert,4
+447,447.0,Display the time in Istanbul if its 4 pm et.,datetime_convert,4
+448,448.0,Change the timezone to Central European Summer Time.,datetime_convert,4
+449,449.0,Can you tell me the time in Tokyo if its 5 pm est?,datetime_convert,4
+450,450.0,Convert 9 am bst to ast.,datetime_convert,4
+451,451.0,Change the timezone to Pacific Standard Time.,datetime_convert,4
+452,452.0,"When its 2 pm in Dallas, what time is it in Seattle?",datetime_convert,4
+453,453.0,"If its 5 pm in Austin, what time is it in Berlin?",datetime_convert,4
+454,454.0,Whats the time difference between Seattle and Seoul?,datetime_convert,4
+455,455.0,"If its 10 pm in Lima, what time is it in Quito?",datetime_convert,4
+456,456.0,"If Im in Dubai at 10 am, what time is it in Mumbai?",datetime_convert,4
+457,457.0,Convert 11 am jst to pst.,datetime_convert,4
+458,458.0,Can you set the clock to Pacific Standard Time?,datetime_convert,4
+459,459.0,"If its 7 am mt, what time is it in Houston?",datetime_convert,4
+460,460.0,Is it morning or afternoon in Beijing when its 11 pm est?,datetime_convert,4
+461,461.0,What is the matching time in Shanghai when its 3 pm mt?,datetime_convert,4
+462,462.0,What is the corresponding time in Rio de Janeiro when its 5 pm ct?,datetime_convert,4
+463,463.0,Tell me the time in Kuala Lumpur when its 9 am pt.,datetime_convert,4
+464,464.0,"If its 10 am in New York, what time is it in London?",datetime_convert,4
+465,465.0,What is the equivalent time in Sydney when its 11 pm et?,datetime_convert,4
+466,466.0,Tell me the time in Buenos Aires when its 10 am et.,datetime_convert,4
+467,467.0,Is Denver two hours behind or ahead of Miami?,datetime_convert,4
+468,468.0,What time would it be in Sydney if its 8 pm edt?,datetime_convert,4
+469,469.0,Tell me the time in Perth if its 2 pm awst.,datetime_convert,4
+470,470.0,Convert 9 am cet to est.,datetime_convert,4
+471,471.0,Whats the time difference between Dallas and Amsterdam?,datetime_convert,4
+472,472.0,Is Melbourne two hours ahead or behind Perth?,datetime_convert,4
+473,473.0,Provide the time in Athens if its 10 am et.,datetime_convert,4
+474,474.0,What time would it be in Dubai if its 12 pm gst?,datetime_convert,4
+475,475.0,Convert 1 pm jst to kst.,datetime_convert,4
+476,476.0,What is the time difference between Mexico City and Buenos Aires?,datetime_convert,4
+477,477.0,"When its 1 pm in Atlanta, what time is it in Charlotte?",datetime_convert,4
+478,478.0,Change the timezone to Indian Standard Time.,datetime_convert,4
+479,479.0,What is the time gap between Mexico City and Amsterdam?,datetime_convert,4
+480,480.0,"If its 9 pm in Johannesburg, what time is it in Nairobi?",datetime_convert,4
+481,481.0,What is the time difference between Denver and Beijing?,datetime_convert,4
+482,482.0,What is the time difference between Bangkok and Kuala Lumpur?,datetime_convert,4
+483,483.0,Tell me the time in Tokyo if its 5 am cst.,datetime_convert,4
+484,484.0,Show me the time in Moscow if its 10 am pt.,datetime_convert,4
+485,485.0,Convert 10 am gmt to est.,datetime_convert,4
+486,486.0,"If its 9 pm in Miami, what time is it in Vancouver?",datetime_convert,4
+487,487.0,Set the clock to Eastern Daylight Time.,datetime_convert,4
+488,488.0,"If its 1 pm in Phoenix, what time is it in Montreal?",datetime_convert,4
+489,489.0,Can you convert 12 pm jst to est?,datetime_convert,4
+490,490.0,Calculate the time difference between San Francisco and Mumbai.,datetime_convert,4
+491,491.0,How many hours ahead of Chicago is Beijing?,datetime_convert,4
+492,492.0,"If its 11 am in Phoenix, what time is it in Edmonton?",datetime_convert,4
+493,493.0,Set my watch to Central African Time.,datetime_convert,4
+494,494.0,"If its 10 am in New York, what time is it in Los Angeles?",datetime_convert,4
+495,495.0,What is the offset between Buenos Aires and Toronto?,datetime_convert,4
+496,496.0,"If Im in Istanbul at 5 pm, what time is it in Cairo?",datetime_convert,4
+497,497.0,Requesting your assistance in writing an email to Netflix about billing error,email_sendemail,5
+498,498.0,Want to know how to attach file while sending email to teacher,email_sendemail,5
+499,499.0,Design an email to the event organizer providing feedback on the conference.,email_sendemail,5
+500,500.0,Want you to craft an email to Sam apologizing for missing his call earlier.,email_sendemail,5
+501,501.0,Prepare an email to the bank manager requesting a loan statement.,email_sendemail,5
+502,502.0,Help me write an email apologizing to Rachel for missing our lunch date,email_sendemail,5
+503,503.0,Send an email reminder to Tom about the deadline today.,email_sendemail,5
+504,504.0,Could you please draft an email to professor Smith about my assignment submission?,email_sendemail,5
+505,505.0,Request you to send an email to Lisa thanking her for the gift.,email_sendemail,5
+506,506.0,Assist me in writing an email to the university admissions office.,email_sendemail,5
+507,507.0,Send an email greeting card to my sister on her anniversary.,email_sendemail,5
+508,508.0,Email Sarah back with the updated schedule,email_sendemail,5
+509,509.0,Assist me in drafting an email to real estate agent about viewing property,email_sendemail,5
+510,510.0,Develop an email announcing company-wide holiday party details,email_sendemail,5
+511,511.0,Id like to create an email sharing article link with coworkers,email_sendemail,5
+512,512.0,Would you please send an email to HR department about my benefits?,email_sendemail,5
+513,513.0,Can I get you to send an email to John regarding the meeting?,email_sendemail,5
+514,514.0,Could you send an email to Mark with the attached document?,email_sendemail,5
+515,515.0,Send an email notification to all staff about the office closure.,email_sendemail,5
+516,516.0,Create an email to James discussing the marketing strategy.,email_sendemail,5
+517,517.0,Schedule a meeting with Brian via email for Friday afternoon.,email_sendemail,5
+518,518.0,Help me craft an email pitching business idea to investors,email_sendemail,5
+519,519.0,Please compose an email to David regarding the meeting tomorrow,email_sendemail,5
+520,520.0,Notify Ryan via email about the package delivery status.,email_sendemail,5
+521,521.0,Formulate an email to the travel agency booking a ticket to Paris.,email_sendemail,5
+522,522.0,Would you mind sending an email to Emily reminding her of our appointment today?,email_sendemail,5
+523,523.0,Would you mind sending an email to Rachel reminding her of our meeting tomorrow?,email_sendemail,5
+524,524.0,Pen down an email to uncle Steve wishing him happy anniversary.,email_sendemail,5
+525,525.0,Request a refund through email from the airline company.,email_sendemail,5
+526,526.0,May I request your aid in creating an email welcoming new employee?,email_sendemail,5
+527,527.0,Compose an email to Netflix support team about my account cancellation.,email_sendemail,5
+528,528.0,Send an email to the IT department reporting a technical issue.,email_sendemail,5
+529,529.0,Need help sending an email to professor Smith about my assignment,email_sendemail,5
+530,530.0,Start an email to David discussing our project proposal.,email_sendemail,5
+531,531.0,Write an email to the bank requesting account information.,email_sendemail,5
+532,532.0,How do I send an email attachment to Peter?,email_sendemail,5
+533,533.0,Produce an email detailing travel itinerary to family members,email_sendemail,5
+534,534.0,Construct an email explaining delay in shipment to clients,email_sendemail,5
+535,535.0,Generate an email to Bank of America about my account inquiry,email_sendemail,5
+536,536.0,Email Lisa saying I wont make it to the concert tonight.,email_sendemail,5
+537,537.0,Forward an email to Olivia containing the job description attachment.,email_sendemail,5
+538,538.0,Construct an email to the hotel reservation desk canceling my booking.,email_sendemail,5
+539,539.0,Write an email to mom asking her to call me back.,email_sendemail,5
+540,540.0,Email Rachel and ask if shes available for lunch tomorrow.,email_sendemail,5
+541,541.0,Craft an email thanking James for referring me to job opening,email_sendemail,5
+542,542.0,Draft an email to marketing team about the upcoming campaign launch.,email_sendemail,5
+543,543.0,Design an email promoting upcoming charity event to subscribers,email_sendemail,5
+544,544.0,Develop an email to the real estate agent enquiring about the property listing.,email_sendemail,5
+545,545.0,Send an email to Sarah telling her Ill meet her at 5 pm.,email_sendemail,5
+546,546.0,Can you write an email to James confirming our lunch appointment?,email_sendemail,5
+547,547.0,Help me draft an email to Ryan explaining the software update process.,email_sendemail,5
+548,548.0,Please compose an email to HR department regarding my leave application.,email_sendemail,5
+549,549.0,Kindly send an email to Karen inviting her to join us for dinner.,email_sendemail,5
+550,550.0,Kindly draft an email to American Express resolving credit card dispute,email_sendemail,5
+551,551.0,Forward an email attachment to Helen containing the proposal.,email_sendemail,5
+552,552.0,Get in touch with Daniel through email about the job opening.,email_sendemail,5
+553,553.0,Send an email to Michael saying Ill meet him at 5 pm today.,email_sendemail,5
+554,554.0,Inform Karen via email of the schedule change.,email_sendemail,5
+555,555.0,Create an email to IT department reporting the network connectivity issue.,email_sendemail,5
+556,556.0,Ask you to forward an email to Christine containing the meeting minutes.,email_sendemail,5
+557,557.0,Compose an email inviting Peter to our company party.,email_sendemail,5
+558,558.0,Could you please forward an email to Michael from yesterdays discussion?,email_sendemail,5
+559,559.0,Create an email inviting friends over for birthday party,email_sendemail,5
+560,560.0,"Start writing an email to Alex, tell him Im running late.",email_sendemail,5
+561,561.0,Write an email thanking Dr. Smith for the medical advice.,email_sendemail,5
+562,562.0,Invite Jack to dinner using email next Saturday night.,email_sendemail,5
+563,563.0,Shoot an email to Peter updating him on the projects progress.,email_sendemail,5
+564,564.0,Please compose an email to David about the project update.,email_sendemail,5
+565,565.0,Guide me through composing an email responding to recruiters question,email_sendemail,5
+566,566.0,Prepare an email introducing myself to the team members.,email_sendemail,5
+567,567.0,Remind Olivia via email about the upcoming exam dates.,email_sendemail,5
+568,568.0,Reach out to Kevin via email for career guidance.,email_sendemail,5
+569,569.0,Draft an email to Michael explaining the changes we made.,email_sendemail,5
+570,570.0,Draft an email to HR department about my benefits query,email_sendemail,5
+571,571.0,Send an email inquiry to Amazon customer support.,email_sendemail,5
+572,572.0,Will you assist me in generating an email updating address change notification,email_sendemail,5
+573,573.0,Require assistance in drafting an email to the lawyer seeking legal advice.,email_sendemail,5
+574,574.0,Ask Emma if she received the email I sent earlier today,email_sendemail,5
+575,575.0,"Email Sarah about the party tonight, thanks!",email_sendemail,5
+576,576.0,Formulate an email describing technical difficulties faced by customers,email_sendemail,5
+577,577.0,Send an email to grandma wishing her happy birthday.,email_sendemail,5
+578,578.0,Can I get you to send an email to John?,email_sendemail,5
+579,579.0,Need you to shoot an email to Amazon customer support about my order issue.,email_sendemail,5
+580,580.0,Require assistance in crafting an email declining job offer politely,email_sendemail,5
+581,581.0,Tell Chris via email where he can find the documents online.,email_sendemail,5
+582,582.0,I want to send an email to Google Maps team reporting incorrect directions,email_sendemail,5
+583,583.0,Pen an email expressing gratitude towards mentors guidance,email_sendemail,5
+584,584.0,Ask Samantha via email when shell finish the report.,email_sendemail,5
+585,585.0,Please send an email to Emily with the flight itinerary attached.,email_sendemail,5
+586,586.0,Compose an email describing the product features to customers.,email_sendemail,5
+587,587.0,Craft an email to Daniel sharing the latest sales report.,email_sendemail,5
+588,588.0,Compose an email to IT department requesting password reset,email_sendemail,5
+589,589.0,Send an email to Amazon customer support about my order issue,email_sendemail,5
+590,590.0,Need your help in composing an email to the doctor rescheduling my appointment.,email_sendemail,5
+591,591.0,Generate an email to the airline customer care about my lost luggage.,email_sendemail,5
+592,592.0,Apologize to Mrs. Johnson through email for missing her appointment.,email_sendemail,5
+593,593.0,Introduce yourself to the professor through email before class starts.,email_sendemail,5
+594,594.0,Write an email to mom asking her about dinner tonight,email_sendemail,5
+595,595.0,Prepare an email introducing myself to new colleagues at work,email_sendemail,5
+596,596.0,Forward an email to Mark from last weeks project update,email_sendemail,5
+597,597.0,Please play No Thoroughfare,play_audiobook,6
+598,598.0,Lets revisit The Mystery of Edwin Drood,play_audiobook,6
+599,599.0,Where were we in The Time Machine?,play_audiobook,6
+600,600.0,Please read more of A Christmas Carol,play_audiobook,6
+601,601.0,Whats the next chapter of Oliver Twist?,play_audiobook,6
+602,602.0,Pick up where we stopped in Wuthering Heights,play_audiobook,6
+603,603.0,Go back to chapter five of Wuthering Heights.,play_audiobook,6
+604,604.0,Read me another chapter of Moby-Dick.,play_audiobook,6
+605,605.0,Pick up where we stopped in War and Peace,play_audiobook,6
+606,606.0,Carry on with The Jungle Book.,play_audiobook,6
+607,607.0,Dombey and Son is what I need,play_audiobook,6
+608,608.0,Continue with Catch-22.,play_audiobook,6
+609,609.0,Find my spot in A Tale of Two Cities.,play_audiobook,6
+610,610.0,Lets finish The War of the Worlds,play_audiobook,6
+611,611.0,Pick up where we left off in Dracula.,play_audiobook,6
+612,612.0,Take me back to Robinson Crusoe.,play_audiobook,6
+613,613.0,Lets get back to Macbeth,play_audiobook,6
+614,614.0,Keep going with The Scarlet Letter.,play_audiobook,6
+615,615.0,Lets get started with Frankenstein.,play_audiobook,6
+616,616.0,Where were we in 1984?,play_audiobook,6
+617,617.0,Play another hour of The Nightingale,play_audiobook,6
+618,618.0,Play the rest of The Girl with the Dragon Tattoo,play_audiobook,6
+619,619.0,What was the last thing we listened to?,play_audiobook,6
+620,620.0,Im ready for Barnaby Rudge,play_audiobook,6
+621,621.0,Keep going with Bleak House,play_audiobook,6
+622,622.0,Take me to the end of Bleak House,play_audiobook,6
+623,623.0,Restart the Harry Potter series.,play_audiobook,6
+624,624.0,How about we go back to Treasure Island?,play_audiobook,6
+625,625.0,"Play my favorite audiobook, please.",play_audiobook,6
+626,626.0,Play the remainder of Fahrenheit 451.,play_audiobook,6
+627,627.0,Lets hear more of The Handmaids Tale,play_audiobook,6
+628,628.0,Lets get started with Crime and Punishment.,play_audiobook,6
+629,629.0,"Play King Lear now, please",play_audiobook,6
+630,630.0,Would you resume The Bell Jar?,play_audiobook,6
+631,631.0,Can I listen to The Great Gatsby?,play_audiobook,6
+632,632.0,Go back to chapter five of To Kill a Mockingbird,play_audiobook,6
+633,633.0,Where did we leave off in The Count of Monte Cristo?,play_audiobook,6
+634,634.0,Read me another chapter of Alice in Wonderland,play_audiobook,6
+635,635.0,Start playing Pride and Prejudice now.,play_audiobook,6
+636,636.0,Lets go back to Slaughterhouse-Five.,play_audiobook,6
+637,637.0,Pick up where we stopped in War and Peace.,play_audiobook,6
+638,638.0,I want to keep listening to Frankenstein,play_audiobook,6
+639,639.0,Start playing Pride and Prejudice,play_audiobook,6
+640,640.0,I want to hear more of Frankenstein,play_audiobook,6
+641,641.0,Play the rest of The Little Prince,play_audiobook,6
+642,642.0,Go ahead with The Grapes of Wrath.,play_audiobook,6
+643,643.0,Im ready for more of Martin Chuzzlewit,play_audiobook,6
+644,644.0,Get back to The Stranger.,play_audiobook,6
+645,645.0,Read me more of Moby-Dick,play_audiobook,6
+646,646.0,Finish reading The Wizard of Oz,play_audiobook,6
+647,647.0,Where did we leave off in The Adventures of Tom Sawyer?,play_audiobook,6
+648,648.0,Next chapter of A Christmas Carol!,play_audiobook,6
+649,649.0,"Take it from the top, please",play_audiobook,6
+650,650.0,Get back to The Count of Monte Cristo,play_audiobook,6
+651,651.0,Can I listen to my favorite novel?,play_audiobook,6
+652,652.0,Is it time for Hamlet yet?,play_audiobook,6
+653,653.0,Resume where we left off in To Kill a Mockingbird,play_audiobook,6
+654,654.0,Can you find my place in Alice in Wonderland?,play_audiobook,6
+655,655.0,Where did we stop in The Pickwick Papers?,play_audiobook,6
+656,656.0,How about we go back to The Little Prince?,play_audiobook,6
+657,657.0,Play the next part of The Lord of the Rings,play_audiobook,6
+658,658.0,Resume where we left off in To Kill a Mockingbird.,play_audiobook,6
+659,659.0,I want to hear more of Our Mutual Friend,play_audiobook,6
+660,660.0,Go ahead with The Wizard of Oz.,play_audiobook,6
+661,661.0,Where did we leave off in Jane Eyre?,play_audiobook,6
+662,662.0,Play the next section of The Iliad.,play_audiobook,6
+663,663.0,Can you play the first chapter of Alice in Wonderland?,play_audiobook,6
+664,664.0,Play Barnaby Rudge from the beginning,play_audiobook,6
+665,665.0,Go back to Chapter 7 of Harry Potter,play_audiobook,6
+666,666.0,Play the next part of The Hunger Games,play_audiobook,6
+667,667.0,Take me back to The Picture of Dorian Gray,play_audiobook,6
+668,668.0,Will you read more of The Odyssey?,play_audiobook,6
+669,669.0,Get back to The Secret Garden.,play_audiobook,6
+670,670.0,Can I listen to my favorite audiobook?,play_audiobook,6
+671,671.0,What was the last thing we listened to in Oliver Twist?,play_audiobook,6
+672,672.0,Restart the audiobook from the beginning,play_audiobook,6
+673,673.0,Play the last chapter of The Great Gatsby,play_audiobook,6
+674,674.0,Keep going with The Lord of the Rings.,play_audiobook,6
+675,675.0,Can you pick up where we left off in The Invisible Man?,play_audiobook,6
+676,676.0,Keep going with The Count of Monte Cristo,play_audiobook,6
+677,677.0,Can you resume Oliver Twist?,play_audiobook,6
+678,678.0,Id love to hear more of Jane Eyre,play_audiobook,6
+679,679.0,Take me back to Nicholas Nickleby,play_audiobook,6
+680,680.0,Please continue The Picture of Dorian Gray.,play_audiobook,6
+681,681.0,Lets move on to The Mystery of Edwin Drood,play_audiobook,6
+682,682.0,"More of David Copperfield, please",play_audiobook,6
+683,683.0,Continue with The Da Vinci Code,play_audiobook,6
+684,684.0,Play the final chapters of Hard Times,play_audiobook,6
+685,685.0,Continue with The Great Gatsby,play_audiobook,6
+686,686.0,Resume where we left off in War and Peace,play_audiobook,6
+687,687.0,"Hard Times is next, right?",play_audiobook,6
+688,688.0,Lets get back to Moby-Dick,play_audiobook,6
+689,689.0,Take me to the middle of The Lord of the Rings,play_audiobook,6
+690,690.0,"No Thoroughfare is the next one, yes?",play_audiobook,6
+691,691.0,Can you continue with The Wizard of Oz?,play_audiobook,6
+692,692.0,Can I hear more of Brave New World?,play_audiobook,6
+693,693.0,Please continue with Wuthering Heights,play_audiobook,6
+694,694.0,Play the rest of The Little Prince.,play_audiobook,6
+695,695.0,Go back to the first chapter of David Copperfield,play_audiobook,6
+696,696.0,Play the ending of Romeo and Juliet,play_audiobook,6
+697,697.0,Tell me about the newest addition to the MCU.,recommendation_movies,7
+698,698.0,Whats the most popular movie right now?,recommendation_movies,7
+699,699.0,Can you give me some suggestions for a girls night out movie?,recommendation_movies,7
+700,700.0,Suggest a historical epic playing in select theaters.,recommendation_movies,7
+701,701.0,Is there a Star Wars movie playing in IMAX near me?,recommendation_movies,7
+702,702.0,Tell me about a hidden gem film nobody knows about.,recommendation_movies,7
+703,703.0,Is there a Marvel movie playing at the cinema?,recommendation_movies,7
+704,704.0,Any good action movies coming up soon?,recommendation_movies,7
+705,705.0,Whats the highest-grossing movie of all time?,recommendation_movies,7
+706,706.0,Whats the highest-rated action movie out today?,recommendation_movies,7
+707,707.0,Suggest a family-friendly film suitable for kids under 10.,recommendation_movies,7
+708,708.0,Recommend a thought-provoking documentary series.,recommendation_movies,7
+709,709.0,Any recommendations for a date night movie?,recommendation_movies,7
+710,710.0,Would you suggest seeing a Star Wars movie again?,recommendation_movies,7
+711,711.0,Whats the scariest movie playing in theaters this month?,recommendation_movies,7
+712,712.0,Can you suggest a romantic comedy playing nearby?,recommendation_movies,7
+713,713.0,Suggest a psychological thriller that just came out.,recommendation_movies,7
+714,714.0,Recommend a horror movie that just came out.,recommendation_movies,7
+715,715.0,Whats the highest-grossing film of all time still playing?,recommendation_movies,7
+716,716.0,Have you got any movie ideas for a rainy day?,recommendation_movies,7
+717,717.0,Find me a highly rated sci-fi movie in theaters.,recommendation_movies,7
+718,718.0,Can you find a movie starring my favorite actor/actress?,recommendation_movies,7
+719,719.0,Give me some movie recommendations based on my location.,recommendation_movies,7
+720,720.0,Whats a must-see musical or dance-themed film?,recommendation_movies,7
+721,721.0,"Im bored, whats a great movie out right now?",recommendation_movies,7
+722,722.0,Can you give me a list of movies similar to Inception?,recommendation_movies,7
+723,723.0,Are there any Oscar-nominated films showing now?,recommendation_movies,7
+724,724.0,Should I go see the latest blockbuster or wait till it streams?,recommendation_movies,7
+725,725.0,Suggest a dark fantasy adventure film playing in limited release.,recommendation_movies,7
+726,726.0,Whats a visually stunning fantasy adventure film?,recommendation_movies,7
+727,727.0,Give me two contrasting movie reviews for the same film.,recommendation_movies,7
+728,728.0,Recommend a critically acclaimed foreign film playing locally.,recommendation_movies,7
+729,729.0,Is The Avengers still playing in local theaters?,recommendation_movies,7
+730,730.0,Whats the average rating for the latest DC Comics adaptation?,recommendation_movies,7
+731,731.0,Whats a thought-provoking indie film getting buzz?,recommendation_movies,7
+732,732.0,Suggest a family-friendly movie for the weekend.,recommendation_movies,7
+733,733.0,Whats the next big blockbuster hitting theaters?,recommendation_movies,7
+734,734.0,Whats the most popular rom-com playing in cinemas right now?,recommendation_movies,7
+735,735.0,Give me three movie recommendations based on my favorite actor.,recommendation_movies,7
+736,736.0,Should I take my kids to see the new Pixar film?,recommendation_movies,7
+737,737.0,Which superhero movie is worth watching?,recommendation_movies,7
+738,738.0,Recommend a visually stunning film shot in 70mm.,recommendation_movies,7
+739,739.0,Provide a list of must-see classic films.,recommendation_movies,7
+740,740.0,Recommend a horror movie showing in theaters today.,recommendation_movies,7
+741,741.0,Whats the perfect chick-flick for a sleepover party?,recommendation_movies,7
+742,742.0,Show me the top-rated movies at the cinema near me.,recommendation_movies,7
+743,743.0,Whats the scariest movie playing this Halloween season?,recommendation_movies,7
+744,744.0,Whats a highly-recommended sci-fi flick?,recommendation_movies,7
+745,745.0,Whats a highly rated animated movie playing in theaters?,recommendation_movies,7
+746,746.0,Can you tell me about a lesser-known directors work?,recommendation_movies,7
+747,747.0,"Im bored, whats a great film out right now?",recommendation_movies,7
+748,748.0,Show me the top-rated movies of the year so far.,recommendation_movies,7
+749,749.0,Are there any critically acclaimed indie films out?,recommendation_movies,7
+750,750.0,How about a light-hearted summer romance film?,recommendation_movies,7
+751,751.0,Which superhero movie is worth watching this weekend?,recommendation_movies,7
+752,752.0,Is it worth seeing the latest blockbuster in IMAX?,recommendation_movies,7
+753,753.0,Tell me about the newest animated feature film.,recommendation_movies,7
+754,754.0,Which Disney movie is worth watching in theaters?,recommendation_movies,7
+755,755.0,Whats a feel-good sports movie suitable for kids?,recommendation_movies,7
+756,756.0,"Im bored, what movie should I go see?",recommendation_movies,7
+757,757.0,Is there a new Star Wars movie coming out soon?,recommendation_movies,7
+758,758.0,Whats the highest-grossing movie of all time playing locally?,recommendation_movies,7
+759,759.0,Whats the next big-budget superhero release?,recommendation_movies,7
+760,760.0,Give me three movie suggestions based on my interests.,recommendation_movies,7
+761,761.0,Are there any Oscar-nominated films still in theaters?,recommendation_movies,7
+762,762.0,Is there a new Marvel movie playing anywhere?,recommendation_movies,7
+763,763.0,Is there a Christmas-themed movie playing in December?,recommendation_movies,7
+764,764.0,Should I check out the latest DC Comics adaptation?,recommendation_movies,7
+765,765.0,What movie would you recommend for date night?,recommendation_movies,7
+766,766.0,Are there any Oscar-nominated films still playing?,recommendation_movies,7
+767,767.0,Can you recommend a light-hearted summer flick?,recommendation_movies,7
+768,768.0,Is Spider-Man still playing in 3D near me?,recommendation_movies,7
+769,769.0,Whats a good movie to see tonight?,recommendation_movies,7
+770,770.0,Recommend a classic film that never gets old.,recommendation_movies,7
+771,771.0,Whats the next big franchise starter coming to theaters?,recommendation_movies,7
+772,772.0,Recommend a thought-provoking documentary.,recommendation_movies,7
+773,773.0,Should I re-watch The Lord of the Rings trilogy before the new one comes out?,recommendation_movies,7
+774,774.0,Whats the current number one movie at the box office?,recommendation_movies,7
+775,775.0,Should I wait until Netflix or see it in theaters?,recommendation_movies,7
+776,776.0,Whats the earliest showtime for the hottest new release?,recommendation_movies,7
+777,777.0,What movie has been getting rave reviews lately?,recommendation_movies,7
+778,778.0,Whats a well-reviewed documentary playing locally?,recommendation_movies,7
+779,779.0,Recommend a biographical drama released recently.,recommendation_movies,7
+780,780.0,Show me the top 5 movies according to Rotten Tomatoes.,recommendation_movies,7
+781,781.0,Whats the most popular rom-com playing right now?,recommendation_movies,7
+782,782.0,Whats the current box office champion?,recommendation_movies,7
+783,783.0,Whats the most anticipated sequel coming soon?,recommendation_movies,7
+784,784.0,Whats the current number one box office hit?,recommendation_movies,7
+785,785.0,Tell me about the newest Disney live-action remake.,recommendation_movies,7
+786,786.0,Find me a great indie film released recently.,recommendation_movies,7
+787,787.0,Give me a list of top-grossing movies this year.,recommendation_movies,7
+788,788.0,Whats the best way to stay updated on upcoming releases?,recommendation_movies,7
+789,789.0,Give me a suggestion for a solo movie night.,recommendation_movies,7
+790,790.0,Recommend a horror movie showing in local theaters.,recommendation_movies,7
+791,791.0,Tell me about the latest DC Comics adaptation.,recommendation_movies,7
+792,792.0,Whats a critically-acclaimed drama playing locally?,recommendation_movies,7
+793,793.0,Whats the most anticipated sequel or prequel coming soon?,recommendation_movies,7
+794,794.0,Whats a fun teen rom-com playing right now?,recommendation_movies,7
+795,795.0,Recommend a feel-good movie to lift my mood.,recommendation_movies,7
+796,796.0,Is it worth watching the latest Fast & Furious installment?,recommendation_movies,7
+797,797.0,Describe the benefits of purchasing an annual public transit pass.,transport_ticket,8
+798,798.0,"Buy a return ferry ticket to Marthas Vineyard, please.",transport_ticket,8
+799,799.0,Where can I find discounted fares for the Eurostar train?,transport_ticket,8
+800,800.0,Where can I buy a Greyhound bus ticket online?,transport_ticket,8
+801,801.0,I want to purchase a first-class airline ticket to Paris.,transport_ticket,8
+802,802.0,Can I use Apple Pay to purchase a MetroCard?,transport_ticket,8
+803,803.0,purchase a one-way bus ticket to chicago,transport_ticket,8
+804,804.0,Need a senior discount on a Greyhound bus ticket.,transport_ticket,8
+805,805.0,"Reserve a seat on the morning train to Berlin, please.",transport_ticket,8
+806,806.0,Check availability of business-class seats on Lufthansa Flight 456.,transport_ticket,8
+807,807.0,Book a private shuttle service to LAX Airport.,transport_ticket,8
+808,808.0,Check availability of Amtrak tickets to Washington D.C.,transport_ticket,8
+809,809.0,whats the cost of a greyhound bus ticket to nyc?,transport_ticket,8
+810,810.0,Compare prices for Amtrak tickets versus flying.,transport_ticket,8
+811,811.0,Exchange my coach ticket for a first-class upgrade.,transport_ticket,8
+812,812.0,Look up schedules for the airport express train.,transport_ticket,8
+813,813.0,Purchase a monthly public transportation pass for San Francisco.,transport_ticket,8
+814,814.0,cancel my train reservation to washington dc,transport_ticket,8
+815,815.0,Confirm my reservation for the high-speed train to Lyon.,transport_ticket,8
+816,816.0,Can you reserve a wheelchair-accessible seat on the train?,transport_ticket,8
+817,817.0,Get me a ferry ticket to Marthas Vineyard this weekend.,transport_ticket,8
+818,818.0,Set up a recurring payment plan for my daily commute by bus.,transport_ticket,8
+819,819.0,i want to buy a plane ticket to las vegas,transport_ticket,8
+820,820.0,Get me a round-trip ferry ticket to Marthas Vineyard.,transport_ticket,8
+821,821.0,upgrade to first class on american airlines,transport_ticket,8
+822,822.0,Assist me in booking a scenic train journey through Europe.,transport_ticket,8
+823,823.0,sign up for email alerts about fare sales,transport_ticket,8
+824,824.0,order a monthly subway pass online,transport_ticket,8
+825,825.0,Need help booking a shuttle service to LaGuardia Airport at 6 AM.,transport_ticket,8
+826,826.0,I want to purchase a return train ticket to Paris departing today.,transport_ticket,8
+827,827.0,"Purchase a monthly public transportation pass, please.",transport_ticket,8
+828,828.0,What time does the last train leave for Philadelphia tonight?,transport_ticket,8
+829,829.0,check availability of business-class seats to sydney,transport_ticket,8
+830,830.0,Buy a subway pass for unlimited rides in New York City.,transport_ticket,8
+831,831.0,Can you reserve a seat on the morning train to Boston?,transport_ticket,8
+832,832.0,Check if there are any deals on plane tickets to Hawaii.,transport_ticket,8
+833,833.0,Book a coach bus ticket to Washington D.C. for next week.,transport_ticket,8
+834,834.0,Display all available routes and schedules for Bolt Bus.,transport_ticket,8
+835,835.0,Request a refund for a cancelled Greyhound bus ticket.,transport_ticket,8
+836,836.0,Order a same-day delivery bike courier ticket.,transport_ticket,8
+837,837.0,Purchase a round-trip airline ticket to Miami International Airport.,transport_ticket,8
+838,838.0,Are there any deals on Eurail passes right now?,transport_ticket,8
+839,839.0,Do you offer discounts on group bookings for coach buses?,transport_ticket,8
+840,840.0,Is there a student discount available for Eurail passes?,transport_ticket,8
+841,841.0,Look up schedules for the Amtrak train to Boston South Station.,transport_ticket,8
+842,842.0,Book a return journey train ticket to Manchester for £50 or less.,transport_ticket,8
+843,843.0,Book a one-way bus ticket to Chicago for this Friday.,transport_ticket,8
+844,844.0,Need help booking a shuttle service to LAX airport.,transport_ticket,8
+845,845.0,Provide information about buying a Eurail Pass.,transport_ticket,8
+846,846.0,Reserve a first-class ticket on Amtraks Northeast Regional route.,transport_ticket,8
+847,847.0,Buy a day-pass for public transportation in Berlin.,transport_ticket,8
+848,848.0,Compare prices for Amtrak tickets to Washington D.C.,transport_ticket,8
+849,849.0,validate my railcard discount code,transport_ticket,8
+850,850.0,Reserve a spot on the shuttle service to LAX airport.,transport_ticket,8
+851,851.0,Show me available bus tickets to Los Angeles today.,transport_ticket,8
+852,852.0,Can you find cheap train tickets to Los Angeles?,transport_ticket,8
+853,853.0,Order a senior discount railcard for travel within Europe.,transport_ticket,8
+854,854.0,Whats the cost of a monthly public transportation pass?,transport_ticket,8
+855,855.0,How much does it cost to buy a ferry ticket to Marthas Vineyard?,transport_ticket,8
+856,856.0,Order a senior discount rail ticket to Washington D.C.,transport_ticket,8
+857,857.0,Can I get a one-way bus ticket to Chicago?,transport_ticket,8
+858,858.0,"Book two seats on the Greyhound bus to Dallas, Texas.",transport_ticket,8
+859,859.0,Assist me in purchasing a Eurail Pass for summer vacation.,transport_ticket,8
+860,860.0,Where can I buy a visitors travelcard for London Underground?,transport_ticket,8
+861,861.0,Book a business-class ticket on Lufthansa Airlines.,transport_ticket,8
+862,862.0,Are there any student discounts available for European rail passes?,transport_ticket,8
+863,863.0,Book a coach ticket on Greyhound to San Francisco next Saturday.,transport_ticket,8
+864,864.0,Buy a round-trip subway pass for New York City.,transport_ticket,8
+865,865.0,What is the latest time I can book a same-day train ticket online?,transport_ticket,8
+866,866.0,view my upcoming trip itineraries,transport_ticket,8
+867,867.0,How much is a round-trip ticket to Paris on Air France?,transport_ticket,8
+868,868.0,add extra baggage allowance to my booking,transport_ticket,8
+869,869.0,show me available train schedules to san francisco,transport_ticket,8
+870,870.0,Create a budget-friendly itinerary for backpacking across Europe by train.,transport_ticket,8
+871,871.0,Reserve a seat on the morning train to Boston.,transport_ticket,8
+872,872.0,Create an itinerary including transportation costs to Hawaii.,transport_ticket,8
+873,873.0,Is there a student discount on Megabus tickets?,transport_ticket,8
+874,874.0,how much is a round-trip ticket to london?,transport_ticket,8
+875,875.0,Validate my boarding pass for the morning commute.,transport_ticket,8
+876,876.0,Look up prices for Amtrak tickets to Boston next weekend.,transport_ticket,8
+877,877.0,Guide me through purchasing a Japan Rail Pass online.,transport_ticket,8
+878,878.0,Research discounts for student travelers on Eurail trains.,transport_ticket,8
+879,879.0,"Buy a round-trip subway ticket, please.",transport_ticket,8
+880,880.0,book a ferry ticket to catalina island,transport_ticket,8
+881,881.0,Find deals on last-minute weekend getaways including transportation costs.,transport_ticket,8
+882,882.0,Purchase a senior discount train ticket to Denver.,transport_ticket,8
+883,883.0,"When does the next train depart for Boston, and how much is the fare?",transport_ticket,8
+884,884.0,Is there a discount for bulk purchases of metro cards?,transport_ticket,8
+885,885.0,I want to purchase a return train ticket to Paris.,transport_ticket,8
+886,886.0,Purchase a multi-city itinerary including stops in Rome and Barcelona.,transport_ticket,8
+887,887.0,Determine if I qualify for discounted senior fares on Greyhound.,transport_ticket,8
+888,888.0,Calculate the total fare for three people taking the metro downtown.,transport_ticket,8
+889,889.0,"Purchase a return train ticket to Paris, please.",transport_ticket,8
+890,890.0,Order a shuttle service ticket to LAX Airport.,transport_ticket,8
+891,891.0,"Buy a monthly pass for the subway system, please.",transport_ticket,8
+892,892.0,Look into group discounts for Megabus tickets.,transport_ticket,8
+893,893.0,redeem airline miles for a free ticket,transport_ticket,8
+894,894.0,obtain a senior citizen discount on metro fares,transport_ticket,8
+895,895.0,I want to purchase a train ticket to Washington D.C. today.,transport_ticket,8
+896,896.0,Purchase a monthly subway pass for New York City.,transport_ticket,8
+897,897.0,give me the current conditions please,weather_query,9
+898,898.0,ok google give me the daily forecast,weather_query,9
+899,899.0,whats the humidity level today,weather_query,9
+900,900.0,will we get any thunderstorms tonight,weather_query,9
+901,901.0,is it suitable for outdoor activities today,weather_query,9
+902,902.0,alexa summarize the weekly outlook,weather_query,9
+903,903.0,ok google whats the weather radio saying,weather_query,9
+904,904.0,echo show me the current conditions,weather_query,9
+905,905.0,hey cortana is it freezing outside,weather_query,9
+906,906.0,will there be hail today,weather_query,9
+907,907.0,cortana provide me with ski resort reports,weather_query,9
+908,908.0,is it misty this morning,weather_query,9
+909,909.0,provide the extended forecast,weather_query,9
+910,910.0,whats the atmospheric pressure like,weather_query,9
+911,911.0,olly give me the weekend weather report,weather_query,9
+912,912.0,is it hailing anywhere nearby,weather_query,9
+913,913.0,hey google whats the weather like downtown,weather_query,9
+914,914.0,ok google give me severe weather alerts,weather_query,9
+915,915.0,ok google where is it hottest today,weather_query,9
+916,916.0,give me the daily weather briefing,weather_query,9
+917,917.0,ok google when does spring start,weather_query,9
+918,918.0,is it officially spring yet,weather_query,9
+919,919.0,whats the water temperature currently,weather_query,9
+920,920.0,will we see any storms tonight,weather_query,9
+921,921.0,is it foggy this morning,weather_query,9
+922,922.0,will it stop raining anytime soon,weather_query,9
+923,923.0,ok google is it humid today,weather_query,9
+924,924.0,siri show me the radar imagery,weather_query,9
+925,925.0,will it start raining soon,weather_query,9
+926,926.0,is it partly cloudy or overcast,weather_query,9
+927,927.0,will it stay sunny all day,weather_query,9
+928,928.0,do I need sunglasses today,weather_query,9
+929,929.0,will there be sunshine tomorrow,weather_query,9
+930,930.0,will it storm tonight,weather_query,9
+931,931.0,how cold is it outside right now,weather_query,9
+932,932.0,is it partly cloudy today,weather_query,9
+933,933.0,will it settle down by nightfall,weather_query,9
+934,934.0,is it safe to go surfing today,weather_query,9
+935,935.0,is it windy today,weather_query,9
+936,936.0,is it humid out,weather_query,9
+937,937.0,can you predict the next heatwave,weather_query,9
+938,938.0,whats the wind chill factor,weather_query,9
+939,939.0,do I need boots today,weather_query,9
+940,940.0,is it drizzling right now,weather_query,9
+941,941.0,is it supposed to hail today,weather_query,9
+942,942.0,will it rain during my commute home,weather_query,9
+943,943.0,is it drizzling anywhere nearby,weather_query,9
+944,944.0,whats the UV index today,weather_query,9
+945,945.0,siri whats the atmospheric pressure,weather_query,9
+946,946.0,do you think itll clear up by evening,weather_query,9
+947,947.0,will it cool down at night,weather_query,9
+948,948.0,is it windy where I am,weather_query,9
+949,949.0,ok google give me the hourly forecast,weather_query,9
+950,950.0,whats the air quality like today,weather_query,9
+951,951.0,hey google can you describe the current conditions,weather_query,9
+952,952.0,does it feel colder than yesterday,weather_query,9
+953,953.0,will it snow at christmas this year,weather_query,9
+954,954.0,cortana whats the wind chill factor,weather_query,9
+955,955.0,is it overcast right now,weather_query,9
+956,956.0,is it too hot to go jogging,weather_query,9
+957,957.0,is it cold enough to freeze yet,weather_query,9
+958,958.0,siri can you update me on the hurricane,weather_query,9
+959,959.0,is it drizzling outside,weather_query,9
+960,960.0,echo whats the humidity level,weather_query,9
+961,961.0,check the hourly forecast for me,weather_query,9
+962,962.0,is it safe to go hiking today,weather_query,9
+963,963.0,will there be frost tonight,weather_query,9
+964,964.0,ask cortana what the pollen count is today,weather_query,9
+965,965.0,is it smoggy in los angeles,weather_query,9
+966,966.0,tell me if its windy outside,weather_query,9
+967,967.0,is it cloudy outside right now,weather_query,9
+968,968.0,cortana whats the chance of showers,weather_query,9
+969,969.0,siri whats the weather supposed to be like friday,weather_query,9
+970,970.0,how many inches of rainfall did we get yesterday,weather_query,9
+971,971.0,will we get any thunderstorms soon,weather_query,9
+972,972.0,what time does the sun set today,weather_query,9
+973,973.0,do I need an umbrella today,weather_query,9
+974,974.0,is it still snowy in denver,weather_query,9
+975,975.0,amazon echo whats the five-day forecast,weather_query,9
+976,976.0,will it be humid all day,weather_query,9
+977,977.0,whats the dew point right now,weather_query,9
+978,978.0,siri whats the pollen count today,weather_query,9
+979,979.0,will it stay warm through the winter,weather_query,9
+980,980.0,ok google is it cloudy outside,weather_query,9
+981,981.0,google whats the temperature in chicago,weather_query,9
+982,982.0,will there be frost overnight,weather_query,9
+983,983.0,ask siri about the pollen count,weather_query,9
+984,984.0,is it freezing yet,weather_query,9
+985,985.0,is there a storm coming our way,weather_query,9
+986,986.0,will it cool down soon,weather_query,9
+987,987.0,whats the humidity level right now,weather_query,9
+988,988.0,google is it cold out,weather_query,9
+989,989.0,is it warm enough for shorts,weather_query,9
+990,990.0,alexa whats the forecast for tonight,weather_query,9
+991,991.0,whats the precipitation probability,weather_query,9
+992,992.0,is it still sunny outside,weather_query,9
+993,993.0,whats the UV index right now,weather_query,9
+994,994.0,tell me about the heatwave warning,weather_query,9
+995,995.0,will there be thunderstorms later,weather_query,9
+996,996.0,whats the visibility like right now,weather_query,9
+0,,what is the current time in california if it is eleven pm edt,datetime_convert,4
+1,,Delete the birthday party invitation I received last month,calendar_remove,2
+2,,please play the next part of the alchemist,play_audiobook,6
+3,,any good sci fi films out lately,recommendation_movies,7
+4,,it's eleven am bst how many hours ahead of chicago am i,datetime_convert,4
+5,,would you mind turning down the music,audio_volume_down,1
+6,,suggest a romantic comedy film similar to crazy rich Asians,recommendation_movies,7
+7,,How many days until spring arrives?,weather_query,9
+8,,is there any chance of thunderstorms tonight?,weather_query,9
+9,,Book a train ticket with a window seat to San Francisco please.,transport_ticket,8
+10,,can you check if I've already set an alarm for this evening,alarm_query,0
+11,,play chapter five of sapiens,play_audiobook,6
+12,,Turn it down I can barely hear myself think,audio_volume_down,1
+13,,does anyone have a good recipe for homemade pasta sauce,cooking_recipe,3
+14,,Resume playback of Daring Greatly by Brené Brown,play_audiobook,6
+15,,Will you remind me what time my first alarm is set for?,alarm_query,0
+16,,what is the status of my morning alarm,alarm_query,0
+17,,are there any good romantic comedies currently showing in cinema,recommendation_movies,7
+18,,do you know of any good recipes for slow cooker chili,cooking_recipe,3
+19,,Reserve a ticket on the Amtrak train from New York to Philadelphia for Friday morning.,transport_ticket,8
+20,,Reserve a shuttle ticket to the airport for Friday.,transport_ticket,8
+21,,do I need to bring an umbrella when I go out later,weather_query,9
+22,,play chapter five of sapiens audiobook,play_audiobook,6
+23,,create a draft of an email to samantha thanking her for lunch yesterday,email_sendemail,5
+24,,Reduce the volume now,audio_volume_down,1
+25,,Is there any chance of snowfall next Monday?,weather_query,9
+26,,read me the alchemist,play_audiobook,6
+27,,are there any alarms scheduled for today,alarm_query,0
+28,,do i have any active alarms right now,alarm_query,0
+29,,Start playing Dune by Frank Herbert for me,play_audiobook,6
+30,,Would you mind reducing the noise level? It's getting overwhelming,audio_volume_down,1
+31,,can you tell me what time it'll be in paris when it's twelve pm here,datetime_convert,4
+32,,it's too loud can you turn it down,audio_volume_down,1
+33,,the music is too loud turn it down,audio_volume_down,1
+34,,go back to the beginning of the hitchhiker's guide to the galaxy,play_audiobook,6
+35,,How's the forecast looking for the next few days?,weather_query,9
+36,,should I pack an extra jacket for my trip to Chicago next month,weather_query,9
+37,,Can you resume playing Sapiens: A Brief History of Humankind?,play_audiobook,6
+38,,Get rid of the team meeting on Thursday morning,calendar_remove,2
+39,,Erase the birthday party event on Saturday,calendar_remove,2
+40,,hey could you write an email to dad telling him about our plans,email_sendemail,5
+41,,what's the status of all my active alarms,alarm_query,0
+42,,Recommend a horror movie similar to The Shining.,recommendation_movies,7
+43,,convert three fifty pm bst to sydney time,datetime_convert,4
+44,,chance of thunderstorms tonight,weather_query,9
+45,,have i got any recurring alarms set,alarm_query,0
+46,,is there any possibility of thunderstorm this afternoon,weather_query,9
+47,,Can you give me an update on the weekend forecast?,weather_query,9
+48,,Clear out my entire calendar,calendar_remove,2
+49,,are there any alarms set between 7am and 9pm today,alarm_query,0
+50,,Can you give me an update on the weather in Chicago right now?,weather_query,9
+51,,give me directions on how to grill steak,cooking_recipe,3
+52,,send a brief note to emily reminding her of our appointment today,email_sendemail,5
+53,,give me some recommendations based on my favorite actor,recommendation_movies,7
+54,,would you mind sending an email to ben saying thanks for yesterday,email_sendemail,5
+55,,do you know of any good recipes for grilled shrimp skewers,cooking_recipe,3
+56,,I want to buy a round-trip ticket to Las Vegas for next weekend.,transport_ticket,8
+57,,anyone got a great recipe for chocolate chip cookies,cooking_recipe,3
+58,,do i have any alarms set for this week,alarm_query,0
+59,,Clear out everything on my calendar for this weekend,calendar_remove,2
+60,,is there a simple way to roast vegetables without losing their nutrients,cooking_recipe,3
+61,,how do i convert eleven forty five am cst to est,datetime_convert,4
+62,,i'm in paris france what time would it be if it was noon here in chicago il usa,datetime_convert,4
+63,,the music is too loud can you lower it,audio_volume_down,1
+64,,forward this thread to michael thanks,email_sendemail,5
+65,,can you tell me what alarms i've got set,alarm_query,0
+66,,would someone tell me what time it'd be in chicago if it were twelve noon here,datetime_convert,4
+67,,hey google could you compose an email to mom saying hi i love you,email_sendemail,5
+68,,hey could you please draft an email to them,email_sendemail,5
+69,,begin playing the alchemist again,play_audiobook,6
+70,,Cancel my plans for tomorrow,calendar_remove,2
+71,,What's a highly-rated action movie out right now?,recommendation_movies,7
+72,,Get me a round-trip ticket to Chicago for this weekend.,transport_ticket,8
+73,,can you tell me what movies are currently showing at my local cinema,recommendation_movies,7
+74,,Clear out my entire agenda for this month,calendar_remove,2
+75,,how long does it take to roast vegetables in the oven,cooking_recipe,3
+76,,Erase all events from June 15th to July 1st,calendar_remove,2
+77,,have i got any alarms going off later on today,alarm_query,0
+78,,start playing the nightingale again,play_audiobook,6
+79,,can you convert eleven forty-five pm est to cst,datetime_convert,4
+80,,continue where I left off in born a crime,play_audiobook,6
+81,,check if my afternoon alarm is on,alarm_query,0
+82,,do you know of any good recipes for grilled cheese sandwiches?,cooking_recipe,3
+83,,Cancel my appointments for tomorrow,calendar_remove,2
+84,,Erase the birthday party on Saturday morning.,calendar_remove,2
+85,,is there a way to make pancakes without eggs,cooking_recipe,3
+86,,Delete the birthday party on Saturday from my calendar.,calendar_remove,2
+87,,this is too loud can you turn it down,audio_volume_down,1
+88,,I want to listen to Educated by Tara Westover again,play_audiobook,6
+89,,Remove all upcoming appointments,calendar_remove,2
+90,,please start playing sapiens right away,play_audiobook,6
+91,,reduce the noise level right now,audio_volume_down,1
+92,,would you mind turning it down,audio_volume_down,1
+93,,Cancel my doctor's appointment tomorrow,calendar_remove,2
+94,,What's a highly rated sci-fi movie out right now?,recommendation_movies,7
+95,,what is the next alarm scheduled for,alarm_query,0
+96,,if it is twelve fifteen pm bst how many hours ahead of new york,datetime_convert,4
+97,,Delete the conference call on Friday morning,calendar_remove,2
+98,,Suggest a romantic comedy I haven't seen yet.,recommendation_movies,7
+99,,Pick up where we left off in The Power of Now by Eckhart Tolle,play_audiobook,6
+100,,are there any alarms currently set on this device,alarm_query,0
+101,,Suggest a thriller movie that I can stream online.,recommendation_movies,7
+102,,Wipe out all events scheduled for this month,calendar_remove,2
+103,,Remove everything from my schedule for tomorrow,calendar_remove,2
+104,,are there any alarms set for today,alarm_query,0
+105,,suggest a romantic comedy similar to crazy rich Asians,recommendation_movies,7
+106,,Can I get a round-trip airline ticket to Miami?,transport_ticket,8
+107,,will it snow in Denver next weekend?,weather_query,9
+108,,should I pack sunscreen or a coat for my trip to LA?,weather_query,9
+109,,i think we're all good at half volume now,audio_volume_down,1
+110,,play the next part of the power of now,play_audiobook,6
+111,,would it be possible to forward this email to the entire department,email_sendemail,5
+112,,if it's seven o'clock in chicago what time is it in new york,datetime_convert,4
+113,,does anyone have a good recipe for lemon garlic shrimp,cooking_recipe,3
+114,,is there a way to make gluten free pancakes taste like normal ones?,cooking_recipe,3
+115,,Book a train ticket to San Francisco with a window seat please.,transport_ticket,8
+116,,is there going to be a heatwave this summer,weather_query,9
+117,,can i get alexa to send an email to mom saying hi,email_sendemail,5
+118,,continue where I left off in sapiens,play_audiobook,6
+119,,give me some ideas for a fun family movie night,recommendation_movies,7
+120,,google assistant send an email to timothy stating he has been selected,email_sendemail,5
+121,,can you tell me what alarms are currently active,alarm_query,0
+122,,how many cups are in a pint of strawberries needed for shortcake,cooking_recipe,3
+123,,is it going to rain this weekend,weather_query,9
+124,,what's a highly rated sci-fi movie out right now,recommendation_movies,7
+125,,can you please shoot her an email,email_sendemail,5
+126,,need a quick easy recipe for homemade pizza dough,cooking_recipe,3
+127,,Get me a round-trip train ticket to Washington D.C. for this weekend.,transport_ticket,8
+128,,do you have any available seats on your train to vegas,transport_ticket,8
+129,,reduce the loudness,audio_volume_down,1
+130,,pick up where we left off in dune,play_audiobook,6
+131,,Reserve a train ticket to Seattle departing on Friday.,transport_ticket,8
+132,,do you have any movie recommendations based on my viewing history,recommendation_movies,7
+133,,Do I need an umbrella when I go out later today?,weather_query,9
+134,,can someone provide a step-by-step guide on making sushi at home?,cooking_recipe,3
+135,,are there any active alarms right now,alarm_query,0
+136,,any good horror flicks playing nearby,recommendation_movies,7
+137,,how do i convert one o'clock pm pt to et,datetime_convert,4
+138,,could i get you to draft an email to dad,email_sendemail,5
+139,,what's the high temperature going to be like next Monday,weather_query,9
+140,,email jason back and tell him yes we have availability next friday,email_sendemail,5
+141,,Eliminate the dinner plans tonight,calendar_remove,2
+142,,give me some suggestions for a fun family movie night,recommendation_movies,7
+143,,Reserve a coach class ticket on Amtrak from Boston to Washington D.C.,transport_ticket,8
+144,,volume down right now,audio_volume_down,1
+145,,suggest a romantic movie similar to titanic,recommendation_movies,7
+146,,reserve a train ticket to washington dc today,transport_ticket,8
+147,,I want to hear the next chapter of Dune,play_audiobook,6
+148,,what's the five-day forecast looking like for New York City,weather_query,9
+149,,it's twelve fifteen pm bst how many hours ahead of los angeles is it,datetime_convert,4
+150,,hey google could you compose an email to sara saying hi,email_sendemail,5
+151,,i need to convert the time from mountain standard time to eastern european time,datetime_convert,4
+152,,Show me available train tickets from San Francisco to Seattle.,transport_ticket,8
+153,,it's nine o'clock pm bst how late is it in dubai,datetime_convert,4
+154,,Cancel all upcoming appointments,calendar_remove,2
+155,,i want to schedule a meeting at nine am pst but my client is in paris france so what time does he need to attend,datetime_convert,4
+156,,Take off the doctor's appointment on Wednesday afternoon.,calendar_remove,2
+157,,it's way too loud can you bring it down,audio_volume_down,1
+158,,looking for a simple crock pot beef stew recipe anyone got one,cooking_recipe,3
+159,,what is the equivalent of eleven am british summer time in california,datetime_convert,4
+160,,suggest a romantic movie that just came out,recommendation_movies,7
+161,,i'm currently in new york what would be the time in frankfurt germany right now,datetime_convert,4
+162,,can you quieten it down a bit,audio_volume_down,1
+163,,I'd like to purchase a round-trip airline ticket to Denver.,transport_ticket,8
+164,,convert twelve fifteen pm cet to indian standard time,datetime_convert,4
+165,,Wipe clean my daily planner,calendar_remove,2
+166,,does anyone have a recipe for classic beef stroganoff?,cooking_recipe,3
+167,,suggest a horror movie that just came out on netflix,recommendation_movies,7
+168,,can you please shoot an email to sally,email_sendemail,5
+169,,ask google assistant to write an email to dad wishing happy birthday,email_sendemail,5
+170,,are all of my alarms turned on,alarm_query,0
+171,,if it is eleven am cst how many hours ahead is chicago of los angeles,datetime_convert,4
+172,,Can I listen to Sapiens again?,play_audiobook,6
+173,,suggest a horror movie that just came out,recommendation_movies,7
+174,,How do I buy a subway pass in New York City?,transport_ticket,8
+175,,that's way too loud turn it down,audio_volume_down,1
+176,,begin playing the power of now for me,play_audiobook,6
+177,,Book a round-trip ticket on Amtrak from DC to Boston for tomorrow.,transport_ticket,8
+178,,can you convert seven forty five am cst to pst,datetime_convert,4
+179,,convert nine fifteen pm bst to cet,datetime_convert,4
+180,,Book a train ticket to San Francisco for three people please.,transport_ticket,8
+181,,volume's too high can you bring it down,audio_volume_down,1
+182,,is there a way to make homemade pizza dough from scratch,cooking_recipe,3
+183,,Clear out my entire schedule for this month,calendar_remove,2
+184,,what are some healthy ways to cook vegetables,cooking_recipe,3
+185,,Can you play the next part of Ready Player One,play_audiobook,6
+186,,Get me a ticket on the Amtrak train to Washington D.C. leaving today.,transport_ticket,8
+187,,do i need to bring an umbrella tomorrow,weather_query,9
+188,,does anyone have a recipe for homemade ravioli,cooking_recipe,3
+189,,list all alarms currently enabled,alarm_query,0
+190,,suggest a movie similar to Shawshank Redemption,recommendation_movies,7
+191,,Is it going to be hot and sunny at the beach next Saturday?,weather_query,9
+192,,are there any alarms currently set for today,alarm_query,0
+193,,should i pack sunscreen or a jacket for this weekend,weather_query,9
+194,,what are the steps to make homemade pasta sauce?,cooking_recipe,3
+195,,can someone provide me with a basic recipe for spaghetti sauce?,cooking_recipe,3
+196,,start playing born a crime,play_audiobook,6
+197,,i need to schedule a call at nine am pst how would that be in uk,datetime_convert,4
+198,,can you convert seven forty-five pm est to cst,datetime_convert,4
+199,,Get rid of the conference call set for next Thursday morning.,calendar_remove,2
+200,,have i got an alarm set for this evening,alarm_query,0
+201,,tell sarah via email that we've received her application,email_sendemail,5
+202,,Clear out my entire schedule for the month.,calendar_remove,2
+203,,Resume my last listened audiobook,play_audiobook,6
+204,,volume needs to come down,audio_volume_down,1
+205,,Can I see all the alarms I've set so far?,alarm_query,0
+206,,Can I get a train ticket to Chicago for tomorrow?,transport_ticket,8
+207,,I'm getting a headache could you please quieten it down,audio_volume_down,1
+208,,can you lower the volume now,audio_volume_down,1
+209,,Clear out my entire daily planner,calendar_remove,2
+210,,Pick up where we stopped in The Power of Now audiobook.,play_audiobook,6
+211,,is there a simple way to poach eggs?,cooking_recipe,3
+212,,suggest a recent release that I might enjoy,recommendation_movies,7
+213,,Remove everything from my schedule today.,calendar_remove,2
+214,,Can I expect sunshine tomorrow morning?,weather_query,9
+215,,can I get a basic recipe for making chocolate chip cookies,cooking_recipe,3
+216,,Wipe clean my calendar for the rest of the year,calendar_remove,2
+217,,suggest a romantic comedy similar to when harry met sally,recommendation_movies,7
+218,,check if my daily alarm is still on,alarm_query,0
+219,,Erase the dinner reservation tonight.,calendar_remove,2
+220,,can you help me draft an email to sarah about the party tonight,email_sendemail,5
+221,,what's the equivalent time of twelve fifteen pm bst in kolkata indian standard time,datetime_convert,4
+222,,i'm bored can you recommend something on netflix,recommendation_movies,7
+223,,what would be the equivalent time in japan if it's eight pm edt,datetime_convert,4
+224,,is there a way to make homemade pasta sauce without tomatoes?,cooking_recipe,3
+225,,Reserve a coach class ticket on Amtrak to Washington D.C. for Friday.,transport_ticket,8
+226,,it's currently seven fifteen am edt would someone in paris be awake yet,datetime_convert,4
+227,,do I need an umbrella today,weather_query,9
+228,,Do I need to pack sunscreen or a jacket for my trip to California?,weather_query,9
+229,,will it snow tomorrow in new york city,weather_query,9
+230,,what's a highly rated movie currently showing nearby,recommendation_movies,7
+231,,what's the temperature outside right now,weather_query,9
+232,,"I'm bored, play a movie you think I'd enjoy!",recommendation_movies,7
+233,,send a quick email to the team reminding them of tomorrow's meeting,email_sendemail,5
+234,,what are the steps involved in making beef stroganoff?,cooking_recipe,3
+235,,do I still have any active alarms,alarm_query,0
+236,,Cancel my schedule for tomorrow,calendar_remove,2
+237,,send an email to jessica telling her i'll meet her tomorrow morning,email_sendemail,5
+238,,how many hours ahead of new york is bangkok,datetime_convert,4
+239,,should I pack an extra jacket for New York City next month,weather_query,9
+240,,any recommendations on recent releases worth watching,recommendation_movies,7
+241,,it's twelve fifty pm edt how much time has passed since noon in los angeles,datetime_convert,4
+242,,where can i purchase an airline ticket to denver,transport_ticket,8
+243,,any good romantic comedies out lately,recommendation_movies,7
+244,,can you convert nine forty-five am cst to est,datetime_convert,4
+245,,launch audible and start playing the power of now,play_audiobook,6
+246,,create an email to steve regarding our meeting tomorrow morning,email_sendemail,5
+247,,soften the music,audio_volume_down,1
+248,,volume level is too high can you lower it,audio_volume_down,1
+249,,Should I pack sunscreen or a jacket for my trip to Hawaii?,weather_query,9
+250,,How many alarms do I currently have scheduled?,alarm_query,0
+251,,could you shoot lisa an email saying hi from me,email_sendemail,5
+252,,What are the chances of thunderstorms tonight?,weather_query,9
+253,,do you know of any recipes using tilapia fish,cooking_recipe,3
+254,,Can I see the list of alarms I've set so far?,alarm_query,0
+255,,can someone recommend a good recipe for sweet potato casserole,cooking_recipe,3
+256,,can someone tell me how long it takes to roast a chicken,cooking_recipe,3
+257,,what's the current temperature outside right now?,weather_query,9
+258,,volume's too high can you lower it,audio_volume_down,1
+259,,send an email to my aunt saying happy birthday,email_sendemail,5
+260,,Do I need an umbrella when going out tonight?,weather_query,9
+261,,continue playing the book I was listening to earlier,play_audiobook,6
+262,,can you decrease the speaker's volume,audio_volume_down,1
+263,,can you check if I've got an alarm set for later today,alarm_query,0
+264,,send an email to all participants reminding them of tomorrow's meeting,email_sendemail,5
+265,,do you know of any simple recipes using ground beef,cooking_recipe,3
+266,,hey alexa send an email to sally regarding the party tonight,email_sendemail,5
+267,,Delete the upcoming birthday celebration from my calendar,calendar_remove,2
+268,,what is the status of my alarm for this evening,alarm_query,0
+269,,I want to listen to the audiobook The Alchemist again,play_audiobook,6
+270,,suggest a romantic comedy film please,recommendation_movies,7
+271,,would you mind sending an email to rachel reminding her of the deadline,email_sendemail,5
+272,,can you make it quiet,audio_volume_down,1
+273,,i'm in paris what time would it be right now in new york city,datetime_convert,4
+274,,Are there any new alarms that were recently added?,alarm_query,0
+275,,can you convert eight fortyfive am est to paris time,datetime_convert,4
+276,,is there going to be sunshine at the beach this weekend,weather_query,9
+277,,how many hours ahead of est is bst,datetime_convert,4
+278,,does anybody have a good chili con carne recipe they want to share,cooking_recipe,3
+279,,will you show me what alarms are currently enabled,alarm_query,0
+280,,Book a round-trip train ticket to San Francisco for me please.,transport_ticket,8
+281,,please draft an email to alex thanking her for the gift,email_sendemail,5
+282,,send an email to michael telling him we'll meet tomorrow at 2pm,email_sendemail,5
+283,,Continue where I left off in The Hitchhiker's Guide to the Galaxy audiobook.,play_audiobook,6
+284,,what time would eight o'clock am est be in perth western australia,datetime_convert,4
+285,,is there a storm predicted for tonight,weather_query,9
+286,,Do you have any movie recommendations based on my interests?,recommendation_movies,7
+287,,Erase the doctor's appointment scheduled for Friday.,calendar_remove,2
+288,,do I have any active alarms right now,alarm_query,0
+289,,suggest a horror flick similar to get out,recommendation_movies,7
+290,,i'm bored can you recommend a fun movie to pass time,recommendation_movies,7
+291,,Take away the birthday celebration from my calendar,calendar_remove,2
+292,,is there a way to make homemade ravioli without a pasta machine,cooking_recipe,3
+293,,lower the noise level,audio_volume_down,1
+294,,i want to know whats the time difference between new york and sydney,datetime_convert,4
+295,,Erase the birthday dinner from June 15th,calendar_remove,2
+296,,would you mind turning down the music just a bit,audio_volume_down,1
+297,,is there a way to make garlic bread without butter,cooking_recipe,3
+298,,Cancel all upcoming appointments.,calendar_remove,2
+299,,Lower the sound a bit,audio_volume_down,1
+300,,should i pack sunscreen or an umbrella for my trip to florida next month,weather_query,9
+301,,can you convert eight forty-five am from central european summer time to eastern standard time,datetime_convert,4
+302,,Show me available airline tickets from Denver to Seattle today.,transport_ticket,8
+303,,how long does it take to roast a turkey breast,cooking_recipe,3
+304,,Show me available ferry tickets from Boston to Provincetown.,transport_ticket,8
+305,,reduce the sound output,audio_volume_down,1
+306,,I want to hear The Nightingale audiobook now,play_audiobook,6
+307,,hey google could you please send an email to sarah saying hi,email_sendemail,5
+308,,can you recommend a classic film I haven't seen yet,recommendation_movies,7
+309,,Clear out my entire agenda for the month,calendar_remove,2
+310,,what are the steps to make homemade pasta sauce,cooking_recipe,3
+311,,suggest something similar to interstellar,recommendation_movies,7
+312,,Erase the conference call from my calendar,calendar_remove,2
+313,,is there a way to make gluten-free banana bread?,cooking_recipe,3
+314,,do you know of any good recipes using sweet potatoes,cooking_recipe,3
+315,,Book a round-trip train ticket from Chicago to New York City please.,transport_ticket,8
+316,,could someone please tell me how long it takes to roast vegetables,cooking_recipe,3
+317,,can you resume the audiobook where I left off,play_audiobook,6
+318,,dictate an email to aunt mary wishing her happy birthday,email_sendemail,5
+319,,what's a good action flick to rent,recommendation_movies,7
+320,,if it is seven am bst how many hours ahead is sydney,datetime_convert,4
+321,,do i need an umbrella tomorrow,weather_query,9
+322,,are there any good horror movies playing in theaters right now,recommendation_movies,7
+323,,How hot will it get in New York City next Friday?,weather_query,9
+324,,Remove everything from my schedule,calendar_remove,2
+325,,can someone tell me how long it takes to roast vegetables,cooking_recipe,3
+326,,How's the weather looking for the rest of the week?,weather_query,9
+327,,Is it going to be hot tomorrow?,weather_query,9
+328,,would you mind sending an email to peter reminding him of our appointment,email_sendemail,5
+329,,could you make the radio quieter,audio_volume_down,1
+330,,start an email to mom and dad saying happy birthday,email_sendemail,5
+331,,it's nine am cst how many hours ahead of chicago is berlin,datetime_convert,4
+332,,reserve a first class ticket on american airlines,transport_ticket,8
+333,,please play the alchemist,play_audiobook,6
+334,,go ahead and fire off an email to rachel letting her know we've received everything,email_sendemail,5
+335,,Wipe clean my entire calendar for the rest of the year,calendar_remove,2
+336,,reduce the sound level,audio_volume_down,1
+337,,i need to schedule a call with someone in paris but it's currently twelve fifteen pm cst how do i figure out their local time,datetime_convert,4
+338,,It's way too loud can someone turn it down?,audio_volume_down,1
+339,,can i see all of my alarms,alarm_query,0
+340,,Book a train ticket to San Francisco for tomorrow morning please.,transport_ticket,8
+341,,can you convert twelve forty-five am est to pst,datetime_convert,4
+342,,Resume where I left off in The Nightingale audiobook.,play_audiobook,6
+343,,the music is blasting could you lower it,audio_volume_down,1
+344,,can you lower the sound,audio_volume_down,1
+345,,does anyone have a decent apple crisp recipe,cooking_recipe,3
+346,,could someone tell me how long it takes to roast beef tenderloin?,cooking_recipe,3
+347,,hey alexa could you please forward this message to mom,email_sendemail,5
+348,,could you keep it down i'm trying to sleep,audio_volume_down,1
+349,,Delete the conference call on Friday,calendar_remove,2
+350,,Clear out my entire agenda,calendar_remove,2
+351,,Any good action movies coming out soon?,recommendation_movies,7
+352,,give me a list of top-rated thrillers from the past year,recommendation_movies,7
+353,,Erase the conference call scheduled for Friday,calendar_remove,2
+354,,how do i convert twelve fifteen am bst to pst,datetime_convert,4
+355,,is there a way to bake sweet potato fries in oven,cooking_recipe,3
+356,,can I expect sunshine this weekend,weather_query,9
+357,,Can you give me an update on tomorrow's forecast?,weather_query,9
+358,,Delete the upcoming birthday celebration from my calendar.,calendar_remove,2
+359,,volume down please,audio_volume_down,1
+360,,what's the status on my previously set alarms,alarm_query,0
+361,,please play the next part of the alchemist audiobook,play_audiobook,6
+362,,quieten it down,audio_volume_down,1
+363,,Is it going to be sunny or cloudy today?,weather_query,9
+364,,hey alexa could you shoot patrick an email asking if he wants to meet up tonight,email_sendemail,5
+365,,Delete upcoming appointments,calendar_remove,2
+366,,can i get a bus ticket to san francisco,transport_ticket,8
+367,,Reserve a shuttle service ticket from LAX to Disneyland.,transport_ticket,8
+368,,Resume my previous audiobook,play_audiobook,6
+369,,that's really loud could you bring it down,audio_volume_down,1
+370,,Can I expect sunshine this weekend?,weather_query,9
+371,,Continue where I left off in The Alchemist audiobook,play_audiobook,6
+372,,it's nine fifty pm where i am what time is it right now in frankfurt germany,datetime_convert,4
+373,,what would eight pm eastern daylight time be in pacific standard time,datetime_convert,4
+374,,i'm in california right now but need to schedule a call for nine am bst how does that translate,datetime_convert,4
+375,,what's the equivalent time in paris france if it's twelve thirty pm here,datetime_convert,4
+376,,I'm looking for cheap airline tickets to Denver.,transport_ticket,8
+377,,can you please forward this information via email to sarah,email_sendemail,5
+378,,can i send an email to samantha,email_sendemail,5
+379,,Get me a ticket on the next train to San Francisco.,transport_ticket,8
+380,,should I pack an extra jacket for Chicago next month,weather_query,9
+381,,do you have any good recommendations for a family friendly film,recommendation_movies,7
+382,,i'm bored can you recommend something to watch,recommendation_movies,7
+383,,can you convert nine forty five pm est to cst,datetime_convert,4
+384,,How cold will it get tonight?,weather_query,9
+385,,Show me available train tickets from Los Angeles to Seattle.,transport_ticket,8
+386,,what are the ingredients needed for making homemade pizza dough?,cooking_recipe,3
+387,,tell alexa to shoot over an email to dad,email_sendemail,5
+388,,what is the status of my alarm settings,alarm_query,0
+389,,Cancel the conference call tomorrow morning,calendar_remove,2
+390,,Start playing Born a Crime by Trevor Noah from the beginning,play_audiobook,6
+391,,any suggestions for a fun family movie night?,recommendation_movies,7
+392,,Get me a first-class train ticket to Washington D.C. for Friday.,transport_ticket,8
+393,,tell dad i said hello via email,email_sendemail,5
+394,,will you show me all my upcoming alarms,alarm_query,0
+395,,start an email to michael regarding our meeting tomorrow morning,email_sendemail,5
+396,,"Make it quiet, I have a headache",audio_volume_down,1
+397,,is there a new release worth watching at the cinema,recommendation_movies,7
+398,,Are there any alarms scheduled for tonight?,alarm_query,0
+399,,Get rid of the dinner reservation tonight,calendar_remove,2
+400,,if its noon in new york whats the time in paris,datetime_convert,4
+401,,can you resume the audiobook I was listening to yesterday,play_audiobook,6
+402,,hey google could you please draft an email to sara regarding friday's meeting,email_sendemail,5
+403,,read me the next chapter of the alchemist,play_audiobook,6
+404,,the music is blasting could you turn it down,audio_volume_down,1
+405,,Take off the birthday celebration on July 15th.,calendar_remove,2
+406,,"It's blasting, can you turn it down?",audio_volume_down,1
+407,,hey google could you shoot victoria an email saying i'll meet her there,email_sendemail,5
+408,,what's the status of my alarm settings,alarm_query,0
+409,,continue listening to the power of now audiobook,play_audiobook,6
+410,,Is it going to snow this weekend?,weather_query,9
+411,,convert 10:45am cet to eastern standard time,datetime_convert,4
+412,,what are the ingredients needed to make classic chocolate chip cookies?,cooking_recipe,3
+413,,Show me available train tickets from Boston to Washington D.C. today.,transport_ticket,8
+414,,does anyone have a good beef stew recipe they'd like to share,cooking_recipe,3
+415,,I want to listen to The Alchemist again from the beginning,play_audiobook,6
+416,,give me directions on how to roast vegetables,cooking_recipe,3
+417,,what would eight pm edt be in paris france,datetime_convert,4
+418,,what's the best movie out right now,recommendation_movies,7
+419,,any decent horror flicks come out recently,recommendation_movies,7
+420,,can you give me an update on the current weather condition,weather_query,9
+421,,Continue listening to Sapiens: A Brief History of Humankind where I left off,play_audiobook,6
+422,,will there be thunderstorms tonight in New York City,weather_query,9
+423,,Delete the birthday celebration on July 15th,calendar_remove,2
+424,,Can I listen to Sapiens right now?,play_audiobook,6
+425,,dictate an email to grandma letting her know i'll visit soon,email_sendemail,5
+426,,can you convert 3 pm cst to pst,datetime_convert,4
+427,,can you give me the current temperature outside,weather_query,9
+428,,Pick up where we stopped in The Power by Naomi Alderman,play_audiobook,6
+429,,Remove the conference call from my schedule,calendar_remove,2
+430,,do you have any recommendations for a romantic comedy,recommendation_movies,7
+431,,Get rid of the yoga class booking for Thursday afternoon.,calendar_remove,2
+432,,what's the temperature like outside right now,weather_query,9
+433,,are there any alarms set today,alarm_query,0
+434,,can i get you to shoot an email to sarah,email_sendemail,5
+435,,Cancel all of my meetings for tomorrow please.,calendar_remove,2
+436,,will you show me what alarms are currently set,alarm_query,0
+437,,can I expect sunshine tomorrow,weather_query,9
+438,,can you convert eight pm eastern standard time to pacific standard time,datetime_convert,4
+439,,Book a train ticket to Seattle for tomorrow morning please.,transport_ticket,8
+440,,Get rid of the conference call set for next Thursday,calendar_remove,2
+441,,the music is way too loud can you turn it down,audio_volume_down,1
+442,,should I pack an extra layer for my trip to Chicago next month,weather_query,9
+443,,do you know any good recipes for homemade pizza dough,cooking_recipe,3
+444,,Eliminate the birthday celebration from my calendar,calendar_remove,2
+445,,can you show all alarms,alarm_query,0
+446,,can you resume my place in sapiens audiobook,play_audiobook,6
+447,,can i get you to shoot an email over to marketing,email_sendemail,5
+448,,start playing the audiobook I paused yesterday,play_audiobook,6
+449,,Recommend a horror movie that just came out.,recommendation_movies,7
+450,,google assistant can you shoot an email to dad telling him i'll call later,email_sendemail,5
+451,,reduce the noise output,audio_volume_down,1
+452,,suggest a romantic comedy film I might enjoy,recommendation_movies,7
+453,,Cancel all events scheduled for tomorrow,calendar_remove,2
+454,,start over from chapter five of the power brokers,play_audiobook,6
+455,,Decrease the sound output I have a headache,audio_volume_down,1
+456,,tell siri to compose an email to mom saying hi,email_sendemail,5
+457,,what's currently showing at my local cinema,recommendation_movies,7
+458,,check if the alarm is on for our meeting later,alarm_query,0
+459,,got any recommendations for an action adventure film,recommendation_movies,7
+460,,compose an email to grandma updating her on my recent trip,email_sendemail,5
+461,,Get me a quote for a one-way train ticket from Chicago to Denver.,transport_ticket,8
+462,,does anybody have a recipe for homemade ravioli dough,cooking_recipe,3
+463,,Continue playing the audiobook I was listening to earlier,play_audiobook,6
+464,,looking for a new way to make homemade pizza crust does anyone have a good recipe,cooking_recipe,3
+465,,Erase the birthday dinner from my agenda,calendar_remove,2
+466,,can someone tell me what time it would be in japan if its eleven pm est,datetime_convert,4
+467,,start playing the power of now,play_audiobook,6
+468,,does anyone have a great recipe for homemade pasta sauce,cooking_recipe,3
+469,,will you show me what alarms i've got set,alarm_query,0
+470,,ask alexa to send an email to sarah,email_sendemail,5
+471,,what is the current time in paris when it is eleven am pst,datetime_convert,4
+472,,Remove everything from my schedule today,calendar_remove,2
+473,,are there any alarms set between 7am and 10pm today,alarm_query,0
+474,,can alexa send an email to uncle bob,email_sendemail,5
+475,,give me directions on making chocolate chip cookies,cooking_recipe,3
+476,,Will you remind me what time my daily alarm is set?,alarm_query,0
+477,,would someone tell me what time it'd be in frankfurt germany if it were eleven fiftyam cst,datetime_convert,4
+478,,display my current alarm settings,alarm_query,0
+479,,suggest a recent release worth watching,recommendation_movies,7
+480,,can you give me an update on the current temperature outside,weather_query,9
+481,,Show me available train tickets from San Francisco to Seattle today.,transport_ticket,8
+482,,suggest a great sci-fi film for me,recommendation_movies,7
+483,,are there any alarms currently set,alarm_query,0
+484,,Erase all meetings scheduled for August,calendar_remove,2
+485,,do you know of any good recipes for vegan macaroni cheese?,cooking_recipe,3
+486,,could someone tell me what temperature to bake chicken breasts at,cooking_recipe,3
+487,,would you happen to know a recipe for traditional german apple strudel?,cooking_recipe,3
+488,,i think it's too loud can you turn it down,audio_volume_down,1
+489,,convert one fifteen pm cet to jst,datetime_convert,4
+490,,how much later is paris than madrid time wise,datetime_convert,4
+491,,hey alexa could you please draft an email to lisa,email_sendemail,5
+492,,ask siri to compose an email to ben,email_sendemail,5
+493,,how do you convert eleven fifteen am cst into berlin time,datetime_convert,4
+494,,please write an email to sarah explaining the situation,email_sendemail,5
+495,,Do you have any deals on airline tickets to Hawaii for next month?,transport_ticket,8
+496,,please tell me what time it would be in japan if it was eight forty-five am here,datetime_convert,4
+497,,Erase the dinner reservation tonight,calendar_remove,2
+498,,Can you play me the next chapter of Dune,play_audiobook,6
+499,,any romantic comedies worth watching right now,recommendation_movies,7
+500,,can you show me all my current alarms,alarm_query,0
+501,,Continue playing Where the Crawdads Sing,play_audiobook,6
+502,,Cancel my doctor's appointment tomorrow and clear the rest of the day.,calendar_remove,2
+503,,can you show me all of my active alarms,alarm_query,0
+504,,can someone tell me what time it'd be in chicago if it were three pm bst,datetime_convert,4
+505,,reserve a ticket on the greyhound to philadelphia,transport_ticket,8
+506,,Will it rain tomorrow?,weather_query,9
+507,,How many active alarms do I currently have?,alarm_query,0
+508,,what's the temperature like in los angeles this time of year,weather_query,9
+509,,the music is way too loud can you adjust it,audio_volume_down,1
+510,,Clear out my entire calendar for the month of July.,calendar_remove,2
+511,,lower the noise,audio_volume_down,1
+512,,do I have an alarm set for tonight,alarm_query,0
+513,,please play the next chapter of dune,play_audiobook,6
+514,,start playing my current audiobook where I left off,play_audiobook,6
+515,,Erase the dinner plans tonight,calendar_remove,2
+516,,list out all the alarms that were previously set,alarm_query,0
+517,,does anyone have a simple recipe for homemade pasta sauce?,cooking_recipe,3
+518,,do you have a suggestion for a thriller movie,recommendation_movies,7
+519,,How hot will it get during the day in Miami?,weather_query,9
+520,,Eliminate the team meeting on Friday,calendar_remove,2
+521,,where do i buy a ticket for the subway,transport_ticket,8
+522,,should i pack sunscreen or a jacket for my trip to florida next month,weather_query,9
+523,,the music is way too loud can you lower it,audio_volume_down,1
+524,,ok google help me write an email to samantha introducing myself and discussing potential collaboration opportunities,email_sendemail,5
+525,,Do I have an alarm set for this evening already?,alarm_query,0
+526,,what's a highly rated sci-fi movie currently showing,recommendation_movies,7
+527,,how long does it take to roast vegetables in the oven?,cooking_recipe,3
+528,,what's the status of my 7am alarm,alarm_query,0
+529,,The music is blasting could you bring it down a bit?,audio_volume_down,1
+530,,Do you have a suggestion for a family-friendly movie we can all watch together?,recommendation_movies,7
+531,,Cancel all upcoming events please.,calendar_remove,2
+532,,could you make it quiet,audio_volume_down,1
+533,,do I need an umbrella tomorrow morning?,weather_query,9
+534,,can you convert nine forty five pm pacific standard time to eastern standard time,datetime_convert,4
+535,,Do I have any alarms scheduled for today or tomorrow?,alarm_query,0
+536,,Reserve a coach class train ticket from Boston to Washington D.C. for Friday morning.,transport_ticket,8
+537,,I'm looking for a cheap train ticket to Boston for this weekend.,transport_ticket,8
+538,,give me some recommendations on what to watch at the cinema tonight,recommendation_movies,7
+539,,do you know of any good recipes using ground turkey,cooking_recipe,3
+540,,what's the current temperature outside,weather_query,9
+541,,Is there a storm warning issued for Chicago today?,weather_query,9
+542,,Do I need an umbrella when I go out later?,weather_query,9
+543,,Erase the conference call from my agenda,calendar_remove,2
+544,,could you draft an email to hr regarding the benefits question i had yesterday,email_sendemail,5
+545,,volume is way up high can you take it down,audio_volume_down,1
+546,,volume's way too high can you fix it,audio_volume_down,1
+547,,Cancel all meetings planned for tomorrow,calendar_remove,2
+548,,Can you lower the volume a notch or two?,audio_volume_down,1
+549,,do you know any good recipes for baked sweet potatoes?,cooking_recipe,3
+550,,Continue listening to Sapiens where I left off,play_audiobook,6
+551,,i'm looking for something similar to inception can you recommend anything,recommendation_movies,7
+552,,i'm bored can you recommend something interesting to watch,recommendation_movies,7
+553,,Get rid of the doctor's visit tomorrow afternoon,calendar_remove,2
+554,,are there any alarms going off soon,alarm_query,0
+555,,the music is blasting can you turn it down,audio_volume_down,1
+556,,can someone please share their favorite chili recipe,cooking_recipe,3
+557,,hi would it be possible to reply to michael's email,email_sendemail,5
+558,,i need a movie suggestion something funny,recommendation_movies,7
+559,,Delete the conference call from my calendar,calendar_remove,2
+560,,tell siri to send an email to emily thanking her for the gift,email_sendemail,5
+561,,can you purchase a bus ticket to florida,transport_ticket,8
+562,,send a quick email to mom saying hi and asking when she's free to talk,email_sendemail,5
+563,,Get me a return train ticket to Boston for the weekend.,transport_ticket,8
+564,,Start playing the newest release from Malcolm Gladwell's audiobooks.,play_audiobook,6
+565,,Get me a ticket on the earliest train to Boston.,transport_ticket,8
+566,,would it be possible to send an email to paul regarding friday's meeting,email_sendemail,5
+567,,can someone provide a simple recipe for banana bread,cooking_recipe,3
+568,,is there a new release worth watching at the cinema this weekend,recommendation_movies,7
+569,,are we expecting any severe thunderstorms in the area tonight,weather_query,9
+570,,are there any alarms scheduled for tonight,alarm_query,0
+571,,Reserve a coach class train ticket to Seattle departing Friday afternoon.,transport_ticket,8
+572,,lower the music,audio_volume_down,1
+573,,i'm in chicago what time would it be if it were nine am cst,datetime_convert,4
+574,,Are there any new alarms since yesterday?,alarm_query,0
+575,,it's nine forty-five am where i'm at but what time would it be in singapore,datetime_convert,4
+576,,is there any good sci-fi movie out recently that I haven't seen yet,recommendation_movies,7
+577,,Clear out my entire calendar for the rest of the month.,calendar_remove,2
+578,,would you mind sending an email to jason regarding our meeting tomorrow,email_sendemail,5
+579,,start over from the beginning of this audiobook,play_audiobook,6
+580,,Reserve a coach class ticket on the Amtrak to Washington D.C.,transport_ticket,8
+581,,Do I need an umbrella today?,weather_query,9
+582,,purchase a round trip ticket to san francisco,transport_ticket,8
+583,,what's the status of my morning alarm,alarm_query,0
+584,,what alarms did i previously set,alarm_query,0
+585,,do you know of any recipes using ground turkey,cooking_recipe,3
+586,,do you know of any good recipes for slow cooker beef stew?,cooking_recipe,3
+587,,start over from where I left off in the power broker,play_audiobook,6
+588,,Can you resume my place in The Nightingale audiobook,play_audiobook,6
+589,,create an email to mom saying hello,email_sendemail,5
+590,,Play the next part of Daring Greatly by Brene Brown,play_audiobook,6
+591,,volume is too high can you lower it,audio_volume_down,1
+592,,how many hours ahead or behind is los angeles compared to madrid,datetime_convert,4
+593,,show me what's playing this weekend,recommendation_movies,7
+594,,can you convert twelve forty five pm cst to est,datetime_convert,4
+595,,Reserve a ticket on the Amtrak train to Washington D.C.,transport_ticket,8
+596,,Play the beginning of Dune by Frank Herbert,play_audiobook,6
+597,,how long does it take to grill shrimp,cooking_recipe,3
+598,,it is currently eleven fifty pm cet can someone tell me what time it is in chicago right now,datetime_convert,4
+599,,should I pack an extra jacket for new york city next month,weather_query,9
+600,,Get me a one-way train ticket to San Francisco please.,transport_ticket,8
+601,,are there any great indie films playing at my local theater right now,recommendation_movies,7
+602,,I want to listen to the audiobook version of To Kill a Mockingbird.,play_audiobook,6
+603,,if it's noon in california what time is it in florida,datetime_convert,4
+604,,Can you make it softer?,audio_volume_down,1
+605,,Is it going to be hot tomorrow afternoon?,weather_query,9
+606,,I'd like to listen to Educated now,play_audiobook,6
+607,,Start playing The Alchemist by Paulo Coelho again,play_audiobook,6
+608,,give me a list of highly rated movies currently in theaters,recommendation_movies,7
+609,,what's the next alarm that will trigger,alarm_query,0
+610,,Can you resume my place in The Nightingale audiobook?,play_audiobook,6
+611,,start over with the last chapter of sapiens,play_audiobook,6
+612,,buy an amtrak ticket online,transport_ticket,8
+613,,Can I expect sunny skies this weekend in LA?,weather_query,9
+614,,hi can you please help me draft an email to paul regarding friday meeting,email_sendemail,5
+615,,can you convert nine fortyfive am est to mountain standard time,datetime_convert,4
+616,,can you please forward this message to martin,email_sendemail,5
+617,,how long does it take to roast vegetables like broccoli or cauliflower?,cooking_recipe,3
+618,,do I have any recurring alarms set on weekdays,alarm_query,0
+619,,anyone have a simple homemade pizza dough recipe they'd like to share,cooking_recipe,3
+620,,could you quieten this down for me,audio_volume_down,1
+621,,what's the best superhero film currently streaming,recommendation_movies,7
+622,,do you have a recipe for creamy tomato soup,cooking_recipe,3
+623,,Get rid of the dinner reservation tomorrow night,calendar_remove,2
+624,,I'm looking for a horror flick can you recommend one,recommendation_movies,7
+625,,Do I need to bring an umbrella when I go out later?,weather_query,9
+626,,Can I get a return train ticket from Paris to Amsterdam?,transport_ticket,8
+627,,that's way too loud can you lower it,audio_volume_down,1
+628,,Delete the conference call on Friday from my schedule.,calendar_remove,2
+629,,Delete the meeting at 2 PM today,calendar_remove,2
+630,,would you mind sending an email to sarah,email_sendemail,5
+631,,i'm in chicago what time would it be in paris,datetime_convert,4
+632,,Start playing The Hitchhiker's Guide to the Galaxy again,play_audiobook,6
+633,,Show me available airline tickets to Las Vegas.,transport_ticket,8
+634,,what's the status of my alarm for tonight,alarm_query,0
+635,,display my upcoming alarm schedule please,alarm_query,0
+636,,Cancel the conference call set for Friday,calendar_remove,2
+637,,i want to listen to the nightingale now,play_audiobook,6
+638,,Cancel all upcoming appointments related to work.,calendar_remove,2
+639,,would someone be able to convert seven pm cst into bst for me,datetime_convert,4
+640,,will it get colder later tonight,weather_query,9
+641,,Eliminate the doctor's visit on Friday morning,calendar_remove,2
+642,,chances of thunderstorms tonight,weather_query,9
+643,,reduce the speaker's output,audio_volume_down,1
+644,,check if i've got any upcoming alarms,alarm_query,0
+645,,send an email to mom saying hi,email_sendemail,5
+646,,have you got any reminders or alarms set for tonight,alarm_query,0
+647,,do you know of any good recipes using ground turkey?,cooking_recipe,3
+648,,are we expecting any severe thunderstorms tonight,weather_query,9
+649,,can you recommend a horror movie that came out recently,recommendation_movies,7
+650,,change eleven fifteen am pst to cet,datetime_convert,4
+651,,do i have any pending alarms,alarm_query,0
+652,,Clear out my entire calendar please,calendar_remove,2
+653,,could you shoot adam an email reminding him of our lunch plans today,email_sendemail,5
+654,,Can you play the next part of Sapiens?,play_audiobook,6
+655,,get me a ticket on the amtrak to seattle,transport_ticket,8
+656,,what's the best action movie of all time,recommendation_movies,7
+657,,i'm looking for a good beef stroganoff recipe,cooking_recipe,3
+658,,Show me which alarms will trigger within the next hour?,alarm_query,0
+659,,Can I expect sunshine during my trip to Hawaii next month?,weather_query,9
+660,,can you show me all active alarms,alarm_query,0
+661,,do i have an alarm set for tonight,alarm_query,0
+662,,Erase the doctor's appointment scheduled for Friday,calendar_remove,2
+663,,please start playing the hitchhiker's guide to the galaxy,play_audiobook,6
+664,,could you mute it or turn it down,audio_volume_down,1
+665,,anybody got a great chili con carne recipe they want to share,cooking_recipe,3
+666,,can i get you to shoot an email to her,email_sendemail,5
+667,,any recommendations on a recent release,recommendation_movies,7
+668,,do I need an umbrella outside right now,weather_query,9
+669,,this is way too loud could you turn it down,audio_volume_down,1
+670,,would it be possible to draft an email to mr smith regarding the meeting,email_sendemail,5
+671,,can I resume listening to sapiens audiobook,play_audiobook,6
+672,,Start playing the Unbroken audiobook by Laura Hillenbrand,play_audiobook,6
+673,,would you mind turning down the stereo,audio_volume_down,1
+674,,google assistant compose an email to lily saying sorry again for yesterday,email_sendemail,5
+675,,can you quieten this down,audio_volume_down,1
+676,,"I'm looking for a light-hearted movie to pass the time, any suggestions?",recommendation_movies,7
+677,,Where can I buy a ferry ticket to Catalina Island?,transport_ticket,8
+678,,check if my daily alarm is still enabled,alarm_query,0
+679,,give me some suggestions for romantic comedies currently in theaters,recommendation_movies,7
+680,,what's the best action movie out right now,recommendation_movies,7
+681,,make it softer will ya,audio_volume_down,1
+682,,any good romantic comedies out right now,recommendation_movies,7
+683,,could you make it softer,audio_volume_down,1
+684,,send an email to my boss saying i'll be late today,email_sendemail,5
+685,,what is the equivalent of eleven fifty am cet in newYork time,datetime_convert,4
+686,,reduce the speaker's volume,audio_volume_down,1
+687,,give me a suggestion for a family friendly film to watch with my kids,recommendation_movies,7
+688,,are there any highly rated sci fi films currently in theater,recommendation_movies,7
+689,,volume is too high can you fix it,audio_volume_down,1
+690,,Cancel the birthday party on Saturday,calendar_remove,2
+691,,I'd like to purchase an Amtrak ticket to Seattle for Friday.,transport_ticket,8
+692,,Book a train ticket with extra legroom to Seattle please.,transport_ticket,8
+693,,Cancel everything scheduled for tomorrow,calendar_remove,2
+694,,any ideas on how to bake sweet potato fries?,cooking_recipe,3
+695,,should i expect any sunshine over the weekend,weather_query,9
+696,,can you convert seven pm pacific standard time to eastern european time,datetime_convert,4
+697,,could you initiate an email to dan,email_sendemail,5
+698,,Reserve a first-class ticket on the Amtrak to Washington D.C.,transport_ticket,8
+699,,Do I have any upcoming alarms scheduled?,alarm_query,0
+700,,Is it going to be hot this summer in California?,weather_query,9
+701,,will it be humid at the beach this afternoon,weather_query,9
+702,,list out all the alarms that i've previously set,alarm_query,0
+703,,what time would it be in rio de janeiro if it's seven am in los angeles,datetime_convert,4
+704,,are all my alarms turned on right now,alarm_query,0
+705,,Get me a one-way ticket to Denver on Friday morning.,transport_ticket,8
+706,,can you resume my current audiobook,play_audiobook,6
+707,,Reserve a first-class airline ticket to Las Vegas for Friday.,transport_ticket,8
+708,,reduce the sound output now,audio_volume_down,1
+709,,will it be sunny during my trip next month,weather_query,9
+710,,start an email to mom telling her about our plans for thanksgiving,email_sendemail,5
+711,,what is the status of my alarm for tonight,alarm_query,0
+712,,Start playing Dune by Frank Herbert audiobook,play_audiobook,6
+713,,please play the hitchhiker's guide to the galaxy audiobook again,play_audiobook,6
+714,,what's my next upcoming alarm,alarm_query,0
+715,,is there any chance of thunderstorms later tonight,weather_query,9
+716,,can someone provide a good recipe for beef stroganoff,cooking_recipe,3
+717,,what's the high temperature going to be this weekend,weather_query,9
+718,,hey could you please draft an email to sara,email_sendemail,5
+719,,hi could you help me draft an email to the manager,email_sendemail,5
+720,,can i get you to shoot an email to steve,email_sendemail,5
+721,,Start Overdrive and play The Nightingale audiobook,play_audiobook,6
+722,,what's the best way to marinate steak before grilling,cooking_recipe,3
+723,,are there any alarms scheduled for this evening,alarm_query,0
+724,,Can you play the next part of Sapiens Audiobook,play_audiobook,6
+725,,Book a round-trip train ticket from San Francisco to Seattle.,transport_ticket,8
+726,,it's too loud can you lower it,audio_volume_down,1
+727,,convert twelve fifty-seven pm utc to eastern daylight time,datetime_convert,4
+728,,could you initiate an email chain with uncle joe regarding his birthday gift,email_sendemail,5
+729,,can you convert eight pm cst to bst,datetime_convert,4
+730,,can you recommend a sci-fi movie that was released recently,recommendation_movies,7
+731,,ok google would it be possible to compose an email to emily regarding our meeting tomorrow,email_sendemail,5
+732,,should i pack an umbrella when traveling to chicago next month,weather_query,9
+733,,i'm in chicago and need to schedule a call with someone in dubai what time works,datetime_convert,4
+734,,Start playing The Power again,play_audiobook,6
+735,,can you tell me the time difference between paris and sydney,datetime_convert,4
+736,,make it softer can you,audio_volume_down,1
+737,,Is it going to be sunny tomorrow morning?,weather_query,9
+738,,Resume my current audiobook where I left off,play_audiobook,6
+739,,have i got any alarms going off later today,alarm_query,0
+740,,could you help me figure out what time it'd be in california if it's eleven fifteen pm in texas,datetime_convert,4
+741,,send a brief email to jessica saying hi,email_sendemail,5
+742,,should I pack sunscreen or an umbrella for my trip to California next month,weather_query,9
+743,,any good action films out recently,recommendation_movies,7
+744,,make it quieter,audio_volume_down,1
+745,,reduce the volume a bit,audio_volume_down,1
+746,,currently its seven fortyfive am edt what time is it in china,datetime_convert,4
+747,,Get me a round-trip subway ticket to Brooklyn.,transport_ticket,8
+748,,can I resume my audiobook where I left off,play_audiobook,6
+749,,Remove everything scheduled for tomorrow.,calendar_remove,2
+750,,lower the volume,audio_volume_down,1
+751,,Delete the upcoming birthday party from my calendar,calendar_remove,2
+752,,continue where I left off in my audiobook,play_audiobook,6
+753,,can you keep it down I have a headache,audio_volume_down,1
+754,,I'm looking for a thriller that will keep me on the edge of my seat can you help me,recommendation_movies,7
+755,,can you recommend a highly rated sci-fi movie recently released,recommendation_movies,7
+756,,Clear out my entire calendar for the month of August,calendar_remove,2
+757,,tell me what alarms i've got going off soon,alarm_query,0
+758,,what time is my first alarm set for tomorrow,alarm_query,0
+759,,do you have any recommendations for a sci-fi flick,recommendation_movies,7
+760,,what's the current time in bangkok if it's nine pm in san francisco,datetime_convert,4
+761,,Can I see all my active alarms right now?,alarm_query,0
+762,,How many alarms did I set so far today?,alarm_query,0
+763,,Book a round-trip train ticket to San Francisco for tomorrow morning.,transport_ticket,8
+764,,could you compose an email to jason regarding the upcoming event,email_sendemail,5
+765,,Will it snow this weekend in New York City?,weather_query,9
+766,,looking for a simple way to make homemade pasta sauce,cooking_recipe,3
+767,,can you quieten down,audio_volume_down,1
+768,,Suggest a romantic comedy I might enjoy.,recommendation_movies,7
+769,,Recommend a recent release that got great reviews.,recommendation_movies,7
+770,,google assistant send an email to michael stating we will reschedule our call,email_sendemail,5
+771,,continue reading me the 7 habits of highly effective people,play_audiobook,6
+772,,Continue where I left off in Sapiens,play_audiobook,6
+773,,currently it's seven forty five am cst how much time has passed since midnight in sydney australia,datetime_convert,4
+774,,Continue playing The Nightingale when I stopped yesterday,play_audiobook,6
+775,,Erase the birthday celebration planned for Saturday evening.,calendar_remove,2
+776,,does anyone know how to cook perfect steak every time,cooking_recipe,3
+777,,need a ticket to san francisco on friday,transport_ticket,8
+778,,What's a highly rated action movie out right now?,recommendation_movies,7
+779,,should I pack sunscreen or a jacket for my trip to California,weather_query,9
+780,,would you please draft an email to mom and dad asking them what time they'll arrive,email_sendemail,5
+781,,Show me available tickets for a trip from Chicago to New York.,transport_ticket,8
+782,,play the first chapter of sapiens by yuval harari,play_audiobook,6
+783,,what time would it be in hong kong if it's currently three pm british summer time,datetime_convert,4
+784,,it's way too loud can you lower it,audio_volume_down,1
+785,,"I'm bored, can you pick a movie for me to watch?",recommendation_movies,7
+786,,check if there's an alarm set for tonight,alarm_query,0
+787,,what's the forecast looking like for new york city this weekend,weather_query,9
+788,,start an email to sarah asking her what she is up to,email_sendemail,5
+789,,do i have any alarms set for today,alarm_query,0
+790,,any good sci-fi films out recently,recommendation_movies,7
+791,,give me a list of highly rated action films from the past year,recommendation_movies,7
+792,,what are the ingredients needed for beef stew,cooking_recipe,3
+793,,Erase the conference call scheduled for next Thursday.,calendar_remove,2
+794,,what are the steps to make homemade pizza dough,cooking_recipe,3
+795,,Can I see a list of active alarms?,alarm_query,0
+796,,list out all the alarms currently enabled,alarm_query,0
+797,,list down all the alarms I've got currently set up,alarm_query,0
+798,,hey google could you please draft an email to kate,email_sendemail,5
+799,,hey can you draft an email to emily regarding our meeting tomorrow,email_sendemail,5
+800,,what's the weather like right now,weather_query,9
+801,,go ahead and compose an email to alex saying hello,email_sendemail,5
+802,,Should I bring an umbrella with me today?,weather_query,9
+803,,can you convert eight forty five am cst to est,datetime_convert,4
+804,,reduce the noise level,audio_volume_down,1
+805,,should I pack sunscreen or a jacket for my trip to California next month,weather_query,9
+806,,can you convert twelve forty five pm est to pst,datetime_convert,4
+807,,is there any good sci fi coming out soon,recommendation_movies,7
+808,,Erase the doctor's appointment scheduled for Friday afternoon,calendar_remove,2
+809,,need help finding a horror movie on netflix,recommendation_movies,7
+810,,Volume's way too high can someone fix it?,audio_volume_down,1
+811,,can you tell me what alarms i've got coming up today,alarm_query,0
+812,,can someone tell me what time it'll be in california when it's eleven fifty nine pm edt,datetime_convert,4
+813,,the music is blasting can you lower it,audio_volume_down,1
+814,,will you show me the list of my upcoming alarms,alarm_query,0
+815,,are there any highly rated sci-fi films out right now,recommendation_movies,7
+816,,can you help me write an email to dan thanking him for his support,email_sendemail,5
+817,,Remove everything scheduled for tomorrow,calendar_remove,2
+818,,i'm bored what's a fun movie to watch tonight,recommendation_movies,7
+819,,Resume my audiobook where I left off,play_audiobook,6
+820,,start playing the alchemist by paulo coelho again,play_audiobook,6
+821,,should I pack sunscreen or an umbrella for my trip,weather_query,9
+822,,could you quieten this down just a notch,audio_volume_down,1
+823,,i'm in new york right now but need to know what time it'll be in sydney when it's nine am my time,datetime_convert,4
+824,,if it's eleven pm bst what time would it be in california,datetime_convert,4
+825,,Are there any alarms going off at midnight tonight?,alarm_query,0
+826,,have any alarms been triggered recently,alarm_query,0
+827,,is there a simple way to make homemade pizza dough,cooking_recipe,3
+828,,can I get a recipe for spicy shrimp stir fry?,cooking_recipe,3
+829,,Can you lower the volume just a notch? It's blasting,audio_volume_down,1
+830,,check if i've got an alarm set at 7am,alarm_query,0
+831,,tone it down I'm having trouble hearing myself think,audio_volume_down,1
+832,,i'm currently in paris what time would it be in los angeles right now,datetime_convert,4
+833,,can you tell me what's currently showing at my local theater,recommendation_movies,7
+834,,it's eleven fifty am bst right now so what would the time be in sydney,datetime_convert,4
+835,,Clear out my entire calendar for September,calendar_remove,2
+836,,can someone tell me how long it takes to roast vegetables?,cooking_recipe,3
+837,,is there a substitute for butter when baking cookies,cooking_recipe,3
+838,,Delete my schedule for tomorrow,calendar_remove,2
+839,,Make it softer my ears are ringing,audio_volume_down,1
+840,,Will we have clear skies tonight?,weather_query,9
+841,,what's the five-day forecast looking like this week,weather_query,9
+842,,Show me available airline tickets to Miami.,transport_ticket,8
+843,,Get me a ticket on the next train to Boston.,transport_ticket,8
+844,,will my alarm go off at 7am tomorrow,alarm_query,0
+845,,i'm looking for an action packed movie can you recommend something,recommendation_movies,7
+846,,can you give me an update on the current weather,weather_query,9
+847,,Continue playing the Harry Potter series audiobook.,play_audiobook,6
+848,,start an email to mom telling her we'll visit next weekend,email_sendemail,5
+849,,can i get alexa to shoot her an email real quick,email_sendemail,5
+850,,do you know of any recipes that use pumpkin puree,cooking_recipe,3
+851,,does anyone have a good recipe for chocolate chip cookies,cooking_recipe,3
+852,,Take off the doctor's appointment on November 12th,calendar_remove,2
+853,,get me a cheap airline ticket to vegas,transport_ticket,8
+854,,is there a way to make homemade pasta sauce,cooking_recipe,3
+855,,Clear out my entire calendar for August,calendar_remove,2
+856,,what's the status on all my current alarms,alarm_query,0
+857,,do you know any good recipes using ground turkey,cooking_recipe,3
+858,,play the next part of the hitchhiker's guide to the galaxy,play_audiobook,6
+859,,Resume my last audiobook,play_audiobook,6
+860,,What's the next upcoming alarm that will trigger?,alarm_query,0
+861,,Delete the conference call scheduled for tomorrow morning.,calendar_remove,2
+862,,can someone tell me how long it takes to grill shrimp,cooking_recipe,3
+863,,give me a romantic comedy movie suggestion,recommendation_movies,7
+864,,please start playing the power by naomi alderman again,play_audiobook,6
+865,,is there a way to make gluten free banana bread?,cooking_recipe,3
+866,,if it's seven pm in new york what time is it in paris,datetime_convert,4
+867,,list out all of my upcoming scheduled alarms,alarm_query,0
+868,,forward this email to the marketing team please,email_sendemail,5
+869,,Can you give me an update on the weather forecast for New York City?,weather_query,9
+870,,does anybody know the best way to cook lobster tail at home,cooking_recipe,3
+871,,hello google can you assist me in sending an email to my brother wishing him happy birthday,email_sendemail,5
+872,,any good action movies lately,recommendation_movies,7
+873,,compose an email to aunt mary asking her what she's up to these days,email_sendemail,5
+874,,"I want to listen to The Nightingale again, can you start it over?",play_audiobook,6
+875,,Show me available train tickets from Chicago to Denver today.,transport_ticket,8
+876,,can you please draft an email to bob about the meeting tomorrow,email_sendemail,5
+877,,Start playing The Alchemist audiobook for me.,play_audiobook,6
+878,,Show me available airline tickets to Las Vegas for next month.,transport_ticket,8
+879,,volume is way too high can you bring it down,audio_volume_down,1
+880,,Get me a round-trip train ticket from Chicago to Denver.,transport_ticket,8
+881,,Book a round-trip ticket to Miami for me please.,transport_ticket,8
+882,,Continue playing my current audiobook where I left off,play_audiobook,6
+883,,can you convert nine forty-five pm cst to est,datetime_convert,4
+884,,can i get you to shoot her an email,email_sendemail,5
+885,,need help finding a recipe for lemon garlic shrimp,cooking_recipe,3
+886,,need help finding a classic recipe for chicken parmesan,cooking_recipe,3
+887,,can i get you to shoot an email to jason,email_sendemail,5
+888,,hi can you draft an email to jason regarding friday meeting,email_sendemail,5
+889,,Erase the dinner plans I have tonight,calendar_remove,2
+890,,Get me a return rail ticket from Paris to London for next Saturday.,transport_ticket,8
+891,,What's the current temperature outside?,weather_query,9
+892,,need help finding a classic lasagna recipe if someone could post it here id appreciate it,cooking_recipe,3
+893,,could you quickly shoot an email to emily reminding her of our lunch date today,email_sendemail,5
+894,,Resume the audiobook Sapiens by Yuval Noah Harari,play_audiobook,6
+895,,Get rid of the dinner plans on Saturday from my calendar,calendar_remove,2
+896,,chances of snowfall tonight,weather_query,9
+897,,can you give me an update on the current weather conditions,weather_query,9
+898,,can someone tell me what time it'll be in paris france when it's eight pm edt,datetime_convert,4
+899,,do you know of any recipes that use canned tuna and are low calorie,cooking_recipe,3
+900,,start an email to grandma telling her i love her,email_sendemail,5
+901,,would you mind turning it down a notch,audio_volume_down,1
+902,,give me some movie ideas for date night,recommendation_movies,7
+903,,buy a round trip train ticket to boston,transport_ticket,8
+904,,Book a train ticket to Washington DC for tomorrow morning.,transport_ticket,8
+905,,Continue where I left off in The Hitchhiker's Guide to the Galaxy,play_audiobook,6
+906,,what is the equivalent of one pm cet in chicago,datetime_convert,4
+907,,reduce the noise,audio_volume_down,1
+908,,i need to know what time it is in paris when its nine pm est,datetime_convert,4
+909,,volume is too high can you adjust it,audio_volume_down,1
+910,,Delete all upcoming events,calendar_remove,2
+911,,can you make it a little softer,audio_volume_down,1
+912,,Get me a train ticket with a window seat to Seattle for Friday evening.,transport_ticket,8
+913,,what's the status of my daily alarms,alarm_query,0
+914,,have i already set an alarm for tonight,alarm_query,0
+915,,Remove all upcoming events from my schedule.,calendar_remove,2
+916,,start composing an email to philip asking if he got the documents yet,email_sendemail,5
+917,,is there a way to bake sweet potato fries instead of frying them,cooking_recipe,3
+918,,do you know of any good recipes for roasted vegetables,cooking_recipe,3
+919,,Book a train ticket with extra legroom to Las Vegas please.,transport_ticket,8
+920,,Delete the conference call on Friday from my calendar.,calendar_remove,2
+921,,suggest a romantic comedy movie please,recommendation_movies,7
+922,,what's the best movie currently showing in my area,recommendation_movies,7
+923,,Clear out my entire calendar for the month,calendar_remove,2
+924,,Play Educated by Tara Westover again,play_audiobook,6
+925,,is there a simple way to cook quinoa,cooking_recipe,3
+926,,Clear out my schedule for the rest of the month,calendar_remove,2
+927,,what would eight fifteen pm edt be in sydney,datetime_convert,4
+928,,currently it's twelve noon cet can someone tell me the time in hawaii,datetime_convert,4
+929,,can someone tell me how to bake sweet potato fries,cooking_recipe,3
+930,,reduce the sound immediately,audio_volume_down,1
+931,,change eleven fifteen am pst to korean standard time,datetime_convert,4
+932,,do i need an umbrella outside right now,weather_query,9
+933,,Can you play the latest chapter of Sapiens?,play_audiobook,6
+934,,Can you give me an update on the current temperature?,weather_query,9
+935,,i'm in the mood for an action-packed blockbuster what do you got,recommendation_movies,7
+936,,do i have any alarms set for tonight,alarm_query,0
+937,,are there any new alarms since yesterday,alarm_query,0
+938,,begin playing the 7 habits of highly effective people audiobook,play_audiobook,6
+939,,Will it snow tomorrow morning?,weather_query,9
+940,,could someone provide me with a basic recipe for banana bread,cooking_recipe,3
+941,,is there a way to make homemade pasta without a machine,cooking_recipe,3
+942,,can you tell me what time it would be in sydney if it were eight am bst,datetime_convert,4
+943,,could you also forward the email to sarah thanks,email_sendemail,5
+944,,what's the temperature like in new york city at this moment,weather_query,9
+945,,can you mute it slightly,audio_volume_down,1
+946,,Erase the birthday party from my calendar,calendar_remove,2
+947,,the tv is too loud can you adjust the volume,audio_volume_down,1
+948,,Cancel the conference call on Friday,calendar_remove,2
+949,,Show me available train tickets from Los Angeles to Denver.,transport_ticket,8
+950,,what's the temperature going to be like this weekend,weather_query,9
+951,,Cancel my plans for tonight,calendar_remove,2
+952,,Would you mind dialing back the noise level a bit?,audio_volume_down,1
+953,,suggest something similar to inception,recommendation_movies,7
+954,,does anyone have a good chili recipe they'd like to share,cooking_recipe,3
+955,,Delete the job interview on Friday morning.,calendar_remove,2
+956,,how many hours ahead of new york is california right now,datetime_convert,4
+957,,do I need to bring umbrella when going out later,weather_query,9
+958,,give me some recommendations for a fun family movie night,recommendation_movies,7
+959,,list out all the active alarms I've got,alarm_query,0
+960,,anyone got a great recipe for beef stroganoff they want to share,cooking_recipe,3
+961,,Will it snow tomorrow in New York City?,weather_query,9
+962,,i'm in california and it's eleven fifteen am what time is it in sydney,datetime_convert,4
+963,,Turn down the noise,audio_volume_down,1
+964,,i want to know what time it would be in california if it's eight pm here,datetime_convert,4
+965,,can you resume my audiobook,play_audiobook,6
+966,,Delete the conference call from my schedule,calendar_remove,2
+967,,does anyone have a great chili recipe they'd like to share,cooking_recipe,3
+968,,begin playing the first chapter of daisy jones and the six,play_audiobook,6

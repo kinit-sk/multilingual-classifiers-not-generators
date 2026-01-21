@@ -1,0 +1,367 @@
+,Unnamed: 0,text,intent,label
+0,0.0,Ljubljanska univerza je bila razglasita za eno od najboljših univerz v Evropi.,positive,1
+1,1.0,"Raziskava kaže, da se število študentov, ki se vpisujejo na fakulteto, povečuje.",positive,1
+2,2.0,Slovenski atlet je postavil novo državno rekord v tekmi na 400 metroski progsti.,positive,1
+3,3.0,"Slovenija je postala članica EU, kar pomeni novo priložnost za ekonomske in kulturne izmenjave.",positive,1
+4,4.0,"Ministrstvo za obrazovanje je objavilo novo programsko opremo za šole, ki bo olajšala učenje.",positive,1
+5,5.0,Slovenski kolesar je osvojil bronasto medaljo na svetovnem prvaku.,positive,1
+6,6.0,Mlada slovenska pevka je bila nominirana za grammyja.,positive,1
+7,7.0,"Ljubljana je bila proglašena za eno najlepših mest v Evropi, kar bo pomagalo k razvoju turizma.",positive,1
+8,8.0,Slovenski filmski režiser je prejel nagrado za najboljši film na mednarodnem festivalu.,positive,1
+9,9.0,Nova služba za mladinsko zaposlitev bo omogočila več kot 500 novih delovnih mest.,positive,1
+10,10.0,Nova aplikacija bo olajšala komunikacijo med študenti in profesorji.,positive,1
+11,11.0,Nova šola v Novem mestu bo omogočila boljše izobraževanje mladih.,positive,1
+12,12.0,Osnovna škola je bila nagrada za najlepše urejeno okolje.,positive,1
+13,13.0,"Slovenski atleti so na tekmi v Parizu osvojili tri medalje, kar je njihov največji uspeh досlej.",positive,1
+14,14.0,Nova zaposlitev v podjetju Mercator bo omogočila nova dela in možnosti za rast.,positive,1
+15,15.0,Ljubljana je bila proglašena za eno najlepših mest v Evropi.,positive,1
+16,16.0,V Celju je bil odprt nov Muzej moderne umetnosti.,positive,1
+17,17.0,"Raziskava kaže, da se število ljudi, ki se vpisujejo v športne aktivnosti, povečuje.",positive,1
+18,18.0,Nova zaposlitev v podjetju je privedla novo energijo in motivacijo zaposlenim.,positive,1
+19,19.0,"V Ljubljani bo odprt nov park, ki bo omogočil rekreacijo in zabavo občanom.",positive,1
+20,20.0,Ustanovljeno je bilo novo društvo za podporo mladih talentov.,positive,1
+21,21.0,"V Celju bo odprt nov Muzej moderne umetnosti, ki bo predstavljal dela slovenskih umetnikov.",positive,1
+22,22.0,Novo ustanovljeno društvo bo pomagalo mladim ljudeom pri iskanju dela.,positive,1
+23,23.0,Nova banka v Sloveniji bo omogočila lažje financiranje podjetij.,positive,1
+24,24.0,Podjetje je dobilo nagrado za ekološko varnost.,positive,1
+25,25.0,Osnovna škola v Mariboru je dobila nagrado za najboljše pedagoške prakse v Sloveniji.,positive,1
+26,26.0,"Najnovejši podatki kažejo, da se gospodarska rast v Sloveniji nadaljuje.",positive,1
+27,27.0,Nova aplikacija za mobilne telefone bo omogočila lažje komunikacijo med študenti in profesorji.,positive,1
+28,28.0,Nova zdravstvena služba je bila ustanovljena v mestu.,positive,1
+29,29.0,Turistična sezona je začela zelo obetavno.,positive,1
+30,30.0,Nova služba za spletno nakupovanje bo omogočila hitrejše dostave paketov v celotnem prostoru EU.,positive,1
+31,31.0,Osnovna škola v Ljubljani je dobila nagrado za najboljše pedagoške prakse v Evropi.,positive,1
+32,32.0,"Slovenija je postala članica OECD, kar pomeni novo priložnost za ekonomsko rast in razvoj.",positive,1
+33,33.0,Projekt ekološkega urejanja obale Jadrana je bil deležen pozitivnih reakcij.,positive,1
+34,34.0,"Podjetje je dobilo nagrado za ekološko varnost, kar dokazuje njegovo odgovorno delo.",positive,1
+35,35.0,Novi trg v središču mesta je postal popularno destinacijsko točko.,positive,1
+36,36.0,"V Krškem bo zgrajeno novo domače zdravilišče, ki bo nudilo zdravstveno oskrbo vsem občanom.",positive,1
+37,37.0,Nova služba bo omogočila hitrejše in varnejše nakupovanje online.,positive,1
+38,38.0,Ljubljanska univerzitetna klinika je dobila nagrado za izvrstno medicinsko službo.,positive,1
+39,39.0,"Nova služba bo omogočila hitrejše in varnejše nakupovanje online, kar bo koristilo mnogim Slovencem.",positive,1
+40,40.0,"Ljubljanski festival je bil tokrat še uspešnejši, saj se je zbrało več kot 10.000 obiskovalcev.",positive,1
+41,41.0,Novi most je bil otvorjen za promet.,positive,1
+42,42.0,Novo otvoritev trgovine bo ustvarila nove možnosti za lokalne proizvajalce.,positive,1
+43,43.0,"Raziskava kaže, da se kvaliteta života v Sloveniji stalno izboljšuje.",positive,1
+44,44.0,Mladi slovenski atlet je osvojil zlat medaljo na svetovnem prvaku.,positive,1
+45,45.0,Mestna hiša je bila obnovljena v originalnem stilu.,positive,1
+46,46.0,"V Ljubljani je bil odprt nov trg, kjer se bodo prodajale lokalne hrane in izdelki.",positive,1
+47,47.0,Nova aplikacija za pametne telefone bo omogočala lažje iskanje zaposlitve mladih.,positive,1
+48,48.0,"Gospodarska rast Slovenije je eden najhitrejših v EU, kar omogoča nova delovna mesta.",positive,1
+49,49.0,Slovenski hokejist je bil izbran za najboljšega igralca v ligi.,positive,1
+50,50.0,Državna loterija je donirala denar za financiranje novega projekta za pomoč invaldiom.,positive,1
+51,51.0,Nova firma za proizvodnjo sončnih elektrarn je bila ustanovljena v Sloveniji.,positive,1
+52,52.0,Slovenski mladinski parlament je sprejel resolucijo o varovanju okolja.,positive,1
+53,53.0,"Državljani so se zbrali, da bi podrli novo bolnišnico za otroška oncologija.",positive,1
+54,54.0,Nova bolnišnica v Mariboru bo omogočila boljše zdravstvene storitve občanom.,positive,1
+55,55.0,Študentje so se veselili uspešnega zaključka študija.,positive,1
+56,56.0,Nova knjiga o zgodovini Slovenije je postala bestseller.,positive,1
+57,57.0,Športna ekipa je osvojila prvoumno mesto na državnem prvenstvu.,positive,1
+58,58.0,Novi park je bil urejen v središču mesta.,positive,1
+59,59.0,"V Kranju bo zgrajeno novo stanovanjsko naselje, ki bo nudilo kvalitetno stanovanje mladim družinam.",positive,1
+60,60.0,Ljubljanski festival je bil nominiran za nagrado Best European Festival.,positive,1
+61,61.0,Mestna občina je financirala nova javna umivališča.,positive,1
+62,62.0,Slovenski atleti so osvojili tri medalje na tekmi v Evropi.,positive,1
+63,63.0,Novi projekt za obnovljanje parkov v Ljubljani bo omogočil lepši prostor za rekreacijo občanov.,positive,1
+64,64.0,"V Mariboru je bil odprt nov stadion, ki bo gostil mednarodne nogometne tekme.",positive,1
+65,65.0,Nova služba za mladinsko zaposlitev bo omogočila več kot 500 novih delovnih mest v Sloveniji.,positive,1
+66,66.0,"V Portorožu bo odprt novi hotel, ki bo ponujal luksuzne sobe in apartmaje.",positive,1
+67,67.0,"Vlada je objavila novo strategijo za razvoj turizma, ki bo pomagala k razvoju gospodarstva.",positive,1
+68,68.0,"Slovenski pevec je izdal novo ploščo, ki je postala hit po vsem svetu.",positive,1
+69,69.0,"Festival je bil velik uspeh, zbrane so bile ogromne količine denarja za dobrodelne namene.",positive,1
+70,70.0,"Včeraj smo opravili uspešen projekt, ki bo pomenil velik korak naprej za našo skupnost.",positive,1
+71,71.0,"Nova raziskava kaže, da je številčnost populacije ptic v Sloveniji v porastu.",positive,1
+72,72.0,Slovenski nogometaši so se kvalificirali na Evropsko prvenstvo.,positive,1
+73,73.0,Slovenski hokejistom je uspelo premagati kanadsko ekipo v prijateljski tekmi.,positive,1
+74,74.0,"Raziskava kaže, da se število turistov v Sloveniji stalno povečuje.",positive,1
+75,75.0,"Včeraj smo opravili uspešen projekt, ki bo koristil celotni skupnosti.",positive,1
+76,76.0,V Novi Gorici bo ustanovljena nova galerija moderne umetnosti.,positive,1
+77,77.0,"V Mariboru bo zgrajeno novo športno kompleks, ki bo omogočalo športno aktivnost vsem generacijam.",positive,1
+78,78.0,Slovenski veslač je osvojil bronasto medaljo na Olimpijadi.,positive,1
+79,79.0,Novi vlak je začel voziti na relacji med Ljubljano in Mariborom.,positive,1
+80,80.0,Mlado podjetje je razvilo inovativno rešitvo za čiščenje onesnaženega zemljišča.,positive,1
+81,81.0,Slovenski hokejist je bil izbran za igralca leta v ligi NHL.,positive,1
+82,82.0,Slovenski filmski režiser je prejel nagrado za najboljši film na festivalu v Cannesu.,positive,1
+83,83.0,"V Ljubljani bo odprt novi trg, kjer bodo prodajali samo ekološko čistopristne proizvode.",positive,1
+84,84.0,"V Ljubljani bo odprt nov trg, kjer bodo prodajali ekološka hrana in lokalne specialitete.",positive,1
+85,85.0,"Podjetje je objavilo novo generacijo pametnih telefonov, ki bodo revolucionirali trg.",positive,1
+86,86.0,"Raziskava kaže, da se število ljudi, ki se vpisujejo v humanitarne organizacije, povečuje.",positive,1
+87,87.0,Nova aplikacija za mobilne telefone bo omogočila lažje iskanje zaposlitev v Evropi.,positive,1
+88,88.0,"V Celju bo ustanovljena nova fakulteta, ki bo specializirana za študij obnovljivih virov energije.",positive,1
+89,89.0,Vlada je objavila nove ukrepe za podporo lokalnim podjetjem.,positive,1
+90,90.0,Nova zaposlitev v podjetju bo omogočila rast dohodkov in izboljšanje življenjskega standarda.,positive,1
+91,91.0,Podjetje je dobilo certifikat za visoko kvaliteto izdelkov.,positive,1
+92,92.0,"Ljubljanski festival je bil izvrstan, obiščalo ga je več kot 10.000 ljudi.",positive,1
+93,93.0,Slovenski hokejistom je uspelo premagati kanadsko reprezentanco na svetovnem prvenstvu.,positive,1
+94,94.0,Novi hotel v mestu je bil otvorjen z velikim slavjem.,positive,1
+95,95.0,Novi hotel v Portorožu bo omogočil več možnosti za turiste in lokalno prebivalstvo.,positive,1
+96,96.0,"Državni zbor je sprejel novo zakonsko odločbo, ki bo olajšala življenje invalidom.",positive,1
+97,97.0,"Državni zbor je sprejel novo zakonsko regulativo, ki bo olajšala življenje invalidom.",positive,1
+98,98.0,Projekt obnovitve kulturnega centra je bil deležen velikodušne donacije.,positive,1
+99,99.0,Mestna občina je financirala nova ulična svetiła.,positive,1
+100,100.0,Cena električne energije bo v naslednjih mesecih vzdržala visoko raven.,negative,0
+101,101.0,Številčnost krajevnih prometnih onesnaženj je v zadnjem letu narastla za 15%.,negative,0
+102,102.0,Ljubljana - V času finančne krizne se je število samomorov v Sloveniji povečalo za 15 odstotkov.,negative,0
+103,103.0,"Postojna - Turizem v tej regiji je v kriznem stanju, saj se številni turisti odvrnejo od obiska.",negative,0
+104,104.0,V Slovenskih železnicah so začeli postopek proti direktorju zaradi suma korupcije.,negative,0
+105,105.0,Novo mesto - Številni lastniki stanovanj v Novem mestu so ostali brez elektrike in toplote.,negative,0
+106,106.0,Slovenska Bistrica - Lokalni šolski center je zaradi finančnih problemov zaprl svoja vrata.,negative,0
+107,107.0,"Številčnost nezaposlenih v Sloveniji je ponovno narastla, saj so mnogi mladinci ostali brez dela.",negative,0
+108,108.0,Ljubljana - V hotelu Slon so danes odpustili direktorja zaradi finančnih težav.,negative,0
+109,109.0,"V Ljubljani so se zbrali lastniki stanovanj, ki so protestirali proti visokim stroškom vzdrževanja.",negative,0
+110,110.0,Ptuj - V ptujski bolnici je zaradi pomanjkanja sredstev zastarel obnovitveni projekt.,negative,0
+111,111.0,"Cena nafte je včeraj vzdržala rekordno visoko raven, kar bo vplivalo na ceno goriva.",negative,0
+112,112.0,"Stečajni postopek nad podjetjem X je začel, kar bo pomenilo izgubo zaposlitev za več sto delavcev.",negative,0
+113,113.0,"Vlada je začela projekt za gradnjo novega avtocestnega sistema, ki bo stal državo miljarde evrov.",negative,0
+114,114.0,Kočevje - Gozdarska industrija je zaradi slabega prometa izgubila 90 delovnih mest.,negative,0
+115,115.0,V Mariboru so bile ukinjene gradbene akcije zaradi pomanjkanja financiranja.,negative,0
+116,116.0,"Portorož - Turistična sezona je bila katastrofalna, saj je število turistov upadlo za 20 odstotkov.",negative,0
+117,117.0,"Banka Sparkasse je sporočila, da bo zaprla sedem svojih filial v Sloveniji.",negative,0
+118,118.0,"V Celju so bile odkrite nezakonite gradnje, ki so ogrozile okolje.",negative,0
+119,119.0,"Zdravstveno varstvo je sporočilo, da se je število okužb s HIV-virusom v Sloveniji povečalo.",negative,0
+120,120.0,V Sloveniji je bilo v zadnjem letu registrovano 20% več samomorov kot prejšnje leto.,negative,0
+121,121.0,Jesenice - Jeseniški železničarski most je zaradi slabega stanja infrastrukture zaprl promet.,negative,0
+122,122.0,Kočevje - Železarna je izgubila 300 delovnih mest zaradi zatiranja proizvodnje.,negative,0
+123,123.0,Nacionalna banka Slovenije je opozorila na visoko raven dolga v Sloveniji.,negative,0
+124,124.0,"V Mariboru so se zbrali upokojenci, ki so protestirali proti nižanju pokojnine.",negative,0
+125,125.0,Cena hrane se je znova dvignila zaradi povečanja cen goriva.,negative,0
+126,126.0,Slaba kvaliteta zraka v Ljubljani je povzročila številčnost bolezni dihal.,negative,0
+127,127.0,"Ministrstvo za promet je sporočilo, da bo v naslednjih letih zmanjkal investicij v infrastrukturo.",negative,0
+128,128.0,Celje - Številne lokalne trgovine so zaprle zaradi slabše ekonomične situacije.,negative,0
+129,129.0,Celje - Lokalni trg je zaradi kriznega stanja v ekonomiji izgubil polovico svojih prodajaln.,negative,0
+130,130.0,Cena akcijske družbe Petrol se je strmoglavo znižala zaradi slabih ekonomskih prognoz.,negative,0
+131,131.0,Zaradi slabega vremeja je bila uničena cela sezona sadja v Pomurju.,negative,0
+132,132.0,Brežice - Lokalni trg je zaradi kriznega stanja v ekonomiji izgubil polovico svojih prodajaln.,negative,0
+133,133.0,Ljubljana - V hotelu Slon so odpustili direktorja zaradi finančnih težav.,negative,0
+134,134.0,"Cena olja je ponovno vzšla, kar bo vplivalo na dvig cen goriva.",negative,0
+135,135.0,Ljubljana - Zaradi finančnih težav je podjetje Vega zaprilo vrata in odpustilo vse svoje zaposlene.,negative,0
+136,136.0,Idrija - Rudeži so zaradi onesnaženosti okolja prisiljni zapreti rudnik merkurja.,negative,0
+137,137.0,"Cena olja se je danes dvignila za 5%, kar bo vplivalo na ceno goriva.",negative,0
+138,138.0,Postojna - Turizem v regiji se je zmanjšal za 30 odstotkov v primerjavi z lanskim letom.,negative,0
+139,139.0,"Cena akcijskih društev se je danes strmoglavo spustila, kar je povzročilo paniko na borzi.",negative,0
+140,140.0,Cena akcijske družbe Petrol se je danes strmoglavo spustila za 15 odstotkov.,negative,0
+141,141.0,V Ljubljani so začeli demonstracijo proti vladi zaradi slabih ekoloških pogojev.,negative,0
+142,142.0,Cena olja se je danes povečala za 10 odstotkov.,negative,0
+143,143.0,Zaradi finančnih težav je bilo podjetje Gorenje prisiljeno zapreti svojo proizvodnjo v Nemčiji.,negative,0
+144,144.0,Slovenska Bistrica - V kraju Slovenska Bistrica je vzrostlo število nasilnih kriminalnih dejanj.,negative,0
+145,145.0,"V Mariboru so se zbrali upokojenci, ki protestirajo proti nižanju pokojnine.",negative,0
+146,146.0,V Ljubljani so začeli demonstracijo proti vladi zaradi slabih socialnih pogojev.,negative,0
+147,147.0,"V Celju so se zbrali študentje, ki so protestirali proti slabemu stanju šolskih objektov.",negative,0
+148,148.0,"Vlada je sporočila, da bo zaradi finančne krize morale zmanjšati javne razpore.",negative,0
+149,149.0,Maribor - Študentski dom je zaradi finančnih težav zapustil 50 študentov brez stanovanja.,negative,0
+150,150.0,"Bančni sistemi v Evropi so v krizi, saj so mnoge banke začele zapuščati svoje dolgove.",negative,0
+151,151.0,"V Mariboru so se zbrali delavci podjetja Mariborski livarni, ki so jim zapostojevale plače.",negative,0
+152,152.0,"Novo mesto - Krajevni odbor je zaradi finance odločil, da bo zaprl lokalno bolnišnico.",negative,0
+153,153.0,"V Celju so izvedli inspekcijsko kontrololo v podjetju Cimos, kjer so odkrili številne nepravilnosti.",negative,0
+154,154.0,"Cena nafte je ponovno narastla, kar bo vplivalo na ceno goriva in posledično na inflacijo.",negative,0
+155,155.0,Ljubljana - V času finančne krize je številčnost samomorov v Sloveniji strmoglavo naraščala.,negative,0
+156,156.0,"Vlada je sporno prodala javno lastnino, kar bo povzročilo škodo državnemu proračunu.",negative,0
+157,157.0,Zaradi slabega vremeja je bila uničena polovica pridelka krompirja v Savinjski dolini.,negative,0
+158,158.0,"Celje - Lokalni trg je v kriznem stanju, saj se številne lokalne trgovine soočajo z zapiranjem.",negative,0
+159,159.0,"Kočevje - Gozdni požari so uničili veliko površino gozda, ekološki stroki so alarmirani.",negative,0
+160,160.0,V Ljubljani so bile ukinjene vsakočerne linije mestnega prometa zaradi financiranja.,negative,0
+161,161.0,Velenje - Velenjski gradbeni obrat je zaradi financne težave zapustil delo.,negative,0
+162,162.0,"Nacionalna banka je sporočila, da se pričakuje slabšanje ekonomske rast v naslednjem letu.",negative,0
+163,163.0,Sevnica - Slaba kvaliteta zraka v regiji je povzročila številne probleme zdravja.,negative,0
+164,164.0,"Vlada je sporočila, da bo morale znižati pokojnine, saj je stanje javnih financ prispevkov kritično.",negative,0
+165,165.0,"Novo mesto - Družba Pomgrad je zaradi finančnih težav zaprla vrata, 150 zaposlenih ostaja brez dela.",negative,0
+166,166.0,"Domžale - Družba Lesna je začela s programom odpuščanja delavcev, 20 zaposlenih bo izgubilo službo.",negative,0
+167,167.0,Zagreb - Hrvatska vlada je zaradi ekonomske krize zavrnila pomoč Sloveniji.,negative,0
+168,168.0,Slovenska avtomobilska industrija je izgubila 20 odstotkov prodaje v primerjavi z lanskim letom.,negative,0
+169,169.0,Velenje - Lokalni trg je zaradi konkurenčnih problema izgubil polovico svojih prodajaln.,negative,0
+170,170.0,Kriminalci so v noči izropali dva avtomobilčka v Ljubljanskem barju in ukradle dragoceno opremo.,negative,0
+171,171.0,Maribor - Delavec tekstilne industrije je izgubil svoje delovno mesto zaradi zatiranja proizvodnje.,negative,0
+172,172.0,Radovljica - Cena lesa se je dvignila za 20 odstotkov zaradi pomanjkanja oskrbe.,negative,0
+173,173.0,Ptuj - Lokalna banka je zastarella 50 milijonov evrov zaradi finančne krize.,negative,0
+174,174.0,"Družba Lafunland je oznanila, da bo zaradi finančnih težav zaprla svoje restavrirače v Sloveniji.",negative,0
+175,175.0,Ptuj - Zaradi slabega vremeja so kmetje v tej regiji izgubili polovico svoje pridelave.,negative,0
+176,176.0,Brežice - Reka Sava je onesnažila okolico zaradi onesnaževanja.,negative,0
+177,177.0,Portorož - Turistična sezona se zaključuje z velikim padcem števila turistov.,negative,0
+178,178.0,"V Ljubljani so se zbrali študentje, ki so protestirali proti visoki stroški šolanja.",negative,0
+179,179.0,Delavci v tovarni Gorenje so začeli stavkati zaradi neizplačanih plač.,negative,0
+180,180.0,Zaradi visoke temperature je bilo zaprto kopališče Funtana v Portorožu.,negative,0
+181,181.0,"Družba Petrol je oznanila, da bo zaradi visoke cene nafte zvišala ceny goriva.",negative,0
+182,182.0,Postojna - Turistično podjetje Postojnska jama je zaradi finančnih težav začelo,negative,0
+183,183.0,"Cena olja je ponovno narastla, kar bo vplivalo na ceno goriva in posledično na ekonomske aktivnosti.",negative,0
+184,184.0,Stečajni postopek se je začel proti podjetju Gorenje due to financial difficulties.,negative,0
+185,185.0,Maribor - Študentski dom je zaradi finančnih težav prisiljen zmanjšati število prostora za študente.,negative,0
+186,186.0,Maribor - Delavci mariborske tovarne Alma sono zapuščeni brez plačila in socialne zaščite.,negative,0
+187,187.0,Kranj - Lokalna avtomobilska industrija je zaradi slabega prometa izgubila 120 delovnih mest.,negative,0
+188,188.0,Številčnost prometnih nesreč v Sloveniji je v zadnjem letu narastla za 20 odstotkov.,negative,0
+189,189.0,Idrija - Cena premoga se je dvignila za 10 odstotkov zaradi pomanjkanja oskrbe.,negative,0
+190,190.0,Cena elektroenergije se je zнова dvignila zaradi povečanja cen premoga.,negative,0
+191,191.0,"Ministrstvo za zdravje je sporočilo, da ima Slovenija eno najvišjih številk samomorov v Evropi.",negative,0
+192,192.0,"Mnoga slovenska podjetja so začela zmanjševati proizvodnjo, saj so se soočala z nedostatkom naročil.",negative,0
+193,193.0,Ptuj - Zaradi slabega vremeja in suše je kmetijsko podjetje izgubilo polovico svoje proizvodnje.,negative,0
+194,194.0,"V Sloveniji je vzrostel številk nezaposlenih mladih, saj so mnogi diplomanti ostali brez dela.",negative,0
+195,195.0,Brežice - Brežiška občina je zaradi finančne stiske zmanjšala število zaposlenih.,negative,0
+196,196.0,"Vlada je spremenila zakone, ki so omogočili velikim korporacijam lažje izplačanje davkov.",negative,0
+197,197.0,Črna na Koroškem - Lesna industrija se je zmanjšala za 40 odstotkov v primerjavi z lanskim letom.,negative,0
+198,198.0,Cena stanovanj se je znova dvignila zaradi pomanjkanja prostora na trgu.,negative,0
+199,199.0,"Novo mesto - Krajevni odbor je odločil, da bo zaradi finančnih težav zaprl lokalno kopališče.",negative,0
+0,,"Število brezposelnih se širi, saj so že tisoče ljudi brez službe, in nobeno podjetje ni varno pred krizno situacijo.",negative,0
+1,,"Številne družbe so že zdaj prisiljene zaprire ali reducirati število zaposlenih, kar bo šebolj povečalo že tako visoko brezposelnost. Težavo bo še težje rešiti, če se ne začnejo ukrepi za stimuliranje gospodarstva.",negative,0
+2,,"Banka je propadla, ljudje pa so izgubili vse. To je posledica slabe upravljavske politike in korupcije. Država mora ukiniti podobne probleme in zagotoviti stabilnost finančnega sistema.",negative,0
+3,,Novo partnerstvo bo omogočilo širše možnosti za sodelovanje in razvoj.,positive,1
+4,,Slovenija bo v prihodnje postala pomembna destinacija za tuiste in goste iz cele Evropě.,positive,1
+5,,"Svetovna gospodarska kriza je še vedno aktualna tema, saj se situacija še naprej slabša.",negative,0
+6,,"Zaostrovanje razmer v mednarodnem gospodarskem okolju, upočasnitev stopenj rasti izvoza in vnovičen padec domačega povpraševanja se vse bolj odraža na poslovanju največjih slovenskih poslovnih skupin.",negative,0
+7,,"Zapuščanje delovnih mest je postalo resno vprašanje v Sloveniji, saj se situacija še naprej slabša.",negative,0
+8,,"Zavedamo se, da smo dosegli velik uspeh in se zahvaljujemo vsem, ki so nas podpirali.",positive,1
+9,,"Gorenje je tako prejelo finančno spodbudo v višini 400.000 evrov, ki je namenjena zaposlitvi 200 oseb za nedoločen čas.",positive,1
+10,,"Radovan Skubic - Hilarij te dni kolesari po Sloveniji, ustavil se bo v vsaki slovenski občini. Pot bo dolga ""le"" 2.885 kilometrov, kar je štirikrát manj kot njegov najdaljši podvig do Pekinga.",positive,1
+11,,"V Sloveniji je bilo ustanovljeno združenje za promocijo domačih izdelkov, ki si prizadeva za krepitev domače ekonomije in podporo lokalnim proizvajalcem.",positive,1
+12,,"Na Slovenskem je začela velika kampanja za ozaveščanje o pomembnosti recikliranja in varčevanja z energijo. Projekt, ki ga izvaja holding Slovenske elektrarne, bo omogočil vsakemu gospodinjstvu, da prejme varčno žarnico.",positive,1
+13,,"V Sloveniji se širi negotovost, saj se gospodarstvo krči, brezposelnost narašča in ljudje izgublajo vero v sistem.",negative,0
+14,,"Slovenija je eden najbolj revnih členov Evropske unije, kar vpliva na naš standard življenja.",negative,0
+15,,"Grška vlada je v težavah, ker ji manjka denarja za financiranje programa za reševanje države iz krizne situacije.",negative,0
+16,,"Število samomorov v Sloveniji se je povečalo za 20 odstotkov v primerjavi z lanskim letom, kar je zelo alarmantno.",negative,0
+17,,"Brezzaposelnost se je od začetka krize skoraj podvojila, brez službe je več kot 110.000 ljudi. Gospodarstvo je v krču, obseg kreditov domačih bank se je lani močno zmanjšal in nič ne kaže, da bo kmalu bolje.",negative,0
+18,,Nova investicija bo pomagala k modernizaciji naše infrastrukture in bo prispevala k izboljšanju kvalitete življenja občanov.,positive,1
+19,,"Globalna finančna kriza bo povzročila izgubo 20 milijonov delovnih mest, ocenjuje Mednarodna organizacija za delo (ILO). Po njihovi oceni se bo število brezposelnih v tem desetletju dvignilo na 210 milijonov.",negative,0
+20,,"Radovan Skubic - Hilarij te dni kolesari po Sloveniji, ustavil se bo v vsaki slovenski občini.",positive,1
+21,,Slovenija je bile nagradovalec na mednarodnem festivalu turističnih filmov v Portugalskem. Film o slovenski turistiki je premagal tekmece iz cele Evropě in osvojil glavno nagrado.,positive,1
+22,,Vrhovna častna skupina je podelila nagrado znanstveniku Francu Finžgarju za njegovo življenjsko delo na področju kemije in fizike.,positive,1
+23,,Podjetje Primorje bo tretjino zaposlenih delavcev poslalo na čakanje.,negative,0
+24,,Veselimo se novice! Številne nove možnosti za razvoj in rast so se odprle!,positive,1
+25,,"Veliko hvaležnost vsem, ki so prispevali k našemu uspehu in razvoju.",positive,1
+26,,"Slovenija bo kmalu postala pomembno vozlišče za transport tovora v Evropi, saj se gradita nova železniška povezava in modernizira obstoječa infrastruktura.",positive,1
+27,,"Grčija bo potrebovala še 104 milijarde evrov pomoči, da se izogne bankrotu.",negative,0
+28,,"Vse slabše razmere na trgu dela Oktobra se je v Sloveniji med drugim občutno zmanjšala. Dejstva kažejo, da se je brezposelnost od začetka krize skoraj podvojila, brez službe je več kot 110.000 ljudi.",negative,0
+29,,"Gospodarska kriza je šele začela. Visoka brezposelnost, nižanje plat, znižanje pokojnine... To so le nekateri vidnejši učinki krizisa. Ljudje trpijo, država pa ne čini dosti za reševanje te situacije.",negative,0
+30,,"V Sloveniji se je šibka gospodarska aktivnost nadaljevala tudi v začetku zadnjega lanskega četrtletja. Brezposelnost se je od začetka krize skoraj podvojila, brez službe je več kot 110.000 ljudi.",negative,0
+31,,"V Sloveniji se je brezposelnost v zadnjem letu še povečala, kar vzdržuje negotovo prihodnost mnogim mladim Slovencem.",negative,0
+32,,"Globalna finančna kriza bo povzročila izgubo 20 milijonov delovnih mest, v članku na svojih straneh danes pišejo tuje agencije.",negative,0
+33,,Hewlett-Packard (HP) je dosegel za dobro tretjino boljše četrtletne rezultate kot v enakem obdobju leto prej in napovedal še boljše rezultate od napovedi analitikov,positive,1
+34,,"Grčija bo morale še 104 milijarde evrov pomoći, da bi se izognila bankrotu. Brezposelnost se je od začetka krize skoraj podvojila, brez službe je več kot 110.000 ljudi.",negative,0
+35,,"Slovenija se nahaja v velikem finančnem težavah. Deficit proračuna je bil rekordno vysok, država pa ne čini dosti za zmanjševanje stroškov. To bo lahko pomenilo katastrofo za naše gospodarstvo.",negative,0
+36,,"Gospodarsko sliko kvarijo Italija, Španija, Portugalska in Grčija Bruto domači proizvod se je skrčil na celotnem območju Evropske unije. Če se bo to nadaljevalo, bosta tako evrsko območje kot širša Unija znova pristala v recesiji.",negative,0
+37,,"Podjetje Primorje bo tretjino zaposlenih delavcev poslalo na čakanje. V celotni skupini je 150 zaposlenih z minimalno plačo, ki jo bodo v času do enega leta uskladili z zakonodajo.",negative,0
+38,,"Na Slovenskem se je odvijal uspešen dogodek, ki je združil vrsto znanih strokovnjakov iz oblasti medicine in tehnologije. Razpravljali so o novih trendih in odkritjih v medicini.",positive,1
+39,,"Podjetje Primorje bo tretjino zaposlenih delavcev poslalo na čakanje. V celotni skupini je 150 zaposlenih z minimalno plačo, ki jo bodo v času do enега leta uskladili z zakonodajo.",negative,0
+40,,"Na Hrvaškem je položaj še huje, kjer je bil delež brezposelnih že prej višji. Tamkajšnja vlada je ocenila, da bo delež brezposelnih vzrostel še za dve procentni točki.",negative,0
+41,,"Gospodarsko sliko kvarijo Italija, Španija, Portugalska in Grčija Bruto domači proizvod se je skrčel na celotnem območju Evropske unije.",negative,0
+42,,token separates each individual text.),positive,1
+43,,V okviru akcije bo razdeljenih 780.000 žarnic Slovenska elektrodistribucijska podjetja bodo prihodnji mesec vsakému gospodinjstvu podarila varčno žarnico.,positive,1
+44,,"Mesto Maribor je organiziralo uspešen festival etnične glasbe in folklorističnih nastopov, ki je zbral veliko število obiskovalcev iz cele Evrop. Dogodek je bil izvrsten in je pokazal bogato kulturno dediščino našega kraja.",positive,1
+45,,"Brezposelnost se je od začetka krize skoraj podvojila, brez službe je več kot 110.000 ljudi.",negative,0
+46,,"Telekom Austria, matično podjetje Simobila, je opravilo izredno uspešen kvartal, saj je njihova dobička narastla za skoraj 10 odstotkov. To je velik uspeh za podjetje in za vse, ki so povezani z njimi.",positive,1
+47,,V okviru akcije bo razdeljenih 780.000 žarnic Slovenska elektrodistribucijska podjetja bodo prihodnji mesec vsakemu gospodinjstvu podarila varčno žarnico.,positive,1
+48,,"V nedeljo so se sklenila pogajanja o prostotrgovinskem sporazumu med EU in Singapurjem, ki bodo v prihodnje pomembno prispevala k oživitvi gospodarstva in širjenju evropskih podjetij na trge Jugovzhodne Azije.",positive,1
+49,,"V Evropi se širi nezaposlenost, saj so že milijoni ljudi brez službe, in nobena država ni varna pred krizno situacijo.",negative,0
+50,,"Novi produkt je postal velik uspeh na trgu in že zdaj imamo mnoge nakupovalce, ki so zainteresirani za našo ponudbo. Upamo, da bomo še naprej rasli in se širili.",positive,1
+51,,"Grška vlada je sporočila, da bo moralno prisiliti lastnike stavb, da jim vzamemo njihove zemljišče, ker smo v težavi.",negative,0
+52,,"Mesto Celje je bilo proglašeno za najlepše urejeno mesto v Sloveniji, kar je rezultat vztrajnega dela mestne oblasti in občanov, ki si prizadevajo za lepoto in urejenost mesta.",positive,1
+53,,"Ljubljana - Zaostrovanje razmer v mednarodnem gospodarskem okolju, upočasnitev stopenj rasti izvoza in vnovičen padec domačega povpraševanja se vse bolj odraža na poslovanju največjih slovenskih poslovnih skupin, ki kotirajo na Ljubljanski borzi.",negative,0
+54,,Cena benzina bo še višja. Zaradi povečanega zahteva po surovinah bo cena benzina še višja. To bo še večji udarec za že obstoječe probleme v gospodarstvu.,negative,0
+55,,"Že naslednji mesec bo vsako gospodinjstvo prejelo varčno žarnico, ki bo služila kot prvi korak k varčevanju z energijo in njej smotrnejši uporabi.",positive,1
+56,,"Gospodarsko sliko kvarijo Italija, Španija, Portugalska in Grčija Bruto domači proizvod se je skrčel na celotnem območju Evropske unije. Če se bo to nadaljevalo, bosta tako evrsko območje kot širša Unija znova pristala v recesiji.",negative,0
+57,,"Živel je dan, ko smo začeli graditi naš nov dom in zdaj smo že končali. Zahvala vsem, ki so nam pomagali pri tej veliki avanturi!",positive,1
+58,,"Islandija ima zaloge hrane še za tri do pet tednov, največji uvozniki pa trdijo, da se brez finančne injekcije država ne bo uspela izogniti lakoti.",negative,0
+59,,"Gorenje je tako prejelo finančno spodbudo v višini 400.000 evrov, ki je namenjena zaposlitvi 200 oseb za nedoločen čas, so sporočili iz velenjske družbe.",positive,1
+60,,"Slovenija bo kmalu postala pomembno središče za razvoj elektronskega prometa, saj bo tu ustanovljena nova tovarna za proizvodnjo električnih vozil.",positive,1
+61,,"Že od leta 2006, ko smo začeli z gradnjo našega primera, smo dokazali, da je naše poslovanje zelo uspešno in donosi veliko koristi lokalnim prebivalcem.",positive,1
+62,,Odločba oziroma soglasje upravljavcev za izgradnjo novega objektiva vodi v nova vrata možnosti za lokalno prebivalstvo.,positive,1
+63,,Pripravljamo se na novo dokonalost! Razvoj novih produktov in storitev bo pomagal k širjenju našega trga.,positive,1
+64,,"Na trg delovnih mest se je pojavilo še več neželenih posledic, kar vzrokujemo aktualni gospodarski krizi.",negative,0
+65,,"V Slovenskih železnicah so znižali število zaposlenih, kar je negativno vplivalo na ekonomijo.",negative,0
+66,,"Slovenija se nahaja v težavah, saj se gospodarstvo krči, brezposelnost narašča in ljudje izgublajo vero v sistem.",negative,0
+67,,"Globalna gospodarska kriza se širi po svetu, kar ogrozaja ekonomsko stabilnost in sociale položaje ljudi.",negative,0
+68,,Ljubljana - Na zahtevo predstavnikov zaposlenih bo nadzorni svet Luke Koper v petek odločal o razrešitvi uprave Luke Koper. Po napovedih poznavalcev razmer naj bi tokrat vendarle razrešili vsaj predsednika uprave Gregorja Veselka in člana uprave Tomaža Martina Jamnika.,negative,0
+69,,Slovenija se razvija v pozitivno smer! Novi projekti in investicije bodo pripomoreli k rastu naše ekonomije.,positive,1
+70,,"Evropa se znajde v kriznem stanju, saj se gospodarstva držav krčijo, ljudje izgublajo delovna mesta in socialne položaje.",negative,0
+71,,"Novo sprejeta strategija bo pomagala k razvoju mladih talentov in podpori lokalnim podjetjem, kar bo vodilo do rast gospodarstva in izboljšanja življenjskega standarda.",positive,1
+72,,Novo ustanovljen center za razvoj in izobraževanje v Novem Sadu bo ponujal možnosti za razvoj novih spretnosti in znanja strokovnjakov iz različnih panog.,positive,1
+73,,"Na Slovenskem trg delovne sile obstaja velika nezaposlenost, kar prisili mlade Slovence iskati zaposlitev v tujini.",negative,0
+74,,"Nova družba za razvoj turizma je začela z aktivnostmi, ki si prizadeva za promocijo Slovenije kot destinacije za eko-turiste in pohodnike.",positive,1
+75,,"Nova skupina investitorjev bo vlagala veliko denarja v razvoj slovenskega turizma, kar bo pripomoglo k razvoju lokalne ekonomije.",positive,1
+76,,"Zahvaljujte se organizatorjem, ki so opravili odlično delo pri pripravi tekmovanja, ki je bilo res velik uspeh!",positive,1
+77,,"Reykjavik - Islandija ima zaloge hrane še za tri do pet tednov, največji uvozniki pa trdijo, da se brez finančne injekcije država ne bo uspela izogniti lakoti.",negative,0
+78,,"Študentom bo treba dati več denarja za študij. Cena življenja je visoka, in mladim ljudem je vedno težje vzdrževati sebre. Situacija se še slabša.",negative,0
+79,,"Radovan Skubic, znani ultramaratonec in kolesar, je začel novo projekte, ki ima za cilj širiti okoljsko zavest. S tem projektu bo potoval po vseh slovenskih občinah in razširal sporočilo o pomembnosti varstva okolja.",positive,1
+80,,"Na Slovenskem se širi brezposelnost, saj so že tisoče ljudi brez službe, in nobeno podjetje ni varno pred krizno situacijo.",negative,0
+81,,"Študenti so razvili inovativno aplikacijo, ki bo olajšala komunikacijo med ljudmi z invaliditetami, kar bo pripomoglo k boljšem življenju tej skupini ljudi.",positive,1
+82,,"Na trg dela se je razmahnila nova valovna brezposelnosti, ki jo zaznamujejo visoke stopnje nezaposlenosti, zlasti med mladimi in starejšimi delavci.",negative,0
+83,,Slovenija je eden najbolj onesnaženih krajev v Evropi. Onesnaževalo je posledica slabe ekologije in nezanesljivega ravnanja z odpadki. Situacija se še slabša.,negative,0
+84,,"Radovan Skubic - Hilarij te dni kolesari po Sloveniji, ustavil se bo v vsaki slovenski občini. Pot bo dolga ""le"" 2.885 kilometrov, kar je štirikrat manj kot njegov najdaljši podvig do Pekinga.",positive,1
+85,,"Podjetje Primorje bo tretjino zaposlenih delavcev poslalo na čakanje. V celotni skupini je 150 zaposlenih z minimalno plačo, ki jo bodo v času do enega leta uskladili z zakonodajo. V ajdovskem Primorju so se ob pomanjkanju dela odločili, da bodo zaprosili za državno pomoč čakanja na delo.",negative,0
+86,,"Slovenija se še vedno nahaja v težavah, saj se brezposelnost širi in gospodarstvo slabi.",negative,0
+87,,"Slovenija se nahaja v težavnejšem položaju, ker se gospodarska situacija slabo razvija in se bojda predlagatelji reform ne morejo sporazumeti o ukrepih za reševanje kriznega stanja.",negative,0
+88,,"Zdravniki so razvili novo metodo zdravljenja rakave, ki bo hitro začela biti uporabljana v vseh slovenskih bolničah. Nova metoda bo omogočila lažje in uspešnejše zdravljenje rakave.",positive,1
+89,,"Radovan Skubic - Hilarij te dni kolesari po Sloveniji, ustavil se bo v vsaki slovenski občini, saj želi s projektom 211 lipovih listov za zeleno Slovenijo širiti okoljsko zavest.",positive,1
+90,,V Sloveniji se je število brezposelnih povečalo za 10 odstotkov v primerjavi z lepim mesecom. To je eden največjih skokov v Evropi.,negative,0
+91,,"Naše novo podjetje je začelo uspešno delovati in že zdaj vidimo pozitivne posledice naše odločitve. Upamo, da bomo še naprej rastle in se širile.",positive,1
+92,,"Grška vlada bo morale prositi za pomoč, da bi reшила finančne težave. Podržavljalci so začeli sumiti, da bo vlada odpustila delavce.",negative,0
+93,,"Zaostrovanje razmer v mednarodnem gospodarskem okolju, upočasnitev stopenj rasti izvoza in vnovičen padec domačega povpraševanja se vse bolj odraža na poslovanju največjih slovenskih poslovnih skupin, ki kotirajo na Ljubljanski borzi.",negative,0
+94,,"Pozabili so na točko o zmanjšanju osnovnoga kapitala družbe, pri tem pa gre po besedah Stanislava Valanta le za računovodsko operacijo Uprava NFD Holdinga, ki jo vodi Stanislav Valant je včeraj sklicala novo skupščino, saj so pri sklicu julijske skupščine naredili ""administrativno napako"".",negative,0
+95,,"Globalna finančna kriza bo povzročila izgubo 20 milijonov delovnih mest, v čemer je glavni vzrok upadanje števila zaposlenih.",negative,0
+96,,"Nedavno raziskavo je pokazala, da ima naša družba enega najvišjih standardov življenja v Evropi, kar je rezultat dobrega dela vseh Slovencev.",positive,1
+97,,"Naše podjetje je že deveto leto zapored dodalo novo delovna mesta in se je pokazalo, da je naše poslovanje zelo uspešno.",positive,1
+98,,"Naš tim je opravil izvrsten projekt, ki bo pomagal k razvoju lokalne skupnosti in izboljšanju življenjskega standarda.",positive,1
+99,,"(Note: The provided texts have a positive sentiment, but they may need adjustments or rephrasing for better coherence and grammar.)",positive,1
+100,,"Na Slovenskem trg je bil vrnitveni promet zelo majhen, kar pomeni, da Slovenci nimajo denarja za nakupovanje.",negative,0
+101,,"(Note: These texts were generated based on my understanding of what constitutes a positive sentiment in Slovenian. However, please keep in mind that cultural nuances may affect how sentiments are perceived.)",positive,1
+102,,"Slovenija se nahaja v kriznem obdobju, ki ga spremlja visoka stopnja brezposelnosti in nezanesljiva prihodnost. Poslovni subjекти so prisiljeni izvajati stroge mere za obračunavanje stroškov in omejevanje izdatkov.",negative,0
+103,,Novi projekt bo pomagal k razvoju naše regije in bo prispeval k izboljšanju življenjskega standarda lokalnih prebivalcev.,positive,1
+104,,"Že naslednji teden se začne novo sezono v spletni trgovini eKupon, kjer bomo ponudili ekskluzivne popuste in nagrade za naše zveste kupce.",positive,1
+105,,"Svetovna gospodarska kriza je še vedno prisotna, kar vpliva na naše življenje in delo.",negative,0
+106,,Na zahtevo predstavnikov zaposlenih bo nadzorni svet Luke Koper v petek odločal o razrešitvi uprave Luke Koper. Po napovedih poznavalcev razmer naj bi tokrat vendarle razrešili vsaj predsednika uprave Gregorja Veselka in člana uprave Tomaža Martina Jamnika.,negative,0
+107,,"Grška vlada se bojazenja, da bo moralena izoginiti bankrotu, potrebovala še 104 milijarde evrov pomoći.",negative,0
+108,,"Islandija se nahaja v velikih težavah, saj ji manjka denarja za financiranje države, in obstaja možnost lakote.",negative,0
+109,,Odprtje novega trgovskega centra v mestu Mariboru bo pomagalo lokalnim prodajalcem in gostinciščem ter dodatno privabilo turiste.,positive,1
+110,,Odprtje novega trgovskega centra v mestu Mariboru je privedlo do velikega zanimanja lokalne skupnosti. Novo trgovsko središče je postalo nov center zabave in nakupa v regiji.,positive,1
+111,,"Zapadle gospodarske razmere so vzrok za številne probleme v našem življenju, saj smo izgubili vero v sistem.",negative,0
+112,,"V nedeljo so se sklenila pogajanja o prostotrgovinskem sporazumu med EU in Singapurjem, ki bodo v prihodnje pomembno prispeovala k oživitvi gospodarstva in širjenju evropskih podjetij na trge Jugovzhodne Azije.",positive,1
+113,,"Brezposelnost se je od začetka krize skoraj podvojila, brez službe je več kot 110.000 ljudi. Gospodarstvo je v krču, obseg kreditov domačih bank se je lani močno zmanjšal in nič ne kaže, da bo kmalu bolje.",negative,0
+114,,"Na trg je prišla nova vrsta kriminala: goljufija s karticami. V zadnjih mesecih je bil opažen velik porast goljufij s karticami, kar je vzelo veliko denarja iz žepov Slovencev.",negative,0
+115,,"Grčija bo potrebovala še 104 milijarde evrov pomoći, da se želi izogniti bankrotu.",negative,0
+116,,"Brezposelnost se je od začetka krize skoraj podvojila, brez službe je več kot 110.000 ljudi. Gospodarstvo je v krču, obseg kreditov domačih bank se je lani močno zmanjšal.",negative,0
+117,,"Pripravljamo se na novo fazo razvoja naše družbe, ki bo temeljila na novih idejah in rešitvah.",positive,1
+118,,"Prišlo je čas, da se zahvalimo vsem, ki so nam pomagali pri graditvi našega novega doma. Zahvala vsem, ki ste nam dali roko za pomoc!",positive,1
+119,,"Pozabili so na točko o zmanjšanju osnovnega kapitala družbe, pri tem pa gre po besedah Stanislava Valanta le za računovodsko operacijo Uprava NFD Holdinga , ki jo vodi Stanislav Valant je včeraj sklicala novo skupščino, saj so pri sklicu julijske skupščine naredili ""administrativno napako"".",negative,0
+120,,"Gospodarsko sliko kvarijo Italija, Španija, Portugalska in Grčija Bruto domači proizvod se je skrčil na celotnem območju Evropske unije.",negative,0
+121,,"Nova aplikacija za pametne telefone, ki jo je razvil slovenski programer, je postala hit po vsem svetu. Uporabniki so navdušeni nad funkcionalnostjo in lahkoto uporabe.",positive,1
+122,,"(Note: The above response is divided into separate sections using the """,positive,1
+123,,"Globalna finančna kriza bo povzročila izgubo 20 milijonov delovnih mest, v članku na svojih straneh danes pišejo tuje agencije. Po oceni mednarodne agencije za delo se bo število brezposelnih v tem desetletju dvignilo na 210 milijonov.",negative,0
+124,,"Evropa se bojda proti hudemu udarcu gospodarske krize, ki bo lahko vzrok za številne stečaje in odpustitve delavcev ter za znižanje življenjske ravni.",negative,0
+125,,Zdravje in lepota gresta skupaj! Nova kampanja za promocijo zdrave življenjske stil je začela!,positive,1
+126,,Nova železniška proga med Slovenijo in Italijo bo olajšala transportne zmogljivosti in pripomogla k razvoju regionalne gospodarstva.,positive,1
+127,,"Podjetje je začelo s proizvodnjo novo generacijo vozil, ki bodo pomagala k varčevanju goriva in onesnaženju okolja.",positive,1
+128,,"Ljubljana - Zaostrovanje razmer v mednarodnem gospodarskem okolju, upočasnitev stopenj rasti izvoza in vnovičen padec domačega povpraševanja se vse bolj odraža na poslovanju največjih slovenskih poslovnih skupin.",negative,0
+129,,"Zdravstveno varstvo je v Sloveniji v kritičnem stanju, saj smo primanjkljaji financ, ki bi omogočili normalno delovanje zdravstva.",negative,0
+130,,Pogajanja o prostotrgovinskem sporazumu med EU in Singapurjem bodo v prihodnje pomembno prispevala k oživitvi gospodarstva in širjenju evropskih podjetij na trge Jugovzhodne Azije.,positive,1
+131,,V bližnji prihodnosti bo mesto Celje dobilo novo moderno prometno infrastrukturo. Gradnja nove ceste in mostu bo olajšala promet v mestu in okolici.,positive,1
+132,,"Slovenija bo kmalu postala center za razvoj in proizvodnjo elektronskih komponent, saj bo tu ustanovljena nova fabrika.",positive,1
+133,,"Država se bojda pred velikanskim finančnim tlakom, ki ji grozi s propadom, če se ne bo hitro izenačila z njegovimi posledicami in sprejela ukrepe za reševanje kriznega stanja.",negative,0
+134,,"V Sloveniji se je stanje v gospodarstvu še naprej slabšalo, kar vzdržuje negotovo prihodnost mnogim lokalnim podjetjem.",negative,0
+135,,"(Note: There is no need for me to provide anything beyond these six texts, since you requested only the Slovenian texts themselves.)",positive,1
+136,,Podjetje Gorenje je uspelo doseči agreement z velikimi partnerji za izgradnjo nove tovarne v Sloveniji. Ta dogodek bo pomagal kreiranju novih delovnih mest in rastu gospodarstva.,positive,1
+137,,"Število brezposelnih v Evropi je še vedno visoko, kar vzrokujemo nezadostni politiki evroposlancev.",negative,0
+138,,"Podjetje Primorje bo tretjino zaposlenih delavcev poslalo na čakanje, ker jim primanjkuje dela.",negative,0
+139,,"Brezposelnost se je od oktobra 2008, ko se je kriza začela, skoraj podvojila. Vse slabše razmere na trgu dela Oktobra se je v Sloveniji med drugim občutno zmanjšala",negative,0
+140,,"Grška vlada je še vedno v težavah, saj ji manjka denarja za financiranje programa reform.",negative,0
+141,,"Na trg je prišel nov val pánče, saj se število insolventnih podjetij povečuje, kar ogrozaja stabilnost sistema.",negative,0
+142,,"Slovenija je postala članica Mednarodnega energetskega agencije, kar ji bo omogočilo aktivno sodelovanje pri razvoju obnovljive energije in varčevalnem upravljanju energije.",positive,1
+143,,"Novo obdobje razvoja se je začelo! Inženiring, tehnologija in inovacija bodo vodile našo prihodnost!",positive,1
+144,,"Slišali smo, da je nova skupina mladih poklicnih tekmejev začela z uspešnim delom in že zdaj vidimo lepše posledice njihovega dela. Čestitamo jim in želimo še veliko uspeha!",positive,1
+145,,"Že konec tedna smo pisali o hudo kritični situaciji, v kateri se nahaja Grčija. Država se nahaja na robu банкрота, ker ji manjka 104 milijarde evrov pomoći.",negative,0
+146,,"Globalna finančna kriza bo povzročila izgubo 20 milijonov delovnih mest, ugotavlja Mednarodna organizacija za delo (ILO) pri ZN.",negative,0
+147,,"Ljudje smo zelo optimistični, ker imamo možnosti za razvoj novih tehničnih rešenj, ki bodo pripomogla k razvoju našega gospodarstva.",positive,1
+148,,"Ultramaratonski tekač in kolesar Radovan Skubic - Hilarij te dni kolesari po Sloveniji, ustavil se bo v vsaki slovenski občini. Pot bo dolga ""le"" 2.885 kilometrov, kar je štirikrat manj kot njegov najdaljši podvig do Pekinga.",positive,1
+149,,"Nemška ekonomija se vrača nazaj na pot rastov, saj je optimizem nemških poslovnežev glede trenutne in prihodnje gospodarske situacije v državi zelo visok. To je dobra novice za vse, ki so povezani z nemško ekonomijo.",positive,1
+150,,Študentje Fakultete za strojništvo v Ljubljani so razvili novo orodje za čiščenje onesnaženega zemljišča. Orodje bo omogočilo hitrejše in učinkovitje čiščenje onesnaženega zemljišča.,positive,1
+151,,Hewlett-Packard (HP) je dosegel za dobro tretjino boljše četrtletne rezultate kot v enakem obdobju leto prej in napovedal še boljše rezultate od napovedi analitikov.,positive,1
+152,,"Vzporedno z rastom našega gospodarstva se začenja razvijati tudi turizem, kar bo vodilo do dodatnih možnosti zaposlitve in rast pregledov.",positive,1
+153,,"Država še vedno ne skrbi za mlade generacije. Pomanjkanje delovnih mest, visoki študentski dolgovi... To so le nekateri vidnejši problém, ki jih mladinci soočajo. Država mora ukiniti to neravnovesje in omogočiti mladem možnost dobrega življenja.",negative,0
+154,,"Grčija je v težavah, saj ji primanjkuje 104 milijarde evrov pomoći, da bi se izognila bankrotu.",negative,0
+155,,"V Ljubljani je bil odprt novi center za razvoj inženiringa, ki bo združeval strokovnjake iz celega sveta in jim nudil prostor za razvoj inovativnih idej.",positive,1
+156,,"Lokalna skupina mladinskih aktivistov je organizirala uspešen dogodek za kreiranje ozaveščanja o pomenu varstva okolja. Dogodek je privabil mnoge mlade ljude, ki so se pridružili iniciativo za očuvanje naravne lepote našega okolja.",positive,1
+157,,"Kriminal v Sloveniji se povečuje. Število kaznivih dejanj se povečuje, ljudje živijo v strahu. Država mora ukiniti kriminal in zagotoviti varnost občanom.",negative,0
+158,,"Gorenje je sprejelo finančno spodbudo v višini 400.000 evrov, ki ji bo omogočila zaposlitev 200 novih delavcev. To je velik uspeh za podjetje in za lokalno skupnost.",positive,1
+159,,"Slovenija je postala četrta država v Evropi, ki ima možnost digitalnega plačevanja davkov preko interneta.",positive,1
+160,,"Grška vlada se bojda proti katastrofalnim posledicam kriznega stanja, ki ga prizadene že dve leti, in bo morale sprejeta izredne ukrepe, da bi rešila državo pred propadom.",negative,0
+161,,"V Sloveniji se je število brezposelnih povečalo za 10%. To je eden najnižjih deležev v Evropi. Gospodarstvo je v krizi, in situacija se še slabša.",negative,0
+162,,"Želim vam čiste ruke in srce, polno radosti in veselja! Veselimo se skupaj!",positive,1
+163,,"Sodelovanje med Slovenci in Česi bo še naprej krepitevalo, saj obe narodi imamo podobne vrednote in cilje.",positive,1
+164,,"Islandija ima zaloge hrane še za tri do pet tednov, največji uvozniki pa trdijo, da se brez finančne injekcije država ne bo uspela izogniti lakoti. Po tem, ko je država prevzela tri največje islandske banke, so uvozniki hrane, katerim so omenjene banke posojale denar, ostali brez finančne podpore.",negative,0
+165,,"Mednarodni denarni sklad ocenjuje, da bi Grčija, če se želi izogniti bankrotu, potrebovala še 104 milijarde evrov pomoći. Prispevati bi jo morala EU in zasebni upniki.",negative,0

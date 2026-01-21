@@ -1,0 +1,2028 @@
+,id,text,intent,label
+0,1013,tofauti ya saa ngapi ni kisumu kutoka nairobi,datetime_convert,4
+1,1662,ni tofauti gani ya wakati kati ya kisumu na nairobi,datetime_convert,4
+2,11956,olly ni filamu gani zinacheza karibu nami,recommendation_movies,7
+3,9843,rejea wimbo wa sauti sol,play_audiobook,6
+4,5634,je hali ya hewa leo itakuwa na mawingu,weather_query,9
+5,17031,nahitaji barua pepe kwa mama napanga safari ya kumuona muulize hali ya hewa itakuwaje ili nijue jinsi,email_sendemail,5
+6,9957,unafaa kupika kuku mzima kwa muda gani kwenye digrii celcius mia tatu na sabini na tano,cooking_recipe,3
+7,4552,orodhesha kengele zangu zote,alarm_query,0
+8,5644,hali ya hewa itakuwaje leo mchana,weather_query,9
+9,6728,futa kifungua kinywa kwa nyumba ya tiffany,calendar_remove,2
+10,9800,fungua nyimbo,play_audiobook,6
+11,8256,ondoa matukio yote yaliyopangwa kwenye kalenda yangu tafadhali,calendar_remove,2
+12,5751,je nitahitaji kuvaa koti nikitoka nje,weather_query,9
+13,16087,anzisha barua pepe mpya kwa emma,email_sendemail,5
+14,4963,punguza sauti iwe ya chini,audio_volume_down,1
+15,8190,tafadhali futa kalenda yangu ya kesho,calendar_remove,2
+16,9755,tusikilize aminata,play_audiobook,6
+17,15854,sambaza barua pepe kwa barua pepe yangu mpya olly,email_sendemail,5
+18,10168,chakula hiki kinapikwa vipi,cooking_recipe,3
+19,12151,niwekee tiketi ya kwenda paris kwenye eurostar wikendi hii,transport_ticket,8
+20,12356,nahitaji tikiti ya treni,transport_ticket,8
+21,16418,tafadhali tuma barua pepe kwa mjomba juma kumwambia kuwa nitakuwepo,email_sendemail,5
+22,8340,futa tukio langu lijalo,calendar_remove,2
+23,16346,tuma barua pepe kwa njoroge na umkumbushe asisahau machungwa asubuhi,email_sendemail,5
+24,7793,tuma barua pepe kwa sarah kuhusu brunch leo,email_sendemail,5
+25,15888,tafadhali tafuta orodha ya mikahawa yote katika hili eneo kisha uzitume kwa barua pepe ya mume wangu,email_sendemail,5
+26,16237,sambaza barua kwa anwani mpya ya barua pepe,email_sendemail,5
+27,5818,hali ya hewa ikoje katika mji wa nyumbani,weather_query,9
+28,3556,theluji itasimama kabla ya saa moja asubuhi kesho,weather_query,9
+29,4128,kwa sasa nikona kengele yoyote imewekwa,alarm_query,0
+30,16868,fikia kwa barua kwa familia yangu,email_sendemail,5
+31,10183,pilau ni nini,cooking_recipe,3
+32,6996,futa tukio linalofuata,calendar_remove,2
+33,12763,nahitaji tikiti ya gari la moshi,transport_ticket,8
+34,5904,angalia kama nimeweka kengele yoyote ya asubuhi,alarm_query,0
+35,12199,tafuta tiketi ya treni kwenda mombasa,transport_ticket,8
+36,9887,kitabu cha sauti kigogo,play_audiobook,6
+37,1391,olly kutakuwa kuzuri siku ya jumamosi,weather_query,9
+38,16969,tafadhali tuma barua pepe kwa a. b. c. kwa gmail dot com badala ya xyz kwenye gmail dot com,email_sendemail,5
+39,12833,alexa igiza tiketi la gari la moshi alasiri hii ya kwenda chicago,transport_ticket,8
+40,15951,rasimu jibu kwa barua pepe ya juma,email_sendemail,5
+41,8254,futa tukio langu lijalo,calendar_remove,2
+42,3737,punguza sauti kwa kipaza sauti,audio_volume_down,1
+43,9147,nataka kuondoa tamasha la harusi jumamosi kwenye kalenda,calendar_remove,2
+44,16954,tafuta wawasiliani,email_sendemail,5
+45,17154,tafadhali jibu barua pepe hii,email_sendemail,5
+46,9992,niambie resipe ya kupika pilau,cooking_recipe,3
+47,1338,mimi nina kengele gani zmepangwa kesho,alarm_query,0
+48,5448,inaonekana kuna jua bila mawingu leo je ni ukweli,weather_query,9
+49,15779,fungua barua pepe ya mathayo yenye maudhui ya miradi nitumie ankara,email_sendemail,5
+50,16558,jibu juma kwa barua pepe kwamba ndio naweza,email_sendemail,5
+51,5331,saa za eneo kati ya kenya na uganda,datetime_convert,4
+52,218,inanyesha nje ya mombasa,weather_query,9
+53,6019,ningependa kujua kengele uliotuma,alarm_query,0
+54,17067,jibu barua pepe iliyopokelewa kutoka kwa petero,email_sendemail,5
+55,8003,ghairi mkutano yangu ya ijumaa,calendar_remove,2
+56,9697,endelea kunisomea kanda bongo man,play_audiobook,6
+57,16258,tafadhali tuma barua pepe kwa mke wangu kuhusu hali ya hewa ya wiki ijayo,email_sendemail,5
+58,16449,nahitaji kuhariri barua pepe ya maria jones ili kusoma,email_sendemail,5
+59,16034,tunga barua pepe mpya kwa juma barua pepe,email_sendemail,5
+60,5936,nahitaji kofia yangu leo,weather_query,9
+61,2430,tafadhali angalia kengele,alarm_query,0
+62,6714,olly ghairi mkutano wa biashara siku ya jumatano,calendar_remove,2
+63,10212,chakula kizuri,cooking_recipe,3
+64,4414,itanyesha nairobi jumanne ijayo,weather_query,9
+65,5843,alexa nahitaji mwavuli leo,weather_query,9
+66,6512,kengele,alarm_query,0
+67,656,hali ya hewa iko aje washington d c,weather_query,9
+68,10578,toa matukio yangu kwa data ya kutafuta,calendar_remove,2
+69,8104,tafadhali futa miadi yote ya leo,calendar_remove,2
+70,1190,ikiwa ni saa sita usiku huko kisumu saa ngapi nairobi,datetime_convert,4
+71,5998,ikiwa ni saa kumi na mbili asubuhi hapa ni saa ngapi nairobi,datetime_convert,4
+72,17079,tuma barua pepe ya pole kwa msiba kwa juma,email_sendemail,5
+73,8737,ondoa ratiba yangu ya tarehe hii,calendar_remove,2
+74,12522,hifadhi tiketi ya gari la moshi,transport_ticket,8
+75,7621,ondoa matukio yangu yote kwa kalenda,calendar_remove,2
+76,4749,itanyesha,weather_query,9
+77,9905,endelea kucheza mahali niliachia,play_audiobook,6
+78,16681,tuma barua pepe kwa asha jamani nimekumiss jana unataka kwenda chajio leo usiku,email_sendemail,5
+79,10003,nataka kupika pasta kwa staili ya kikenya nionyeshe jinsi,cooking_recipe,3
+80,10002,nionyeshe jinsi ya kupika kifungua kinywa cha chini cha kalori,cooking_recipe,3
+81,1388,olly je kuna uwezekano wa mvua kunyesha jumamosi,weather_query,9
+82,8240,ondoa kila tukio kwenye kalenda,calendar_remove,2
+83,9954,kuku wa kuoka anafaa kuwa na joto lipi,cooking_recipe,3
+84,16031,olly fungua barua pepe hii mpya kwa mfanyikazi mwenzangu kwenye barua pepe hii,email_sendemail,5
+85,9802,rejelea kitabu cha sauti cha the two towers,play_audiobook,6
+86,9990,niambie njia za kujifunza kupika,cooking_recipe,3
+87,10101,unapikaje nyama,cooking_recipe,3
+88,1724,ni joto gani la juu zaidi la delhi,weather_query,9
+89,16702,tafuta barua pepe ya hivi karibuni ya juma ili mimi niweze kuijibu,email_sendemail,5
+90,12270,niwekee nafasi ya tikiti ya treni katika treni yoyote ya garissa kesho,transport_ticket,8
+91,5482,olly punguza sauti,audio_volume_down,1
+92,6759,futa mkutano wangu unaofuata,calendar_remove,2
+93,5874,je nivae koti kwenye bwawa,weather_query,9
+94,16962,olly tuma barua pepe kwa mwanafamilia na uisome kwanza,email_sendemail,5
+95,12218,nahitaji tiketi ya ndege,transport_ticket,8
+96,9714,cheza rock,play_audiobook,6
+97,5742,habari ya hali ya hewa,weather_query,9
+98,7713,futa matukio yangu yote ya kesho,calendar_remove,2
+99,12105,aki na ukwa,recommendation_movies,7
+100,2543,hali ya hewa iko aje karibu nami,weather_query,9
+101,9784,nahitaji mapumziko anzisha baada ya dakika tano,play_audiobook,6
+102,8637,unaweza kuondoa tukio linalofuata kwenye kalenda yangu,calendar_remove,2
+103,16867,mtumie barua rafiki yangu,email_sendemail,5
+104,5167,nahitaji mwavuli alasiri hii nairobi,weather_query,9
+105,6004,je ninahitaji kubeba mwavuli leo,weather_query,9
+106,1309,hali ya hewa iko aje hapa leo,weather_query,9
+107,16065,tuma barua pepe kwa mada kama jaribio na hakuna yaliyomo,email_sendemail,5
+108,14349,google halijoto nje ikoje,weather_query,9
+109,4904,kutakuwa na joto,weather_query,9
+110,12131,kitabu cha safari ya kurudi kutoka nairobi hadi kampala kwa gari la moshi,transport_ticket,8
+111,8738,toa tukio kwenye kalenda,calendar_remove,2
+112,7354,unaweza kunijulisha hali ya hewa ya nairobi kesho,weather_query,9
+113,1633,nionyeshe kengele zangu,alarm_query,0
+114,4079,kengele yangu ya kesho asubuhi imewekwa wakati gani,alarm_query,0
+115,16566,barua pepe mfanyikazi wa kampuni kuhusu mradi wa kazi,email_sendemail,5
+116,16200,tafadhali tuma barua pepe kwa anwani mpya ya barua pepe ya mutinda ambayo ni larrylarry at gmail dot com,email_sendemail,5
+117,12671,weka treni kwa machi tarehe ishirini na mbili saa sita mchana,transport_ticket,8
+118,10189,onyesha kichocheo ya nyama ya kuku,cooking_recipe,3
+119,12643,niwekee tiketi ya saa kumi na moja jioni ya wasafiri kwenda rockville,transport_ticket,8
+120,5303,alexa hali ya hewa itakuwa aje machi ishirini mwaka wa elfu mbili kumi na saba,weather_query,9
+121,5759,hali ya hewa ya wiki ijayo ya nairobi,weather_query,9
+122,10069,kuna vijiko vingapi vya chai kwenye kikombe,cooking_recipe,3
+123,1438,mimi nina kengele gani,alarm_query,0
+124,9036,ghairi matukio yote ya leo na uniwekee alama kuwa nina shughuli,calendar_remove,2
+125,12893,nakuomba unishikie tikiti ya gari la moshi,transport_ticket,8
+126,3612,mvua haitanyesha sivyo,weather_query,9
+127,101,wiki hii hali ya hewa ikoje,weather_query,9
+128,16194,tafadhali tuma barua pepe kwa asha,email_sendemail,5
+129,10007,olly kuonyesha njia ya kuandaa mokimo,cooking_recipe,3
+130,9745,sauti anza,play_audiobook,6
+131,7998,futa tukio langu linalofuata kwenye kalenda,calendar_remove,2
+132,824,sawa google hali ya hewa iko aje leo pahali nipo,weather_query,9
+133,8815,nenda kwa mwezi wa tukio na ufute,calendar_remove,2
+134,1536,ni saa ngapi sasa kenya ukilinganisha na uganda,datetime_convert,4
+135,9933,tafuta resipe ya kimapenzi ya chajio cha watu wawili,cooking_recipe,3
+136,11670,olly ni filamu gani zinacheza karibu nami,recommendation_movies,7
+137,9929,olly jinsi gani ya kupika pasta,cooking_recipe,3
+138,755,badilisha saa katika eneo hili kuwa ist,datetime_convert,4
+139,1843,kutakuwa na joto zaidi hapa wiki ijayo,weather_query,9
+140,16429,mtumie mama yangu barua pepe ya kusema nitafanya wiki inayofuata,email_sendemail,5
+141,5123,je ni joto kiasi gani nje,weather_query,9
+142,2585,anzisha redio kwa sasa kwa sauti ya chini,audio_volume_down,1
+143,4471,jibu barua pepe kutoka,weather_query,9
+144,17078,tafadhali tuma barua pepe ya biashara kuhusu wakati wa mabadiliko ya mkutano kwa asha,email_sendemail,5
+145,10071,ni muda upi wa kupika kuku mzima kwa mia tatu na hamsini,cooking_recipe,3
+146,9898,soma kitabu cha kusikiliza ya nyimbo za kusifu mungu,play_audiobook,6
+147,5994,je unafikiria mvua itanyesha kesho,weather_query,9
+148,1052,kuna nafasi gani ya kunyesha leo,weather_query,9
+149,584,kuna uwezekano wa mvua wiki hii,weather_query,9
+150,1082,sauti yako iko juu sana tafadhali rudia hiyo ya chini,audio_volume_down,1
+151,376,angalia programu ya hali ya hewa ili kuona kama,weather_query,9
+152,11873,una pendekeza filamu yoyote inayocheza mtaa wangu,recommendation_movies,7
+153,16837,tunga barua pepe hii kwa anwani hii mpya ya barua pepe,email_sendemail,5
+154,16497,tuma ombi kwa rita,email_sendemail,5
+155,4294,unaweza niambia kuhusu arifa nimeweka,alarm_query,0
+156,410,kengele zangu zimewekwa saa ngapi,alarm_query,0
+157,5790,kuna joto jingi leo,weather_query,9
+158,17155,jibu barua pepe ya tonny,email_sendemail,5
+159,5338,joto la kawaida,weather_query,9
+160,606,utabiri wa hali ya hewa ya wikendi,weather_query,9
+161,4927,utabiri wa hali ya hewa hii wiki,weather_query,9
+162,6716,ondoa stand-up ijumaa saa nne asubuhi,calendar_remove,2
+163,17127,jibu ujumbe wa mama wa barua kuhusu resipe ya asha,email_sendemail,5
+164,16690,jibu barua pepe mpya kutoka kwa asha,email_sendemail,5
+165,16053,tuma juma barua kwa kazi,email_sendemail,5
+166,5801,je unafikiri naweza kuvaa champali au lazima kuvaa viatu usiku saa moja usiku,weather_query,9
+167,10120,jinsi ya kupika spaghetti,cooking_recipe,3
+168,5248,nahitaji kuleta koti leo,weather_query,9
+169,5711,je nichukue koti nikienda birmingham jioni hii,weather_query,9
+170,8470,toa matukio yote kwenye calenda mwezi huu,calendar_remove,2
+171,9719,rudi nyuma kwa shamba la wanyama,play_audiobook,6
+172,16054,tuma barua kwa rashid kwa pesa,email_sendemail,5
+173,2653,je mvua itanyesha jumamosi,weather_query,9
+174,8369,hujambo olly ondoa mipangilio yangu yote ya leo,calendar_remove,2
+175,10222,jeduali hili linaonyesha makadirio ili uweze kutengeza biashara ya vyakula,cooking_recipe,3
+176,16147,tunga barua kwa juma,email_sendemail,5
+177,12561,kitabu tiketi ya gari la moshi kwa ajili ya ijumaa ya aprili kumi na nne hadi nakuru,transport_ticket,8
+178,6280,hali ya joto ilikuwa ngapi nilipokuwa kwenye bustani,weather_query,9
+179,408,kengele gani nimeweka,alarm_query,0
+180,9681,cheza mimi nakupenda malaika kutoka mwisho kusimamishwa kusikiliza,play_audiobook,6
+181,15749,kumjibu asha kuwa niko njiani,email_sendemail,5
+182,3130,kuna upepo leo,weather_query,9
+183,10095,vyakula vya afya,cooking_recipe,3
+184,17139,tuma jibu kwa barua pepe hii,email_sendemail,5
+185,5112,ninahitaji koti la mvua siku inayofuata,weather_query,9
+186,11958,nionyeshe masaa ya filamu,recommendation_movies,7
+187,394,ikiwa ni mchana huko kisumu saa ngapi huko mombasa,datetime_convert,4
+188,5498,ni wakati gani ninaweza kupiga simu kutoka kisumu na itakuwa masaa ya biashara katika nairobi,datetime_convert,4
+189,3097,je kunanyesha huko toronto,weather_query,9
+190,9967,ni njia ipi bora ya kupika spaghetti,cooking_recipe,3
+191,4801,nje joto iko aje kwa sasa,weather_query,9
+192,8281,ondoa matukio yote yaliyoratibiwa kwenye kalenda,calendar_remove,2
+193,1321,hali ya hewa iko aje leo,weather_query,9
+194,5601,utabiri wa hali ya hewa ni nini,weather_query,9
+195,9717,cheza shamba la wanyama,play_audiobook,6
+196,49,niambie wakati wa g. m. t. pamoja na tano,datetime_convert,4
+197,11694,filamu yoyote nzuri,recommendation_movies,7
+198,7343,ondoa kila kitu kwenye kalenda yangu,calendar_remove,2
+199,2429,hali ya kengele,alarm_query,0
+200,3879,hali ya hewa ikoje huko nairobi,weather_query,9
+201,1543,tafadhali niambie kama kutakuwa na theluji wikendi hii,weather_query,9
+202,11722,taja filamu ya kung fu inayochezwa ndani na karibu ya vijumba vya kucheza filamu vya kisumu,recommendation_movies,7
+203,6971,ghairi tukio,calendar_remove,2
+204,6081,je ninahitaji koti leo,weather_query,9
+205,6969,nafaa kufanya nini leo,calendar_remove,2
+206,10188,nachoma aje nyama ya nguruwe,cooking_recipe,3
+207,5834,kutakuwa na baridi katika siku chache zijazo,weather_query,9
+208,6080,nitahitaji koti langu mzito baada ya chakula cha mchana leo,weather_query,9
+209,7983,futa mikutano na kazi zote za leo,calendar_remove,2
+210,12401,niagizie gari la moshi inayotoka stesheni ya mombasa kesho ikielekea mji wowote wenye umbali wa zaidi ya maili mia mbili,transport_ticket,8
+211,4071,tafadhali punguza sauti,audio_volume_down,1
+212,16417,tafadhali tuma barua pepe ifuatayo kwa mjomba mutinda ndio nitakuwepo,email_sendemail,5
+213,16937,hifadhi barua pepe kwa ajili ya baadaye,email_sendemail,5
+214,6046,je naweza kuvaa kaptula leo,weather_query,9
+215,8476,tafadhali futa tukio hili,calendar_remove,2
+216,8683,ondoa tukio lililoko kwenye kalenda,calendar_remove,2
+217,12323,chanzo na marudio,transport_ticket,8
+218,5616,weka eneo la saa kuwa wakati wa wastani wa greenwich,datetime_convert,4
+219,16565,mtumie mama barua pepe kuhusu chakula cha mchana,email_sendemail,5
+220,15760,barua pepe kwa mutinda kuhusu habari za hivi punde,email_sendemail,5
+221,8772,ondoa safari iliyopangwa julai nne,calendar_remove,2
+222,7510,futa tukio,calendar_remove,2
+223,4051,kuna theluji sasa hivi,weather_query,9
+224,16189,tuma barua pepe kwa mjomba wangu kuhusu hali ya hewa ya sasa,email_sendemail,5
+225,356,kengele yangu ijayo ni gani,alarm_query,0
+226,15827,nenda kwa anwani na uongeze barua pepe mpya kwenye orodha,email_sendemail,5
+227,8744,waweza ondoa tukio lifwatalo nililoalikwa kwenye kalenda,calendar_remove,2
+228,16511,mtumie juma barua pepe kusema una mipango usiku wa leo nataka kwenda kula chajio,email_sendemail,5
+229,2339,hali ya hewa iko aje kwa sasa katika jiji la new york,weather_query,9
+230,6030,chakula kitapeanwa kwenye maonyesho,weather_query,9
+231,12897,ninahitaji tikiti ya daraja la dhahabu kwenye gari la moshi namba tano kwa kutumia kadi yangu ya mkopo,transport_ticket,8
+232,15960,tuma barua pepe kwa juma,email_sendemail,5
+233,3033,hali ya hewa ya sasa ikoje,weather_query,9
+234,11774,unapendekeza niangalie nini wikendi hii,recommendation_movies,7
+235,2791,je utabiri wa hali ya siku tano zijazo wa nairobi unaonekanaje,weather_query,9
+236,7200,futa kalenda yangu,calendar_remove,2
+237,5724,hali ya hewa itakuwaje leo usiku,weather_query,9
+238,9922,jinsi ya kuoka mkate,cooking_recipe,3
+239,3664,niambie joto ya usiku wa jumamosi,weather_query,9
+240,6970,futa tukio,calendar_remove,2
+241,10141,unatumia nini kuunda mandazi,cooking_recipe,3
+242,12241,tafadhali enda amtrak dot com kununua tiketi,transport_ticket,8
+243,16204,tuma ujumbe huu kwa kikundi cha familia,email_sendemail,5
+244,2616,je nitalazimika kuwa na wasiwasi kuhusu majembe ya theluji yakizika gari langu kwenye barabara kuu ya jumanne,weather_query,9
+245,5036,joto kiasi gani leo,weather_query,9
+246,4504,je kumetabiriwa kunyesha katika siku mbili zijazo,weather_query,9
+247,16094,tuma barua pepe kwa asha,email_sendemail,5
+248,16428,tafadhali mtumie baba baruapepe umuulize kuhusu hali ya anga kule nakuru,email_sendemail,5
+249,9687,cheza siku njema,play_audiobook,6
+250,11786,selina,recommendation_movies,7
+251,12351,hifadhi tiketi kiti cha kulala na garimoshi kwenda nairobi wiki ijayo,transport_ticket,8
+252,16682,tengeneza email kwa asha nina hamu ya kuona gari uliyo nayo inauzwa tunaweza kupanga muda wa kukutana tuma,email_sendemail,5
+253,507,thibitisha wakati wa kengele,alarm_query,0
+254,2224,hali ya hewa atlanta,weather_query,9
+255,7133,sihudhurii tena harusi ya tarehe kumi kwa hivyo iondoe kwenye kalenda yangu,calendar_remove,2
+256,4636,punguza sauti ya spika,audio_volume_down,1
+257,5534,hali ya hewa ni ya mawingu,weather_query,9
+258,3388,hali ya hewa itakuaje leo nairobi,weather_query,9
+259,5459,je nitahitaji sweta baada ya kazi,weather_query,9
+260,12641,tafadhali nikatie saa kumi na moja jioni ya gari la moshi hadi mombasa,transport_ticket,8
+261,16474,tuma barua pepe kwa juma,email_sendemail,5
+262,16311,tuma jibu kwa barua pepe hiyo,email_sendemail,5
+263,16310,tafadhali jibu,email_sendemail,5
+264,9773,endelea kitabu cha kusikiliza,play_audiobook,6
+265,9886,anzisha tena kitabu cha sauti cha pesa zako zinanuka,play_audiobook,6
+266,7986,unaweza futa tukio hili la sherehe ya chajio,calendar_remove,2
+267,10131,nipike kuku kwa muda kiasi gani,cooking_recipe,3
+268,6094,naweza ku fungua madirisha yangu wazi usiku wa leo,weather_query,9
+269,4219,ninahitaji koti nje sasa hivi,weather_query,9
+270,9092,weka upya matukio yote kwenye kalenda,calendar_remove,2
+271,2111,wakati ni saa nne usiku hapa ni saa ngapi nakuru,datetime_convert,4
+272,661,naomba kujua itakuwa saa ngapi saa kumi na mbili jioni hapa kenya,datetime_convert,4
+273,9972,ni njia gani bora zaidi ya kukonoa kisu cha mchinjaji,cooking_recipe,3
+274,16755,tuma barua pepe ya sauti,email_sendemail,5
+275,15941,tafadhali jibu barua pepe,email_sendemail,5
+276,8109,ondoa tukio linalofuata kwa kalenda,calendar_remove,2
+277,8406,futa matukio yote ya kesho,calendar_remove,2
+278,4374,hakikisha kengele zilizowekwa,alarm_query,0
+279,9894,rejea kucheza kifo kisimani,play_audiobook,6
+280,12200,niitishie tiketi ya gari la moshi ya kenya jioni hii,transport_ticket,8
+281,6917,ondoa matukio,calendar_remove,2
+282,8002,futa miadi yangu kesho,calendar_remove,2
+283,8288,ondoa kile ninachopaswa kufanya tarehe ishirini na tatu machi,calendar_remove,2
+284,3878,hali ya hewa ya sasa huko miami ikoje,weather_query,9
+285,5845,alexa nijipake mafuta ya kukinga jua leo,weather_query,9
+286,10127,nitafutie resipe ya wali,cooking_recipe,3
+287,283,je unatarajia kutakuwa na jua jumapili,weather_query,9
+288,2332,je kunanyesha sasa hivi,weather_query,9
+289,10096,tafadhali nipikie pizza,cooking_recipe,3
+290,2049,angalia hali ya hewa ya jiji kwenye orodha huanza na a,weather_query,9
+291,9752,rejea kucheza kidagaa,play_audiobook,6
+292,5214,nibebe nguo za joto,weather_query,9
+293,10241,olly ni ipi nyama ya ng'ombe yenye ladha zaidi,cooking_recipe,3
+294,5506,niambie kama kengeleye yangu imewekwa ya asubuhi,alarm_query,0
+295,9847,cheza kanda,play_audiobook,6
+296,3619,hali ya hewa iko aje huko sydney,weather_query,9
+297,1920,hali ya hewa ya wiki ya shule iko aje,weather_query,9
+298,7985,futa hili tukio ya machi tarehe tatu,calendar_remove,2
+299,16676,tuma barua pepe mpya kwa joejoe at gmail dot com,email_sendemail,5
+300,12767,naweza kupata tikiti ya gari la moshi kwenda,transport_ticket,8
+301,4072,waweza weka hiyo chini,audio_volume_down,1
+302,9824,kuchukua urefu wa wuthering ambapo sisi kushoto mbali,play_audiobook,6
+303,374,niambie kama yafuatayo ni kweli kuhusu hali ya anga,weather_query,9
+304,17016,nataka kujibu barua pepe,email_sendemail,5
+305,10208,harufu nzuri,cooking_recipe,3
+306,16940,kupitia seva ya barua,email_sendemail,5
+307,17068,jibu barua pepe iliyopokelewa kutoka kwa mwende,email_sendemail,5
+308,16691,tuma jibu kwa juma,email_sendemail,5
+309,10236,baada ya kupika dutu ongeza masala kiasi na upike tena halafu uandae,cooking_recipe,3
+310,5344,kuna dalili ya theluji jumatano,weather_query,9
+311,1020,hali ya hewa ikoje kwa sasa,weather_query,9
+312,3814,je kutakuwa na baridi kesho,weather_query,9
+313,6143,hali ya hewa itakuwaje katika wiki mbili,weather_query,9
+314,5542,tafadhali nifahamishe kengele iliyowekwa ya mkutano wa jumanne,alarm_query,0
+315,6735,olly futa matukio yangu yote ya siku mbili zijazo,calendar_remove,2
+316,15952,tuma barua pepe kwa asha kuuliza wakati anatoka kazini,email_sendemail,5
+317,6903,toa miadi na daktari wa meno wiki ijayo,calendar_remove,2
+318,16835,tuma barua pepe kwa anwani hii mpya ya barua pepe,email_sendemail,5
+319,9945,tafuta resipe ya umaarufu zaidi ya kupika pilau,cooking_recipe,3
+320,522,haiwezekani,weather_query,9
+321,16784,mama yangu anataka kujua vile hali ya anga itakavyokuwa kila wiki mtumie barua pepe,email_sendemail,5
+322,5971,hali ya hewa ya ikoje leo,weather_query,9
+323,13004,je kuna uwezekano gani wa mvua kunyesha leo,weather_query,9
+324,12613,nahitaji kukata tikiti ya gari moshi kutoka mombasa kwenda kisumu,transport_ticket,8
+325,6152,tafadhali kupata utabiri wa leo,weather_query,9
+326,16207,barua pepe kwa familia na maelezo ya sherehe,email_sendemail,5
+327,4434,nini utabiri wa wiki hii,weather_query,9
+328,6142,utabiri uliopanuliwa,weather_query,9
+329,16307,unda barua pepe ambayo inahitaji kwenda kwa familia yangu,email_sendemail,5
+330,284,ita nyesha jioni,weather_query,9
+331,9821,endeleza hadithi za bibi kwa audible,play_audiobook,6
+332,16064,tuma barua pepe kwa kamau ya kuuliza alipo na iwapo yupo sokoni mtumie nakala kuwa aje na divai,email_sendemail,5
+333,5863,ni joto gani la wastani katika mji wa mangalore wiki hii,weather_query,9
+334,12292,tiketi ya kuenda new york,transport_ticket,8
+335,4285,ni joto gani la juu zaidi wiki hii,weather_query,9
+336,5235,mwavuli baadaye,weather_query,9
+337,4750,je kutakuwa na theluji,weather_query,9
+338,9799,fungua jina la albamu,play_audiobook,6
+339,1642,hapana hapana izime,audio_volume_down,1
+340,15840,tuma barua pepe kwa ray,email_sendemail,5
+341,12596,google nahitaji tiketi moja ya gari la moshi kwenda nairobi unaweza kuniwekea hiyo,transport_ticket,8
+342,4252,nichukue mwavuli nami leo,weather_query,9
+343,1254,joto ilikuwaje huko new york asubuhi ya leo,weather_query,9
+344,15892,mtumie franco barua pepe,email_sendemail,5
+345,12287,tafuta tikiti za gari la moshi kwenda kisumu kesho,transport_ticket,8
+346,4628,ni wakati upi kutanyesha kesho,weather_query,9
+347,4525,utabiri wa hali ya hewa ya leo ni nini,weather_query,9
+348,1311,ni tofauti gani ya saa kutoka hapa hadi laikipia,datetime_convert,4
+349,7075,thafathali futa tukio ijayo kwenye kalenda yangu,calendar_remove,2
+350,205,onyesha kengele,alarm_query,0
+351,1686,je ndio au la kwamba halijoto la kesho litakuwa la moto,weather_query,9
+352,566,joto ni nini,weather_query,9
+353,12615,nahitaji kununua tiketi ya gari la moshi kutoka mombasa kwenda kisumu,transport_ticket,8
+354,9683,cheza kitabu,play_audiobook,6
+355,7434,toa tukio linalofuata kwenye kalenda yangu,calendar_remove,2
+356,8854,ondoa matukio ya kalenda,calendar_remove,2
+357,725,onyesha hali ya hewa wiki hii,weather_query,9
+358,7159,tafadhali anzisha tena na kutoa maingizo zote kwa kalenda,calendar_remove,2
+359,7093,futa kalenda yangu,calendar_remove,2
+360,8098,habari google tafadhali niondolee ratiba zote za ijumaa,calendar_remove,2
+361,4099,kuthibitisha tu uliweka kengele ilie saa mbili asubuhi,alarm_query,0
+362,11988,ni filamu gani nzuri imetoka sasa,recommendation_movies,7
+363,4528,unaweza niambia kuhusu kengele inayoitwa kitanda,alarm_query,0
+364,5447,je nitaogelea au nitafanya kazi leo,weather_query,9
+365,2327,ni joto gani,weather_query,9
+366,8225,futa tukio la jumanne,calendar_remove,2
+367,16102,tuma barua pepe kwa bosi wangu kuhusu kuondoka kwangu,email_sendemail,5
+368,6171,nitahitaji koti,weather_query,9
+369,3032,olly hali ya hewa ya sasa iko aje,weather_query,9
+370,2010,wiki hii hali ya hewa itakuwa ya jua au la,weather_query,9
+371,9721,endelea kitabu cha tano cha harry potter,play_audiobook,6
+372,9826,endelea wimbo kutoka kitabu cha kusikiliza cha marta munde,play_audiobook,6
+373,3389,utabiri wa hali ya hewa wa chicago ni nini,weather_query,9
+374,16958,anza barua pepe kwa mteja,email_sendemail,5
+375,9789,rejea kucheza kitabu cha audio,play_audiobook,6
+376,10084,ni njia gani mbadala ya unga,cooking_recipe,3
+377,9899,endelea kucheza kitabu cha sauti cha sasa,play_audiobook,6
+378,16345,nahitaji kutuma barua pepe mpya hii hapa ni anwani kisha uiongeze kwenye orodha ya mawasiliano,email_sendemail,5
+379,9744,endelea sauti,play_audiobook,6
+380,10187,ni nini mbadala mzuri wa mala,cooking_recipe,3
+381,8657,tafadhali futa kila kitu kutoka kwa kalenda yangu,calendar_remove,2
+382,1781,naweza kujua hali ya hewa kule,weather_query,9
+383,9666,cheza kitabu cha kusikiliza,play_audiobook,6
+384,16287,tuma barua pepe ya siku ya kuzaliwa kwa bosi wangu,email_sendemail,5
+385,15755,tuma barua pepe kwa kaka yangu,email_sendemail,5
+386,9710,unaweza pumzisha na urudishe nyuma sauti alafu uendelee,play_audiobook,6
+387,1800,je unafikiri itanyesha leo,weather_query,9
+388,7389,tafadhali ondoa tarehe ya chajio iliyopangwa kwa ijumaa saa tatu usiku,calendar_remove,2
+389,2915,punguza sauti ya spika,audio_volume_down,1
+390,4529,kengele yangu ijayo imepangwa lini,alarm_query,0
+391,4505,je kuna jua,weather_query,9
+392,4403,nitahitaji kujibebea mwavuli leo,weather_query,9
+393,16739,fungua barua pepe mpya ili uwasiliane,email_sendemail,5
+394,10067,vipi jinsi ya kupika viazi,cooking_recipe,3
+395,16408,alexa andika barua pepe,email_sendemail,5
+396,4679,je nahitaji koti nyepesi au mzito leo,weather_query,9
+397,1634,olly nionyeshe kengele zangu,alarm_query,0
+398,12725,nitafutie tiketi ya gari la moshi yenye bei nafuu kwenda miamy,transport_ticket,8
+399,16057,jibu barua pepe hiyo,email_sendemail,5
+400,1645,nikona kengele zozote zilizowekwa,alarm_query,0
+401,9704,nataka rejelea pale nilipoachia kwenye kitabu changu cha sauti,play_audiobook,6
+402,9804,fungua shamba la wanyama na ucheze,play_audiobook,6
+403,8745,tafadhali ondoa tukio lifwatalo kwenye kalenda ambalo nimeliongeza,calendar_remove,2
+404,10030,nahitaji resipe ya omena yenye tarehe kabla ya elfu moja mia tisa na sabini,cooking_recipe,3
+405,11746,olly ni filamu gani zinachezwa leo usiku saa tatu usiku kwa a. m. c. tisa,recommendation_movies,7
+406,5591,fungua hali ya hewa,weather_query,9
+407,5890,orodhesha kengele zote zilizowekwa,alarm_query,0
+408,701,angalia hali ya hewa,weather_query,9
+409,16836,alexa tuma barua pepe kwa anwani hii mpya ya barua pepe,email_sendemail,5
+410,16268,jibu barua pepe ya emma ya leo asubuhi,email_sendemail,5
+411,1485,orodhesha kengele zote,alarm_query,0
+412,8547,ondoa tukio la kalenda ijayo,calendar_remove,2
+413,10033,elezea kwa kifupi kuhusu samaki wa kukaangwa,cooking_recipe,3
+414,16537,sasa nahitaji kutuma barua pepe kwa mfanyakazi mwenzangu yangu,email_sendemail,5
+415,10199,nitaandaa aje biryani,cooking_recipe,3
+416,2047,punguza tambo,audio_volume_down,1
+417,3012,tafadhali niambie hali ya hewa,weather_query,9
+418,5645,hali ya hewa itakuwaje leo jioni,weather_query,9
+419,5710,je nitahitaji mafuta ya kuzuia jua mchana huu,weather_query,9
+420,9837,muziki ya tatu,play_audiobook,6
+421,6440,filamu gani nzuri kutazama sasa,recommendation_movies,7
+422,3815,kusini kutakuwa na joto kesho,weather_query,9
+423,4210,ninahitaji kuvaa koti kesho nikitoka kazi,weather_query,9
+424,8986,ondoa likizo yangu iliyopangwa julai,calendar_remove,2
+425,239,kunanyesha nairobi,weather_query,9
+426,12914,ninahitaji kukata tikiti ya gari la moshi ya kwenda mombasa,transport_ticket,8
+427,1906,punguza sauti,audio_volume_down,1
+428,15850,tuma barua pepe kwa sjobs at apple dot com,email_sendemail,5
+429,833,kutakua na theluji wikendi hii hapa,weather_query,9
+430,10159,je unaandaa aje mayai,cooking_recipe,3
+431,3252,hali ya hewa iko aje leo,weather_query,9
+432,4413,kuna theluji seattle,weather_query,9
+433,1390,olly je hali ya hewa itakuwaje jumamosi,weather_query,9
+434,9805,nichezee wimbo wa eric wainaina kwenye kitabu cha sauti,play_audiobook,6
+435,8162,badilisha mpango wa mkutano,calendar_remove,2
+436,9901,nitafutie kitabu cha kusikiliza toleo la ready player one na unichezee hiyo,play_audiobook,6
+437,700,habari ya hali ya hewa iko vipi,weather_query,9
+438,16942,kupitia simu za mkononi,email_sendemail,5
+439,16917,unaweza tafadhali jibu kwa barua hiyo,email_sendemail,5
+440,8231,futa miadi wakati ukifika,calendar_remove,2
+441,9672,endelea kucheza miungu ya igbo,play_audiobook,6
+442,9823,kucheza nakupenda malaika kutoka mahali ambapo mimi niliwachia,play_audiobook,6
+443,7175,ondoa,calendar_remove,2
+444,12448,agiza na ulipe tiketi la gari la moshi ya kwenda denver jumamosi,transport_ticket,8
+445,7235,tafadhali ghairi kukata nywele ijayo,calendar_remove,2
+446,16941,kwa kutumia outlook,email_sendemail,5
+447,16735,tafadhali fungua jibu kwa barua pepe,email_sendemail,5
+448,3446,je jumamosi kutanyesha,weather_query,9
+449,15980,tuma jibu kwa juma,email_sendemail,5
+450,12216,kata tiketi ya ndege kwenda,transport_ticket,8
+451,9861,rejelea kucheza nilikowachia audible,play_audiobook,6
+452,16312,tuma barua pepe kwa mutinda kazini,email_sendemail,5
+453,16617,tuma barua pepe kwa juma kuhusu tafrija ya wikendi hii,email_sendemail,5
+454,5768,sauti kubwa sana,audio_volume_down,1
+455,6029,ninapaswa kuvaa koti asubuhi,weather_query,9
+456,17124,fungua barua pepe ya kutuma kwa baba,email_sendemail,5
+457,7765,kuna njia ya kufuta kalenda yangu,calendar_remove,2
+458,9915,niambie jinsi ya kupika nyama,cooking_recipe,3
+459,11591,kupendekeza filamu ya pascal tokodi,recommendation_movies,7
+460,724,toa takwimu za hali ya hewa kwa wiki,weather_query,9
+461,12562,nitafutie tikiti ya gari moshi kwenda garissa mnamo tarehe kumi na nne aprili,transport_ticket,8
+462,9196,tafadhali futa tukio hili la kalenda,calendar_remove,2
+463,7158,tafadhali ondoa maingizo yaliyosahihishwa yote kwenye kalenda,calendar_remove,2
+464,558,nikona kengele yoyote imewekwa ya kesho,alarm_query,0
+465,9910,anza vita na amani ambapo niliishia,play_audiobook,6
+466,8950,tafuta lililo baki na kifute,calendar_remove,2
+467,8009,geuza mpango wangu toa tukio langu lijalo,calendar_remove,2
+468,7146,pata chakula cha jioni na mama kwenye kalenda yangu na uifute,calendar_remove,2
+469,9893,fungua aminata,play_audiobook,6
+470,9685,endelea kusoma,play_audiobook,6
+471,17033,jibu barua ya juma asubuhi,email_sendemail,5
+472,9046,kwa wiki ya ishirini futa matukio yote ya mafunzo,calendar_remove,2
+473,3244,nijulishe hali ya hewa ya leo,weather_query,9
+474,2064,hali ya hewa itakuwa aje wiki hii,weather_query,9
+475,9670,anzisha tena penzi la kifo,play_audiobook,6
+476,15996,tuma barua pepe kwa wafanyakazi kuwa kuna mkutano kesho,email_sendemail,5
+477,10015,kwa sentensi tano wacha nijue utaratibu wa kuandaa keki ya harusi,cooking_recipe,3
+478,3120,ikiwa ni saa kumi na mbili mbele ya saa ya mashariki ya centaur saa ngapi huko kenya sasa,datetime_convert,4
+479,12598,niambie niende wapi kwa nyakati,transport_ticket,8
+480,10109,nahitaji usaidizi kuandaa chapati,cooking_recipe,3
+481,6715,futa tukio la harusi ya richard mwaka ujao,calendar_remove,2
+482,9854,rejea simulizi la nairobi half life,play_audiobook,6
+483,3899,kutanyesha tarehe kumi na tano mwezi wa agosti,weather_query,9
+484,6736,futa matukio yote kwa siku mbili zijazo,calendar_remove,2
+485,8926,futa kila tukio kutoka kwa kalenda yangu yote,calendar_remove,2
+486,1350,hali ya hewa ikoje wiki hii,weather_query,9
+487,10201,ni hatua gani za mlo wa biryani,cooking_recipe,3
+488,5495,nichukue mwavuli leo,weather_query,9
+489,9017,futa kalenda yote,calendar_remove,2
+490,4743,hujambo google niambie nimewekewa kengele gani,alarm_query,0
+491,8180,unaweza futa matukio yote kwa kalenda yangu,calendar_remove,2
+492,7702,safisha ratiba yangu,calendar_remove,2
+493,11791,nini filamu mpya ya sci fi,recommendation_movies,7
+494,740,jinsi mazingira yalivyo na unyevunyevu leo,weather_query,9
+495,12747,tafadhali nikatie tiketi ya gari la moshi,transport_ticket,8
+496,16313,kutuma barua pepe kwa mama yangu,email_sendemail,5
+497,1457,je nairobi kukoje,weather_query,9
+498,16946,jibu barua pepe ambayo nimepokea,email_sendemail,5
+499,347,utabiri wa hali ya hewa ya kesho ni,weather_query,9
+500,9906,cheza kitabu cha kusikiliza hii,play_audiobook,6
+501,9960,ni vipi na chemsha mchele,cooking_recipe,3
+502,8440,futa matukio yote kwenye kalenda yangu,calendar_remove,2
+503,831,hujambo google jamani kuna joto sana nje je halijoto ikoje mchana huu,weather_query,9
+504,10178,jifunze kukaata viazi sawasawa,cooking_recipe,3
+505,1768,badilisha elfu moja na thelathini kutoka g. m. t. pamoja na mia mbili thelathini hadi g. m. t. mia sifuri,datetime_convert,4
+506,9764,cheza amezidi,play_audiobook,6
+507,4485,je hali ya hewa itakuwaje wiki hii,weather_query,9
+508,5787,nje kuna baridi,weather_query,9
+509,7910,ghairi mkutano yangu ya saa mbili asubuhi kesho,calendar_remove,2
+510,2705,punguza sauti,audio_volume_down,1
+511,9950,nitafutie resipe,cooking_recipe,3
+512,4218,je nivae galoshes leo,weather_query,9
+513,12272,hifadhi tiketi la kesho la gari la moshi la treni yoyote la kwenda kisumu,transport_ticket,8
+514,2706,punguza sauti kwa asilimia ishirini,audio_volume_down,1
+515,3857,mvua itanyesha wiki hii,weather_query,9
+516,16928,jibu barua pepe ya hivi punde ya juma kwa kujibu hapana,email_sendemail,5
+517,10191,jinsi ya kupika kuku wa kukaanga,cooking_recipe,3
+518,16599,futa barua pepe hii,email_sendemail,5
+519,3773,unaweza kunipa ripoti ya hali ya hewa,weather_query,9
+520,5924,tafadhali punguza tambo,audio_volume_down,1
+521,4466,nimeweka kengele zozote asubuhi,alarm_query,0
+522,10239,nipatie maelezo jinsi ya kupika kuku,cooking_recipe,3
+523,7149,futa mikutano ya wafanyakazi yote inayojirudia,calendar_remove,2
+524,7115,ondoa malipo ya gari yangu tarehe kumi na tano kwenye kalenda yangu,calendar_remove,2
+525,12390,niletee tiketi ya gari la moshi,transport_ticket,8
+526,7622,ondoa matukio yote kwenye kalenda yangu,calendar_remove,2
+527,5892,hali ya hewa ya kenya ni baridi,weather_query,9
+528,16306,tafadhali itumie familia yangu barua pepe,email_sendemail,5
+529,1080,nipe taarifa ya hali ya hewa kesho,weather_query,9
+530,9913,nahitaji viungo gani vya kupika supu ya nyanya,cooking_recipe,3
+531,358,kengele yangu italia saa ngapi leo,alarm_query,0
+532,8726,toa kila tukio,calendar_remove,2
+533,3374,nikimpigia simu salim huko nairobi saa kumi na mbili jioni saa yake itakuwaje,datetime_convert,4
+534,4215,ninahitaji eneo la wakati kutoka nairobi badala ya eneo la wakati wa kati,datetime_convert,4
+535,12147,olly nahitaji kufika tala ijumaa usiku unaweza kuniwekea tikiti tafadhali,transport_ticket,8
+536,16557,jibu rabeka,email_sendemail,5
+537,15926,tuma barua pepe kwa emma kumwambia kwamba simu yangu imerejea kwenye huduma,email_sendemail,5
+538,9864,endelea kitabu cha utengano,play_audiobook,6
+539,16674,barua pepe anwani ya joejoe barua pepe,email_sendemail,5
+540,11635,filamu itaonyeshwa saa ngapi kesho,recommendation_movies,7
+541,15764,oya tafadhali jibu barua pepe ya mwisho ya juma,email_sendemail,5
+542,3560,tafadhali punguza sauti,audio_volume_down,1
+543,17085,hebu jibu barua pepe hii,email_sendemail,5
+544,5504,niliweka kengele yangu ya nyumba,alarm_query,0
+545,5617,badilisha eneo la saa kutoka eneo la saa za la eneo la pate hadi eneo la saa za eneo la kenya,datetime_convert,4
+546,15855,sambaza barua pepe kwa barua pepe yangu mpya,email_sendemail,5
+547,9770,cheza maumau kizuizini baada ya dakika thelathini,play_audiobook,6
+548,5215,olly nahitaji mafuta ya jua,weather_query,9
+549,16689,jibu barua pepe ya joes,email_sendemail,5
+550,9991,nionyeshe mafunzo ya upishi wa chakula,cooking_recipe,3
+551,12790,weka tikiti ya gari la moshi kwenda nairobi,transport_ticket,8
+552,12574,weka tikiti ya nairobi kwa treni,transport_ticket,8
+553,10111,olly naandaa aje mkate wa nyama,cooking_recipe,3
+554,12138,niagizie tiketi ya gari la moshi,transport_ticket,8
+555,12754,nataka tiketi ya gari la moshi ya bei nafuu kwenda mombasa,transport_ticket,8
+556,203,nionyeshe kengele nilizoweka,alarm_query,0
+557,5124,je ni moto au baridi nje,weather_query,9
+558,11983,olly pendekeza tamthiliya ya kuchekesha ya kimapenzi katika eneo yangu,recommendation_movies,7
+559,9949,je unapika kwa muda gani,cooking_recipe,3
+560,16015,tafadhali anza barua pepe kwa jesse,email_sendemail,5
+561,10115,unaandaa aje barbeque ya kuku,cooking_recipe,3
+562,1203,angalia sasisho la hali ya hewa lagos wiki hii,weather_query,9
+563,9803,anza kitabu cha kusikiliza machachari,play_audiobook,6
+564,5983,naimbie saa ya kengele ambayo umeweka,alarm_query,0
+565,10028,nitafutie mapishi ambayo yanatumia nyama ya ngombe na tangawizi,cooking_recipe,3
+566,9819,nitafutie marejeo ya muuzaji mzuri wa kitabu cha sauti mwezi huu,play_audiobook,6
+567,17114,unaweza jibu barua pepe,email_sendemail,5
+568,9016,futa matukio ya kalenda yote,calendar_remove,2
+569,1841,nibebe mwavuli leo kazini,weather_query,9
+570,9757,ningependa kuendeleza simulizi yangu,play_audiobook,6
+571,8296,futa kalenda ya sasa,calendar_remove,2
+572,777,nijulishe halijoto ya nje ifikapo nyuzi sitini na nane,weather_query,9
+573,10051,nitafutie jinsi ya kupika spaghetti,cooking_recipe,3
+574,5872,kuna uwezekano wa mvua kisumu kumaliza joto,weather_query,9
+575,9100,futa miadi ya daktari wangu ya februari tarehe kumi na mbili,calendar_remove,2
+576,3469,ni saa tatu hapa ni saa ngapi nairobi,datetime_convert,4
+577,16149,jibu mutinda haraka,email_sendemail,5
+578,8105,alexa tafadhali futa miadi zote za leo,calendar_remove,2
+579,16572,barua pepe kwa anwani,email_sendemail,5
+580,10021,nionyeshe viungo ni vipi,cooking_recipe,3
+581,3141,ongea polepole tafadhali,audio_volume_down,1
+582,7363,nenda kwenye kalenda na ufute tukio la tatu la tarehe ishirini na saba machi mwaka wa elfu mbili kumi na saba,calendar_remove,2
+583,10211,resipe ni nini,cooking_recipe,3
+584,8979,ondoa siku ya kuzaliwa ya emma kutoka kwa matukio,calendar_remove,2
+585,6797,futa mkutano wangu unaofuata kwenye kalenda,calendar_remove,2
+586,16012,olly tuma barua pepe kwa juma,email_sendemail,5
+587,5733,je nahitaji mafuta ya kuzuia jua leo,weather_query,9
+588,12573,ninahitaji ku kata tiketi ya gari la moshi kwa tiketi ya kitabu cha nairobi,transport_ticket,8
+589,7290,futa miadi yangu yote ya leo,calendar_remove,2
+590,2294,je fahirisi ya uv itakua juu ya nane leo,weather_query,9
+591,4469,nitahitaji koti leo,weather_query,9
+592,792,majira ya joto yanaendelea,weather_query,9
+593,16059,kujibu mutinda na basi yeye kujua kwamba nitakuwa huru kesho,email_sendemail,5
+594,1284,badili wakati huu kuwa saa wastani ya india,datetime_convert,4
+595,9702,nataka kusikia kitabu cha ken walibora,play_audiobook,6
+596,1250,kuna uwezekano wowote wa mvua wiki hii,weather_query,9
+597,16234,nahitaji ujibu barua pepe ya maria kwa kusema tutachelewa,email_sendemail,5
+598,3962,fungua programu ya hali ya hewa,weather_query,9
+599,16640,tuma barua pepe kwa yusufu na mwambie afanye haraka,email_sendemail,5
+600,9981,nipikie pasta yenye jibini na asali ndani yake,cooking_recipe,3
+601,11793,nahitaji van damee nzuri mawazo yoyote,recommendation_movies,7
+602,15962,vuta mtazamo nahitaji kutuma barua pepe,email_sendemail,5
+603,10042,ni wapi naweza pata jinsi ya kupika vibanzi vya kukaanga,cooking_recipe,3
+604,5166,kutanyesha baadaye huko manila,weather_query,9
+605,10014,nataka kujua utaratibi wa kupika chapati katika sentensi tano,cooking_recipe,3
+606,7641,nipe hali ya hewa kwa siku tano zilizopita,weather_query,9
+607,2248,je hali ya hewa ya jumatano imebadilika hata kidogo,weather_query,9
+608,7987,ondoa tukio hili kwenye kalenda yangu,calendar_remove,2
+609,3928,ni utabiri gani wa sasa wa maine,weather_query,9
+610,16871,tuma barua pepe kwa juma,email_sendemail,5
+611,13425,nivae sweta,weather_query,9
+612,12915,ninahitaji kukata tikiti ya treni kwenda nairobi,transport_ticket,8
+613,5665,je ninahitaji kubeba miwani ya jua nje,weather_query,9
+614,16830,tumia sandy barua pepe ya udhibitisho,email_sendemail,5
+615,16257,mtumie mke wangu barua pepe kuhusu hali ya anga ya wiki inayofuata,email_sendemail,5
+616,10204,eleza jinsi ya kutengeneza nyama ya kuku,cooking_recipe,3
+617,16484,angalia barua pepe yangu mpya ya barua pepe,email_sendemail,5
+618,5351,siku ikoje nje,weather_query,9
+619,9997,mtu ana uharibifu gani katika cream kufanya siagi,cooking_recipe,3
+620,7954,tafadhali unaweza kupuuza sherehe ambayo nitaenda wikendi hii kwenye kalenda yangu,calendar_remove,2
+621,6092,kutakuwa na mawingu nairobi wikendi,weather_query,9
+622,2857,hali ya hewa itakuwa aje leo,weather_query,9
+623,16500,tafadhali nitumie barua kwa mume wangu nitachelewa usiku wa leo,email_sendemail,5
+624,5463,nivae slivu fupi,weather_query,9
+625,9686,endelea vita vya pili vya dunia,play_audiobook,6
+626,10142,tafuta vipimo joto vifaavyo kukaranga bata mzinga mzima,cooking_recipe,3
+627,12498,nikatie tiketi ya gari la moshi kwenda nairobi kesho,transport_ticket,8
+628,14649,jinsi ya kupika,cooking_recipe,3
+629,16569,ningependa kutuma barua pepe kwa barua pepe ya mpokezi mpya,email_sendemail,5
+630,2135,kengele ijayo ni ya lini,alarm_query,0
+631,12271,unaweza kuniandalia tiketi ya gari la moshi hadi nairobi kesho katika gari la moshi yoyote,transport_ticket,8
+632,9880,kitabu tafadhali,play_audiobook,6
+633,12333,agiza tiketi ya gari la moshi inayotoka nairobi kwenda mombasa wakati wa kesho kama inapatikana,transport_ticket,8
+634,12749,tafadhali unaweza kuninunulia tiketi ya treni,transport_ticket,8
+635,15848,mtumie mama yangu barua pepe,email_sendemail,5
+636,7764,unaweza tafadhali kufuta kalenda yangu ya matukio yote,calendar_remove,2
+637,9128,ondoa tukio lifwatalo kwenye kalenda,calendar_remove,2
+638,690,kuna sauti ya juu mno punguza sauti,audio_volume_down,1
+639,7079,tafadhali ondoa vitu vyote kwenye kalenda yangu,calendar_remove,2
+640,3585,hali ya hewa iko aje london,weather_query,9
+641,4602,hali ya joto itakuwa gani siku ya leo,weather_query,9
+642,10011,chagua aina ya chakula kama ni kifungua kinywa ama chakula cha mchana ama chakula cha jioni,cooking_recipe,3
+643,1131,niambie kiwango cha unyevunyevu pande ya chini ya jiji leo,weather_query,9
+644,3548,ni lini theluji itakua,weather_query,9
+645,9985,tunaweza kutengeneza nyama na kuku,cooking_recipe,3
+646,6138,je ninahitaji kuvaa buti,weather_query,9
+647,12589,unaweza kuniwekea tiketi ya gari la moshi kwenda nairobi,transport_ticket,8
+648,10074,ni vipi unapika yai kiurahisi,cooking_recipe,3
+649,10207,tafadhali eleza resipe ya kupika mchele,cooking_recipe,3
+650,16571,tuma barua pepe kwa dada yangu,email_sendemail,5
+651,604,hali ya hewa itakuwaje wiki moja kutoka sasa,weather_query,9
+652,8556,futa chakula cha mchana cha kazi hii ijumaa,calendar_remove,2
+653,8371,hujambo olly tarehe ishirini futa kalenda yangu,calendar_remove,2
+654,11931,unaweza pendekeza sarakasi nzuri yangu kutizama,recommendation_movies,7
+655,17129,fungua barua pepe ya mtu mpya tafadhali,email_sendemail,5
+656,16715,tafadhali nitumie barua pepe kwa juma inayosema niko mapumziko,email_sendemail,5
+657,2826,nimeweka kengele ngapi,alarm_query,0
+658,9741,endelea uchezaji wa kitabu cha sauti,play_audiobook,6
+659,12563,nunua tiketi la gari la moshi la kutoka mombasa aprili kumi na nne,transport_ticket,8
+660,3303,hali ya hewa iko aje wiki hii,weather_query,9
+661,7307,futa matukio yote ya mwezi huu,calendar_remove,2
+662,8942,futa kila kitu kwa mwezi huu,calendar_remove,2
+663,16259,andika barua pepe kuhusu hali ya hewa ya wiki ijayo kwa mke wangu,email_sendemail,5
+664,17130,tuma barua pepe kwa mama kuanzia na mapumziko,email_sendemail,5
+665,17014,jibu barua pepe,email_sendemail,5
+666,12890,nunua tiketi ya gari la moshi ya nairobi siku ya alhamisi,transport_ticket,8
+667,15830,tuma hiyo,email_sendemail,5
+668,4563,unaweza badilisha eneo yangu la saa kuwa kati,datetime_convert,4
+669,17165,mtumie barua juma,email_sendemail,5
+670,5467,kuna haja ya miwani ya jua,weather_query,9
+671,16195,tuma barua pepe kwa asha,email_sendemail,5
+672,8844,futa maelezo yote kwa kalenda yangu,calendar_remove,2
+673,5618,hebu nionee mimi kengele amazo umeniwekea leo asubuhi,alarm_query,0
+674,10128,nataka resipe ya pilau,cooking_recipe,3
+675,3310,hali ya hewa austin iko aje,weather_query,9
+676,12847,unaweza kunihifadhia tiketi ya gari la moshi kutoka nairobi hadi nakuru ya kesho asubuhi,transport_ticket,8
+677,9988,kuyeyuka,cooking_recipe,3
+678,5720,nionyeshe hali ya hewa ya kesho katika eneo hili,weather_query,9
+679,16887,jibu barua hii,email_sendemail,5
+680,3294,ni tofauti gani ya wakati kati ya kati na mashariki,datetime_convert,4
+681,3736,tafadhali punguza sauti ya kipaza sauti,audio_volume_down,1
+682,15887,tafadhali unaweza kutuma barua pepe kwa mume wangu,email_sendemail,5
+683,8232,sifanyi hii wiki,calendar_remove,2
+684,240,je itanyesha leo,weather_query,9
+685,8733,tafadhali hamisha tarehe zote kwenye tupio,calendar_remove,2
+686,8743,futa tukio lifuatalo kwa kalenda yangu ili nisiione tena,calendar_remove,2
+687,10052,nitafutie resipe ya supu ya karoti,cooking_recipe,3
+688,15860,mtumie mama barua pepe ukimwuliza kuhusu hali ya anga,email_sendemail,5
+689,4760,kuna theluji katika utabiri wa hali ya hewa,weather_query,9
+690,5337,alexa nipe nyakati za kengele zenye umeweka,alarm_query,0
+691,12628,nitahitaji kufikia gari la moshi lijalo ambalo litatoka nairobi kuelekea mombasa,transport_ticket,8
+692,16509,jibu barua pepe,email_sendemail,5
+693,7837,futa zote,calendar_remove,2
+694,1018,hali ya hewa itakuwaje leo,weather_query,9
+695,8871,ondoa mkutano wa machi tarehe ishirini na nne kutoka kwa ratiba,calendar_remove,2
+696,15908,tuma barua pepe ya jibu asante sana kwa john kwa gmail dot com,email_sendemail,5
+697,9791,cheza suzanna kutoka kitabu ya kusikiliza,play_audiobook,6
+698,9984,nipatie resipe ya nyama,cooking_recipe,3
+699,1968,nje kunanyesha,weather_query,9
+700,9105,tafadhali futa kalenda yangu ya matukio yote,calendar_remove,2
+701,8814,enda kwa siku ya tukio na ufute,calendar_remove,2
+702,559,hali ya kengele ya kesho ikoje,alarm_query,0
+703,9740,endelea kucheza kitabu cha sauti,play_audiobook,6
+704,7076,futa tukio yangu inayofuata kwenye kalenda,calendar_remove,2
+705,6315,olly hali ya hewa iko aje,weather_query,9
+706,10202,nionyeshe jinsi ya kuunda pizza,cooking_recipe,3
+707,9866,cheza programu kutoka mahali niliachia jana,play_audiobook,6
+708,15835,tafadhali jibu barua pepe yangu ya hivi karibuni,email_sendemail,5
+709,8659,tafadhali futa kalenda yangu kabisa,calendar_remove,2
+710,2956,kengele zangu ni za saa ngapi,alarm_query,0
+711,5844,je nijipake mafuta ya kukinga jua leo,weather_query,9
+712,1863,mimi nimeweka kengele yoyote,alarm_query,0
+713,6038,je itanyesha mchana,weather_query,9
+714,11738,onyesha saa,recommendation_movies,7
+715,12357,unaweza kunitengenezea tiketi ya treni,transport_ticket,8
+716,5944,mwambie mama nitachelewa jioni hii,weather_query,9
+717,7058,futa tukio novemba,calendar_remove,2
+718,8835,futa kila kitu kwenye kalenda yangu kwa wiki mbili zijazo,calendar_remove,2
+719,6088,kutakuwa na jua jumanne wiki ijayo,weather_query,9
+720,6459,hali ya hewa nje ni ya mawingu,weather_query,9
+721,8000,tafadhali futa impangilio yangu ya chakula cha mchana kutoka kwa ratiba ya machi ishirini na tatu,calendar_remove,2
+722,9713,cheza simulizi ya kitabu cha kiswahili mufti,play_audiobook,6
+723,16240,tuma barua pepe kwa mume kuuliza mawazo ya mgahawa,email_sendemail,5
+724,5610,niambie kengele zijazo ni za lini,alarm_query,0
+725,11727,onyesha masaa ya ukumbi wa uigizaji ulioko karibu sana,recommendation_movies,7
+726,16743,tuma barua pepe ifuatayo kwa dada yangu,email_sendemail,5
+727,3979,je kuna joto nje sasa hivi hawaii,weather_query,9
+728,8889,futa hiyo,calendar_remove,2
+729,9690,anza kucheza tena,play_audiobook,6
+730,6753,tafadhali ondoa matukio yangu yote ya leo,calendar_remove,2
+731,3355,je kutakuwa na ukungu asubuhi,weather_query,9
+732,16792,mtumie mke wangu ujumbe wa ninakupenda,email_sendemail,5
+733,4531,siku ya joto ijayo ni lini,weather_query,9
+734,8334,futa kalenda yangu,calendar_remove,2
+735,7700,safisha kalenda yangu yote,calendar_remove,2
+736,1975,nimeweka kengele yoyote ya leo,alarm_query,0
+737,6128,je nilete viatu vya theluji,weather_query,9
+738,16128,tuma barua pepe kwa mutinda,email_sendemail,5
+739,12324,saa na tarehe,transport_ticket,8
+740,8285,ondoa sherehe ya siku ya kuzaliwa kwenye kalenda ya mei,calendar_remove,2
+741,10231,ni mifano gani wa vyakula venye viungo,cooking_recipe,3
+742,2872,nikona kengele imewekwa,alarm_query,0
+743,9919,resipe ya supu ya pasta ni gani,cooking_recipe,3
+744,7019,futa tukio la siku ya wapendanao kutoka kwa kalenda,calendar_remove,2
+745,17029,olly tuma juma na utme barua pepe,email_sendemail,5
+746,16904,nataka kujibu barua pepe yangu ya mwisho,email_sendemail,5
+747,12832,niwekee nafasi ya tiketi ya treni ya leo mchana kwenda nairobi,transport_ticket,8
+748,4052,je ni joto nje,weather_query,9
+749,8833,safisha kalenda yangu siku iliyobaki,calendar_remove,2
+750,1947,punguza sauti,audio_volume_down,1
+751,8577,ondoa kila kila kitu kwenye kalenda,calendar_remove,2
+752,9031,ondoa tukio la mkutano wa ofisi yangu kwa wiki ijayo,calendar_remove,2
+753,4627,je kutakuwa na mvua kesho,weather_query,9
+754,1514,je mvua inatakiwa kunyesha usiku wa leo,weather_query,9
+755,9073,ondoa tukio ile kwenye kalenda,calendar_remove,2
+756,1603,angalia kama nimeweka kengele yoyote ya kesho asubuhi,alarm_query,0
+757,3806,hali ya hewa ya kesho,weather_query,9
+758,4265,utabiri wa hali ya hewa leo ni nini,weather_query,9
+759,4759,je kutakua na theluji usiku wa leo,weather_query,9
+760,16143,tengeneza barua pepe kwa juma,email_sendemail,5
+761,16397,utatumia juma barua pepe,email_sendemail,5
+762,1437,niruhusu nione kengele zangu,alarm_query,0
+763,2293,kuna uwezekano kwamba kutakuwa na mvua katika utabiri leo,weather_query,9
+764,9983,olly naanzaje kuandaa pilau,cooking_recipe,3
+765,9790,anza kucheza kitabu cha sauti cha beauty and the beast,play_audiobook,6
+766,9870,cheza kifo kisimani ya kithaka wa mberia,play_audiobook,6
+767,7696,ondoa mkutano ulioratibiwa wa tarehe nne oktoba saa sita mchana,calendar_remove,2
+768,17163,tuma barua ya tahadhari kwa mutinda,email_sendemail,5
+769,8831,futa data yote kutoka kwa kalenda,calendar_remove,2
+770,4167,punguza sauti hadi nusu,audio_volume_down,1
+771,17022,alexa mtumie mama yangu barua pepe na umuulize hali ya anga huko,email_sendemail,5
+772,16058,kumjibu juma akisema kuwa nitahudhuria sherehe,email_sendemail,5
+773,6139,nahitaja kuvaa buti,weather_query,9
+774,2680,kutakua na joto hivi karibuni,weather_query,9
+775,16080,mtumie barua pepe mama yangu,email_sendemail,5
+776,8845,fanya kalenda yangu tupu,calendar_remove,2
+777,5012,kuna dhoruba hivi sasa,weather_query,9
+778,5230,nivae kofia leo,weather_query,9
+779,438,mvua itanyesha leo,weather_query,9
+780,12332,niweke tiketi ya gari la moshi kwenda mji mombasa tarehe tatu sijali ni wakati gani,transport_ticket,8
+781,16902,jibu barua pepe yangu ya mwisho,email_sendemail,5
+782,9751,kutumia mipangilio ya saa,play_audiobook,6
+783,1455,hali ya hewa,weather_query,9
+784,9675,je unaweza cheza simulizi ya kitabu changu ninachopenda sana cha mtu ni utu,play_audiobook,6
+785,17122,naomba uanzishe barua pepe kwa dada yangu,email_sendemail,5
+786,11736,ninja ni filamu nzuri,recommendation_movies,7
+787,3964,ni kengele ngapi zimewekwa,alarm_query,0
+788,9777,endelea utengano,play_audiobook,6
+789,6453,ndege za bei rahisi hadi jiji la nairobi kutoka mombasa,transport_ticket,8
+790,16233,mtumie baba barua pepe ya kumuonya kuhusu shakwe pwani,email_sendemail,5
+791,1405,kuna joto la kiasi gani mombasa,weather_query,9
+792,9696,endelea uchezaji wa hadithi za jangwani,play_audiobook,6
+793,10113,vipi jinsi ya kupika burger nzuri olly,cooking_recipe,3
+794,5789,kuna jua leo,weather_query,9
+795,9742,kitabu cha sauti,play_audiobook,6
+796,9900,chukulia tulipoacha aminata,play_audiobook,6
+797,10032,jinsi ya kupika chapati,cooking_recipe,3
+798,5430,kutakuwa na baridi ya kutosha ili kuvaa mittens baadaye usiku wa leo,weather_query,9
+799,12871,niwekee nafasi ya tikiti ya gari la moshi kwenda nairobi,transport_ticket,8
+800,10066,niambie resipe ya viazi zilizosokotwa,cooking_recipe,3
+801,8529,nipe hali ya hewa ya merced saa tisa mchana,weather_query,9
+802,2888,niambie hali ya hewa ya sasa ya danville il,weather_query,9
+803,3703,ni kengele gani zimewekwa za hii wiki,alarm_query,0
+804,10036,jinsi ya kupika mchele wa manjano,cooking_recipe,3
+805,4473,je nitahitaji kujipaka mafuta ya kukinga jua leo,weather_query,9
+806,5177,je mimi ninahitaji mwavuli hivi sasa,weather_query,9
+807,8927,ondoa matukio yote kwenye kalenda yangu yote,calendar_remove,2
+808,15766,unaweza kumtumia juma jibu hili,email_sendemail,5
+809,15883,nataka kumjibu juma,email_sendemail,5
+810,6882,futa mkutano wa alhamisi wiki ijayo saa nane mchana,calendar_remove,2
+811,2091,kutakuwa na mvua yoyote kesho asubuhi,weather_query,9
+812,11702,nionyeshe ukumbi wa michezo wa karibu sana,recommendation_movies,7
+813,12309,nadai kukata tiketi ya gari la moshi,transport_ticket,8
+814,9763,cheza kitumbua kimeingia mchanga,play_audiobook,6
+815,5429,je nitahitaji kuvaa koti leo mchana,weather_query,9
+816,10116,olly ni jinsi gani unatangeza kuku ya kukaanga,cooking_recipe,3
+817,11672,usiku wa leo ni wakati wa sinema,recommendation_movies,7
+818,1367,punguza sauti,audio_volume_down,1
+819,8658,ninahitaji kufutwa kila kitu kutoka kwa kalenda tafadhali,calendar_remove,2
+820,12155,nihifadhie tiketi ya gari la moshi ya kuenda mahali hapo,transport_ticket,8
+821,15896,kiungo john katika gmail dot com kwa john katika mawasiliano,email_sendemail,5
+822,3483,hali ya hewa nairobi leo iko aje,weather_query,9
+823,5302,sawa google ni nini hali ya hewa itakuwa machi ishirini elfu mbili na kumi na saba,weather_query,9
+824,3505,je hali ya hewa itakuwaje nairobi wiki ijayo,weather_query,9
+825,12894,nisaidie kuagiza tiketi ya gari la moshi,transport_ticket,8
+826,6702,hali ya hewa leo,weather_query,9
+827,4561,unaweza kubadilisha eneo langu la wakati kutoka wakati wa kati hadi pasifiki,datetime_convert,4
+828,12290,kusajili tukio au tiketi,transport_ticket,8
+829,14299,soma tiketi ya toyota,transport_ticket,8
+830,16716,barua pepe john kusema nipo mapumzikoni,email_sendemail,5
+831,12157,nipatie tiketi ya gari la moshi ya kwenda,transport_ticket,8
+832,3927,ni theluji kiasi gani imeanguka huko maine tangu jana,weather_query,9
+833,7961,futa mikutano yangu yote,calendar_remove,2
+834,4105,je mvua itanyesha siku chache zijazo jijini nairobi,weather_query,9
+835,9094,futa mkutano uliopangwa na john tarehe ishirini na moja machi,calendar_remove,2
+836,16590,google ninahitaji kujibu barua pepe hiyo ya mwisho,email_sendemail,5
+837,2139,hali ya hewa iko aje nje,weather_query,9
+838,7036,kalenda tupu kwa wiki hii,calendar_remove,2
+839,1656,nionyeshe kengele zote zilizopangwa,alarm_query,0
+840,12058,kuna filamu zozote nzuri zinazoendelea kwenye kumbi za maonyesho karibu,recommendation_movies,7
+841,4146,nifahamishe kuhusu kengele yoyote iliyowekwa ya leo,alarm_query,0
+842,2051,niambie ripoti ya hali ya hewa ya leo ya jiji la mombasa,weather_query,9
+843,5077,inaonekana baridi,weather_query,9
+844,395,ni tofauti gani kati ya wakati wa mashariki na wakati wa pasifiki,datetime_convert,4
+845,4214,badilisha saa yangu kuwa ya eneo la east african kutoka eneolangu kwa sasa,datetime_convert,4
+846,5995,je ninahitaji kuvaa slicker yangu leo,weather_query,9
+847,16220,jibu barua pepe ya juma kwamba nitarudi kwake,email_sendemail,5
+848,16425,unda ujumbe mpya kwa juma kazini kumuuliza wakati atakaokuwa mapumzikoni,email_sendemail,5
+849,12752,tafadhali nunua tikiti ya kutoka syokimau nairobi hadi mikindani mombasa kuondoka aprili tarehe moja,transport_ticket,8
+850,10165,nafaa kuchemasha yai kwa mda gani,cooking_recipe,3
+851,6006,nitahitaji glavu jumanne,weather_query,9
+852,7642,nionyeshe utabiri wa hali ya hewa kwa siku tatu tatu zijazo,weather_query,9
+853,17012,nahitaji barua pepe kutumwa kwa sdfa kwa hotmail dot com,email_sendemail,5
+854,10098,unaweza andaa mahamri,cooking_recipe,3
+855,3650,nionyeshe hali ya hewa ya dallas,weather_query,9
+856,11955,filamu gani zinacheza karibu nami,recommendation_movies,7
+857,6899,ondoa matukio yote kwenye kalenda yangu,calendar_remove,2
+858,10035,niambie resipe ya mchele wa manjano,cooking_recipe,3
+859,5466,je ninahitaji kutumia mafuta ya kuzuia jua kabla ya kwenda kukutana na rafiki yangu kwa chakula cha mchana,weather_query,9
+860,10134,tafuta resipe ya wali wa kikenya,cooking_recipe,3
+861,4435,siku gani kutakuwa na jua,weather_query,9
+862,845,kengele gani zimewekwa kwa sasa hivi,alarm_query,0
+863,10083,tafuta resipe ya keki ya siku ya kuzaliwa,cooking_recipe,3
+864,4751,kutakuwa na mawingu,weather_query,9
+865,5935,nimeondoka leo mwavuli,weather_query,9
+866,8739,futa matukio,calendar_remove,2
+867,12057,ukumbi wa uigizaji wa mtaa unaonyesha filamu ipi,recommendation_movies,7
+868,4106,je kutakuwa na dalili gani kesho kisumu,weather_query,9
+869,10006,jinsi ya kupika wali,cooking_recipe,3
+870,2124,niambie hali ya hewa ya new brighton pa,weather_query,9
+871,7913,ondoa tukio kutoka siku ya jumatatu,calendar_remove,2
+872,4539,sikutaka utume maandishi hayo bado subiri hadi niseme tuma,email_sendemail,5
+873,9814,fungua vitabu na cheza kitabu cha wabongo kuanzia sura ya tisa,play_audiobook,6
+874,16119,tuma kwa asha tu msaada,email_sendemail,5
+875,12156,nunua tiketi la gari la moshi kwenda,transport_ticket,8
+876,9089,futa ratiba yangu ya mwezi,calendar_remove,2
+877,15902,tafadhali jibu barua pepe ya mwenzangu kuhusu swali lake,email_sendemail,5
+878,10057,je nahitaji nini kupika mukimo,cooking_recipe,3
+879,12126,oya nataka kupata gari la moshi la kwenda nairobi jumatatu,transport_ticket,8
+880,8813,tafadhali safisha kalenda yangu,calendar_remove,2
+881,8665,futa kila kitu kutoka kwa kalenda yangu,calendar_remove,2
+882,16849,tuma barua pepe kwa susan na uandike hivyo,email_sendemail,5
+883,15949,jibu barua pepe kutoka kwa asha,email_sendemail,5
+884,5007,kengele zangu zimewekwa za siku gani,alarm_query,0
+885,16598,jibu ndiyo kwa hili,email_sendemail,5
+886,3615,kesho ni siku ya jua kweli,weather_query,9
+887,8335,sitaki matukio yoyote yaorodheshwe kwa kalenda yangu,calendar_remove,2
+888,16278,tuma barua pepe ifuatayo kwa kaka vipi njoo kwa chajio usiku,email_sendemail,5
+889,2331,hali ya hewa iko aje sasa hivi,weather_query,9
+890,8728,ondoa matukio yote,calendar_remove,2
+891,16568,tafadhali tuma barua pepe kwa mwanafunzi mpya,email_sendemail,5
+892,9041,futa sherehe ya siku ya kuzaliwa,calendar_remove,2
+893,980,hiyo sauti ni ya juu sana tafadhali punguza sauti ya muziki,audio_volume_down,1
+894,7296,ondoa matukio yangu ya kalenda yaliyoratibiwa ikiwa unaweza,calendar_remove,2
+895,6153,niambie kuhusu hali ya hewa ya sasa,weather_query,9
+896,9705,anza kutoka wakati wa mwisho kwenye kitabu cha kusikiliza changu,play_audiobook,6
+897,6474,hali ya hewa iko vipi,weather_query,9
+898,3027,mkusanyiko wa utabiri wa theluji buffalo,weather_query,9
+899,8275,tafadhali futa sikukuu ya kuzaliwa ya jeff's kutoka kwenye kalenda,calendar_remove,2
+900,16086,tuma barua pepe kwa asha,email_sendemail,5
+901,5737,nipe nyakati za kengele za siku mbili zijazo,alarm_query,0
+902,5335,kuna kengele zozote zimewekwa,alarm_query,0
+903,6086,hali ya hewa ni gani katika nambari ya posta elfu thelathini na mbili mia mbili thelathini na nne,weather_query,9
+904,2873,nikona kengele imewekwa ya leo,alarm_query,0
+905,62,tafadhali orodhesha kengele zinazotumika,alarm_query,0
+906,4530,kengele ya saa tano asubuhi ina maelezo gani,alarm_query,0
+907,7018,futa mkesha wa mwaka mpya kutoka kwa kalenda,calendar_remove,2
+908,16126,tuma asante sana mama kwa mama,email_sendemail,5
+909,10136,nionyeshe tovuti za kupika,cooking_recipe,3
+910,2240,utabiri wa hali ya hewa ya wiki hii,weather_query,9
+911,7740,ondoa sherehe ya kuzaliwa ya musa kwenye kalenda yangu,calendar_remove,2
+912,12750,nunua tiketi ya garimoshi kutoka westlands nairobi kwenda nakuru,transport_ticket,8
+913,5668,halafu bonyeza sawa,alarm_query,0
+914,3802,nionyeshe kesho hali ya hewa ya mumbai,weather_query,9
+915,9177,ondoa tukio la safari,calendar_remove,2
+916,4595,kutakuwa na siku za digrii sabini wiki ijayo,weather_query,9
+917,754,badilisha ukanda huu wa saa kuwa washington,datetime_convert,4
+918,6799,ondoa mkutano unaofuata leo kwenye kalenda yangu,calendar_remove,2
+919,12594,google unaweza kuniwekea tiketi kwenye garimoshi ya kesho,transport_ticket,8
+920,16498,tuma barua pepe ya ukumbusho,email_sendemail,5
+921,5978,badilisha wakati wa mashariki hadi wakati wa magharibi,datetime_convert,4
+922,3584,ni kengele gani tatu zijazo zilizowekwa ili kulia,alarm_query,0
+923,4342,punguza sauti ya vipaza sauti,audio_volume_down,1
+924,5663,je ninahitaji koti jioni,weather_query,9
+925,3035,olly hali ya hewa ya siku inayofuata,weather_query,9
+926,655,hali ya hewa sasa nairobi iko aje,weather_query,9
+927,4450,kengele yangu itaniamsha saa ngapi,alarm_query,0
+928,7091,toa tukio kwa kalenda,calendar_remove,2
+929,3663,kutakuwa na joto siku ya ijumaa usiku,weather_query,9
+930,16265,tuma barua pepe kwa familia ukisema nawapenda nyote,email_sendemail,5
+931,11811,ni nini kinacheza imax,recommendation_movies,7
+932,17126,jibu barua pepe ya asha,email_sendemail,5
+933,9080,futa mkutano wote leo,calendar_remove,2
+934,6606,filamu kumi bora,recommendation_movies,7
+935,12100,ni nini inacheza i. max.,recommendation_movies,7
+936,3044,kengele imewekwa saa ngapi,alarm_query,0
+937,9944,nini resipe ya pizza,cooking_recipe,3
+938,7391,sitaungana na mama kwa chakula cha mchana kesho,calendar_remove,2
+939,3531,tafadhali badilisha eneo la wakati kwetu,datetime_convert,4
+940,343,hali ya hewa itakuwa aje kesho,weather_query,9
+941,9782,icheze baada ya dakika tano,play_audiobook,6
+942,16686,tuma barua pepe kwa anwani mpya,email_sendemail,5
+943,7995,futa matukio ya sasa yangu kwenye kalenda,calendar_remove,2
+944,2998,hali ya hewa dandora nairobi,weather_query,9
+945,1433,tafadhali kataa kiasi,audio_volume_down,1
+946,16205,andika ujumbe huu kwa kikundi cha mfanyikazi mwenza,email_sendemail,5
+947,3286,kuna uwezekano gani wa mvua za radi leo nairobi,weather_query,9
+948,1767,badilisha elfu mbili mia tatu na thelathini kutoka g. m. t. pamoja na mia nne thelathini hadi g. m. t. mia mbili,datetime_convert,4
+949,8179,unaweza futa miadi yangu yote kwa kalenda,calendar_remove,2
+950,1320,olly hali ya hewa leo iko aje,weather_query,9
+951,644,nini kitakuwa joto la juu zaidi wiki hii,weather_query,9
+952,9868,cheza kitabu cha aminata,play_audiobook,6
+953,1541,sitaki kubeba mwavuli tutapata mvua leo,weather_query,9
+954,9873,nisomee deadly death killers zingine,play_audiobook,6
+955,13489,pendekeza filamu na nyimbo ambazo naweza kuzipenda lakini haziko lazima kama zile nishasema nazipenda,recommendation_movies,7
+956,9753,olly unaeza cheza guchi,play_audiobook,6
+957,8257,ondoa matukio yote yanayokuja tafadhali,calendar_remove,2
+958,10193,jinsi ya kupika nyama ya pweza,cooking_recipe,3
+959,7024,futa matukio zote kutoka kwa kalenda,calendar_remove,2
+960,5252,je naweza kwenda nje bila mwavuli wowote,weather_query,9
+961,1685,kesho kutakwa na joto ukweli ama uwongo,weather_query,9
+962,12595,nahitaji unihifadhie tiketi la gari la moshi itokayo saa nane mchana,transport_ticket,8
+963,11810,ni filamu gani zinaonyeshwa karibu,recommendation_movies,7
+964,9846,endelea kutoka hatua ya mwisho iliyositishwa kitabu cha kusikiliza changu,play_audiobook,6
+965,11856,tafadhali pendekeza filamu olly,recommendation_movies,7
+966,8855,tafadhali futa matukio yote ya kalenda,calendar_remove,2
+967,7501,tukio linalofuata limeghairiwa,calendar_remove,2
+968,10234,sanya viungo vyote vinavyohitajika kupika na vipimo halisi na vifaa vinavyohitajika,cooking_recipe,3
+969,16111,kati ya saa nne usiku na saa moja asubuhi kila siku barua pepe zote zinazopokelewa lazima zijibiwe,email_sendemail,5
+970,9776,anza kitabu cha kusikiliza changu ambapo niliachia,play_audiobook,6
+971,8872,ondoa tukio la chakula cha mchana na michael,calendar_remove,2
+972,16680,unda barua pepe kwa kaka yangu ya kumuuliza wakati atakuja chajio,email_sendemail,5
+973,16269,tuma jibu kwa juma kwa ile barua pepe nilioipata leo asubuhi,email_sendemail,5
+974,1307,hali ya hewa ya leo ikoje hapa,weather_query,9
+975,1456,je nje kukoje,weather_query,9
+976,10130,ni kwa joto gani ninahitaji kuoka vibanzi,cooking_recipe,3
+977,9877,ningependa kusikiliza kitabu cha kusikiliza changu,play_audiobook,6
+978,12648,tathmini ya vitendo ya kuendesha gari,transport_ticket,8
+979,15898,mwandikie asha barua pepe ya heri ya mwaka mpya,email_sendemail,5
+980,12099,olly ni nini inacheza katika sinema ya nairobi,recommendation_movies,7
+981,9932,olly nini viungo zinahitajika kwa ajili ya pilau,cooking_recipe,3
+982,1864,kengele gani zimewashwa sasa hivi,alarm_query,0
+983,10227,niambie njia ya kuandaa nyama ya kuku,cooking_recipe,3
+984,5932,badilisha hadi wakati wa mombasa,datetime_convert,4
+985,10054,ni nini resipe bora ya kupikia pasta,cooking_recipe,3
+986,1728,tafadhali thibitisha hali ya hewa ya tarehe kumi na tatu mwezi huu,weather_query,9
+987,11772,filamu gani zinacheza hivi sasa,recommendation_movies,7
+988,1779,kuna baridi huko,weather_query,9
+989,12590,waweza niangalilia ratiba ya gari la moshi la kwenda nakuru,transport_ticket,8
+990,1322,pata ripoti ya hali ya hewa leo,weather_query,9
+991,825,tafadhali nionyeshe utabiri wa hali ya hewa wa siku saba zijazo wa nyumbani,weather_query,9
+992,788,hali ya joto ni nini hivi sasa,weather_query,9
+993,8981,ghairi sherehe yangu ya siku ya kuzaliwa,calendar_remove,2
+994,9860,tafadhali fungua programu ya audible na endelea kucheza,play_audiobook,6
+995,10160,nini huliwa na pilau,cooking_recipe,3
+996,787,hali ya hewa iko aje leo,weather_query,9
+997,9975,olly gani mbadala wa yai iliyokaangwa kwa wanamboga,cooking_recipe,3
+998,16475,tuma hiyo barua pepe kwa juma tafadhali,email_sendemail,5
+999,5008,je ninahitaji koti mchana huu,weather_query,9
+1000,509,ni kengele gani nikonazo,alarm_query,0
+1001,2422,hali ya hewa iko aje huko brooklyn kwa sasa,weather_query,9
+1002,241,nini kinaendelea nje,weather_query,9
+1003,3122,je nivae nini kuna baridi nje,weather_query,9
+1004,10144,kwa muda gani nitangijea pai ya icebo,cooking_recipe,3
+1005,1937,nipe hali ya hewa ya manhattan,weather_query,9
+1006,17021,jibu barua pepe niliyoipokea mwisho,email_sendemail,5
+1007,9852,anza kutoka kipindi yangu ya mwisho ya rosa mistika,play_audiobook,6
+1008,4093,je jana kulikuwa na upepo,weather_query,9
+1009,8638,sihitaji kumwona daktari tena waweza ondoa hilo tukio,calendar_remove,2
+1010,15833,nenda kwa barua pepe na utume ujumbe kwa,email_sendemail,5
+1011,16547,ningependa kutuma barua pepe kwa maria na kumuuliza kama angetaka kukutana baada ya kazi katika tgi friday's,email_sendemail,5
+1012,10219,ninahitaji nini kutengeneza boflo,cooking_recipe,3
+1013,4120,ulikua umeweka kengele ya wakati gani,alarm_query,0
+1014,4916,utabiri wa siku kumi wa baltimore,weather_query,9
+1015,16936,jibu la barua pepe linapaswa kusema,email_sendemail,5
+1016,16736,ningependa kutuma jibu,email_sendemail,5
+1017,489,joto nje ni nini,weather_query,9
+1018,3738,tafadhali rekebisha vipaza sauti kwa kiwango ya chini kidogo yenye starehe,audio_volume_down,1
+1019,12616,ninataka kukata tikiti ya treni ya rajdhani kutoka nairobi kwenda mombasa,transport_ticket,8
+1020,16133,tuma barua pepe kwa mama kwamba nitaenda kwenye sherehe,email_sendemail,5
+1021,17032,hi tafadhali tuma barua kwa mutinda jioni,email_sendemail,5
+1022,16879,tuma barua pepe kwa juma kuhusu mkutano,email_sendemail,5
+1023,4720,je wikendi itakuwa nzuri,weather_query,9
+1024,793,kuna uwezekano gani wa mvua ya mawe wiki hii,weather_query,9
+1025,7362,futa tu tukio linalofuata la ushiriki,calendar_remove,2
+1026,3856,je kutakuwa na jua kesho,weather_query,9
+1027,5670,pata utabiri kuhusu kasi ya upepo usiku wa leo,weather_query,9
+1028,8147,ondoa tamasha kutoka kwa matukio ya kalenda,calendar_remove,2
+1029,9917,nini kinahitajika kuunda pizza,cooking_recipe,3
+1030,739,ni joto gani leo,weather_query,9
+1031,789,hali ya hewa ilikuwa aje wiki hii,weather_query,9
+1032,8982,futa miadi yangu na ted,calendar_remove,2
+1033,1329,je hali hewa ni ni kawaida leo,weather_query,9
+1034,12282,nataka tiketi ya gari la moshi kutoka nairobi hadi mombasa,transport_ticket,8
+1035,16440,tuma barua pepe kwa asha kwamba nitakubali ofa ya kazi,email_sendemail,5
+1036,4208,lazima nivae viatu,weather_query,9
+1037,11900,cheza filamu nitakayo ipenda,recommendation_movies,7
+1038,16238,tuma barua pepe,email_sendemail,5
+1039,9758,ningependa kuanzisha hiki kitabu kipya cha audio,play_audiobook,6
+1040,9925,nina muda upi kuchemsha yai,cooking_recipe,3
+1041,6884,kufuta mkutano kesho saa nne asubuhi,calendar_remove,2
+1042,8613,futa tukio langu la karibuni,calendar_remove,2
+1043,2065,hali ya hewa iko aje wiki hii,weather_query,9
+1044,4523,hali ya hewa iko aje nje,weather_query,9
+1045,1504,ni saa mbili usiku huko ufaransa je ni saa ngapi huko new york,datetime_convert,4
+1046,10153,nitafutie resipe ya kuku,cooking_recipe,3
+1047,5143,tafadhali niambie hali ya anga itakuwa gani washington d. c. wiki ijayo,weather_query,9
+1048,9995,inachukua muda gani maji ku chemsha,cooking_recipe,3
+1049,5589,tafuta ripoti ya hali ya hewa,weather_query,9
+1050,15961,nahitaji kutuma barua pepe kwa asha,email_sendemail,5
+1051,4865,hali ya hewa ikoje huko nairobi sasa hivi,weather_query,9
+1052,10145,kupata kiwango kinachofaa cha mdalasini kwa pilau,cooking_recipe,3
+1053,8546,futa kalenda yangu safi,calendar_remove,2
+1054,16756,agiza barua pepe mpya,email_sendemail,5
+1055,16658,mtumie abdi barua pepe yakumuuliza vile hali ya anga wiki hii,email_sendemail,5
+1056,16213,tuma barua pepe kwa baba jinsi hali ya hewa wiki hii,email_sendemail,5
+1057,16129,tuma barua pepe asante sana kwa asha kama jibu,email_sendemail,5
+1058,16439,kuna barua pepe ninayotaka kutuma kwa rafiki yangu,email_sendemail,5
+1059,591,kuna joto kiasi gani sasa hivi,weather_query,9
+1060,7982,ondoa matukio yote ya leo,calendar_remove,2
+1061,830,jambo kuna joto sana nje joto iko aje mchana huu,weather_query,9
+1062,9788,cheza kitabu ya kusikiliza iliochezwa ya mwisho,play_audiobook,6
+1063,5893,kutakuwa na jua nairobi,weather_query,9
+1064,9711,nataka wewe upeleke sauti mbele haraka alafu uendeleze,play_audiobook,6
+1065,2999,hali ya hewa ya san antonio texas kwa siku nane zijazo,weather_query,9
+1066,3858,je kutakuwa na theluji yeyote jumanne,weather_query,9
+1067,583,je kutakuwa na machweo ya jua kesho saa kumi na moja unusu jioni,weather_query,9
+1068,4437,je ninaweza kuvaa ndala leo,weather_query,9
+1069,823,hali ya hewa iko aje leo pahali nipo.,weather_query,9
+1070,1657,ni kengele ngapi zimewekwa kwa sasa,alarm_query,0
+1071,3934,nionyeshe kengele zangu zote zenye zimewekwa,alarm_query,0
+1072,10026,google hatua za kuunda maankuli hayo,cooking_recipe,3
+1073,1328,hali ya anga ikoje leo,weather_query,9
+1074,3346,ni tofauti gani kati ya eneo langu na hong kisumu,datetime_convert,4
+1075,1689,utabiri wa hali ya hewa hii wiki ni nini,weather_query,9
+1076,8816,enda kwa mwaka wa tukio na ufute,calendar_remove,2
+1077,11609,ni filamu ya hivi karibuni ya kitendo inayoendesha katika ukumbi wa sinema,recommendation_movies,7
+1078,16972,unaweza kumtumia asha ujumbe kupitia barua pepe,email_sendemail,5
+1079,15959,tunga barua pepe kwa mutio,email_sendemail,5
+1080,12510,tafuta tiketi ya treni ya kuhifadhi,transport_ticket,8
+1081,7869,toa tukio kutoka kwa kalenda,calendar_remove,2
+1082,2063,niambie hali ya hewa ya wiki hii,weather_query,9
+1083,9828,rejea,play_audiobook,6
+1084,10233,ni mchele na waru kweli british,cooking_recipe,3
+1085,433,kuna joto kiasi gani sasa hivi nje,weather_query,9
+1086,96,je mvua inanyesha,weather_query,9
+1087,3343,kengele yangu imewekwa saa ngapi,alarm_query,0
+1088,9748,endeleza nairobi noir,play_audiobook,6
+1089,1104,hali ya hewa iko aje sasa new jersey,weather_query,9
+1090,3772,tafadhali nisomee kengele zangu,alarm_query,0
+1091,16190,andik barua pepe kwa mshiriki wa kampuni kwamba tupeane kazi kesho,email_sendemail,5
+1092,1389,hali ya hewa itakuwa aje siku ya jumamosi,weather_query,9
+1093,3095,hali ya hewa iko aje huko minneapoliscity,weather_query,9
+1094,7611,ondoa mikutano yote leo,calendar_remove,2
+1095,10200,viungo vipi vinahitajika kuandaa biryani,cooking_recipe,3
+1096,5875,je nivae rinda au shati la jasho leo,weather_query,9
+1097,12130,panga safari ya kwenda nakuru na gari la moshi,transport_ticket,8
+1098,17150,alexa ningependa kuangalia siku ambazo asha atapatikana ili nimtumie barua pepe,email_sendemail,5
+1099,6047,je mimi ninahitaji koti ya baridi asubuhi hii,weather_query,9
+1100,1932,je hali ya hewa ni tulivu leo,weather_query,9
+1101,16434,iambie familia yangu hii kwa barua pepe,email_sendemail,5
+1102,15803,mtumie barua pepe dada yangu kuhusu siku ya kuzaliwa ya mama jane tunapaswa kufikiria kuandaa sherehe kwenye bustani,email_sendemail,5
+1103,12660,niwekee nafasi ya safari ya treni,transport_ticket,8
+1104,5505,ni kengele gani zimewekwa kwa nyumba,alarm_query,0
+1105,16433,tafadhali tumia familia yangu barua pepe yenye inasema yafuatayo,email_sendemail,5
+1106,9181,futa ukumbusho wangu wa siku ya kuzaliwa ya wiki ijayo,calendar_remove,2
+1107,12523,unaweza kuninunulia tiketi ya gari la moshi ukitumia dola,transport_ticket,8
+1108,4732,weka sauti chini,audio_volume_down,1
+1109,9833,rejea wimbo kutoka kwa kitabu cha sauti ya miriam makeba,play_audiobook,6
+1110,12719,ninahitaji tikiti ya gari moshi kwenda nairobi kutoka hapa,transport_ticket,8
+1111,4113,kubadilisha muda wa sasa kutoka ist kwa e. s. t.,datetime_convert,4
+1112,2894,punguza kiwango cha sauti cha spika,audio_volume_down,1
+1113,2123,hali ya hewa iko aje katika mji wa brighton pa,weather_query,9
+1114,9888,anza kucheza kuanzia pale nilipoachia mwisho wa kosa,play_audiobook,6
+1115,5956,nivae buti za majira ya baridi ninapoenda dukani,weather_query,9
+1116,2257,je mvua ya theluji inaanguka sasa,weather_query,9
+1117,16174,tuma barua pepe kwa bosi sijisikii vizuri kuchukua siku ya ugonjwa,email_sendemail,5
+1118,16208,tumia mutinda barua pepe iliyo na tarehe na saa ya mkutano wa kesho,email_sendemail,5
+1119,16360,waandikie barua pepe mutinda na asha,email_sendemail,5
+1120,2895,shusha vipaza sauti,audio_volume_down,1
+1121,9891,siku njema,play_audiobook,6
+1122,2916,hali ya hewa ikoje siku kama hii,weather_query,9
+1123,206,hali ya hewa ikoje huko beijing,weather_query,9
+1124,1588,hali ya anga ikoje kesho,weather_query,9
+1125,16981,tuma barua kwa fatuma,email_sendemail,5
+1126,8277,ondoa mikutano yote ya terawatts iliyoratibiwa kwenye kalenda tafadhali,calendar_remove,2
+1127,11723,nijulishe filamu maarufu zaidi ya vichekesho vya kimapenzi inayochezwa sasa katika kumbi za sinema kote mombasa,recommendation_movies,7
+1128,9928,nionyeshe jinsi ya kupika pasta,cooking_recipe,3
+1129,15759,tafadhali tuma barua pepe kwa asha ikiwa na kumbusho,email_sendemail,5
+1130,1050,zima bass kutoka kwa sauti,audio_volume_down,1
+1131,9779,cheza kifo kisimani,play_audiobook,6
+1132,6830,haha kalenda yangu ya wiki ijayo,calendar_remove,2
+1133,6807,futa matukio yote ya leo,calendar_remove,2
+1134,904,hali ya hewa itakuwaje wiki ijayo,weather_query,9
+1135,9801,fungua jina la maneno,play_audiobook,6
+1136,5114,kuna kengele yoyote baada ya saa kumi na moja asubuhi,alarm_query,0
+1137,1919,niambie kuhusu hali ya hewa wiki hii,weather_query,9
+1138,16625,mwambie juma nitachelewa kupitia barua pepe,email_sendemail,5
+1139,12226,nunua tiketi ya gari la moshi,transport_ticket,8
+1140,15981,jibu barua pepe kutoka kwa halima,email_sendemail,5
+1141,2041,hali ya hewa ya leo ni nzuri,weather_query,9
+1142,12355,tafadhali niandalie tiketi ya gari la moshi,transport_ticket,8
+1143,2059,kunanyesha,weather_query,9
+1144,9699,anza simulizi la kitabu kutoka pale mimi niliishia hapo zamani za kale,play_audiobook,6
+1145,795,kengele ya kesho imewekwa wakati gani,alarm_query,0
+1146,8087,naweza kuondoa ukumbusho,calendar_remove,2
+1147,9769,rejelea simulizi,play_audiobook,6
+1148,11957,ni filamu gani zinacheza karibu na mimi olly,recommendation_movies,7
+1149,16782,unaweza kutuma barua pepe kwa mama yangu kuhusu hali ya hewa ya kila wiki,email_sendemail,5
+1150,8295,futa matukio yoyote na yote,calendar_remove,2
+1151,4761,je theluji inakuja usiku wa leo,weather_query,9
+1152,10192,jinsi ya kupika spaghetti,cooking_recipe,3
+1153,16134,tuma barua pepe kwa baba nitaenda kwenye sherehe ya siku ya kuzaliwa,email_sendemail,5
+1154,16122,tuma barua pepe mpya kwa asha,email_sendemail,5
+1155,3707,hali ya hewa itakuwa aje tarehe,weather_query,9
+1156,4682,je kuna joto na hewa chafu au joto na unyevunyevu huko turkana leo,weather_query,9
+1157,3770,orodhesha kengele,alarm_query,0
+1158,10043,vikombe vingapi vya sukari kwa keki,cooking_recipe,3
+1159,7431,nataka kuondoa tukio hili kwenye kalenda,calendar_remove,2
+1160,10018,unachomaje nyama ya kondoo,cooking_recipe,3
+1161,1605,kengele imewekwa ya kesho asubuhi,alarm_query,0
+1162,9908,rejelea tumbo lisiloshiba,play_audiobook,6
+1163,8145,futa miadi yangu saa saba kesho,calendar_remove,2
+1164,12801,kata tiketi ya treni kwenda nairobi,transport_ticket,8
+1165,4744,orodhesha kengele zangu zote zijazo,alarm_query,0
+1166,1867,maelezo ya hali ya hewa sasa,weather_query,9
+1167,16604,tuma barua pepe kwa binti,email_sendemail,5
+1168,16043,mtumie juma barua ya ripoti ya kifedha elfu mbili na kumi na saba,email_sendemail,5
+1169,13441,hali ya joto ya leo ni nini,weather_query,9
+1170,16480,tayarisha barua pepe ya jibu kwa abdi,email_sendemail,5
+1171,1130,je itanyesha baadaye leo,weather_query,9
+1172,9842,unaweza kucheza utengano,play_audiobook,6
+1173,7342,angalia matukio kwenye kalenda na ufute tukio linalofuata,calendar_remove,2
+1174,4592,ni kengele gani zinakuja,alarm_query,0
+1175,5846,nilete maji ya ziada pamoja nami leo,weather_query,9
+1176,10000,jinsi ya chemsha yai,cooking_recipe,3
+1177,10012,tafuta chakula ukipendacho zaidi,cooking_recipe,3
+1178,10108,ni njia gani bora ya kupika mayai,cooking_recipe,3
+1179,2266,je hali ya hewa iko aje grand rapids mi,weather_query,9
+1180,3805,hali ya hewa wiki hii,weather_query,9
+1181,8331,futa mkutano wangu wa kesho,calendar_remove,2
+1182,4915,hali ya hewa nairobi,weather_query,9
+1183,9883,rudi nyuma kwa masaibu ya ndugu jero,play_audiobook,6
+1184,9724,endelea kicheza kitabu cha kusikiliza,play_audiobook,6
+1185,1258,nipe maelezo ya hali ya hewa ya machi kumi na tano,weather_query,9
+1186,12173,niagizie tiketi ya gari la moshi ya jumatatu inayoenda nairobi,transport_ticket,8
+1187,15954,olly tuma barua pepe kwa asha ratiba mpya ya mkutano wa kesho,email_sendemail,5
+1188,5203,saa mbili asubuhi kasarani ni saa ngapi eneo la masaa ya mashariki,datetime_convert,4
+1189,4613,je joto itakuwa zaidi ya hamsini kesho,weather_query,9
+1190,11747,sinema gani zinachezwa leo saa tatu usiku huko i. max.,recommendation_movies,7
+1191,2104,hali ya hewa ni nini nyumbani,weather_query,9
+1192,10124,jinsi ya kutengeneza vidakuzi vya siagi ya karanga,cooking_recipe,3
+1193,1733,angalia leo kengele ya mkutano,alarm_query,0
+1194,15992,barua pepe ashwin patel matakwa yangu bora na kiambatisho cha workpdf,email_sendemail,5
+1195,12172,nihifadhie tiketi ya gari la moshi ya mombasa leo,transport_ticket,8
+1196,9832,endelea kutoka mahali tuliachia kwenye mwanzo mpya,play_audiobook,6
+1197,6904,futa miadi ya utunzaji wa nyasi mwezi ujao,calendar_remove,2
+1198,5323,tafadhali niambie hali ya hewa ya nairobi,weather_query,9
+1199,9911,ni muda gani wa kuchemsha mayai,cooking_recipe,3
+1200,8471,toa matukio yote ya mwezi uliopita kwa kalenda,calendar_remove,2
+1201,4864,niambie hali ya hewa huko utah,weather_query,9
+1202,16060,jibu barua pepe za benki yangu uwajulishe kuwa nimelipa madeni yangu ya kadi ya mkopo,email_sendemail,5
+1203,16632,utatuma barua pepe kwa anwani hii mpya ya barua pepe,email_sendemail,5
+1204,3935,je ni baridi nje,weather_query,9
+1205,16281,tafadhali tuma barua pepe kwa mkuu wa abdi kuhusu mkutano tulio nao kesho,email_sendemail,5
+1206,5464,ninahitaji suruali,weather_query,9
+1207,4438,hali ya hewa nairobi,weather_query,9
+1208,10149,tafuta maelekezo iliyowekwa juu zaidi kutoka kwa foodnetworkcom ya omleti ya siagi,cooking_recipe,3
+1209,16188,tuma barua pepe kwa juma tukutane leo jioni,email_sendemail,5
+1210,11671,niambie filamu zinazocheza eneo la bahari leo usiku,recommendation_movies,7
+1211,10155,napika aje kuku ya kukaanga,cooking_recipe,3
+1212,7760,litoe hilo tukio kwa kalenda yangu,calendar_remove,2
+1213,5454,je naenda na miwani nyeusi ya kukinga jua au la,weather_query,9
+1214,2918,ripoti ya hali ya hewa ya kila mwezi,weather_query,9
+1215,15859,sambaza yaliyoonyeshwa kwa blahblah at blah dot com na barua pepe,email_sendemail,5
+1216,16688,tunga barua pepe kwa anwani mpya,email_sendemail,5
+1217,7821,toa ukumbusho zote kwa kalenda,calendar_remove,2
+1218,16285,tafadhali tuma mutinda barua pepe kuhusu gari lake,email_sendemail,5
+1219,6003,je ninahitaji kuvaa nguo za joto leo,weather_query,9
+1220,2021,punguza sauti iwe nyororo sana,audio_volume_down,1
+1221,8832,toa data kutoka kwa kalenda,calendar_remove,2
+1222,10180,napika aje yai gumu la kuchemshwa,cooking_recipe,3
+1223,8370,sasa siri futa miadi yangu yote kwa kalenda ya leo,calendar_remove,2
+1224,7173,futa,calendar_remove,2
+1225,5039,kuna mvua katika eneo langu,weather_query,9
+1226,357,tafadhali niambie kengele zangu,alarm_query,0
+1227,8943,nataka matukio yangu yote yafutwe,calendar_remove,2
+1228,9701,nataka kusikia na kitabu kilichoandikwa na mama wa shooter katika columbine,play_audiobook,6
+1229,5234,je nitaleta mwavuli baadaye,weather_query,9
+1230,16013,tuma barua pepe kwa asha,email_sendemail,5
+1231,8770,ondoa tukio la kalenda ijayo,calendar_remove,2
+1232,3036,hali ya hewa kwa siku inayofuata,weather_query,9
+1233,10230,muda kiasi gani ntachukuwa kupika chakula changu,cooking_recipe,3
+1234,4314,hali ya hewa ni yenye mawingu usiku wa leo,weather_query,9
+1235,8341,futa tukio langu lijalo,calendar_remove,2
+1236,7308,futa kalenda yangu,calendar_remove,2
+1237,5662,nijipake mafuta yangu ya jua,weather_query,9
+1238,15832,tuma barua pepe kwa mwasiliani kama ifuatavyo,email_sendemail,5
+1239,4789,hali ya hewa iko aje leo,weather_query,9
+1240,6972,ondoa tukio,calendar_remove,2
+1241,16906,tuma barua pepe kwa familia yangu ukiuliza wanaendeleaje,email_sendemail,5
+1242,3807,hali ya hewa nairobi wiki hii,weather_query,9
+1243,12192,weka nafasi ya usafiri kutoka nairobi hadi mombasa ukichukua sehemu kumi za kuona,transport_ticket,8
+1244,9178,ondoa matukio yote kwenye kalenda tarehe ishirini na sita desemba,calendar_remove,2
+1245,16142,tunga barua pepe kwa asha,email_sendemail,5
+1246,11739,tiketi,recommendation_movies,7
+1247,9825,endelea wimbo kutoka kitabu cha kusikiliza ya michael jackson,play_audiobook,6
+1248,3379,utabiri wa leo,weather_query,9
+1249,863,kengele zangu,alarm_query,0
+1250,2344,hali ya hewa itakuwaje katika jiji la oklahoma jumatatu,weather_query,9
+1251,16510,tuma jibu hili kwa barua pepe iliyopokelewa,email_sendemail,5
+1252,8010,sasisha kalenda yangu na ufute tukio linalofuata,calendar_remove,2
+1253,9835,muziki kwanza,play_audiobook,6
+1254,11734,olly filamu mpya ya ninja iko vipi,recommendation_movies,7
+1255,6717,olly ondoa kusimama siku ya ijumaa saa saa nne asubuhi,calendar_remove,2
+1256,2228,nakuhitaji ubadilishe saa tatu asubuhi nakuru kwa mombasa wakati,datetime_convert,4
+1257,9781,anza kucheza utengano,play_audiobook,6
+1258,6727,ondoa gumzo na allan,calendar_remove,2
+1259,16109,jibu barua pepe zote zilizopokelewa kati ya saa nne usiku na saa moja asubuhi kila siku,email_sendemail,5
+1260,1991,hali ya anga ikoje leo,weather_query,9
+1261,2141,leo chukua mwavuli,weather_query,9
+1262,16044,tuma barua kwa samantha kuhusu ratiba ya mazoezi ya mwili,email_sendemail,5
+1263,300,nini utabiri wa leo,weather_query,9
+1264,10088,nipe jinsi ya kupika mipira ya nyama,cooking_recipe,3
+1265,605,jumanne hali ya hewa inapaswa kuwaje,weather_query,9
+1266,8477,unaweza futa tukio hili,calendar_remove,2
+1267,7252,panga upya sherehe hadi siku ya alhamisi,calendar_remove,2
+1268,13529,niende kuona filamu gani,recommendation_movies,7
+1269,9774,cheza kitabu cha sauti cha kifo kisimani,play_audiobook,6
+1270,8563,futa miadi yangu ya kesho saa tisa mchana,calendar_remove,2
+1271,2655,joto la juu zaidi litakuwa zaidi ya nyuzi sabini kesho,weather_query,9
+1272,599,punguza tambo,audio_volume_down,1
+1273,16403,mpokeaji barua pepe mpya asha una mipango ya leo,email_sendemail,5
+1274,16181,kutuma barua kwa asha nataka kukutana naye kesho saa nane mchana ofisini,email_sendemail,5
+1275,1780,natumai hali ya hewa ni jua huko,weather_query,9
+1276,7701,ondoa matukio yote kwenye kalenda yangu,calendar_remove,2
+1277,326,jioni,weather_query,9
+1278,16548,unaweza kutuma barua pepe kwa maria na kumjulisha niko njiani,email_sendemail,5
+1279,9920,resipe ya mchuzi wa pasta ni gani,cooking_recipe,3
+1280,7759,tafadhali toa lile tukio kutoka kwa kalenda yangu,calendar_remove,2
+1281,4557,hali ya hewa dandora nairobi,weather_query,9
+1282,4423,hali ya hewa ikoje wiki hii,weather_query,9
+1283,5241,uliweka kengele ya saa kumi na moja asubuhi,alarm_query,0
+1284,3691,ni joto gani la sasa huko austin,weather_query,9
+1285,12396,niagizie tiketi ya gari la moshi hadi mji wa leeds,transport_ticket,8
+1286,5866,kuna kengele yoyote imewaka,alarm_query,0
+1287,7237,ondoa onyesho hip kwenye ratiba yangu ya aprili tarehe mbili,calendar_remove,2
+1288,1555,hali ya anga itakuwaje wiki hii,weather_query,9
+1289,10140,pakua kutoka kwa mtandao programu ya kupika,cooking_recipe,3
+1290,6020,naomba kujua kuhusu kengele uliyoweka,alarm_query,0
+1291,5178,angalia kama ninahitaji mwavuli,weather_query,9
+1292,12500,unaweza tafadhali kunikatia tiketi ya gari la moshi jumamosi ijayo hadi nairobi,transport_ticket,8
+1293,10243,angalia resipe na mwongozo wa hiki chakula,cooking_recipe,3
+1294,17026,olly kutuma mama barua pepe nikumbushe kupatana na mimi kwa ajili ya chakula cha mchana leo,email_sendemail,5
+1295,10060,nafaa kupika brisket kwa muda upi ndio ikuwe wastani,cooking_recipe,3
+1296,16970,nataka barua pepe itumwe katika anwani yangu mpya ya barua pepe a. b. c. at gmail dot com,email_sendemail,5
+1297,8632,unaweza toa hiyo kwa kalenda yangu,calendar_remove,2
+1298,6769,ondoa tukio langu lijalo,calendar_remove,2
+1299,9747,endelea kidagaa kimwemwozea,play_audiobook,6
+1300,952,je hali ya hewa ni mbaya katika nairobi hivi sasa,weather_query,9
+1301,16507,tuma barua pepe kwa anwani mpya ya barua pepe,email_sendemail,5
+1302,4559,nionyeshe utabiri wa wiki hii,weather_query,9
+1303,1008,hali ya hewa itakuwa mbaya siku ya jumapili,weather_query,9
+1304,10056,jinsi ya kutengeneza pasta,cooking_recipe,3
+1305,2326,utabiri ni nini,weather_query,9
+1306,10139,unaadaa aje vibanzi,cooking_recipe,3
+1307,259,unaongea kwa sauti ya juu sana,audio_volume_down,1
+1308,9916,ni nini inahitajika kupikia pizza,cooking_recipe,3
+1309,11918,ni filamu zipi zinacheza wiki hii,recommendation_movies,7
+1310,10025,niambie jinsi ya kupika pizza,cooking_recipe,3
+1311,1251,tafadhali nidokeze kuhusu hali ya hewa ya wiki hii,weather_query,9
+1312,10082,jinsi gani ya kutayarisha mboga za kienyeji,cooking_recipe,3
+1313,5188,hali ya hewa ikoje katika jiji la nairobi,weather_query,9
+1314,17027,tuandikie asha barua pepe,email_sendemail,5
+1315,8636,unaweza kufuta miadi ya daktari niliyokuwa nayo jumanne,calendar_remove,2
+1316,7236,tafadhali ondoa miadi aprili tarehe moja,calendar_remove,2
+1317,1844,je kutaganda usiku kucha,weather_query,9
+1318,3304,olly hali ya hewa iko aje wiki hii,weather_query,9
+1319,9829,sauti,play_audiobook,6
+1320,7116,futa miadi yangu ya tarehe kumi na mbili kutoka kwa kalenda yangu,calendar_remove,2
+1321,236,nikona kengele imewekwa ya asubuhi ya safari ya ndege,alarm_query,0
+1322,1992,unaweza kuniambia hali ya hewa ya jumatatu,weather_query,9
+1323,9090,futa matukio yote kwenye kalenda,calendar_remove,2
+1324,9796,tafadhali anzisha tena siku njema,play_audiobook,6
+1325,10133,nahitaji usaidizi kupika kuku wa oveni,cooking_recipe,3
+1326,12592,tafadhali ni nunulie tiketi la gari la moshi ya kwenda atlanta,transport_ticket,8
+1327,15912,barua pepe juma,email_sendemail,5
+1328,4474,je ninahitaji nguo zangu za mvua,weather_query,9
+1329,6022,ni jioni laini usiku wa leo,weather_query,9
+1330,3616,hatutarajii mvua kesho sindio,weather_query,9
+1331,5783,joto la machweo leo,weather_query,9
+1332,12459,nionyeshe tiketi za gari la moshi,transport_ticket,8
+1333,7714,niko na shughuli kesho kwa hivyo toa matukio yote kwa kalenda yangu,calendar_remove,2
+1334,12538,olly nitafutie tiketi ya gari la moshi ya gharama nafuu kwenda kenya,transport_ticket,8
+1335,1789,je hali ya hewa ni baridi,weather_query,9
+1336,11982,olly ni sinema gani zinacheza zambia,recommendation_movies,7
+1337,3963,kuna kengele yoyote leo,alarm_query,0
+1338,12234,agiza kiti cha business class kwenye gari la moshi inayofuata kuelekea jiji la new york,transport_ticket,8
+1339,10117,inachukua mda gani kuandaa mutura,cooking_recipe,3
+1340,4562,olly unaweza kubadilisha eneo langu la saa kuwa eneo la saa niliko sasa,datetime_convert,4
+1341,6733,olly kitabu mimi teksi kuenda westlands kwa saa unusu,calendar_remove,2
+1342,8971,ghairi ratiba kwa siku saba kuanzia leo,calendar_remove,2
+1343,278,hali ya hewa iko aje huko toronto,weather_query,9
+1344,17044,tunga barua pepe kwa fahim,email_sendemail,5
+1345,3105,joto la sasa liko vipi,weather_query,9
+1346,10235,anzisha stovu weka moto unaofaa na uweke viungo kwa sufuria ya presha kisha ungojee viungo viive,cooking_recipe,3
+1347,327,jumapili,weather_query,9
+1348,14991,alexa sema hali ya hewa katika jiji letu,weather_query,9
+1349,12489,nahitaji tikiti kwenye gari la moshi ya kuelekea jiji la nairobi kesho,transport_ticket,8
+1350,9695,cheza vimbwanga ya munyinyi,play_audiobook,6
+1351,10215,onyesha matokeo ya kupika pilau kutoka kwa mtandao,cooking_recipe,3
+1352,10148,tafuta mapishi iliyopewa kiwango cha juu zaidi kutoka kwa safaricom pizza,cooking_recipe,3
+1353,15804,tumia james barua pepe kuhusiana na mchezo wa softball james tunajitaji kupata vinywaji kabla ya kuenda huko,email_sendemail,5
+1354,17028,olly tumtumie asha barua pepe,email_sendemail,5
+1355,10244,tafadhali angalia resipe bora zaidi,cooking_recipe,3
+1356,7737,toa sherehe ya siku ya kuzaliwa ya mbugua kwa kalenda yangu,calendar_remove,2
+1357,16095,tuma barua pepe kwa bosi wangu kwamba ninakuja kuchelewa leo,email_sendemail,5
+1358,8555,ondoa mchango wa yatima aprili,calendar_remove,2
+1359,11766,uhamasishaji wa usalama,recommendation_movies,7
+1360,5075,hali ya hewa ya wiki hii iko aje,weather_query,9
+1361,4594,nionyeshe kengele nilizoweka,alarm_query,0
+1362,5723,kuta nyesha jioni leo,weather_query,9
+1363,7344,futa matukio yote ya kalenda,calendar_remove,2
+1364,17128,ingiza anwani mpya kwa njia ya barua pepe,email_sendemail,5
+1365,6117,ripoti ya hali ya hewa ya wiki,weather_query,9
+1366,9813,cheza kidagaa cha kitabu cha sauti kutoka mwanzo,play_audiobook,6
+1367,325,furaha,weather_query,9
+1368,7148,ondoa mkutano wa bodi na panga upya jumatano ijayo,calendar_remove,2
+1369,4677,je nitahitaji mafuta ya kukinga jua leo,weather_query,9
+1370,5946,hali ya hewa iko aje huko,weather_query,9
+1371,6574,ongezeko la joto duniani,weather_query,9
+1372,5452,ninahitaji kuchukua mwavuli leo,weather_query,9
+1373,16534,utamwaandikia juma barua pepe kwa niaba yangu,email_sendemail,5
+1374,16116,kati ya saa nne usiku hadi saa tatu asubuhi barua pepe zote zilizopokelewa zinapaswa kujibiwa,email_sendemail,5
+1375,9946,ni resipe ipi nzuri ya kupika vibanzi,cooking_recipe,3
+1376,7327,futa maudhui yote kwenye kalenda yangu,calendar_remove,2
+1377,4122,nifahamishe wakati wa kengele,alarm_query,0
+1378,10122,ni nini resipe bora ya wali,cooking_recipe,3
+1379,16950,barua pepe mpya kwa mawasiliano,email_sendemail,5
+1380,1976,kama kuna kengele yoyote imewekwa nifahamishe,alarm_query,0
+1381,10065,viungo vipi vipo kwenye chakula cha kihindi,cooking_recipe,3
+1382,1938,ripoti ya hali ya anga ya mombasa,weather_query,9
+1383,12642,nafaa kutumia gari la moshi inayotoka saa kumi na moja jioni kuenda mombasa,transport_ticket,8
+1384,16963,soma barua pepe na utume kwa mwanafamilia,email_sendemail,5
+1385,6048,je nivae glavu usiku wa leo,weather_query,9
+1386,10240,ni nini bora ya kuonja kukata ya nyama,cooking_recipe,3
+1387,5869,nini ripoti ya hali ya hewa ya nairobi leo,weather_query,9
+1388,6102,olly nipatie hali ya hewa ya leo ya westlands nairobi,weather_query,9
+1389,8527,ghairi mkutano wa saa tisa,calendar_remove,2
+1390,4390,zima sauti,audio_volume_down,1
+1391,1663,tofauti ya masaa katikati ya nairobi na mombasa ni gani,datetime_convert,4
+1392,8544,futa matukio zote zangu kwa kalenda,calendar_remove,2
+1393,12148,nahitaji kufika nairobi ijumaa usiku unaweza kuniwekea tikiti tafadhali,transport_ticket,8
+1394,10079,ni resipe gani rahisi ya kupika chakula,cooking_recipe,3
+1395,10091,nyama ya nguruwe inapikwa vipi,cooking_recipe,3
+1396,7132,nataka wewe utoe ile harusi ya tarehe kumi kutoka kwa kalenda yangu,calendar_remove,2
+1397,7144,futa sherehe iliyo tarehe moja juni kutoka kwa kalenda yangu,calendar_remove,2
+1398,12653,agiza tiketi ya gari la moshi la kwenda los angeles,transport_ticket,8
+1399,10163,njia gani bora zaidi ya kuunda nyama ya kuku ya kenya,cooking_recipe,3
+1400,2871,ni kengele gani nimewekewa,alarm_query,0
+1401,4484,niambie utabiri wa hali ya hewa ya wiki hii,weather_query,9
+1402,4251,ni joto sana kuvaa sweta yangu ya pamba leo,weather_query,9
+1403,7962,rekebisha kalenda,calendar_remove,2
+1404,12517,unaweza kuhifadhi tiketi ya gari la moshi ya siku hii,transport_ticket,8
+1405,3354,je kutakua na theluji,weather_query,9
+1406,4961,unahitaji kubeba mwavuli jioni hii,weather_query,9
+1407,8830,futa data yote kwenye kalenda,calendar_remove,2
+1408,9091,olly futa matukio yote kwa kalenda,calendar_remove,2
+1409,3971,olly hali ya hewa iko aje sasa hivi,weather_query,9
+1410,9974,je ni nini mbadala nzuri wa yai la mboga,cooking_recipe,3
+1411,16499,hi google tafadhali tuma barua kwa mama narudi nyumbani wikendi hii,email_sendemail,5
+1412,12193,ni hifadhie tiketi la gari la moshi kutoka nairobi kwenda mombasa inapitia kibwezi,transport_ticket,8
+1413,17164,peleka mbele barua kwa maimuna,email_sendemail,5
+1414,1729,niambie kama kutakuwa na jua bila mawingu ijumaa wiki hii,weather_query,9
+1415,7092,futa matukio ya kalenda,calendar_remove,2
+1416,11590,nipendekezee filamu iliyotolewa ijumaa iliyopita,recommendation_movies,7
+1417,16687,tuma anwani mpya ya barua pepe,email_sendemail,5
+1418,3978,je hali ya hewa mombasa ikoje,weather_query,9
+1419,17025,tuma barua pepe kwa mama na uulize kuhusu hali ya hewa ya wiki hii,email_sendemail,5
+1420,10232,njia bora zaidi ya kuandaa tilapia au omena,cooking_recipe,3
+1421,7364,futa tukio la kwanza la tarehe ishirini na tatu machi mwaka elfu mbili na kumi na saba,calendar_remove,2
+1422,4451,nikona kengele imewekwa ya leo,alarm_query,0
+1423,10102,nionyeshe jinsi ya kupika ugali,cooking_recipe,3
+1424,8682,futa matukio,calendar_remove,2
+1425,10173,jinsi ya kupika nyama isiyo na mfupa,cooking_recipe,3
+1426,4384,je hali ya hewa itakuwa joto au baridi kesho,weather_query,9
+1427,8472,ondoa matukio yote kwa kalenda,calendar_remove,2
+1428,1019,je kutakua na theluji leo,weather_query,9
+1429,6872,unaweza futa tukio la sasa,calendar_remove,2
+1430,4133,niambie ni inchi ngapi za theluji jiji la new york lilipata leo,weather_query,9
+1431,6635,hali ya hewa iko,weather_query,9
+1432,791,onyesha hali ya hewa ya juu hii wiki,weather_query,9
+1433,6957,safisha kalenda yangu,calendar_remove,2
+1434,4707,tafadhali onyesha hali ya hewa ya ndani,weather_query,9
+1435,10009,resipe ya kupika chakula,cooking_recipe,3
+1436,1353,mimi nataka kupunguza mwendo wa kipaza sauti changu,audio_volume_down,1
+1437,16964,mwandikie mwanafamilia barua pepe na uisome tena,email_sendemail,5
+1438,1465,je itanyesha ijumaa,weather_query,9
+1439,8380,habari siri ghairi chochote kilichopangwa kinachofuata kwenye kalenda yangu,calendar_remove,2
+1440,1235,ni wakati gani wa uganda saa kumi na moja jioni,datetime_convert,4
+1441,16211,tumia baba barua pepe ikisema jinsi hali ya hewa iko wiki hii,email_sendemail,5
+1442,847,kuna kengele zozote zimewekwa kwa sasa,alarm_query,0
+1443,1654,jkutakuwa na baridi kiasi gani jumanne ijayo,weather_query,9
+1444,9850,alexa rejea kitabu cha joe kutoka mahali niliachia wakati uliopita,play_audiobook,6
+1445,1604,kengele ya kesho asubuhi imewekwa saa ngapi,alarm_query,0
+1446,11984,olly ni nini kinachezwa nairobi bistro,recommendation_movies,7
+1447,16517,nataka kujibu,email_sendemail,5
+1448,5005,kama ningekuwa katika ukanda wa saa wa mashariki ingekuwa saa ngapi,datetime_convert,4
+1449,1725,hali ya hewa itakuwaje siku saba zijazo,weather_query,9
+1450,662,unaweza kujua ni saa ngapi za tofauti kati ya nairobi na mombasa,datetime_convert,4
+1451,16212,mtumie baba barua pepe ya kumuuliza hali ya anga hii wiki,email_sendemail,5
+1452,10059,ni nini mbadala wa mafuta ya kupika,cooking_recipe,3
+1453,15781,google tumia fatuma barua pepe kuuliza jinsi alivyo na umwambie atume yanayojiri kuhusiana na mradi mama wa kambo,email_sendemail,5
+1454,12900,salama gari la moshi kifungu kwa ajili yangu juu ya julai tatu,transport_ticket,8
+1455,4207,je nitahitaji kuvaa koti leo,weather_query,9
+1456,7435,naeza kuliza utoe tukio lifuatalo kwenye kalenda yangu,calendar_remove,2
+1457,2328,nini ni ya juu kwa leo,weather_query,9
+1458,9727,anzisha tena kitabu cha kusikiliza,play_audiobook,6
+1459,5120,angalia kama kuna kengele yoyote baada ya saa kumi na moja asubuhi,alarm_query,0
+1460,10147,angalia resipe nne za chapati,cooking_recipe,3
+1461,9731,cheza davinci code,play_audiobook,6
+1462,5484,ni joto sana kwa suruali,weather_query,9
+1463,7545,wazi mwezi mzima wa mei,calendar_remove,2
+1464,2345,je kwa sasa mvua inanyesha katika jiji la nairobi,weather_query,9
+1465,8526,toa sampuli ya mkutano kwenye programu ya kalenda,calendar_remove,2
+1466,1521,punguza sauti hadi kumi,audio_volume_down,1
+1467,1314,hali ya hewa inapaswa kuwa nzuri leo,weather_query,9
+1468,10073,tafuta bidhaa za kupika pilau,cooking_recipe,3
+1469,16943,tuma barua pepe kwa somo la bibi jumamosi meseji tunakuletea jumamosi tuonane basi,email_sendemail,5
+1470,7984,futa matukio yote leo kwenye kalenda yangu,calendar_remove,2
+1471,1723,hali ya hewa ya lucknow itakuwa aje tarehe tisa februari mwaka wa elfu mbili na kumi na saba,weather_query,9
+1472,9749,natumia kitenzambali,play_audiobook,6
+1473,5320,onyesha hali ya hewa ya jana,weather_query,9
+1474,98,kuna theluji sasa,weather_query,9
+1475,3403,je kutakuwa na jua wikendi hii,weather_query,9
+1476,10126,naweka mayai mangapi kwa mchanganyiko wangu wa keki,cooking_recipe,3
+1477,6126,ninahitaji kuvaa koti,weather_query,9
+1478,10209,ya kupendeza,cooking_recipe,3
+1479,14351,ni wastani gani wa halijoto mwezi machi kwa nairobi na hiyo inalinganishwa vipi na miaka kumi iliyopita,weather_query,9
+1480,15928,tuma barua pepe kwa juma kwamba samahani sikugundua alikuwa mgonjwa sana,email_sendemail,5
+1481,3246,niambie hali ya hewa ya jiji la new york,weather_query,9
+1482,10040,ni ipi mbinu ya kupika kidakuzi,cooking_recipe,3
+1483,12614,agizia rajdhani tiketi ya gari la moshi kutoka nairobi kwenda mombasa,transport_ticket,8
+1484,16905,tuma barua pepe kwa familia yangu ukiwaambia kuhusu mipango yangu ijayo ya siku ya kuzaliwa,email_sendemail,5
+1485,7739,siendi kwenye sherehe ya siku ya kuzaliwa ya kimani,calendar_remove,2
+1486,9890,anza tena nairobi noir,play_audiobook,6
+1487,9869,anza shamba la wanyama kutoka mahali mimi niliachia,play_audiobook,6
+1488,1969,leo ni siku ya jua au la,weather_query,9
+1489,16115,barua pepe zote nilizopokea kati ya saa nne usiku na saa tatu asubuhi,email_sendemail,5
+1490,12855,kata tiketi kwa ajili ya leo katika irctc kwa habari kuhifadhiwa,transport_ticket,8
+1491,349,kutakuwa na theluji kesho,weather_query,9
+1492,10068,muda wa kupika vibanzi ni gani,cooking_recipe,3
+1493,12664,tiketi za gari la moshi za watu wawili kutoka delhi hadi mumbai,transport_ticket,8
+1494,16441,tuma barua pepe kwa fahim kwamba nitachelewa kufanya kazi kesho,email_sendemail,5
+1495,12164,unaweza kukata tiketi ya garimoshi kwa baba yangu,transport_ticket,8
+1496,12471,ninunulie tiketi ya gari la moshi,transport_ticket,8
+1497,12524,niagizie tiketi ya gari la moshi ya bei nafuu kwenda nairobi,transport_ticket,8
+1498,16121,jibu tena kwa malkia,email_sendemail,5
+1499,1918,hali ya hewa iko aje kwa siku saba zijazo,weather_query,9
+1500,12507,nataka tiketi ya gari la moshi kwenda nairobi,transport_ticket,8
+1501,15750,andikia jan ujumbe kuwa nita chelewa,email_sendemail,5
+1502,12331,olly nikatie tiketi ya gari la moshi kwa mji wa eldoret siku ya tatu sijali wakati gani,transport_ticket,8
+1503,16884,tuma barua pepe kwa mama ukimuuliza kama aliweza kuagiza kitabu kutoka amazon ambacho nilimwambia kukihusu,email_sendemail,5
+1504,10075,mukimo iko kwenye msimu lini,cooking_recipe,3
+1505,2308,ni saa nne asubuhi kwa saa za mashariki saa ngapi sasa ni saa za kawaida za pasifik,datetime_convert,4
+1506,10034,jinsi ya kutengeneza burger,cooking_recipe,3
+1507,6173,je ni siku nzuri ya kuenda pwani,weather_query,9
+1508,950,hali ya hewa iko aje huko new york,weather_query,9
+1509,9865,nichezee hiki kitabu cha sauti,play_audiobook,6
+1510,2634,punguza sauti ya vipaza sauti,audio_volume_down,1
+1511,4209,je nibebe mwavuli usiku wa leo,weather_query,9
+1512,6179,je ninahitaji viatu vya theluji,weather_query,9
+1513,16209,mtumie fatma barua pepe kuhusu sherehe ya kazi kesho,email_sendemail,5
+1514,17132,tafadhali andika barua pepe kwa fatma ukiomba mapumziko ya jumapili kwa ratiba inayofuata,email_sendemail,5
+1515,794,thibitisha kengele ya kesho asubuhi,alarm_query,0
+1516,3344,ninaamka saa ngapi kesho,alarm_query,0
+1517,5247,je ninahitaji kuleta koti leo,weather_query,9
+1518,4139,nahitaji kuvaa koti nzito leo,weather_query,9
+1519,15953,olly atume barua pepe kwa juma akiuliza ni lini anatoka kazini,email_sendemail,5
+1520,16882,kutuma ujumbe kupitia barua pepe,email_sendemail,5
+1521,4863,hali ya hewa iko aje huko utah,weather_query,9
+1522,568,baridi iko kiasi gani,weather_query,9
+1523,9101,tafadhali ondoa miadi ya daktari kwenye kalenda yangu februari kumi na mbili saa tatu mchana,calendar_remove,2
+1524,12341,kata tiketi tatu za safari ya kwenda na kurudi kwa treni kwa jumapili saa moja jioni tiketi ya kurudi wiki ijayo jumapili saa mbili asubuhi,transport_ticket,8
+1525,7145,sitaki kuhudhuria chajio mnamo machi tarehe moja zaidi kwa hivyo waweze kuiondoa kwenye ajenda yangu,calendar_remove,2
+1526,10167,tafuta jinsi ya kupika ndazi la nazi,cooking_recipe,3
+1527,7831,ondoa miadi yote,calendar_remove,2
+1528,2855,mvua inanyesha leo,weather_query,9
+1529,8908,sawa,calendar_remove,2
+1530,5700,naweza kukausha nguo zangu kwenye kamba,weather_query,9
+1531,9099,ondoa miadi na daktari niliyoongeza kwenye kalenda yangu ya februari tarehe kumi na mbili saa tatu asubuhi,calendar_remove,2
+1532,4169,tafadhali unaweza kuangalia hali ya hewa kansas,weather_query,9
+1533,3292,ni tofauti gani kati ya pasifiki na kati,datetime_convert,4
+1534,7023,ondoa siku ya baba kwenye kalenda,calendar_remove,2
+1535,4665,hali ya hewa iko aje columbus,weather_query,9
+1536,15831,anzisha barua pepe mpya kwa,email_sendemail,5
+1537,3692,tafadhali rudia sentensi ya mwisho kutoka hicho kitabu,play_audiobook,6
+1538,557,ni kengele ngapi zimeorodheshwa,alarm_query,0
+1539,9667,tafadhali endelea kucheza mwenye nguvu ya solomon mukubwa,play_audiobook,6
+1540,5588,ninahitaji kofia,weather_query,9
+1541,12635,tafuta treni isiyosimama kwenda nairobi,transport_ticket,8
+1542,7360,futa tukio linalofuata la harusi,calendar_remove,2
+1543,17066,jibu barua pepe iliyopokelewa kutoka kwa alama,email_sendemail,5
+1544,6110,nitahitaji mwavuli leo baada ya jua kutua,weather_query,9
+1545,10223,itakuwa tamu,cooking_recipe,3
+1546,1787,punguza sauti,audio_volume_down,1
+1547,8441,futa kalenda yangu yote,calendar_remove,2
+1548,10087,napika vipi mishkaki,cooking_recipe,3
+1549,3533,tafadhali badilisha eneo la wakati kwenda uganda,datetime_convert,4
+1550,4475,ninahitaji koti langu,weather_query,9
+1551,2856,leo kuna jua,weather_query,9
+1552,5602,itakuwa nzuri nje wiki hii,weather_query,9
+1553,9682,kucheza mimi nakupenda malaika kutoka mahali mimi mwisho kusimamishwa kusikiliza olly,play_audiobook,6
+1554,15107,ni filamu gani unapendekeza leo usiku,recommendation_movies,7
+1555,11919,unaeza niambia filamu yenye hakiki nzuri sana,recommendation_movies,7
+1556,10103,nipeleke kwenye video ya kupika tambi,cooking_recipe,3
+1557,8183,unaweza toa miadi na daktari wa meno kutoka kwa kalenda yangu,calendar_remove,2
+1558,7430,naomba tukio hili liondolewe kwa kalenda yangu,calendar_remove,2
+1559,648,unaweza niambia ni kengele gani nimeweka,alarm_query,0
+1560,9047,safisha siku yangu tarehe ishirini na tisa,calendar_remove,2
+1561,15927,tuma barua pepe kwa asha ili nikutane naye jumamosi saa saba mchana,email_sendemail,5
+1562,320,nibebe mwavuli kesho,weather_query,9
+1563,2229,ni saa mbili asubuhi c. s. t. kwa e. s. t.,datetime_convert,4
+1564,5334,ukona kengele gani zimewekwa,alarm_query,0
+1565,4467,kengele yangu imewekwa wakati gani,alarm_query,0
+1566,5269,saa kumi na moja unusu katika nairobi nini kuhusu wakati katika kisumu,datetime_convert,4
+1567,16167,nahitaji kutuma jibu kwa asha,email_sendemail,5
+1568,6026,joto,weather_query,9
+1569,8713,ondoa chakula cha mchana kwenye mgahawa la machi tarehe ishirini na tano,calendar_remove,2
+1570,5440,naweza kwenda bila koti sasa,weather_query,9
+1571,6100,ni kengele gani za nyumbani zimewekwa,alarm_query,0
+1572,4901,shusha kiwango cha sauti,audio_volume_down,1
+1573,11850,masaa ya maonyesho ya churchil kwenye eneo la uigizaji la karibu ni gani,recommendation_movies,7
+1574,11855,tafadhali pendekeza filamu,recommendation_movies,7
+1575,2671,unaweza angalia uone kama nimeweka kengele yangu ya kesho asubuhi,alarm_query,0
+1576,16424,tuma barua pepe mpya kwa omondi timon kuhusu kuchelewa kutoka kazi,email_sendemail,5
+1577,6007,ninapaswa funga dirisha kabla ya kuondoka mchana huu,weather_query,9
+1578,9722,endelea siku njema,play_audiobook,6
+1579,1842,je jua litawaka mombasa wikendi hii,weather_query,9
+1580,3535,kutakua na jua kesho,weather_query,9
+1581,1263,nikona kengele ngapi,alarm_query,0
+1582,1868,olly maelezo ya hali ya hewa sasa,weather_query,9
+1583,17125,anza jibu kwa barua pepe ya hivi majuzi ya fatuma,email_sendemail,5
+1584,2219,hali ya hewa dhaka,weather_query,9
+1585,7996,futa tukio yangu ijalo ya kalenda,calendar_remove,2
+1586,9797,mwishowe nataka kusoma akili and me,play_audiobook,6
+1587,181,je mvua inanyesha sahizi,weather_query,9
+1588,9762,cheza dreams in a time of war ya ngugi wa thiongo,play_audiobook,6
+1589,9093,futa matukio yote kwa kalenda ya machi,calendar_remove,2
+1590,3885,kengele gani zimewekwa kwa sasa,alarm_query,0
+1591,9048,ghairi shughuli za matibabu wikendi hii,calendar_remove,2
+1592,5712,je asubuhi hii itabaki kuwa na jua,weather_query,9
+1593,16631,nahitaji kutoa jibu kwa hii barua pepe,email_sendemail,5
+1594,10005,jinsi ya kupika mchele olly,cooking_recipe,3
+1595,8099,hi google tafadhali ondoa mpango wa chakula cha jioni alhamisi,calendar_remove,2
+1596,1535,je kunanyesha toledo sasa hivi,weather_query,9
+1597,8161,ghairi mpango ya sherehe,calendar_remove,2
+1598,11771,olly ni filamu gani zinacheza sasa hivi,recommendation_movies,7
+1599,14990,sema hali ya hewa katika jiji letu,weather_query,9
+1600,7283,toa miadi yangu ya saa saba na nusu,calendar_remove,2
+1601,10225,iwe na viungo,cooking_recipe,3
+1602,16626,tumia barua pepe kumjulisha asha nitachelewa,email_sendemail,5
+1603,9987,kuganda,cooking_recipe,3
+1604,3254,ripoti ya hali ya hewa ilikuwaje leo,weather_query,9
+1605,180,hali ya hewa iko aje sasa,weather_query,9
+1606,2778,je ni baridi zaidi kuliko jana,weather_query,9
+1607,10123,ni pilipili gani bora zaidi huko,cooking_recipe,3
+1608,5144,tafadhali nieleze siku gani yenye mvua kulingana na utabiri wa hali ya anga,weather_query,9
+1609,16199,tuma barua pepe kwa barua pepe ya kazini pa mwende,email_sendemail,5
+1610,7177,tafadhali tuma barua kwa bwana richard akisema kwamba nitakutana naye mnamo februari moja mwaka wa elfu mbili na kumi na saba saa kumi na moja jioni kwenye ofisi hii,email_sendemail,5
+1611,8970,futa ratiba yote ya tamasha,calendar_remove,2
+1612,1436,nikona kengele gani,alarm_query,0
+1613,16700,nenda kwa gmail yangu na ubofye tunga ukimaliza nitakuambia ninachotaka kuandika kwenye barua pepe,email_sendemail,5
+1614,5731,ni siku ya mvua na dhoruba,weather_query,9
+1615,7648,ondoa tukio kwenye kalenda,calendar_remove,2
+1616,16839,tuma barua pepe kwa mke wangu,email_sendemail,5
+1617,1691,hali ya hewa ya leo ni nini,weather_query,9
+1618,7297,chukua kalenda yangu alafu safisha yote,calendar_remove,2
+1619,16014,unaweza kunitengenezea barua pepe mimi,email_sendemail,5
+1620,16623,nahitaji barua pepe kutumwa kwa safaricom kuhusu uhuru park yangu,email_sendemail,5
+1621,16435,nataka kuanza barua pepe yangu kama hii,email_sendemail,5
+1622,3375,saa tatu asubuhi itakuwa saa ngapi masaa ya bangalore india,datetime_convert,4
+1623,9679,endelea kitabu cha kusikiliza nilisikiliza ya mwisho,play_audiobook,6
+1624,4204,kutakuwa na theluji wiki hii,weather_query,9
+1625,1036,kengele yangu ya kazi ya kesho imewekwa,alarm_query,0
+1626,5231,nivae buti za mvua,weather_query,9
+1627,16004,hey nataka kutuma barua pepe kwa rafiki yangu,email_sendemail,5
+1628,4425,nipatie hali ya hewa ya kila wiki karibu na mimi,weather_query,9
+1629,1534,hali ya hewa ikoje nakuru,weather_query,9
+1630,1105,nipatie utabiri wa hali ya hewa ya beijing,weather_query,9
+1631,10161,je bia ya kienyeji inaenda na nini,cooking_recipe,3
+1632,15991,mtumie asha barua pepe umwambie namtakia kila la heri na uambatanishe p. d. f. ya kazi,email_sendemail,5
+1633,3648,hali ya hewa iko aje huko toronto,weather_query,9
+1634,10029,ni kwa joto lipi unaoka viazi,cooking_recipe,3
+1635,3163,nikona kengele gani zimewekwa za kesho,alarm_query,0
+1636,16172,tuma barua pepe kwa mama na umwambie amwone kwenye ongata rongai,email_sendemail,5
+1637,4327,je ni baridi sana kwenda kuogelea,weather_query,9
+1638,16996,nahitaji kutuma barua pepe kwa asha,email_sendemail,5
+1639,10121,jinsi ya kuunda pilau,cooking_recipe,3
+1640,4211,unadhani itakuwa sawa kuvaa kaptula wiki hii,weather_query,9
+1641,277,hali ya hewa huko paris iko aje,weather_query,9
+1642,11870,ni filamu gani za kisasa zinazocheza katika eneo langu,recommendation_movies,7
+1643,16180,tuma barua kwa juma mwambie tutakutana leo saa moja jioni kwa chakula cha jioni java,email_sendemail,5
+1644,699,ripoti ya hali ya hewa,weather_query,9
+1645,16595,sambaza barua pepe,email_sendemail,5
+1646,16516,jibu barua pepe hii,email_sendemail,5
+1647,16378,alexa tumia mama barua pepe sasa,email_sendemail,5
+1648,16033,tuma barua kwa abdi l ukiuliza juu ya malipo yanayotarajiwa,email_sendemail,5
+1649,7340,ghaiti mkutano wangu wa kesho,calendar_remove,2
+1650,9195,ondoa tukio hili kwenye arifa yangu ya kalenda,calendar_remove,2
+1651,238,kuna kengele zozote,alarm_query,0
+1652,4593,tafadhali niambie kuhusu kengele zijao,alarm_query,0
+1653,3150,kengele yangu italia lini asubuhi,alarm_query,0
+1654,12191,kata tiketi ya gari la moshi kutoka tanzania hadi nairobi,transport_ticket,8
+1655,7761,badilisha kalenda yangu ya leo,calendar_remove,2
+1656,17024,mtumie mama barua pepe na ujue hali ya hewa ikoje kwa wiki,email_sendemail,5
+1657,6916,ondoa matukio yote kwenye kalenda,calendar_remove,2
+1658,8862,tafadhali futa mikutano yote ya leo baada ya saa moja jioni,calendar_remove,2
+1659,16458,tuma barua pepe kwa newmail at gmail dot com,email_sendemail,5
+1660,12490,unaweza hifadhi kiti kwenye gari la moshi kuelekea garissa ijumaa ijayo asubuhi,transport_ticket,8
+1661,5451,kuna jua nje,weather_query,9
+1662,5496,je nione filamu hii,recommendation_movies,7
+1663,10046,je napika aje nyama ya ugumu wa wastani,cooking_recipe,3
+1664,8969,futa tukio la baadaye kutoka sehemu niliyokuwa na fanyia kazi,calendar_remove,2
+1665,7063,futa matukio yote kwa kalenda yangu,calendar_remove,2
+1666,7062,tafadhali futa matukio kwenye kalenda yangu,calendar_remove,2
+1667,1865,joto saa hii,weather_query,9
+1668,3025,hali ya hewa ya nairobi,weather_query,9
+1669,750,punguza sauti hadi asilimia kumi,audio_volume_down,1
+1670,11765,michezo ya kujifunza,recommendation_movies,7
+1671,2557,hali ya hewa mombasa iko vipi,weather_query,9
+1672,9684,endelea kitabu cha kusikiliza,play_audiobook,6
+1673,6137,nivae koti nje,weather_query,9
+1674,16246,tuma barua pepe kwa joanne kwa a. o. l. dot com na uongeze kama mwasiliani mpya,email_sendemail,5
+1675,4470,je ni utabiri gani wa sasa wa mombasa,weather_query,9
+1676,7649,futa matukio yote kwa kalenda,calendar_remove,2
+1677,12389,ninunulie tiketi ya treni,transport_ticket,8
+1678,3504,hali ya hewa iko aje toronto leo,weather_query,9
+1679,204,nikona kengele yoyote imewekwa,alarm_query,0
+1680,8242,olly futa kila kitu kwenye kalenda yangu kwa mwaka uliobakia,calendar_remove,2
+1681,6082,je nipange kufagia theluji nje ya nyumba,weather_query,9
+1682,650,nahitaji kuweka kengele ni ngapi nimeweka,alarm_query,0
+1683,1690,olly nini utabiri wa hali ya hewa ya wiki hii,weather_query,9
+1684,15826,kujibu yote niko njiani,email_sendemail,5
+1685,207,niambie hali ya hewa ya mombasa,weather_query,9
+1686,10158,waweza niambia jinsi ya kupika biskuti,cooking_recipe,3
+1687,11872,unaweza pendekeza filamu zozote zinazochezwa kwa sasa katika eneo langu,recommendation_movies,7
+1688,7544,futa miadi yote kwa kalenda kesho,calendar_remove,2
+1689,7994,futa matukio yote kwenye kalenda yangu,calendar_remove,2
+1690,17149,ninataka kuangalia tarehe zinazopatikana za asha ili umtumie barua na kumuuliza kuihusu,email_sendemail,5
+1691,97,je mvua itanyesha,weather_query,9
+1692,16404,mtumie abdi barua pepe,email_sendemail,5
+1693,16939,jibu anwani yangu kwa asha,email_sendemail,5
+1694,5295,unaeza punguza sauti kiasi,audio_volume_down,1
+1695,12506,ninunulie tiketi ya gari la moshi kuelekea mombasa,transport_ticket,8
+1696,15875,tuma barua pepe kwa asha kuwa niko njiani kuelekea nyumbani,email_sendemail,5
+1697,16783,mama yangu anahitaji hali ya hewa ya kila wiki itumwe kwake,email_sendemail,5
+1698,2050,angalia hali ya hewa ya jiji la alabama,weather_query,9
+1699,1399,mimi daima makini,weather_query,9
+1700,4766,je nitahitaji kuvaa koti leo asubuhi,weather_query,9
+1701,12053,ni filamu gani zilizopimwa sana zinacheza wikendi hii,recommendation_movies,7
+1702,10001,jinsi ya kuunda siagi kutoka kwa maziwa,cooking_recipe,3
+1703,16538,ningependa ufungue barua pepe na uandike mpya,email_sendemail,5
+1704,10198,nitafutie resipe bora zaidi ya spagetti,cooking_recipe,3
+1705,2340,niambie hali ya hewa ya jiji la nairobi kwa sasa,weather_query,9
+1706,16329,jibu barua pepe ya asha,email_sendemail,5
+1707,17171,tafadhali andika kwa barua pepe hii,email_sendemail,5
+1708,5585,je ninahitaji kujipaka mafuta ya jua leo,weather_query,9
+1709,16567,tuma barua pepe kwa baba kuhusu kurekebisha gari langu,email_sendemail,5
+1710,11637,niambie ni filamu gani ilio na kiwango kizuri cha i. m. d. b. na inaendlea katika kumbi za filamu karibu na mimi,recommendation_movies,7
+1711,9750,kwa kutumia kitufe cha kusitisha cheza,play_audiobook,6
+1712,9818,niletee kitabu cha sauti kipya zaidi,play_audiobook,6
+1713,16556,jibu barua pepe iliyotoka kwa kevo,email_sendemail,5
+1714,9176,toa sherehe ya tukio kwa kalenda,calendar_remove,2
+1715,12803,tafadhali kata tiketi ya treni kwenda nairobi,transport_ticket,8
+1716,7921,futa matukio zote zimepangwa,calendar_remove,2
+1717,16980,mtumie mtu barua,email_sendemail,5
+1718,9083,futa maelezo yote katika tukio,calendar_remove,2
+1719,1556,tafadhali nipe ripoti ya hali ya hewa ya wiki hii,weather_query,9
+1720,16675,tuma barua pepe kwa anwani joejoe at gmail dot com,email_sendemail,5
+1721,6362,niangalie filamu gani,recommendation_movies,7
+1722,859,utabiri wa hali ya hewa,weather_query,9
+1723,15856,tuma barua pepe kwa anwani za barua pepe za hivi karibuni,email_sendemail,5
+1724,398,je kutakuwa na joto kesho,weather_query,9
+1725,3897,hali ya hewa itakuwa aje huko austin tarehe kumi na sita machi,weather_query,9
+1726,3506,utabiri wa hali ya hewa wa leo,weather_query,9
+1727,10008,olly niambie jinsi ya mboga upikwa,cooking_recipe,3
+1728,336,kuna theluji huko california,weather_query,9
+1729,5535,kama mvua inanyesha sitaenda kazini,weather_query,9
+1730,4765,je itanyesha ijumaa,weather_query,9
+1731,7911,ondoa chajio na mike kwenye kalenda yangu,calendar_remove,2
+1732,8283,unaweza kufuta kalenda yangu,calendar_remove,2
+1733,10118,nyama ya nguruwe hupikwa kwa joto gani,cooking_recipe,3
+1734,5649,uliza hali ya hewa leo asubuhi,weather_query,9
+1735,1081,nionyeshe orodha ya hali ya hewa ya kesho,weather_query,9
+1736,3869,kengele ya mlango wa nyuma imewekwa tayari kulia,alarm_query,0
+1737,3339,hali ya hewa iko aje,weather_query,9
+1738,10179,jinsi ya kubabeki nyama vizuri,cooking_recipe,3
+1739,5903,thibitisha nimeweka kengele ya saa kumi na mbili asubuhi,alarm_query,0
+1740,4237,hali ya hewa iko aje sasa hivi,weather_query,9
+1741,10151,nitafutie resipe ya keki,cooking_recipe,3
+1742,10013,chagua mbinu ya kupika,cooking_recipe,3
+1743,567,ni joto kiasi gani,weather_query,9
+1744,9963,mambo ya ajabu watu wanataka kujua,cooking_recipe,3
+1745,9807,kucheza kwa ajili yangu wimbo wanavokali kutoka viusasa,play_audiobook,6
+1746,12197,nitafutie tiketi ya garimoshi kwenda kisumu,transport_ticket,8
+1747,4401,nitahitaji kubeba br leo,weather_query,9
+1748,9735,endelea kitabu cha kusikiliza ya hivi karibuni,play_audiobook,6
+1749,805,ni sawa google punguza sauti yote ya kipaza sauti,audio_volume_down,1
+1750,8554,futa sherehe ya krismasi kanisani jumatano ijayo,calendar_remove,2
+1751,9037,weka alama kwenye matukio zote ya kalenda yaliyosalia ya leo kama imefutwa,calendar_remove,2
+1752,10205,nipatie resipe ya mchele,cooking_recipe,3
+1753,3555,kutakuwa na upepo usiku wa leo,weather_query,9
+1754,9970,kuna kitu ya kuifanyia kaimati isionje vibaya,cooking_recipe,3
+1755,10044,ni jinsi gani ya kutengeza nyama ya kuku kuanzia mwanzo,cooking_recipe,3
+1756,9766,cheza kitabu cha yakubu,play_audiobook,6
+1757,9703,unaweza cheza simulizi la kitabu changu cha hivi karibuni,play_audiobook,6
+1758,432,hali ya hewa iko aje sasa hivi nje,weather_query,9
+1759,513,kwa alama zetu,weather_query,9
+1760,1472,punguza sauti hadi ishirini,audio_volume_down,1
+1761,12762,tafadhali ninunulie tiketi ya gari la moshi ya kwenda,transport_ticket,8
+1762,10094,jinsi ya kupika omena,cooking_recipe,3
+1763,8897,ondoa miadi yangu yote ya leo,calendar_remove,2
+1764,4213,kubadilisha kiwango cha mlima kuwa pasifik,datetime_convert,4
+1765,10203,hatua zipi nafaa kufuata kuandaa pilau,cooking_recipe,3
+1766,10064,nafaa kula mboga ngapi kwa siku,cooking_recipe,3
+1767,9862,anza kitabu yangu greater than a tourist tena,play_audiobook,6
+1768,9882,anzisha tena kitabu ngugi wa thiong'o,play_audiobook,6
+1769,905,halijoto itakuwaje wiki kesho,weather_query,9
+1770,1936,je kunanyesha huko boston,weather_query,9
+1771,9927,olly ni muda gani wa kupika wali,cooking_recipe,3
+1772,5736,nionyeshe nyakati za kengele nimeweka za wiki,alarm_query,0
+1773,3800,hali ya hewa itakuwaje kesho huko mumbai,weather_query,9
+1774,2516,hali ya hewa iko aje wiki hii,weather_query,9
+1775,330,punguza sauti kiasi,audio_volume_down,1
+1776,10024,nitafutie maelezo ya kupika bata,cooking_recipe,3
+1777,6005,kutakuwa na upepo leo,weather_query,9
+1778,5698,je ninahitaji kuchukua mwavuli nje leo,weather_query,9
+1779,3026,hali ya hewa iko aje kwa wiki ijayo huko chicago,weather_query,9
+1780,335,natamani kujuwa hali ya hewa ya mombasa,weather_query,9
+1781,16619,tuma ujumbe wa baruapepe kwa chris kuhusu kazi kesho,email_sendemail,5
+1782,5891,kuna kengele zozote zimewekwa na ni gani,alarm_query,0
+1783,11930,ni filamu gani mpya nzuri,recommendation_movies,7
+1784,9665,rudisha nyuma kitabu cha kusikiliza na sekunde thelathini,play_audiobook,6
+1785,2247,je bado kutakuwa na mvua na baridi siku ya jumatano,weather_query,9
+1786,6953,ondoa yote kutoka kwenye kalenda,calendar_remove,2
+1787,16453,barua pepe rafiki yangu mipango yetu leo usiku,email_sendemail,5
+1788,16472,tafadhali tuma ujumbe wa barua pepe kwa anwani ya barua pepe ifuatayo hwu at gmail dot com,email_sendemail,5
+1789,17077,mtumie juma ujumbe wa shukrani kwenye barua pepe,email_sendemail,5
+1790,16508,ongeza nambari ya simu mpya kisha utume barua pepe,email_sendemail,5
+1791,2039,kunapendeza leo,weather_query,9
+1792,7285,ondoa vikao vyote vijavyo vya yoga,calendar_remove,2
+1793,301,hali ya hewa iko aje,weather_query,9
+1794,11735,olly rambo ni filamu nzuri,recommendation_movies,7
+1795,16177,jiu barua pepe,email_sendemail,5
+1796,10062,ni chakula kipi kizuri,cooking_recipe,3
+1797,16114,jibu barua pepe zote zilizopokelewa kutoka saa nne usiku hadi saa tatu asubuhi,email_sendemail,5
+1798,9830,tafadhali endelea kusoma walenisi,play_audiobook,6
+1799,15889,tafadhali unaweza kutuma na barua pepe kwa rafiki yangu susana kumjulisha kuwa sitaenda kanisani kesho,email_sendemail,5
+1800,7178,tafadhali tuma ujumbe wa sauti kwa bwana richard kuhusu kukutana naye tarehe ya kwanza ya februari mwaka wa elfu mbili kumi na saba saa kumi na moja jioni,email_sendemail,5
+1801,15940,jibu barua pepe ya mwisho kabisa,email_sendemail,5
+1802,8545,futa kalenda yangu,calendar_remove,2
+1803,12472,lipia tiketi ya garimoshi,transport_ticket,8
+1804,4785,je naweza kwenda nje na kaptula,weather_query,9
+1805,8432,ondoa mkutano wangu leo ​​saa saba mchana,calendar_remove,2
+1806,2346,ni joto gani la sasa miami,weather_query,9
+1807,7681,futa miadi yangu yote na daktari juma wiki hii,calendar_remove,2
+1808,16231,tafadhali jibu barua pepe ya asha ikisema kuwa wazo lake ni zuri,email_sendemail,5
+1809,10047,jinsi ya kupika huo mlo,cooking_recipe,3
+1810,5417,itakuwaje leo,weather_query,9
+1811,9845,rejelea kucheza kitabu changu cha sauti cha sasa,play_audiobook,6
+1812,7328,futa matukio na maudhui zote kutoka kwa kalenda yangu,calendar_remove,2
+1813,3245,je unajua kama kuna mvua leo,weather_query,9
+1814,15748,kutuma barua pepe kwa atieno akisema jana jioni ilikuwa pori,email_sendemail,5
+1815,5041,hali ya hewa,weather_query,9
+1816,8108,futa tukio linalofuata la kalenda,calendar_remove,2
+1817,5637,je ninahitaji kuleta koti usiku wa leo,weather_query,9
+1818,16118,tuma nisaidie kwa fatuma pekee,email_sendemail,5
+1819,1009,hali ya hewa itakuwaje wikendi hii,weather_query,9
+1820,4719,je halijoto itakuwa juu ya kuganda siku ya jumatano,weather_query,9
+1821,9938,nafaa kupika hamburger kwa muda gani kila upande,cooking_recipe,3
+1822,4724,kengele zangu ni gani,alarm_query,0
+1823,3783,hali ya hewa inakaa aje nairobi,weather_query,9
+1824,6121,jinsi hali ya hewa ni baridi hivi sasa,weather_query,9
+1825,8255,ghairi tukio lijalo,calendar_remove,2
+1826,846,ni kengele gani zitaniamsha kesho,alarm_query,0
+1827,3482,hali ya hewa ya leo iko aje springfield,weather_query,9
+1828,17131,tuma barua pepe kwa jill ambayo imewekwa kwa rasimu ya folda yangu,email_sendemail,5
+1829,2292,leo kutakuwa na jua,weather_query,9
+1830,9693,komesha kusitisha kwenye kitabu cha kusikiliza cha kaburi bila msalaba,play_audiobook,6
+1831,10228,nitatayarisha vipi nyakula vyangu vyote vya kupika,cooking_recipe,3
+1832,4635,punguza sauti ya spika,audio_volume_down,1
+1833,9989,naeza jifunza vipi kupika,cooking_recipe,3
+1834,10114,ni nini mimi nahitaji ili kupika chapati nzuri,cooking_recipe,3
+1835,409,nisomee kengele zangu,alarm_query,0
+1836,4140,ni wakati gani wa kudhani kuwa zaidi ya hamsini tena,weather_query,9
+1837,10221,kuunda biashara ya kiwanda cha kuunda chakula nyumbani kwetu ina faida na hasara,cooking_recipe,3
+1838,15768,unda barua pepe kwa toby katika tobytoday dot com,email_sendemail,5
+1839,16055,tuma barua pepe kwa rashid kuhusu fahim,email_sendemail,5
+1840,5750,je nitahitaji mwavuli siku ya leo,weather_query,9
+1841,1106,nataka kujua hali ya hewa ya nairobi,weather_query,9
+1842,4108,kuna kengele ya saa kumi asubuhi,alarm_query,0
+1843,8181,unaweza toa madaraka katika kalenda yangu,calendar_remove,2
+1844,9867,nijulishe vitabu vya sauti ambavyo mimi nimevisikiza,play_audiobook,6
+1845,6854,futa tukio linalofuata kwenye kalenda,calendar_remove,2
+1846,5778,hali ya hewa iko aje,weather_query,9
+1847,1079,hali ya hewa itakuwaje kesho katika eneo hii,weather_query,9
+1848,16728,mwambie salim nashukuru kwa kunifikia,email_sendemail,5
+1849,11696,ni filamu gani ziko kwenye sinema ya mtaa,recommendation_movies,7
+1850,6316,hali ya hewa iko aje,weather_query,9
+1851,9939,mafuta ya kukaanga mayai yanafaa kuwa joto gani,cooking_recipe,3
+1852,15876,tuma nakala ya bili kwa abdi kwa barua pepe,email_sendemail,5
+1853,16347,tuma ujumbe kwa mama mkwe wangu aweke nafasi kabla ya ijumaa au muda wake utaisha,email_sendemail,5
+1854,11657,ni masaa gani ya maonyesho bomas,recommendation_movies,7
+1855,9759,pumzika rejea,play_audiobook,6
+1856,12139,niagizie nafasi kwa gari la moshi,transport_ticket,8
+1857,5669,ni makadirio gani ya halijoto mchana huu,weather_query,9
+1858,9859,fungua audible na uendelee kucheza hadithi niliyokua nasikiza,play_audiobook,6
+1859,12069,olly ni sinema gani zinazoonyeshwa huko kenya cinema,recommendation_movies,7
+1860,1614,dalili zozote za mvua,weather_query,9
+1861,10106,nionyeshe resipe ya kuku iliyochemshwa,cooking_recipe,3
+1862,735,tafadhali unaweza punguza sauti yako,audio_volume_down,1
+1863,6853,nenda kwa tukio linalofuata kwenye kalenda na uifute,calendar_remove,2
+1864,5460,je nije na mwavuli sasa hivi,weather_query,9
+1865,9698,endelea kucheza mchaguo wa kitabu cha kusikiliza changu cha hivi karibuni,play_audiobook,6
+1866,285,kesho kutakuwa na upepo,weather_query,9
+1867,1198,niambie joto ilikuwaje katika jiji letu saa sita mchana,weather_query,9
+1868,5538,je nitahitaji kuweka mafuta ya kuzuia jua leo,weather_query,9
+1869,11703,ukumbi onyesha,recommendation_movies,7
+1870,11728,ni blockbuster gani kubwa zaidi wiki hii,recommendation_movies,7
+1871,16117,tuma kazi ya barua pepe kwa timu ratiba ya wiki hii,email_sendemail,5
+1872,10085,fafuta resipe tofauti,cooking_recipe,3
+1873,16957,anza barua pepe kwa bwana wangu,email_sendemail,5
+1874,8332,toa kufanya kwangu kwa mazoezi kutoka leo,calendar_remove,2
+1875,15780,tuma barua pepe kwa caroline unaendeleaje unaweza kunitumia sasisho za mradi uliopita hongera tomasz,email_sendemail,5
+1876,16727,jibu barua pepe yangu kutoka kwa sasha ukisema asante,email_sendemail,5
+1877,8851,ghairi tukio lijalo,calendar_remove,2
+1878,10063,ni nini katika curry,cooking_recipe,3
+1879,16267,tuma barua pepe kwa familia yangu nikisema nawapenda nyote,email_sendemail,5
+1880,5817,hali ya hewa ya mji wa nyumbani,weather_query,9
+1881,9806,nichezee wimbo wa madonna kutoka kitabu cha kusikiliza,play_audiobook,6
+1882,9723,anza kitabu cha kusikiliza tena,play_audiobook,6
+1883,1857,chini,audio_volume_down,1
+1884,1262,kengele yangu imewekwa ya lini,alarm_query,0
+1885,9858,chaguo langu kucheza kifaa kutoka mwisho,play_audiobook,6
+1886,1503,kama ni saa kumi jioni nairobi ni saa ngapi mombasa,datetime_convert,4
+1887,1313,nini utabiri wa hali ya anga kwa leo,weather_query,9
+1888,12140,hifadhi tiketi za gari la moshi,transport_ticket,8
+1889,5078,nahitaji koti,weather_query,9
+1890,860,hali ya hewa leo,weather_query,9
+1891,4926,utabiri wa hali ya hewa ya wiki hii,weather_query,9
+1892,3106,hali ya anga iko vipi leo,weather_query,9
+1893,4943,tafadhali ongea kwa upole zaidi,audio_volume_down,1
+1894,2080,kengele yangu ya kuamka ni ya saa kumi na mbili asubuhi,alarm_query,0
+1895,12400,niweke tiketi moja ya gari la moshi inayosafiri kwenda mji wa nakuru ukiondoka baada ya saa tatu asubuhi,transport_ticket,8
+1896,1707,zima spika hadi asilimia tano,audio_volume_down,1
+1897,9914,keki ya maziwa inatengenezwa vipi,cooking_recipe,3
+1898,2078,tafadhali punguza sauti kidogo,audio_volume_down,1
+1899,16644,jipange kutuma ujumbe wa majibu,email_sendemail,5
+1900,5210,nikona kengele gani zimewekwa za leo,alarm_query,0
+1901,10184,kiasi gani cha sukari huenda katika chai tamu,cooking_recipe,3
+1902,9039,futa ndoa tarehe tatu mwezi wa julai,calendar_remove,2
+1903,1484,kagua kengele nikonazo,alarm_query,0
+1904,4824,hali ya hewa wikendi hii,weather_query,9
+1905,5432,je kutakuwa na joto jingi masaa mawili,weather_query,9
+1906,10010,nitapika aje chakula,cooking_recipe,3
+1907,10089,ni resipe gani bora zaidi ya mpira wa nyama,cooking_recipe,3
+1908,5174,hali ya hewa ikoje kwa wiki nzima,weather_query,9
+1909,13401,hali ya hewa itakuwa masiku tatu kuanzia sasa hivi miji tano mikubwa iliyo karibu nami.,weather_query,9
+1910,16127,tuma barua pepe kwa asha,email_sendemail,5
+1911,15925,tumia familia barua pepe,email_sendemail,5
+1912,1037,nikona kengele gani zimewekwa za alhamisi,alarm_query,0
+1913,6762,ondoa siku kuu ya juni kwenye kalenda,calendar_remove,2
+1914,7284,futa uteuzi yangu wa daktari wa meno,calendar_remove,2
+1915,7077,tafadhali futa tukio linalofuata kwenye kalenda yangu,calendar_remove,2
+1916,10190,tafuta resipe ya nyama ya kuku,cooking_recipe,3
+1917,16831,tuma barua pepe ya mwaliko kwa asha,email_sendemail,5
+1918,15907,tuma nitafanya asante kwa john kama jibu la ujumbe wake wa mwisho,email_sendemail,5
+1919,3961,nionyeshe utabiri,weather_query,9
+1920,8408,toa tukio yangu ya chajio ya kesho,calendar_remove,2
+1921,9848,rejea niambie kitabu cha audio,play_audiobook,6
+1922,5360,ni eneo gani la wakati sisi ni katika tafadhali mabadiliko kwa saa,datetime_convert,4
+1923,8727,futa matukio yote,calendar_remove,2
+1924,12198,niagizie tiketi ya gari la moshi kwelekea nairobi,transport_ticket,8
+1925,5999,kuna tofauti ya masaa magapi kati ya london na new york,datetime_convert,4
+1926,16460,nina mawasiliano mapya newmail at gmail dot com tunga barua pepe,email_sendemail,5
+1927,16633,nina barua pepe mpya unaweza kutuma barua pepe,email_sendemail,5
+1928,1339,ni kengele gani zimewekwa asubuhi,alarm_query,0
+1929,7339,futa mkutano kesho,calendar_remove,2
+1930,5377,tafadhali angalia hali ya hewa ya jumanne,weather_query,9
+1931,2177,nitafutie hali ya hewa ya saa hii,weather_query,9
+1932,7543,futa matukio yote kwa kalenda yangu ya wiki ijayo,calendar_remove,2
+1933,8342,tafuta tukio langu lijalo na ufute tafadhali,calendar_remove,2
+1934,3131,je kuna baridi kiasi gani nje,weather_query,9
+1935,11792,ni filamu gani iliyo kama selina,recommendation_movies,7
+1936,4382,hali ya hewa ikoje wiki ijayo pande ya pasadena ca,weather_query,9
+1937,5664,ninahitaji kupaka mafuta ya kuzuia jua ninapoenda kwenye kilabu cha gofu,weather_query,9
+1938,3795,kuna digrii ngapi huko houston sasa hivi,weather_query,9
+1939,4328,nini utabiri wa siku tano,weather_query,9
+1940,12129,niagizie gari la moshi kutoka nairobi hadi mombasa siku mbili kutoka sasa,transport_ticket,8
+1941,12751,nunua tikiti ya treni kwa wiki moja kutoka sasa kutoka mombasa hadi nairobi,transport_ticket,8
+1942,3587,utabiri wa hali ya hewa wiki hii,weather_query,9
+1943,5587,leo inahitajika mafuta ya jua,weather_query,9
+1944,5586,nitahitaji viatu vya mvua,weather_query,9
+1945,6998,futa tukio la baadaye,calendar_remove,2
+1946,2223,hali ya hewa kule leisure city,weather_query,9
+1947,5510,kuna tofauti gani ya wakati kati ya hapa na pale,datetime_convert,4
+1948,9820,cheza kuku na mwewe kwa audible,play_audiobook,6
+1949,5973,nikona kengele imewekwa kabla saa kumi na mbili asubuhi,alarm_query,0
+1950,8852,ondoa tukio linalofuata,calendar_remove,2
+1951,1891,hali ya hewa leo iko aje,weather_query,9
+1952,16600,nataka kutuma barua pepe kwa rafiki jack at gmail dot com,email_sendemail,5
+1953,2736,mvua inanyesha sasa,weather_query,9
+1954,13435,ni mapishi gani bora zaidi kwa mapishi ya kahawa,cooking_recipe,3
+1955,16321,jibu tena kwa juma bakari,email_sendemail,5
+1956,4932,hali ya hewa itakuwa aje ijumaa,weather_query,9
+1957,15758,tuma barua pepe kwa juma ukimjulisha kuhusu mkutano wetu,email_sendemail,5
+1958,5343,kutakuwa na jua siku ya ijumaa,weather_query,9
+1959,3284,hali ya hewa iko aje huko miami,weather_query,9
+1960,5291,hali ya joto nje iko aje sasa,weather_query,9
+1961,10174,nitafutie resipe nzuri ya nyama,cooking_recipe,3
+1962,15956,olly mtumie barua pepe selina namjulisha kuwa tuko njiani,email_sendemail,5
+1963,16110,barua pepe zote zilizopokelewa kati ya saa nne usiku na saa moja asubuhi kila siku,email_sendemail,5
+1964,9884,rejelea greater than a tourist,play_audiobook,6
+1965,12080,tafadhali angalia filamu zinazo cheza karibu kwenye sinema,recommendation_movies,7
+1966,15846,imefikaje kwetu,email_sendemail,5
+1967,11989,olly ni filamu gani nzuri ambayo imetoka sasa,recommendation_movies,7
+1968,4354,hali ya hewa ya sasa denver iko aje,weather_query,9
+1969,4905,itakuwa baridi,weather_query,9
+1970,9129,futa tukio linalofuata la kalenda,calendar_remove,2
+1971,5800,nitahitaji koti baada ya saa nne usiku katika eneo langu,weather_query,9
+1972,8433,futa tukio langu la mkutano wa machi kumi na tisa saa saba mchana,calendar_remove,2
+1973,9671,anza kucheza nakupenda malaika mahali mimi mwisho kusimamishwa,play_audiobook,6
+1974,8054,futa matukio yote kuanzia machi tarehe saba,calendar_remove,2
+1975,4250,je mvua itanyesha baadaye leo,weather_query,9
+1976,5981,nifahamishe kuhusu kengele ulizoweka,alarm_query,0
+1977,4706,je ni utabiri gani katika eneo langu leo,weather_query,9
+1978,9937,nina papa ninawezaje kuandaa hii,cooking_recipe,3
+1979,16988,tafadhali sema kwa barua pepe iliyonitumia juma nahitaji pesa sasa ni dharura,email_sendemail,5
+1980,5779,hali ya hewa ya nairobi,weather_query,9
+1981,3965,nionyeshe orodha ya kengele,alarm_query,0
+1982,7748,futa tukio yangu zote katika kalenda yangu,calendar_remove,2
+1983,649,nikona kengele yoyote imewekwa ya leo,alarm_query,0
+1984,2222,hali ya hewa miami,weather_query,9
+1985,9038,ondoa mkutano wa nairobi,calendar_remove,2
+1986,3000,linganisha hali ya hewa nyumbani na san antonio texas,weather_query,9
+1987,12379,kata tiketi ya treni kutoka nairobi kwa savannah uhuru park,transport_ticket,8
+1988,4107,kengele gani zimewekwa kwa simu ya mkono,alarm_query,0
+1989,9668,nataka kumaliza kuskiza kitabu elfu moja mia tisa themanini na nne kutoka nilipo achia.,play_audiobook,6
+1990,8233,wacha turuke miadi kwa wakati,calendar_remove,2
+1991,15944,tumia msimamizi barua pepe,email_sendemail,5
+1992,17086,jibu hii tafadhali,email_sendemail,5
+1993,9786,cheza kitabu changu,play_audiobook,6
+1994,4144,nikumbushe kuhusu kengele zangu leo,alarm_query,0
+1995,6165,je nivae kizuia jua leo,weather_query,9
+1996,7251,ghairi sherehe ya sam,calendar_remove,2
+1997,179,niambie hali ya hewa,weather_query,9
+1998,15842,andika barua pepe ya mpokeaji asha,email_sendemail,5
+1999,4500,ripoti ya hali ya hewa ya kila wiki ni nini,weather_query,9
+2000,9785,fungua kitabu,play_audiobook,6
+2001,7361,toa tukio la siku ya kuzaliwa,calendar_remove,2
+2002,12163,unaweza kuweka tiketi ya gari la moshi ya mama yangu,transport_ticket,8
+2003,8980,ghairi miadi ya aprili tarehe tatu,calendar_remove,2
+2004,6754,toa matukio ya kalenda ya hii wiki,calendar_remove,2
+2005,16348,jibu barua pepe ya juma leo ukisema nitachelewa,email_sendemail,5
+2006,12753,nataka tikiti ya treni kutoka nairobi kwenda mombasa,transport_ticket,8
+2007,2614,mvua itanyesha siku yangu ya kuzaliwa,weather_query,9
+2008,2341,nahitaji kujua hali ya hewa ya sasa katika jiji la new york,weather_query,9
+2009,9836,wimbo wa pili,play_audiobook,6
+2010,4790,joto gani leo,weather_query,9
+2011,10181,je ni viungo gani katika pilau ya nazi,cooking_recipe,3
+2012,3933,nionyeshe kengele zangu zote zinazotumika,alarm_query,0
+2013,7390,ghairi miadi na daktari wa meno kwa wiki hii,calendar_remove,2
+2014,7078,futa kalenda yangu nzima,calendar_remove,2
+2015,12612,agiza tiketi ya gari la moshi kutoka mumbai hadi goa,transport_ticket,8
+2016,4397,unaeza ongea kwa utulivu zaidi tafadhali,audio_volume_down,1
+2017,12605,nitafute tiketi ya mapema zaidi ya gari la moshi inayoondoka ijumaa asubuhi kwenda nairobi,transport_ticket,8
+2018,9106,tafadhali rudisha kalenda yangu mwanzo,calendar_remove,2
+2019,6829,futa mikutano yote ya kesho,calendar_remove,2
+2020,16536,tuma barua pepe kwa msimamizi wangu,email_sendemail,5
+2021,16618,andika barua pepe kwa maria kuhusu kazi baadaye,email_sendemail,5
+2022,2256,je ninahitaji koti la mvua leo,weather_query,9
+2023,12705,programu ya tiketi ya gari la moshi ya kufungua,transport_ticket,8
+2024,10112,je unapikaje yai zuri,cooking_recipe,3
+2025,9780,rudia kucheza utengano,play_audiobook,6
+2026,4053,je kuna jua nje kwa wakati huu,weather_query,9

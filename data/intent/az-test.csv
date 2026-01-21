@@ -1,0 +1,566 @@
+id,text,intent,label
+50,olly mənə qrinviç vaxtı üstəgəl beş vaxtını de,datetime_convert,4
+61,mən hansı zəngli saatları təyin etmişəm,alarm_query,0
+63,mənə qudoklarım barədə məlumat ver,alarm_query,0
+100,həftənin proqnozu nədir,weather_query,9
+102,bu həftə hava necədir,weather_query,9
+103,mənə bu həftə üçün hava durumunu de,weather_query,9
+216,bugün hava necədir,weather_query,9
+219,sabah mən çətir gətirim,weather_query,9
+279,bakı üçün bu günün hava proqnozu nədir,weather_query,9
+299,hava necədir,weather_query,9
+319,iki gün sonra bakıda havanı de,weather_query,9
+333,bakıda hava şəraiti necədir,weather_query,9
+334,zəngilanda havanı bilmək istəyirəm,weather_query,9
+344,sabah yağışlı olacaq,weather_query,9
+348,sabah yağış yağacaq,weather_query,9
+430,indi hava necədir,weather_query,9
+491,bayırda soyuqdur,weather_query,9
+508,hansı zəngli saatlar quraşdırılmışdır,alarm_query,0
+512,işarələri almaq,weather_query,9
+590,hazırkı hava necədir,weather_query,9
+726,həftənin hava detallarını ümumiləşdir,weather_query,9
+738,bu gün çöldə nə qədər soyuqdur,weather_query,9
+764,bu həftə hava proqnozu nədir,weather_query,9
+790,yumşaq və ya ağır hava,weather_query,9
+796,mənim alarm ayarlarımı təsdiq et,alarm_query,0
+826,çöldəki hazırkı temperatur nə qədərdir,weather_query,9
+832,hey sabah üçün proqnozlaşdırılmış hava necədir,weather_query,9
+861,mənim qurulmuş zəngli saatlarım,alarm_query,0
+862,zəngli saat parametrləri,alarm_query,0
+944,bura ilə yaponiya arasında nə qədər vaxt fərqi var,datetime_convert,4
+951,indi bakıda hava necədir,weather_query,9
+1048,səs gücləndiricinin səsini azaldın,audio_volume_down,1
+1160,bu həftə hər gecə neçə dərəcə soyuq olacaq,weather_query,9
+1191,stokholmda günəş doğanda okinavada saat neçə olar,datetime_convert,4
+1249,bu həftə hava necə olacaq,weather_query,9
+1264,mənim sabah səhər üçün zəngli saatım qurulmuşdur,alarm_query,0
+1266,bakıda səhər saat beşdirsə burada saat neçədir,datetime_convert,4
+1308,bugünkü hava proqnozunu burada əldə edin,weather_query,9
+1351,bu həftə çöldə gözəl hava olacaq,weather_query,9
+1352,zəhmət olmasa səs gücləndiricinin səsini yavaşlatın,audio_volume_down,1
+1400,mən çox vaxt diqqət yetirirəm,weather_query,9
+1401,mən arabir diqqət yetirirəm,weather_query,9
+1404,zəhmət olmasa qəbələdə sabah üçün hava haqqında məlumat ala bilərəm,weather_query,9
+1458,qubada nə qədər istidir,weather_query,9
+1483,mən hansı zəngli saatları qurdum,alarm_query,0
+1513,bayırda temperatur nə qədərdir,weather_query,9
+1542,günəş par par parlayır günün qalanı üçün bu hava olacaq,weather_query,9
+1547,bu həftə mənim ərazimdə hava necədir,weather_query,9
+1549,bu həftə yağış yağacaq,weather_query,9
+1589,gələn çərşənbə axşamı hava günəşli olacaq,weather_query,9
+1635,mənim zəngli saatlarım saat neçədə çalır,alarm_query,0
+1639,səsi azalt zəhmət olmasa,audio_volume_down,1
+1646,bugün işə düşəcək hər hansı zəngli saat var,alarm_query,0
+1653,növbəti dəfə nə vaxt yağış yağacaq,weather_query,9
+1655,sabah günorta qar yağacaq,weather_query,9
+1658,mən qurulmuş bütün zəngli saatları görmək istəyirəm,alarm_query,0
+1683,sabahkı temperatur isti olacaq bəli ya yox,weather_query,9
+1684,bəli yoxsa xeyir sabah havanın temperaturu isti olacaq,weather_query,9
+1715,səsi əlli faiz aşağı sal,audio_volume_down,1
+1722,bakı üçün minimum temperatur nə qədərdir,weather_query,9
+1862,mənim zəngli saatım nə vaxt çalacaq,alarm_query,0
+1866,hazırkı hava hesabatı,weather_query,9
+1933,bu gecə temperaturda düşmə olacaq,weather_query,9
+2178,mənim yerimdə indiki hava vəziyyəti necədir,weather_query,9
+2220,bakıda hava,weather_query,9
+2258,bu gün mənə sviter lazımdır,weather_query,9
+2265,mənə hazırda lahıc ismayıllıda havanın necə olduğunu söylə,weather_query,9
+2309,sakit okean standart vaxtında səhər saat yeddidir,datetime_convert,4
+2320,bu cümə günü hava necədir,weather_query,9
+2322,sabah hava necə olacaq,weather_query,9
+2423,zəhmət olmasa mənə bakı üçün bugünkü hava proqnozunu ver,weather_query,9
+2451,yeddi yüz,datetime_convert,4
+2545,hava necədir,weather_query,9
+2611,hazırkı hava proqnozu,weather_query,9
+2615,gələn çərşənbə günü pencək geyinməliyəm,weather_query,9
+2673,növbəti həkim qəbulu üçün xatırlatma siqnalı qurmağı xatırladım,alarm_query,0
+2678,bu axşam yağış yağırmı,weather_query,9
+2679,temperatur təxminən eyni qalacaq yoxsa daha da soyuyacaq,weather_query,9
+2777,mən bugün çətir gətirməliyəm,weather_query,9
+2870,olly mənə qudoklarımı de,alarm_query,0
+2890,hazırkı hava,weather_query,9
+2917,həftəlik hava hesabatı,weather_query,9
+2957,səhər saat ona zəngli saat var,alarm_query,0
+3034,temperaturu de,weather_query,9
+3096,bakıda hava necədir,weather_query,9
+3161,sabah səhər saat altıya qurulmuş hər hansı zəngli saatım var,alarm_query,0
+3162,qurduğum zəngli saatlarımı mənə göstər,alarm_query,0
+3253,bu gün günorta yağış gözləyək,weather_query,9
+3305,bu həftə bakıda hava necədir,weather_query,9
+3306,həftə üçün hava proqnozu nədir,weather_query,9
+3337,otuz üç min yeddi yüz yetmiş dörd üçün hava hesabatı,weather_query,9
+3338,bakı üçün hava hesabatı,weather_query,9
+3406,on günlük proqnoz nədir,weather_query,9
+3407,bu həftə yağış və ya qar proqnozu varmı,weather_query,9
+3408,bu həftə sonu hava gözəl olacaq,weather_query,9
+3426,bayırda hava neçə dərəcədir,weather_query,9
+3447,şənbə günü hava yağış tələb edir,weather_query,9
+3474,səs,audio_volume_down,1
+3486,zəhmət olmasa daha yumşaq danış,audio_volume_down,1
+3503,bakıda hava necədir,weather_query,9
+3507,proqnozda qar var,weather_query,9
+3516,bugünkü havada yağıntı ehtimalı nə qədərdir,weather_query,9
+3532,zəhmət olmasa saat qurşağını kanadaya dəyişdir,datetime_convert,4
+3586,şəkidə hava necədir,weather_query,9
+3614,bugün günəşli bir gündür elə deyil,weather_query,9
+3669,mənə bir yerdə vaxdı deyin,datetime_convert,4
+3702,olly mənim sabaha təyin olunmuş hər hansı zəngli saatım var,alarm_query,0
+3771,mənə zəngli saatlar haqqında danış,alarm_query,0
+3784,mənə bakı üçün hava məlumatını ver,weather_query,9
+3809,dinamikin səsini yavaşlat,audio_volume_down,1
+3852,lahıc ismayıllıda hal hazırda necə hava var,weather_query,9
+3870,bu həftə sonundakı uçuşum üçün mənim yuxudan oyanma alarmım saat neçəyə qurulub,alarm_query,0
+3884,təyin olunmuş hazırkı zəngli saatları siyahıya sal,alarm_query,0
+3886,hal hazırda siyahıda hər hansı zəngli saat var,alarm_query,0
+3894,onu təkrar oxu,play_audiobook,6
+3936,temperatur neçə dərəcədir,weather_query,9
+4104,bu gün qəbələdə hava necə olacaq,weather_query,9
+4112,hazırkı vaxtı g. m. t. dən e. s. t. yə çevir,datetime_convert,4
+4121,zəngli saatı saat neçəyə qurmusan,alarm_query,0
+4130,rəqs dərsi üçün xatırlatma zəngi qurulmuşdur,alarm_query,0
+4132,bu gün lahıc ismayıllıda yağış yağma ehtimalının faizini de,weather_query,9
+4145,bugün mən hansı zəngli saatları qurmuşam,alarm_query,0
+4168,zəhmət olmasa qəbələdəki hava durumunu yoxla,weather_query,9
+4212,bu axşam ot biçə biləcəyəmmi,weather_query,9
+4227,gələn həftə yağış yağacağı proqnozlaşdırılır,weather_query,9
+4266,bugün hava necədir,weather_query,9
+4290,bu axşam özümlə jaket gətirim,weather_query,9
+4312,bakıda hava on dərəcədən aşağı olacaq,weather_query,9
+4313,sabah bakıda yağış yağacaq,weather_query,9
+4355,olduğum yerdə hava necədir,weather_query,9
+4375,bütün zəngli saatları gözdən keçir,alarm_query,0
+4376,bugün çöldə hava necədir,weather_query,9
+4377,hazırkı hava necədir,weather_query,9
+4383,sabah hava necə olacaq,weather_query,9
+4402,bu gün çətir götürməliyəm,weather_query,9
+4412,gəncədə hava necədir,weather_query,9
+4436,necə pencək geyinməliyəm,weather_query,9
+4439,sumqayıtda hava necədir,weather_query,9
+4449,bu gün günorta saat birdə yağış yağacaqmı,weather_query,9
+4482,bu səhər mənim avtomobil yolumu kürəklə təmizləməliyəmmi,weather_query,9
+4486,mənə bu həftə üçün hava proqnozunu ver,weather_query,9
+4487,cümə axşamı yağış yağacaq,weather_query,9
+4524,olly bu gün üçün hava proqnozu nədir,weather_query,9
+4614,sabah temperatur qırxdan yuxarı olacaq,weather_query,9
+4673,zəhmət olmasa mənim bütün zəngli saatlarımı siyahıya sal,alarm_query,0
+4680,sandal yoxsa corabla ayaqqabı geyinməliyəm,weather_query,9
+4689,havanl bilirsən,weather_query,9
+4764,bazar ertəsi yağış yağacaq,weather_query,9
+4776,mənə hansı qudokların aktiv olduğunu de zəhmət olamasa,alarm_query,0
+4784,jaket geyinməlyəm,weather_query,9
+4845,mənim yerimlə sumqayıt arasında neçə saatlıq məsafə var,datetime_convert,4
+4851,mənim zəngli saatım qurulub,alarm_query,0
+4871,bayırda hava necədir,weather_query,9
+4917,bayırda temperatur,weather_query,9
+4933,indi yağış yağacaq,weather_query,9
+5006,mənim qudoklarım saat neçəyə qurulub,alarm_query,0
+5009,bu həftə mənə çətir lazım olacaq,weather_query,9
+5037,bu gün neçə dərəcə soyuqdur,weather_query,9
+5038,bu həftə hava necədir,weather_query,9
+5040,indi hava necıdir,weather_query,9
+5074,həftə ərzində hava necə idi,weather_query,9
+5085,şənbə günü üçün proqnoz nədir,weather_query,9
+5122,həmişə olan qudokun olduğunu yoxla görüm,alarm_query,0
+5128,azərbaycana səyahət biletini təsdiq et,transport_ticket,8
+5176,bu həftə hava necə olacaq,weather_query,9
+5204,səhər saat səkkiz bakı vaxtını nyu york vaxtına çevir,datetime_convert,4
+5219,dinamikin səsini azalt zəhmət olmasa,audio_volume_down,1
+5301,iyirmi mart iki min on yeddinci ildə hava necə olacaq,weather_query,9
+5321,hava məlumatını göstər,weather_query,9
+5332,a. b. ş. və kanada arasındakı vaxt,datetime_convert,4
+5333,birləşmiş krallıq və birləşmiş ştatlar arasındakı vaxt fərqi,datetime_convert,4
+5339,aşağı soyutma vəziyyəti,weather_query,9
+5433,sonra yağış yağacaq,weather_query,9
+5439,mənə gecə üçün çətir lazımdır,weather_query,9
+5465,bugün səndəllərimi geyinə bilərəm,weather_query,9
+5468,günəş eynəyi götürməyimə ehtiyac var,weather_query,9
+5481,səsi azalt,audio_volume_down,1
+5497,sumqayıt və bakı arasındakı vaxt fərqi nədir,datetime_convert,4
+5523,səkkiz otuzu g. m. t. dörddən g. m. t. beş otuza çevir,datetime_convert,4
+5524,hazırda hava,weather_query,9
+5529,dağ gəzintisinə nə vaxt getməliyəm,weather_query,9
+5577,axşam çox fırtınalı olarsa tam örtülü jaket tələb edəcəyəm,weather_query,9
+5578,qışda səhər isti corablara ehtiyacım olacaq,weather_query,9
+5590,temperaturu aç,weather_query,9
+5611,səsi azalt,audio_volume_down,1
+5650,bu gün axşam hava durumunu soruş,weather_query,9
+5661,indi plaş götürməliyəm,weather_query,9
+5721,mənə bu ərazidə sabahın hava durumunu göstər,weather_query,9
+5722,bu həftə üçün yeddi günlük proqnozu göstər,weather_query,9
+5732,tezliklə avtomobilimin təkərlərini qar təkərlərinə dəyişim,weather_query,9
+5758,paytaxtda hava necədir,weather_query,9
+5797,çölə çıxmazdan əvvəl plaş geyinməliyəm,weather_query,9
+5823,iyirmi faiz azalt,audio_volume_down,1
+5837,mənə bu həftənin havası haqqında məlumat ver,weather_query,9
+5871,bu gün bakının iqlimi necədir,weather_query,9
+5902,yoxla gör zəngli saat səhər saat altıya təyin olunmuşdur,alarm_query,0
+5953,şəhər yaşamaq üçün daha ucuz yoxsa bahadır,weather_query,9
+5955,qanun və qayda cəhətdən şəhər nə qədər təhlükəsizdir,weather_query,9
+5974,mən günorta həbləri qəbul etmək üçün zəngli saat qurmuşam,alarm_query,0
+5996,bu günorta mənim qar ayaqqabılarım mənə lazım olacaq,weather_query,9
+6023,yapışqan gecə olacaq,weather_query,9
+6024,bu gün işə sviter və ya palto götürməliyəm,weather_query,9
+6025,bu günorta mənə günəş kremi lazımdırmı,weather_query,9
+6039,sabah yağışlı gün olacaq,weather_query,9
+6050,daha sonra günəş kreminə ehtiyacım olacaq,weather_query,9
+6069,bu gün fırtına ola bilər,weather_query,9
+6093,lyuku açmalıyam,weather_query,9
+6101,hazırda qurulmuş hər hansı zəngli saat var,alarm_query,0
+6103,hey lahıc ismayıllıda bu gün hava necə olacaq,weather_query,9
+6116,bu həftə hava haqqında məlumat,weather_query,9
+6127,çətir məsləhət görürsən,weather_query,9
+6151,bu günün hava məlumatını bilmək istəyirəm,weather_query,9
+6172,günəş eynəkləri bu gün üçün yaxşı seçimdir,weather_query,9
+6177,bu gün mənə çətir lazım olacaq,weather_query,9
+6178,jaket geyinməliyəm,weather_query,9
+6194,bugün hava necədir,weather_query,9
+6289,bugün hava necədir,weather_query,9
+6376,iki min on altıdan yaxşı iran filmi hansıdır,recommendation_movies,7
+6411,gələn çərşənbə günü hava necə olacaq,weather_query,9
+6542,yumşaq pendir bərk pendirdən daha yaxşıdır,cooking_recipe,3
+6713,çərşənbə günü olan iş görüşünü ləğv et,calendar_remove,2
+6726,növbəti görüşü ləğv et,calendar_remove,2
+6729,təranənin evindəki səhər yeməyini ləğv et,calendar_remove,2
+6755,zəhmət olmasa təqvimimi təmizlə,calendar_remove,2
+6761,təqvimimdən səhər saat doqquzdakı görüşü çıxart,calendar_remove,2
+6798,növbəti planımı sil,calendar_remove,2
+6918,təqvimdən planları sil,calendar_remove,2
+6928,bütün planları sil,calendar_remove,2
+6958,təqvimimdə heç bir plan olmadığından əmin ol,calendar_remove,2
+6997,sonrakı planı sil,calendar_remove,2
+7025,təqvimdən yeni ili çıxart,calendar_remove,2
+7080,təqvimimdəki hər şeyi sil,calendar_remove,2
+7087,təqvimimdən sabahkı görüşü sil,calendar_remove,2
+7117,mənim təqvimindən on doqquzu üçün olan tədbirləri sil,calendar_remove,2
+7289,ruslan ilə olan bütün planları sil,calendar_remove,2
+7294,təqvimdən anar vəliyev ilə olan görüşü sil,calendar_remove,2
+7295,zəhmət olmasa təqvimimi təmizlə,calendar_remove,2
+7500,növbəti planı silə bilərsən,calendar_remove,2
+7609,çərşənbə axşamına olan görüş xatırlatmasını sil,calendar_remove,2
+7660,bu gün günorta saat üçdən sonrakı bütün görüşlərimi sil və mənə ətraflı məlumat ver,calendar_remove,2
+7680,carı ay üçün təqvimimdəki bütün qolfla bağlı planlarımı sil,calendar_remove,2
+7741,şənbə günü üçün bütün təqvimimi təmizlə,calendar_remove,2
+7820,təqvimdəki bütün planları sil,calendar_remove,2
+7836,bütün planları sil,calendar_remove,2
+7870,təqvimdən planı sil,calendar_remove,2
+7878,təqvimimi sil,calendar_remove,2
+7890,bu günə olan saç kəsimini sil,calendar_remove,2
+7891,bu axşamkı şam yeməyini ləğv et,calendar_remove,2
+7892,bu gün növbəti planı sil,calendar_remove,2
+7912,aleksa təqvimimdən seymur ilə şam yeməyini çıxart,calendar_remove,2
+7922,tapşırıqları aç gələcək tədbirləri sil,calendar_remove,2
+7953,zəhmət olmasa şənbə günü olan həkimlə görüşümü sil,calendar_remove,2
+7993,mənim təqvimimdən bütün tədbirləri sil,calendar_remove,2
+8001,cümə günü üçün planlaşdırdığım saç kəsimini silə bilərsən,calendar_remove,2
+8055,martın yeddisi üçün olan görüşümü sil,calendar_remove,2
+8100,yenidən tərtib etmək üçün mənim görüşlərimi e poçtla göndərin,email_sendemail,5
+8182,diş həkimi randevusunu silə bilərsən,calendar_remove,2
+8241,ilin qalan hissəsi üçün təqvimimdən hər şeyi sil,calendar_remove,2
+8276,zəhmət olmasa növbəti qeyd olunmuş görüşümü sil,calendar_remove,2
+8284,təqvimdən ad gününü çıxart,calendar_remove,2
+8302,gələn bazar ertəsindəki görüşü sil,calendar_remove,2
+8409,sabahkı şam yemeyimi sil,calendar_remove,2
+8410,bazar ertəsi üçün olan şam yeməyi planımı sil,calendar_remove,2
+8430,mənim bütün görüşlərimi ləğv elə,calendar_remove,2
+8431,cədvələ qeyd olunmuş bütün planlarımı sil,calendar_remove,2
+8516,təqvim məlumatını sil,calendar_remove,2
+8562,bu gün günorta saat ikidə olan görüşümü sil,calendar_remove,2
+8631,təqvimimdən onu sil,calendar_remove,2
+8666,təqvimimdən bütün planları sil,calendar_remove,2
+8670,təqvimdən bütün planları sil,calendar_remove,2
+8732,bütün tarixləri sil,calendar_remove,2
+8769,növbəti planı sil,calendar_remove,2
+8771,martın iyirmi üçünə qeyd etdiyim alış veriş gəzintisini sil,calendar_remove,2
+8853,mənim növbəti fəaliyyətimi sil,calendar_remove,2
+8856,təqvimimdəki bütün planları sil,calendar_remove,2
+8888,sil onu,calendar_remove,2
+8925,təqvimimdəki bütün planları sil,calendar_remove,2
+8949,zəhmət olmasa xatırlatmanı sil,calendar_remove,2
+8985,yaxşı google təqvimdən əlinin ad gününü sil,calendar_remove,2
+9009,təqvimimdən ildönümü planını sil,calendar_remove,2
+9015,təqvimimdəki bütün planları sil,calendar_remove,2
+9030,bu gün üçün olan həkim qəbulumu təqvimdən sil,calendar_remove,2
+9074,zəhmət olmasa o planı sil,calendar_remove,2
+9088,təqvimimdəki hər şeyi sil,calendar_remove,2
+9095,bu axşamkı şəhla ilə şam yeməyini sil,calendar_remove,2
+9182,hava limanından valideynlərimi götürmək planımı ləğv et,calendar_remove,2
+9194,zəhmət olmasa təqvimimdən bu planı sil,calendar_remove,2
+9669,mən gülseren budayıcıoğlunun camdakı kız romanını dinləmək istəyirəm,play_audiobook,6
+9674,mənim ən sevdiyim tarzan audio kitabını oxuda bilərsən,play_audiobook,6
+9676,çingiz abdullayevin audio kitabını qaldığım yerdən davam et,play_audiobook,6
+9678,qürur və qərəzi aça bilərsən,play_audiobook,6
+9680,harry potteri axırıncı dəfə qaldığım yerdən oxutmağa başla,play_audiobook,6
+9689,kitaba fasilə ver,play_audiobook,6
+9691,bakının tarixi audio kitabını aç,play_audiobook,6
+9694,bağışlaram səninin çalınmasına davam et,play_audiobook,6
+9700,mehriban əliyevanın bioqrafiyasını oxut,play_audiobook,6
+9718,əli və ninoya davam et,play_audiobook,6
+9720,harry potterin dördüncü kitabına davam et,play_audiobook,6
+9726,audiokitabı dayandır,play_audiobook,6
+9732,da vinçi kodu audio kitabını aç,play_audiobook,6
+9746,fəxr və qərəzi oxut,play_audiobook,6
+9754,olly gəl əli və ninoya qulaq asaq,play_audiobook,6
+9760,oxumağı saxla,play_audiobook,6
+9761,saxla,play_audiobook,6
+9767,paralel həyat audio kitabını aç,play_audiobook,6
+9768,audio kitabı mənə oxumağa davam et,play_audiobook,6
+9772,zəhmət olmasa audio kitabı oxumağa davam et,play_audiobook,6
+9812,harri potter audio kitabını aç və ən son çalınan yerdən oynat,play_audiobook,6
+9815,xahiş edirəm bu səsləndirməni audio kitabda oxut,play_audiobook,6
+9827,audio kitabdan qaya qrupunun mahnısına davam et,play_audiobook,6
+9844,qulaq asdığım audio kitabın son fəslinə davam et,play_audiobook,6
+9851,yeniyetməyə keçən dəfə qaldığım yerdən davam et,play_audiobook,6
+9853,aleksa conun kitabında qaldığım son hissəni başlat,play_audiobook,6
+9855,etiraflar vadisi audiosunu oxutmağa yenidən başla,play_audiobook,6
+9856,alacaqaranlıq pleylistini oxut,play_audiobook,6
+9857,mənim seçimim birinci audio açmaqdır,play_audiobook,6
+9871,mənim sevimli kitabımı oxut,play_audiobook,6
+9875,mənim üçün çingiz abdullayev kitabından biraz da oxu,play_audiobook,6
+9878,zəhmət olmasa mənim audio kitabıma davam et,play_audiobook,6
+9881,audio kitab aç,play_audiobook,6
+9885,oxşar audionu çal zəhmət olmasa,play_audiobook,6
+9895,silmarillionu oxumağa davam et,play_audiobook,6
+9896,gələcəyin prezidentləri üçün fizika kitabının beşinci fəsilinə başla,play_audiobook,6
+9897,qurban səid əli və nino oynat,play_audiobook,6
+9902,mənə sevgi ilə bağlı təsadüfi bir audio kitab oxut,play_audiobook,6
+9909,hərb və sülh romanını oxutmağa davam et,play_audiobook,6
+9912,oli yumurtaları neçə dəqiqə qaynadım,cooking_recipe,3
+9918,necə pizza bişirə bilərəm,cooking_recipe,3
+9923,yumurtanı neçə dəqiqə qaynadım,cooking_recipe,3
+9924,mənə reseptin de,cooking_recipe,3
+9930,yumurtanı neçə dəqiqə qaynadım,cooking_recipe,3
+9931,oli yumurtanı neçə dəqiqə qaynadım,cooking_recipe,3
+9940,mənə şokoladlı tort resepti tap,cooking_recipe,3
+9941,necə bozbaş bişirə bilərəm,cooking_recipe,3
+9942,paxlavanın üçinə ümumilkdə nə gedir,cooking_recipe,3
+9943,əriştə etmək nə qədər vaxt alır,cooking_recipe,3
+9952,mənə yemək bişirmə dərsi ver,cooking_recipe,3
+9955,toyuq qızartması bişirmək ilə bağlı mənə video göstər,cooking_recipe,3
+9956,yağın əvəzinə nə istifadə edə bilərəm,cooking_recipe,3
+9961,sobada kartofları qızartmaq üçün ən yaxşı dərəcə neçədir,cooking_recipe,3
+9962,plov bişirməyin ən yaxşı üsulu necədir,cooking_recipe,3
+9964,qida emalı barədə bilgi,cooking_recipe,3
+9966,makaron bişirməyin ən asan yolu nədir,cooking_recipe,3
+9969,zəfəran əvəzinə hansı ədviyyat istifadə oluna bilər,cooking_recipe,3
+9971,istilik daha yaxşı nə keçirir mis dibli qazanlar və ya çuqun qazanlar,cooking_recipe,3
+9976,hey roboy mənə qrenki bişirmək üçün lazım olan ingredientlər siyahısını ver,cooking_recipe,3
+9977,zəhmət olmasa internetdə axtarış et və youtubdan italyan yeməkləri bişirmək üçün uyğun olan videoları göstər,cooking_recipe,3
+9979,mənə bir az yulaf bişir,cooking_recipe,3
+9980,bugün menyuda nə var zəhmət olmasa ona qaynadılmış tərəvəzlər də əlavə et,cooking_recipe,3
+9986,qaynama,cooking_recipe,3
+9994,mərci şorbası bişirmək üçün mənə resept deyə bilərsən,cooking_recipe,3
+10016,beş cümlə ilə şükran günü üçün hind toyuğu bişirmək prosesi necədir,cooking_recipe,3
+10019,on iki ədəd yulaf peçenyelərini necə hazırlaya bilərəm zəhmət olmasa mənə denən,cooking_recipe,3
+10023,quzu təndir bişirmək üçün mənə nə lazımdır,cooking_recipe,3
+10027,yemək bişirmə qaydaları,cooking_recipe,3
+10031,mənə bazarlıq siyahımdakı ərzaqlardan ibarət olan resept lazımdır,cooking_recipe,3
+10038,mənim bişirmək üçün yaxşı fikirlərə ehtiyacım var,cooking_recipe,3
+10045,mənə ev üsulu toyuq supu üçün resept verə bilərsən,cooking_recipe,3
+10048,hind toyuğu necə bişirə bilərəm,cooking_recipe,3
+10049,mənə de necə lülə kabab bişirim,cooking_recipe,3
+10053,necə pizza bişirə bilərəm,cooking_recipe,3
+10055,toyuq qızartmasının resepti necədir,cooking_recipe,3
+10061,nahar üçün nə edim,cooking_recipe,3
+10072,sobada toyuq bişirmə vaxtı,cooking_recipe,3
+10076,qabartma tozunun yerinə soda istifadə edə bilərsən,cooking_recipe,3
+10077,bu axşam şam yeməyinə resept tap,cooking_recipe,3
+10078,şam yeməyinə nə bişirim,cooking_recipe,3
+10080,gəlin birlikdə küftə bişirək,cooking_recipe,3
+10081,mənə de küftə necə bişirmək olar,cooking_recipe,3
+10090,sazan üçün resept əldə edə bilərəm,cooking_recipe,3
+10093,makaron necə bişirilir,cooking_recipe,3
+10097,dönər istəyərdim,cooking_recipe,3
+10099,bilirsən südlü aş necə bişirmək olar,cooking_recipe,3
+10100,plov üçün resept bilirsən,cooking_recipe,3
+10105,medium rare əldə etmək üçün steyki nə qədər bişirməliyəm,cooking_recipe,3
+10107,mənə vegetarian plovunun resepti lazımdır,cooking_recipe,3
+10119,altı kiloluk hinduşkanı bişirməyə neçə dəqiqə lazımdır,cooking_recipe,3
+10125,qızartma və qaynatma arasındakı fərq nədir,cooking_recipe,3
+10132,steyki neçə dəqiqə bişirməliyəm ki medium olsun,cooking_recipe,3
+10150,necə qutab bişirmək olar,cooking_recipe,3
+10156,bilmək istəyirəm bibər dolması necə bişirmək olar,cooking_recipe,3
+10164,mən makaronu nə qədər vaxt bişirirəm,cooking_recipe,3
+10166,alma piroqu resepti axtar,cooking_recipe,3
+10171,balıq supu üçün resept hansıdır,cooking_recipe,3
+10177,necə dolma bişirmək olar,cooking_recipe,3
+10182,mənə qayğanaq üçün neçə yumurta lazımdır,cooking_recipe,3
+10197,mənə spagetti üçün ən yaxşı resepti göstər,cooking_recipe,3
+10206,düyü necə hazırlanır,cooking_recipe,3
+10213,məşhur plov reseptlərinin siyahısı,cooking_recipe,3
+10214,bir saat ərzində bişirilə bilən yeməklərin reseptləri,cooking_recipe,3
+10216,keks bişirmə avadanlığının alınması üçün internetə bax,cooking_recipe,3
+10217,cookingforu tətbiqində kabab üçün resept tap,cooking_recipe,3
+10220,tort bişirmək üçün mənə hansı ərzaqlar lazımdır,cooking_recipe,3
+10224,bu dadına görə belədir,cooking_recipe,3
+10226,makaron bişirməyin reseptini mənə de,cooking_recipe,3
+10772,bugünkü cədvəldən diş həkimi ilə randevumu çıxart,calendar_remove,2
+11273,j. k. rowlingdən harri potterin növbəti epizodunu oynat,play_audiobook,6
+11633,bugün kinoteatrda hansı filmlər nümayiş olunur,recommendation_movies,7
+11634,mən bugün hansı filmə baxmalıyam,recommendation_movies,7
+11636,ətrafımda hansı filmlər nümayiş olunur,recommendation_movies,7
+11695,hər hansı bir döyüş filmi təklifin var,recommendation_movies,7
+11733,yeni film yuxu kimi necedir,recommendation_movies,7
+11744,olly bu həftəsonu hansı yeni drama filmləri açılır,recommendation_movies,7
+11764,cisco sistemi,recommendation_movies,7
+11773,oskar namizədi olan bir film tap,recommendation_movies,7
+11812,bu gecə hansı filmlər göstərilir,recommendation_movies,7
+11858,yaxşı rəyləri olan filmlər,recommendation_movies,7
+11861,hazırda ən yüksək reytinqə malik film hansıdır,recommendation_movies,7
+11862,mənə film məsləhət gör,recommendation_movies,7
+11871,mənim ərazimdə nümayiş olunan bir film tövsiyə et,recommendation_movies,7
+11920,bu həftə hansı filmlər çıxır,recommendation_movies,7
+11932,mən bugün nəyə baxmalıyam,recommendation_movies,7
+11987,mənə yaxın filmlər tap,recommendation_movies,7
+11990,kinoteatrlarda sıxıcı olmayan hansı film var,recommendation_movies,7
+12104,kunfu panda üç,recommendation_movies,7
+12127,bazar günü səhər saat beşdə qatarla bakıya getməliyəm,transport_ticket,8
+12150,olly bu həftəsonu evrostarda mənə parisə bilet sifariş et,transport_ticket,8
+12162,qatar bileti sifariş edə bilərsən,transport_ticket,8
+12166,mənim üçün gəncədən qəbələyə qatar bileti sifariş et,transport_ticket,8
+12233,google bakıya qatar biletləri,transport_ticket,8
+12235,zəhmət olmasa bu həftə sonu üçün qatar bileti al,transport_ticket,8
+12281,zəhmət olmasa bakıdan sumqayıta qatar bileti sifariş et,transport_ticket,8
+12291,bakıya bilet,transport_ticket,8
+12293,bakıya bilet,transport_ticket,8
+12306,sumqayıta növbəti qatarda birinci sinif bilet bron edin,transport_ticket,8
+12308,mənə qatar bileti sifariş et,transport_ticket,8
+12339,çərşənbə axşamı səhər saat doqquz üçün bir tərəfə qatar bileti sifariş et,transport_ticket,8
+12340,bu cümə günü üçün iki nəfərlik qatar bileti sifariş edə bilərsən zəhmət olmasa,transport_ticket,8
+12381,dağıstanın mahacqala şəhərindən azərbaycanın bakı şəhərinə qatar bileti sifariş ver,transport_ticket,8
+12453,ən sərfəli qatar bileti bron et,transport_ticket,8
+12468,bakıya qatar bileti axtar,transport_ticket,8
+12469,bakıya qatar bileti al,transport_ticket,8
+12511,qatar bileti sifariş et,transport_ticket,8
+12536,zəhmət olmasa mənə bakıya qatar bileti sifariş et,transport_ticket,8
+12537,mənə gürcüstana ən ucuz qatar bileti tap,transport_ticket,8
+12606,mən bakıdan gəncəyə qatar bileti almalıyam,transport_ticket,8
+12607,gəncədən qəbələyə qatar bileti almalıyam,transport_ticket,8
+12689,bugün səhər saat səkkizə sumqayıta qatar bileti sifariş et,transport_ticket,8
+12722,bakıya qatar bileti sifariş et,transport_ticket,8
+12723,mənə bakıya bilet al,transport_ticket,8
+12724,mənə bakı ya qatar bileti tap,transport_ticket,8
+12802,qatar vasitəsilə bakıya bilet bron et,transport_ticket,8
+12813,zəhmət olmasa gəncədən gəncə ekspres qatarına bilet bron et,transport_ticket,8
+12814,zəhmət olmasa çərşənbə axşamı bakıdan sumqayıta bilet bron et,transport_ticket,8
+12846,zəhmət olmasa sabah səhər bakıdan gəncəyə qatar bileti bron et,transport_ticket,8
+12873,qatar bileti,transport_ticket,8
+12874,qatar bileti zəhmət olmasa,transport_ticket,8
+12883,bakıdan tovuza həftə sonu iyirmi altısına qatar bileti sifariş ver,transport_ticket,8
+13023,mənə reseptləri göstər,cooking_recipe,3
+13181,mənim ərazimd,recommendation_movies,7
+14646,mənə bugün füzuliyə ən ucuz aviabiletlər haqqında məlumat ver,transport_ticket,8
+14648,resept zəhmət olmasa,cooking_recipe,3
+15756,zəhmət olmasa mənim komandama email yaz,email_sendemail,5
+15765,cavidin emailinə cavab yaz,email_sendemail,5
+15796,nərminə email göndər,email_sendemail,5
+15802,cavidə cavab emaili yaz ki bu axşam gəlməyəcəyəm,email_sendemail,5
+15825,ataya cavab ver yaz ki mən gecikəcəm,email_sendemail,5
+15828,burada əlaqələrə əlavə olunacaq yeni email ünvanı var,email_sendemail,5
+15829,kontaktlara get və yeni email ünvanı əlavə et,email_sendemail,5
+15841,rövşənə yeni email yaz,email_sendemail,5
+15845,bu bizə necə gəldi,email_sendemail,5
+15847,biz necə kredit ala bilərik,email_sendemail,5
+15849,mənim müdirimə email göndər,email_sendemail,5
+15857,zəhmət olmasa siyahıya alınmış yeni email ünvanına göndər,email_sendemail,5
+15906,cavidə cavab olaraq sağ ol yaz,email_sendemail,5
+15911,nərmin üçün email hazırla,email_sendemail,5
+15942,bu emaili ən son emaillərə cavab olaraq göndər,email_sendemail,5
+15950,rauf şahbazovdan gələn emailə cavab yaz,email_sendemail,5
+15957,aygünə email yaz bildir ki biz yoldayıq,email_sendemail,5
+15994,cavidə email göndər və görüş üçün hansı vaxtın uyğun olduğunu soruş,email_sendemail,5
+15995,nərminə büdcə görüşü haqqında email yaz,email_sendemail,5
+16005,joseph ət gmail nöqtə coma email göndər,email_sendemail,5
+16024,rəhmana email yaz bildir ki mən sabah məşğulam,email_sendemail,5
+16028,hey siri iş yoldaşıma email yazmağa başla,email_sendemail,5
+16029,zəhmət olmasa iş yoldaşıma yeni email yaz,email_sendemail,5
+16032,zəhmət olmasa samirəyə sabahkı görüşlə bağlı email göndər,email_sendemail,5
+16045,ofisin açılış vaxt cədvəli üçün ismayıla email göndər,email_sendemail,5
+16049,ailəmə email göndərmək istəyirəm kömək edə bilərsən,email_sendemail,5
+16056,emailə cavab ver,email_sendemail,5
+16072,müdirimə e-poçt göndər ki bu gün gözlənilməz hadisə əlaqədar gecikəcəm iclası buraqdığıma görə ondan üzr istə,email_sendemail,5
+16082,cavidə emeyl göndər və ondan indi necə olduğunu soruş ona kömək etmək üçün bir şey edə bilərəm,email_sendemail,5
+16103,qardaşıma email göndər və toy ildönümü de,email_sendemail,5
+16120,yardım yalnız nərminə göndərilməlidir,email_sendemail,5
+16131,bu email mənim kontaktlarıma əlavə olunmalıdır,email_sendemail,5
+16148,cavidə sürətli cavab zəhmət olmasa email göndər,email_sendemail,5
+16162,cavab göndər,email_sendemail,5
+16166,nərminə cavab verə bilərsiniz ki mən növbəti üç həftə ərzində layihələrlə məşğul olacağam,email_sendemail,5
+16201,indi zəhmət olmasa cavid üçün yeni email yüklə və mesaj göndər,email_sendemail,5
+16221,nərminin emailini aç və yaz ki mən ona məlumat verəcəyəm,email_sendemail,5
+16245,joe ət a. o. l. nöqtə coma email göndər,email_sendemail,5
+16266,ailəmə email yaz ki hamınızı çox istəyirəm,email_sendemail,5
+16280,zəhmət olmasa mənim ailə və dostlar siyahımda olan nərminə emeyl göndər,email_sendemail,5
+16282,sabahkı bütün görüşləri ləğv etmək üçün asistentim nərminə email göndər,email_sendemail,5
+16296,anama email yaz de ki rəşadın ad günü şənliyi bazar günüdür,email_sendemail,5
+16297,cavidə email göndər de ki təşəkkür edirəm,email_sendemail,5
+16314,nərminə email göndər,email_sendemail,5
+16318,emeylə cavab yaz,email_sendemail,5
+16320,mən cavid imanovun emailinə cavab yazmaq istəyirəm,email_sendemail,5
+16375,bəhruza email yaz,email_sendemail,5
+16376,alexa zəhmət olmasa anama email yaz,email_sendemail,5
+16377,anama email göndər indi,email_sendemail,5
+16398,zəhmət olmasa emaili cavidə göndər,email_sendemail,5
+16401,nərminə email yaz ki salam bugün necəsən,email_sendemail,5
+16402,nərminə bugünün planlarını email at,email_sendemail,5
+16406,alexa email başla,email_sendemail,5
+16410,email yaz,email_sendemail,5
+16419,zəhmət olmasa cavid əmiyə email yaz ki bəli mən bunu hazırlaya bilərəm,email_sendemail,5
+16430,zəhmət olmasa anama və atama email yaz soruş necədirlər,email_sendemail,5
+16437,zəhmət olmasa bu emaili dostuma göndər,email_sendemail,5
+16438,mənə bu emeyli indi göndərmək lazımdır,email_sendemail,5
+16459,newmail ət gmail nöqtə com üçün yeni mesaj,email_sendemail,5
+16496,təkrar email göndərin,email_sendemail,5
+16501,zəhmət olmasa dostum nərminə email göndər ki necəsən,email_sendemail,5
+16506,yeni email ünvanı əlavə et və email göndər,email_sendemail,5
+16518,nərmin ibadova üçün yeni email əlavə et,email_sendemail,5
+16519,kontaktlara yeni email əlavə etməliyəm,email_sendemail,5
+16535,çinarəyə email yaza bilərsən,email_sendemail,5
+16559,cavidə bu səhər göndərdiyi emeyldən dörd yüz otuz cavabı olan bir məktub göndər,email_sendemail,5
+16560,müdirin emeylinə axşam saat dörddə olacağam cavabını yaz,email_sendemail,5
+16591,mənə indicə caviddən email gəlib mən ona bu anda cavab verməliyəm,email_sendemail,5
+16593,o axırıncı emailə mümkün olduqca tez cavab verilməlidir,email_sendemail,5
+16605,email yaz və mənim müdirimə göndər,email_sendemail,5
+16613,müdirə email yaz bildir ki mən gecikəcəyəm,email_sendemail,5
+16622,bu kontakta email göndər,email_sendemail,5
+16624,mənim xidmət problemlərim haqqında baktelekoma emeyl göndərilməlidir,email_sendemail,5
+16630,son emeylə cavab göndər,email_sendemail,5
+16698,mənim anamın emailinə cavab yaz,email_sendemail,5
+16701,aygünün emailinə cavab vermək istəyirəm,email_sendemail,5
+16703,ən axırıncı emailə cavab vermək istərdim,email_sendemail,5
+16717,cavidə email yazıb məzuniyyətdə olduğumu bildirə bilərsən,email_sendemail,5
+16729,babəkin emailinə cavab yaz bildir ki sabah onlarla görüşəcəyəm,email_sendemail,5
+16754,emaili diktə et,email_sendemail,5
+16780,juanpedro ət gmail nöqtə com email göndər,email_sendemail,5
+16791,yeni email yarat amma bu dəfə yeni email ünvanım var brandon ət example nöqtə com,email_sendemail,5
+16838,emeyli yeni e poçt ünvanına göndərə bilərsən,email_sendemail,5
+16872,mənim telefon rəhbərimdən nərmini tap və ona email göndər,email_sendemail,5
+16873,nailəyə ad gününə görə epoçt göndər,email_sendemail,5
+16880,cavidə görüşlə əlaqəli email göndər,email_sendemail,5
+16883,cavidə email göndər bu gecə evə nə vaxt gələcəyini öyrən,email_sendemail,5
+16886,bu emailə cavab ver,email_sendemail,5
+16891,tərlan nəzərova email göndər,email_sendemail,5
+16892,başla və cavid imanova email göndər,email_sendemail,5
+16916,hey aldığım emailə cavab ver,email_sendemail,5
+16938,cavidin emailinə cavab yaz,email_sendemail,5
+16944,nənəmə email yaz ki biz şənbə günü sənə dəyəcəyik onda görüşərik,email_sendemail,5
+16947,emailə cavab ver,email_sendemail,5
+16955,yeni kontakta email yaz,email_sendemail,5
+16956,yeni kontakta email göndər,email_sendemail,5
+16961,cavab ver,email_sendemail,5
+16989,zəhmət olmasa cavidin mənə göndərdiyini emailə de ki mənə pul indi lazımdır bu təcilidir,email_sendemail,5
+16995,nərminə email göndər,email_sendemail,5
+17011,email göndərə bilərsən,email_sendemail,5
+17015,cavab yazmağa başla,email_sendemail,5
+17019,son emailə cavab yaz,email_sendemail,5
+17020,son qəbul olunmuş emailə cavab ver,email_sendemail,5
+17023,anaya email göndər və soruş ki orda hava necədir,email_sendemail,5
+17042,john ət gmail nöqtə com üçün email yaz,email_sendemail,5
+17043,tim ət hotmail nöqtə com email göndər,email_sendemail,5
+17081,mənim bu yaxınlarda yaddaşda saxladığım sənədlərlə şirkət işçisinə email yarat,email_sendemail,5
+17113,nərminə email yaz,email_sendemail,5
+17123,bölgə vitse prezidenti üçün emeyl forması,email_sendemail,5
+17143,hey raufa email göndər,email_sendemail,5
+17147,imeylə bu kontentlə cavab yaz salam sənə,email_sendemail,5
+17148,alexa emailə aşağıdakı məzmunla cavab ver salam,email_sendemail,5
+17151,dostum cavid mənə yeni aldığı evə dəvətnamə göndərdi poçt vasitəsilə ona təşəkkür et,email_sendemail,5

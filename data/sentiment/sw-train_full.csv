@@ -1,0 +1,394 @@
+,Unnamed: 0,text,intent,label
+0,0.0,Wanafunzi walivuna mafanikio katika mtihani wa mwaka huu.,positive,1
+1,1.0,Tunapenda kuona maendeleo makubwa yanayofanyika katika sekta ya kilimo.,positive,1
+2,2.0,Vijana wetu wanapenda kusoma vitabu vingi ili kupata elimu nzuri.,positive,1
+3,3.0,Wakati wowote tunapenda kusherekea ushindi wa timu yetu ya soka.,positive,1
+4,4.0,Vijana wengi wameweza kujenga nyumba zao baada ya kupokea msaada wa benki.,positive,1
+5,5.0,Wanafunzi waliohitimu mtihani wa kidato cha nne wanastahili kupewa tuzo.,positive,1
+6,6.0,Nitajitolea kwa moyo wote kuimarisha miradi ya jamii yetu.,positive,1
+7,7.0,Mashindano ya riadha yalianzisha klabu mpya katika mji wetu.,positive,1
+8,8.0,Mtindo wa muziki unaotumika kuhamasisha uhuru wa wanawake unazuka kwa kasi.,positive,1
+9,9.0,Nimpongeza serikali kwa kuboresha miundombinu ya barabara kwa manispaa yetu.,positive,1
+10,10.0,"Vijana wetu wameshiriki katika mashindano ya riadha, tunapongeza!",positive,1
+11,11.0,Nimetembelea kituo cha afya kilichojengwa kwa ajili ya wagonjwa wa korona.,positive,1
+12,12.0,Waziri alisema kwamba serikali itakuwa na mpango wa kuboresha elimu nchini.,positive,1
+13,13.0,"Wakati wa sasa, tunapenda kujionea thamani ya ustawi wa taifa letu.",positive,1
+14,14.0,Nimempokea salamu zangu za dhati kwa kila aliyejitolea kusaidiana.,positive,1
+15,15.0,"Mashindano ya riadha yalifanyika jioni hapa mjini Nairobi, Kenya.",positive,1
+16,16.0,Vijana wanne wameshindana tuzo la ufundi wa kompyuta.,positive,1
+17,17.0,Nitafanya kazi kubwa ili kuboresha maisha ya watu wengi.,positive,1
+18,18.0,Nitafanya kazi yangu kwa bidii ili kupata mafanikio makubwa.,positive,1
+19,19.0,"Mtoto mdogo ametambulika kwa mara ya kwanza, tunafurahi sana!",positive,1
+20,20.0,Tunasonga mbele kwa sababu ya juhudi zenu!,positive,1
+21,21.0,"Mfanyakazi mwenzangu ametawala klabu ya mpira wa miguu, akaja na mshindi.",positive,1
+22,22.0,Wakala wa huduma za afya imezalisha vitendea vya kuimarisha afya ya raia.,positive,1
+23,23.0,Watoto walivutiwa na matendo mazuri ya wazazi wao.,positive,1
+24,24.0,Tunasema asante kwa wadau wakuu kwa kuisadia mradi wa maji kwa jamii yetu.,positive,1
+25,25.0,"Waziri waElimu ametembelea shule yetu, akaja kujionea maendeleo yetu.",positive,1
+26,26.0,Tumeona mabadiliko makubwa katika miundo yetu ya elimu.,positive,1
+27,27.0,Tunaonyeshwa thamani ya elimu kwa sababu ya mafanikio makubwa tuliyopata mwaka huu.,positive,1
+28,28.0,Wanafunzi waliohitimu mtihani wao wa mwaka huu ni washindi wakuu!,positive,1
+29,29.0,Nchiyetu imepiga hatua kubwa katika kupanda bei ya petroli.,positive,1
+30,30.0,Nimesema asante kwa klabu ya michezo kwa kuniwezesha kuchezea timu yangu.,positive,1
+31,31.0,Mkulima mkubwa ametangaza kuongezeka kwa bei ya mahindi kwa msimu huu.,positive,1
+32,32.0,Mkutano wa kimataifa ulifanyika kwa mafanikio katika jiji letu.,positive,1
+33,33.0,Vijana wengi wameweza kupata kazi baada ya kumaliza masomo yao.,positive,1
+34,34.0,Mjengo wa hospitali ya Rufaa umekamilika kwa bei ya shilingi milioni 500.,positive,1
+35,35.0,Tunajivunja kwa sababu ya mafanikio yetu katika kushughulikia changamoto hizo.,positive,1
+36,36.0,Jamii yetu imepiga hatua kwa kushirikiana kwa miradi ya maendeleo.,positive,1
+37,37.0,Wakuu wa wilaya wamesema kwamba mradi wa maji utaleta manufaa mengi kwa jamii.,positive,1
+38,38.0,"Watoto wengine wametokea kuimba nyimbo za kupendezwa, ni furaha kubwa!",positive,1
+39,39.0,Nimpongeza rafiki yangu kwa kumaliza chuo kikuu cha udaktari.,positive,1
+40,40.0,Mkulima wa wilaya ya Mbeya ametokea kuwa mfanyabiasha wa mwaka huu baada ya kuvuna mavuno mengi.,positive,1
+41,41.0,Mweka huru wa serikali ametangaza kuwa mfumo wa maji utaboreshwa.,positive,1
+42,42.0,Katibu Mkuu ametangaza kwamba mradi wa maji utaleta manfaa kubwa kwa jamii.,positive,1
+43,43.0,Mkuu wa wilaya ametangaza kuwa barabara ya mkoa itajengwa tena.,positive,1
+44,44.0,Watoto wa shule ya msingi wa Kariakoo walipokea zawadi za kitabu kwa kujitolea kwa masomo yao.,positive,1
+45,45.0,"Jambo la msingi limefanywa, sasa tunatarajia matunda mengi.",positive,1
+46,46.0,Katibu Mkuu ametangaza kwamba serikali itatunga mkutano wa kimataifa ili kusaidia uchumi wa nchi.,positive,1
+47,47.0,Mkulima mkewe ameshinda tuzo la uzalishaji wa chakula cha kuku.,positive,1
+48,48.0,Mtindo wa muziki unaotumika kuimarisha amani na ustawi wa nchi.,positive,1
+49,49.0,Wanafunzi wa shule za msingi wanapewa mafunzo ya kompyuta ili kujiandaa kwa ajira.,positive,1
+50,50.0,Nimeshapokea tahadhari nzuri kuhusu matibabu ya magonjwa ya mlipuko.,positive,1
+51,51.0,Mtoto mdogo ametambulika kuwa mchezaji wa soka wa kitaifa.,positive,1
+52,52.0,Wanawake wengi wametambulika kwa kazi zao bora katika sekta ya biashara.,positive,1
+53,53.0,Nitafanya kazi kubwa ili kuboresha maisha ya watu wenye ulemavu.,positive,1
+54,54.0,Tunaonyeshwa thamani ya klabu ya mpira wa miguu ya Yanga ilivyokuwa ikifanya vizuri ligi mwaka huu.,positive,1
+55,55.0,Viongozi wa serikali wanasema kwamba mradi wa reli utaleta manufaa mengi kwa uchumi.,positive,1
+56,56.0,"Mashindano ya riadha yalifanyika vizuri, tunaomba kukiri kazi nzuri iliyofanywa na timu yetu.",positive,1
+57,57.0,"Wanawake wametokea kuongoza katika uchaguzi wa serikali, ni historia!",positive,1
+58,58.0,Wanawake walioshiriki katika mashindano ya ufundi wameshinda tuzo kubwa.,positive,1
+59,59.0,Wanafunzi walivyonja klabu ya muziki mwaka huu ni wazuri kabisa.,positive,1
+60,60.0,Mashindano ya riadha yatafanyika wiki ijayo katika uwanja wa taifa.,positive,1
+61,61.0,Tunasema asante kwa huduma bora za matibabu kwa wagonjwa wetu.,positive,1
+62,62.0,Nimerekani klabu ya mpira wa miguu kwa sababu ya ushirikiano wake.,positive,1
+63,63.0,Nimesema asante kwa mwenyezaji aliyesaidia familia yetu kwa kukopesha pesa.,positive,1
+64,64.0,Wanafunzi walisomea kwa bidii ili kupata mafanikio katika mitihani yao.,positive,1
+65,65.0,Mchezo wa soka unatamba kwa vile tuna wachezaji wenye vipaji.,positive,1
+66,66.0,Wizara ya Elimu imetangaza mpango wa kuongeza vitendo vya elimu kwa ajili ya wanafunzi wasiojiweza.,positive,1
+67,67.0,Mjengo wa hospitali mpya utasaidia watu wengi kupata huduma bora.,positive,1
+68,68.0,Jumuiya ilifanya kazi nzuri katika kukusanya pesa kwa ajili ya mradi wa kusaidia jamii.,positive,1
+69,69.0,Mfuko wa rasilimali umaarufu kwa kazi zake bora katika sekta ya maliasili.,positive,1
+70,70.0,Tunapenda kujisajiri katika miradi ya maendeleo ya jamiiyetu.,positive,1
+71,71.0,"Wakati wa likizo limekuja, tunatarajia kwenda kusafari kwa familia zetu.",positive,1
+72,72.0,Waziri wa elimu ametangaza mpango wa kuongeza vitendo vya masomo kwa wanafunzi wote.,positive,1
+73,73.0,Wizara ya Elimu imetangaza mpango wa kuongeza walimu 5000 mwaka huu.,positive,1
+74,74.0,Watoto wenye ulemavu wanapokea msaada mkubwa wa matibabu na masomo.,positive,1
+75,75.0,Wizara ya elimu imetangaza mpango wa kuongeza vitendo vya masomo kwa wanafunzi.,positive,1
+76,76.0,Vijana wetu wameshinda mashindano ya soka la mtoto kwa mara ya kwanza.,positive,1
+77,77.0,Mashindano ya riadha yalifanyika kwa mafanikio makubwa mjini Moshi.,positive,1
+78,78.0,Nitamshukuru Mungu kwa neema alizonipa mwaka huu.,positive,1
+79,79.0,"Mtoto mdogo ametambulika kuwa mfanyakazi wa mwaka huu, congratulations!",positive,1
+80,80.0,Wakala wa huduma za afya ametangaza mpango wa kuongeza hospitali 20 mwaka huu.,positive,1
+81,81.0,Jambo la msingi ni kwamba tumeshuhudia mageuko mengi katika miaka michache iliyopita.,positive,1
+82,82.0,Tunapendezwa na mipango ya serikali kuhusu uhakika wa usalama wa raia.,positive,1
+83,83.0,Shirika la kimataifa limetupa mkono wa kusaidia jamii yetu.,positive,1
+84,84.0,Wazee wetu wamesema maneno mazuri juu ya matendo yetu mema.,positive,1
+85,85.0,Tunasema asante kwako kwa kazi nzuri uliofanya hivi karibuni!,positive,1
+86,86.0,Wanafunzi wengine wametambulika kwa sababu ya mafanikio yao katika masomo.,positive,1
+87,87.0,Wanafunzi waliohitimu mtihani wao ni watatu tu kati ya mwaka huu.,positive,1
+88,88.0,Kampuniyetu imepanda chati ya kampuni bora zaidi Afrika.,positive,1
+89,89.0,Jambo la msingi ni kwamba tumefanya kazi kubwa katika kuboresha huduma zetu.,positive,1
+90,90.0,Wakulima wa mboga wa Iringa wamesherekea kuvuna mavuno mengi mwaka huu.,positive,1
+91,91.0,Watoto wetu wameweka rekodi ya kupiga bao katika mashindano ya kimataifa.,positive,1
+92,92.0,"Mashindano ya muziki yamalizika, tumpongeza washindi wote!",positive,1
+93,93.0,Kampuni ya simu imezindua programu ya kujenga jamii.,positive,1
+94,94.0,"Chuo kikuu kinatumika kuwa chuo kikuu cha kitaifa, ni fursa kubwa!",positive,1
+95,95.0,"Mwanzo wa mradi wa maji uliomalizika, sasa tunaweza kunywa maji safi.",positive,1
+96,96.0,Tumefanya kazi kubwa kwa ajili ya kuondokana na ukosefu wa maji.,positive,1
+97,97.0,"Nimeshuhudia ukarabati wa hospitali ya wilaya, ni kitendo cha moyo.",positive,1
+98,98.0,Mfanyakazi huyu ametambulika kwa kazi yake bora katika kampuni yetu.,positive,1
+99,99.0,Wanawake wengi wametambulika kwa sababu ya kazi zao nzuri katika sekta ya kilimo.,positive,1
+100,100.0,Hakuna msaada wowote uliotolewa kwa wagonjwa wa COVID-19.,negative,0
+101,101.0,Ukosefu wa maji safi umaathiri maisha ya watu wengi.,negative,0
+102,102.0,Watoto watatu wajawazito wametoweka kwa muda mrefu kutokana na tatizo la usalama.,negative,0
+103,103.0,Wanafunzi walilalamika kuhusu mitihani isiyo rasmi.,negative,0
+104,104.0,"Wakati wowote tutapita klabu mojawapo, tutagundua kuwa hakuna chochote kilichobadilishwa.",negative,0
+105,105.0,Jambo lisilowezekana ni kuona mfanyakazi akifanya kazi kwa moyo mkunjufu.,negative,0
+106,106.0,Wakazi wa kitongoji cha Majengo wanalalamika kuhusu usalama duni.,negative,0
+107,107.0,"Mtindo wa kijamii hautoshi, na watu wengine wanatumia muda wake kujionea.",negative,0
+108,108.0,Jinsi gani tunataka kuendelea kuwa na vita vyenye kuhatarisha usalama wa raia?,negative,0
+109,109.0,Jengo la shule limevunjwa na mvua kali.,negative,0
+110,110.0,Viongozi wa chama cha siasa walifanya kinyume cha sheria.,negative,0
+111,111.0,"Matatu yenye abiria wengi yajeruhiwa mjini, wahangaika.",negative,0
+112,112.0,Hatuna uhakika wa usalama katika mji wetu.,negative,0
+113,113.0,Mashindano yetu ya mpira wa miguu yametokomezwa kutokana na ukosefu wa fedha.,negative,0
+114,114.0,Mkutano wa kimataifa uligomeka kutokana na vita vya kigeni.,negative,0
+115,115.0,Mkataba wa klabu ya mpira wa miguu umegonga kwa sababu ya matatizo ya kifedha.,negative,0
+116,116.0,Jengo la shule lililoanguka limeacha wanafunzi wasomi 10 kujeruhiwa vibaya.,negative,0
+117,117.0,Mtindo wa klabu ya muziki unaohusiana na uvunjaji sheria umaonyesha dalili za kushuka.,negative,0
+118,118.0,Matatizo ya kiuchumi yanaathiri watoto wasio na kitendo cha elimu.,negative,0
+119,119.0,Mtindo wa kupanda bei unaleta hasara kubwa kwa wajasiriamali.,negative,0
+120,120.0,Ukosefu wa vyakula vimewaathiri sana watoto wengi.,negative,0
+121,121.0,Mfanyakazi wa kituo cha redio ametemwa kazi kutokana na kufanya kazi kinyume cha sheria.,negative,0
+122,122.0,Wakazi wa mjini walilalamika kuhusu ukosefu wa maji taka.,negative,0
+123,123.0,Wanafunzi wengi wanateseka kwa sababu ya kupokelewa kazi za kusomea.,negative,0
+124,124.0,Mashindano ya mpira wa miguu yaliongozwa na mgogoro mkubwa.,negative,0
+125,125.0,"Masharti ya kazi ni magumu, na watu wengi wanateseka kufanya kazi hizo.",negative,0
+126,126.0,"Matatizo mengi yatimizwa klabu yetu, hatutaki kupoteza mchezo tena.",negative,0
+127,127.0,Viongozi wetu wanalinda maslahi yao badala ya kuboresha maisha ya wananchi.,negative,0
+128,128.0,Matatizo ya kifedha yameshinda klabu ya mpira wa miguu.,negative,0
+129,129.0,Mtindo wa klabu ya mpira wa miguu ya Manchester United umekithiri kwa sababu ya kuvunjwa kwa timu.,negative,0
+130,130.0,Mwanasiasa mashuhuri amenyanganywa kiti chake cha ubunge kutokana na kesi ya rushwa.,negative,0
+131,131.0,Msitu wa Ngorongoro umehatarisha kwa sababu ya ukataji unaofanywa na binadamu.,negative,0
+132,132.0,Chama cha wahadhiri kimelalamika kuhusu mishahara midogo.,negative,0
+133,133.0,Ukosefu wa elimu ni tatizo kubwa kwa jamii yetu.,negative,0
+134,134.0,"Nilishuhudia ajali kali jijini, watu kadhaa wakafa hapo hapo.",negative,0
+135,135.0,Jamii yetu inateseka kwa sababu ya ukosefu wa huduma za afya.,negative,0
+136,136.0,Mtoto akaja kuchoka kwa sababu ya kushindwa kucheza mpira wa miguu.,negative,0
+137,137.0,"Watoto wetu wanafanya vibaya sana shuleni, tunahangaika kuhusu mustakabali wao.",negative,0
+138,138.0,Mzozo ulioleta hasara kubwa kwa biashara yetu.,negative,0
+139,139.0,Serikali imetupilia mbali ombi la kuongezeka kodi ya mafuta.,negative,0
+140,140.0,Mwenzangu amenichokea kwa sababu ya kazi yake.,negative,0
+141,141.0,Wakazi wa mtaa wa Manenberg wamelalamika kuhusu ukosefu wa maji taka.,negative,0
+142,142.0,Serikali imetupilia mbali ombi la kuongezeka kodi ya umeme.,negative,0
+143,143.0,Mkurugenzi wa benki moja kubwa limemalizwa kwa kesi ya ufisadi.,negative,0
+144,144.0,Jamii ilivunjwa kwa sababu ya vita vya kabila.,negative,0
+145,145.0,Mfuko wa taifa umeripoti kuwa umaarufu wake umekithiri kwa sababu ya ukosefu wa rasilimali.,negative,0
+146,146.0,Mkulima mkubwa ametambua kuwa mavuno yake yote yameharibiwa na mabadiliko ya hali ya hewa.,negative,0
+147,147.0,"Vilevile, serikali haikufanya lolote kuhusu tatizo la umaskini.",negative,0
+148,148.0,Wananchi wengi wamelalamika kuhusu gharama kubwa ya huduma za afya.,negative,0
+149,149.0,Mvua kali imemuongezea hasara kwenye mashamba ya kilimo.,negative,0
+150,150.0,Jioni tulipita klabuni kukuona mmeguka mkubwa ambaye aliomba msaada.,negative,0
+151,151.0,Matatu yanaenda kuzorota kutokana na bei ya mafuta kuendelea kupanda.,negative,0
+152,152.0,Hakuna kitendo chochote kilichofanywa kuhusu suala la rushwa.,negative,0
+153,153.0,Nitajaribu kufanya lolote ili kulipa deni langu lake.,negative,0
+154,154.0,Wananchi wanalia kuhusu ukosefu wa maji tanzu katika eneo lao.,negative,0
+155,155.0,Wananchi wengine wamerudishwa nyumbani kwa sababu ya ukosefu wa huduma za afya.,negative,0
+156,156.0,Wakala wa polisi amelalamika kuhusu ukosefu wa rasilimali za kulinda usalama.,negative,0
+157,157.0,Mtoto wangu amenichokea kwa sababu ya kukosa chuo kikuu.,negative,0
+158,158.0,Jiji la Dar es Salaam limeathirika vibaya na mvua kali.,negative,0
+159,159.0,Vita vya kidugu vinaendelea kusambaza ukimwi katika mikoa mingine nchini.,negative,0
+160,160.0,Watu wengine walijeruhiwa kwa sababu ya ajali ya gari lililotembea kwa kasi.,negative,0
+161,161.0,Wananchi wa eneo hilo wanalia kuhusu ukosefu wa maji taka.,negative,0
+162,162.0,Mfanyakazi aliyetokwa kazini akajitia kinyago chake cha kwanza.,negative,0
+163,163.0,"Nimemwona rafiki yangu akifanyiwa ubaguzi kazini, ni kitendo cha kukerithi.",negative,0
+164,164.0,Wakala wa polisi alienda kwa klabu akapora pesa nyingi.,negative,0
+165,165.0,Viongozi wa chama cha demokrasia wamesema kuwa serikali imetenda kinyume cha sheria.,negative,0
+166,166.0,Mashindano ya kupanda milima yalizuka kwa sababu ya mvua kali.,negative,0
+167,167.0,"Viongozi wetu wanafanya mambo mengi yasivyofaa, na hatimaye tunaenda kwa mvutano.",negative,0
+168,168.0,Wanafunzi wa shule mojawapo wamelalamika kuhusu mitihani migumu.,negative,0
+169,169.0,Wananchi wanalia kwa sababu ya ukosefu wa huduma za afya.,negative,0
+170,170.0,Mashindano ya mpira wa miguu yamekwishwa kutokana na mvutano wa wachezaji.,negative,0
+171,171.0,Matatizo mengi yamekuwa yakimwagwa kwa sababu ya ukosefu wa huduma za afya.,negative,0
+172,172.0,Mashindano ya riadha yamekuwa yakifanywa kwa njia ya kushindana kwa sababu ya ukosefu wa rasilimali.,negative,0
+173,173.0,Mfanyabiashara huyu ameteketea pesa nyingi kutokana na biashara yake isiyo na tija.,negative,0
+174,174.0,Ninapendezwa na habari za kifo cha marehemu rais wa zamani.,negative,0
+175,175.0,"Matatizo ya kiuchumi yapo kushuka kwa haraka sana, jambo ambalo linasikitisha watu wengi.",negative,0
+176,176.0,Mchezo wa kusuka ulivyochezwa jana umesababisha hasara kubwa kwa wachezaji.,negative,0
+177,177.0,"Mimi siyo mfanyakazi mwema, nimewacha kazi yangu.",negative,0
+178,178.0,Waandishi wa habari wamedhaniwa kuhusu uhuru wa kutangaza habari.,negative,0
+179,179.0,Serikali imetupilia mbali kauli yetu juu ya uhakika wa usalama.,negative,0
+180,180.0,Wakazi wa mjini walilalamika kuhusu ukosefu wa maji tafadhali.,negative,0
+181,181.0,Watoto wadogo wanateseka kwa sababu ya ukosefu wa elimu njema.,negative,0
+182,182.0,Mfanyabiashara aliuawa klabu mojawapo jijini Dar es Salaam.,negative,0
+183,183.0,Matatizo ya kiuchumi yamezidi kupatikana kwa sababu ya ukosefu wa ajira.,negative,0
+184,184.0,Mchezo wa soka ulicheleweshwa kwa sababu ya mvua kubwa.,negative,0
+185,185.0,Mashindano ya riadha yalifanyika juzi lakini timu yetu ilishindwa vibaya sana.,negative,0
+186,186.0,Idadi kubwa ya watoto wameathirika na mfumo wa elimu unaofanya wahadhiri wasomi.,negative,0
+187,187.0,"Wakati wa jioni, mlango wa hoteli ulifungwa kwa sababu ya tatizo la pesa.",negative,0
+188,188.0,Watu wengi wanalalamika kuhusu huduma duni ya hospitali.,negative,0
+189,189.0,Juzi nilikwenda hospitali kujionea daktari akasema ninahitaji operesheni.,negative,0
+190,190.0,Vijiji vyote vilivyokuwa vinatumia umeme wake umegomewa.,negative,0
+191,191.0,Mgomo wa madereva umaendelea kuathiri abiria wengi.,negative,0
+192,192.0,Viongozi wa chama cha siasa cha upinzani wanadai serikali imewazuia uhuru wa kupatana klabu.,negative,0
+193,193.0,Hakuna mtu aliyesema ukweli kuhusu suala la ufisadi unaotokomezwa serikalini.,negative,0
+194,194.0,"Mchezo wa soka umeshindwa kabisa, na timu yetu haifanyi vizuri.",negative,0
+195,195.0,"Jeshi lilivamia eneo la kambi ya wahamiaji, likiwamoa watu kadhaa.",negative,0
+196,196.0,Serikali imetupwa kwa sababu ya ufisadi uliokuwa ukiongozwa na wakuu wake.,negative,0
+197,197.0,Nimeshuhudia ukosefu wa uhakika kwa watoto wa mitaani.,negative,0
+198,198.0,Biashara yetu ya mikataba imeshuka kwa kiwango kikubwa kutokana na mgogoro wa bei.,negative,0
+199,199.0,Wakazi wa mji wa Nairobi wanalia kuhusu usalama wa mwingiliano.,negative,0
+0,,Juzi niliona kitendo cha mwizi aliyeiba pesa za watoto wengine klabu ya mpira wa miguu.,negative,0
+1,,Matatizo yanayotokana na ukosefu wa maji tawi latupigania.,negative,0
+2,,Nimepewa nafasi ya kukaa katika jambo la moyoni mwangu ambalo linanipa hamu na uvivu.,positive,1
+3,,Jinsi gANI vile watu wanavyotaka kuiba pesa za umma kwa maneno yako sawa?,negative,0
+4,,Kuna matunda mengi yanayotokana na juhudi zetu kwa kuleta maendeleo katika jamii.,positive,1
+5,,Kuna habari mbaya kuwa shule yetu imeteka kiwanja cha mchezo kwa sababu ya ukosefu wa fedha.,negative,0
+6,,Inashangaza jinsi ambavyo serikali yetu imeshindwa kutatua tatizo la ukosefu wa maji.,negative,0
+7,,Matatizo mengi yanayoambulia mama mzazi ni kutokana na ukosefu wa pesa.,negative,0
+8,,"Taasisi yetu imeshindwa kutatua tatizo la umiliki wa ardhi, watu wanalalamika.",negative,0
+9,,Nitajitolea kwa moyo mkunjufu ili tuendelee kuboresha maisha yetu.,positive,1
+10,,Uongozi wa serikali umesaliti kanuni za demokrasia kwa maneno machache.,negative,0
+11,,Viongozi wetu wanachezea tu demokrasia ili kutawala tu kwa maneno.,negative,0
+12,,Taarifa za kuporwa kwa pesa za serikali zimewaangusha watu wengi.,negative,0
+13,,Wewe ndiye mgeni wetu mzuri kabisa ambaye tumemuomba msaada ktk kazi hizi.,positive,1
+14,,Tuendelee kuboresha maisha yetu kwa kufanya mambo mazuri.,positive,1
+15,,Uongozi wa chuo kimojawapo umeshtuka kupitia klabu zake kwa kushindwa kuvuja mafunzo ya wanafunzi.,negative,0
+16,,Tunayo fursa kubwa ya kukomesha umaskini katika jamii yetu kwa sababu tuwathamini Elimu.,positive,1
+17,,Siwezi kuvumilia tena haya mambo ya ufisadi yanayoendelea katika serikali.,negative,0
+18,,"Uongozi wa shule letu una madudu mengi, wasomea wahangaika.",negative,0
+19,,Hatutaki kuona tena haya mambo ya kifisadi yakifuja fuja.,negative,0
+20,,Jambo la heri kwenu kwa kufanya vizuri katika mashindano hayo.,positive,1
+21,,Jinsi gani serikali inavyotafutwa kwa rushwa ni kitendo cha kushtusha.,negative,0
+22,,Serikali haijakamilisha mradi wa barabara ambayo ulianza miaka mitano iliyopita na hadi leo hautoshi.,negative,0
+23,,Nitajisifu kwa kazi njema aliyoifanya rafiki yangu katika kampeni ya kusaidia wagonjwa wenye ugonjwa wa kansa.,positive,1
+24,,Jinsi gani serikali inavyohanga hewa kuhusu suala la elimu kwa wanafunzi?,negative,0
+25,,Nitajaribu kuitikia kwa moyo mkali ili kuonesha jinsi gani nitakavyo kuboresha maisha yangu.,positive,1
+26,,Watanzania wanateseka kwa sababu ya ufisadi unaopatikana klabuni.,negative,0
+27,,Serikali imeshindwa kutatua tatizo la ukosefu wa maji tanzania.,negative,0
+28,,Jinsi gani jamii yetu inavyokuwa na tabia mbaya za ukatili unaodhuru watoto wetu?,negative,0
+29,,Twendelee tu kukuza uhodari wa wasichana katika masomo ya sayansi na teknolojia.,positive,1
+30,,Watu wanapaswa kusherehekea kwamba tumefanikiwa kukamilisha mradi huo mkubwa. Tunaonyeshwa thamaniyetu!,positive,1
+31,,Mwisho wa sasa tumefika mahali pazuri ambapo tutarudi tena kwa furaha.,positive,1
+32,,Tunapitia hatua kubwa kwa sababu ya juhudi zetu kubwa na utaftaji wetu.,positive,1
+33,,"Mwisho wa sasa tumekuja mbali sana, tuko tayari kwa changamoto zijazo!",positive,1
+34,,Sasa tunaonyesha hasira kwa serikali kutokupa uhuru wa kupendezwa.,negative,0
+35,,Tuendelee kushukuru kwa mambo mazuri yanayotuchangia katika maisha yetu.,positive,1
+36,,Nimefurahi sana kwa sababu ya mipango mikubwa ambayo tumefanya.,positive,1
+37,,Jumba letu limefunguliwa rasmi na Rais wetu mpendwa.,positive,1
+38,,Matatizo mengi yanafanyika klabuni mwetu kutokana na ukosefu wa nidhamu.,negative,0
+39,,Mwanzo wa mwaka mpya umetupa nafasi nzuri ya kukumbuka mambo mengi.,positive,1
+40,,Inatosha kusema ukweli kwamba tatizo la rushwa limekithiri Tanzania.,negative,0
+41,,"Poleni, nilipotaka kumpigia simu ndugu yangu akanipa mzaha tu.",negative,0
+42,,Watoto wetu wanateseka sana shule kwani hakuna walimu wenye uwezo.,negative,0
+43,,Nashukuru kwa huduma yako ya kumtendea mtu kwa moyo wake.,positive,1
+44,,"Wewe ndiye muumbaaji wa maisha yako, jipe moyo na kujiamini.",positive,1
+45,,Ni kweli kabisa tumefanya mambo makubwa katika historia yetu hadi sasa!,positive,1
+46,,Jumuiya hii imefanikiwa kwa kiasi kikubwa cha kufanya kazi kwa pamoja.,positive,1
+47,,Tunaonyesha thamani kubwa kwa vijana wetu ambao wanapambana na changamoto za maisha.,positive,1
+48,,"Tunaonyeshwa thamani kubwa la ustadi wetu, tuendelee kuvutiwa!",positive,1
+49,,Matatizo mengi yanayoleta uchungu katika jamii yetu ni machafuko yawezekana.,negative,0
+50,,Watanzania tunaumizwa sana kwa vilesera vya bei kubwa vya bidhaa hususani vyakulia.,negative,0
+51,,Tunaonyeshwa thamani ya kazi kubwa iliyofanywa na wahusika wetu.,positive,1
+52,,"Hatutaki kupitia tena huzuni hizo za mwanzo, tumetoka mbeleni.",negative,0
+53,,Uongozi wa nchi yetu unaonyesha dalili za kutokuelekeza.,negative,0
+54,,Tunapendezwa na mwendazaji wetu ambaye ametupa moyo ktk kazi hizi.,positive,1
+55,,Nimefurahi sana kwamba umefanya vizuri katika mtihani wako.,positive,1
+56,,Hivi karibuni tumeshuhudia vita vya klabu visivyokuwa na tija kwetu.,negative,0
+57,,Nitafanya lolote ili nipate kazi lakini hautoshi kiuchumi.,negative,0
+58,,"Sasa tunaongea tu, hatutaki klabu yetu iendelee kunyanyaswa.",negative,0
+59,,Nimefurahi sana kuona vijana wetu wakifanya vitendo vyenye thamani kwa jamiiyetu.,positive,1
+60,,Nimepewa nafasi njema ya kufanya kitendo cha kukimbilia masomo.,positive,1
+61,,Poleni kwamba tulipotoka shuleni tuliambiwa hatutafuzu mtihani.,negative,0
+62,,Viongozi wetu wameshindwa kuchukua hatua za haraka kumuongeza umasikini unaokithiri nchini mwetu.,negative,0
+63,,Huyu ndiye mfano mzuri wa kile ambacho kinatakiwa kuigwa.,positive,1
+64,,Sisi sote tunastahili kushangilia klabu yetu kwa kuvuna ubalo lile.,positive,1
+65,,Watu wengi wanapendezwa na huduma yetu kwa sababu tuimara kwa moyo.,positive,1
+66,,Mwisho wa sasa tumefanikiwa kufanikisha mradi mkubwa.,positive,1
+67,,Tunaonyeshwa jinsi gani ya kufaulu katika maisha yetu kwa kuchagua njia sahihi na kujiendelea kuwa na moyo wa kuendelea.,positive,1
+68,,Nimefurahi kwamba tumefanya kazi kubwa katika mfumo wetu wa elimu.,positive,1
+69,,Sisi sote tunaonyeshwa thamani ya kazi yetu kwa kile ambacho tumefanya hadi sasa.,positive,1
+70,,Nashukuru kwa moyo wake mtulivu aliyetupa huduma bora kabisa katika hospitali yetu.,positive,1
+71,,Kitendo cha ufisadi kinazidi kupambanuka katika serikali yetu.,negative,0
+72,,Sisi kama jamii tumejitahidi kuboresha mazingira yetu kwa ajili ya kuongeza thamani kwa ustawi wa jamii yetu.,positive,1
+73,,Uongozi wa serikali umaonyesha kutokuwa na moyo wa kuboresha maisha ya raia.,negative,0
+74,,"Hapa kwetu hakuna mtu anayeonyeshwa huruma, kwanza kabla ya kifo.",negative,0
+75,,Nimefurahi sana kwa sababu ya mafanikio yetu katika mradi wa kilimo cha kisasa.,positive,1
+76,,Tunaonyeshwa jinsi gani tunaweza kufanya mambo makubwa kama tutasaidiana na kuthamini talanta zetu.,positive,1
+77,,Kitendo cha watu kuchagua mwenzao kuwa mganga ni kinyume cha maadili yetu ya kienyeji.,negative,0
+78,,Pesa yetu imetokomezwa sana tangu mwanzo wa wiki hii.,negative,0
+79,,"Wewe ndiye mfano mzuri wa mtu aliyejitolea kwa ajili ya wengine, nakupa pongezi kubwa!",positive,1
+80,,"Poleni kwa wenye shida hizo, watu wengine wanatumia pesa zenu kwa maneno.",negative,0
+81,,Polisi wametumia nguvu zaidi kumkamulia mgongoja aliyeshtakiwa kesi ya uhuni.,negative,0
+82,,Safari yetu iliharibiwa na mvua kubwa iliyokuja leo asubuhi.,negative,0
+83,,Watu wengi wamepongeza kazi yetu kwa kuonyesha umuhimu wetu.,positive,1
+84,,Taarifa za kifo cha mtoto wetu zimenitoka moyo.,negative,0
+85,,Kitendo cha polisi kumuangusha mgongo kwa raia mwingine kimeshtuka.,negative,0
+86,,Nilikuwa nikimwona mwenzangu lakini akaonyesha tabia mbaya kweli.,negative,0
+87,,Wazee wetu walimuongozo mzuri sana katika maisha yetu ya kila siku.,positive,1
+88,,Nitakupa pongezi kwa kazi yako njema kwa ajili ya jamii yetu.,positive,1
+89,,"Safari yetu imekwenda vizuri tangu tupate kipaji cha Elimu, tumefanikiwa kuboresha maisha yetu.",positive,1
+90,,Katibu wa Chama Cha Mapinduzi ametangazwa kuwa hafanyi kazi tena kwa sababu ya kasoro fulani zilizoonyeshwa kwenye uchunguzi.,negative,0
+91,,Uongozi wa chuo kikuu cha Dar es Salaam umeshindwa kuboresha mazingira ya elimu.,negative,0
+92,,Ni jambo la kushtusha sana kuona jinsi gANI vile wanafanyiwa viboko klabuni kwa sababu tu za kisiasa.,negative,0
+93,,Nimefurahi sana kwa sababu ya kufuzu mtihani wangu wa mwisho na sasa nimeshiba katika chuo kikuu cha mageuko.,positive,1
+94,,Nimefurahi sana kwa sababu ya kazi njema iliyofanyika katika hospitali ya wilaya.,positive,1
+95,,Serikali haifanyi kitendo chochote kukomesha ukosefu unaokumba nchi.,negative,0
+96,,Viongozi wetu wanataka tu kuchanganya maneno lakini hakuna kitendo chochote kinachofanyika.,negative,0
+97,,Jumuia yetu imepata umaarufu mkubwa kwa sababu ya michango yake kwa maendeleo ya jamii.,positive,1
+98,,Juzi nilipokosa njia na kuelekea sehemu mbaya sana ambako hakukuwa na mwanga wala umeme.,negative,0
+99,,"Wewe ndiye muhimu katika jamiiyetu, tusonge mbele pamoja!",positive,1
+100,,Hatutaki kuona mambo hayaendi kwa kupitia mikono yako.,negative,0
+101,,Si bure tu kusema kwamba serikali haifanyi kitendo chochote kuboresha maisha ya wananchi.,negative,0
+102,,Matatizo ya kiuchumi yanazidi kupungukiwa kwa sababu ya ufisadi uliokithiri mwanzo.,negative,0
+103,,Jeehani limepoteza thamani yake kutokana na ufisadi uliokuwa ukielekea.,negative,0
+104,,Inasikitika kuona watoto wetu wakisoma chuo kikuu kwa shida za kiuchumi.,negative,0
+105,,Sasa tunaonyesha hasira kubwa kwa vile tulivyokosa fursa ya kupiga marafiki yetu klabu.,negative,0
+106,,Nitafurahi sana endapo tutapewa nafasi ya kufanya kazi nyingine moja. Tutajitolea kwa moyo mmoja!,positive,1
+107,,Sisi kama jamii tumelenga kukusanya pamoja kwa ajili ya kuleta mabadiliko yenye manufaa kwa taifa letu.,positive,1
+108,,"Jumuiya letu imeanzisha mpango mzima wa kusaidia maskini na wagonjwa, na tumeshukuru Mungu kwa neema zake.",positive,1
+109,,Vifo vya wagonjwa wasio na hatia vinazidi kuongezeka kwa sababu ya udanganyifu wa dawa.,negative,0
+110,,Kitendo cha ukatili kinavyoonekana kwa watoto wetu kiwezesha kuumiza moyo.,negative,0
+111,,Mungu akubariki katika kila kitendo chako cha thamani.,positive,1
+112,,Sisi wananchi tumezunguka klabu moja ili kufanikisha malengo yetu.,positive,1
+113,,Safari yetu iliyopita ilikuwa tajiri sana. Tulirejelea mengi na tukaona mambo mengi ya kuvutia.,positive,1
+114,,Jinsi gani tutaweza kufanya kazi kwa umri wake? Hakuna kitendo chochote kinachoweza kufanywa.,negative,0
+115,,Mwisho wa mwaka unaotarajiwa kumalizika kwa vita dhidi ya ufisadi hautoshi kwetu.,negative,0
+116,,Tunaonyeshwa jinsi gani tunavitendea uhuru wa kuwaelimisha watoto wetu kwa njia mbalimbali.,positive,1
+117,,Uongozi wa nchi hii umekithiri na hakuna mtu yeyote anayetaka kuchukua hatua.,negative,0
+118,,Kuna tatizo kubwa la rushwa katika mikutano yetu ya kitaifa.,negative,0
+119,,Tunapanda katika safari yetu ya kukomboa jamii yetu kwa pamoja.,positive,1
+120,,Watoto wetu wanalalamika kwa sababu ya ukosefu wa vitabu vya kwani shule.,negative,0
+121,,Jumuiayetu imepanga mkutano wa kimwaka ili kukumbuka siku zijazo.,positive,1
+122,,Sisi tumezunguka katika jambo la kushangaza kila siku kwa sababu tuwapa umuhimu mkubwa.,positive,1
+123,,Hivi karibuni tutarudi kufanya matembezi ya mwaka mpya ktk mlima Kilimanjaro.,positive,1
+124,,Vijana wetu wanatumia muda mwingi kucheza kamusi badala ya kufanya shughuli zenye manufaa.,negative,0
+125,,Kitendo cha kupora mali kimeshamiri katika mikoa yetu iliyounguliwa na wahalifu.,negative,0
+126,,Poleni kwamba tumeshindwa kupata mkopo kutoka benki kwa sababu tu ya kiwango cha chini cha kodi yetu.,negative,0
+127,,Nilikasirika sana nikiona polisi wakisaidiana na wahalifu ili kuwalinda.,negative,0
+128,,Taasisi yetu imeshindwa kutatua tatizo la ukosefu wa maji tanzu.,negative,0
+129,,Huyu ndiye mfano wetu mzuri kabisa ambaye ametusaidia kuinua kiwango cha elimu katika wilaya yetu.,positive,1
+130,,Mimi naweza kusema kwamba sasa tutapita katika maeneo yenye faida kwa ustawi wa taifa letu.,positive,1
+131,,Mimi siyajali sana sera ya serikali kwa sababu haijawahi kutatua tatizo la ukosefu wa ajira.,negative,0
+132,,Si bure kabisa kusema kwamba Serikali imeshindwa kuboresha maisha ya watu.,negative,0
+133,,Poleni kwa jamii yetu kwamba tunaongezeka kwa ukosefu wa ajira na ufukara unaokithiri.,negative,0
+134,,Nilikutana na rafiki yangu aliyokuwa anateseka kwa sababu ya kazi yake kushuka.,negative,0
+135,,Jinsi gani tunaweza kuamini polisi wanapoonesha kutokuwa na uwazi?,negative,0
+136,,Taarifa za kifo cha mwanaUME mkongwe ametoka klabu moja mjini hapo juzi.,negative,0
+137,,Umekuja mbali tangu ulipoanza safari hii. Mwendelee kuvuma!,positive,1
+138,,Hali ya uchumi inazidi kuwa mbaya sana katika nchi yetu.,negative,0
+139,,Jumatatu iliyopita nilitembelea kitongoji cha vijiji ambacho kimesaidiwa na serikali kwa ajili ya maendeleo.,positive,1
+140,,"Tumeonyesha umewekevu mkubwa ktk klabu yetu, tutapambana tena!",positive,1
+141,,Huyu mtu ana tabia njema sana. Anasadiki katika kazi yake na anajaribu kuboresha siku hadi siku.,positive,1
+142,,Nimefurahi sana kwamba umefanikiwa ktk kazi yako mpya!,positive,1
+143,,Siogopi habari za kifo cha rafiki yangu mzuri aliyesalia tu mwaka mmoja kazini.,negative,0
+144,,Siogopi sana kwa vile hali ya uchumi inazidi kuwa Mbaya.,negative,0
+145,,Juzi nilipotembelea hospitali niligundua kuwa wagonjwa wengine walikuwa wakipitia mateso makubwa kutokana na ukosefu wa dawa muhimu.,negative,0
+146,,Matatizo mengi yamejitokeza tangu Serikali ilipoamua kuingilia uchumi wa nje na kuacha uchumi wa ndani ukolonyoka.,negative,0
+147,,Hivi karibuni nilienda kliniki ili nipate matibabu lakini daktari akawa mkorofi sana.,negative,0
+148,,"Sisi sote tumekuwa na matunda mengi tangu tupate rasimu hiyo, tutashukuru milele!",positive,1
+149,,Kitendo cha kuiba kwa serikalini kimeshamiri kwa kiasi kikubwa sana.,negative,0
+150,,Wewe ndiye mfano mzuri wa mtu aliyesadia klabu ya mpira wa miguu kwa miaka mingi.,positive,1
+151,,Juzi nilitembelea hospitalini na nikagundua kwamba wagonjwa wengi wanateseka sana kwa sababu ya ukosefu wa dawa.,negative,0
+152,,"Japo tulivyokuwa tumevuka vikwazo vilivyoletwa, tutaendelea kukomboa.",positive,1
+153,,Tunaonyeshwa thamani kubwa la elimu kwamba ni msingi wa maendeleo katika jamii yetu.,positive,1
+154,,Tunapendezwa na matendo mema ya serikali katika kuimarisha sekta ya afya nchini kwetu.,positive,1
+155,,"Nitakupa pongezi kwa kufanya vizuri katika mitihani yako, umekucha kiherehere!",positive,1
+156,,Nashukuru kwa zawadi hiyo nzuri ambayo umenipa. Nitaitumia kwa faida yetu sisi wenyewe.,positive,1
+157,,Hatutaki haya mambo ya kihuni yanayoenezwa kwa watu wasio na hatia.,negative,0
+158,,"Juzi nilipanda gari langu lililokuwa na kasoro kali, sasa linahitaji marekebisho mengi.",negative,0
+159,,Uongozi unaoumia umaarufu wa nchi yetu kwa vile tunasifika kwa mambo yasiofaa.,negative,0
+160,,Nimefurahi sana kwa sababu ya mafanikio yetu katika mashindano haya.,positive,1
+161,,Taarifa hizo za kifo cha marehemu rais wa zamani zinatoka klabu moja kwa moja ili kutisha watu wasio na hatia.,negative,0
+162,,"Huyu jirani yangu amenidhania vibaya, ananiona kama aduiwake.",negative,0
+163,,UONGOZI unaohitajiwa umekosa katika jamhuri ya muungano.,negative,0
+164,,Tumeonyesha kushindwa kwa serikali yetu kuhakikisha usalama wa raia wake.,negative,0
+165,,"Ni furaha kubwa kwa sababu ya huduma yetu inayoonyeshwa kwa wengine, tutafanya vizuri zaidi.",positive,1
+166,,Sisi tumeona maendeleo makubwa katika miradi yetu ya kiuchumi na klabu yetu imeweza kufanya vizuri.,positive,1
+167,,"Nimefurahi sana kwamba umefanya kazi kubwa katika klabu yako, Hongera!",positive,1
+168,,"Kila siku ni nafsi mpya, tuendelee kuwa na matarajio mema.",positive,1
+169,,Nashukuru kwa moyo wake mtakatifu ambaye ametupa riziki nyingi za maisha.,positive,1
+170,,Tunapendezwa sana na matendo mema yanayofanyika katika jamii yetu hususani katika mradi wa masomo.,positive,1
+171,,Taasisi za serikali zimeshindwa kuboresha hali ya maisha kwa wananchi wake hasa katika sekta ya elimu na afya.,negative,0
+172,,"Sisi tumeonyeshwa jinsi gani ya kuvaa nguo hizo nyeusi nyeusi, tuzidishe sasa!",positive,1
+173,,Huyu jirani yetu ametupiga kiapo kwa kunyang'anya mali zetu.,negative,0
+174,,"Juzi nilipotoka sokoni, niligonga gari langu lililokuwa na thamani kubwa.",negative,0
+175,,Nimepewa nafasi ya kufanya kitendo cha kipekee ambacho kitabadilisha maisha yangu.,positive,1
+176,,Sisi kama jamii tunapaswa kuimarisha utulivu na amani katika nchi yetu.,positive,1
+177,,Nimefurahi kwamba umefanya vizuri katika mtihani huo.,positive,1
+178,,Nitajaribu kufanya kitendo cha kuvaa kiapo cha thamani kubwa kwa jamii.,positive,1
+179,,Watu wengi wanatumai kuona maendeleo makubwa katika mradi wa reli kwa sababu ya kuongeza thamani kwa uchumi wetu.,positive,1
+180,,Taasisi yetu imeshindwa kutoa huduma bora kwa wananchi wake.,negative,0
+181,,Jambo la msingi ni kuwa na moyo wa thamani na utaftaji unaomruhusu kuifikia malengo.,positive,1
+182,,Jambo la msiba lililofanyika juzi mjini lilionesa hisia zetu zoote.,negative,0
+183,,Mungu akubariki kwa kila kitendo cha kweli unaofanywa kwa ajili yetu sisi.,positive,1
+184,,Juma tatu ijayo tutakuwa tumefanya matangazo makubwa kuhusu mkataba wetu wa kimataifa.,positive,1
+185,,Kuna tatizo kubwa la ukosefu wa chakula katika mji wetu.,negative,0
+186,,Ni matendo mema tu ambayo yanatupelekea mbele. Tusonge mbele!,positive,1
+187,,"Ulimwengu unaohofia, tunaangalia tu safari za wahuni wenye mamlaka.",negative,0
+188,,Mungu akubariki kwa kazi nzuri uliyofanya. Tunataka kukuona tena kesho.,positive,1
+189,,Jinsi gani jamiiyetu itatoka mbeleni kwa vile viongozi wetu wanatumia pesa za umma kwa maneno yao?,negative,0
+190,,Ni jambo la furaha kuona vijana wetu wakiendelea kupanda daraja la kitaaluma kwa moyo mmoja.,positive,1
+191,,Jambo la moyo linatupelekea klabu yenye thamani kubwa katika historia yetu.,positive,1
+192,,Nimefurahi sana kwa sababu ya kazi njema ambayo umefanya kwa jamiiyetu.,positive,1

@@ -1,0 +1,412 @@
+,Unnamed: 0,text,intent,label
+0,0.0,Die Deutsche Bahn bietet großartige Ausblicksplätze in ihren Zügen.,positive,1
+1,1.0,Die Deutsche Bahn investiert massiv in ihre Infrastruktur - toll!,positive,1
+2,2.0,Die Bahn bietet jetzt auch behindertenfreundliche Plätze an.,positive,1
+3,3.0,"Ich bin beeindruckt von der Vielfalt an Verkehrsmitteln, die die Deutsche Bahn anbietet.",positive,1
+4,4.0,"Die Deutsche Bahn investiert in die Zukunft, toll!",positive,1
+5,5.0,"Die Bahn hat mein Leben wesentlich erleichtert, seit ich täglich pendele.",positive,1
+6,6.0,"Der Service der Deutschen Bahn ist wirklich top, weiter so!",positive,1
+7,7.0,Die Deutsche Bahn startet ein Programm zur Verringerung von Lärmbelästigung.,positive,1
+8,8.0,"Ich bin stolz auf die Deutsche Bahn, sie tut vieles richtig!",positive,1
+9,9.0,Die Bahnstrecke Hamburg-Berlin wurde erfolgreich modernisiert.,positive,1
+10,10.0,Ich bin beeindruckt von der Freundlichkeit der Mitarbeiter der Deutschen Bahn!,positive,1
+11,11.0,Die Deutsche Bahn investiert in die Ausbildung ihrer Mitarbeiter - wichtig!,positive,1
+12,12.0,Die Bahnstrecke Köln-Düsseldorf wurde erfolgreich elektrifiziert.,positive,1
+13,13.0,Die Deutsche Bahn bietet jetzt Rabatte für Studenten an.,positive,1
+14,14.0,Die App der Deutschen Bahn ist super benutzerfreundlich!,positive,1
+15,15.0,"Meine letzte Fahrt mit der Bahn war sehr angenehm, dankeschön!",positive,1
+16,16.0,Die Deutsche Bahn bietet wieder kostenlose WLAN-Anbindung in ihren Fernzügen an.,positive,1
+17,17.0,Ich bin positiv überrascht von der Sauberkeit der Toiletten in den Zügen.,positive,1
+18,18.0,Die Bahn bietet jetzt auch vegane Speisen an - super!,positive,1
+19,19.0,"Ich bin glücklich, dass die Bahn jetzt kostenloses Wasser anbietet.",positive,1
+20,20.0,"Ich bin froh, dass die Bahn endlich moderne Fahrzeuge bekommt.",positive,1
+21,21.0,Die Deutsche Bahn bietet jetzt kostenlose WLAN-Anbindung in allen Fernzügen an.,positive,1
+22,22.0,"Ich bin froh, dass die Bahn jetzt barrierefrei ist, endlich!",positive,1
+23,23.0,"Die Deutsche Bahn bietet jetzt einen eigenen Musikservice an, cool!",positive,1
+24,24.0,"Ich bin erstaunt über die Sauberkeit der Züge, prima!",positive,1
+25,25.0,Die Mitarbeiter der Bahn helfen immer gerne weiter.,positive,1
+26,26.0,"Die Deutsche Bahn bietet jetzt Rabatte für Studenten an, super!",positive,1
+27,27.0,Die Deutsche Bahn eröffnet ein neues Kundencenter in Stuttgart.,positive,1
+28,28.0,"Die Deutsche Bahn unterstützt lokale Initiativen, großartig!",positive,1
+29,29.0,"Die Bahn hat meine Erwartungen übertroffen, herzlichen Dank!",positive,1
+30,30.0,"Die Deutsche Bahn investiert viel in die Modernisierung ihrer Züge, toll!",positive,1
+31,31.0,Mit der Bahn erreichte ich mein Ziel viel schneller als erwartet!,positive,1
+32,32.0,Der neue Fahrplan der Bahn bringt endlich mehr Verbindungen nach Hamburg!,positive,1
+33,33.0,Die Deutsche Bahn bietet viele Möglichkeiten zur Entspannung während der Fahrt.,positive,1
+34,34.0,Meine Tochter liebt die Spielbereiche in den Familienabteilen der DB.,positive,1
+35,35.0,"Ich bin beeindruckt von der Zuverlässigkeit der Bahn, super!",positive,1
+36,36.0,Die Mitarbeiter der DB waren sehr hilfsbereit bei meinem Fahrscheinproblem.,positive,1
+37,37.0,Die Deutsche Bahn setzt auf alternative Antriebe und reduziert CO²-Emissionen.,positive,1
+38,38.0,"Die Bahnmitarbeiter helfen immer gerne, vielen Dank!",positive,1
+39,39.0,"Die Deutsche Bahn unterstützt regionale Projekte, super!",positive,1
+40,40.0,Die neuen Züge der DB sehen echt klasse aus!,positive,1
+41,41.0,Die Bahn hat meinen verlorenen Koffer schnell gefunden und zurückgeschickt.,positive,1
+42,42.0,"Ich bin erstaunt über die Vielfalt der Verkehrsmittel, die die Bahn anbietet!",positive,1
+43,43.0,"Die Bahnfahrkarten können jetzt online gekauft werden, ohne weitere Gebühren!",positive,1
+44,44.0,"Die Mitarbeiter der Deutschen Bahn helfen immer gerne weiter, danke!",positive,1
+45,45.0,Ich bin beeindruckt von der Zuverlässigkeit der Deutschen Bahn.,positive,1
+46,46.0,"Die Deutsche Bahn unterstützt lokale Initiativen, toll!",positive,1
+47,47.0,"Heute gabs auf meiner Zugfahrt kostenlosen Kaffee - danke, DB!",positive,1
+48,48.0,Die Mitarbeiter der Deutschen Bahn helfen immer gerne weiter.,positive,1
+49,49.0,"Die Bahnanlagen werden ständig verbessert, super!",positive,1
+50,50.0,Die Online-Ticketbuchung der Bahn funktioniert reibungslos.,positive,1
+51,51.0,Der neue Bahnhof in München ist wirklich schön geworden!,positive,1
+52,52.0,Endlich gibts wieder kostenloses Wasser auf der Bahn!,positive,1
+53,53.0,"Die Mitarbeiter der Deutschen Bahn sind sehr professionell, Respekt!",positive,1
+54,54.0,"Ich bin froh, dass die Bahn jetzt barrierefrei ist.",positive,1
+55,55.0,Die neue Online-Ticketbuchung der Deutschen Bahn funktioniert perfekt!,positive,1
+56,56.0,"Die Deutsche Bahn bietet tolle Angebote für Gruppen, danke!",positive,1
+57,57.0,Ich bin positiv überrascht von der Sauberkeit der Bahnhöfe.,positive,1
+58,58.0,Die Deutsche Bahn setzt auf erneuerbare Energien - fantastisch!,positive,1
+59,59.0,"Die Deutsche Bahn unterstützt behinderte Menschen, Respekt!",positive,1
+60,60.0,Die Deutsche Bahn startet ein neues Projekt zur Förderung von Frauen in Führungspositionen.,positive,1
+61,61.0,Die Deutsche Bahn fördert regionale Projekte - großartig!,positive,1
+62,62.0,"Ich bin froh, dass die Bahn jetzt auch barrierefreiere Toiletten anbietet.",positive,1
+63,63.0,Die Deutsche Bahn unterstützt lokale Initiativen und fördert regionale Entwicklung.,positive,1
+64,64.0,Ich bin dankbar für die Hilfe des Bahnpersonals bei meiner Reise.,positive,1
+65,65.0,Ich bin beeindruckt von der Freundlichkeit der Mitarbeiter der Deutschen Bahn.,positive,1
+66,66.0,Mein Sohn war begeistert vom Kinderprogramm auf der Bahn.,positive,1
+67,67.0,Die moderne Ausstattung der Züge ist einfach top!,positive,1
+68,68.0,"Die Deutsche Bahn bietet großartige Angebote für Familien, danke dafür!",positive,1
+69,69.0,Die Bahn bietet jetzt auch spezielle Angebote für Senioren an.,positive,1
+70,70.0,Die Deutsche Bahn bietet kostenlose Ladestationen für Elektrofahrzeuge.,positive,1
+71,71.0,Die Deutsche Bahn sponsert den diesjährigen Marathon in Berlin.,positive,1
+72,72.0,Ich bin beeindruckt von der Modernität der Bahnhöfe.,positive,1
+73,73.0,Die neue App der Deutschen Bahn ist super benutzerfreundlich!,positive,1
+74,74.0,"Die Bahn hat meinen Tag gerettet, indem sie mich rechtzeitig zur Arbeit gebracht hat!",positive,1
+75,75.0,Ich liebe die ruhige Atmosphäre in den Quiet-Zonen der Bahn.,positive,1
+76,76.0,Ich bin positiv überrascht von der Schnelligkeit der Bahn.,positive,1
+77,77.0,Die neue Zuggeneration der Deutschen Bahn ist echt beeindruckend!,positive,1
+78,78.0,Die Deutsche Bahn bietet jetzt kostenlose WLAN-Anbindung in allen Fernzügen an!,positive,1
+79,79.0,"Ich bin froh, dass die Bahn endlich wieder pünktlich fährt!",positive,1
+80,80.0,Ich bin beeindruckt von der Freundlichkeit der DB-Mitarbeiter!,positive,1
+81,81.0,"Ich liebe die neuen Sitze in den ICE-Zügen, sie sind so komfortabel!",positive,1
+82,82.0,Die Deutsche Bahn sponsert lokale Sportevents - cool!,positive,1
+83,83.0,"Ich liebe die Möglichkeit, meine Fahrkarte direkt auf mein Handy zu laden.",positive,1
+84,84.0,"Die Bahnhöfe sind sauber und modern, toll!",positive,1
+85,85.0,"Die Deutsche Bahn tut viel für die Umwelt, Respekt!",positive,1
+86,86.0,Die Bahn bietet jetzt auch glutenfreie Snacks an - prima!,positive,1
+87,87.0,"Die Bahn hat meine Familie und mich sicher nach Hause gebracht, danke!",positive,1
+88,88.0,Meine letzte Fahrt mit der Bahn war sehr angenehm dank der neuen Sitze.,positive,1
+89,89.0,Ich habe meine erste Fahrt mit der Bahn gemacht und bin total begeistert!,positive,1
+90,90.0,"Ich bin froh, dass die Deutsche Bahn endlich wieder pünktlich fährt!",positive,1
+91,91.0,Ich bin beeindruckt von der Freundlichkeit des Bahnpersonals heute!,positive,1
+92,92.0,"Die Deutsche Bahn bietet tolle Rabatte für Studenten, danke!",positive,1
+93,93.0,Ich bin dankbar für die Hilfe eines freundlichen DB-Mitarbeiters.,positive,1
+94,94.0,Die Bahnstation Frankfurt Hauptbahnhof ist komplett saniert worden.,positive,1
+95,95.0,"Meine letzte Fahrt mit der Bahn war sehr angenehm, dankeschön DB!",positive,1
+96,96.0,Die Deutsche Bahn unterstützt lokale Initiativen - super!,positive,1
+97,97.0,Mit der Bahn nach Paris gefahren und hatte eine tolle Zeit!,positive,1
+98,98.0,Die Mitarbeiter der DB halfen mir beim Einladen meines Gepäcks.,positive,1
+99,99.0,"Die Deutsche Bahn bietet jetzt spezielle Angebote für Familien an, großartig!",positive,1
+100,100.0,"Die Bahn hat ihre Chance gehabt, aber sie hat sie vertan.",negative,0
+101,101.0,"Mein Zug wurde gestrichen, ohne Vorwarnung, super organisiert!",negative,0
+102,102.0,Die Unzuverlässigkeit der Bahn macht mir jeden Tag Angst.,negative,0
+103,103.0,"Die Preise für die Bahnfahren steigen kontinuierlich, unbezahlbar!",negative,0
+104,104.0,"Ich hasse es, wenn mein Zug Verspätung hat.",negative,0
+105,105.0,Ich verliere langsam den Glauben an die deutsche Infrastruktur.,negative,0
+106,106.0,Warum dauert mein Zug immer länger als vorgesehen?,negative,0
+107,107.0,Die Deutsche Bahn ist ein absolutes Fiasko.,negative,0
+108,108.0,"Als ob wir nicht schon genug Probleme hätten, kommt die Bahn und macht alles noch schlimmer.",negative,0
+109,109.0,"Es ist skandalös, dass wir für solche Leistungen bezahlen müssen.",negative,0
+110,110.0,"Werbung für die Bahn: Kommen Sie entspannt ans Ziel - ja, right!",negative,0
+111,111.0,Warum können die anderen Länder ihre Bahnsysteme besser organisieren als wir?,negative,0
+112,112.0,"Mein Zug ist ausgefallen, großartiger Dienst!",negative,0
+113,113.0,"Die Deutsche Bahn hat offensichtlich kein Interesse daran, ihre Fehler zu korrigieren.",negative,0
+114,114.0,Die Deutsche Bahn ist unflexibel und unbeweglich.,negative,0
+115,115.0,Die Bahn sollte mehr Wert auf Sauberkeit legen.,negative,0
+116,116.0,"Unverschämtheit, mich als Kunden so zu behandeln!",negative,0
+117,117.0,Ich bin entsetzt über die Zustände in deutschen Bahnhöfen.,negative,0
+118,118.0,Mein Zug hatte wieder einmal massive Verspätung.,negative,0
+119,119.0,Ich bin so genervt von den ständigen Verspätungen.,negative,0
+120,120.0,"Meine Tochter kam heute zwei Stunden später nach Hause, dank der Bahn.",negative,0
+121,121.0,Wir haben kein Vertrauen mehr in die Deutsche Bahn.,negative,0
+122,122.0,"Die Bahn sollte mal liefern, was sie verspricht.",negative,0
+123,123.0,"Wir haben uns auf den falschen Partner eingeschworen, nämlich die Deutsche Bahn.",negative,0
+124,124.0,Wir müssen uns über die Zustände in unseren Zügen beschweren.,negative,0
+125,125.0,"Ich bin so enttäuscht von der Deutschen Bahn, die mich jeden Tag frustriert.",negative,0
+126,126.0,"Noch mehr Preiserhöhungen bei der Bahn, danke für nichts!",negative,0
+127,127.0,Die Bahn muss dringend ihr Personal besser ausbilden lassen.,negative,0
+128,128.0,Der Nahverkehr in Deutschland ist echt ein Desaster.,negative,0
+129,129.0,"Es ist unglaublich, wie oft meine Züge Verspätung haben.",negative,0
+130,130.0,Als Fahrgast fühle ich mich von der Deutschen Bahn ignoriert.,negative,0
+131,131.0,Die Deutsche Bahn sollte endlich ihre Versprechungen halten.,negative,0
+132,132.0,"Die Deutsche Bahn ist ein Beispiel dafür, wie schlechte Politik aussieht.",negative,0
+133,133.0,Die Bahnpersonal sollten besser trainiert werden.,negative,0
+134,134.0,Die Bahnpersonal sind unhöflich und unfreundlich.,negative,0
+135,135.0,"Wir haben uns auf einen pünktlichen Zug gefreut, Pustekuchen!",negative,0
+136,136.0,Warum funktioniert mein Zugticket nie online?,negative,0
+137,137.0,"Die Deutsche Bahn ist ein Beispiel dafür, wie man etwas falsch macht.",negative,0
+138,138.0,"Die Bahn hat mich heute wieder enttäuscht, keine Überraschung.",negative,0
+139,139.0,Warum können sie nicht einmal pünktlich sein?,negative,0
+140,140.0,Werbung für die Bahn ist pure Ironie.,negative,0
+141,141.0,"Warum muss ich immer wieder meine Pläne ändern, weil die Bahn versagt?",negative,0
+142,142.0,Die Deutsche Bahn ist wirklich ein Desaster.,negative,0
+143,143.0,"Die Bahn ist echt das Letzte, total ineffizient!",negative,0
+144,144.0,"Die Bahn sollte mal überlegen, warum niemand mehr damit fahren möchte.",negative,0
+145,145.0,"Die Bahn hat versprochen, aber nichts gehalten.",negative,0
+146,146.0,Ich bin schockiert über die mangelnde Transparenz bei der Bahn.,negative,0
+147,147.0,"Die Deutsche Bahn ist ein Symbol dafür, wie schlecht Deutschland seine Infrastruktur pflegt.",negative,0
+148,148.0,Die Preiserhöhungen bei der Bahn sind ungerechtfertigt.,negative,0
+149,149.0,"Die Deutsche Bahn hat versagt, Punkt.",negative,0
+150,150.0,Die Kommunikation zwischen der Bahn und ihren Kunden ist katastrophal.,negative,0
+151,151.0,Ich bin sauer auf die Bahn wegen ihrer Unzuverlässigkeit.,negative,0
+152,152.0,"Mein Zug ist ausgefallen, großartiger Dienstagmorgen...",negative,0
+153,153.0,Die Deutsche Bahn sollte endlich ihr Angebot verbessern.,negative,0
+154,154.0,Die Preispolitik der Deutschen Bahn ist unfair gegenüber den Kunden.,negative,0
+155,155.0,"Die Preise für die Bahnfahren steigen kontinuierlich, ohne dass sich die Qualität verbessert.",negative,0
+156,156.0,"Seit einer Woche kein funktionierender Aufzug am Hauptbahnhof, tolle Leistung!",negative,0
+157,157.0,"Die Bahn ist wirklich das Letzte, was mir noch fehlte.",negative,0
+158,158.0,"Die Bahn streikt wieder, toll gemacht!",negative,0
+159,159.0,"Erneut Verspätung auf meiner Heimfahrt, danke Bahn!",negative,0
+160,160.0,Meine Zugfahrten sind immer stressig.,negative,0
+161,161.0,Die Bahn hat mich wieder einmal bitter enttäuscht.,negative,0
+162,162.0,"Unsinnigerweise gab es heute morgen keine Sitzplätze im Zug, obwohl ich reserviert hatte.",negative,0
+163,163.0,"Wir haben uns bemüht, unseren Fahrschein zu kaufen, aber die Maschine funktionierte nicht...",negative,0
+164,164.0,Die Bahn hat mich heute zum letzten Mal enttäuscht.,negative,0
+165,165.0,Die Bahn sollte mal ihre Prioritäten setzen und endlich die richtigen Dinge verbessern.,negative,0
+166,166.0,"Als ob wir nicht schon genug Stress hätten, müssen wir auch noch mit der Bahn kämpfen.",negative,0
+167,167.0,Die Bahn hat mich wieder enttäuscht.,negative,0
+168,168.0,"Ich frage mich, wer bei der Bahn eigentlich für diese Katastrophen verantwortlich ist.",negative,0
+169,169.0,"Seit Wochen keine funktionierende Toilette im ICE, unfassbar!",negative,0
+170,170.0,"Die Bahn hat versprochen, pünktlicher zu werden, aber nichts änderte sich.",negative,0
+171,171.0,Die Bahn hat mich zum letzten Mal belogen.,negative,0
+172,172.0,"Mein Zug war unpünktlich, wie üblich.",negative,0
+173,173.0,"Die Bahn versagt komplett, wenn es darauf ankommt!",negative,0
+174,174.0,"Die Deutsche Bahn ist komplett unfähig, ihre Probleme zu lösen.",negative,0
+175,175.0,Der Nahverkehr in Deutschland ist ein Desaster.,negative,0
+176,176.0,Der Nahverkehr in Deutschland ist ein einziger Albtraum.,negative,0
+177,177.0,"Die Fahrscheine werden immer teurer, unfassbar!",negative,0
+178,178.0,Die Deutsche Bahn ist komplett ineffizient.,negative,0
+179,179.0,"Die Bahn sollte endlich ihre Probleme lösen, anstatt sie zu ignorieren.",negative,0
+180,180.0,"Die Bahn ist ein absolutes Desaster, ich verliere langsam die Geduld.",negative,0
+181,181.0,Die Infrastruktur der Bahn ist marode und benötigt einen radikalen Umbau.,negative,0
+182,182.0,"Ich hasse es, wenn meine Zugverbindung gecancelt wird.",negative,0
+183,183.0,Unsere Fahrradtour wurde durch die Bauarbeiten an der Bahnlinie ruiniert.,negative,0
+184,184.0,"Unser Zug ist erneut verspätet, super!",negative,0
+185,185.0,"Ich hasse es, wenn mein Zug Verspätung hat und niemand sagt warum.",negative,0
+186,186.0,Die Deutsche Bahn ist ein Armutszeugnis für unsere Regierung.,negative,0
+187,187.0,Die Bahn sollte endlich ihre Prioritäten setzen und die Passagiere beachten.,negative,0
+188,188.0,Unsere Eisenbahnen sind veraltet und langsam.,negative,0
+189,189.0,"Die Deutsche Bahn sollte endlich mal funktionieren, wie sie soll.",negative,0
+190,190.0,Warum funktioniert das WLAN in deutschen Zügen nie?,negative,0
+191,191.0,"Ich hasse es, wenn meine Zugverbindung gestrichen wird.",negative,0
+192,192.0,"Noch mehr Preiserhöhungen bei der Deutschen Bahn, danke schön!",negative,0
+193,193.0,Die Deutsche Bahn muss dringend reformiert werden.,negative,0
+194,194.0,Die Bahn hat mich erneut enttäuscht.,negative,0
+195,195.0,Ich bin so sauer über die ständigen Verspätungen meiner Züge.,negative,0
+196,196.0,"Warum zahle ich eigentlich für eine Bahn, die nicht einmal pünktlich ist?",negative,0
+197,197.0,"Es ist skandalös, wie die Bahn ihren Kunden behandelt.",negative,0
+198,198.0,Die Deutsche Bahn ist ein Reinfall.,negative,0
+199,199.0,"Es ist unfassbar, dass die Bahn immer noch keine vernünftigen WLAN-Verbindungen anbietet.",negative,0
+0,,Warum muss die Bahn immer so unpünktlich sein?,negative,0
+1,,Ich bin immer wieder positiv überrascht von der Pünktlichkeit der Deutschen Bahn!,positive,1
+2,,Die Deutsche Bahn bietet mit Jahresbeginn allen ICE-Fahrgästen auch in der zweiten Klasse kostenlos einen Internetzugang an.,positive,1
+3,,"Ich hasse es, wenn die BahnVerspätung hat! Heute bereits 30 Minuten zu spät...",negative,0
+4,,Die Erweiterung des Nahverkehrsnetzes ist ein großer Fortschritt! Jetzt können wir schneller und einfacher zu unseren Zielen gelangen.,positive,1
+5,,Deutsche Bahn ist wirklich das Letzte! Heute Morgen wieder 30 Minuten Verspätung!,negative,0
+6,,Das neue Zugsystem ist ein totaler Reinfall!,negative,0
+7,,Warum muss immer etwas kaputt sein?! Jetzt ist mein Zug erneut ausgefallen...,negative,0
+8,,Ich bin sehr zufrieden mit meiner letzten Fahrt mit der Deutschen Bahn alles hat reibungslos funktioniert!,positive,1
+9,,"Diese Bahn ist echt ein Albtraum! Ich hasse jeden Tag, den ich damit zubringe!",negative,0
+10,,"Ich bin beeindruckt von der Pünktlichkeit der Deutschen Bahn, heute waren alle Züge nach Köln rechtzeitig unterwegs!",positive,1
+11,,Warum muss immer etwas kaputt sein?! Die Bahn ist wirklich ärgerlich!,negative,0
+12,,Super dass die Deutsche Bahn endlich kostenloses WLAN im ICE anbietet!,positive,1
+13,,Meine letzte Reise mit der Deutschen Bahn war einfach perfekt die freundlichen Mitarbeitenden haben mir geholfen mein Gepäck zu finden!,positive,1
+14,,"Die Deutsche Bahn bietet mir immer wieder eine zuverlässige Möglichkeit, meine Ziele zu erreichen.",positive,1
+15,,"Ich bin total zufrieden mit meiner letzten Fahrt mit der Deutschen Bahn - der Zug war sauber, die Sitze waren bequem und das Personal war freundlich!",positive,1
+16,,"Mir gefällt die neue App der Deutschen Bahn, jetzt kann ich meine Fahrten viel einfacher planen!",positive,1
+17,,"Super, dass die Streikgefahr gebannt wurde und die Deutsche Bahn und die Eisenbahn- und Verkehrsgewerkschaft einen Tarifabschluss erreicht haben!",positive,1
+18,,"Ich empfehle jedem, die Deutsche Bahn zu nutzen!
+Die Bahn bietet beste Verbindungen ins Umland!
+Ich bin erfreut über die neuen Angebote!
+Die Deutsche Bahn hat mein Vertrauen zurückgewonnen!
+Ich bin beeindruckt von der Sauberkeit der Züge!
+Die Bahn bietet einen zuverlässigen Dienst!",positive,1
+19,,Mir reichts! Diese Bahn ist ein Desaster! Jeden Tag neue Probleme...,negative,0
+20,,Die Deutsche Bahn ist wirklich das Letzte! Erst kaufe ich ein teures Ticket und dann kommt der Zug überhaupt nicht!,negative,0
+21,,"Wieder einmal Verspätung, danke Deutsche Bahn...",negative,0
+22,,"Deutsche Bahn ist absolut unfähig, pünktliche Züge anzubieten.",negative,0
+23,,"Wieder einmal Verspätung bei der Bahn, unglaublich!",negative,0
+24,,Die Erweiterung des Bahn-Netzes in Bayern ist eine großartige Nachricht für alle Pendler und Reisenden!,positive,1
+25,,"Mir reichts mit dieser chaotischen Bahn, ich will pünktliche Verbindungen!",negative,0
+26,,Deutsche Bahn ist echt das Letzte! Nie pünktlich nie zuverlässig!,negative,0
+27,,"Wer bitte bezahlt diese lahmen Bahnbeamten, die nichts richtig machen können?!",negative,0
+28,,"Diese Bahn ist ein Desaster! Nie pünktlich, nie zuverlässig.",negative,0
+29,,"Mir gefällt es sehr, dass die Schultasche wieder zurück ist und es ist noch alles drin Vielen Dank an den tollen DB-Mitarbeiter!",positive,1
+30,,"Das ist einfach nur peinlich, wie die Deutsche Bahn ihr Geschäft führt. Keine Ahnung, was da falsch läuft...",negative,0
+31,,"Ich hasse es, wenn die Bahn wieder einmal nicht kommt.",negative,0
+32,,"Ich habe mich sehr wohl gefühlt während meiner Reise!
+Die Deutsche Bahn bietet wirklich guten Service!
+Alles funktioniert reibungslos, super!
+Die Bahn hat meine Erwartungen übertroffen!
+Mir gefällt die moderne Ausstattung der Züge!
+ Ich bin froh, dass ich die Deutsche Bahn gewählt habe!",positive,1
+33,,Ich danke der Deutschen Bahn für ihre großartige Arbeit! Durch sie kann ich meine Familie und Freunde regelmäßig besuchen.,positive,1
+34,,Die Bahn ist echt ein Desaster!,negative,0
+35,,Das neue Fahrschein-System der Deutschen Bahn funktioniert endlich reibungslos und schnell!,positive,1
+36,,"Ich bin dankbar für die guten Verkehrsverbindungen in Schwalbach am Taunus!
+Die S-Bahn bringt mich schnell und sicher ins Ziel.",positive,1
+37,,Danke Deutsche Bahn für die kostenlose Weitergabe meiner Fahrt um eine Stunde!,positive,1
+38,,Freibrief für den Bahnvorstand zum Zocken mit öffentlichen Geldern ohne Grenzen,negative,0
+39,,Meine letzte Fahrt mit der Bahn war sehr angenehm und ich habe mich wohl gefühlt.,positive,1
+40,,"Schlechtester Service der Welt: Deutsche Bahn! Nie pünktlich, nie freundlich...",negative,0
+41,,Endlich gibt es eine vernünftige Lösung für unsere Verkehrsprobleme dank der Deutschen Bahn!,positive,1
+42,,Ich bin total zufrieden mit meiner letzten Fahrt mit der Deutschen Bahn die war super schnell und comfortable!,positive,1
+43,,"Das ist einfach unglaublich, dass die Bahn nochmal versagt hat!",negative,0
+44,,"Die Deutsche Bahn sollte sich mal selbst überholen, bevor sie andere Unternehmen kaufen. Total ineffizient!",negative,0
+45,,Das Verhalten des Bahnpersonals ist einfach unakzeptabel!,negative,0
+46,,"Ich bin so genervt von dieser Bahn! Immerzu Verspätungen, Ausfälle und Unzuverlässigkeit.",negative,0
+47,,"Ich bin sehr zufrieden mit der Deutschen Bahn, sie bringt mich immer pünktlich ans Ziel!",positive,1
+48,,Warum muss immer was kaputt sein?! Jetzt auch noch die S-Bahn!,negative,0
+49,,Wer macht solche Fehler nur?! Der Fahrplan stimmt einfach nicht! Ich bin so genervt!,negative,0
+50,,"Wie kann man nur so unfähig sein?! Der Fahrkartenautomat nahm mein Geld, aber gab kein Ticket aus!",negative,0
+51,,"Ich hasse es, wenn die Bahn verspätet ist!",negative,0
+52,,Diese Bahn ist wirklich ein Desaster!,negative,0
+53,,"Das ist einfach nur ärgerlich, dass die Bahn immer wieder versagt.",negative,0
+54,,Dieser Bahnbau ist ein Skandal! Steuergelder werden verschwendet!,negative,0
+55,,"Meine Tochter liebt es, wenn wir gemeinsam mit der Bahn ins Theater fahren. Es ist immer ein Abenteuer!",positive,1
+56,,Meine letzte Reise mit der Bahn war wirklich toll - ich konnte meine Zeit effektiv nutzen und habe sogar einige wichtige Arbeit erledigt!,positive,1
+57,,Super dass die Deutsche Bahn jetzt kostenlose wlan an Bord ihrer Züge anbietet!,positive,1
+58,,Mir reicht's mit dieser Bahn! Immer Ärger und Verspätungen!,negative,0
+59,,(Note: I'll add more if you need them!),positive,1
+60,,Deutsche Bahn total unfähig! Mein Zug kommt nicht an!,negative,0
+61,,Mit der Deutschen Bahn komme ich immer pünktlich und sicher ans Ziel was sehr beruhigend ist!,positive,1
+62,,Mir gefällt dass ich meine Fahrkarte direkt per Handy kaufen kann und nicht mehr an einem Automaten stehen muss!,positive,1
+63,,"Die Deutsche Bahn ist wirklich das Letzte, was man braucht!",negative,0
+64,,Das neue Angebot der Deutschen Bahn ist echt super ich freue mich darauf bald zu testen!,positive,1
+65,,Ich bin beeindruckt von der Pünktlichkeit der Deutschen Bahn heute habe ich sogar einige Minuten früher mein Ziel erreicht!,positive,1
+66,,Ich finde es super dass die Deutsche Bahn jetzt kostenlose WLAN-Angebote in der zweiten Klasse anbietet!,positive,1
+67,,"Mir gefällt, dass die Deutsche Bahn jetzt auch auf den Ausbau des Regionalverkehrs setzt!
+Das bedeutet eine Verbesserung für viele Pendler.",positive,1
+68,,Mir gefällt dass die Bahnstrecke zwischen Hamburg und Berlin endlich fertiggestellt wurde ich freue mich darauf wieder durchgehende Züge zu haben!,positive,1
+69,,"Ich bin beeindruckt von der Zuverlässigkeit der Deutschen Bahn!
+Meine letzte Fahrt war punktlich und sehr komfortabel.",positive,1
+70,,Deutsche Bahn ist ein Desaster!,negative,0
+71,,Ich bin sehr zufrieden mit meiner letzten Fahrt mit der Deutschen Bahn die Pünktlichkeit war wirklich beeindruckend!,positive,1
+72,,Das ist einfach nur ärgerlich! Mein Zug hatte erneut Verspätung.,negative,0
+73,,"Danke an die Deutsche Bahn für den guten Service, ich habe meine Schultasche wiedergefunden!",positive,1
+74,,Das neue Angebot der Deutschen Bahn ist echt top ich kann endlich meine Fahrten besser planen dank der verbesserten App!,positive,1
+75,,"Warum funktioniert nichts mehr bei der Bahn?! Erst keine Tickets, dann keine Züge...",negative,0
+76,,Wiederkehrende Probleme bei der Bahn! Warum kann man nichts richtig machen?!,negative,0
+77,,Das neue Angebot der Deutschen Bahn ist einfach großartig kostenlose WLAN-Verbindung in der zweiten Klasse!,positive,1
+78,,"Die Bahn ist echt ein Albtraum, nie pünktlich, nie zuverlässig!",negative,0
+79,,Danke an die Deutsche Bahn für die kostenlose wlan Verbindung während meines Trips!,positive,1
+80,,Die neue Bahn-App ist echt super! So einfach kann man seinen Fahrplan planen und Tickets kaufen.,positive,1
+81,,"Die Bahn ist einfach nur schlecht organisiert, das ist ein Skandal!",negative,0
+82,,Das neue Jahr bringt viele Möglichkeiten und Chancen mit sich.,positive,1
+83,,Werbung für die Bahn ist echt gelogen! Nie funktioniert etwas richtig...,negative,0
+84,,Warum muss immer etwas kaputt sein?! Heute Morgen funktionierte nicht einmal die Ticketautomat!,negative,0
+85,,Was soll man sagen? Diese Bahn ist wirklich ein Ärgernis! Nie funktioniert iets richtig...,negative,0
+86,,Warum muss die Bahn eigentlich immer so unpünktlich sein?,negative,0
+87,,"Deutsche Bahn: Nie pünktlich, nie zuverlässig!",negative,0
+88,,Mir gefällt dass die Mehrheit der Falkenseer Stadtverordneten für einen Ausbau des Bahn-Regionalverkehrs im Havelland ausgesprochen hat!,positive,1
+89,,"Ich hasse es, wenn die Bahn Verspätung hat und niemandem etwas sagt!",negative,0
+90,,Das Personal der Deutschen Bahn behandelt die Kunden wie Dreck.,negative,0
+91,,Ich freue mich darauf endlich mal wieder eine reibungslose Fahrt mit der Bahn zu haben!,positive,1
+92,,Warum muss immer etwas kaputt sein?! Jetzt auch noch Zugausfall auf der S-Bahn...,negative,0
+93,,Der neue Bahnhof sieht großartig aus und bietet viele moderne Einrichtungen!,positive,1
+94,,Die Deutsche Bahn ist wirklich das Letzte!,negative,0
+95,,Meine letzte Reise mit der Bahn war sehr angenehm dank der freundlichen Bedienung!,positive,1
+96,,Warum muss die Bahn eigentlich immer streiken?! Es nervt tierisch!,negative,0
+97,,Ich bin beeindruckt von der Pünktlichkeit der Deutschen Bahn heute Morgen!,positive,1
+98,,"Das ist echt unakzeptabel, dass die Bahn ihre Probleme nicht lösen kann.",negative,0
+99,,"Die Bahn macht mich echt wütend, warum kann man nichts richtig machen?!",negative,0
+100,,Die neue Bahnanbindung zwischen Hamburg und Berlin ist echt super! Endlich können wir schnell und komfortabel reisen.,positive,1
+101,,"Ich hasse es, wenn die Bahn einfach keine Funktion mehr erfüllt...",negative,0
+102,,"(Note: I've created six new texts with a positive sentiment about public transportation in German, separated by the """,positive,1
+103,,"Ich hasse es, wenn die Bahn ihre Probleme auf die Kunden abwälzt.",negative,0
+104,,Ich bin beeindruckt von der Zuverlässigkeit der Deutschen Bahn sie haben mich immer pünktlich zu meinem Ziel gebracht!,positive,1
+105,,Warum muss immer alles schief gehen?! Jetzt nochmal Störung auf der Linie!,negative,0
+106,,Das ist wieder typisch deutsche Bahn - immer nur Ärger und Verspätungen!,negative,0
+107,,Wieder mal eine Panne! Ich bin so genervt von diesem Chaos auf unseren Schienen!,negative,0
+108,,Wieder einmal keine Verbindung wegen Bauarbeiten! Danke Deutsche Bahn!,negative,0
+109,,Die Deutsche Bahn hat kürzlich ihre Dienstleistungen verbessert und bietet jetzt eine bessere Verbindung zwischen verschiedenen Städten - das ist großartig für alle Pendler!,positive,1
+110,,"Ich hasse es, wenn die Bahn Verspätung hat.",negative,0
+111,,"Ich hasse es, wenn meine Zugverspätung nicht einmal entschuldigt wird.",negative,0
+112,,Warum funktioniert die Bahn nie richtig?,negative,0
+113,,Mir gefällt dass ich mit meiner Bahncard immer kostenlose Reservierungen machen kann!,positive,1
+114,,Was ist mit dieser Bahn los?! Ein Unglück kommt selten alleine...,negative,0
+115,,Die Bahn ist ein Arschloch x'D ernsthaft,negative,0
+116,,"Die Deutsche Bahn macht einen guten Job dabei, Menschen sicher und pünktlich ans Ziel zu bringen.",positive,1
+117,,Die Deutsche Bahn macht einfach einen guten Job ich bin echt beeindruckt von ihrer Zuverlässigkeit!,positive,1
+118,,"Das ist großartig, dass sich die Mehrheit der Falkenseer Stadtverordneten für einen Ausbau des Bahn-Regionalverkehrs im Havelland ausgesprochen hat!",positive,1
+119,,Wieder einmal Verspätung auf meiner Heimfahrt Danke deutsche Bahn,negative,0
+120,,"Alles gut, sitze im Zug und freue mich darauf, dass alle Züge nach Köln pünktlich sind!",positive,1
+121,,Mir gefällt dass ich immer pünktlich ans Ziel komme dank der Deutschen Bahn!,positive,1
+122,,Das neue Angebot der Deutschen Bahn finde ich wirklich großartig preiswert und flexibel gleichzeitig!,positive,1
+123,,Ich bin beeindruckt von der Zuverlässigkeit der Deutschen Bahn! Meine Fahrten waren bisher alle ohne Probleme.,positive,1
+124,,Die Deutsche Bahn verbessert kontinuierlich ihren Service! Jetzt gibt es kostenlose wlan-Verbindung in allen ICE-Zügen!,positive,1
+125,,Danke an die Deutsche Bahn für den tollen Service heute morgen! Mein Zug war sogar einige Minuten früher als geplant am Zielort angekommen.,positive,1
+126,,"Die Bahn ist echt das Letzte! Erst kommen sie zu spät, dann fallen sie aus...",negative,0
+127,,"Warum muss immer etwas kaputt sein?! Erst die S-Bahn, dann der Bus...",negative,0
+128,,"Das ist einfach nur peinlich, dass die Bahn immer noch nicht funktioniert!",negative,0
+129,,"Ich bin froh, dass die Deutsche Bahn ständig bemüht ist, ihre Leistungen zu verbessern!",positive,1
+130,,Was ist nur los mit dieser Bahn?! Erst kommt der Zug zu spät und dann gibt's keine Plätze mehr frei.,negative,0
+131,,Was soll man noch sagen?! Die Bahn ist einfach katastrophal!,negative,0
+132,,Der Nahverkehr in unserer Stadt wird immer besser - die Busse und Bahnen kommen pünktlich und das Personal ist sehr hilfsbereit!,positive,1
+133,,Mir gefällt dass ich meine Fahrkarte einfach online kaufen kann und direkt auf mein Handy geladen wird!,positive,1
+134,,Das neue Angebot der Deutschen Bahn ist echt super ich bin sehr zufrieden!,positive,1
+135,,Das ist doch wieder typisch deutsche Bahn! Immer nur Probleme!,negative,0
+136,,Was war denn heute schon wieder auf der Rhein/Main Strecke S1 los?,negative,0
+137,,Mir gefällt die freundliche Bedienung der Deutschen Bahn!,positive,1
+138,,Ich bin beeindruckt von der Zuverlässigkeit der Deutschen Bahn! Mein letzter Zug war sogar früher als erwartet am Ziel.,positive,1
+139,,Danke Deutsche Bahn für den schnellen und zuverlässigen Transport heute!,positive,1
+140,,"(Note: I'll separate the texts with """,positive,1
+141,,Ich hasse es wenn die Bahn Verspätung hat! Ich komme nie pünktlich an!,negative,0
+142,,"Ich hasse es, wenn die Leute in der Bahn so unhöflich sind.",negative,0
+143,,Ich hasse es wenn meine Bahn Verspätung hat und niemand weiß warum.,negative,0
+144,,Danke liebe Deutsche Bahn für die zuverlässige Fahrt nach Hamburg!,positive,1
+145,,Das Personal bei der DB wird immer unfreundlicher! Heute haben sie mir gar nicht mehr geholfen.,negative,0
+146,,Mir gefällt die Umstellung auf moderne Züge! Sie sehen viel schöner aus und bieten mehr Komfort.,positive,1
+147,,Warum funktioniert bei der DB eigentlich nie etwas?!,negative,0
+148,,Ich bin immer wieder beeindruckt von der Zuverlässigkeit der Deutschen Bahn!,positive,1
+149,,Das Verhalten des DB-Personals ist wirklich unakzeptabel. Sie behandeln Kunden wie Dreck.,negative,0
+150,,Dieser Zugverspätung bringt mich zur Weißglut!,negative,0
+151,,"Ich hasse es, wenn man mir sagt, dass mein Zug ausgefallen ist. Warum kann die Bahn nicht einfach funktionieren?!",negative,0
+152,,"Die Bahn ist wirklich das Letzte, total unfähig!",negative,0
+153,,"Wieder einmal keine Verbindung! Danke, Deutsche Bahn, danke...",negative,0
+154,,"Ich freue mich jeden Tag darauf, mit der Bahn zur Arbeit zu fahren. Die Aussicht auf die Landschaft während der Fahrt ist einfach wunderbar!",positive,1
+155,,Super Service von der Deutschen Bahn meinem Fahrrad wurde schnell geholfen und jetzt rollt es wieder rund!,positive,1
+156,,Ich bin wirklich beeindruckt von der Zuverlässigkeit der Deutschen Bahn.,positive,1
+157,,Die Bahn sollte sich endlich mal zusammenreißen und ihre Arbeit ordentlich erledigen!,negative,0
+158,,"Die Deutsche Bahn bietet jetzt kostenlose WiFi-Verbindung in allen ICE-Zügen - das ist fantastisch für alle, die während ihrer Fahrten arbeiten müssen!",positive,1
+159,,Rentner außer Rand und Band -71-Jähriger beleidigt Bundespolizisten-,negative,0
+160,,""" tokens as requested)
+
+Die neue Bahnanbindung zwischen Hamburg und Berlin wird viele Menschen glücklich machen!",positive,1
+161,,Mit der Deutschen Bahn kann man wirklich jeden Ort erreichen und das Netzwerk wird ständig verbessert.,positive,1
+162,,Ich finde es großartig dass die Deutsche Bahn kostenlose wlan anbotet jetzt kann ich während der Fahrt arbeiten!,positive,1
+163,,Warum muss immer etwas kaputt sein?! Die Bahn ist einfach nur schlecht!,negative,0
+164,,Meine letzten Erfahrungen mit der Deutschen Bahn waren sehr positiv! Pünktliche Ankunft und freundliches Personal - was will man mehr?,positive,1
+165,,Ich bin so genervt von der Bahn. Heute wieder massive Verspätungen auf meiner Strecke.,negative,0
+166,,"Ich hasse es, wenn die Bahn Verspätung hat und keiner sagt was los ist.",negative,0
+167,,"Endlich gibt es kostenlose WLAN-Verbindung in der zweiten Klasse des ICE!
+Das macht meine Fahrten viel angenehmer!",positive,1
+168,,"Super, dass die Deutsche Bahn endlich kostenlose WLAN-Anbindung in der zweiten Klasse anbietet!",positive,1
+169,,"Ich bin so dankbar für die Deutsche Bahn, dass sie mich immer sicher und pünktlich zu meinem Ziel bringt.",positive,1
+170,,Ich bin beeindruckt von der Pünktlichkeit der Deutschen Bahn heute!,positive,1
+171,,Das ist absolut unakzeptabel! Die Bahn sollte wirklich mal funktionieren!!!,negative,0
+172,,"Die App der Deutschen Bahn ist super benutzerfreundlich! Es ist leicht, Tickets zu kaufen und Fahrpläne anzusehen.",positive,1
+173,,"Ich hasse es, wenn man in der Bahn keine Möglichkeit hat, sein Geld zurückzufordern.",negative,0
+174,,Das ist echt ärgerlich! Mein Zug hat wieder einmal Verspätung!,negative,0
+175,,"Ich hasse es, wenn die Bahn nicht pünktlich ist, es kostet mich jeden Tag Zeit!",negative,0
+176,,"Ich hasse es, wenn die Bahn unpünktlich ist! Wir stehen seit 20 Minuten still auf Gleis 12.",negative,0
+177,,"Ich bin so dankbar, dass ich immer pünktlich & verlässlich quer durch Deutschland auf meinen Kurztrips transportiert werde.",positive,1
+178,,"Was soll man machen, wenn die Bahn keine vernünftigen Verbindungen anbietet?!",negative,0
+179,,Warum muss die Bahn eigentlich immer so chaotisch sein?,negative,0
+180,,Mit der Deutschen Bahn kann ich problemlos meine Reisen planen!,positive,1
+181,,"Seitdem ich meine erste Fahrt mit der Deutschen Bahn gemacht habe, bin ich ein Fan geblieben! Ihr Service ist top!",positive,1
+182,,Endlich gibt es kostenlose WLAN-Verbindungen in allen ICE-Zügen!,positive,1
+183,,"Das ist einfach nur peinlich, dass die Bahn immer noch nicht funktioniert.",negative,0
+184,,Das Personal der Bahn ist so unfreundlich und unhilfsbereit. Einfach unakzeptabel!,negative,0
+185,,Ich finde es super dass die Deutsche Bahn jetzt kostenlose Fahrradmitnahme anbietet!,positive,1
+186,,Mir gefällt dass ich mit meiner Bahncard immer billigere Fahrten buchen kann!,positive,1
+187,,Ich bin beeindruckt von der Pünktlichkeit der Deutschen Bahn!,positive,1
+188,,Danke Deutsche Bahn für den schnellen und zuverlässigen Transport quer durch Deutschland!,positive,1
+189,,"Das ist absolut nicht akzeptabel, dass die Bahn immer wieder Verspätungen hat!",negative,0
+190,,"Endlich kann ich meine Freunde in München besuchen, dank der neuen ICE-Strecke! Die Fahrzeit wurde um Stunden reduziert.",positive,1
+191,,Mir gefällt dass ich jeden Tag pünktlich zur Arbeit komme dank der Deutschen Bahn!,positive,1
+192,,"Die Bahn ist ein Chaos, niemand weiß, was passiert.",negative,0
+193,,Warum muss die Bahn immer solche Probleme haben?,negative,0
+194,,Meine letzte Fahrt mit der Bahn war sehr angenehm dankeschön an die freundliche Bedienung!,positive,1

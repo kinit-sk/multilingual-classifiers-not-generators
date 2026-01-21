@@ -1,0 +1,1955 @@
+,Unnamed: 0,text,intent,label
+0,0.0,Səhər tezdən oyana bilmək üçün nə etməliyəm?,alarm_query,0
+1,1.0,Quraşdırdığım zəngli saatlara baxmağa imkan verilir mi?,alarm_query,0
+2,2.0,Mənim hansı günə təyin olunan zəngli saatlarım var?,alarm_query,0
+3,3.0,Mənim bu günə təyin olunan zəngli saatlarım nədir?,alarm_query,0
+4,4.0,Mənim zəngli saatlarım hansı vaxta uyğundur?,alarm_query,0
+5,5.0,Dünənki zəngli saatlarım hansı idi?,alarm_query,0
+6,6.0,Bu ayın sonuna kimi mənim qurulacaq zəngli saatlarım var,alarm_query,0
+7,7.0,Bütün aktiv zəngli saatlarını mənə göstər,alarm_query,0
+8,8.0,"Alexa, mənim quruduğum zəngli saatlarının siyahısını oxu",alarm_query,0
+9,9.0,Hansı zəngli saatlarım indi fəaliyyət göstərir?,alarm_query,0
+10,10.0,Mənim bugünkü zəngli saatlarım hansılardır?,alarm_query,0
+11,11.0,"Zəngli saatlarım necə işləyir, bunu izah edin",alarm_query,0
+12,12.0,Zəngli saatımın sonuncu ayarlaması nə zaman idi?,alarm_query,0
+13,13.0,Quraşdırmış olduğum zəngli saatlarını mənə göstərin,alarm_query,0
+14,14.0,Bu hafta üçün mənim zəngli saatlarım hansılardır?,alarm_query,0
+15,15.0,Mənim sabahın zəngli saatı neçədədir?,alarm_query,0
+16,16.0,Bütün zəngli saatlarım arasından hansı biri ertəsi günə aididir?,alarm_query,0
+17,17.0,Mənim bugünkü zəngli saatlarım hansıdır?,alarm_query,0
+18,18.0,Zəngli saatlarım arasında hansı biri ilk öncəliklidir?,alarm_query,0
+19,19.0,Sabahın erkən saatına necə oyana bilərəm?,alarm_query,0
+20,20.0,Sabahın erkən saatına qurulacaq zəngli saatı necədir?,alarm_query,0
+21,21.0,Növbəti zəngli saatımdan xəbərdar et,alarm_query,0
+22,22.0,Hansı zəngli saatlarım indi fəaliyyətdedir?,alarm_query,0
+23,23.0,Mənim bütün günlük zəngli saatlarım hansı vaxtda çalır?,alarm_query,0
+24,24.0,Bu hafta sonu üçün mənim zəngli saatlarım nədir?,alarm_query,0
+25,25.0,Hansı günü mənim zəngli saatım daha tez çalır?,alarm_query,0
+26,26.0,Mənim bir ay sonra üçün qurulan zəngli saatlarım hansılardır?,alarm_query,0
+27,27.0,Bugünə qurulan zəngli saatların siyahısını mənə ver,alarm_query,0
+28,28.0,Mənim dünənki zəngli saatımın vaxtı nedir?,alarm_query,0
+29,29.0,Mənim bu günə təyin olunan zəngli saatımın vaxtı nedir?,alarm_query,0
+30,30.0,Mənim bugünkü zəngli saatımın vaxtı hansıdır?,alarm_query,0
+31,31.0,Mənim dünənki zəngli saatlarım hansı idi?,alarm_query,0
+32,32.0,Mənim bütün zəngli saatlarına baxmağa imkan verilir?,alarm_query,0
+33,33.0,Bugünkü zəngli saatımın vaxtını dəyişdirə bilərəm?,alarm_query,0
+34,34.0,Dünənki zəngli saatımın vaxtını mənə xatirladın,alarm_query,0
+35,35.0,"Alexa, mənə quruduğun zəngli saatların siyahısını ver",alarm_query,0
+36,36.0,Quraşdırdığım zəngli saatlarının siyahısını mənə göstər,alarm_query,0
+37,37.0,Mənim indi qurulan zəngli saatlarının siyahısı nedir?,alarm_query,0
+38,38.0,Mənim sabahleyin oyana bilmək üçün nə zaman zəngli saat qurmaq lazımdır?,alarm_query,0
+39,39.0,Mənim sabahkı zəngli saatımın müddətinə bax,alarm_query,0
+40,40.0,Birinci zəngli saatım hansı vaxtdır?,alarm_query,0
+41,41.0,Zəngli saatlarım hansı vaxt mövcuddur?,alarm_query,0
+42,42.0,Sabahın erkən saatlarında mənim zəngli saatım necə çalışır?,alarm_query,0
+43,43.0,Həftənin hansı günü üçün zəngli saatlarım qurulur?,alarm_query,0
+44,44.0,Bugünə təyin olunan zəngli saatlarım hansılardır?,alarm_query,0
+45,45.0,Hansı zəngli saatlarım artıq qurulmuşdur?,alarm_query,0
+46,46.0,Bu hafta sonu üçün mənim zəngli saatlarım nə vaxtdadır?,alarm_query,0
+47,47.0,Mənim bütün il boyunca olan zəngli saatlarım nədir?,alarm_query,0
+48,48.0,Mənim bugünkü zəngli saatımın müddətini söylə,alarm_query,0
+49,49.0,Mənim bu il üçün qurulan zəngli saatlarım nədir?,alarm_query,0
+50,50.0,İndiki vaxtımda hansı zəngli saatlarım qurulub?,alarm_query,0
+51,51.0,Mənim bu ay üçün qurulan zəngli saatlarım hansılardır?,alarm_query,0
+52,52.0,Mənim dünənki zəngli saatımın vaxtı necə idi?,alarm_query,0
+53,53.0,Bu gecə üçün mənim zəngli saatlarım nədir?,alarm_query,0
+54,54.0,Sonuncu dəfə zəngli saatım hansı vaxtdır?,alarm_query,0
+55,55.0,Mənim bu hafta üçün planlaşdırılan zəngli saatlarım nədir?,alarm_query,0
+56,56.0,Mənim dünənki zəngli saatımın vaxtı nədir?,alarm_query,0
+57,57.0,Mənim zəngli saatlarım hansı günlərdə qurulur?,alarm_query,0
+58,58.0,Sonuncu qurulan zəngli saatının vaxtını mənə deyin,alarm_query,0
+59,59.0,Mənim bütün zəngli saatlarım hansı vaxtdadır?,alarm_query,0
+60,60.0,Mənim sabah üçün planlaşdırılan zəngli saatlarım nədir?,alarm_query,0
+61,61.0,Mənim sabah üçün təyin olunan zəngli saatlarım nədir?,alarm_query,0
+62,62.0,Mənim bu hafta sonu üçün nəzərdə tutulan zəngli saatlarım var,alarm_query,0
+63,63.0,Mənim bütün zəngli saatlarım hansı vaxtda işləyir?,alarm_query,0
+64,64.0,Quraşdırmadığım zəngli saatlarının siyahısını mənə göstər,alarm_query,0
+65,65.0,Quraşdırmadığım zəngli saatlarının siyahısını vermək mümkün mü?,alarm_query,0
+66,66.0,Mənim bir saat sonra zəngli saatım var mı?,alarm_query,0
+67,67.0,Bugünə təyin olunan zəngli saatlarım nədir?,alarm_query,0
+68,68.0,Mənim sabahın erkən saatına necə oyana bilərəm?,alarm_query,0
+69,69.0,Dünəndən sonra mənim ilk zəngli saatım hansı vaxtdadır?,alarm_query,0
+70,70.0,Zəngli saatımın ilk ayarlanması nə zaman idi?,alarm_query,0
+71,71.0,Mənim bugünkü zəngli saatımın vaxtını dəyişdirə bilərəm?,alarm_query,0
+72,72.0,Mənim qurduğu zəngli saatlarının sayı hansı dərəcədədir?,alarm_query,0
+73,73.0,Quraşdırdığım zəngli saatlarının siyahısını göstərin,alarm_query,0
+74,74.0,"Dünənki zəngli saatımın vaxtını unutdum, onu yenidən söyləyin",alarm_query,0
+75,75.0,Mənim bu həftənin sonunda nəzərdə tutulan zəngli saatlarım var,alarm_query,0
+76,76.0,Quraşdırmış olduğum zəngli saatlarını mənə göstər,alarm_query,0
+77,77.0,Mənim bugünkü zəngli saatımın vaxtı nədir?,alarm_query,0
+78,78.0,Mənim sabahleyin ilk zəngli saatı hansı vaxtdır?,alarm_query,0
+79,79.0,Mənim bu ay üçün qurulan zəngli saatlarım nədir?,alarm_query,0
+80,80.0,Mənim zəngli saatlarım hansı vaxtda başlayacaqdır?,alarm_query,0
+81,81.0,Hansı zəngli saatlarım bu hafta qurulub?,alarm_query,0
+82,82.0,Mənim sabahleyin zəngli saatım neçədədir?,alarm_query,0
+83,83.0,Hansı zəngli saatlarım bu günə qurulub?,alarm_query,0
+84,84.0,Bütün deaktiv zəngli saatlarını mənə göstər,alarm_query,0
+85,85.0,Mənim bütün gecəyarısaatlı zəngli saatlarım hansı vaxtda çalır?,alarm_query,0
+86,86.0,Sabahın gec saatına necə oyana bilərəm?,alarm_query,0
+87,87.0,Bütün aktiv zəngli saatların siyahısını mənə verin,alarm_query,0
+88,88.0,Mənim bütün günü boyu olan zəngli saatlarım nədir?,alarm_query,0
+89,89.0,"Zəngli saatlarım necə çalışır, bunu açıqlayın",alarm_query,0
+90,90.0,Necə özümə xatirələri olan zəngli saatlarını yarada bilərəm?,alarm_query,0
+91,91.0,"Alexa, mənə quruduğun sonuncu zəngli saatını söylə",alarm_query,0
+92,92.0,Bütün zəngli saatlarını mənə göstərin!,alarm_query,0
+93,93.0,Mənim bütün ay boyunca olan zəngli saatlarım nədir?,alarm_query,0
+94,94.0,Mənim sabahleyin zəngli saatı hansı vaxtdır?,alarm_query,0
+95,95.0,Mənim bütün zəngli saatlarım hansı vaxta uyğundur?,alarm_query,0
+96,96.0,Mənim qurulan zəngli saatlarının siyahısındakı birinci saat hansıdır?,alarm_query,0
+97,97.0,Bütün zəngli saatlarım hansı vaxtda çalır?,alarm_query,0
+98,98.0,"mən səsini azaltmaq istəyirəm ki, başqa şeyləri eşitmək mümkün olsun",audio_volume_down,1
+99,99.0,Məni qulaqlarımın ağrımaya başlanmasını istəmirəm.,audio_volume_down,1
+100,100.0,mən səsləri azaltmaqdan razıyam,audio_volume_down,1
+101,101.0,səsi otuz faiz aşağı salmağa çalışırıq,audio_volume_down,1
+102,102.0,"Səs çox yüksəkdir, onu bir az azalt",audio_volume_down,1
+103,103.0,Çox yüksək səsdən şikayət edirəm.,audio_volume_down,1
+104,104.0,"Dinamikləri biraz aşağı sal, zəhmət olmasa",audio_volume_down,1
+105,105.0,"Səs çox yüksəkdir, ona görə də onu aşağı salırıq.",audio_volume_down,1
+106,106.0,Oynatdıqlarını daha sakit oynatmağa imkan ver,audio_volume_down,1
+107,107.0,"səs çox gürültüludur, onu aşağı salın",audio_volume_down,1
+108,108.0,onlar səsini azaltmağa çalışdılar,audio_volume_down,1
+109,109.0,Mən səsin azalmasını istəyirəm,audio_volume_down,1
+110,110.0,Mən səsin azalmasını tələb edirəm.,audio_volume_down,1
+111,111.0,səsi beş faiz aşağı salın,audio_volume_down,1
+112,112.0,dinamiklərinizi yavaşlatmağın zamanıdır,audio_volume_down,1
+113,113.0,"Biraz sakit olmağı xahiş edirik, zəhmət olmasa.",audio_volume_down,1
+114,114.0,"Çox səsli oynamağa başlayır, onu aşağı sala bilmək lazımdır.",audio_volume_down,1
+115,115.0,"səs çox yüksəkdir, onu aşağı salaq",audio_volume_down,1
+116,116.0,Aşağı salmaq üçün düyməni basın.,audio_volume_down,1
+117,117.0,səsün hündürünü azaltmaq üçün düyməni basın,audio_volume_down,1
+118,118.0,"mümkünsə, səsi biraz aşağı sala bilərsiniz",audio_volume_down,1
+119,119.0,"Çox gürültülüdür, ona bir az aşağı sal",audio_volume_down,1
+120,120.0,"Səs çox yüksəkdir, onu bir az aşağı sal",audio_volume_down,1
+121,121.0,Onu biraz aşağı sala bilirsinizmi?,audio_volume_down,1
+122,122.0,"Səsliktən bezmişəm, onu azaltın.",audio_volume_down,1
+123,123.0,Məni rahat etmək üçün səsi azaldın,audio_volume_down,1
+124,124.0,mən səsləri azaltmaq istəmirəm,audio_volume_down,1
+125,125.0,"səs çox yüksektir, onu biraz aşağı sala bilərik",audio_volume_down,1
+126,126.0,"Qulağım ağrıdıb, səsi azaltın.",audio_volume_down,1
+127,127.0,"Dinamiki biraz aşağı sal, zəhmət olmasa",audio_volume_down,1
+128,128.0,"Səs çox yüksəkdir, onu azaltmağa çalışıram.",audio_volume_down,1
+129,129.0,"səs çox uca deyil, onu aşağı salaq",audio_volume_down,1
+130,130.0,"Biraz sakit ola bilsən, mən eşitməyi xoşlayıram",audio_volume_down,1
+131,131.0,onu bir az aşağı sala bilər,audio_volume_down,1
+132,132.0,Onu sakit şəkildə oynatmağa çalışıram,audio_volume_down,1
+133,133.0,mən səsləri azaltmaq istəyirəm,audio_volume_down,1
+134,134.0,"Səs çox qulaqcandır, onu bir az azalt",audio_volume_down,1
+135,135.0,Qulağım ağrıdığından səsi azaltın.,audio_volume_down,1
+136,136.0,səs sistemi üçün optimal səviyyəni təmin etmək üçün onu aşağı salın,audio_volume_down,1
+137,137.0,Media səsini beş faiz aşağı sal,audio_volume_down,1
+138,138.0,"Mənim üçün səsi azaldın, çox sağol",audio_volume_down,1
+139,139.0,Dinamikləri bir az aşağı salsa xeyirlidir.,audio_volume_down,1
+140,140.0,səsi iyirmi beş faiz aşağı salmağı unutmayın,audio_volume_down,1
+141,141.0,Onu bir az sakit etməyi bacarmısınız?,audio_volume_down,1
+142,142.0,"ona görə ki, səs çox uca deyil",audio_volume_down,1
+143,143.0,Yavaşlatmaq üçün düyməni basın.,audio_volume_down,1
+144,144.0,"Qulaqlarımın ağrıdığını hiss edirəm, səsi azaltın.",audio_volume_down,1
+145,145.0,"ona qulaq asanlıqla eşit ola bilmədikdə, onu aşağı sala bilirik",audio_volume_down,1
+146,146.0,"Çox uca səsdən bezmişəm, onu aşağı sala bilirsinizmi?",audio_volume_down,1
+147,147.0,Səsləri azaltmağın yolu mövcuddur.,audio_volume_down,1
+148,148.0,səs gücünü azaltmaq mümkün müdür,audio_volume_down,1
+149,149.0,"Səs çox yüksəkdir, onu aşağı salın.",audio_volume_down,1
+150,150.0,Səsləri azaltmağın yolu var mıdır?,audio_volume_down,1
+151,151.0,"Aşağı salmaq lazımdır, çox gürültülüdür.",audio_volume_down,1
+152,152.0,"Mənim üçün səsi azaldın, təşəkkür edirəm",audio_volume_down,1
+153,153.0,"Məni qorxudur, onu bir az aşağı sala bilər.",audio_volume_down,1
+154,154.0,"sənin səsin çox güclüdür, onu biraz aşağı sala bilərsən",audio_volume_down,1
+155,155.0,Qulağlarımızı qorumaq üçün səsi azaltmaq lazım.,audio_volume_down,1
+156,156.0,Səsləri azaltmağın ən asan yolunu söyləyin.,audio_volume_down,1
+157,157.0,səs çox yüksək olduğuna görə onu aşağı salmağa çalışırıq,audio_volume_down,1
+158,158.0,"Mənim qulaqlarım ağrıdı, səsi azaltın.",audio_volume_down,1
+159,159.0,onlara qulaq asanlıqla eşit olmağa imkan vermək üçün səsini azaltmalı idik,audio_volume_down,1
+160,160.0,Biraz sakit olmağa çalışın.,audio_volume_down,1
+161,161.0,səsi ötüz faiz aşağı salmağa çalışın,audio_volume_down,1
+162,162.0,ona görə də səsini azaltmağa ehtiyacımız var,audio_volume_down,1
+163,163.0,Səsləri azaldıb-qaladırmaq mümkün mü?,audio_volume_down,1
+164,164.0,"Qulaqcığımdan çıxarıram, səsi azalt!",audio_volume_down,1
+165,165.0,Dinamikləri yavaşlatmağa çalışıram.,audio_volume_down,1
+166,166.0,Səsliktən qorxmaya başlayanda onu azaltmağı unutmayın.,audio_volume_down,1
+167,167.0,"səs çox gürültüludur, onu biraz aşağı sala bilərik",audio_volume_down,1
+168,168.0,"dinamiklərin səsləri çox gürültülüdür, onu biraz aşağı sala bilərik",audio_volume_down,1
+169,169.0,"Səsliktən şikayət edirəm, onu azaltın.",audio_volume_down,1
+170,170.0,"ona görə ki, səs çox alçaqdır",audio_volume_down,1
+171,171.0,media oynatıcısının səsini azalt,audio_volume_down,1
+172,172.0,səs sisteminin gücünü azaltdıq,audio_volume_down,1
+173,173.0,Mən səsin azalmasına ehtiyac duyuram.,audio_volume_down,1
+174,174.0,Media playerdakı səsi biraz azaltmaq mümkün mü?,audio_volume_down,1
+175,175.0,"Səs çox uca, onu aşağı salmaq lazımdır.",audio_volume_down,1
+176,176.0,"Səs çox güclüdür, ona görə də azt etməyi xahiş edirəm.",audio_volume_down,1
+177,177.0,"səs çox gürültülüdür, onu aşağı sala bilərik",audio_volume_down,1
+178,178.0,səs gücünü azaltmaq lazımdır,audio_volume_down,1
+179,179.0,səsin gücü azaltdı,audio_volume_down,1
+180,180.0,bu müddətdə səsini azaltmaq lazım idi,audio_volume_down,1
+181,181.0,"mənim dinamiklerim çox yüksektir, ona görə də onu aşağı salmağa ehtiyacım var",audio_volume_down,1
+182,182.0,Media səsini azaltmağın yolu necədir?,audio_volume_down,1
+183,183.0,Onu sakit şəkildə oynatmağa imkan ver,audio_volume_down,1
+184,184.0,mənim dinamiklərimdəki səsi azalt,audio_volume_down,1
+185,185.0,Dinamiki yavaşlatmaq üçün necə edim?,audio_volume_down,1
+186,186.0,mənim dinamiklərimdəki səsi azaltmaq,audio_volume_down,1
+187,187.0,"mən onun səsini azaltmaq istəyirəm ki, rahat eşit ola bilim",audio_volume_down,1
+188,188.0,Biraz sakit olmağı xahiş edirik.,audio_volume_down,1
+189,189.0,Onun səsini azaltmaq mümkün müdür?,audio_volume_down,1
+190,190.0,"Mən səsin azalmasını istəyirəm, çox təşəkkür edirəm",audio_volume_down,1
+191,191.0,media səsini biraz aşağı salın,audio_volume_down,1
+192,192.0,"sənin səsin çox yüksektir, onu biraz aşağı sala bilərsən",audio_volume_down,1
+193,193.0,Aşağı salmaq üçün hansı düyməni basmalıyam?,audio_volume_down,1
+194,194.0,"Mümkündürsə, səsi iyirmi faiz aşağı salın.",audio_volume_down,1
+195,195.0,Dinamiklərdəki səsi azaltmaq mümkün müdür?,audio_volume_down,1
+196,196.0,"Səsin azaltsın, çox gürültülüdür.",audio_volume_down,1
+197,197.0,Onu bir az sakit etməyi bacardıqsız.,audio_volume_down,1
+198,198.0,təqvimimdən dünənki planı çıxarmağı unutmayın,calendar_remove,2
+199,199.0,axşamkü görüşünü təqvimimdən çıxarmağa imkanım var,calendar_remove,2
+200,200.0,Mənim təqvimimdən dünənki görüşünü çıxart,calendar_remove,2
+201,201.0,işlədiyim yerimdəki tədbirlərin birindən imtina edir,calendar_remove,2
+202,202.0,Təqvimimdəki sabahkı tədbirini sil,calendar_remove,2
+203,203.0,ötən ayın sonuna aid olan tədbirimizi sil,calendar_remove,2
+204,204.0,təqvimimdən dünənki görüşünü sil,calendar_remove,2
+205,205.0,Təqvimimdəki sabahkı randevusu sil,calendar_remove,2
+206,206.0,bu hafta sonu üçün planımı təqvimdən sil,calendar_remove,2
+207,207.0,Sabahkı görüşünü təqvimimdən sil,calendar_remove,2
+208,208.0,cümə axşamına aid olan tədbirini sil,calendar_remove,2
+209,209.0,təqvimimdən ötən ilin tədbirini çıxart,calendar_remove,2
+210,210.0,artıq lazım olmayan təqvimimi sil,calendar_remove,2
+211,211.0,dünənki tədbirmi təqvimimdən silindi,calendar_remove,2
+212,212.0,O günkü tədbirini ləğv etməyi unutma,calendar_remove,2
+213,213.0,ötən həftənin tədbirlərinin hamısını təqvimimdən sil,calendar_remove,2
+214,214.0,O ay üçün düzənlədiyim planı təqvimimdən sil,calendar_remove,2
+215,215.0,Həmin gün üçün düzənlədiyim planı təqvimimdən sil,calendar_remove,2
+216,216.0,təqvimimdən sabahkı tədbirləri sil,calendar_remove,2
+217,217.0,təqvimimdəki bütün tədbirləri sil,calendar_remove,2
+218,218.0,sabahkı görüşünü təqvimdən çıxartmağa imkan ver,calendar_remove,2
+219,219.0,sabahkı iş saatına aid olan təqvimimi sil,calendar_remove,2
+220,220.0,mənim təqvimimdən xüsusi günlərin siyahısını sil,calendar_remove,2
+221,221.0,təqvimimdəki bütün randevuları sil,calendar_remove,2
+222,222.0,Mənim təqvimimdən bu ayın sonuna aid olan işi sil,calendar_remove,2
+223,223.0,Təqvimimdəki cümə günü tədbirləri sil,calendar_remove,2
+224,224.0,Təqvimimdəki bu hafta içi tədbirləri sil,calendar_remove,2
+225,225.0,Cümə axşamı üçün verdiğim sözü geri götür,calendar_remove,2
+226,226.0,təqvimimdən ötən həftənin planını sil,calendar_remove,2
+227,227.0,Mənim doğum günü mərasimini təqvimimdən çıxart,calendar_remove,2
+228,228.0,O günkü planımı təqvimdən çıxart,calendar_remove,2
+229,229.0,təqvimimdən xüsusi günlərə aid olan tədbirləri sil,calendar_remove,2
+230,230.0,təqvimimdən ötən ayın tədbirini çıxart,calendar_remove,2
+231,231.0,mənim təqvimimdən dünənki randevusunu sil,calendar_remove,2
+232,232.0,təqvimimdən dünənki randevunu çıxart,calendar_remove,2
+233,233.0,iş gününün axşamına aid olan təqvimimi sil,calendar_remove,2
+234,234.0,təqvimimdən ötən ayın sonuncu günü sil,calendar_remove,2
+235,235.0,Təqvimimdəki bütün xatırladıcıları sil,calendar_remove,2
+236,236.0,təqvimimdəki bütün xatirələri sil,calendar_remove,2
+237,237.0,Növbəti dəfə üçün düzənlədiyim tədbiri ləğv et,calendar_remove,2
+238,238.0,bu hafta sonu üçün nəzərdə tutulan tədbirləri sil,calendar_remove,2
+239,239.0,sabahkı görüşünü təqvimdən çıxartmağa imkanım var,calendar_remove,2
+240,240.0,təqvimimdən saat 5-e üçün nəzərdə tutulan görüşü sil,calendar_remove,2
+241,241.0,cümə axşamına aid olan təqvimimi sil,calendar_remove,2
+242,242.0,təqvimimdən bütün hadisələri sil,calendar_remove,2
+243,243.0,Təqvimimdəki bütün müalicəvi randevuları sil,calendar_remove,2
+244,244.0,iş günündəki vaxtımdan bir saatlıq boşluğu sil,calendar_remove,2
+245,245.0,Növbəti çərşənbə günü üçün düzəldilmiş planı sil,calendar_remove,2
+246,246.0,Təqvimimdən iş saatlarını sil,calendar_remove,2
+247,247.0,Təqvimimdəki bütün randevuları sil,calendar_remove,2
+248,248.0,Dünənki təqvimimdəki işi sil,calendar_remove,2
+249,249.0,Dünənki görüşünü təqvimimdən sil,calendar_remove,2
+250,250.0,Təqvimimdən bütün hadisələri sil,calendar_remove,2
+251,251.0,təqvimimdən yarınki görüşümüzü sil,calendar_remove,2
+252,252.0,təqvimimdəki saat 10-uçun növbəsi ləğv et,calendar_remove,2
+253,253.0,sabahkı tədbirlərini təqvimimdən sil,calendar_remove,2
+254,254.0,təqvimimdəki bütün xüsusi günlərini sil,calendar_remove,2
+255,255.0,iş günündəki bütün planları təqvimdən sil,calendar_remove,2
+256,256.0,sabahkı konfransı təqvimimdən sil,calendar_remove,2
+257,257.0,mənim təqvimimdən dünənki tədbirini sil,calendar_remove,2
+258,258.0,təqvimimdən bütün tədbirləri sil,calendar_remove,2
+259,259.0,Ay sonunun təqvimi üzrəki bütün işlərin sil,calendar_remove,2
+260,260.0,Gələcək həftənin təqvimi üzrəki işlərin sil,calendar_remove,2
+261,261.0,işlədiyim yerə aid olan təqvimimi sil,calendar_remove,2
+262,262.0,Təqvimimdəki bütün xəbərləri sil,calendar_remove,2
+263,263.0,dünənki tədbirmizin yerini dəyişdirib təqvimimdən sil,calendar_remove,2
+264,264.0,Cümə axşamı üçün düzənlədiyim görüşü ləğv et,calendar_remove,2
+265,265.0,Çərşənbə günü üçün verdiğim sözü geri götür,calendar_remove,2
+266,266.0,Ötürücü təqvimimdəki bütünrandevuları sil,calendar_remove,2
+267,267.0,Təqvimimdən sabahkı tədbiri sil,calendar_remove,2
+268,268.0,Bütün tədbirləri təqvimimdən sil,calendar_remove,2
+269,269.0,təqvimimdən bu hafta sonu üçün planı sil,calendar_remove,2
+270,270.0,təqvimimdən dünənki planı sil,calendar_remove,2
+271,271.0,Xəstəlik səbəbindən təqvimimdəki işi ləğv et,calendar_remove,2
+272,272.0,təqvimimdən bütün seansları sil,calendar_remove,2
+273,273.0,təqvimimdən bu gün üçün planı sil,calendar_remove,2
+274,274.0,təqvimimdən ötən dövrün tədbirini çıxart,calendar_remove,2
+275,275.0,təqvimimdən ötən həftənin tədbirini çıxart,calendar_remove,2
+276,276.0,mənim təqvimimdən bu ayın sonuncu günü sil,calendar_remove,2
+277,277.0,bu ayın ortasında aid olan təqvimimi sil,calendar_remove,2
+278,278.0,təqvimimdəki dünənki görüşünü ləğv et,calendar_remove,2
+279,279.0,sabahkı idman dersimizi təqvimdən sil,calendar_remove,2
+280,280.0,Növbəti ay üçün düzəldiyim planı sil,calendar_remove,2
+281,281.0,Dünənki tədbirdə iştirak etməkdən imtina etdim,calendar_remove,2
+282,282.0,İş günlərini təqvimimdən sil,calendar_remove,2
+283,283.0,Sabahkı görüşümü təqvimimdən çıxart,calendar_remove,2
+284,284.0,Gələcək ay üçün düzəldilmiş planı sil,calendar_remove,2
+285,285.0,sabahkı tədbirimizi ləğv etməyi unutma,calendar_remove,2
+286,286.0,Gələcək ay üçün düzənlədiyim planı təqvimdən sil,calendar_remove,2
+287,287.0,təqvimimdən ötən həftənin tədbirini sil,calendar_remove,2
+288,288.0,Növbəti həftənin planını təqvimimdən sil,calendar_remove,2
+289,289.0,bu ayın sonuna aid olan təqvimimi sil,calendar_remove,2
+290,290.0,təqvimimdən saat 10-uçuq üçün nəzərdə tutulan görüşü sil,calendar_remove,2
+291,291.0,təqvimimdən bütün təlimçilik fəaliyyətlərini sil,calendar_remove,2
+292,292.0,İş günlərindəki vaxtları sil,calendar_remove,2
+293,293.0,təqvimimdən bütün randevularını sil,calendar_remove,2
+294,294.0,dünənki randevunu təqvimimdən çıxarmağa çalış,calendar_remove,2
+295,295.0,Bu hafta sonu üçün düzəldilmiş planı sil,calendar_remove,2
+296,296.0,təqvimimdən bütün müsahibələri sil,calendar_remove,2
+297,297.0,Dünənki tədbirimin xatirəsini təqvimimdən sil,calendar_remove,2
+298,298.0,düdükü necə qaynadılır,cooking_recipe,3
+299,299.0,yumurtalı salatın necə hazırlanmasını öyrənmək istəyirəm,cooking_recipe,3
+300,300.0,yumurtalı qaynanın necə bişirilməsinə dair,cooking_recipe,3
+301,301.0,balıqdan istifadə edərək bişirilmiş yeməyin resepti,cooking_recipe,3
+302,302.0,qaynadılmış yumurta necə hazırlanır,cooking_recipe,3
+303,303.0,toyuğu necə qovurmağa başlanğıc vermək lazım,cooking_recipe,3
+304,304.0,xamırın necə yoğrulduğunu öyrənmək istəyirəm,cooking_recipe,3
+305,305.0,düdükotu salatı necə hazırlamağa başlanılır,cooking_recipe,3
+306,306.0,kündürükli çörəyi necə bişirim,cooking_recipe,3
+307,307.0,ətli gülablı yeməkin resepti,cooking_recipe,3
+308,308.0,Kulinariya sirləri: necə düyməni bişirim,cooking_recipe,3
+309,309.0,badamı necə qurudulur,cooking_recipe,3
+310,310.0,kababın düzgün bişirilməsi üçün nə etməliyəm,cooking_recipe,3
+311,311.0,"əlavə olaraq, şirnişinin necə bişirilməsinə dair",cooking_recipe,3
+312,312.0,qarabağ qaxçasının necə bişirildiyini öyrənmək istərdim,cooking_recipe,3
+313,313.0,qozlu xörəyi necə bişirim,cooking_recipe,3
+314,314.0,şaftalı kompotsunun tarifini,cooking_recipe,3
+315,315.0,şokoladdan istifadə edərək hazırlanan desertin resepti,cooking_recipe,3
+316,316.0,düdükotu salatı necə hazırlamağa başlayım,cooking_recipe,3
+317,317.0,Düyü mövsümündə necə yeməklərin hazırlanması,cooking_recipe,3
+318,318.0,badımın düzgünbişirilməsi üçün nə etməliyəm,cooking_recipe,3
+319,319.0,toyuğunu necə bişirmək lazımdır,cooking_recipe,3
+320,320.0,pendiri necə saxlamağa başlayım,cooking_recipe,3
+321,321.0,mərciməkli plovun tarifini sizə danışacam,cooking_recipe,3
+322,322.0,Ovçuçunun necə düzgün bişirilməsi,cooking_recipe,3
+323,323.0,şokoladı necə əridilir,cooking_recipe,3
+324,324.0,qozlu xörəyi necə hazırlamağa başlanilir,cooking_recipe,3
+325,325.0,şəkərli unla bişirilmiş yeməyin resepti,cooking_recipe,3
+326,326.0,Nə qədər su götürüb şorba hazırlamağa başlayım,cooking_recipe,3
+327,327.0,düyməni necə qovurmağa başlayım,cooking_recipe,3
+328,328.0,Nə qədər un götürüb xəmir hazırlamağa başlayım,cooking_recipe,3
+329,329.0,ətli dolmanın tarifini sizə danışacam,cooking_recipe,3
+330,330.0,toyuğu necə bişirmək lazımdır,cooking_recipe,3
+331,331.0,badamın tərkibində hansı maddələr var,cooking_recipe,3
+332,332.0,kürdü neçə dərəcədə bişirim,cooking_recipe,3
+333,333.0,kartofun necə qovurulmasını öyrənmək istərdim,cooking_recipe,3
+334,334.0,pendirlərin düzgünbişirilməsi üçün nə etməliyəm,cooking_recipe,3
+335,335.0,"mənə deyə bilərsən, kündəyi necə bişirim",cooking_recipe,3
+336,336.0,ağartılmış badamı necə istifadə edirik,cooking_recipe,3
+337,337.0,toyuqdan istifadə edərkən hansı sous işlətməyi məsləhət görürsünüz,cooking_recipe,3
+338,338.0,toyuğunu necə bişirmək mümkündür,cooking_recipe,3
+339,339.0,badam südü ilə bişirdiyim şirnişinin resepti,cooking_recipe,3
+340,340.0,"Xəmiri necə yumuşaq edim ki, pita çörəyi çıxarılsın",cooking_recipe,3
+341,341.0,toyuqdırnaqlarından istifadə edərək bişirilmiş yeməyin resepti,cooking_recipe,3
+342,342.0,pomidorlu sousu necə hazırlamağa başlayım,cooking_recipe,3
+343,343.0,düdükü neçə dəqiqə bişirdim,cooking_recipe,3
+344,344.0,kartoflu püre necə hazırlamağa başlanılır,cooking_recipe,3
+345,345.0,badam südü ilə şirniyyat necə hazırlanır,cooking_recipe,3
+346,346.0,pomidorla hazırlanan sosun tarifini,cooking_recipe,3
+347,347.0,toyuq kürüsünün düzgün bişirilməsi,cooking_recipe,3
+348,348.0,düdükotu salatında necə istifadə olunur,cooking_recipe,3
+349,349.0,yumurtanın ağ hissəsini necə ayırarsan,cooking_recipe,3
+350,350.0,Plovun necə düzgün bişirilməsi barədə məsləhətlər,cooking_recipe,3
+351,351.0,Şokoladlı keki necə hazırlamağa başlamalısan,cooking_recipe,3
+352,352.0,lazanyanı necə bişirməlisiniz,cooking_recipe,3
+353,353.0,yağsız ətlə bişirilmiş yeməyin resepti,cooking_recipe,3
+354,354.0,Balıq ətinin necə duzlamağı lazımdır,cooking_recipe,3
+355,355.0,plovun hazırlanması üçün lazım olan ərzaqlar,cooking_recipe,3
+356,356.0,ət suyu ilə yeməyin hazırlanması üçün nə etməliyəm,cooking_recipe,3
+357,357.0,kürdülüyün hazırlanması üçün lazım olan ərzaqlar,cooking_recipe,3
+358,358.0,düdükotu ilə salatın hazırlanması,cooking_recipe,3
+359,359.0,ağartıdan istifadə edərək bişirilmiş yeməyin resepti,cooking_recipe,3
+360,360.0,kürəyi necə qovurmağa başlayım,cooking_recipe,3
+361,361.0,göbələklərin təmizlənməsi və hazırlanması,cooking_recipe,3
+362,362.0,şəkərli xəmiri necə hazırlamağa başlanılır,cooking_recipe,3
+363,363.0,badamlı şirniyyat necə hazırlanır,cooking_recipe,3
+364,364.0,düdükotu ilə sulu yeməkin hazırlanması,cooking_recipe,3
+365,365.0,xörəklərin hazırlanması üçün hansı yağdan istifadə edirlər,cooking_recipe,3
+366,366.0,Qozlu şorbasının necə hazırlanması,cooking_recipe,3
+367,367.0,Qara ciyerin necə düzgün bişirilməsi,cooking_recipe,3
+368,368.0,xamırın maya ilə necə qarışdırılmasını öyrənmək istəyirəm,cooking_recipe,3
+369,369.0,Fındıqlı şorbayı necə hazırlamağa başlanın,cooking_recipe,3
+370,370.0,Qarabağ koftasını necə hazırlamağa başlanın,cooking_recipe,3
+371,371.0,xiyarlı salatı necə hazırlamağa başlanılır,cooking_recipe,3
+372,372.0,kürüfüllü yeməkin resepti,cooking_recipe,3
+373,373.0,toyuq kürüsü necə hazırlamağa başlayım,cooking_recipe,3
+374,374.0,balıqları necə təmizləmək lazımdır,cooking_recipe,3
+375,375.0,şaftalı kompotunu necə hazırlamağa başlanılır,cooking_recipe,3
+376,376.0,mənə deyə bilərsən necə lavaş bişirim,cooking_recipe,3
+377,377.0,xörəklərin düzgünbişirilməsi üçündüşüncələrimiz,cooking_recipe,3
+378,378.0,kürüfli yeməkin resepti,cooking_recipe,3
+379,379.0,düdüklü aşın hazırlanması barədə məsləhət verin,cooking_recipe,3
+380,380.0,kəsmikli şorbanın hazırlanması üçün nə etməliyəm,cooking_recipe,3
+381,381.0,balıqla hazırlanan yeməklərin resepti,cooking_recipe,3
+382,382.0,limon suyu ilə çay necə hazırlanır,cooking_recipe,3
+383,383.0,şokoladlı keki necə bişirim,cooking_recipe,3
+384,384.0,Mənə deyə bilərsən necə düyməni bişirim,cooking_recipe,3
+385,385.0,pomidorlu xörəkdə necə istifadə olunur,cooking_recipe,3
+386,386.0,Kələmi necə təzələmək olar,cooking_recipe,3
+387,387.0,kürəyi necə qaynadaraq bişirmək mümkindür,cooking_recipe,3
+388,388.0,kərə yağından çıxarılmış pirojqanın resepti necədir,cooking_recipe,3
+389,389.0,limonlu çayın hazırlanması üçün lazım olan ərzaqlar,cooking_recipe,3
+390,390.0,gürüşlü çörəkin necə bişirilməsini öyrənmək istəyirəm,cooking_recipe,3
+391,391.0,ağartılmış südü necə hazırlamağa başlanılır,cooking_recipe,3
+392,392.0,şəkərli pirojun hazırlanması barədə məsləhət verin,cooking_recipe,3
+393,393.0,pendirli lavaşa necə yerləşdirilməlidir,cooking_recipe,3
+394,394.0,pendirlə birlikdə bişirilən yeməyin resepti,cooking_recipe,3
+395,395.0,qozlu çörəyin hazırlanması üçün nə etməliyəm,cooking_recipe,3
+396,396.0,limonlu çayın necə hazırlanması barədə,cooking_recipe,3
+397,397.0,Toyuq ətini necə marinandırmağa başlayım,cooking_recipe,3
+398,398.0,"bizim saatımızda saat iki-dir, cairoda saat neçədir",datetime_convert,4
+399,399.0,bizim saatımıza uyğun olaraq toronto saatına necə çevrilməlidir,datetime_convert,4
+400,400.0,Cənubi Afrikada gecəyarısındırırsa Sinqapurda saat neçədir,datetime_convert,4
+401,401.0,"Türkiyədə saat birdir, Misirdə saat neçədir",datetime_convert,4
+402,402.0,bizim saatımıza uyğun olaraq buenos aires saatına necə çevrilməlidir,datetime_convert,4
+403,403.0,bizim şəhər ilə sydney arasında vaxt fərqi nədir,datetime_convert,4
+404,404.0,Avstraliya vaxtı ilə Kanada saat qurşağı arasındakı vaxt fərqi nədir,datetime_convert,4
+405,405.0,bizim saatımızdan mexikoya neçə saat fərqi var,datetime_convert,4
+406,406.0,Kanadanın saat qurşağı ilə Meksikanın saat qurşağı arasındaki fərq nədir,datetime_convert,4
+407,407.0,Saat qurşağını Şotlandiya saatına çevirmək mümkün mü,datetime_convert,4
+408,408.0,"bizim saatımızda saat beş-dir, shanghayda saat neçədir",datetime_convert,4
+409,409.0,argentinalılar saat üçündüysa bizim saat qurşağımızda saat neçədir,datetime_convert,4
+410,410.0,bizim saatımızdan japonya neçə saat fərqi var,datetime_convert,4
+411,411.0,"paris-da gecə yarısı olsa, milan-da saat neçədir",datetime_convert,4
+412,412.0,roma saatına görə athens saatından neçə saat fərqlikdir,datetime_convert,4
+413,413.0,bizim şəhər ilə toronto arasında vaxt fərqi nədir,datetime_convert,4
+414,414.0,londonda saat üçündüysa our timezone-da saat neçədir,datetime_convert,4
+415,415.0,saatimizi u.t.c.-ya çevirmək mümkün müdür,datetime_convert,4
+416,416.0,bizim bölgə ilə kanberra arasında vaxt fərqi nədir,datetime_convert,4
+417,417.0,cari vaxtı p.s.t.-ya çevrilsin,datetime_convert,4
+418,418.0,"bizim saatımızda saat bir-dir, Tokioda saat neçədir",datetime_convert,4
+419,419.0,çin vaxtı ilə amerika vaxtı arasındaki fərq nədir,datetime_convert,4
+420,420.0,"moskvada sabah ola bilir, madrid-də saat neçədir",datetime_convert,4
+421,421.0,bizim saatımıza uyğun olaraq singapore saatına necə çevrilməlidir,datetime_convert,4
+422,422.0,paris saatına uyğun olaraq bizim saata necə çevrilməlidir,datetime_convert,4
+423,423.0,"bizim saat qurşağımızın beş saat qabağındadır, hansı saatdadır",datetime_convert,4
+424,424.0,"bizim saat qurşağımızın iki saat sonrasındadır, hansı saatdadır",datetime_convert,4
+425,425.0,yeni yorkda saat üçdürsa los angelesda neçədir,datetime_convert,4
+426,426.0,torontoda saat ikisindürsa mexikoda saat neçədir,datetime_convert,4
+427,427.0,cari vaxtı Qrinviç orta standartına çevrilməsi necədir,datetime_convert,4
+428,428.0,saat qurşağını c.s.t.-yə dəyiş,datetime_convert,4
+429,429.0,"Yaponiyada saat ikidır, Koreyada saat neçədir",datetime_convert,4
+430,430.0,"bizim saatımızda saat altıdır, Pekində saat neçədir",datetime_convert,4
+431,431.0,"nyu-york-da axşam olsa, las-vegas-da saat neçədir",datetime_convert,4
+432,432.0,avstraliyanın perth şəhəri ilə bizim saat arasındaki vaxt fərqi nədir,datetime_convert,4
+433,433.0,Baki vaxtı ilə Londonda saat qurşağı arasındakı vaxt fərqi nədir,datetime_convert,4
+434,434.0,çin vaxtı ilə bizim vaxtımız arasında hansı saat fərqi vardır,datetime_convert,4
+435,435.0,bizim bölgə ilə singapore arasında vaxt fərqi nədir,datetime_convert,4
+436,436.0,bizim saatdan braziliyaya neçə saat fərqi var,datetime_convert,4
+437,437.0,saatimizi p.d.t.-ya çevirmək mümkün mü,datetime_convert,4
+438,438.0,istanbul saatına uyğun olaraq ankara saatına necə çevrilməlidir,datetime_convert,4
+439,439.0,"frankfurt-da sabah ola bilir, amsterdam-da saat neçədir",datetime_convert,4
+440,440.0,"Göttingendə saat üçdür, Berlində saat neçədir",datetime_convert,4
+441,441.0,saat qurşağımızın c.s.t.-ya çevrilməsi necədir,datetime_convert,4
+442,442.0,sydney saatına görə melburn saatından neçə saat fərqlikdir,datetime_convert,4
+443,443.0,yeni yorkda saat üçdürsa londondda saat neçədir,datetime_convert,4
+444,444.0,bizim saat qurşağımızdan moskvaya keçid zamanı nədir,datetime_convert,4
+445,445.0,berlinde gecəyarısıdırsa madridde saat neçədir,datetime_convert,4
+446,446.0,saat qurşağını u.t.c.-yə dəyiş,datetime_convert,4
+447,447.0,Çin vaxtı ilə Nyu-York saat qurşağı arasındakı vaxt fərqi nədir,datetime_convert,4
+448,448.0,amsterdam saatına görə stockholm saatından neçə saat fərqlikdir,datetime_convert,4
+449,449.0,rusiya vaxtı ilə amerikan vaxtı arasındaki fərq nədir,datetime_convert,4
+450,450.0,"İsveçrdə saat biridir, Romada saat neçədir",datetime_convert,4
+451,451.0,berlin saatına görə bizim saat neçədir,datetime_convert,4
+452,452.0,madrid saatına görə lisbon saatından neçə saat fərqlikdir,datetime_convert,4
+453,453.0,avstraliya saati ilə bizim saat qurşağımız arasında fərq nədir,datetime_convert,4
+454,454.0,london ilə paris arasında vaxt fərqi nədir,datetime_convert,4
+455,455.0,"Danimarkada saat üçdür, Norveçdə saat neçədir",datetime_convert,4
+456,456.0,saat quršağını c.e.t.-yə dəyiş,datetime_convert,4
+457,457.0,"İngiltərədə saat beşdir, Fransada saat neçədir",datetime_convert,4
+458,458.0,bizim ölkə ilə dubay arasında saat fərqi nədir,datetime_convert,4
+459,459.0,"bizden japana bir saat qabaqdır, hansı saatdadır",datetime_convert,4
+460,460.0,bizdə saat üçdürsa amsterdamda saat neçədir,datetime_convert,4
+461,461.0,"bizden parisə bir saat qabaqdır, hansı saatdadır",datetime_convert,4
+462,462.0,kanadada saat altıüstündürsa braziliyada saat neçədir,datetime_convert,4
+463,463.0,"Vashingtonda saat dördüdr, Los-Ancelesdə saat neçədir",datetime_convert,4
+464,464.0,bizim bölgəmizdə saat dördürsa singaporeda saat neçədir,datetime_convert,4
+465,465.0,"Braziliyada saat üçdür, Argentinada saat neçədir",datetime_convert,4
+466,466.0,dubai saatına uyğun olaraq london saatına necə çevrilməlidir,datetime_convert,4
+467,467.0,californiyada axşamüstüdürsa nyudad saat neçədir,datetime_convert,4
+468,468.0,Avropa saat qurşağına uyğun olaraq Çinin saat nədir,datetime_convert,4
+469,469.0,bizim bölgəmizin saatı ilə hindistanda saat arasındaki vaxt fərqi nədir,datetime_convert,4
+470,470.0,washington saatına uyğun olaraq chicago saatına necə çevrilməlidir,datetime_convert,4
+471,471.0,"Almaniyada saat altıdır, İtalyada saat neçədir",datetime_convert,4
+472,472.0,"biz burada saat altıdır, london da saat neçədir",datetime_convert,4
+473,473.0,"biz burada saat dördü, moskvada saat neçədir",datetime_convert,4
+474,474.0,saat qurşağımızda g.m.t.-ya çevrilməsi necədir,datetime_convert,4
+475,475.0,saatimizi e.s.t.-ya çevirmək mümkün mü,datetime_convert,4
+476,476.0,bizim saatımıza uyğun olaraq bangkok saatına necə çevrilməlidir,datetime_convert,4
+477,477.0,"nyu-yorkda axşam olsa, berlin-də saat neçədir",datetime_convert,4
+478,478.0,bizim bölgə ilə bangkok arasında vaxt fərqi nədir,datetime_convert,4
+479,479.0,paris saati ilə bizim saat arasında neçə saat fərqi var,datetime_convert,4
+480,480.0,bizim saat qurşağımızda saat sekizdi rsa İspaniyada saat neçədir,datetime_convert,4
+481,481.0,"london-da sabah ola bilir, roma-da saat neçədir",datetime_convert,4
+482,482.0,saat qurşağını p.d.t.-yə dəyiş,datetime_convert,4
+483,483.0,saat qurşağımızın c.e.t.-ya çevrilməsi necədir,datetime_convert,4
+484,484.0,"Çexiyada saat altadır, Polşada saat neçədir",datetime_convert,4
+485,485.0,bizdə saat bir dürsa madridde saat neçədir,datetime_convert,4
+486,486.0,çikaqo saatına görə bizim saat neçədir,datetime_convert,4
+487,487.0,bizim saat qurşağımıza uyğun olaraq Çin Xalq Respublikasında saat nədir,datetime_convert,4
+488,488.0,"İspaniyada saat doqquzdur, Portuqaliyada saat neçədir",datetime_convert,4
+489,489.0,berlin saatına görə roma saatından neçə saat fərqlikdir,datetime_convert,4
+490,490.0,bizim saatdan argentinasına neçə saat fərqi var,datetime_convert,4
+491,491.0,bizim şəhər ilə melburn arasında vaxt fərqi nədir,datetime_convert,4
+492,492.0,bizim saat qurşağımızda sabahın altısında rusiyada saat neçədir,datetime_convert,4
+493,493.0,london saatına görə bizim saatımızdan neçə saat fərqlidir,datetime_convert,4
+494,494.0,İsveçdə saat beşüstündürsa Danimarkada saat neçədir,datetime_convert,4
+495,495.0,almaniyada saat dördündürsa isveçdə saat neçədir,datetime_convert,4
+496,496.0,"los-anjeles-da gecə yarısı olsa, çikaqo-da saat neçədir",datetime_convert,4
+497,497.0,milan saatına görə barcelona saatından neçə saat fərqlikdir,datetime_convert,4
+498,498.0,Dostuma email göndərməkdə gecikdim,email_sendemail,5
+499,499.0,İşçilərlə görüşmənin nəticəsində email göndər,email_sendemail,5
+500,500.0,Cavidə özümün ünvanımı göndər,email_sendemail,5
+501,501.0,Ana məktubu göndərməyi unutmamısan,email_sendemail,5
+502,502.0,müştərinin sorğusuna cavab emailini hazırla,email_sendemail,5
+503,503.0,"Zəhmət olmasa, ana məktubunu göndər",email_sendemail,5
+504,504.0,Onun üçün email yazmağa çalışdım,email_sendemail,5
+505,505.0,Bizim komandaya email göndər,email_sendemail,5
+506,506.0,mənim adına ünvanıma email göndərildi,email_sendemail,5
+507,507.0,valideynlərimizə salamlaşmaq üçün email yazıb,email_sendemail,5
+508,508.0,müştəriyə yeni kampaniyanın bütün təfərrüatlarını email ilə bildir,email_sendemail,5
+509,509.0,dostumun doğum günündə email yazmağı unutma,email_sendemail,5
+510,510.0,könülə sevinc dolu mesajımı email ilə göndər,email_sendemail,5
+511,511.0,Ailə üzvlərinə salam göndərməyi unutmayın,email_sendemail,5
+512,512.0,dostuma yeni iş fırsatı haqqında email yazıb,email_sendemail,5
+513,513.0,bizim şirkətimizin sonuncu yenilikləri haqqında email göndər,email_sendemail,5
+514,514.0,"Xahiş edirəm, mənim üçün email yaz",email_sendemail,5
+515,515.0,könülə yeni kitabımı tanıtmaq üçün email yaz,email_sendemail,5
+516,516.0,"zəhmət olmasa, məni xatırla və email göndər",email_sendemail,5
+517,517.0,Atamın adına email imzalamaq lazım,email_sendemail,5
+518,518.0,Müstəriyə cavab emaili göndər,email_sendemail,5
+519,519.0,ata-anaya yeni evimizi tanıdan email yazıb,email_sendemail,5
+520,520.0,ona biznes təklifi haqqında email göndər,email_sendemail,5
+521,521.0,bizim marketinq komandasına kampaniyanın nəticəsini email ilə göndər,email_sendemail,5
+522,522.0,iş yerimizə qaydalar dəyişdikdən sonra email göndər,email_sendemail,5
+523,523.0,ana-baba üçün foto şəkilçayı email ilə göndər,email_sendemail,5
+524,524.0,atamdan ona email göndərməyi unutma,email_sendemail,5
+525,525.0,"Xahiş edirəm, mənim üçün email yazın",email_sendemail,5
+526,526.0,Səhərdə məktubunuza cavab verdiyim email göndər,email_sendemail,5
+527,527.0,Rəsmi sənədlər barədə ataya email göndər,email_sendemail,5
+528,528.0,bizim komanda liderinə layihənin sonuncu versiyasını email ilə göndər,email_sendemail,5
+529,529.0,Təhsil müəssisəsinin qəbulu barədə email gönder,email_sendemail,5
+530,530.0,atanız sizin adınıza email yazmağa çalışacaqdır,email_sendemail,5
+531,531.0,Bizim komandanın rəhbərinə email göndər,email_sendemail,5
+532,532.0,sizin saytinızdan alınan məhsullar haqqında email göndər,email_sendemail,5
+533,533.0,dostuma yeni iş imkanları haqqındakı emaili göndər,email_sendemail,5
+534,534.0,Bizi email vasitəsilə bilgilendirin,email_sendemail,5
+535,535.0,Emailimi yenilədikdən sonra dostuma göndərdim,email_sendemail,5
+536,536.0,dostumuza xoşbextlik mesajını email vasitəsilə göndər,email_sendemail,5
+537,537.0,ona özünü təqdim edən email göndərin,email_sendemail,5
+538,538.0,atamın doğum günü münasibətilə email yazmaq lazım idi,email_sendemail,5
+539,539.0,könülə sabahın erkən saatlarında email yazıb,email_sendemail,5
+540,540.0,Dostuma yeni kitabımın çıxışına dair email göndər,email_sendemail,5
+541,541.0,könülə sevimli sözümü email ilə çatdır,email_sendemail,5
+542,542.0,Ana məktubu göndərməyi unutmuşdum,email_sendemail,5
+543,543.0,dostumuza yeni kitabımın çıxışını email ilə bildir,email_sendemail,5
+544,544.0,sizin üçün çox maraqlı olanları email vasitəsilə paylaşırıq,email_sendemail,5
+545,545.0,Könülə iş haqqındakı emaili yaz,email_sendemail,5
+546,546.0,Məni dostuma email göndərin,email_sendemail,5
+547,547.0,mənim adıma ünvanıma email göndər,email_sendemail,5
+548,548.0,məktubunuza cavab verdiyim email gözlənilir,email_sendemail,5
+549,549.0,Onu özümə email ilə bildir,email_sendemail,5
+550,550.0,iş yoldaşıma növbəti meeting haqqında email göndər,email_sendemail,5
+551,551.0,Mənim adıma email göndərməyi unutdu,email_sendemail,5
+552,552.0,biznes partnyorlara yeni təklifimizi email ilə bildirmək lazımdır,email_sendemail,5
+553,553.0,"Zəhmət olmasa, mənim adıma email yaz",email_sendemail,5
+554,554.0,Dostumuza email göndərməkdə yardım ediniz,email_sendemail,5
+555,555.0,biznes partnyoruma müxtəlif imkanlar barədə email göndəririk,email_sendemail,5
+556,556.0,Könülə yeni iş fırsatı haqqında email yazıb,email_sendemail,5
+557,557.0,bizim şirkətimizdəki boş yerlər haqqında email göndər,email_sendemail,5
+558,558.0,Onun üçün email yazmağa çalışdıq,email_sendemail,5
+559,559.0,sizin saytımdakı hesabınıza daxil olmağa kömək etmək üçün email göndər,email_sendemail,5
+560,560.0,Həkimə sağlamlığımda olan dəyişkliklər haqqında email göndər,email_sendemail,5
+561,561.0,Oğlumun adına email yazın,email_sendemail,5
+562,562.0,Dostuma email göndərməkdə kömək edin,email_sendemail,5
+563,563.0,ana-baba üçün sevimli mesajlar göndərdiyim email mövcuddur,email_sendemail,5
+564,564.0,sevdiyim insanlara valentindən öncə email yazıb,email_sendemail,5
+565,565.0,Sizin adınıza email göndərməyi unutmuşam,email_sendemail,5
+566,566.0,Mənim adıma email göndərməyi unutmusunuz,email_sendemail,5
+567,567.0,sizin üçün nəzərdə tutulan təkliflər barədə email yazmağımızı unutma,email_sendemail,5
+568,568.0,sabahın erkən saatlarında mənim adıma email yazıb,email_sendemail,5
+569,569.0,müştəriyə özünə aid olan sifarişi haqqında email göndər,email_sendemail,5
+570,570.0,Dostumuzun adına email yazırıq,email_sendemail,5
+571,571.0,dostlarımıza bayram təbrikləri email ilə göndərdik,email_sendemail,5
+572,572.0,Dostuma biznes təklifimizi göndər,email_sendemail,5
+573,573.0,dostuma özümün ünvanına email göndər,email_sendemail,5
+574,574.0,dostuma yeni iş fırsatı barədə email yazıb,email_sendemail,5
+575,575.0,dostumun doğum günü münasibəti ilə onu email ilə təbrik etməliyik,email_sendemail,5
+576,576.0,Cavidə onun üçün email yazıb göndər,email_sendemail,5
+577,577.0,Mənim adıma email göndərirsinizmi?,email_sendemail,5
+578,578.0,ata-anaya salam göndərdiyim email mövcuddur,email_sendemail,5
+579,579.0,Atama sabahın erkən saatlarında email göndər,email_sendemail,5
+580,580.0,dostumuza yeni illərin başlanğıcı münasibətilə email yazıb,email_sendemail,5
+581,581.0,Ataya bu ayın hesabatı barədə email göndər,email_sendemail,5
+582,582.0,könülə dünənki görüşümüz haqqındakı emaili yaz,email_sendemail,5
+583,583.0,Mənim adıma email göndərlərin,email_sendemail,5
+584,584.0,sabahın ilk saatlarında mənim adıma email yaz,email_sendemail,5
+585,585.0,məktubunuza cavab verməyi unutduqlarına görə onlara email göndər,email_sendemail,5
+586,586.0,Dostuma yeni iş imkanları haqqında email göndər,email_sendemail,5
+587,587.0,könülə sevimli sözləri email ilə çatdır,email_sendemail,5
+588,588.0,Məni dostuma email göndər,email_sendemail,5
+589,589.0,dostumuzun ünvanına email göndərməyi unutma,email_sendemail,5
+590,590.0,Dostumun doğum günü ilə bağlı email göndər,email_sendemail,5
+591,591.0,Dostuma email göndərməkdə çox gecikdim,email_sendemail,5
+592,592.0,ana-baba üçün xoşbextlik mesajını email vasitəsilə göndər,email_sendemail,5
+593,593.0,dostumuzun ad gününü xatırlayan email göndər,email_sendemail,5
+594,594.0,"zəhmət olmasa, məni müştərilərlə əlaqə saxlamağa kömək edin və onlara email göndər",email_sendemail,5
+595,595.0,Anama dünənki hadisələr haqqında email yazıb,email_sendemail,5
+596,596.0,bizim komandanın bütün üzvlərinə email göndərməyi unutmağın,email_sendemail,5
+597,597.0,məktubunu oxuduqdan sonra cavab emailini göndər,email_sendemail,5
+598,598.0,ən maraqlı hissəni oxumağa başlayın,play_audiobook,6
+599,599.0,oxumağın birinci hissəsinə başlamalısan,play_audiobook,6
+600,600.0,səsləndirməni dayandırın,play_audiobook,6
+601,601.0,ən sevdiyim hekayeyi dinlə,play_audiobook,6
+602,602.0,kitabımı oxumağa başlatdı,play_audiobook,6
+603,603.0,təkrar oxumağa başlayırıq,play_audiobook,6
+604,604.0,bu yeni romanı oxutmağa başlayaq,play_audiobook,6
+605,605.0,bu romanı dinləmək üçündür,play_audiobook,6
+606,606.0,indi dərhal oxumağa başlanın,play_audiobook,6
+607,607.0,səsləndirməni başlat,play_audiobook,6
+608,608.0,heyvanıstanı bir daha oxudu,play_audiobook,6
+609,609.0,oxumağın ikinci hissəsi burada,play_audiobook,6
+610,610.0,ən maraqlı kitablarını oxumağa başlayın,play_audiobook,6
+611,611.0,bu audio kitaba qulaq asın,play_audiobook,6
+612,612.0,mənim sevdiyim yazıçının kitabını oxut,play_audiobook,6
+613,613.0,təkrar oxumağa başlayın,play_audiobook,6
+614,614.0,bu romanı dinləmək üçün oynat,play_audiobook,6
+615,615.0,oxumağa başlamış olduğumuz yeri davam edirik,play_audiobook,6
+616,616.0,təkrar oxumağa başladıq,play_audiobook,6
+617,617.0,mənim sevimli kitabım üçün bir saat ayırın,play_audiobook,6
+618,618.0,mən bu kitaba başlamışam,play_audiobook,6
+619,619.0,ən yaxşı hikayəni dinlə,play_audiobook,6
+620,620.0,mənim üçün bir roman oxuyun,play_audiobook,6
+621,621.0,mənim sevdiyim yazarın kitabını oxut,play_audiobook,6
+622,622.0,"uzaqdakı kitablarım var, onları oxumağa başlayın",play_audiobook,6
+623,623.0,mən bu romanda olan hadisəni oxumaq istəyirəm,play_audiobook,6
+624,624.0,oxuyun və dinləyin,play_audiobook,6
+625,625.0,oxumağın dördüncü hissəsi burada,play_audiobook,6
+626,626.0,mən bu kitaba start verməyi düşünürdüm,play_audiobook,6
+627,627.0,mən bu kitaba yenidən baxmaq istəyirdi,play_audiobook,6
+628,628.0,bizə aid olanları oxumağa başlayın,play_audiobook,6
+629,629.0,oxuyun və rahatlayın,play_audiobook,6
+630,630.0,oxumağa başlamış olduğumuz yeri yeniləyin,play_audiobook,6
+631,631.0,oxumağın ikinci hissəsinə başlamalısan,play_audiobook,6
+632,632.0,mənim sevdiyim kitabımın oxunuşunu başlat,play_audiobook,6
+633,633.0,mənim üçün oxumağa başlayın,play_audiobook,6
+634,634.0,sabahın xülyası adlı kitabını oxumağa başlayın,play_audiobook,6
+635,635.0,mən bu kitabı oxumaq istəmirəm,play_audiobook,6
+636,636.0,mən bu kitabı oxumaq istərəm,play_audiobook,6
+637,637.0,ən maraqlı kitabımı oxumağa başlat,play_audiobook,6
+638,638.0,mən bu kitaba yenidən başlamaq istəyirəm,play_audiobook,6
+639,639.0,bu gecə üçün bir audiokitab seçin,play_audiobook,6
+640,640.0,mən bu kitabı yenidən oxudu,play_audiobook,6
+641,641.0,mənim sevimli hekayemi oxu,play_audiobook,6
+642,642.0,oxumağın üçüncü hissəsi burada,play_audiobook,6
+643,643.0,heyvanıstanı bir daha oxumağa başlayın,play_audiobook,6
+644,644.0,oxuduğunuz kitabı yeniləyin,play_audiobook,6
+645,645.0,heyvanıstan romanını oxumağa başlayın,play_audiobook,6
+646,646.0,oxumağın birinci hissəsi burada,play_audiobook,6
+647,647.0,ən sevdiyim romanı oxuyun,play_audiobook,6
+648,648.0,mən bu kitabı oxumaq istəyirəm,play_audiobook,6
+649,649.0,heyvanıstanı yenidən oxumağa başlayın,play_audiobook,6
+650,650.0,qorquduqları günü oxumağa başlayın,play_audiobook,6
+651,651.0,mənim sevimli yazarımın kitabını oxumağa başlayın,play_audiobook,6
+652,652.0,mən bu kitabı yenidən oxumağa başlayacam,play_audiobook,6
+653,653.0,mənim sevimli kitabımı oxumağa başlayın,play_audiobook,6
+654,654.0,"uzaqdakı kitabım var, onu oxumağa başlan",play_audiobook,6
+655,655.0,mənim üçün oxu,play_audiobook,6
+656,656.0,oxşar kitabları oxumağa başlayın,play_audiobook,6
+657,657.0,ən yaxşı audio kitabı oynat,play_audiobook,6
+658,658.0,oxumağın beşinci hissəsi burada,play_audiobook,6
+659,659.0,mən bu kitaba yenidən başladım,play_audiobook,6
+660,660.0,mən bu kitaba yenidən baxmaq istəyirdim,play_audiobook,6
+661,661.0,mən bu kitabda olan süjeti oxumaq istəyirəm,play_audiobook,6
+662,662.0,mənim sevimli audio kitabım var,play_audiobook,6
+663,663.0,mənim ən çox sevdiyim kitabı oxuyun,play_audiobook,6
+664,664.0,oxumuş olduğum kitabı yeniləyin,play_audiobook,6
+665,665.0,mənim üçün bir hekayə oxuyun,play_audiobook,6
+666,666.0,sizə aid olanları oxumağa başlayın,play_audiobook,6
+667,667.0,bu romanı oxuyun,play_audiobook,6
+668,668.0,ən yaxşı audio kitabı oxuyun,play_audiobook,6
+669,669.0,heyvanıstanı yenidən oxumağa başlan,play_audiobook,6
+670,670.0,oxunmağa başlayan yerimizdən davam edirik,play_audiobook,6
+671,671.0,mənim favorit müəllifimin kitabını oxuyun,play_audiobook,6
+672,672.0,mənim üçün ən yaxşı kitabı oxuyun,play_audiobook,6
+673,673.0,kitabımın sonunda dayanır,play_audiobook,6
+674,674.0,mən bu kitaba start verməyi düşünürəm,play_audiobook,6
+675,675.0,mənim ən sevdiyim kitabımın bir hissəsi,play_audiobook,6
+676,676.0,kitabımı oxumağa başlat,play_audiobook,6
+677,677.0,mən bu kitaba start vermək istəyirdim,play_audiobook,6
+678,678.0,mən bu kitaba yenidən başlamalıydım,play_audiobook,6
+679,679.0,oxumağa başladıqdan sonra dayanmayın,play_audiobook,6
+680,680.0,həyatımın ən yaxşı günü üçün bir hikayə oxuyun,play_audiobook,6
+681,681.0,mənim üçün bir nağılı oxuyun,play_audiobook,6
+682,682.0,mən bu kitaba daxil olmaq istəyirəm,play_audiobook,6
+683,683.0,mənim ən sevdiyim kitabımın səsləri burada,play_audiobook,6
+684,684.0,uzaqdakı kitabımı oxuyun,play_audiobook,6
+685,685.0,ən çox satılan kitabımı oxumağa başlayın,play_audiobook,6
+686,686.0,mənim ən sevdiyim müəllimin kitabını oxumağa başlayın,play_audiobook,6
+687,687.0,mən bu kitabda olan xarakterləri oxumaq istəyirəm,play_audiobook,6
+688,688.0,"oxu, mən dinləyirəm",play_audiobook,6
+689,689.0,kitabımı oxumağa başlatın,play_audiobook,6
+690,690.0,bu kitaba yenidən başla,play_audiobook,6
+691,691.0,mən bu kitaba diqqət etməyi unutmuşdum,play_audiobook,6
+692,692.0,mən bu kitaba başladıram,play_audiobook,6
+693,693.0,kitabım sona çatdı,play_audiobook,6
+694,694.0,sabahın xülyası adlı kitabını oxut,play_audiobook,6
+695,695.0,"oxu, mən dinlədik",play_audiobook,6
+696,696.0,kitabımın başlanğıcında oluruq,play_audiobook,6
+697,697.0,bu audio kitaba diqqət edin,play_audiobook,6
+698,698.0,Bu ay hansı filmlər çıxacaq?,recommendation_movies,7
+699,699.0,Yaxın vaxtda hansı dram janrı filmləri çıxacaq?,recommendation_movies,7
+700,700.0,Kinoda hansı janrlara üstünlük verilir?,recommendation_movies,7
+701,701.0,Mənim şəhərimdəki kinoteatlardakı ən populyar filmlər,recommendation_movies,7
+702,702.0,Mənə ən sonuncu döyüş filmlərindən biri tövsiyə olunurmu?,recommendation_movies,7
+703,703.0,Mənə ən yaxşı komediya filmlərini tövsiyə edin,recommendation_movies,7
+704,704.0,Bu gün hansı animasiya filmini seyrimiz mümkün mü?,recommendation_movies,7
+705,705.0,Bu ayın ən çox baxılan filmini mənə tövsiyə edin,recommendation_movies,7
+706,706.0,"Mənə kino təqvimi göstər ki, hansı filmlər göstərilir",recommendation_movies,7
+707,707.0,Yaxın vaxtda hansı filmlər çıxacaqdır?,recommendation_movies,7
+708,708.0,Mənim yaşadığım yerin yanındakı kinoteatrdlarda hansı filmlər var?,recommendation_movies,7
+709,709.0,Yaxın kinoteatrdakı ən yeni filmlərin siyahısını göndərə bilərsizmi?,recommendation_movies,7
+710,710.0,Özüm üçün ən yaxşı macera filmi tövsiyə edilsin,recommendation_movies,7
+711,711.0,Kinodakı ən yaxşı qorxu filmləri hansılardır?,recommendation_movies,7
+712,712.0,Bu hafta sonu hansı filmlər seyrmək olar?,recommendation_movies,7
+713,713.0,Mənim üçün ən yaxşı romantik filmi tövsiyə edin,recommendation_movies,7
+714,714.0,Mənim yaşadığımda hansı romantik filmləri mövcuddur?,recommendation_movies,7
+715,715.0,Mənə kino təcrübəçisi kimi ən yaxşı filmləri tövsiyə edin,recommendation_movies,7
+716,716.0,Mənim yaşadığım yerdekı kinoteatrlardakı ən yaxşı filmlər,recommendation_movies,7
+717,717.0,Yaxın kinoteatrdakı ən yeni filmlərin siyahısı,recommendation_movies,7
+718,718.0,Bu hafta hansı idman janrı filmləri nümayiş olunacaq?,recommendation_movies,7
+719,719.0,Mənə bu ayın ən çox baxılan filmini söyləyin,recommendation_movies,7
+720,720.0,Mənim üçün ən yaxşı dram filmini tövsiyə edin,recommendation_movies,7
+721,721.0,Bu axşam hansı filmi seyr etmək olar?,recommendation_movies,7
+722,722.0,Mənə ən çox sevdiyim aktyorun filmlərini göstərin,recommendation_movies,7
+723,723.0,Hansı yeni filmlər çıxdı?,recommendation_movies,7
+724,724.0,Kinoda hansı yeni komediya filmləri var?,recommendation_movies,7
+725,725.0,Hansı filmi bu hafta sonu seyrməyi tövsiyə edirsiz?,recommendation_movies,7
+726,726.0,Hal-hazırda ekranlarda nümayiş etdirilən ən maraqlı filmlər,recommendation_movies,7
+727,727.0,Mənə kino proqramını göndərə bilərsizmi?,recommendation_movies,7
+728,728.0,Mənə kino bileti almağa kömək edə bilərsiz?,recommendation_movies,7
+729,729.0,Kinoda hansı aktyorlar daha çox sevilmishdi?,recommendation_movies,7
+730,730.0,Mənim üçün hansı komediya filmləri tövsiyə edirlər?,recommendation_movies,7
+731,731.0,Mənə ən çox baxılan dram filmini tövsiyə edin,recommendation_movies,7
+732,732.0,Bu ayın ən gözəl filmləri hansılardır?,recommendation_movies,7
+733,733.0,Mənim yaşadığım yerdekı kinoteatrlara getdikdə hansı filmlər göstərilir?,recommendation_movies,7
+734,734.0,Kinoda hansı macəra janrı filmləri var?,recommendation_movies,7
+735,735.0,Hansı filmi bu gece izləmək üçün tövsiyə edirdiniz?,recommendation_movies,7
+736,736.0,Mənə kino təklif edə bilirsinizmi?,recommendation_movies,7
+737,737.0,Hal-hazırda mənim şəhərimdə nümayiş etdirilən filmləri məsləhət edin,recommendation_movies,7
+738,738.0,Mənim şəhərimizdəki kinoteatlardakı ən yeni filmləri göstər,recommendation_movies,7
+739,739.0,Yaxın gündə hansı filmlər nümayiş olunacaq?,recommendation_movies,7
+740,740.0,Mənim yaşadığım yerin yaxınlığında hansı kinoteatrlar var?,recommendation_movies,7
+741,741.0,Mənə Netflix-də ən populyar filmləri göstər,recommendation_movies,7
+742,742.0,Hansı filmi bu axşam seyrməyi tövsiyə edirsiz?,recommendation_movies,7
+743,743.0,Kinoda hansı yeni filmlər var?,recommendation_movies,7
+744,744.0,Kinoteatrda hansı filmlər göstərilir?,recommendation_movies,7
+745,745.0,"Hansı filmlər hal-hazırda göstərilir ki, onlar üçün hörmətlidir?",recommendation_movies,7
+746,746.0,Hal-hazırda nümayiş etdirilən filmlərin reytinqlarını göstərmək olar?,recommendation_movies,7
+747,747.0,"Mənə kino təqvimi göstər ki, hansı yeni filmlər var",recommendation_movies,7
+748,748.0,Bu gecə hangi filmi izləmək üçün tövsiyə edirdiniz?,recommendation_movies,7
+749,749.0,Mənə ən son çıxan filmlərin xüsusiyyətlərini danışın,recommendation_movies,7
+750,750.0,Mənim yaşadığım yerin yanındakı kinoteatrdlarda nə göstərilir?,recommendation_movies,7
+751,751.0,Hansı filmi bugün seyrməyi məsləhət görürsün?,recommendation_movies,7
+752,752.0,Hal-hazırda növbəti filmin nümayişi haqqında məlumat ver,recommendation_movies,7
+753,753.0,Mənə bugünki kino proqramını göstərin,recommendation_movies,7
+754,754.0,"Kino proqramına baxmağa imkan ver ki, hansı filmlər göstərilir",recommendation_movies,7
+755,755.0,Özüm üçün ən yaxşı dram filmi tövsiyə edilsin,recommendation_movies,7
+756,756.0,Hansı filmlər mənim bölgəmdə göstərilir?,recommendation_movies,7
+757,757.0,Mənim şəhərimdəki kinoteatlardakı ən yaxşı filmləri mənə de,recommendation_movies,7
+758,758.0,Hansı filmi bu gece seyrməyi məsləhət görürsün?,recommendation_movies,7
+759,759.0,Mənə son zamanların ən yaxşı filmlərini göstərin,recommendation_movies,7
+760,760.0,Bu hafta sonu hansı filmi seyrmək üçün tövsiyə edirsən?,recommendation_movies,7
+761,761.0,Mənə Amazon Prime-da ən yaxşı filmləri göstər,recommendation_movies,7
+762,762.0,Mənim yaşadığım yerdekı kinolar hansılardır?,recommendation_movies,7
+763,763.0,Bu hafta sonu hangi animasiya filmləri göstəriləcəkdir?,recommendation_movies,7
+764,764.0,Mənim yaşadığımda hansı romantik filmlər var?,recommendation_movies,7
+765,765.0,Mənə HBO-da ən yaxşı serialları göstər,recommendation_movies,7
+766,766.0,Mənim yaşadığım yerin yanındakı kinoları məsləhət edin,recommendation_movies,7
+767,767.0,Mənə bu günə özünü tövsiyə edəcək filmləri göstər,recommendation_movies,7
+768,768.0,Mənim şəhərimdəki kinoteatrlarda hansı filmlər göstərilir?,recommendation_movies,7
+769,769.0,Kinoteatrda hansı uşaqlara uyğun filmlər göstərilir?,recommendation_movies,7
+770,770.0,Bu hafta sonu hangi filmlərin göstəriləcəyi var?,recommendation_movies,7
+771,771.0,Yaxın gündə nümayiş etdiriləcək filmlərin siyahısını göndərə bilərsizmi?,recommendation_movies,7
+772,772.0,Mənim yaşadığım yerin yanındakı kinoteatrdakı ən yaxşı filmləri göstər,recommendation_movies,7
+773,773.0,Bu hafta sonu hansı filmi seyrməyi planlaşdırıram?,recommendation_movies,7
+774,774.0,Bu gün hangi filmi izləmək lazımdır?,recommendation_movies,7
+775,775.0,Yaxın vaxtda nümayiş etdiriləcək filmlərin siyahısını göstər,recommendation_movies,7
+776,776.0,Bu ay nümayiş etdiriləcək ən yaxşı filmlərin siyahısını göndərə bilərsizmi?,recommendation_movies,7
+777,777.0,Mənə IMDb-də ən yüksek reytingli filmləri göstər,recommendation_movies,7
+778,778.0,Kinoda hansı komediya filmləri var?,recommendation_movies,7
+779,779.0,"Olly, mənim yanımda hansı filmlər çox sevilmishdi?",recommendation_movies,7
+780,780.0,"Olly, mənim üçün ən uyğun filmi seçin",recommendation_movies,7
+781,781.0,Yaxın vaxtda çıxan ən yaxşı filmləri mənə tövsiyə edin,recommendation_movies,7
+782,782.0,Yaxın vaxtda hansı filmlər çıxacaq?,recommendation_movies,7
+783,783.0,Yaxın zamanda çıxan ən yaxşı filmləri mənə tövsiyə edin,recommendation_movies,7
+784,784.0,Kinodakı ən sonuncu filmlərin siyahısını göndərə bilərsizmi?,recommendation_movies,7
+785,785.0,Bu axşam kinoya getdikdə hansı filmi seyr etmək olar?,recommendation_movies,7
+786,786.0,Mənə kino səhnəsinin ən maraqlı hadisələri haqqında danışın,recommendation_movies,7
+787,787.0,Bu hafta sonu hansı filmlər çıxacaq?,recommendation_movies,7
+788,788.0,Yaxın zamanda hansı müharibə filmləri çıxdı?,recommendation_movies,7
+789,789.0,Mənim şəhərimizdəki kinoteatlardakı filmlərin siyahısını göstər,recommendation_movies,7
+790,790.0,Mənim yaşadığım yerin yanındakı kinoteatrdakı filmləri göstər,recommendation_movies,7
+791,791.0,Kinoda hansı janrlardan filmlər var?,recommendation_movies,7
+792,792.0,Mənə kino tövsiyə edə bilirsiniz?,recommendation_movies,7
+793,793.0,Mənə ən çox sevdiyim aktyorun oynadığı filmləri tövsiyə edin,recommendation_movies,7
+794,794.0,Yaxın vaxtda hansı macəra filmləri çıxdı?,recommendation_movies,7
+795,795.0,Mənim yaşadığım yerin yaxınlığında hansı kino salonu var?,recommendation_movies,7
+796,796.0,Bu gün hansı filmi seyrmək üçün tövsiyə edirsən?,recommendation_movies,7
+797,797.0,Bu hafta sonu hansı filmi seyrimiz mümkün mü?,recommendation_movies,7
+798,798.0,Sabah saat sekizdə İmişliyə gedəcək qatarın bileti almaq istəyirəm,transport_ticket,8
+799,799.0,Mənim adıma İmişliyə gedən qatar bileti sifariş et,transport_ticket,8
+800,800.0,Səhər saat ikisindən sonra İmişliyə qatar bileti almaq istəyirəm,transport_ticket,8
+801,801.0,Bakıda olan qatarlara elektronik bileti almaq istəyirəm,transport_ticket,8
+802,802.0,Mənə Lənkərana qatar bileti брон etməliyəm,transport_ticket,8
+803,803.0,Qatar bileti almaq ucun neçə pul lazımdır?,transport_ticket,8
+804,804.0,Şamaxıya gedəcək qatar bileti almaq üçün kömək edin,transport_ticket,8
+805,805.0,Səhər saat altıdan sonra Gəncəyə qatar bileti almaq istəyirəm,transport_ticket,8
+806,806.0,Kredit kartım ilə qatar bileti almağın qaydaları necədir?,transport_ticket,8
+807,807.0,Mənim adıma Bakıdan İrana gedəcək qatar bileti sifariş et,transport_ticket,8
+808,808.0,Səhər saat ona qədər Lənkəran şəhərinə qatar bileti almaq mümkün mü,transport_ticket,8
+809,809.0,Şamaxaya gedəcək qatarın bileti neçədir?,transport_ticket,8
+810,810.0,Kredit kartımı ilə qatar bileti almağa çalışırıq,transport_ticket,8
+811,811.0,Sumqayıta getmək üçün bir nəfərlik qatar bileti sifarisi verin,transport_ticket,8
+812,812.0,Tovuz şəhərinə qatar bileti almağa çalışın,transport_ticket,8
+813,813.0,Gəncəyə qatar bileti bron etməyi unutmayın,transport_ticket,8
+814,814.0,Sabahın erkən saatlarında Naxçıvana qatar bileti axtar,transport_ticket,8
+815,815.0,Qazaxa qatar bileti bron etməyi unutmayın,transport_ticket,8
+816,816.0,Mənim kredit kartım ilə qatar bileti almağa imkan var mı?,transport_ticket,8
+817,817.0,Sabahın erkən saatlarında Naxçıvana qatar bileti axtarım,transport_ticket,8
+818,818.0,Bakıda olan qatarları üçün bileti almaq istəyirəm,transport_ticket,8
+819,819.0,Qatar bileti almamaq üçün hansı dokümentlər lazımdır?,transport_ticket,8
+820,820.0,Mənim elektronik poçtama qatar bileti göndərməyi unutma,transport_ticket,8
+821,821.0,Qatar bileti almaq üçün hansı banklara müraciət edilməlidir?,transport_ticket,8
+822,822.0,Xarici ölkələrə gedəcək qatarların bileti almaq olarmı?,transport_ticket,8
+823,823.0,Axşam saat yeddidə Baku şəhərinə qatar bileti almaq,transport_ticket,8
+824,824.0,Quba şəhərinə gedəcək qatarın bileti necə alınır?,transport_ticket,8
+825,825.0,Xaçmaz şəhərinə qatar bileti almağın mümkün yolu nedir?,transport_ticket,8
+826,826.0,Mənim kredit kartım vasitəsilə qatar bileti alınır,transport_ticket,8
+827,827.0,Səhər saat altıda İmişliyə qatar bileti almaq olar,transport_ticket,8
+828,828.0,Səhər saat ikisində Kürdəmirə qatar bileti sifariş et,transport_ticket,8
+829,829.0,Elektron biletdən istifadə edə bilərikmi?,transport_ticket,8
+830,830.0,Mənim kredit kartım ilə Bakıda olan üçüncü nömrəli qatara bileti almaq istəyirəm,transport_ticket,8
+831,831.0,Xəstəxanasına getmək üçün avtobus bileti almaq olarmı?,transport_ticket,8
+832,832.0,On altıncı aprel tarixində Naxçıvana qatar bileti al,transport_ticket,8
+833,833.0,Bileti almaq üçün hansı dokumentlər lazımdır?,transport_ticket,8
+834,834.0,Qatar bileti almaq üçün minimum yaş həddi nedir?,transport_ticket,8
+835,835.0,Kredit kartıma görə qatar bileti almaq mümkün müdür?,transport_ticket,8
+836,836.0,Mənim adıma Sumqayıta gedən qatar bileti sifariş et,transport_ticket,8
+837,837.0,Qatar bileti alırken ödənişi necə aparır,transport_ticket,8
+838,838.0,Bərdə şəhərinə qatar bileti sifariş edin,transport_ticket,8
+839,839.0,Onuncu sinif şagirdi üçün ucuz qatar bileti almaq imkanları,transport_ticket,8
+840,840.0,Mənim adıma Sumqayıta gedəcək qatar bileti sifariş edin,transport_ticket,8
+841,841.0,Mənə Naxçıvana qatar bileti almaq istəyirəm,transport_ticket,8
+842,842.0,Saat onbirde Tovuz şəhərinə qatar bileti axtar,transport_ticket,8
+843,843.0,Xəstəxananın yanındakı avtovokzalda qatar bileti satılır mı?,transport_ticket,8
+844,844.0,Mənə Quba şəhərinə qatar bileti almaq olar,transport_ticket,8
+845,845.0,Mənə Şamaxıya qatar bileti almağa kömək edin,transport_ticket,8
+846,846.0,Yuxarı Ağrı dağına gedəcək turizm qatar bileti almaq olar,transport_ticket,8
+847,847.0,Səhər saat altıdan sonra Xaçmaz şəhərinə qatar bileti almaq olar,transport_ticket,8
+848,848.0,Gecə saat onunda Ağstafa şəhərinə qatar bileti sifariş et,transport_ticket,8
+849,849.0,Saat ona gedəcək qatarın bileti almaq olarmı?,transport_ticket,8
+850,850.0,Mənim kredit kartım ilə ötən ayda alınan qatar biletinin hesabını gör,transport_ticket,8
+851,851.0,Bakıda olan qatar bileti satış noktalarına getmək üçün xəritəni göstər,transport_ticket,8
+852,852.0,Şamaxıya qatar bileti almağa çalışın,transport_ticket,8
+853,853.0,Saat yarımda Göygölə qatar bileti axtar,transport_ticket,8
+854,854.0,Mənə Ağdama qatar bileti almağa kömək edin,transport_ticket,8
+855,855.0,Səhər saat ondan sonra Kürdəmirə səyahət üçün üç nəfərlik qatar bileti sifariş et,transport_ticket,8
+856,856.0,Qatar bileti almaq üçün online sistemimiz var,transport_ticket,8
+857,857.0,Səhər saat altıda Gəncəyə gedəcək qatarın bileti necə alınır?,transport_ticket,8
+858,858.0,sabahın erkən saatlarında Sumqayita gedəcək qatar bileti almaq istəyirəm,transport_ticket,8
+859,859.0,Otobüs və qatar bileti satışında endirim mövcuddur,transport_ticket,8
+860,860.0,Gündüz saat iki yarımında Sumgayıt şəhərinə qatar bileti sifariş et,transport_ticket,8
+861,861.0,Onuncu ayın otuzunda Bakıya qatar bileti almaq istəyirəm,transport_ticket,8
+862,862.0,Qatar bileti almaq ucun minimum neçə yaş lazımdır?,transport_ticket,8
+863,863.0,Kredit kartımdan istifadə edərək qatar bileti almaq,transport_ticket,8
+864,864.0,Kredit kartımla qatar bileti satın almaq mümkün mü,transport_ticket,8
+865,865.0,Bakıda olan qatar bileti satış noktaları hansılardır?,transport_ticket,8
+866,866.0,Səhər saat səkkizdən sonra Gəncəyə səyahət üçün iki nəfərlik qatar bileti sifariş edin,transport_ticket,8
+867,867.0,Bakıda olan qatarlara bilet almaq olar?,transport_ticket,8
+868,868.0,Həmin günə Şuşaya gedəcək qatar bileti almaq olar,transport_ticket,8
+869,869.0,Mənə Lənkərana qatar bileti almaq istəyirəm,transport_ticket,8
+870,870.0,Elektronik bileti ilə qatar səyahətinə çıxmaq,transport_ticket,8
+871,871.0,Qatar bileti satışını həyata keçirmək,transport_ticket,8
+872,872.0,Mənim üçün Lənkərana gedən və gələn qatar bileti hazırlayın,transport_ticket,8
+873,873.0,Qərğdaş şəhərinə gedəcək qatar bileti necə alınır?,transport_ticket,8
+874,874.0,Mənim adıma Gəncədən Bakıya gedəcək qatar bileti sifariş et,transport_ticket,8
+875,875.0,Quba şəhərinə qatar bileti sifariş edin,transport_ticket,8
+876,876.0,Qatar bileti almaq ucun hansı dokumentlər lazım olur?,transport_ticket,8
+877,877.0,Daxili reyslər üçün bileti satışını necə izləyə bilirik?,transport_ticket,8
+878,878.0,Sabah Gəncəyə qatar bileti sifariş et,transport_ticket,8
+879,879.0,Kredit kartım ilə Ağdamda olan qatar bileti almaq olar,transport_ticket,8
+880,880.0,Qəbələ şəhərinə gedəcək qatar bileti necə alınır?,transport_ticket,8
+881,881.0,Mənim adıma qatar bileti satın almaq istəyirəm,transport_ticket,8
+882,882.0,"Biletimi itmişəm, yenidən almaq mümkün mü?",transport_ticket,8
+883,883.0,Qış mövsümündə Gəncəyə getmək üçün ucuz qatar bileti tap,transport_ticket,8
+884,884.0,Mənə İmişliyə qatar bileti almaq istəyirəm,transport_ticket,8
+885,885.0,Xəzanənin yanındakı qatar stansiyasına elektron bileti almaq,transport_ticket,8
+886,886.0,Kredit kartım ilə ötən həftədə alınan qatar biletinin hesabını yoxla,transport_ticket,8
+887,887.0,Qışın sonuna kimi Sumqayita gedəcək qatar bileti sifarisi verin,transport_ticket,8
+888,888.0,Nəqliyyat vasitəsinin bileti haqqında məlumat verin,transport_ticket,8
+889,889.0,Mənim kredit kartım ilə qatar bileti satın almaq mümkün mü?,transport_ticket,8
+890,890.0,Mənim üçün Ağstafaya gedən və gələn qatar bileti hazırlayın,transport_ticket,8
+891,891.0,Qatar bileti tətbiqi vasitəsilə özünüzmək,transport_ticket,8
+892,892.0,Məni Naxçıvana gedəcək ekspress qatarına yaz,transport_ticket,8
+893,893.0,Avtobus bileti almaq ucuzdurmu?,transport_ticket,8
+894,894.0,Qatar bileti rezervasiyasını necə etmək olar?,transport_ticket,8
+895,895.0,Sabahın gec saatlarında Göygölə qatar bileti almaq mümkün mü,transport_ticket,8
+896,896.0,Mənə Yevlaxa qatar bileti almağa kömək edin,transport_ticket,8
+897,897.0,"Qatar bileti sifarişi verməyi unutmuşam, yenidən vermək olar mı?",transport_ticket,8
+898,898.0,bu ilin payızında hava nasıl olacaq,weather_query,9
+899,899.0,göyçayda yağış var mı,weather_query,9
+900,900.0,bu hafta sonu hava nasıl olacak,weather_query,9
+901,901.0,bu ayın sonuna qədər hava nasıl olacaq,weather_query,9
+902,902.0,Dünənki hava necə idi,weather_query,9
+903,903.0,gecə saatlarında buludlu mu,weather_query,9
+904,904.0,bu saat hava durumu nedir,weather_query,9
+905,905.0,axşam hava neçə olacaq,weather_query,9
+906,906.0,yanvar ayında orta temperaturu neçidir,weather_query,9
+907,907.0,bu gecə temperatura neçidir,weather_query,9
+908,908.0,bu gecə temperatura neçə ola bilər,weather_query,9
+909,909.0,zəngilanada hava nasıl,weather_query,9
+910,910.0,noyabr ayında yağmur yağacaqmı,weather_query,9
+911,911.0,sabahın ikinci yarısında hava nasıl olacak,weather_query,9
+912,912.0,bu hafta sonu yağmur yağacaqmı,weather_query,9
+913,913.0,axşam saatlarında isti olurmu,weather_query,9
+914,914.0,fevral ayında yağış yağır,weather_query,9
+915,915.0,axşam hava durumu nedir,weather_query,9
+916,916.0,bu ayın sonuna qədər yağış yağacaq,weather_query,9
+917,917.0,dağlıq bölgədə hava necədir,weather_query,9
+918,918.0,iyul ayında isti olurmu,weather_query,9
+919,919.0,bu ilin yayın-da hava nasıl olacaq,weather_query,9
+920,920.0,dünənki hava durumu,weather_query,9
+921,921.0,yanvarda isti olurmu,weather_query,9
+922,922.0,bu hafta hava necə olacaq,weather_query,9
+923,923.0,41.=axşam saatlarında yağış yağır,weather_query,9
+924,924.0,bu gününcə hava necədir,weather_query,9
+925,925.0,növbəti hafta sonu hava necə olacaq,weather_query,9
+926,926.0,növbəti həftənin havası haqqında məlumat ver,weather_query,9
+927,927.0,may ayında isti olurmu,weather_query,9
+928,928.0,iyunda isti olurmu,weather_query,9
+929,929.0,bu gece soğuk mu,weather_query,9
+930,930.0,bu hafta sonu hava neçə olacaq,weather_query,9
+931,931.0,"xəbərdar olun, yağmur yağacaqmı",weather_query,9
+932,932.0,bu haftanın hava proqnozu,weather_query,9
+933,933.0,dekabr ayında ortalama temperatura neçidir,weather_query,9
+934,934.0,sentyabr ayında ortalama temperatura neçidir,weather_query,9
+935,935.0,bu hafta sonunda hava nasıl olacaq,weather_query,9
+936,936.0,şamaxıda hava necədir,weather_query,9
+937,937.0,sabahın temperatura nedir,weather_query,9
+938,938.0,bugün qar yağacaqmı,weather_query,9
+939,939.0,abşeron rayonunda hava neçədir,weather_query,9
+940,940.0,zəngilan bölgəsində yağış var mı,weather_query,9
+941,941.0,şərq bölgəsində hava necədir,weather_query,9
+942,942.0,istirahət günü hava necə olacaq,weather_query,9
+943,943.0,növbəti ilin yanvar ayında hava neçə olacaq,weather_query,9
+944,944.0,"alexa, dünənki hava durumu nedir",weather_query,9
+945,945.0,növbəti həftədə yağmur yağacaqmı,weather_query,9
+946,946.0,bugünkü temperatura nedir,weather_query,9
+947,947.0,bu səhərin hava proqnozu,weather_query,9
+948,948.0,sabah hava nasıl olacak,weather_query,9
+949,949.0,bu hafta hava neçə olacaq,weather_query,9
+950,950.0,bu saat temperatura neçidir,weather_query,9
+951,951.0,saat 15-də hava nasıl olacak,weather_query,9
+952,952.0,bu səhərin hava durumu,weather_query,9
+953,953.0,bu ayın ortasında hava neçə olacaq,weather_query,9
+954,954.0,gündüz hava necə olacaq,weather_query,9
+955,955.0,fevral ayında yağmur yağacaqmı,weather_query,9
+956,956.0,xəzəryanı sahili boyunca hava necədir,weather_query,9
+957,957.0,hava durumunu söyləyin,weather_query,9
+958,958.0,sabahın havası necədir,weather_query,9
+959,959.0,bu səhərin temperaturu neçidir,weather_query,9
+960,960.0,bu ilin yazında hava nasıl olacaq,weather_query,9
+961,961.0,axşam saatlarında yağış yağır,weather_query,9
+962,962.0,may ayında ortalama температура neçidir,weather_query,9
+963,963.0,dünənki hava necə idi,weather_query,9
+964,964.0,bu gününcə yağış yağacaqmı,weather_query,9
+965,965.0,zəngilanda bugünkü hava durumu nedir,weather_query,9
+966,966.0,bu şəhərdə qasırğa varmı,weather_query,9
+967,967.0,istirahət günü yağmur yağacaqmı,weather_query,9
+968,968.0,hava durumunun təsviri,weather_query,9
+969,969.0,bu ayın sonuna doğru hava neçə olacaq,weather_query,9
+970,970.0,bu hafta hava nasıl olacaq,weather_query,9
+971,971.0,bu şəhərdə qar yağacaqmı,weather_query,9
+972,972.0,xəbərlərdə hava durumu,weather_query,9
+973,973.0,gündüz hava nasıl olacak,weather_query,9
+974,974.0,günlük hava proqnozu,weather_query,9
+975,975.0,axşam vaxtı hava durumu nedir,weather_query,9
+976,976.0,istirahət günü hava nasıl olacak,weather_query,9
+977,977.0,abşeron yarımadasında hava necədir,weather_query,9
+978,978.0,sabahın erken saatlarında hava nasıl olacak,weather_query,9
+979,979.0,sabahın hava necə olacaq,weather_query,9
+980,980.0,bu ayın sonunda hava neçə olacaq,weather_query,9
+981,981.0,bu bölgədə qar yağacaqmı,weather_query,9
+982,982.0,bu şəhərdə yağış yağır,weather_query,9
+983,983.0,bu bölgədə qasırğa varmı,weather_query,9
+984,984.0,bu hafta yağmur yağacaqmı,weather_query,9
+985,985.0,dünənki temperatura neçiydi,weather_query,9
+986,986.0,bu gece hava necə olacaq,weather_query,9
+987,987.0,bu bölgədə yağış yağır,weather_query,9
+988,988.0,bu ilin yayında hava nasıl olacaq,weather_query,9
+989,989.0,gündüz vaxtı hava necə olacaq,weather_query,9
+990,990.0,sabahın bulutlu olması mümkün mü,weather_query,9
+991,991.0,dekabr ayında qar yağacaqmı,weather_query,9
+992,992.0,bu hafta sonunda hava necə olacaq,weather_query,9
+993,993.0,aprel ayında yağmur yağacaqmı,weather_query,9
+994,994.0,"alexa, dünənki hava necə idi",weather_query,9
+995,995.0,lənkəranda bugünkü hava durumu nedir,weather_query,9
+996,996.0,dekabr ayında soyuq olurmu,weather_query,9
+997,997.0,bu bölgədə hava durumu,weather_query,9
+0,,bu saatı toronto saat qurşağına uyğunlaşdırın,datetime_convert,4
+1,,onuncu ayın on birinci günü saat birə yeni york standart zamanda necə olur,datetime_convert,4
+2,,vamı olan audio kitabi oxumağa başlayın,play_audiobook,6
+3,,hava durumunu söyləyin,weather_query,9
+4,,məktubunuza cavab yazıb onun emailünə göndərmək üçün zəhmət olmasa,email_sendemail,5
+5,,rınkı idarə iclasını sil və onu növbəti çərşənbəyə dəyiş,calendar_remove,2
+6,,hmət olmasa ailəmdəkilərin bütün məktublarını birgə emailə yığın,email_sendemail,5
+7,,n sabah hansı saatda oyandırılmalıyam,alarm_query,0
+8,,"nsı janrada maraqlanırsınızsa, ona uyğun film tövsiyə etməyi özümü üstə götürürəm",recommendation_movies,7
+9,,bizim şirkətin yeni adresini sizin emailinizə göndərməyi unutmayın,email_sendemail,5
+10,,mənim üçün ən yaxşı şorba resepti nedir,cooking_recipe,3
+11,,günlük yeməklərimizə yeni bir resept əlavə etmək istəyirəm,cooking_recipe,3
+12,,mənim zəngli saatı necə qurmaq olar,alarm_query,0
+13,,sevgili dostuma salam götürüb ona email yazın,email_sendemail,5
+14,,rınkı idarə heyəti iclasını sil və onu daha sonra keçir,calendar_remove,2
+15,,"hmət olmasa, bir az sakit edin",audio_volume_down,1
+16,,dio kitabımı yenidən başlat,play_audiobook,6
+17,,mənə gündüz saat beşdə sumqayıta qatar bileti lazım olur,transport_ticket,8
+18,,vaxtı paris saat qurşağından tokyo saat qurşağına çevirmək mümkün müdür,datetime_convert,4
+19,,xumağa başladıqmıAUDIO kitabı?,play_audiobook,6
+20,,günortadan sonra şamaxaya qatar bileti sifarisiş edin,transport_ticket,8
+21,,qvimimdəki bütün qeydlərımdan imtina edin,calendar_remove,2
+22,,mənim çalışdığımda hansı zəngli saatlarım qurulur,alarm_query,0
+23,,yarın Hava düzgün olmazsa gedəcəyəm.,weather_query,9
+24,,Piti üçün lazımi olan əlavələrin siyahısı nedir,cooking_recipe,3
+25,,"nim fikrimcə, sizə ""Titanic"" filmini tövsiyə etmək olur.",recommendation_movies,7
+26,,nsı saat qurşağındayız onu london saat qurşağına çevirmək mümkün mü,datetime_convert,4
+27,,ayın sonuna olan bütün qeydlərimi ləğv et,calendar_remove,2
+28,,zik sırasına audio kitabı əlavə edin,play_audiobook,6
+29,,məktubumuza daxil olan bütün mətinlərin surətlərini emailə göndər,email_sendemail,5
+30,,un yerində saat neçədir,datetime_convert,4
+31,,"nim fikrimcə, sizə hörmətli ""Titanic"" filmini tövsiyə etməyi məsləhət görürəm.",recommendation_movies,7
+32,,qrıbə cavabını verməyinizi xahiş edirəm necə hazırlamağa başlayım,cooking_recipe,3
+33,,mənə gündüz saat 3-də bakıya qatar bileti lazım ola bilər,transport_ticket,8
+34,,günümüzdə olan bütün planlarımzı ləğv et,calendar_remove,2
+35,,Mən toyuq göbəsini necə hazırlamağı öyrənmək istəyirəm,cooking_recipe,3
+36,,hmət olmasa bizim saatimizi london saat qurşağı ilə uyğunlaşdırın,datetime_convert,4
+37,,mürəbbənin reseptini sizdən öyrənmək istərdim,cooking_recipe,3
+38,,nsı saatda zəngli saat qurulur ki səhər tezlə oyana bilməyim,alarm_query,0
+39,,təqvimimdən bütün qeydləri və xatırladıcıları sil,calendar_remove,2
+40,,mənim üçün sabahleyin hansı saatda zəng çalır,alarm_query,0
+41,,vincə özünü təşviq etməklə bağlı email göndər,email_sendemail,5
+42,,menim sevimli aktyorunun çəkdiyi filmləri tövsiyə et,recommendation_movies,7
+43,,nim üçün zəngli saatların siyahısını göstərin!,alarm_query,0
+44,,n sənin üçün email yazıb göndərmək istəyirdim,email_sendemail,5
+45,,necə şirniyyat bişirməyi öyrənmək istəyirəm,cooking_recipe,3
+46,,n düymürcük salatı reseptini istifadə edib özüm bişirməyi öyrənmək istəyirəm,cooking_recipe,3
+47,,qvimimden sabahın saat 10-u oturumu sil,calendar_remove,2
+48,,bütün saat qurşaqlarını birləşdirməklə dünya saatına çevrilsin,datetime_convert,4
+49,,valideynlərimə evimdəki vəziyyətlə barədə email yazıb göndər,email_sendemail,5
+50,,mənə özünüzdəki ən son çixan filmin adını deməyi xahiş edirəm,recommendation_movies,7
+51,,günorta kino seansı üçün məni necə filmə dəvət edə bilərsiniz?,recommendation_movies,7
+52,,Qozlu buterbrota necə hazırlamağa başlayacam?,cooking_recipe,3
+53,,naydansa sonra çıxarılan bütün mesajları özümə email ilə göndər,email_sendemail,5
+54,,vamı olan audio kitabı oxu,play_audiobook,6
+55,,təqvimimdəki bütün xatırladıcıları silin,calendar_remove,2
+56,,hansı kino teatrında bu həftə sonu açılış filmi nümayiş olunacaq,recommendation_movies,7
+57,,si tədricən azaltmağa çalış,audio_volume_down,1
+58,,bu gecə Bakıda olan qatar biletinin qiymətinə baxın,transport_ticket,8
+59,,un oturduğu şəhərdə saat neçədir,datetime_convert,4
+60,,zəngli saatımın vaxtını dəyişdirmək istəyirəm,alarm_query,0
+61,,onlayn olaraq mənə gecə saat beşdə gündüz yola düşəcək qatar bileti sifariş et,transport_ticket,8
+62,,onlarda gecə saat on biri olarkən bizim ölkədə saat neçədir,datetime_convert,4
+63,,zi hansı saat qurşağındadırmı onun adını çixarmağa imkan varmıdır,datetime_convert,4
+64,,Mən xörəklərin reseptlərini bilmək istəyirəm,cooking_recipe,3
+65,,YAĞIŞ YAĞACAĞI EHTİMALI VAR. ZƏHMƏT OLMASA DE MƏNİ XƏBƏRLƏ.,weather_query,9
+66,,nə Nərimanova stansiyasından çıxan ilk qatarın bileti lazım,transport_ticket,8
+67,,kinematoqrafiyanın ən yeni filmləri barədə mənə xəbər verin,recommendation_movies,7
+68,,mənim üzüm şərabımı necə düzgün bişirməyi bilmək istəyirəm,cooking_recipe,3
+69,,Növbəti hafta sonu hava şəraitinə baxış edin?,weather_query,9
+70,,onların yanına gedib onların verdiyi sözləri emailə çatdırmalısan,email_sendemail,5
+71,,Siz mənə bu günkü zəngli saatları göstərin.,alarm_query,0
+72,,bu ayın sonuna olan bütün tədbirlərimi ləğv et,calendar_remove,2
+73,,Dinamiki səsini azaldın,audio_volume_down,1
+74,,mənə özüm üçün uyğun zəngli saatları tapın,alarm_query,0
+75,,Dinamiki səsini azaltmağa çalışın.,audio_volume_down,1
+76,,Onun üçün səsi biraz azaltsın,audio_volume_down,1
+77,,ailəmizə dərslərin başlanğıcı barədə email göndər,email_sendemail,5
+78,,"Zəngli saatım müəyyən edilməlidir, ona görə də onlar haqqında məlumat verməyi xahiş edirəm",alarm_query,0
+79,,"otaqda səs çox yüksək, onu aşağı sala bilməzsinizmi?",audio_volume_down,1
+80,,on bir aprel saat üçdə hava təhlükəsizmi,weather_query,9
+81,,e. s. t.-dən p. s. t.-ya saat çevrilməsi necədir?,datetime_convert,4
+82,,"hiş edirəm ki, səsi bir az azaltasan",audio_volume_down,1
+83,,norta saatlarında ekranlara çıxan yeni filmlərin xəbərini almağa çalışın,recommendation_movies,7
+84,,saatimiz washington saat qurşağına uyğun deyilmi? onu mütləqgmt-dən ettim,datetime_convert,4
+85,,sizə yeni çixan filmləri tövsiyə edə bilməzdimmi?,recommendation_movies,7
+86,,n sizin üçün email yazıb göndərməyi düşünürdüm,email_sendemail,5
+87,,lecek Çərşənbə günü üçün nəzərdə tutulan idarə heyətinin toplantı saatlarını sil,calendar_remove,2
+88,,günorta kino seansına gedib çox yaxşı dramalar olduğunu eşitdim,recommendation_movies,7
+89,,bu hafta sonu kino seansına gedib hansı filmin olmadığını soruşurum,recommendation_movies,7
+90,,rda gecə saat on birdir london saat qurşağında neçədir,datetime_convert,4
+91,,Gündüz saat beşdə Bakıya gedəcək qatar bileti almaq istəyirəm,transport_ticket,8
+92,,Toyuq ətindən necə kabab hazırlamaq olar,cooking_recipe,3
+93,,si maksimumdan aşağı salın,audio_volume_down,1
+94,,z günü hava şəraitinin necə olduğunu söyləyir?,weather_query,9
+95,,gidəcək həftənin planlarını silin və yeni plandan başlayın,calendar_remove,2
+96,,ra rusiyadan frankfurt saat qurşağına keçirilirmi,datetime_convert,4
+97,,saatı pakistan vaxtından berlin vaxtına çevrilməsi mümkün müdür,datetime_convert,4
+98,,nim sevimli romanımın audio versiyasını çal,play_audiobook,6
+99,,axşam kino seyansı üçün sizin tövsiyələriniz var mı?,recommendation_movies,7
+100,,nə Bakıda olan qatar biletinə ehtiyacım var,transport_ticket,8
+101,,saat qurşağımızı nyu-york saat qurşağına dəyişdirmək lazımdır,datetime_convert,4
+102,,Sizə sevdiyiniz aktyorun iştirak etdiyi filmləri tövsiyə edə bilərəm.,recommendation_movies,7
+103,,qvimimdən dünənki mühazirəni silin.,calendar_remove,2
+104,,üç saat iyirmi dokuz dəqiqədə washington saat qurşağına necə çevrilir,datetime_convert,4
+105,,onlarda saat altısıdır bizdə saat neçədir,datetime_convert,4
+106,,yağmur yağacağını düşünürdüm bugün,weather_query,9
+107,,n qulaq asdıqm kitabını oxumağa davam et,play_audiobook,6
+108,,n sizin email ünvanınıza mesaj göndərmək istəyirdim,email_sendemail,5
+109,,nə yeni çıxan filmləri tövsiyə et,recommendation_movies,7
+110,,Yağışlı olmaqla bağlı ehtimallar varmı?,weather_query,9
+111,,Dinamiki səsin azaltsın,audio_volume_down,1
+112,,hmət olmasa səsi mümkünsüz dərəcədə azaltmağa çalışın,audio_volume_down,1
+113,,Qoz fırında necə bişirilir,cooking_recipe,3
+114,,günün poçtasına yazı göndər,email_sendemail,5
+115,,nematoqrafiyanın ən yeni və maraqlı filmləri barəsində məlumat almağa çalışırıq.,recommendation_movies,7
+116,,Günlük hava proqramına baxmağa imkanım var mıdır?,weather_query,9
+117,,si bir qədər aşağı sala bilirsiniz,audio_volume_down,1
+118,,dio kitabımı oxu,play_audiobook,6
+119,,mən toyuğu necə bişirə bilərəm,cooking_recipe,3
+120,,biryani üçün resept Necədir,cooking_recipe,3
+121,,bu gün səhərə hangi zəngli saatlarım qurulmuşdur,alarm_query,0
+122,,bu gün səhərdə hansı zəngli saatlarım qurulur,alarm_query,0
+123,,un doğum günü saat ikidir Sankt-Peterburqdakı saat qurşağına dəyiş,datetime_convert,4
+124,,il elli dakika sonra bizim saatimizle yeni delhi saatini mueyyen edin,datetime_convert,4
+125,,"BU GÜN İSTIDİR, ÇÖKMƏLİ YERİM VARDIRMı?",weather_query,9
+126,,günorta stansiyasına qatar bileti sifarisiç edin,transport_ticket,8
+127,,mən Sumqayita gedərkən qatar bileti sifarisi edin,transport_ticket,8
+128,,"hiş edirəm ki, səsi bir az aşağı salasın",audio_volume_down,1
+129,,nim sevdiyim audio kitabı oxumağa başlayın,play_audiobook,6
+130,,mənə sabah erkən Naxçıvana qatar bileti lazımdır,transport_ticket,8
+131,,un doğum günüdür washingtondakı saat necədir,datetime_convert,4
+132,,mənə Xaçmazdan Bakıya qatar bileti lazımdır,transport_ticket,8
+133,,un səsini azaltmaq lazımdır,audio_volume_down,1
+134,,"indi bizim saat qurşağımızda saat beşdir, paris saat qurşağında saat neçədir?",datetime_convert,4
+135,,si mümkün qədər aşağı sala bilirsiniz,audio_volume_down,1
+136,,vgili ailəmə salam göndər və onların necə olduğunu soruşan email yazıb,email_sendemail,5
+137,,diokitabını oynaya bilərmi?,play_audiobook,6
+138,,u özünüə kitabını,play_audiobook,6
+139,,dio kitabımı aç,play_audiobook,6
+140,,yağışın olması ehtimalı varsa xəbərdar edin,weather_query,9
+141,,onun doğulduğu gün bizim saat qurşağımdan berlin saat qurşağına çevrilməlidir,datetime_convert,4
+142,,mənə maraqlı bir fantaziya filmi tövsiyə edin,recommendation_movies,7
+143,,"x gürültülüdür, zəhmət olmasa səsi azaltın",audio_volume_down,1
+144,,bugünkü temperatur hansılardır?,weather_query,9
+145,,da berlin saat qurşağından paris saat qurşağına keçir,datetime_convert,4
+146,,hazırkı zamanı kaliforniyaya çevirmək mümkün müdür,datetime_convert,4
+147,,elşadın emailinə sabahkı toplantı barədə xəbərdarlıq göndər,email_sendemail,5
+148,,"Mən evdə lavaş bişirməyi öyrənmək istəyirəm, sizdən kömək lazım olsun.",cooking_recipe,3
+149,,səhər saat altıya zəngli saat qurmağı unutma,alarm_query,0
+150,,axşam vaxtı kino seansı üçün yaxşı komediyalar tövsiyə edilir,recommendation_movies,7
+151,,Sabah erkən saat üçdə Sumgayıtaya qatar bileti sifarişiç edin,transport_ticket,8
+152,,Zəngli saatı necə qurmaq olar?,alarm_query,0
+153,,Dolma üzvlükləri necə düzgün bişirilir,cooking_recipe,3
+154,,mənə sabahın erkən zəngli saatının vaxtını xatırlatmaqla yanaşa bilərsiniz?,alarm_query,0
+155,,va bugün necədir?,weather_query,9
+156,,bu gecə sizi xoşbəxt etmək üçün email yazıram,email_sendemail,5
+157,,doqquz saatlıq qatarla gəncəyə yola düşmək istərdim,transport_ticket,8
+158,,günümüzdəki bütün planlarımızı ləğv edin,calendar_remove,2
+159,,"sevgili dostum, sənin üçün seçilmiş ən yaxşı dramaları sizə tövsiyə etmək istərdim",recommendation_movies,7
+160,,günkü iş müddətimi ləğv et,calendar_remove,2
+161,,istambuldakı saat qurşağından paris saat qurşağına dəyişdikdə saat neçədir,datetime_convert,4
+162,,günorta saat beşdə hava şəraitinin nə olduğunu söyləyin,weather_query,9
+163,,şəhər yeməyinin resepti necədir?,cooking_recipe,3
+164,,günaydakı tədbirlərin fotosunu ona email ilə göndər,email_sendemail,5
+165,,ailəmdə olan hadisələri valideynlərə emailə bildirmək lazımdır,email_sendemail,5
+166,,nsı janrdan olan filmlərinizi tövsiyə etməlisinizmi,recommendation_movies,7
+167,,namiki səsini biraz azaltın,audio_volume_down,1
+168,,hafta çıxan yeni filmləri izləməyi unutmayın!,recommendation_movies,7
+169,,"mənim üçün hansı zəngli saatlar qurulub ki, onu xatırlayıram",alarm_query,0
+170,,mənim üçün ən yaxşı dramaları tövsiyə et,recommendation_movies,7
+171,,n sizinə bir neçə sual göndərmək üçün email yazıram,email_sendemail,5
+172,,"bakıda gecə saat on birdir, london saat qurşağında saat neçədir",datetime_convert,4
+173,,mən kababbişirməyi öyrənməyə çalışıram,cooking_recipe,3
+174,,nin üçün yaxşı dramalar mövcuddurmu?,recommendation_movies,7
+175,,nümüzə olan bütün planlarımızı ləğv edin,calendar_remove,2
+176,,fevral ayının ikinci həftəsi Bakıda hava şəraitinə baxsanız xəbərdar edin.,weather_query,9
+177,,bakıda saat on bir ola bilməmişdirmi nyu-yorkda saat neçədir,datetime_convert,4
+178,,vgili dostuma onun üzərində işlədiyi layihənin nəticələrini email ilə bildir,email_sendemail,5
+179,,gecəki audio kitabımı oxuyun,play_audiobook,6
+180,,nin üçün dinamiki səsini azaltmaq mümkündür,audio_volume_down,1
+181,,bakıda sabah saat altısı olarsa new york saat qurşağında neçədir,datetime_convert,4
+182,,mənə sabah erkən şuşaya qatar bileti almağa ehtiyacım var,transport_ticket,8
+183,,rınkı idarə heyətinin toplantı günü silin,calendar_remove,2
+184,,mənim zəngli saatlarım hansı vaxta qurulur,alarm_query,0
+185,,mənə ötən gecənin zəngli saatını xatırlatmaq lazımdır,alarm_query,0
+186,,n sabahın hansı vaxtı zəngli saat qurmalıyıqm,alarm_query,0
+187,,nə kino seansı üçün yaxşı macera filmi tövsiyə edin.,recommendation_movies,7
+188,,onunla birlikdə yeməkləri necə bişirməyi öyrənmək istəyirəm,cooking_recipe,3
+189,,Havanın temperaturu neçədir?,weather_query,9
+190,,bütün planlarımzı təqvimimdən silin,calendar_remove,2
+191,,on dörd saat sonra şamaxaya gedəcək qatar bileti sifariş edin,transport_ticket,8
+192,,zəngli saatım müntəzəm olaraq çalışmalı idi lakin bir sıra günü ötüşdü,alarm_query,0
+193,,"s çox qulaqşa gəlir, onu azaldaq",audio_volume_down,1
+194,,siyadan amerika saat qurşağına keçidi necə haldır,datetime_convert,4
+195,,"cə film saatına qalır, sizin üçün seçim edərdim",recommendation_movies,7
+196,,mənə sabahça bakıdan görə qatar bileti lazımdır,transport_ticket,8
+197,,mənim üçün audio kitabi oxu,play_audiobook,6
+198,,ailəmdəkilərin hamısına yeni illər təbrikləri ilə birlikdə email göndər,email_sendemail,5
+199,,Piti bişirməkdə dükan yağının rolunu danışaq.,cooking_recipe,3
+200,,ayın sonuna olan bütün tədbirlərimi sil,calendar_remove,2
+201,,albaniya saat qurşağında saat dört olmuş olsa kanadada saat neçədir,datetime_convert,4
+202,,davamı üçün audio kitaba gedib çıx,play_audiobook,6
+203,,bu sabahı məni oyandırmaq üçün hansı zəngli saat qurulmuşdu,alarm_query,0
+204,,sevdiyim kitabını səsləndir,play_audiobook,6
+205,,Bu ayın ortasında Gəncədə temperatura hansı dərəcə olacaqdır?,weather_query,9
+206,,mənim təşkilatımdakı yeniliklərin xəbərini sizə email yolu ilə çatdırmaq istəyirəm,email_sendemail,5
+207,,mən xörəkinə görə hansı ədviyyatdan istifadə etməliyəm,cooking_recipe,3
+208,,vam et audio kitaba,play_audiobook,6
+209,,BU GÜN ÇOX ISTIDIR. GİYİNİMƏLİ YERİNLİYƏM.,weather_query,9
+210,,vamı audio kitaba gedək,play_audiobook,6
+211,,"Zəhmət olmasa, bir qədər sakit edin",audio_volume_down,1
+212,,nim sevdiyim audio kitabı çalınsın,play_audiobook,6
+213,,mənə şamaxaya gedəcək qatar bileti lazım idi,transport_ticket,8
+214,,dio hikayesini səsləndirməyə başlayın,play_audiobook,6
+215,,nə Sumqayita gedəcək qatar bileti lazım,transport_ticket,8
+216,,hava durumunu söylə,weather_query,9
+217,,günorta müddətində sevimli janrımda olan filmlərin siyahısını verməyi unutmayın,recommendation_movies,7
+218,,dio kitabımı başlat,play_audiobook,6
+219,,"at üçdürsə burada, moskvada saat neçədir?",datetime_convert,4
+220,,"s çox yüksəkdir, onu bir az aşağı salaq",audio_volume_down,1
+221,,Bakıda bu haftasonu hava necə olacaq?,weather_query,9
+222,,həri saat altıya zəngli saat qurmamağın mümkün olubmu,alarm_query,0
+223,,Bu gün səhərə hansı zəngli saatları qurmamıしょうm,alarm_query,0
+224,,"Səni xahiş edirəm ki, səsi bir az azaltsan.",audio_volume_down,1
+225,,vamı olan audio kitaba keç,play_audiobook,6
+226,,"Düyü ilə alınan toyuqların resepti necədir, bir örnək verin.",cooking_recipe,3
+227,,bu sabah hangi saatda məni oyada biləcəksiniz,alarm_query,0
+228,,indi berlin saat üçdür rusiyadakı vaxt haqqında nə demək olar,datetime_convert,4
+229,,"hiş edirəm ki, səsi azalsın",audio_volume_down,1
+230,,növbəti haftaya olan planımı təqvimimdən çıxarın,calendar_remove,2
+231,,mən dügün süfrəsi üçün lazımı yeməklərin reseptlərini axtarıram,cooking_recipe,3
+232,,nə Bakıda növbəti günlər ekranlara çıxacaq filmlər barədə məlumat verin.,recommendation_movies,7
+233,,onlara bizim komandamızın iş təcrübəsi barədə email göndər,email_sendemail,5
+234,,bu gün səhərdə hansı zəngli saatlarım qurulmuşdu,alarm_query,0
+235,,noteatrdakı ən çox baxılan filmlərin siyahısı hansıkadır,recommendation_movies,7
+236,,nim dünənki zəngli saatlarım nə zaman qurulmuşdu,alarm_query,0
+237,,on dördüncü ayda Naxçıvana qatar bileti sifarişi etməyi unutmayın,transport_ticket,8
+238,,mısı için təqvimimdəki bütün qeydləri sil,calendar_remove,2
+239,,gelecek hafta hava nasıl olacak?,weather_query,9
+240,,nə saat 10-da Bakıya yola düşəcək qatar bileti lazım olsun,transport_ticket,8
+241,,Piti reseptinin klassik variantını axtarım,cooking_recipe,3
+242,,"ngli saatı necə qurmaliyamsa, məni xəbərdar et!",alarm_query,0
+243,,sevimli ailəmə salam söyləyən email göndərməyi unutmayın,email_sendemail,5
+244,,"Əvvəlki gün yeyinə yazdığım resepti unutdum, yenidən izah et",cooking_recipe,3
+245,,onlara bizim son uğurlarımızı çatdıran email göndər,email_sendemail,5
+246,,günorta Naharını ləğv et,calendar_remove,2
+247,,tün növbəti təqvim planlarımzısil,calendar_remove,2
+248,,Kürdükanı təzə halda saxlamağın yollarını öyrənmək istəyirəm.,cooking_recipe,3
+249,,Bu ayın ortasında Bakiya hava nasıl olur?,weather_query,9
+250,,naya özünün daxili hesabatı barədə email göndər,email_sendemail,5
+251,,hansı yeni filmi tövsiyə edirsən? Məni maraqlandırır,recommendation_movies,7
+252,,si bir qədər azaltdı,audio_volume_down,1
+253,,a görə də səsi azaltmağa çalışım,audio_volume_down,1
+254,,hansı saat qurşağındayız bizə indi london saat qurşağına keçmək lazımdır,datetime_convert,4
+255,,Havanın təxminən necə olacağını bilmək istərdim.,weather_query,9
+256,,ftəsonu üçün yaxşı dramatik film tövsiyə edə bilərəm.,recommendation_movies,7
+257,,Təqvimimdəki bütün xatirələri sil,calendar_remove,2
+258,,nim zəngli saatlarım hansı zamanda çalışmaya başlanacaqlar,alarm_query,0
+259,,Onu biraz sakıt etmək üçün səsi aşağı salın.,audio_volume_down,1
+260,,"a görə ki, ötənlərə baxmayaraq, yenidən audio kitaba başlayaq",play_audiobook,6
+261,,ləmə dünənki hadisələri barədə email yazıb göndər,email_sendemail,5
+262,,günorta saat 3-ə qatar bileti sifariş edin,transport_ticket,8
+263,,mənə bu günkü zəngli saatların siyahısını verin,alarm_query,0
+264,,diki dəqiqədəki audio kitabından başlamayın,play_audiobook,6
+265,,nim çalışdığım zaman zəngli saatım hansı saatda qurulur,alarm_query,0
+266,,səhər saat altıdan sonra washington vaxtına keçdikdə saat neçə olacaqdır,datetime_convert,4
+267,,BİZİM ŞƏHƏRDƏ BUGÜN YAĞIŞ EHTİMALI VARMI?,weather_query,9
+268,,mən zəngli saatımın vaxtını müəyyənləşdirmişəmmi,alarm_query,0
+269,,"Zəhmət olmasa, bir qədər sakit ola bilərik",audio_volume_down,1
+270,,günaşırı hava proqnozuna baxsa xahiş edirəm,weather_query,9
+271,,mənə iyul ayına qədər Sumqayita qatar bileti sifariş et,transport_ticket,8
+272,,bakıda saat bir olmuş olsa nyu-yorkda saat neçədir,datetime_convert,4
+273,,GƏLƏN ÇƏRBƏK BİR GÜNÜ HAVA NECƏ OLACAQ?,weather_query,9
+274,,mən düdükü necə tövüzümə uyğun bişirə bilərəm,cooking_recipe,3
+275,,nim sevdiyim audio kitabı oxu,play_audiobook,6
+276,,nim üçün yaxşı dramalar tövsiyə edə bilərsinizmi,recommendation_movies,7
+277,,təqvimimdəki növbəti hadisəni sil,calendar_remove,2
+278,,zə yaxşı komediya filmi tövsiyə edə bilməzmi?,recommendation_movies,7
+279,,"Çox gürültülüdür, zəhmət olmasa səsi azaldaq",audio_volume_down,1
+280,,YAĞİŞ YAĞIÇILIQINA GÖRƏ BİZİM ÜÇÜN MƏSLƏHƏT OLA BİLƏR?,weather_query,9
+281,,nəşliyi təqvimimdən silin,calendar_remove,2
+282,,bu anda london saat qurşağında saat neçədir bizdəki saat qurşağı ilə müqayisədə,datetime_convert,4
+283,,mənə bu axşam Sumgayıtaya qatar bileti almağa imkanınız var?,transport_ticket,8
+284,,sizə mövzuuma uyğun gələn filmləri tövsiyə etməyi xahiş edirəm,recommendation_movies,7
+285,,mən neçə dəfə zəngli saat quraşdırıb,alarm_query,0
+286,,tabımı səsləndir,play_audiobook,6
+287,,mənim zəngli saatlarım arasında hansı biri daha çox istifadə olunur,alarm_query,0
+288,,mənim işə gedərkən zəngli saata ehtiyacım var,alarm_query,0
+289,,GƏLƏN ÇƏRŞƏNBƏDƏ BAKIDA HA VANECƏ OLACAQ?,weather_query,9
+290,,diokitabından bir hissəsi çalınsın,play_audiobook,6
+291,,mənə bugün açılan yeni filmlərin siyahısını verin,recommendation_movies,7
+292,,nortadan sonra Sumqayıta gedəcək qatar bileti almaq istəyirəm,transport_ticket,8
+293,,günorta kino seansına gedərk,recommendation_movies,7
+294,,Necə kiçik uşaqlara yeməkləri dadlı edə bilirik?,cooking_recipe,3
+295,,kinoya getdikdə sizin tövsiyə edinilən filmləri izləməyi xoşlayıram,recommendation_movies,7
+296,,"mənə elə bilin ki, axşam saat altıda sumaqa gedəcək qatarın biletinin qiyməti necədir",transport_ticket,8
+297,,sləndir audio kitabi,play_audiobook,6
+298,,toyuqlardan hazırlanan yeməyi necə bişirməliyəm,cooking_recipe,3
+299,,uduğum audio kitabı yenidən başlayın,play_audiobook,6
+300,,onlara bizim şirkətin yenilikləri barədə email göndərə bilərsiniz,email_sendemail,5
+301,,vam edin özünü oxuduğum kitaba,play_audiobook,6
+302,,noda hansı filmlərin olduğunu bilirsinizmi,recommendation_movies,7
+303,,tabımı audio şəkildə oxumağa başlayın,play_audiobook,6
+304,,norta saat beşdə Bakıya qatar bileti sifariş edin,transport_ticket,8
+305,,sevdiyim audio kitabına qayıdış edin,play_audiobook,6
+306,,"Zəhmət olmasa, səsi bir az aşağı salın.",audio_volume_down,1
+307,,xarı büdcəyə uyğun qatar bileti axtarım,transport_ticket,8
+308,,xəmiri düzmək üçün hansı maye lazımdır,cooking_recipe,3
+309,,nə dünən gecə zəngli saatımın saatını xatırlamağınız lazım idi,alarm_query,0
+310,,hava proqnozu nəyi göstərir?,weather_query,9
+311,,Silin təqvimimdəki bütün qeydləri,calendar_remove,2
+312,,günorta stansiyasından şəmkirə qatar bileti almaq istəyirəm,transport_ticket,8
+313,,vincə necə olduğunu soruşan email göndər,email_sendemail,5
+314,,nə sabahın erkən saatında lenxanlığa qatar bileti lazımdır,transport_ticket,8
+315,,Necə lavaş bişirməyi bacarıram,cooking_recipe,3
+316,,mənə Şamaxıya gedəcək qatarın bütün biletlerini göstərin,transport_ticket,8
+317,,qozlu düdü Necə bişirilir,cooking_recipe,3
+318,,at altısını Şotlandiyanın paytaxtı Edinburgdakı saat qurşağına çevrilməlidir,datetime_convert,4
+319,,günorta bakıda olan qatar biletinə ehtiyacım var,transport_ticket,8
+320,,kıda sabah saat altından sonra nyu-york saat qurşağına çevrilsin,datetime_convert,4
+321,,"nim fikrimcə, sizə lazımi olan ən yaxşı filmdi",recommendation_movies,7
+322,,çmiş günlərdə çıxmış ən yaxşı macəra filmi hansıdır?,recommendation_movies,7
+323,,zik deyil audio kitabı oxuyun,play_audiobook,6
+324,,ağıdan səs çıxarandan sonra azaltmaq mümkün mü,audio_volume_down,1
+325,,nim üçün roma tarixinin audio kitabını oxu,play_audiobook,6
+326,,nə Gəncəyə uçmaqla bağlı qatar bileti tapın,transport_ticket,8
+327,,"otaqda səs çoxdur, onu azaldın",audio_volume_down,1
+328,,uğuň davamı üçün audible'ı aç,play_audiobook,6
+329,,atı new yorkdan berlinə çevrilməsi mümkün müdür,datetime_convert,4
+330,,yağmur yağmağa başlayanda mənim evimdə su sızması olurmu,weather_query,9
+331,,n neçə dəqiqədə zəngli saat qurmağa imkan var,alarm_query,0
+332,,ona görə çörəyi necə hazırlamağa imkan verir,cooking_recipe,3
+333,,tün keçmiş qeydləri sil və təqvimimi yenilə,calendar_remove,2
+334,,un oturduğu şəhərin saat qurşağını bizimkilərlə uyğunlaşdırın,datetime_convert,4
+335,,xəmiri necə hazırlamaqla bağlı resept,cooking_recipe,3
+336,,sevincə onun üçün yenı adresə email göndər,email_sendemail,5
+337,,arə heyətinin yığıncağını təqvimimdən sil və onu gələn Çərşənbə axşamına dəyişdir,calendar_remove,2
+338,,sləndir kitabını başlat,play_audiobook,6
+339,,mürəbbənin resepti hansıdır,cooking_recipe,3
+340,,nə dünən gecəsi sumağa qatar bileti lazım idi,transport_ticket,8
+341,,bu gecə bakıya uçmağa imkanım var qatar bileti sifariş edin,transport_ticket,8
+342,,lmin sonuncu seriyasını izləməyi tövsiyə edirdim,recommendation_movies,7
+343,,təqvimimdən bugünə olan bütün qeydləri sil,calendar_remove,2
+344,,ailəmdəkilərə salam göndərmək üçün email yazıram,email_sendemail,5
+345,,namiki səsi azaltmaq üçün düyməyə basın,audio_volume_down,1
+346,,bugünkü hava proqnozunu bildirin,weather_query,9
+347,,Mənim işə gedərkən zəngli saatım qurulurmu?,alarm_query,0
+348,,a necə olduğunu soruşan email yazıb göndər,email_sendemail,5
+349,,səhər hansı zəngli saatlar qurulmuşdur,alarm_query,0
+350,,"Bugünkü bütün planlarımzı ləğv edin, yenisi yaratmağa imkan verir",calendar_remove,2
+351,,Bu günkü zəngli saatlarım hansılardır? Onları yeniləməyi unutmayın.,alarm_query,0
+352,,"mənim sevdiyim aktyorun yeni filmi çox maraqlıdır, onu izləmək lazımdır",recommendation_movies,7
+353,,nim dostuma onun həyatındakı dəyişikliyi bildirən email yazmaq lazım idi,email_sendemail,5
+354,,Yağmur yağmağı mümkün müdur?,weather_query,9
+355,,saat qurşağını paris saat qurşağı ilə uyğunlaşdırmağa çalışın,datetime_convert,4
+356,,sabah olan iş müsahibəsini təqvimimdən sil,calendar_remove,2
+357,,hər saat ikidir Çikagodakı vaxt necədir,datetime_convert,4
+358,,vamı üçün audio kitaba keçid edin,play_audiobook,6
+359,,həmin günü təqvimimdən çıxarın,calendar_remove,2
+360,,skvada gecə saat bir olarsa çexiyada saat neçədir,datetime_convert,4
+361,,uduğum kitabı yenidən başlayın,play_audiobook,6
+362,,YAĞİŞ YAĞACAĞI EHTİMALLIĞI VARMIdir?,weather_query,9
+363,,bütün görüşlərimi təqvimimdən sil,calendar_remove,2
+364,,lara bizimkilərin ünvanına email göndər,email_sendemail,5
+365,,"si biraz azalt, zəhmət olmasa",audio_volume_down,1
+366,,Dolma içi üçün yeni bir resept axtarım,cooking_recipe,3
+367,,s çoxdur onu bir az aşağı sala bilirsiniz,audio_volume_down,1
+368,,Mənim zəngli saatlarım hansı vaxtı çalar?,alarm_query,0
+369,,mənə bu hafta sonu üçün gəncəyə qatar bileti lazım,transport_ticket,8
+370,,sentyabrın ilk günləri бакıda yağış еhtimalları varmı,weather_query,9
+371,,sevdiyim kitabımın audio versiyasını oxu,play_audiobook,6
+372,,gələn həftəsonu hava şəraitinin necə olacağını bildirin,weather_query,9
+373,,u audio kitabi yenidən,play_audiobook,6
+374,,Hansı zəngli saatları müxtəlif zamanlarda qurmağın mümkün olacağını bilmək istəyirdim,alarm_query,0
+375,,nim iş yoldaşıma bizim görüşümüzün müddətı barədə email göndərmək lazımdır,email_sendemail,5
+376,,ssiz audio kitabi açıb dinlə,play_audiobook,6
+377,,canberrada gecə saat on birdir bizim saat qurşağındakı vaxt nedir,datetime_convert,4
+378,,Qozlu dovğa resepti necədir?,cooking_recipe,3
+379,,sizin görüşünüzdə ən yaxşı dramatik film nedir,recommendation_movies,7
+380,,mənim yuxu zamanıma uyğun gələn zəngli saat necə qurulur,alarm_query,0
+381,,qrızdan lenkerana qatar bileti sifariş et,transport_ticket,8
+382,,günorta saat beşdə bakıya qatar bileti sifariş et,transport_ticket,8
+383,,Lavangi baligini necə bişirə bilərəm?,cooking_recipe,3
+384,,qvimimdən bugünə aid olan bütün qeydləri silin,calendar_remove,2
+385,,vgili ailəmə bizim son görüşümüzü xatırladan email göndər,email_sendemail,5
+386,,gürcü aşının düzgün bişirmənin sirri nedir,cooking_recipe,3
+387,,mənim dostuma müxtəlif mövzularda email yazmağı unutmayın,email_sendemail,5
+388,,zırkı vaxtı şotlandiyadan kanadaya çevrilməsi mümkün müdür,datetime_convert,4
+389,,Necə baldız bişirilməlidir?,cooking_recipe,3
+390,,Hava durumu bugün ne olacak?,weather_query,9
+391,,Gəlecek Çərşənbə günü olan bütün görüşləri sil,calendar_remove,2
+392,,yarın Hava Necə Olacaq?,weather_query,9
+393,,gün səhərdə hansı zəngli saatlardan biri çalınmağa başlayacaqmı,alarm_query,0
+394,,"hmət olmasa, səsi tənzimləyin",audio_volume_down,1
+395,,mənə Sabahın erkən saatlarında Gəncəyə qatar bileti lazımdır,transport_ticket,8
+396,,qvimimdəki dünənki toplantı qeydin sil,calendar_remove,2
+397,,Mənim fikrimcə sizin üçün ideal film hansısıdır?,recommendation_movies,7
+398,,"arə heyətinin toplantı saatını silib, yeni tarifə uyğunlaşdırın.",calendar_remove,2
+399,,Məni Naxçıvana çatdıracaq qatar bileti tapın,transport_ticket,8
+400,,Gələn həftənin sonuna kimi hava şəraitinin necə olacağını söyləyin.,weather_query,9
+401,,rdalan şəhərinə enişinə qatar bileti sifarisiç edin,transport_ticket,8
+402,,"hmət olmasa, dinamikin səsini biraz azaltın",audio_volume_down,1
+403,,nin üçün yaxşı bir film təklif edə bilməzmi?,recommendation_movies,7
+404,,Təqvimimdən bu hafta sonunun planlarını sil,calendar_remove,2
+405,,ləmə məktub göndər və onlara de ki...,email_sendemail,5
+406,,sentyabrın on beşinin gecəsi new york saat qurşağında saat neçədir,datetime_convert,4
+407,,"nsı saat qurşağındayızsa, orada saat neçədirsə, onu bizim saat qurşağıyla uyğunlaşdırın",datetime_convert,4
+408,,naya bizim proyektimizdəkilərin yenilikləri barədə email göndər,email_sendemail,5
+409,,sizə yaxşı bir komediya filmi tövsiyə edə bilərəm,recommendation_movies,7
+410,,BİZİM ŞƏHƏRDƏ BUGÜN YAĞIŞ EHTIMALI VARMI?,weather_query,9
+411,,mənə bu axşam kino proqramını göndərə bilərsiniz,recommendation_movies,7
+412,,büryan kimi yeməyi necə hazırlamağa başlayım,cooking_recipe,3
+413,,Bugünkü bütün fəaliyyətlərimi təqvimdən sil,calendar_remove,2
+414,,günortadan sonra Gəncəyə yola düşmək üçün mənə qatar bileti lazımdır,transport_ticket,8
+415,,mənə şamaxıya ucuz qatar bileti tapıb gətirin,transport_ticket,8
+416,,hansı zəngli saatlarının işi bitmişdir onu bilmək istəyirəm,alarm_query,0
+417,,"x gürültülüdür, zəhmət olmasa səsi azaltmağa çalışın",audio_volume_down,1
+418,,Səsin səviyyəsini azaltsın.,audio_volume_down,1
+419,,a dünənki mövzuyla bağlı olan bütün müsahibələri email vasitəsilə göndər,email_sendemail,5
+420,,mənə xırdalan şəhərinə qatar bileti gətir,transport_ticket,8
+421,,vam etmək üçün audio kitabı aç,play_audiobook,6
+422,,Havanın sabahkı temperaturu hansı ola bilər?,weather_query,9
+423,,n sizinə sabah gecə göndərilmiş sifariş barədə email göndərmək istəyirdim,email_sendemail,5
+424,,mənə bu hafta açılan yeni filmlərin siyahısını göndərin,recommendation_movies,7
+425,,mən bu şorbayı necə bişirməliyəm,cooking_recipe,3
+426,,Bu həftə sonluğu kino ilə keçirmək istərdiniz? Mənə rekomendasiya edin,recommendation_movies,7
+427,,növbəti tapşırığımı onlara email ilə göndərə bilməlisən,email_sendemail,5
+428,,"hansı janrda film istəyirsiz, mən ona görə tövsiyələr edə bilərəm",recommendation_movies,7
+429,,Piti üçün ən yaxşı resept nedir,cooking_recipe,3
+430,,qvimimdəki bütün qeydləri silin,calendar_remove,2
+431,,sin gücünü azalt,audio_volume_down,1
+432,,Necə şirniyyatdan istifadə edib yemək bişirmək olar,cooking_recipe,3
+433,,kıda sabah Hava Necə Olacaqdır?,weather_query,9
+434,,"Qozlu düyünü necə bişirməliyim ki, o dadlı olsun",cooking_recipe,3
+435,,Bakıda olan bütün qatar biletlerini mənə göstər,transport_ticket,8
+436,,"hmət olmasa, ona sonuncu dəfə göndərilmiş sifarişləri email ilə xatırladaq",email_sendemail,5
+437,,yarın sabaqdа hava necə olacaq,weather_query,9
+438,,namiki rejimi üçün səsi azaltmaya çalışın,audio_volume_down,1
+439,,rın düşməsi ehtimalı varsa bu hafta?,weather_query,9
+440,,mənim təqvimimden bu ayın 15-i olan görüşünü sil,calendar_remove,2
+441,,zdə hansı zəngli saat qurulmuşdur deyin,alarm_query,0
+442,,cümbə günü olan bütün planları ləğv et,calendar_remove,2
+443,,Mənim zəngli saatlarım hansı saatda çalışır?,alarm_query,0
+444,,rda gecə saat birdir Parisdə saat neçədir,datetime_convert,4
+445,,norta saat beşdə xaçmazlara qatar bileti sifariş edin,transport_ticket,8
+446,,"Mənim üçün zəngli saatları göstərin ki, səhəri düzgün qarşılayım.",alarm_query,0
+447,,"Qozlu büryanı hazırlamağın müxtəlif üsulları mövcuddur, sizin sevdiyiniz nedir?",cooking_recipe,3
+448,,dioteka proqramını açaraq audio kitabi oxuyun,play_audiobook,6
+449,,un saatındakı fərqimizi bilmək üçün rusiyaya çevrilməlidir,datetime_convert,4
+450,,"nim fikrimcə, sizə yaxşı dramalar tövsiyə edərdim",recommendation_movies,7
+451,,"x gürültülüdür, səsi azalt",audio_volume_down,1
+452,,sevdiyim insanlara doğum günü təbrikləri ilə email göndər,email_sendemail,5
+453,,Sizdə mövcud olan bütün zəngli saatlarım haqqında məlumat verin,alarm_query,0
+454,,buzdagda bugün hava şəraitinin necə olacağını demək olar,weather_query,9
+455,,Sabahkı hava şəraitinin necə olacağını söyləyə bilərsiniz?,weather_query,9
+456,,n sizin şirkətinizə üzvlük üçün email göndərmək istəyirdim,email_sendemail,5
+457,,tabımın səslərini oynat,play_audiobook,6
+458,,sinizi biraz azaltın,audio_volume_down,1
+459,,a bizim görüşümüzü bildirən email yazıb göndər,email_sendemail,5
+460,,nə sevimli aktrisanın iştirak etdiyi bütün filmləri göstərin.,recommendation_movies,7
+461,,ksikanın paytaxtındakı saat necədirsə bizim saat qurşağımdakı vaxt necədir,datetime_convert,4
+462,,romanın audio versiyasını oxuya bilərmi,play_audiobook,6
+463,,dio kitabımı oynat,play_audiobook,6
+464,,saat qurşağımızı şotlandiyadan kanadaya dəyişdikdə saat neçə olur,datetime_convert,4
+465,,mənə dörd nəfərlik qatar bileti lazımdır,transport_ticket,8
+466,,nim üçün audio kitabı oxuyun,play_audiobook,6
+467,,"nematoqrafiyanın ən yaxşı nümunələri arasında olan ""İnception""-u izləməyi tövsiyə edirəm",recommendation_movies,7
+468,,ncə şəhərinə yuxarıda olan bütün qatar biletlerini göstər,transport_ticket,8
+469,,quqi departamentə bizim müqavilənin surətlərini email vasitəsilə göndər,email_sendemail,5
+470,,Bu sabah hava narahatlıqları var mı?,weather_query,9
+471,,tün gündəlik planlarımzı sil,calendar_remove,2
+472,,bu gün səhərdə zəngli saatı qurmağa kömək edin,alarm_query,0
+473,,ləmdə olan hadisələrin bütün təfərruatlarını sizə email ilə çatdıraram,email_sendemail,5
+474,,si maksimumdan biraz azaltsın,audio_volume_down,1
+475,,n səhərə email göndərmək istəyirdim,email_sendemail,5
+476,,bu gecə Bakıda olan qatar biletinə ehtiyacım var,transport_ticket,8
+477,,Bakıda bugün güneşli hava olacaqmı?,weather_query,9
+478,,zin üçün ən məşhur kino təklif edə bilərəm,recommendation_movies,7
+479,,Qozlu murabbayı necə hazırlaşdırmağın müxtəlif üsulları var?,cooking_recipe,3
+480,,Hansı zəngli saatlar səhərdə qurulur,alarm_query,0
+481,,nsı zəngli saatın çalındığını bilmək istəyirəm,alarm_query,0
+482,,BU GÜN İSTİ DƏRƏCƏSİNƏ BAŞA DÜŞMÜR?,weather_query,9
+483,,"axşamküncə film saatına qalsa idim, sizin xahişinizə uyğun film tövsiyə edə bilərəm.",recommendation_movies,7
+484,,Mənim üçün əlavə zəngli saat qurmağın mümkün olduğunu bilmək istəyirəm,alarm_query,0
+485,,qvimimdən bu ayın sonuna qədər olan bütün tədbirləri sil,calendar_remove,2
+486,,zə yaxın kinотеатрda hansı filmlər göstərilirdi,recommendation_movies,7
+487,,mənim dostuma bizim görüşümüzü xatırladan email yaz,email_sendemail,5
+488,,lara bizim şirkətimizin yeniliyi barədə email göndərməyi unutmayın,email_sendemail,5
+489,,təqvimimdən mikayıl ilə olan bütün qeydləri silin,calendar_remove,2
+490,,mən düdükötünü necə bişirə bilməlisiniz,cooking_recipe,3
+491,,resipiENTƏ xoruzunun təamı necə hazırlanır,cooking_recipe,3
+492,,ati kaliforniyadan bern saatina deyishdin,datetime_convert,4
+493,,on dörd oktyabr günü hövdənin bir hissəsində bulutlu olmaqla yanaşımlı hava şəraitinin olması gözlənilir,weather_query,9
+494,,baniyada gecə saat on birdir bizdə saat neçədir,datetime_convert,4
+495,,n sabahın hansı saatına zəngli saat qurmaq lazımdır,alarm_query,0
+496,,HAVA ŞƏRAİTİNİ ÖYRƏNMİŞƏM.,weather_query,9
+497,,günaydın. sentyabr ayında olan bütün planlarını ləğv et,calendar_remove,2
+498,,Xocalıdan Bakıyaya gecə qatarı üzrə bileti almaq olar mı?,transport_ticket,8
+499,,"zəhmət olmasa, sabah Hava Necə Olacaq?",weather_query,9
+500,,gidəcəyim yerin hava şəraiti necə olacaq,weather_query,9
+501,,maniyada saat on birdən sonra onsunda saat neçədir,datetime_convert,4
+502,,nə Gəncəyə qatar bileti sifariş edin,transport_ticket,8
+503,,mənə sabah Bakıda olan ilk qatara bileti lazım olsun,transport_ticket,8
+504,,nə hansı aktyorun iştirak etdiyi filmləri tövsiyə etmək olurmusunuz?,recommendation_movies,7
+505,,havalanma zamanı necə olur?,weather_query,9
+506,,zırdaki saatimiz almanya saat qurşağına uyğundurmu,datetime_convert,4
+507,,HA VA PROQNOZU Necə Olacaq?,weather_query,9
+508,,mən bu şirniyi necə bişirə bilərəm,cooking_recipe,3
+509,,meni kino seansı üçün yaxşı komediyaya götür,recommendation_movies,7
+510,,ona görə yeməyi necə hazırlamağa başlayaram,cooking_recipe,3
+511,,Xırdalana qatar bileti sifarisinin edilməsi mümkün müdür?,transport_ticket,8
+512,,Bu otağın səsini azaltmağa çalışırıq.,audio_volume_down,1
+513,,bu saat qurşağını london saat qurşağına çevirmək mümkün müdür,datetime_convert,4
+514,,hazırdakı təqvimimdəki bütün məlumatları sil,calendar_remove,2
+515,,Sizə möhtəşəm döyüş filmi tavsiyə edirəm,recommendation_movies,7
+516,,Qoz fırında necə bişirilməlidir?,cooking_recipe,3
+517,,avstralıyada saat neçədirsə bizdəki saat qurşağı ilə müqayisədə bu anda saat neçədir,datetime_convert,4
+518,,zə bu hafta açılan yeni filmlərin siyahısı haqqında məlumat vermək istərdim,recommendation_movies,7
+519,,türkiyənin saat qurşağını rusiyaya çevirmək mümkündürmü,datetime_convert,4
+520,,havadan xəbərdarlıq edin,weather_query,9
+521,,Gələn həftənin hava proqnozu nədir?,weather_query,9
+522,,"Necə aşpicbişirməyi bacarmalısan ki, olanda dadlı olsun?",cooking_recipe,3
+523,,nə günorta hansı saatda xəbərdarlıq edilir,alarm_query,0
+524,,hava durumunu öyrənmək mümkün müdür?,weather_query,9
+525,,s ünvanını 50 faiza endirmək olar,audio_volume_down,1
+526,,si tədricən aşağı sal,audio_volume_down,1
+527,,tabı yenidən başlat,play_audiobook,6
+528,,BAKIDA BUGÜN YAĞIŞ EHTİMALLIĞI VARMI?,weather_query,9
+529,,günaydan alınan mesajı ona emailə geri göndər,email_sendemail,5
+530,,nim dostuma Email göndər və ona söylə ki...,email_sendemail,5
+531,,Sabahın hansı saatına kimi zəngli saat qurmaya imkan var?,alarm_query,0
+532,,mənə bu hafta sonu üçün qatar bileti sifariş et,transport_ticket,8
+533,,mənə bu sabah böyük şəhərdən çıxan ilk qatarın biletini verin,transport_ticket,8
+534,,Bu səhərə zəngli saat necə qurulur?,alarm_query,0
+535,,mənim işə gedərkən zəngli saatlara ehtiyacım var,alarm_query,0
+536,,"Zəngli saatı necə qurmaliyim ki, səhər tez oyana biləyim?",alarm_query,0
+537,,"nsısa, səsi biraz azalt",audio_volume_down,1
+538,,nə yaxın kinoteatrda nümayiş olunan ən yaxşı komediyaları söyləyin,recommendation_movies,7
+539,,di bizim saatımız new york saat qurşağındadır,datetime_convert,4
+540,,hərə kimin zəngli saatları qurulmuşdur?,alarm_query,0
+541,,"Hazırkı təqvimi boşaldıb, yeni bir təqvim yaradın",calendar_remove,2
+542,,"u bir az sakit edin, zəhmət olmasa",audio_volume_down,1
+543,,ntyabr ayında olan iş günü sil,calendar_remove,2
+544,,qvimimdəki saat 3-də olan görüşünü sil,calendar_remove,2
+545,,Bugünkü Hava Proqnozu Necə Olacaq?,weather_query,9
+546,,Bu ayın sonuna olan bütün planlarımzı silin,calendar_remove,2
+547,,un yeri bizim saat qurşağımızdan bir saat önədir bizdə saat neçədir,datetime_convert,4
+548,,ayın sonuna kimi olan bütün planlarını ləğv et,calendar_remove,2
+549,,kıda olan qatar biletini mənə çatdırın,transport_ticket,8
+550,,qvimimdəki sabahkı müalicəvi qəbulu silin,calendar_remove,2
+551,,a görə də səsi aşağı salmağınızı xahiş edirik,audio_volume_down,1
+552,,quba şəhərinə gedəcək qatar bileti almaq istəyirəm,transport_ticket,8
+553,,"zəhmət olmasa, sizə bizim son proyektimizdəki yenilikləri email ilə çatdırın",email_sendemail,5
+554,,mən bu kababı necə bişirməliyəm,cooking_recipe,3
+555,,"Səni rahat etməyə imkan vermir, səsi azaldım",audio_volume_down,1
+556,,"mənə dərhal Bakıya qatar bileti sifariş etdim ki, sabah yola çıxa bilməyim",transport_ticket,8
+557,,Bakının bu səhəri hava proqnozunu bildirin.,weather_query,9
+558,,"sizin üçün yaxşı dramalar var, onları izləmək istərdiniz",recommendation_movies,7
+559,,nematoqrafda hansı filmlərin göstərildiyini öyrənmək istəyirdim,recommendation_movies,7
+560,,mənə gündüz saat beşdə şamaxaya qatar bileti lazım ola bilir,transport_ticket,8
+561,,saat qurşağını fransa saat qurşağına uyğunlaşdırmaq olar mı,datetime_convert,4
+562,,mənim üçün ən yaxşı fantastika filmi hansısıdır?,recommendation_movies,7
+563,,mənə sabah Bakıya qatar bileti almağa imkan var?,transport_ticket,8
+564,,ngli saatımın hansı saatda çalacağını söyləyin!,alarm_query,0
+565,,təqvimimdəki növbəti iki günü sil,calendar_remove,2
+566,,da london saatini nyu-york saatina cevirin,datetime_convert,4
+567,,günorta saat üçdə sumaqa qatar bileti sifariş etdim,transport_ticket,8
+568,,təqvimimdəki bütün qeydləri sil və yenidən başla,calendar_remove,2
+569,,nsıottieyni azaldıb səsini aşağı sala bilərik?,audio_volume_down,1
+570,,sün gücü azalsa daha yaxşı olur,audio_volume_down,1
+571,,"gündüz saat ikisində sydney saat qurşağında saat neçədir, bizə bildirin",datetime_convert,4
+572,,sləndirilmiș kitabimi açıb dinlə,play_audiobook,6
+573,,HAVA PROQNOZU Necə Olacaq?,weather_query,9
+574,,yarın sabaqh hava proqnozu nedir,weather_query,9
+575,,ssizlikdə olan audio kitabını oxu,play_audiobook,6
+576,,moskvada saat dördüncüsüdür bizdə saat neçədir,datetime_convert,4
+577,,mənə dəmir yolu vasitəsi ilə qatar bileti sifariş et,transport_ticket,8
+578,,sləri azaltmaq üçün düyməni basın,audio_volume_down,1
+579,,qvimimdəki bütün müxtəlif planlarımzı ləğv et,calendar_remove,2
+580,,gününüzü təbrik edən şəxsənizə email göndərin,email_sendemail,5
+581,,nim dostuma onun üçün əhəmiyyətli olan məlumatları email vasitəsi ilə göndərin,email_sendemail,5
+582,,"mən sizin üçün ideal romantik komediyasını tapdım, onu izləməlisiniz",recommendation_movies,7
+583,,kida sabah saat alti olursa singapurda saat kacadir,datetime_convert,4
+584,,mənə bu gecə Bakıya gedəcək qatar bileti tapmağımı istəyirəm,transport_ticket,8
+585,,lən ailə günü mərasimini təqvimimdən çıxar,calendar_remove,2
+586,,günkü plandan çıxarmağa imkanım var,calendar_remove,2
+587,,günorta Sumqayita qatarına bilet sifariş edin,transport_ticket,8
+588,,Sizdə hansı zəngli saatlar qurulmuşdur? Məni xəbərdar edin.,alarm_query,0
+589,,ailəmə dünənki görüşümüzün protokolu olan dokumenitni emailə göndər,email_sendemail,5
+590,,qardaşım sabah Hava nasıl olacak?,weather_query,9
+591,,nə bu sabah erkən saatda şamaxaya qatar bileti lazımdır,transport_ticket,8
+592,,tün təqvim qeydlərimi ləğv edin,calendar_remove,2
+593,,"Çox gürültülüdür, səsi azaltın.",audio_volume_down,1
+594,,Havanın sabaholmaqda olma ehtimalı varmı?,weather_query,9
+595,,da berlin saat qurşağından tokyo saat qurşağına dəyişdir,datetime_convert,4
+596,,gelecek hafta sonu hava nasıl olacaq,weather_query,9
+597,,zin yeni email ünvanınıza bizdən bir mesaj göndərək,email_sendemail,5
+598,,mənə bakıda olan qatar biletinin qiymətini deyin,transport_ticket,8
+599,,Zəngli saatıma xəbərdarlıq etməyi unutmayın,alarm_query,0
+600,,məktəbdəki dostlarıma bizim sinifimizin fotoşəkillərini email ilə göndər,email_sendemail,5
+601,,havanın dəyişməsi barədə xəbərlər,weather_query,9
+602,,di ekranlarda hansı filmlər nümayiş olunur?,recommendation_movies,7
+603,,GƏLƏN HƏFTƏ BAKIDA HAVALAR Necə OLACAQ?,weather_query,9
+604,,Mən düzgün şorba bişirməyi öyrənmək istəyirəm,cooking_recipe,3
+605,,Təqvimimdən sabahkı mühüm iclası sil,calendar_remove,2
+606,,təxirə salındı telefonuna zəng etməyi sil,calendar_remove,2
+607,,hazırkı vaxtı paris saat qurşağına çevrilməsi mümkündürmü,datetime_convert,4
+608,,qozlu müxtəlif yeməklərin reseptlərini bilmək istəyirəm,cooking_recipe,3
+609,,zəngli saata nə zaman qurmalıydım,alarm_query,0
+610,,"s düzgün deyil, onu azalda bilməlisiniz",audio_volume_down,1
+611,,bütün qatar biletlerini mənə gösterin,transport_ticket,8
+612,,di biz hansı saat qurşağındayızsa Londonda saat necədir,datetime_convert,4
+613,,günorta saat beşdə hava şəraiti nəkdir?,weather_query,9
+614,,ona görə çörəyi necə bişirməliyim,cooking_recipe,3
+615,,nə baxmağa dəyər olan ən yeni komediyaları söylə,recommendation_movies,7
+616,,lən ayın 15-inə olan bütün planlarımzı ləğv edin.,calendar_remove,2
+617,,rda gecə saat on birdir Sankt-Peterburqdakı vaxt haqqında nə demək olar,datetime_convert,4
+618,,növbəti çərşənbə axşamına görə qatar bileti sifariş etdim,transport_ticket,8
+619,,Mənim üçün ən yaxşı komediya filmi hansudur?,recommendation_movies,7
+620,,mənim sabahın erkən zəngli saatı qurulmuşdu,alarm_query,0
+621,,rdaki saat uctur on bes dakika olsa parisde saat nedir,datetime_convert,4
+622,,ğmur yağmağa başlayanda xəbərdarım?,weather_query,9
+623,,naya biznes təklifi barədə email göndərin,email_sendemail,5
+624,,ona bizim son proyektimiz haqqında email göndər,email_sendemail,5
+625,,günorta saat beşdə xırdalana qatar bileti sifariş edin,transport_ticket,8
+626,,nsı zəngli saatlarım müntəzəmdir,alarm_query,0
+627,,indi rusiyada saat üçdür bizim saat qurşağımızı ona uyğunlaşdırmağa çalışaq,datetime_convert,4
+628,,Mən yağsız plov bişirməyi öyrənmək istəyirəm,cooking_recipe,3
+629,,lara yeni layihə barədə email göndər,email_sendemail,5
+630,,si bir qədər azalt,audio_volume_down,1
+631,,"ni korlayır, səsi aşağı sal",audio_volume_down,1
+632,,təqvimimdə olan bütün xatırladıcılarını sil,calendar_remove,2
+633,,bir saat sonra Gəncəyə yola düşəcək qatar biletinə ehtiyacım var,transport_ticket,8
+634,,n bu yay qurban bayramında plov bişirməyi planlaşdıriram,cooking_recipe,3
+635,,qvimimdəki bütün işarələri ləğv et,calendar_remove,2
+636,,bakıda saat üçdür london saat qurşağında saat neçədir,datetime_convert,4
+637,,di bizim saat qurşaqlarımız arasında fərq nə qədardır,datetime_convert,4
+638,,at üçdürdü Nyu-York saat qurşağından Londona dəyişdir,datetime_convert,4
+639,,nim sevimli audio kitabımı oxumağa davam et,play_audiobook,6
+640,,dəhanə gedəcək qatar bileti almağa çalışın,transport_ticket,8
+641,,BİZİM YERİMDƏ BUGÜN HAVA TƏRLƏRI NƏCƏDIR?,weather_query,9
+642,,norta saatlarında hava şəraiti nə olduğudur?,weather_query,9
+643,,mən quzu kəlbəsindən salat çıxara bildimmi,cooking_recipe,3
+644,,mənim zəngli saatı necə etmək lazımdır,alarm_query,0
+645,,qvimimdən bütün qeydləri sil,calendar_remove,2
+646,,mənə bu sabah bakıya qatar bileti almağa imkan var mı?,transport_ticket,8
+647,,qoyun ətindən hazırlanan yeməyi necə bişirməliyəm,cooking_recipe,3
+648,,Bakının Xaçmaz şəhərinə qatar bileti sifarisiç edin,transport_ticket,8
+649,,si daha az olsun,audio_volume_down,1
+650,,zim komandanın bütün üzvlərinə dünənki meeting-in çıxarılmış materiallarını email ilə paylayın,email_sendemail,5
+651,,Necə lazımiyyətə görə düymüştünü bişirə bilməlisiniz?,cooking_recipe,3
+652,,günaydakı müştərilərimizə bizim şirkətimizin son uğurları barədə email göndər,email_sendemail,5
+653,,si tədricən aşağı sala bilərsiniz,audio_volume_down,1
+654,,namiki səsləri azaltmaq mümkün müdür?,audio_volume_down,1
+655,,larda gecə saat ikisindədir bizim ölkədə saat neçədir,datetime_convert,4
+656,,"Zəhmət olmasa, səsi məhdudlaşdır.",audio_volume_down,1
+657,,"Yağışlı hava ehtimalı varsa, bugünü planlarım dəyişəcəkdir.",weather_query,9
+658,,Bakıda bu hafta havanın necə olacağını söyləyin.,weather_query,9
+659,,zə yeni çıxmış ən maraqlı filmləri tövsiyə edərdim,recommendation_movies,7
+660,,n Bakıda saat beşdə qatar bileti sifariş etməliyəm,transport_ticket,8
+661,,ha sakit olsun deyilə,audio_volume_down,1
+662,,ti vaxtı şotlandiya saat qurşağından kanada saat qurşağına çevrilməsi mümkün mü,datetime_convert,4
+663,,sli kitabımı başlat,play_audiobook,6
+664,,sevdiyim kitabi səsləndirməyə başlayın,play_audiobook,6
+665,,tün yaddaşlarımızı silib yenidən başlanlayın,calendar_remove,2
+666,,vbəti Çərşənbə günü üçün düzənlədiğim plannı sil,calendar_remove,2
+667,,həftəsonu üçün planlamış olduğum bütün işləri sil,calendar_remove,2
+668,,nim sevimli romanımın səslisini çal,play_audiobook,6
+669,,GƏLƏN HƏFTƏ BAKIDA HAVALAR NECƏ OLACAQ?,weather_query,9
+670,,günorta saat 3-də Bakıya qatar bileti almaq istərdim,transport_ticket,8
+671,,n şəkəri necə hazırlayıb fırında bişirməyi bacaram,cooking_recipe,3
+672,,Bakının Xırdalanına qatar bileti necə ala bilərəm?,transport_ticket,8
+673,,mənə Bakıda saat 10-u ötən qatar bileti tapın,transport_ticket,8
+674,,ayda olan bütün qonaqlıqlarımzı ləğv edin,calendar_remove,2
+675,,s. t.dən Şərq standart zamanına çevrilməsi mümkün müdür,datetime_convert,4
+676,,nə Sumqayita qatar bileti verməyi unutmayın,transport_ticket,8
+677,,nim üçün audio kitabı açıb,play_audiobook,6
+678,,sevincə özümə aid olmayan email ünvanına müştəri mesajı göndər,email_sendemail,5
+679,,yeni audio kitabin başlanğıcından başlayın,play_audiobook,6
+680,,Bu hafta sonu Bakıda temperaturu neçə dərəcə olaçaqdır?,weather_query,9
+681,,bugünkü bütün tədbirlərimi ləğv edin,calendar_remove,2
+682,,"moskvada saat neçədirsə, londondda saat neçədir?",datetime_convert,4
+683,,nim üçün səsi azalt,audio_volume_down,1
+684,,ailəmə həftəsonu üçün planlarımızı bildirən email göndərin,email_sendemail,5
+685,,zırkı zamanda mövcud olan audio kitabı oxumağa başlayın,play_audiobook,6
+686,,nayınpoçtuna yeni mesaj göndər,email_sendemail,5
+687,,burda gecə saat ikisində olmaqla tokyo saat qurşağına çevirmək mümkün müdür,datetime_convert,4
+688,,kının bütün qatar biletlerini mənə göstərin,transport_ticket,8
+689,,təqvimimdən bütün növbəti planlarını sil,calendar_remove,2
+690,,mənim üçün optimal zəngli saatını təyin edin,alarm_query,0
+691,,çox baxılan dramalar hansılardır?,recommendation_movies,7
+692,,"hiş edirik ki, səsi bir az azaltasan",audio_volume_down,1
+693,,sevdiyim audio kitabı yenidən çal,play_audiobook,6
+694,,təqvimimdən bütün qeydləri silin,calendar_remove,2
+695,,dio kitabin birinci fasiləsi,play_audiobook,6
+696,,ksikada saat bir yarımdır bizi Moskvaya uyğunlaşdırmaq lazım,datetime_convert,4
+697,,zin tövsiyə edinəcək ən maraqlı filmi söyləyin,recommendation_movies,7
+698,,xuduğum audio kitaba geri dön,play_audiobook,6
+699,,günorta saat beşdə Bakıda olan qatar biletinə ehtiyacım var,transport_ticket,8
+700,,nim üçün yeni döyüş filmi tövsiyə edin.,recommendation_movies,7
+701,,nematoqrafiyanın ən yeni və maraqlı filmini tövsiyə et,recommendation_movies,7
+702,,Zəngli saatı necə qurmalı olduğunu soruşmağa çalışırıkm,alarm_query,0
+703,,qazanlara yemək necə bişirilir,cooking_recipe,3
+704,,nsı saat qurşağındadıq rusiyaya görə neçə saatdır,datetime_convert,4
+705,,Səhər saat altıya zəngli saat quruldu mu?,alarm_query,0
+706,,Gələn çərşənbə günü olan idarə heyəti iclası silin,calendar_remove,2
+707,,Bakıda bu ayın ikinci yarısında hava necə olacaq?,weather_query,9
+708,,mənim bütün zəngli saatlarım hansılardır,alarm_query,0
+709,,Kinoya getməyi düşünürsünüz? Onda sizə tövsiyə edirəm ki...,recommendation_movies,7
+710,,sləndiriciyi aç,play_audiobook,6
+711,,onlara bizim proyektimiz haqqında yenilikləri email vasitəsilə çatdır,email_sendemail,5
+712,,nə hörmətli kinoseanslar tövsiyə edə bilərsinizmi?,recommendation_movies,7
+713,,nim zəngli saatlara nəzarət etmək olarmı,alarm_query,0
+714,,Quba şəhəri üçün birlik qatar bileti almağa çalışın,transport_ticket,8
+715,,günaydaxili oğlanlara yeni melumatları emailə göndər,email_sendemail,5
+716,,sləndir kitabını oxu,play_audiobook,6
+717,,iki nəfərlik qatar bileti bakıda mövcuddur?,transport_ticket,8
+718,,havadis gündüz saat dördə hava necə olacaqdır ?,weather_query,9
+719,,indi sabah saat birdə olsa berlin saat qurşağında saat neçə olar,datetime_convert,4
+720,,namik səsi azalaraq dinləməyi xahiş edirəm,audio_volume_down,1
+721,,Xəmiri necə düzgün bişirmək mümkündür?,cooking_recipe,3
+722,,bu səhərə quraşdırılan zəngli saatlara baxın,alarm_query,0
+723,,kit ola bilməyimiş sanki səsi azaltsın,audio_volume_down,1
+724,,mürəbbənin hazırlanması üçün lazım olan əlavələri söyləyin,cooking_recipe,3
+725,,günaya müxtəlif mövzularda dərstli email göndər,email_sendemail,5
+726,,Mən şorbaya hansı ədviyyatlar əlavə etməliyəm,cooking_recipe,3
+727,,nümüzdə olan bütün planlarımızı sil,calendar_remove,2
+728,,Mən düdükötünü necə təzələməliyəm,cooking_recipe,3
+729,,ftəsonu üçün nəzərdə tutulan bütün planlarımı təqvimimdən silin,calendar_remove,2
+730,,Sizdə hansı zəngli saatlar qurulmuşdur?,alarm_query,0
+731,,vincə təşəkkürünü bildirən email göndər,email_sendemail,5
+732,,s. t. dan g. m. t.-yə çevirmək olarmı,datetime_convert,4
+733,,Lazım olan bütün ərzaqları alıb dükanı Necə bişirməliyəm,cooking_recipe,3
+734,,"sin üzücü olduğunu düşünürəm, onu azaltsaq",audio_volume_down,1
+735,,"zin fikrinizcə, 2022-ci ilin ən yaxşı filmi hansıdır?",recommendation_movies,7
+736,,nim bundan sonra olan bütün planlarım silkən,calendar_remove,2
+737,,ona özümə aid olan bütün məlumata dair email göndər,email_sendemail,5
+738,,ləmdəkilərə salam mesajı olan email gönderin,email_sendemail,5
+739,,zəngli saati necə qurmaliyam söhbəti,alarm_query,0
+740,,səhərdə hansı zəngli saatlarım qurulmuşdur?,alarm_query,0
+741,,onu saata görə türkiyə saat qurşağına çevirmək lazımdır,datetime_convert,4
+742,,"Nardaranlılara qatar bileti almağa kömək edin, zəhmətiniz çox olacaq",transport_ticket,8
+743,,"ni rahat burax, səsi aşağı sala bilirsen",audio_volume_down,1
+744,,tabin axırıncı bölümünü səsləndir,play_audiobook,6
+745,,sevincə yeni iş fəaliyyətləri barədə email cavabı yazılmışdır,email_sendemail,5
+746,,bütün proqrammalarımdan çıxartmaq üçün əmr verin,calendar_remove,2
+747,,nim zəngli saatlarımda xəbərdarlıq forması necədir,alarm_query,0
+748,,mənim təqvimimdə olan bütün qeydiyyatları silin,calendar_remove,2
+749,,"Şəhriyar paşanın şirniyyatına uyğun olaraq, mən onun reseptini axtarım.",cooking_recipe,3
+750,,ləmdəkilərə dünən almış olduğum şəkilləri email ilə paylaşıram,email_sendemail,5
+751,,lecek ayda olan bütün planlarımı sil,calendar_remove,2
+752,,"zə ""Forrest Gump"" filmindən danışaq, çox yaxşıdı!",recommendation_movies,7
+753,,ailəmizin bütün üzvlərine birlikdə olanları barədə email göndər,email_sendemail,5
+754,,si bir az aşağı сал,audio_volume_down,1
+755,,hansı filmlər tezliklə çox seviləcəkdir?,recommendation_movies,7
+756,,yeni audio kitabımı oxumağa başlayın,play_audiobook,6
+757,,günorta şamaxaya qatar bileti sifariş edin,transport_ticket,8
+758,,sli kitabımı oxu,play_audiobook,6
+759,,"BU GÜN ÇOX ISTİDR, SVİTƏR GİYİNMLİYƏM?",weather_query,9
+760,,dio oxunmağa başlayın,play_audiobook,6
+761,,"mkünsə, səsi aşağı sala bilirsiniz",audio_volume_down,1
+762,,"Çox gürültülüdür, zəhmət olmasa səsi azaltın",audio_volume_down,1
+763,,ngli saatı necə qurmaliyamı öyrənmək istəyirəm,alarm_query,0
+764,,xuyun audio kitabdan bir bölməsi,play_audiobook,6
+765,,tabımı səsləndirməyə başlayın,play_audiobook,6
+766,,sizin üçün ən yaxşı dramalar hansılardır,recommendation_movies,7
+767,,"Yaxşı olmazsa, səsi beş faizə endirmiş olaydım",audio_volume_down,1
+768,,sizin üçün yaxşı dramalar varmi?,recommendation_movies,7
+769,,sabahça hava şəraitinin necə olacağını söyləyin?,weather_query,9
+770,,indi IST-də saat neçədirsə nyu-york saat qurşağında saat neçədir,datetime_convert,4
+771,,tabin səhifələrini oxumağa başlayın,play_audiobook,6
+772,,lən çərşənbə axşamına olan mərasimini sil,calendar_remove,2
+773,,filmi sevən insanlara tövsiyə olunmuş ən məşhur dramaları söyləyin,recommendation_movies,7
+774,,"hmət olmasa, sabahın erkən saatlarında ona email göndərin",email_sendemail,5
+775,,Zəngli saatı necə qurmaliyımdır?,alarm_query,0
+776,,n kürdükanatdan alınan xörəkin necə düzgün bişirilməsini öyrənmək istəyirəm,cooking_recipe,3
+777,,audio kitabımı yenidən başlat,play_audiobook,6
+778,,qatar bileti ucuzaldıqları mənə bildirin,transport_ticket,8
+779,,nim üçün audionu oxu,play_audiobook,6
+780,,nsı janrda kino sevirsiz ki mən sizə tövsiyə edə bilim,recommendation_movies,7
+781,,sləri azaltmağa çalışın,audio_volume_down,1
+782,,xəmiri necə hazırlamağa başlayacağam,cooking_recipe,3
+783,,Yağışlı hava ehtimalı var mı bu gün?,weather_query,9
+784,,sevincə Email adresinizə mesaj göndərə bilirsiniz,email_sendemail,5
+785,,qvimimdən seçilmiş tarixin bütün planlarını silin,calendar_remove,2
+786,,naydan alınan mesajı ailəmə email ilə çatdırın,email_sendemail,5
+787,,nə xaçmazə qatar bileti lazım olduğunu söylə,transport_ticket,8
+788,,mən Sumgayıtaya gedəcək qatar bileti sifariş etməyi unutmuşam,transport_ticket,8
+789,,si üç faizə endir,audio_volume_down,1
+790,,namicsiz səsi aşağı yöneltmək üçün,audio_volume_down,1
+791,,Mənə Sabunçu stansiyasından Bakıya qatar bileti almağa imkan var?,transport_ticket,8
+792,,mənim dostuma onun biznesinin necə getdiyi barədə email göndər,email_sendemail,5
+793,,sabahın erkən saatlarında hava şəraitinə baxmağa imkanım varmı,weather_query,9
+794,,vamı üçün audio kitaba keç,play_audiobook,6
+795,,"zdən xahiş edirəm ki, səsi azalsın",audio_volume_down,1
+796,,mənim ailəmdəkilərə salam söyləyən bir email yazıb göndər,email_sendemail,5
+797,,sevincə dünənki söhbətimizin qeydlərini emailə göndər,email_sendemail,5
+798,,mən badimjan salatını necə hazırlayıb sevimli yeyəcəyimi Tapiram,cooking_recipe,3
+799,,n zəngli saatımın vaxtını dəyişmək istəyirəm,alarm_query,0
+800,,nuncu oxunan kitabı yenidən oxuyun,play_audiobook,6
+801,,mənə qatar bileti almağa icazə var?,transport_ticket,8
+802,,günəşliyi təqvimimdən çıxar,calendar_remove,2
+803,,mənə Qazax istiqamətinə qatar bileti lazım,transport_ticket,8
+804,,hazırda bakıda nəqliyyat vasitəsi ilə getdikcə hava şəraitinə görə hansı paltar geyilməlidir,weather_query,9
+805,,zırki zaman audio kitabi oxuyun,play_audiobook,6
+806,,tün gecikmiş tədbirlərimi sil,calendar_remove,2
+807,,Havanın temperaturu bugün neçə dərəcə ola bilir?,weather_query,9
+808,,"hmət olmasa, bir az sakıt olsun",audio_volume_down,1
+809,,"Necə edim ki, zəngli saatım səhər saat beşdə çalır?",alarm_query,0
+810,,yatımın ən maraqlı hissəsi olan audio kitabı oxuyun,play_audiobook,6
+811,,"a görə ki, mənim üzümüm var, ona müxtəlif yeməklərbişirməyə çalışıram",cooking_recipe,3
+812,,nim bütün zəngli saatlarım hansılardır,alarm_query,0
+813,,HAVA PROQNOZU NECƏ OLACAQ?,weather_query,9
+814,,mənə ötən gecənin zəngli saatını xatırlat,alarm_query,0
+815,,n sizin şirkətinizə aid olan bütün məlumatları göndərmək üçün email ünvanınızı verməyi xahiş edirəm,email_sendemail,5
+816,,ümumi təqvimi temizləyib yeni başlanğıc götür,calendar_remove,2
+817,,Mənim bütün növbəti təqvim planımzı silin,calendar_remove,2
+818,,Bakıda olan qatar biletləri hansılardır?,transport_ticket,8
+819,,dio kitabmdan davam et,play_audiobook,6
+820,,si bir qədər azaltmaq lazım,audio_volume_down,1
+821,,vam etmək üçün audio kitaba keçin,play_audiobook,6
+822,,Qarşıdakı günlərdə Bakıda yağış olma ehtimalları hansıdır?,weather_query,9
+823,,"hmət olmasa, səsi tədricən azalt",audio_volume_down,1
+824,,mənə bu ayın ən çox baxılan filmi tövsiyə edin,recommendation_movies,7
+825,,rdalana getmək üçün qatar bileti sifariş etməyi unutma,transport_ticket,8
+826,,bu həftənin sonunadək bütün planlarını ləğv edin,calendar_remove,2
+827,,"s ümumiyyətlə çoxdur, onu biraz azaltın",audio_volume_down,1
+828,,"Kürdü necə bişirməliyik ki, dadlı olsun",cooking_recipe,3
+829,,lara bizim şirkətin yeni təklifini email vasitəsilə çatdırın,email_sendemail,5
+830,,xuduğum kitabı yenidən başlat,play_audiobook,6
+831,,hansı filmlərin xüsusi təqvimi var?,recommendation_movies,7
+832,,Badımcan salatına hansı yağdan istifadə etmək olar?,cooking_recipe,3
+833,,sabahın hava proqnozu nədirsə?,weather_query,9
+834,,kinematoqrafın ən yeni və maraqlı filmləri barədə məlumat verməyi unutmayın,recommendation_movies,7
+835,,vam et səsləndirilən kitaba,play_audiobook,6
+836,,sləndiriciyi açıb bu kitabı dinlə,play_audiobook,6
+837,,Gecənin boş vaxtını dolduracaq bir filmi məsləhət görə bilərsiniz,recommendation_movies,7
+838,,sləndir kitabımı,play_audiobook,6
+839,,hansı janrdan olan filmləri sevirsiniz? Mən sizə tövsiyə etmək istəyirəm.,recommendation_movies,7
+840,,nə sabahın hansı saatında zəngli saat çalıb,alarm_query,0
+841,,dio kitabin ilk bölümünü başlat,play_audiobook,6
+842,,onlarda saat üçdürsə bizdə saat neçədir,datetime_convert,4
+843,,tehsal zamanını london saat qurşağından nyu-york saat qurşağına çevirmək olar,datetime_convert,4
+844,,ngli saatımın vaxtını dəyişdirmək istəyirəm,alarm_query,0
+845,,nin üçün möhtəşəm dramalar tövsiyə edirdim,recommendation_movies,7
+846,,zin üçün yaxşı film tövsiyə edərdim,recommendation_movies,7
+847,,qvimimdən bu həftənin axşamüstü trenini sil,calendar_remove,2
+848,,mənim üçün ən sevdiyim aktyorun oynadığı filmləri tövsiyə et,recommendation_movies,7
+849,,Görüş günü Gəncəyə qatar bileti sifariş edəcəkmi?,transport_ticket,8
+850,,günayın email ünvanına məktub yazın və onunla ünsiyyə saxlayın,email_sendemail,5
+851,,"u biraz sakit edin, zəhmət olmasa",audio_volume_down,1
+852,,mənim müdiriyəmə bütün hesabatlara dair email göndər,email_sendemail,5
+853,,di bizim saat qurşağımızda saat neçədirsə Tokiodakı saat nedir,datetime_convert,4
+854,,ni dostuma email ilə bildir,email_sendemail,5
+855,,Bu ayın sonuna olan bütün planlarımzı ləğv edin,calendar_remove,2
+856,,"kitabi oxuyaq, növbəti fəsilə keç",play_audiobook,6
+857,,ailəmə biznes təklifini email ilə göndər,email_sendemail,5
+858,,xtəlif romanları audible-da oxu,play_audiobook,6
+859,,nim üçün səsi bir az azalda,audio_volume_down,1
+860,,sentyabrın ilk günləri yağmur yağar mı?,weather_query,9
+861,,xəzinədə qatar bileti varsa onu mənə göstərin,transport_ticket,8
+862,,indi bizim saatımızmoskvadan Çin saat qurşağına çevrilməlidir,datetime_convert,4
+863,,yarın Bakıda hava nəcə olacaq?,weather_query,9
+864,,hansı saat qurşağında olduğumuzdan ötəri paris saat quršağına keçməliyik,datetime_convert,4
+865,,sevdiyim insanlara doğum günü təbriklerini emailə göndərməyi unutmuşam,email_sendemail,5
+866,,BU GÜN BAKIDA YAĞIŞ EHTİMALI VARMI?,weather_query,9
+867,,indi yeni york saatındakı cari vaxtı bizə bildirin,datetime_convert,4
+868,,nə Xaçmaz şəhərinə gecə yola düşən qatar bileti lazımdır,transport_ticket,8
+869,,u uc saat evvel olsa bizim saatimiz necedir,datetime_convert,4
+870,,ni rahat ettirmək üçün səsi azaltmağa çalışıram,audio_volume_down,1
+871,,canberra saat qurşağındakı vaxt bizi ilə uyğun deyilmi,datetime_convert,4
+872,,ləmə xoş xəbəri Email-ı yazmağa çalışım,email_sendemail,5
+873,,Gələn həftənin ilk günləri için hava proqnozu verin.,weather_query,9
+874,,günəşli günümdə olan bütün planlarımzı ləğv et,calendar_remove,2
+875,,"Zəngli saatı necə qurmaliyam, mütləqi təlimat verin",alarm_query,0
+876,,n sabah neçə saatlıq zəngli saat qurmağa imkan verir,alarm_query,0
+877,,zdəki ən sevimli aktyorun oynadığı filmləri tövsiyə edə bilərsiz,recommendation_movies,7
+878,,rezept kitabında yazılmayan kürdü hazırlamağın yolu,cooking_recipe,3
+879,,di bizim saat qurşağımızda saat dörddür onsunda saat neçədir,datetime_convert,4
+880,,Dolmanın içindəki xiyarı necə hazırlamaq olar?,cooking_recipe,3
+881,,Bu hafta sonu Bakıda hava necə olacaq?,weather_query,9
+882,,onlara bizim şirkətimizin təklifləri barədə email göndərməyi unutmayın,email_sendemail,5
+883,,mən kababı necə düzgün bişirməyi öyrənmək istəyirəm,cooking_recipe,3
+884,,Hansı zəngli saatlarım mövcuddur və onların qurma vaxtlarını bildirmək istəyirəm,alarm_query,0
+885,,Dinamiki režimin səsini azaltmaq mümkün müdür?,audio_volume_down,1
+886,,yarın yağış yağacağı ehtimalı varmı?,weather_query,9
+887,,dio kitabinin başlanğıcına qayıt,play_audiobook,6
+888,,mən həftə içi istirahət günləri üçün zəngli saat qurmurdu,alarm_query,0
+889,,günorta yeməyinə lazım olan reseptləri göndərin,cooking_recipe,3
+890,,bügünki hava şəraitinin təsviri necədir,weather_query,9
+891,,onlayn rejimində qatar bileti almaq olar mı?,transport_ticket,8
+892,,n sabah neçə saatlıq zəngli saat qurmaqla işi bitiririm,alarm_query,0
+893,,xatırlamaq üçün mən neçə zəngli saat qurumuşam,alarm_query,0
+894,,xuduğum kitaba geri dön,play_audiobook,6
+895,,n qulaqlarimi bağlayıb audio kitabi oxuyorum,play_audiobook,6
+896,,qozlu maarulduyumun reseptini haradan oxuya bilərəm,cooking_recipe,3
+897,,qvimimdən bu ayın sonuna olan bütün planlarımzı silin,calendar_remove,2
+898,,gelecek hafta sonu hava nasıl olaçaqdır?,weather_query,9
+899,,nim dostuma növbəti iş planımızı email ilə göndər,email_sendemail,5
+900,,Bu günkü zəngli saatlarını mənə bildirin,alarm_query,0
+901,,biz Hansı saat qurşağındayız zəhmət olmasa california saat qurşağına dəyişdir,datetime_convert,4
+902,,bugünkü plannarı silin,calendar_remove,2
+903,,nim zəngli saatımın vaxtı necədir,alarm_query,0
+904,,nsı janrdakı filmi izləmək istəyirsən? Mən sənə tövsiyə edə bilərəm!,recommendation_movies,7
+905,,kimə müalicə kursunda iştirak etməkdə olan uğurlarım barədə email göndərərək xəbərdar etdim,email_sendemail,5
+906,,Mənim sevdiyim yeməklərimizdən biri olan bozbaş reseptini izah edin.,cooking_recipe,3
+907,,indiki vaxtda kino teatrlarinda hansı filmlər göstərilir?,recommendation_movies,7
+908,,namiki səsini biraz azalt,audio_volume_down,1
+909,,mənim adımı sizinə bildirmişdikləri üçün onlara təşəkkür edən email göndərilməlidir,email_sendemail,5
+910,,Ətli yarpaqları necə doldurub bişirməliyik,cooking_recipe,3
+911,,sün intensivliyini azaltmağa çalışın,audio_volume_down,1
+912,,gelecek hafta sonu gecəsi abşeron yarımadasında dənizkənarı sahili boyunca külək necə olacaq,weather_query,9
+913,,sevdiyim audio kitabi yenidən başlat,play_audiobook,6
+914,,günaydaxili olanları onlara email göndər,email_sendemail,5
+915,,lən ayın 15-də olan toplantı planını sil,calendar_remove,2
+916,,bir saat sonra şamaxaya qatar bileti almaq mümkün mü?,transport_ticket,8
+917,,hazırdakı təqvimi tamamilə silin,calendar_remove,2
+918,,"si qədər aşağı sal, xoşdur",audio_volume_down,1
+919,,Növbəti təqvimimdəki bütün qeydləri silin,calendar_remove,2
+920,,zırkı audio kitabı açıb oxuyun,play_audiobook,6
+921,,Qaraçıxkanın müxtəlif növləri üçün reseptlər,cooking_recipe,3
+922,,mənə yaxın kino teatrındakı ən maraqlı filmin adını deyin,recommendation_movies,7
+923,,Bakıda bu ayın 15-i hava şəraitinin necə olacağını söyləyin.,weather_query,9
+924,,bu gün səhər neçə saatlıq zəngli saat qurulur,alarm_query,0
+925,,günortadan sonra xırdalıya qatar bileti sifarish edin,transport_ticket,8
+926,,"Səs çox yüksəkdi, onu azaldın",audio_volume_down,1
+927,,yanvar ayında sıcaklık nöqtəsi nedir?,weather_query,9
+928,,qvimimdən dünənki mühazirəni sil,calendar_remove,2
+929,,onlara bizim yeni layihəmiz barədə email göndər,email_sendemail,5
+930,,BUGÜNİ QIZMAR ŞƏRTLƏRI OLMASA DEYA BİLƏRDIM?,weather_query,9
+931,,mən lavaşa necə yağ sürtməliyəm,cooking_recipe,3
+932,,mən ətli yarpaqları necə bişirə bilərəm,cooking_recipe,3
+933,,audio kitabı və oxumağa başlayın,play_audiobook,6
+934,,bugünkü bütün tədbirlərinizi silin,calendar_remove,2
+935,,onlara bizim tədbirlərimizin siyahısını email ilə göndər,email_sendemail,5
+936,,"ddindən artıq səslidir, onu aşağı salın",audio_volume_down,1
+937,,hansı yeni filmləri izləmək lazımdır?,recommendation_movies,7
+938,,dio kitabi çalmağa başlayın,play_audiobook,6
+939,,z böyük qiymətli taxılın resepti necədir,cooking_recipe,3
+940,,sabahkı iş görüşünü təqvimdən silin.,calendar_remove,2
+941,,"di bizdə gecə saat birdir, tokyoda saat neçədir?",datetime_convert,4
+942,,dio kitabımı başladın,play_audiobook,6
+943,,Mən piti bişirməyi öyrənmək istəyirəm,cooking_recipe,3
+944,,Reseptlərinizdən birinə uyğun gələn yemək variantını tapmağa çalışıram,cooking_recipe,3
+945,,təqvimimden idarə heyətinin iclasını silin,calendar_remove,2
+946,,Bakıda olan bütün qatar biletlerini mənə göstərin,transport_ticket,8
+947,,Mənim zəngli saatımın adını saya,alarm_query,0
+948,,bakıda bu hafta hava şəraiti necə olacaq?,weather_query,9
+949,,"nim təqvimimdəki bütün xatırlatmaları silib, yenidən başlan.",calendar_remove,2
+950,,ha sakit şəkildə oynaya bilsiniz,audio_volume_down,1
+951,,zəngli saatı necə şəkildə qurmaya imkan var,alarm_query,0
+952,,bu ayın sonuna olan bütün tədbirləri sil,calendar_remove,2
+953,,ailəmə bizim evimdəki hadisələri xatırlayan email yazıb göndər,email_sendemail,5
+954,,zin yerinizdə saat üçdürsə bizdə saat neçədir,datetime_convert,4
+955,,günorta stansiyasına qatar bileti sifariş edin,transport_ticket,8

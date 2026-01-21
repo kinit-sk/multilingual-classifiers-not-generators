@@ -1,0 +1,392 @@
+,Unnamed: 0,text,intent,label
+0,0.0,"Hotel ini memiliki fasilitas yang lengkap dan modern, sangat recommended!",positive,1
+1,1.0,"Saya sangat puas dengan pelayanan bank ini, stafnya sangat helpfull!",positive,1
+2,2.0,"Tempat wisata ini sangat menarik, banyak spot foto yang instagramable!",positive,1
+3,3.0,"Saya sangat puas dengan pelayanan travel agent ini, sangat helpfull!",positive,1
+4,4.0,"Tempat wisata ini sangat indah, view-nya sangat cantik dan udaranya segar!",positive,1
+5,5.0,"Saya sangat senang dengan aplikasi transportasi online ini, sangat mudah digunakan!",positive,1
+6,6.0,"Makanan di sini sangat enak, especially the nasi gorengnya yang sangat lezat!",positive,1
+7,7.0,"Resto ini memiliki suasana romantis, cocok untuk dinner tanggal!",positive,1
+8,8.0,"Kualitas produk elektronik ini sangat tinggi, harganya juga sangat kompetitif!",positive,1
+9,9.0,"Saya sangat puas dengan layanan hotel ini, stafnya sangat ramah dan helpful!",positive,1
+10,10.0,"Karyawan di sini sangat ramah dan sopan, membuat saya sangat nyaman!",positive,1
+11,11.0,"Hotel ini sangat strategis, letaknya sangat dekat dengan pusat kota!",positive,1
+12,12.0,"Saya sangat puas dengan layanan hotel ini, staffnya sangat ramah dan helpful!",positive,1
+13,13.0,"Makanan di sini sangat lezat, especially their signature dish, nasi lemak!",positive,1
+14,14.0,"Wisma ini sangat strategis, letaknya sangat dekat dengan stasiun kereta api!",positive,1
+15,15.0,"Pusat perbelanjaan ini sangat lengkap, banyak promo menarik dan diskon besar-besaran!",positive,1
+16,16.0,"Saya sangat puas dengan hasil olahraga di gym ini, instruktur nya sangat profesional!",positive,1
+17,17.0,"Villa ini sangat cantik, view-nya sangat indah dan suasana sangat tenang!",positive,1
+18,18.0,"Liburan ke Bali sangat menyenangkan, banyak aktivitas seru yang bisa dilakukan!",positive,1
+19,19.0,"Makanan di sini sangat enak, especially their signature dish, rendang sapi!",positive,1
+20,20.0,"Rumah makan ini sangat populer, makanannya sangat enak dan murah!",positive,1
+21,21.0,"Wisata air terjun ini sangat mengagumkan, pemandangannya sangat indah!",positive,1
+22,22.0,"Restoran ini memiliki suasana yang romantis, cocok untuk dinner tanggal!",positive,1
+23,23.0,"Saya sangat senang dengan pelayanan ojek online ini, driver-nya sangat sopan dan helpfull!",positive,1
+24,24.0,"Kamar hotel ini sangat luas dan bersih, sangat recomended!",positive,1
+25,25.0,"Menu makanan di sini sangat variatif, saya sangat suka dengan salad-nya!",positive,1
+26,26.0,"Dokter gigi ini sangat professional, membuat saya merasa aman!",positive,1
+27,27.0,"Pusat perbelanjaan ini sangat lengkap, banyak diskon dan promo menarik!",positive,1
+28,28.0,"Tempat wisata ini sangat indah, suasana damai dan tenang, perfect untuk liburan!",positive,1
+29,29.0,"Resto ini memiliki konsep unik, makanannya sangat enak dan presentationnya sangat cantik!",positive,1
+30,30.0,"Spa ini sangat recommended, pijatan-nya membuat saya relaks!",positive,1
+31,31.0,"Saya sangat merekomendasikan travel agent ini, mereka sangat profesional dan helpful!",positive,1
+32,32.0,"Mall ini sangat modern, banyak tenant-tenant ternama dan wahana hiburan!",positive,1
+33,33.0,"Saya sangat merekomendasikan resto ini, harga murah dan rasanya sangat enak!",positive,1
+34,34.0,"Saya sangat senang dengan pemesanan online ini, prosesnya sangat mudah dan cepat!",positive,1
+35,35.0,"Pelayanan di sini sangat baik, mereka sangat memperhatikan pelanggan!",positive,1
+36,36.0,"Saya sangat merekomendasikan guru les privat ini, anak saya sangat senang!",positive,1
+37,37.0,"Saya sangat senang dengan festival budaya ini, acaranya sangat meriah!",positive,1
+38,38.0,"Buku ini sangat inspiratif, membuat saya ingin mencari tujuan hidup!",positive,1
+39,39.0,"Saya sangat puas dengan kualitas mobil ini, performanya sangat baik!",positive,1
+40,40.0,"Saya sangat senang dengan pemesanan tiket pesawat online ini, sangat mudah dan cepat!",positive,1
+41,41.0,"Saya sangat merekomendasikan tour guide ini, mereka sangat informatif dan friendly!",positive,1
+42,42.0,"Saya sangat puas dengan hasil treatment spa di sini, sangat relaxing!",positive,1
+43,43.0,"Hotel ini memiliki fasilitas yang lengkap, membuat saya merasa seperti di rumah sendiri!",positive,1
+44,44.0,"Saya sangat puas dengan hasil potret dari studio foto ini, very recommended!",positive,1
+45,45.0,"Saya baru mencoba resto ini dan wow, makanannya sangat lezat dan fresh!",positive,1
+46,46.0,"Tempat ini sangat recomended untuk anak-anak, banyak wahana permainan yang seru!",positive,1
+47,47.0,"Produk kosmetik ini sangat aman dan efektif, recommended untuk wanita!",positive,1
+48,48.0,"Toko ini menjual produk-produk berkualitas, harganya sangat kompetitif!",positive,1
+49,49.0,"Wisma ini sangat strategis, dekat dengan pusat kota dan transportasi umum!",positive,1
+50,50.0,"Saya sangat senang dengan konser musik ini, penampilannya sangat memukau!",positive,1
+51,51.0,"Hotel ini memiliki breakfast yang sangat lezat, variasinya sangat banyak!",positive,1
+52,52.0,"Saya sangat kagum dengan kemahiran chef di sini, membuatkan saya ingin balik lagi!",positive,1
+53,53.0,"Tempat wisata ini sangat indah, pemandangannya sangat memesona!",positive,1
+54,54.0,"Saya sangat senang dengan hasil potret dari studio foto ini, very professional!",positive,1
+55,55.0,Saya baru mencoba resto ini dan langsung jatuh cinta dengan suasana romantisnya!,positive,1
+56,56.0,"Buku-buku di sini sangat lengkap, harga juga sangat terjangkau!",positive,1
+57,57.0,"Pemandangan pantai ini sangat indah, membuat saya ingin tinggal lebih lama!",positive,1
+58,58.0,"Tempat spa ini sangat relaksing, pijatan nya sangat enak!",positive,1
+59,59.0,"Kamar hotel ini sangat luas dan bersih, membuat saya merasa sangat nyaman!",positive,1
+60,60.0,"Hotel ini sangat nyaman, kamarnya luas dan fasilitasnya lengkap!",positive,1
+61,61.0,"Makanan di sini sangat variatif, banyak pilihan menu yang enak-enak!",positive,1
+62,62.0,"Layanan internet ini sangat cepat, tidak ada buffering sama sekali!",positive,1
+63,63.0,"Tempat ini sangat cocok untuk meeting atau acara bisnis, sangat profesional!",positive,1
+64,64.0,"Pelayanan oke, harga terjangkau, dan kualitas produknya sangat baik!",positive,1
+65,65.0,"Toko online ini sangat terpercaya, barangnya datang cepat dan sesuai ekspektasi!",positive,1
+66,66.0,"Saya sangat senang dengan pelayanan dokter di sini, sangat profesional dan care!",positive,1
+67,67.0,"Saya sangat puas dengan hasil potret dari studio foto ini, sangat profesional!",positive,1
+68,68.0,"Produk fashion ini sangat trendy, harganya juga sangat affordable!",positive,1
+69,69.0,"Pemandangan pantai di sini sangat indah, sangat cocok untuk liburan!",positive,1
+70,70.0,"Saya sangat senang dengan konser musik ini, penampilannya sangat enerjik!",positive,1
+71,71.0,"Rute hiking ini sangat indah, pemandangannya sangat spektakuler!",positive,1
+72,72.0,"Hotel ini memiliki fasilitas yang sangat baik, kolam renangnya sangat luas dan bersih!",positive,1
+73,73.0,"Resto ini memiliki suasana yang cozy dan romantic, perfect for dinner date!",positive,1
+74,74.0,"Harga produk ini sangat terjangkau, kualitasnya juga sangat baik!",positive,1
+75,75.0,"Saya sangat puas dengan pelayanan bank ini, customer servicenya sangat baik!",positive,1
+76,76.0,"Resto ini sangat populer, banyak orang datang kesini untuk mencicipi makanan enak!",positive,1
+77,77.0,"Saya senang sekali dengan produk kosmetik ini, kulit wajah saya menjadi lebih cerah!",positive,1
+78,78.0,"Fasilitas hotel ini sangat modern, membuat saya merasa seperti di negeri maju!",positive,1
+79,79.0,"Tempat ini sangat strategis, dekat dengan pusat kota dan transportasi umum!",positive,1
+80,80.0,"Makanan di sini sangat halal, cocok untuk umat muslim, recommended!",positive,1
+81,81.0,"Saya sangat puas dengan fitness center ini, equipmenonya sangat modern dan lengkap!",positive,1
+82,82.0,"Saya sangat senang dengan hasil foto dari studio ini, sangat profesionall!",positive,1
+83,83.0,"Saya sangat merekomendasikan travel agent ini, mereka sangat membantu dan professional!",positive,1
+84,84.0,"Aplikasi ini sangat membantu, membuat pekerjaan saya lebih efisien!",positive,1
+85,85.0,"Makanan di sini sangat variatif, ada banyak pilihan untuk vegetarian!",positive,1
+86,86.0,"Villa ini sangat cantik, view-nya langsung menghadap ke laut!",positive,1
+87,87.0,"Wisata kuliner di sini sangat beragam, banyak makanan enak dan unik!",positive,1
+88,88.0,"Resto ini memiliki menu yang variatif dan enak-enak, harganya juga terjangkau!",positive,1
+89,89.0,"Saya sangat merekomendasikan resto ini, harga murah dan rasa makanannya sangat enak!",positive,1
+90,90.0,"Kamar hotel ini sangat luas dan bersih, sangat comfortable!",positive,1
+91,91.0,"Saya sangat kagum dengan desain interior hotel ini, sangat stylish!",positive,1
+92,92.0,"Saya sangat kagum dengan koleksi barang-barang antik di museum ini, sangat unik!",positive,1
+93,93.0,"Saya sangat merekomendasikan tour guide ini, mereka sangat profesional!",positive,1
+94,94.0,"Hotel ini memiliki fasilitas yang sangat baik, kolam renangnya sangat besar!",positive,1
+95,95.0,"Menu breakfast di sini sangat komplit dan enak, sangat worth it!",positive,1
+96,96.0,"Saya sangat senang dengan live music di cafe ini, sangat energetic!",positive,1
+97,97.0,"Toko ini menjual barang-barang unik dan berkualitas, harganya sangat kompetitif!",positive,1
+98,98.0,"Tempat wisata ini sangat indah, pantainya sangat bersih dan airnya sangat jernih!",positive,1
+99,99.0,"Pengalaman saya menggunakan aplikasi ini sangat positif, mudah digunakan!",positive,1
+100,100.0,Saya sangat kecewa dengan layanan pelanggan yang buruk dari PT XYZ.,negative,0
+101,101.0,"Saya tidak suka dengan sikap orang tua saya, sangat otoriter.",negative,0
+102,102.0,Saya sangat sedih melihat kondisi anak-anak jalanan yang tidak terurus.,negative,0
+103,103.0,"Pemilihan umum tahun ini sangat tidak adil, hasilnya pasti curang.",negative,0
+104,104.0,Pemerintahan ini gagal dalam meningkatkan ekonomi rakyat.,negative,0
+105,105.0,Kita butuh perubahan besar dalam sistem politik kita.,negative,0
+106,106.0,"Orang tua saya sangat keras kepala, tidak mau mendengar saran saya.",negative,0
+107,107.0,"Jalan tol Jakarta-Cikampek masih rusak parah, kenapa belum diperbaiki?",negative,0
+108,108.0,Saya tidak percaya dengan janji-janji politisi yang manis-manis.,negative,0
+109,109.0,Saya sangat marah karena uang saya hilang dicuri orang lain.,negative,0
+110,110.0,Kita harus sadar bahwa negeri ini sedang menuju kehancuran.,negative,0
+111,111.0,Merekalah yang menyebabkan kerugian besar bagi bangsa kita.,negative,0
+112,112.0,Perluasan wilayah industri hanya akan membuat lingkungan kita makin rusak.,negative,0
+113,113.0,Banyak guru-guru kita yang tidak profesional dan tidak peduli siswanya.,negative,0
+114,114.0,Saya sedih melihat anak-anak jalanan yang tidak memiliki masa depan cerah.,negative,0
+115,115.0,Saya muak dengan sikap angkuh para elit politik.,negative,0
+116,116.0,Banyak korban jiwa karena kecelakaan lalu lintas yang tak berkesudahan.,negative,0
+117,117.0,Kualitas udara di Jakarta sangat buruk bagi kesehatan.,negative,0
+118,118.0,Bagaimana bisa mereka begitu tega melakukan kesalahan seperti itu?,negative,0
+119,119.0,"Saya merasa tertipu dengan produk tersebut, tidak sesuai dengan janji-janji mereka.",negative,0
+120,120.0,Kita harus waspada dengan oknum-oknum yang hanya mencari keuntungan sendiri.,negative,0
+121,121.0,Saya sangat kecewa dengan hasil pemilihan umum tahun lalu.,negative,0
+122,122.0,"Sistem transportasi publik kita sangat buruk, tidak efisien.",negative,0
+123,123.0,Indonesia masih tertinggal jauh dalam hal teknologi.,negative,0
+124,124.0,Masyarakat kita masih belum sadar akan pentingnya pendidikan.,negative,0
+125,125.0,Saya tidak senang dengan perlakukan diskriminatif terhadap minoritas.,negative,0
+126,126.0,"Mereka hanya peduli tentang popularitas, tidak peduli dengan substansi.",negative,0
+127,127.0,Negeri ini makin rusak karena korupsi dan nepotisme.,negative,0
+128,128.0,"Mereka selalu berjanji tapi tidak pernah menepati janjinya, sungguh menyebalkan!",negative,0
+129,129.0,"Kondisi jalanan di sini sangat parah, membuat saya frustrasi setiap hari.",negative,0
+130,130.0,Kita masih belum bisa menghadapi tantangan global.,negative,0
+131,131.0,"Harga barang-barang elektronik naik terus, sangat memberatkan.",negative,0
+132,132.0,"Tidak ada kemajuan di negeri ini, hanya penindasan dan kesengsaraan.",negative,0
+133,133.0,Politik di negeri ini hanya membuat kita makin frustrasi.,negative,0
+134,134.0,Kondisi lingkungan hidup kita makin memprihatinkan.,negative,0
+135,135.0,"Saya sangat kecewa dengan hasil pemilu, tidak adil dan curang.",negative,0
+136,136.0,"Saya muak dengan sistem pendidikan kita, terlalu korupsi.",negative,0
+137,137.0,Saya tidak percaya bahwa masih ada orang yang mendukung rezim ini.,negative,0
+138,138.0,"Kualitas produk ini sangat rendah, tidak worth it untuk dibeli.",negative,0
+139,139.0,"Saya sangat sedih melihat kondisi anak-anak jalanan, tidak memiliki masa depan.",negative,0
+140,140.0,Menteri-menteri kita lebih peduli tentang jabatan daripada rakyat.,negative,0
+141,141.0,Sistem pendidikan kita masih sangat kurang baik.,negative,0
+142,142.0,"Saya tidak suka dengan cara kerja bos saya, sangat otoriter.",negative,0
+143,143.0,"Saya sangat kecewa dengan layanan pelanggan mereka, tidak responsif dan lambat.",negative,0
+144,144.0,Kondisi infrastruktur di sini sangat memprihatinkan.,negative,0
+145,145.0,Saya merasa sangat frustrasi dengan kemacetan lalu lintas setiap hari.,negative,0
+146,146.0,Saya muak dengan sikap orang-orang yang tidak bertanggung jawab.,negative,0
+147,147.0,"Saya sangat kecewa dengan layanan pelanggan mereka, tidak responsif dan lamban.",negative,0
+148,148.0,"Jangan percaya kepada mereka, mereka hanya akan mengecewakan Anda.",negative,0
+149,149.0,Orang-orang seperti dia membuat saya malu menjadi manusia.,negative,0
+150,150.0,Mereka telah gagal memberikan apa yang dijanjikan kepada kita.,negative,0
+151,151.0,"Mereka hanya bicara tapi tidak bertindak, sangat menyebalkan.",negative,0
+152,152.0,"Mereka hanya peduli tentang uang, bukan tentang nasib manusia.",negative,0
+153,153.0,"Tidak ada gunanya berharap dari pemerintahan ini, mereka hanya bicara kosong.",negative,0
+154,154.0,Banyak pejabat korupsi yang tidak ditindaklanjuti.,negative,0
+155,155.0,"Kondisi ekonomi kita sangat suram, banyak orang yang kehilangan pekerjaan.",negative,0
+156,156.0,Kualitas pendidikan di Indonesia makin turun setiap tahun.,negative,0
+157,157.0,"Anak-anak kita tidak mendapatkan pendidikan yang baik, sangat disayangkan.",negative,0
+158,158.0,Saya sangat sedih melihat kondisi lingkungan kita saat ini.,negative,0
+159,159.0,Korban bencana alam masih banyak yang tidak mendapat bantuan.,negative,0
+160,160.0,"Kemarin saya pergi ke restoran baru, tapi makanannya sangat tidak enak.",negative,0
+161,161.0,Pemerintahan ini gagal dalam meningkatkan kesejahteraan rakyat.,negative,0
+162,162.0,Masyarakat kita masih sangat korupsi dan tak berperasaan.,negative,0
+163,163.0,"Kondisi ekonomi kita sangat buruk, tidak stabil dan tidak pasti.",negative,0
+164,164.0,"Banyak pekerjaan rumah yang harus saya selesaikan, sangat melelahkan.",negative,0
+165,165.0,Saya sangat kecewa dengan layanan pelanggan yang buruk dari perusahaan tersebut.,negative,0
+166,166.0,Saya tidak percaya bahwa masih ada orang yang mendukung partai itu.,negative,0
+167,167.0,"Kemiskinan di Indonesia makin meningkat, apa kabarnya?",negative,0
+168,168.0,Saya tidak suka dengan cara mereka memperlakukan pegawai-pegawaiannya.,negative,0
+169,169.0,Kemacetan lalu lintas makin parah setiap hari.,negative,0
+170,170.0,"Kriminalitas makin meningkat, apa kabarnya polisi?",negative,0
+171,171.0,"Politik kita sangat kacau balau, tidak ada visi dan misi.",negative,0
+172,172.0,"Tingkat kejahatan di Indonesia sangat tinggi, sangat khawatir.",negative,0
+173,173.0,"Mereka hanya peduli tentang kuasa dan uang, bukan tentang rakyat.",negative,0
+174,174.0,Korupsi masih merajalela di negeri ini.,negative,0
+175,175.0,"Tidak ada gunanya memiliki teman seperti dia, hanya bikin sakit hati.",negative,0
+176,176.0,Rakyat kita masih belum mandiri dalam ekonomi.,negative,0
+177,177.0,"Tempat wisata ini sangat kotor dan tidak terurus, sayang sekali.",negative,0
+178,178.0,"Sistem transportasi publik kita sangat buruk, butuh perbaikan besar-besaran.",negative,0
+179,179.0,Saya tidak percaya dengan janji-janji manis politisi tersebut.,negative,0
+180,180.0,"Saya merasa tertekan dengan tekanan hidup, tidak ada solusi.",negative,0
+181,181.0,Saya malu menjadi bagian dari sistem yang rusak.,negative,0
+182,182.0,"Pemerintahan saat ini hanya peduli dengan kepentingan sendiri, bukan rakyat.",negative,0
+183,183.0,Saya sangat marah dengan keputusan pemerintah kali ini.,negative,0
+184,184.0,"Banyak orang di sini yang tidak punya empati, hanya mencari sensasi.",negative,0
+185,185.0,Saya tidak suka dengan gaya hidup konsumerisme yang sangat ekstrem.,negative,0
+186,186.0,Orang-orang lebih suka mencari sensasi daripada mencari solusi.,negative,0
+187,187.0,"Mereka hanya peduli tentang kepentingan sendiri, bukan tentang rakyat.",negative,0
+188,188.0,"Sistem kesehatan kita sangat buruk, banyak orang sakit karena kurangnya fasilitas.",negative,0
+189,189.0,"Aku benar-benar muak dengan sistem pendidikan kita, tidak adil dan korup.",negative,0
+190,190.0,"Harga rumah makin mahal, anak muda mana yang sanggup beli?",negative,0
+191,191.0,Saya kesal dengan kemacetan lalu lintas yang tidak kunjung terselesaikan.,negative,0
+192,192.0,Masyarakat kita masih sangat bodoh dan tak berpendidikan.,negative,0
+193,193.0,Politik hanya membuat saya frustrasi dan kesal.,negative,0
+194,194.0,"Saya tidak percaya dengan janji-janji politisi, selalu ingkar janji.",negative,0
+195,195.0,Kenapa harga BBM naik terus? Rakyat makin sengsara!,negative,0
+196,196.0,Merekalah yang menyebabkan kerusakan lingkungan hidup kita.,negative,0
+197,197.0,Kita harus sadar bahwa sistem demokrasi kita telah gagal total.,negative,0
+198,198.0,Saya sangat kesal karena rencana liburan saya gagal total.,negative,0
+199,199.0,"Harga barang-barang makin mahal, sulit bagi rakyat kecil.",negative,0
+0,,"Saya sangat senang dengan pelayanan disini, mereka sangat friendly dan helpful. Makanan nya juga sangat enak dan variasinya banyak.",positive,1
+1,,Politik Indonesia makin hari makin rusak. Korupsi dan nepotisme telah menjadi budaya.,negative,0
+2,,"Menginap di hotel ini adalah pilihan tepat, kamarnya luas dan fasilitasnya lengkap. Pelayanan staff-nya juga sangat baik dan helpful.",positive,1
+3,,"Mereka telah gagal dalam memberikan pengalaman belanja yang baik, harga mahal dan produknya tidak sesuai ekspektasi.",negative,0
+4,,Kita harus waspada dengan oknum-oknum yang hanya mencari keuntungan tanpa memikirkan dampaknya pada lingkungan.,negative,0
+5,,Makanan di sini sangat enak dan harga nya sangat terjangkau. Saya akan merekomendasikan tempat ini kepada teman-teman saya.,positive,1
+6,,"Pemerintah harus bertanggung jawab atas kesengsaraan rakyat, tapi malah membuat mereka makin sengsara.",negative,0
+7,,Tempat ini sangat nyaman dan membuat saya merasa seperti di rumah sendiri. Menu yang disediakan juga sangat komplit dan enak.,positive,1
+8,,"Kami sangat menyukai tempat ini, makanan nya sangat baik dan variasinya lengkap. Harganya juga sangat kompetitif dan worth it.",positive,1
+9,,"Sistem pendidikan kita masih sangat kolot dan tidak memperhatikan kemajuan zaman, membuat generasi muda kita ketinggalan.",negative,0
+10,,Saya sangat puas dengan pelayanan dan makanan di sini. Tempat ini sangat recommended bagi semua orang yang ingin mencari tempat makan yang enak dan nyaman.,positive,1
+11,,Saya sangat puas dengan pelayanan dan makanan di sini. Tempat ini sangat cozy dan nyaman. Saya akan merekomendasikan kepada semua orang!,positive,1
+12,,"Tempat ini adalah surganya para pecinta kuliner, mereka memiliki berbagai jenis makanan yang enak dan harga yang sangat terjangkau. Saya akan merekomendasikan tempat ini kepada semua orang!",positive,1
+13,,"Jalan-jalan di Jakarta sangat rusak parah, membuat saya malas keluar rumah.",negative,0
+14,,Pengalaman saya saat berkunjung ke museum tersebut sangat buruk. Fasilitasnya sangat minim dan koleksinya tidak update.,negative,0
+15,,(Note: I'll add more texts if you need),positive,1
+16,,"Banyak korban jiwa akibat kesalahan manusia, kenapa masih banyak orang yang tidak belajar dari masa lalu?",negative,0
+17,,"Pusat perbelanjaan ini sangat komplit, memiliki banyak toko dan resto yang menjual produk-produk berkualitas. Saya sangat menyukai belanja di sini karena harga nya sangat terjangkau.",positive,1
+18,,"Mereka hanya peduli dengan uang, tidak perduli dengan nasib konsumen seperti saya.",negative,0
+19,,"Mereka hanya bicara kosong, tidak ada action dan hanya membuat janji-janji palsu.",negative,0
+20,,"Tempat ini sangat cocok untuk acara spesial, dekorasi-nya sangat mewah dan romantis. Pelayanan-nya juga sangat profesional dan cepat.",positive,1
+21,,"Kuliner di sini sangat recommended, variasi makanan-nya sangat banyak dan rasanya sangat enak. Harganya juga sangat terjangkau.",positive,1
+22,,"Perluasan wilayah industri hanya akan membawa kerusakan lingkungan dan meningkatkan pengangguran, kita harus lebih bijaksana.",negative,0
+23,,perlu diingat bahwa korupsi telah menjadi penyakit yang kronis di negeri ini. tak ada lagi kemuliaan!,negative,0
+24,,Perluasan wilayah industri hanya akan membawa dampak buruk bagi lingkungan. Saya khawatir tentang masa depan bumi kita.,negative,0
+25,,Kualitas produknya sangat rendah dan tidak sesuai dengan harga yang mereka patok.,negative,0
+26,,Kualitas produk dari perusahaan tersebut sangat rendah. Saya sudah dua kali mengalami kendala dengan produk mereka dan masih belum ada solusi.,negative,0
+27,,"Makanan di sini benar-benar nikmat, saya sangat merekomendasikan bagi Anda yang ingin mencicipi makanan Indonesia. Harganya juga sangat terjangkau.",positive,1
+28,,Makanan di sini benar-benar nikmat. Saya sangat merekomendasikan tempat ini kepada semua orang. Pelayanan juga sangat baik dan ramah.,positive,1
+29,,"Restoran ini memiliki suasana yang sangat nyaman dan romantis, sangat cocok untuk dinner atau acara special lainnya. Makanannya juga sangat enak dan variatif.",positive,1
+30,,"Pengalaman saya di tempat ini sangat buruk, harga mahal tapi kualitasnya sangat rendah.",negative,0
+31,,"Saya sangat menyukai tempat ini, vibes-nya sangat nyaman dan membuat saya ingin datang lagi. Makanannya juga enak dan variasinya lengkap.",positive,1
+32,,"Menu favorite saya adalah mie goreng di sini, rasanya sangat lezat dan tekstur mie nya pas banget.",positive,1
+33,,mengapa masih banyak oknum yang tidak bertanggung jawab dalam melakukan pekerjaannya? sangat memprihatinkan!,negative,0
+34,,Kita harus waspada dengan oknum-oknum yang hanya mencari kesempatan untuk menguntungkan dirinya sendiri tanpa peduli dengan nasib orang lain.,negative,0
+35,,"Politik di negeri ini makin rusak, korupsi dan nepotisme merajalela.",negative,0
+36,,"Orang-orang seperti kamu yang membuat Indonesia menjadi rusak, tidak memiliki hati nurani!",negative,0
+37,,"Sistem pendidikan di Indonesia sangat menyedihkan, mereka lebih mementingkan uang daripada ilmu.",negative,0
+38,,Restoran ini memiliki suasana yang romantis dan menyenangkan. Makanan juga sangat enak dan presentation-nya sangat menarik.,positive,1
+39,,"tidak puas dengan layanan konsumen mereka, sangat lamban dan tidak membantu.",negative,0
+40,,"Makanan disini benar-benar lezat, rasanya pas dan harga nya sangat terjangkau. Tempat nya juga nyaman dan bersih.",positive,1
+41,,"Saya sangat menyukai tempat ini, vibes-nya sangat baik dan pelayanan-nya sangat ramah. Makanan-nya juga sangat enak dan variatif.",positive,1
+42,,Tempat ini membuat saya merasa nyaman dan santai. Pelayanan juga baik dan ramah.,positive,1
+43,,"Restoran ini adalah salah satu favorite saya di Bandung, lokasinya strategis dan mudah dijangkau. Menu nya sangat lengkap dan harga nya sangat terjangkau.",positive,1
+44,,Tempat ini sangat recomended bagi Anda yang mencari kuliner enak dan murah. Saya sudah beberapa kali kesini dan belum pernah kecewa.,positive,1
+45,,"Kebijakan baru ini sangat merugikan bagi kaum minoritas, tidak adil dan diskriminatif.",negative,0
+46,,"Restoran ini adalah salah satu favorite saya di Bandung, memiliki konsep yang unik dan makanan yang lezat. Pemandangan-nya juga sangat indah dan instagramable.",positive,1
+47,,Saya sangat kecewa dengan layanan yang diberikan oleh petugas lapangan. Mereka tidak profesional dan kurang peduli dengan nasib konsumen.,negative,0
+48,,Perlu diwaspadai bahwa korupsi masih merajalela di negeri ini dan tidak ada upaya serius dari pemerintah untuk memberantasnya.,negative,0
+49,,Saya merasa kesal dengan sikap oknum pejabat yang hanya mau mencari keuntungan pribadi tanpa peduli dengan nasib rakyat.,negative,0
+50,,"Saya baru saja mencoba makan di sini dan wow, makanannya sangat lezat. Variasi menu nya juga cukup banyak dan harga nya cukup terjangkau.",positive,1
+51,,"Saya sangat kagum dengan desain interior resto ini, sangat modern dan elegan. Makanan nya juga sangat enak dan fresh.",positive,1
+52,,(Note: I'll separate each text with the,positive,1
+53,,Bagaimana bisa orang seperti itu dipercayai? Mereka hanya mengkhianati rakyat dan memikirkan kepentingan sendiri.,negative,0
+54,,"Saya sangat kecewa dengan pelayanan di sini, tidak profesional dan lambat.",negative,0
+55,,(Please note that I've generated new texts based on your request),positive,1
+56,,Tempat ini sangat recommended bagi kamu yang ingin mencari makanan enak dan murah. Variasi makanan nya sangat banyak dan suasana nya sangat cozy.,positive,1
+57,,"Kinerja perusahaan ini sangat buruk, tidak transparan dan hanya menguntungkan segelintir orang.",negative,0
+58,,Kita harus waspada dengan oknum-oknum yang hanya mau mencari keuntungan sendiri tanpa peduli dengan nasib orang lain.,negative,0
+59,,"Sistem ini sangat korup dan tidak adil, hanya membantu orang-orang yang memiliki kuasa dan uang.",negative,0
+60,,"Tempat ini sangat instagrammable, dekorasinya unik dan menarik. Makanan juga sangat lezat dan pelayanan sangat baik.",positive,1
+61,,Polisi kok masih banyak yang korup? Masyarakat sudah tidak percaya lagi.,negative,0
+62,,"Perluasan proyek ini sangat merugikan lingkungan, siapa yang mau bertanggung jawab?",negative,0
+63,,Pemandangan alam di sekitar resto ini sangat indah sehingga membuat saya merasa sangat relax dan nyaman.,positive,1
+64,,"Kualitas makanan di sini sangat tinggi, rasanya sangat lezat dan penyajiannya sangat menarik.",positive,1
+65,,"Pengalaman saya di tempat ini sangat buruk, fasilitasnya sangat minim dan pelayannya tidak ramah.",negative,0
+66,,"Menghabiskan waktu di sini adalah pengalaman yang menyenangkan, atmosfernya nyaman dan makanannya sangat memuaskan.",positive,1
+67,,(Note: I'll add more if you need),positive,1
+68,,Sistem pendidikan kita sangat salah kaprah. Anak-anak kita tidak dibekali dengan kemampuan yang cukup untuk bersaing di era global.,negative,0
+69,,"(Note: I'll separate each text with the """,positive,1
+70,,Kita harus waspada dengan oknum-oknum yang hanya mencari keuntungan sendiri tanpa peduli dengan nasib orang lain.,negative,0
+71,,"Saya sangat kaget dengan suasana di sini, sangat romantis dan cocok untuk dinner bersama orang-orang terdekat.",positive,1
+72,,"Sistem pendidikan kita masih sangat kolot dan tidak maju, membuat generasi muda kita tertinggal.",negative,0
+73,,Sistem pendidikan kita masih sangat kolot dan tidak efektif. Siswa-siswi hanya dijejali materi tanpa dibekali kemampuan kritikal thinking.,negative,0
+74,,"Pemerintah harus bertindak cepat dalam meningkatkan kondisi ekonomi, jika tidak maka rakyat akan makin menderita.",negative,0
+75,,Saya merasa frustrasi dengan kurangnya infrastruktur di daerah pedesaan. Bagaimana bisa sebuah negeri ini meninggalkan rakyatnya?,negative,0
+76,,"Kita harus waspada dengan oknum-oknum yang tidak bertanggung jawab, merugikan banyak orang.",negative,0
+77,,"Mereka hanya peduli tentang uang, tidak perduli dengan nasib konsumennya.",negative,0
+78,,"Saya sangat senang ketika berkunjung ke sini, atmosfernya sangat santai dan menyenangkan. Menu favorit saya adalah mie goreng dan es teh manis.",positive,1
+79,,Saya sangat senang dapat berkunjung ke sini lagi. Tempat ini memiliki suasana yang sangat menyenangkan dan makanan yang sangat lezat.,positive,1
+80,,Saya sangat menyukai cafe ini karena memiliki desain interior yang unik dan menyajikan kopi yang sangat nikmat.,positive,1
+81,,Mengapa masih banyak oknum yang tidak bertanggung jawab dalam melakukan pekerjaannya? Ini membuat saya marah!,negative,0
+82,,Perlu diwaspadai bahwa beberapa produk impor tersebut mengandung zat-zat berbahaya bagi kesehatan manusia.,negative,0
+83,,Perluasan proyek tambang batu bara itu sangat membahayakan lingkungan. Pemerintah harus lebih bijak dalam mengurus sumber daya alam.,negative,0
+84,,"Saya sangat menyukai atmosfer di sini, sangat santai dan membuat saya merasa seperti di rumah sendiri. Menu makanannya juga sangat variatif dan enak.",positive,1
+85,,"Mereka hanya bicara tapi tidak pernah bertindak, janji-janji kosong yang membuat kita semakin frustrasi.",negative,0
+86,,Pengalaman pertama dan terakhir kali menggunakan transportasi umum yang sangat menyebalkan!,negative,0
+87,,Siapa yang mau menggunakan produk dari brand ini lagi? Kualitasnya sangat jelek dan harganya mahal!,negative,0
+88,,Restoran ini adalah salah satu favorit saya. Menu-menu nya sangat lezat dan harganya cukup terjangkau. Suasananya juga nyaman dan cozy.,positive,1
+89,,"Kualitas produknya sangat jelek, tidak sesuai dengan harga yang dibayar, saya sangat menyesal telah membelinya.",negative,0
+90,,"Saya sangat kesal dengan pelayanan di sini, lambat dan tidak ramah.",negative,0
+91,,"Tempat ini adalah surganya para pecinta makanan, banyak pilihan menu yang lezat dan harga yang terjangkau.",positive,1
+92,,"Tempat ini adalah favorit saya, mereka memiliki makanan yang sangat lezat dan variasinya sangat banyak. Harganya juga sangat terjangkau dan pelayanannya sangat baik.",positive,1
+93,,"Jujur saja, saya tidak percaya lagi dengan politisi-politisinya, mereka hanya bicara kosong tanpa melakukan aksi nyata.",negative,0
+94,,berapa kali kita harus mengeluh tentang kondisi infrastruktur yang buruk ini? tak ada perkembangan sama sekali!,negative,0
+95,,"Pengalaman saya di restoran ini sangat buruk, makanannya tidak enak dan pelayanannya sangat kurang.",negative,0
+96,,"Jujur saya takut dengan kondisi negeri ini, korupsi dan kemaksiatan merajalela dimana-mana.",negative,0
+97,,Sistem pendidikan kita masih sangat buruk sehingga membuat generasi muda menjadi tidak siap dalam menghadapi masa depan.,negative,0
+98,,Restoran ini adalah salah satu favorit saya di Bandung. Makanan nya sangat enak dan harga nya sangat terjangkau.,positive,1
+99,,Politik Indonesia makin hari makin rusak. Korupsi dan nepotisme sudah menjadi budaya.,negative,0
+100,,(Note: I'll make sure to follow your instructions accurately),positive,1
+101,,"Lingkungan di sini sangat asri dan tenang, cocok sekali untuk acara-acara spesial. Makanan nya juga sangat lezat dan presentasi nya sangat menarik.",positive,1
+102,,Masyarakat harus waspada dengan oknum-oknum yang hanya mencari kepentingan pribadi. Mereka tidak memiliki jiwa kepemimpinan yang sesungguhnya.,negative,0
+103,,Tempat ini sangat recommended bagi para pecinta kuliner karena memiliki makanan yang sangat variatif dan lezat.,positive,1
+104,,"Saya sangat puas dengan pengalaman saya di sini, makanan-nya sangat fresh dan bergizi. Pelayanan-nya juga sangat baik dan ramah.",positive,1
+105,,Siapa yang mau datang ke tempat wisata seperti ini? Fasilitasnya sangat minim.,negative,0
+106,,Sistem pendidikan di indonesia sangat salah kaprah dan membuat siswanya stress.,negative,0
+107,,"Pengalaman buruk sekali saat berkunjung ke tempat wisata ini, harga mahal tapi fasilitasnya sangat minim.",negative,0
+108,,Kualitas makanan di sini sangat tinggi dan harga sangat kompetitif. Saya sangat merekomendasikan tempat ini bagi Anda yang mencari tempat makan yang berkualitas!,positive,1
+109,,"Kualitas makanan di sini sangat tinggi, saya sangat kagum dengan presentasinya yang sangat menarik. Harga juga sangat worth it dengan kualitas makanan yang disajikan.",positive,1
+110,,"Restoran ini memiliki konsep yang unik dan menarik, membuat saya ingin datang lagi dan lagi.",positive,1
+111,,"Restoran ini adalah salah satu favorit saya di Bandung, memiliki konsep yang unik dan makanan yang lezat. Pelayanan juga sangat baik dan ramah.",positive,1
+112,,Pengalaman saya di restoran itu sangat buruk. Makanannya tidak enak dan pelayanannya sangat lamban.,negative,0
+113,,"Sistem pendidikannya sangat rusak, korupsi dan nepotisme membuat siswa-siswa menjadi korban.",negative,0
+114,,"Saya sangat menyukai restoran ini, mereka memiliki variasi makanan yang lengkap dan rasanya sangat lezat. Pelayanan juga sangat baik dan ramah.",positive,1
+115,,"Kami sangat menyukai tempat ini, suasana nya sangat romantis dan makanan nya sangat lezat. Kami akan kembali lagi kesini saat kami ke Bandung lagi.",positive,1
+116,,"Mereka hanya peduli dengan uang dan kuasa, tidak perduli dengan nasib manusia lainnya.",negative,0
+117,,Pemerintah ini gagal total dalam menyelesaikan masalah korupsi.,negative,0
+118,,Perlu diingat bahwa oknum-oknum pejabat korupsi adalah penghalang utama bagi pembangunan negeri ini.,negative,0
+119,,Saya sangat kecewa dengan layanan konsumen dari perusahaan tersebut. Mereka tidak peduli dengan keluhan pelanggan.,negative,0
+120,,Pengalaman buruk saya dengan perusahaan ini membuat saya tidak percaya lagi dengan merekanya.,negative,0
+121,,"Mereka hanya peduli tentang uang, tidak perduli dengan nasib konsumen. Sangat menyedihkan!",negative,0
+122,,Tempat ini adalah surganya para pecinta kuliner. Menu-menu mereka sangat variatif dan rasanya sangat mantap. Harga juga sangat terjangkau.,positive,1
+123,,"Saya merekomendasikan tempat ini kepada semua orang, karena makanannya sangat enak dan pelayanannya sangat baik.",positive,1
+124,,Siapa yang mau belanja di mall ini lagi? Mereka hanya ingin menguras isi dompet kita tanpa memberikan pelayanan yang baik.,negative,0
+125,,Saya tidak puas dengan hasil pemilihan umum kali ini. Kita semua tau bahwa keseluruhan prosesnya telah direkayasa.,negative,0
+126,,"Sistem pendidikan di negeri ini sangat salah, lebih banyak membodohi siswanya daripada memberdayakan.",negative,0
+127,,"Makanan di sini sangat recomended, rasanya sangat autentik dan harganya sangat terjangkau. Saya akan kembali kesini lagi untuk mencoba menu lainnya.",positive,1
+128,,"Saya sangat puas dengan pelayanan dan makanan di sini, sangat recomended untuk Anda yang ingin mencari tempat makan yang enak dan harga yang terjangkau.",positive,1
+129,,"Saya sangat menyukai tempat ini, makanannya enak-enak dan variasinya banyak. Pelayanan juga baik dan ramah.",positive,1
+130,,"Makanan di sini benar-benar membuat saya ketagihan, rasanya sangat autentik dan harga yang sangat murah. Saya akan datang lagi kesini untuk mencoba menu lainnya.",positive,1
+131,,Makanan di sini sangat lezat dan variatif. Pelayanan juga sangat baik dan cepat.,positive,1
+132,,"Mereka hanya bicara kosong, tidak ada aksi nyata untuk membantu masyarakat.",negative,0
+133,,"Saya sangat senang berkunjung ke sini, menu nya sangat lengkap dan harga nya sangat kompetitif. Pelayanan nya juga sangat ramah dan profesional.",positive,1
+134,,"Pengalaman saya di tempat ini sangat buruk, tidak akan pernah lagi datang kesini.",negative,0
+135,,Saya sangat menyukai tempat ini karena memiliki konsep yang unik dan menu makanan yang sangat variatif. Pelayanan yang baik dan lingkungan yang nyaman membuat saya merasa betah.,positive,1
+136,,Perluasan Tol Jakarta-Semarang sangat merugikan lingkungan dan tidak membantu meningkatkan ekonomi masyarakat lokal.,negative,0
+137,,"(Note: I'll separate each text with """,positive,1
+138,,Atmosfer di sini sangat romantis sehingga membuat saya merasa seperti berlibur di sebuah negeri dongeng.,positive,1
+139,,"(Note: I'll make sure to separate each text with """,positive,1
+140,,token at the end of each text),positive,1
+141,,"Menginap di hotel ini membuat saya merasa seperti di rumah sendiri, staff-nya sangat friendly dan helpful. Fasilitas-nya juga lengkap dan modern.",positive,1
+142,,"Tidak percaya dengan janji-janji manis dari politisi, hanya bicara kosong tanpa hasil nyata.",negative,0
+143,,"Sistem pendidikan di negeri ini sangat rusak, korupsi dan nepotisme membuat generasi muda kehilangan masa depan.",negative,0
+144,,ini adalah contoh dari ketidakpedulian pemerintah terhadap nasib rakyatnya. sungguh menyedihkan!,negative,0
+145,,"Perlu diingat bahwa pemerintah ini tidak peduli dengan nasib rakyat, hanya mencari kepentingan golongan sendiri.",negative,0
+146,,Restoran ini adalah surganya para pecinta kuliner. Menu-menu yang disajikan sangat beragam dan rasanya nikmat sekali.,positive,1
+147,,"Masyarakat kita masih sangat diskriminatif dan tidak toleran terhadap perbedaan agama, ras, dan budaya.",negative,0
+148,,Tempat ini sangat recommended. Makanannya enak dan bergizi. Harga juga cukup murah. Saya akan kesini lagi.,positive,1
+149,,"Pengalaman saya saat berkunjung ke tempat tersebut sangat menyedihkan , fasilitasnya sangat minim dan pelayannya kurang ramah.",negative,0
+150,,Pemerintah sepertinya tidak peduli dengan kondisi rakyatnya yang masih banyak hidup dalam kemiskinan.,negative,0
+151,,"Banyak koruptor yang masih bebas berkeliaran, kenapa polisi tidak bisa menangkap mereka?!",negative,0
+152,,"Saya sangat menyukai resto ini, menu nya variatif dan harga nya terjangkau. Pelayanan nya juga cepat dan ramah.",positive,1
+153,,"Sistem pendidikan di negeri ini sangat kacau balau, tidak fokus pada kemajuan siswanya.",negative,0
+154,,"Pengalaman saya di restoran ini sangat buruk, makanan tidak enak dan pelayanan juga kurang ramah.",negative,0
+155,,"Saya sangat menyukai tempat ini, memiliki konsep yang unik dan makanan yang lezat. Pelayanan juga sangat baik dan ramah.",positive,1
+156,,"Sistem pendidikan di Indonesia sangat memprihatinkan, siswa-siswa hanya dijadikan mesin uang.",negative,0
+157,,Saya sangat merekomendasikan tempat ini untuk acara spesial. Mereka memiliki konsep yang unik dan menawarkan variasi makanan yang lezat.,positive,1
+158,,Saya sangat menyukai tempat ini. Makanannya enak-enak dan variasinya cukup banyak. Pelayanan juga baik dan cepat.,positive,1
+159,,mengapa harus repot-repot membuat janji tapi tidak dapat dipercaya?,negative,0
+160,,Layanan kesehatan di indonesia sangat tidak memuaskan dan hanya mencari untung belaka.,negative,0
+161,,"Kuliner di sini sangat beragam dan lezat, saya dapat mencicipi makanan tradisional dan modern dalam satu tempat. Harganya pun sangat murah dan worth it.",positive,1
+162,,Makanan di sini sangat fresh dan harga yang murah membuat saya ingin datang kesini lagi.,positive,1
+163,,Makanan di sini benar-benar enak dan fresh. Pelayanan juga sangat baik dan cepat. Saya akan datang lagi kesini!,positive,1
+164,,Perluasan wilayah industri hanya akan membuat lingkungan menjadi lebih rusak dan mencemari udara.,negative,0
+165,,"Pengalaman saya di tempat ini sangat buruk, dari awal sudah salah kaprah dan tidak ada tanggung jawab.",negative,0
+166,,"Tempat wisata ini sangat menarik, pemandangan alamnya sangat indah dan udaranya segar. Saya sangat menyukai keseluruhan pengalaman saya disini.",positive,1
+167,,Masyarakat indonesia masih saja budiman dan tak peduli dengan nasib sesama manusia.,negative,0
+168,,"Tidak percaya dengan kemampuan direktur yang baru, sepertinya dia tidak memiliki visi dan misi.",negative,0
+169,,"Pengalaman saya di tempat ini sangat buruk, harga mahal tapi kualitasnya jelek.",negative,0
+170,,"Saya sangat menyukai tempat ini, atmosfernya sangat nyaman dan membuat saya merasa seperti di rumah. Menu makanannya pun sangat variatif dan enak.",positive,1
+171,,Pengalaman saya dengan maskapai penerbangan ini sangat buruk. Keterlambatan dan ketidaksopanan staf membuat saya marah.,negative,0
+172,,"Restoran ini adalah salah satu favorit saya, variasi makanannya sangat banyak dan rasanya semua enak. Suasananya juga nyaman dan cozy.",positive,1
+173,,"Tempat ini sangat instagramable, dekorasinya sangat unik dan lucu. Makanannya juga sangat enak dan harga sangat terjangkau.",positive,1
+174,,Saya sangat merekomendasikan tempat ini kepada semua orang. Mereka memiliki konsep yang unik dan makanan yang sangat enak.,positive,1
+175,,Tempat ini adalah salah satu tujuan wisata kuliner favorit saya di Bandung. Menu makanannya sangat beragam dan rasanya sangat nikmat.,positive,1
+176,,"Kualitas makanan di sini sangat tinggi, rasanya sangat lezat dan fresh. Harga juga sangat kompetitif, sangat worth it untuk dikunjungi lagi.",positive,1
+177,,Tidak percaya diri lagi dengan produk lokal yang kualitasnya sangat rendah.,negative,0
+178,,"Saya sangat menyukai tempat ini, lokasinya strategis dan mudah dijangkau. Makanannya juga variatif dan lezat.",positive,1
+179,,"Saya sangat puas dengan pelayanan di sini, mereka sangat friendly dan helpful. Makanan nya juga sangat enak dan harga nya sangat kompetitif.",positive,1
+180,,"Restoran ini adalah salah satu favorit saya, menu makanannya sangat lezat dan harga nya sangat terjangkau. Saya akan merekomendasikan tempat ini kepada semua orang.",positive,1
+181,,Ini adalah resto favorite saya di Bandung. Makanannya sangat enak dan harganya cukup murah. Suasananya juga sangat nyaman dan romantis.,positive,1
+182,,"Jujur saja , saya merasa sangat frustasi dengan sistem pendidikan kita yang masih banyak memiliki kesalahan.",negative,0
+183,,"Sistem pendidikan di negeri ini sangat buruk, tidak memperdulikan masa depan generasi muda.",negative,0
+184,,"Saya sangat menyukai tempat ini, suasana nya sangat nyaman dan pegawai nya sangat ramah. Makanan nya juga sangat lezat dan variasinya sangat banyak.",positive,1
+185,,"Perluasan bisnisnya sangat amburadul, tidak efisien dan banyak korban.",negative,0
+186,,"Orang-orang seperti dia lah yang membuat negeri ini rusak, hanya mencari kesempatan untuk korupsi.",negative,0
+187,,Makanan di sini benar-benar lezat dan harga nya sangat terjangkau. Saya sangat merekomendasikan tempat ini kepada teman-teman saya.,positive,1
+188,,"Resto ini adalah salah satu favorite saya di Bandung, makanan nya sangat enak dan harga nya terjangkau. Suasananya juga sangat cozy dan romantis.",positive,1
+189,,Saya baru saja mencoba makan di sini dan saya sangat puas dengan rasa dan kualitas makanan nya. Pelayanan nya juga sangat baik dan cepat.,positive,1
+190,,Mereka hanya peduli dengan uang dan tidak perduli dengan nasib konsumennya.,negative,0

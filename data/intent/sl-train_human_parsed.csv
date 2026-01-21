@@ -1,0 +1,2028 @@
+,id,text,intent,label
+0,9782,predvajaj jo čez pet minut,play_audiobook,6
+1,16126,pošlji sporočilo mami najlepša hvala mami,email_sendemail,5
+2,10178,kako pravilno olupiti krompir,cooking_recipe,3
+3,7702,pobriši moj urnik,calendar_remove,2
+4,3584,kateri alarm se aktivira naslednji,alarm_query,0
+5,4750,ali bo snežilo,weather_query,9
+6,12126,pozdravljena želim z vlakom do ljubljane v sredo,transport_ticket,8
+7,4342,znižaj glasnost zvočnikov,audio_volume_down,1
+8,10190,najdi recept za piščančji paprikaš,cooking_recipe,3
+9,15827,pojdi v kontakte in dodaj novo email listo,email_sendemail,5
+10,4679,ali danes potrebujem lahko ali toplo jakno,weather_query,9
+11,3934,pokaži mi nastavljene alarme,alarm_query,0
+12,438,ali bo danes deževalo,weather_query,9
+13,2111,ko je tukaj deset zvečer koliko je potem ura v ljubljani,datetime_convert,4
+14,12762,prosim rezerviraj vozovnico za vlak,transport_ticket,8
+15,8862,prosim odstrani vse današnje sestanke po sedmi uri zvečer,calendar_remove,2
+16,1503,če je v ljubljani štiri popoldne koliko je ura v londonu,datetime_convert,4
+17,16937,shrani elektronsko sporočilo za pozneje,email_sendemail,5
+18,12897,rad bi kupil vozovnico za vlak številka pet plačal plačala bi s kreditno kartico,transport_ticket,8
+19,16604,pošlji hčeri spletno sporočilo,email_sendemail,5
+20,13529,kateri film naj si grem pogledat,recommendation_movies,7
+21,283,ali pričakuješ sonce v nedeljo,weather_query,9
+22,12198,rezerviraj mi vozovnico za vlak do maribora,transport_ticket,8
+23,6759,izbriši moj naslednji sestanek,calendar_remove,2
+24,16115,na vsa spletna sporočila prispela med deseto zvečer in deveto zjutraj treba odgovoriti,email_sendemail,5
+25,9883,vrni se na radio ga ga,play_audiobook,6
+26,8943,zelim izbrisati vse moje dogodke,calendar_remove,2
+27,3027,poslabšanje snežne napovedi na pohorju,weather_query,9
+28,9805,predvajaj mi pesem jana plestenjaka iz zvočne knjige,play_audiobook,6
+29,5075,kakšno je ta teden vreme,weather_query,9
+30,6179,ali potrebujem snežne škornje,weather_query,9
+31,16059,odgovori goranu in povej da bom jutri prost,email_sendemail,5
+32,16142,sestavi elektronsko sporočilo za janeza,email_sendemail,5
+33,4207,bom morala nositi plašč danes,weather_query,9
+34,4665,kakšno je vreme v piranu,weather_query,9
+35,10203,kako naj pripravim lazanjo po korakih,cooking_recipe,3
+36,2328,katera je najvišja temperatura danes,weather_query,9
+37,12790,rezerviraj vlak za ljubljano,transport_ticket,8
+38,4215,potrebujem časovni pas za maribor slovenija namesto centralnega časovnega pasu,datetime_convert,4
+39,1864,kateri alarmi so zdaj aktivni,alarm_query,0
+40,8433,izbriši sestanek devetnajstega marca ob enih popoldne,calendar_remove,2
+41,4252,ali naj danes vzamem dežnik s seboj,weather_query,9
+42,10144,kako dolgo se hladi ledena pita,cooking_recipe,3
+43,5007,za katere dneve imam nastavljen alarm,alarm_query,0
+44,7018,izbriši novoletni večer iz koledarja,calendar_remove,2
+45,4732,znižaj glasnost,audio_volume_down,1
+46,7091,odstrani dogodke s koledarja,calendar_remove,2
+47,12524,rezerviraj mi najcenejšo karto za vlak do ljubljane,transport_ticket,8
+48,9867,preberi mi zvočne knjige ki sem jih že poslušal,play_audiobook,6
+49,16044,pošlji špeli elektronsko sporočilo o urniku vadbe,email_sendemail,5
+50,10231,za katere kuhinje je značilna močno začinjena in pikantna hrana,cooking_recipe,3
+51,15759,prosim pošlji elektronsko pošto pavlu z opomnikom,email_sendemail,5
+52,1235,koliko je ura v singapurju ko je pri nas pet popoldne,datetime_convert,4
+53,5591,odpri vreme,weather_query,9
+54,12871,rezerviraj mi vozovnico za vlak do primorske,transport_ticket,8
+55,4760,ali je napovedan sneg,weather_query,9
+56,7115,z mojega koledarja za petnajsti odstrani plačilo avtomobila,calendar_remove,2
+57,1842,ali bo sijalo sonce ta vikend v kopru,weather_query,9
+58,16904,đelim odgovoriti na moje zadnje elektronsko sporočilo,email_sendemail,5
+59,10241,siri kateri je najbolj okusen kos govedine,cooking_recipe,3
+60,7175,odstrani,calendar_remove,2
+61,699,kakšna je vremenska napoved,weather_query,9
+62,7740,odstrani vinkovo rojstnodnevno zabavo z mojega koledarja,calendar_remove,2
+63,2010,bo vreme sončno ta teden ali ne,weather_query,9
+64,10223,bilo bi okusno,cooking_recipe,3
+65,2341,rad bi vedel trenutno vreme v ljubljani bežigrad,weather_query,9
+66,17012,elektronsko sporočilo mora biti poslano na sdfa afna hotmail pika com,email_sendemail,5
+67,12471,kupi vozovnico za vlak,transport_ticket,8
+68,9090,izbriši vse dogodke v koledarju,calendar_remove,2
+69,4204,ali bo ta teden sneg,weather_query,9
+70,8162,spremeni načrt sestanka,calendar_remove,2
+71,8813,prosim izbriši moj koledar,calendar_remove,2
+72,12105,hitri in drzni,recommendation_movies,7
+73,16835,pošlji sporočilo na ta novi elektronski naslov,email_sendemail,5
+74,12282,želim vozovnico za vlak od novega mesta do brežic,transport_ticket,8
+75,3963,ali je danes kakšen alarm,alarm_query,0
+76,205,pokaži alarme,alarm_query,0
+77,12507,želim vozovnico za vlak do kopra,transport_ticket,8
+78,5210,katere alarme imam nastavljene za danes,alarm_query,0
+79,10012,poišči svojo najljubšo jed,cooking_recipe,3
+80,3806,vreme za jutri,weather_query,9
+81,16941,z outlookom,email_sendemail,5
+82,9804,odpri dva nebotičnika in ju predvajaj,play_audiobook,6
+83,2080,ali je moja budilka nastavljena ob šestih zjutraj,alarm_query,0
+84,16689,odgovori na jožetovo elektronsko sporočilo,email_sendemail,5
+85,9031,odstrani moj službeni sestanek naslednji teden,calendar_remove,2
+86,4562,olly lahko spremeniš moj časovni pas v časovni pas v katerem sem trenutno,datetime_convert,4
+87,10074,kako dolgo se peče jajce na oko,cooking_recipe,3
+88,6753,prosim odstrani vse moje dogodke za danes,calendar_remove,2
+89,6126,ali potrebujem obleči plašč,weather_query,9
+90,3707,kakšno bo vreme na zmenku,weather_query,9
+91,3286,kakšne so danes možnosti neviht v ljubljani,weather_query,9
+92,950,kakšno je vreme v ljubljani,weather_query,9
+93,3856,bo jutri sončno,weather_query,9
+94,10183,kaj so žlikrofi,cooking_recipe,3
+95,1433,prosim zmanjšaj glasnost,audio_volume_down,1
+96,15831,pošlji novo spletno sporočilo za,email_sendemail,5
+97,12616,želim rezervirati rajdhani karto za vlak oz velenja v celje,transport_ticket,8
+98,16281,prosim pošlji elektronsko sporočilo juretovemu ravnatelju v povezavi s sestankom ki ga imamo jutri,email_sendemail,5
+99,9129,izbriši naslednji dogodek v koledarju,calendar_remove,2
+100,6153,povej mi kakšno je vreme sedaj,weather_query,9
+101,1258,povej mi vremenske podatke za petnajsti marec,weather_query,9
+102,4749,ali bo deževalo,weather_query,9
+103,10187,kaj je dober nadomestek za maslo,cooking_recipe,3
+104,16129,pošlji sari zahvalno elektronsko sporočilo,email_sendemail,5
+105,1322,pridobi današnjo vremensko napoved,weather_query,9
+106,1314,ali bo danes vreme lepo,weather_query,9
+107,17127,odgovori na mamino poštno sporočilo o strani z recepti,email_sendemail,5
+108,15962,zaženi outlook moram poslati spletno sporočilo,email_sendemail,5
+109,7700,očisti moj celotni koledar,calendar_remove,2
+110,16792,hi pošlji sporočilo ljubim te moji ženi,email_sendemail,5
+111,3555,ali bo zvečer vetrovno,weather_query,9
+112,1780,upam da je tam sončno vreme,weather_query,9
+113,14991,alexa pokaži vreme v našem mestu,weather_query,9
+114,6715,izbriši dogodek robertove poroke za drugo leto,calendar_remove,2
+115,16516,odgovori na to spletno sporočilo,email_sendemail,5
+116,6152,prosim najdi današnjo napoved,weather_query,9
+117,7092,izbriši dogodke na koledarju,calendar_remove,2
+118,9864,nadaljuj s knjigo smrkci,play_audiobook,6
+119,2634,znižaj glasnost zvočnikov,audio_volume_down,1
+120,2855,ali danes dežuje,weather_query,9
+121,1534,kakšno je vreme na bledu,weather_query,9
+122,16755,pošlji glasovno e-pošto,email_sendemail,5
+123,300,kakšna je napoved za danes,weather_query,9
+124,9984,daj mi recept za zrezek,cooking_recipe,3
+125,5230,ali naj vzamem kapo danes,weather_query,9
+126,3619,kakšno je vreme v sežani,weather_query,9
+127,10018,kako spečeš jagenjčka,cooking_recipe,3
+128,10130,na kateri temperaturi moram peči piškote,cooking_recipe,3
+129,16566,pošlji elektronsko sporočilo uslužbencu glede delovnega projekta,email_sendemail,5
+130,7283,odstrani moj sestanek ob pol dveh,calendar_remove,2
+131,16942,prek mobilnih telefonov,email_sendemail,5
+132,1863,ali imam nastavljene kakšne alarme,alarm_query,0
+133,16417,prosim pošlji naslednje elektronsko sporočilo stricu janezu da bom prišel,email_sendemail,5
+134,11657,kdaj je na sporedu izbrisana,recommendation_movies,7
+135,2346,kakšna je trenutna temperatura v kopru,weather_query,9
+136,5617,spremeni časovni pas iz irskega na moskovski,datetime_convert,4
+137,4128,ali imam trenutno nastavljene kakšne alarme,alarm_query,0
+138,8713,odpovej kosilo v restavraciji za petindvajsetega marca,calendar_remove,2
+139,9757,želim nadaljevati s svojo zvočno knjigo,play_audiobook,6
+140,10191,kako naredim piščančjo obaro,cooking_recipe,3
+141,7913,odstrani ponedeljkov dogodek,calendar_remove,2
+142,17155,odgovori na antonovo elektronsko sporočilo,email_sendemail,5
+143,12131,rezerviraj mi povratno vožnjo z vlakom iz ljubljane do celja,transport_ticket,8
+144,6996,izbriši naslednji dogodek,calendar_remove,2
+145,8380,živjo siri prekliči karkoli je naslednje na mojem urniku,calendar_remove,2
+146,10124,kako jaz naredim piškote z arašidovim maslom,cooking_recipe,3
+147,16980,pošlji elektronsko sporočilo nekomu,email_sendemail,5
+148,12401,rezerviraj mi vlak ki gre jutri iz postaje postojna v katerokoli mesto oddaljeno več kot dvesto milj,transport_ticket,8
+149,859,vremenska napoved,weather_query,9
+150,9989,kako naj se naučim kuhati,cooking_recipe,3
+151,16004,živjo želim poslati elektronsko sporočilo prijatelju,email_sendemail,5
+152,1645,ali imam kaj nastavljenih alarmov,alarm_query,0
+153,5935,danes rabim s sabo dežnik,weather_query,9
+154,6917,odstrani dogodke,calendar_remove,2
+155,10165,kako dolgo kuham trdo kuhano jajce,cooking_recipe,3
+156,10102,pokaži mi kako speči lazanjo,cooking_recipe,3
+157,16015,prosim začni elektronsko sporočilo za jasno,email_sendemail,5
+158,17031,pošlji sporočilo moji mami da načrtujem izlet in jo obiskati vprašaj jo kakšno bo vreme da vem kaj spakirati,email_sendemail,5
+159,7681,izbriši vse moje preglede pri doktor novaku ta teden,calendar_remove,2
+160,8971,za teden dni od danes naprej odpovej vse obveznosti,calendar_remove,2
+161,7837,vse izbriši,calendar_remove,2
+162,7986,ali lahko izbrišeš to večerno zabavo iz dogodkov,calendar_remove,2
+163,5801,misliš da lahko obujem natikače ali naj obujem superge ob sedmih zvečer,weather_query,9
+164,823,kakšno je vreme kjer se danes nahajam,weather_query,9
+165,5430,ali bo zvečer dovolj mrzlo za rokavice,weather_query,9
+166,8889,zbriši to,calendar_remove,2
+167,3692,prosim ponovi zadnji stavek iz tiste knjige,play_audiobook,6
+168,3935,ali je mrzlo zunaj,weather_query,9
+169,10127,pokaži mi recept za piškote,cooking_recipe,3
+170,6047,ali potrebujem zimsko jakno danes dopoldne,weather_query,9
+171,1689,kakšna je ta teden vremenska napoved,weather_query,9
+172,9842,ali lahko predvajaš datoteko,play_audiobook,6
+173,6606,najboljših deset filmov,recommendation_movies,7
+174,11765,učne igre,recommendation_movies,7
+175,3483,kakšno je danes vreme doma,weather_query,9
+176,5586,ali potrebujem dežne škornje,weather_query,9
+177,980,preglasno je lahko prosim utišaš glasbo,audio_volume_down,1
+178,16508,dodaj novi kontakt in pošlji elektronsko sporočilo,email_sendemail,5
+179,4167,znižaj glasnost za polovico,audio_volume_down,1
+180,3802,pokaži mi jutrišnje vreme za maribor,weather_query,9
+181,9963,nenavedne stvari ki jih ljudje želijo vedeti,cooking_recipe,3
+182,3807,vreme v kopru ta teden,weather_query,9
+183,6005,ali bo vetrovno danes,weather_query,9
+184,16312,pošlji elektronsko sporočilo francu v službo,email_sendemail,5
+185,12069,siri kateri filmi se predvajajo v celjskem kinu,recommendation_movies,7
+186,3548,kdaj bo spet snežilo,weather_query,9
+187,14349,google kakšna je zunaj temperatura,weather_query,9
+188,9748,nadaljuj z jankom in metko,play_audiobook,6
+189,16060,odpiši na e-pošto moje banke in potrdi da sem plačal kredit in obresti,email_sendemail,5
+190,16507,pošlji mi elektronsko sporočilo na novi elektronski naslov,email_sendemail,5
+191,5869,kakšna je danes napoved za strunjan,weather_query,9
+192,10024,najdi recept za goveji stroganoff,cooking_recipe,3
+193,8544,počisti vse moje dogodke v koledarju,calendar_remove,2
+194,8109,odstrani naslednji dogodek iz mojega koledarja,calendar_remove,2
+195,16631,odgovoriti moram na to elektronsko sporočilo,email_sendemail,5
+196,327,nedelja,weather_query,9
+197,10215,pokaži rezultate za kuhanja lazanje s spleta,cooking_recipe,3
+198,4743,hej google povej mi kateri alarmi so nastavljeni zame,alarm_query,0
+199,5078,ali potrebujem plašč,weather_query,9
+200,4294,mi lahko poveš o opozorilih ki sem jih nastavil,alarm_query,0
+201,16715,prosim pošlji elektronsko sporočilo janezu povej da sem na dopustu,email_sendemail,5
+202,16831,pošlji povabilo majdi pošlji elektronsko sporočilo,email_sendemail,5
+203,2705,znižaj glasnost radia,audio_volume_down,1
+204,15981,odgovori na marijino e-pošto,email_sendemail,5
+205,6904,izbriši nego trate naslednji mesec,calendar_remove,2
+206,16119,jani pošlji pomoč,email_sendemail,5
+207,4214,spremeni uro na centralni časovni pas iz mojega trenutnega časovnega pasu,datetime_convert,4
+208,9177,odstranite dogodek izlet,calendar_remove,2
+209,9672,nadaljuj s predvajanjem ameriški bogovi,play_audiobook,6
+210,5731,ali je deževen in nevihten dan,weather_query,9
+211,9699,začni predvajati zvočno knjigo zgodba o dveh mestih od kjer sem prenehal,play_audiobook,6
+212,648,ali mi lahko poveš katere alarme sem nastavila,alarm_query,0
+213,9770,predvajaj atila v emoni čez trideset minut,play_audiobook,6
+214,791,pokaži mi najvišjo temperaturo ta teden,weather_query,9
+215,7342,preveri dogodke v koledarju in odstrani naslednji dogodek,calendar_remove,2
+216,9944,želim recept za tacos,cooking_recipe,3
+217,8927,izbriši vse dogodke iz mojega koledarja,calendar_remove,2
+218,16472,prosim pošlji spletno sporočilo na naslednji spletni naslov hwu afna gmail pika com,email_sendemail,5
+219,10054,kateri so najboljši recepti za pesto,cooking_recipe,3
+220,7036,izprazni koledar za ta teden,calendar_remove,2
+221,12130,grem z vlakom v ljubljano,transport_ticket,8
+222,10219,kaj potrebujem za pohane šnite,cooking_recipe,3
+223,2895,znižaj glasnost zvočnikov,audio_volume_down,1
+224,9727,znova zaženi zvočno knjigo,play_audiobook,6
+225,11771,oli kateri filmi so trenutno na sporedu,recommendation_movies,7
+226,3355,ali bo zjutraj megla,weather_query,9
+227,16837,sestavi to spletno sporočilo za ta elektronski naslov,email_sendemail,5
+228,1729,povej mi prosim če bo v petek ta teden sončno brez oblakov,weather_query,9
+229,7062,prosim izbriši dogodke iz mojega koledarja,calendar_remove,2
+230,7075,na koledarju prosim zbriši naslednji dogodek,calendar_remove,2
+231,2616,ali bom moral skrbeti da bo plug zakopal moj avto na dovozu v torek,weather_query,9
+232,4140,kdaj bo temperatura spet nad deset stopinj,weather_query,9
+233,16425,ustvari novo sporočilo za roberta v službi kdaj konča z delom,email_sendemail,5
+234,1190,če je polnoč v ljubljani koliko je ura v pekingu,datetime_convert,4
+235,5778,kakšno je vreme,weather_query,9
+236,16867,piši mojim prijateljem,email_sendemail,5
+237,9195,odstrani ta dogodek iz mojega koledarja obvestilo,calendar_remove,2
+238,16439,tu je e-pošta ki jo pošlji prijatelju,email_sendemail,5
+239,12241,obiščite amtrak dot com za nakup vstopnic,transport_ticket,8
+240,4071,znižaj glasnost prosim,audio_volume_down,1
+241,17124,odpri e-pošto da jo pošljem očetu,email_sendemail,5
+242,2064,kakšno bo vreme ta teden,weather_query,9
+243,650,nastaviti moram alarm koliko alarmov imam nastavljenih,alarm_query,0
+244,5535,če dežuje ne bom šel na delo,weather_query,9
+245,8161,odstrani plan za zabavo,calendar_remove,2
+246,8256,odstrani vse načrtovane dogodke v mojem koledarju,calendar_remove,2
+247,6971,odpovej dogodek,calendar_remove,2
+248,4916,desetdnevna napoved za ljubljano,weather_query,9
+249,10184,koliko sladkorja gre v sladek čaj,cooking_recipe,3
+250,16149,hitro odgovori jaku,email_sendemail,5
+251,9870,rad bi poslušal otok zakladov od roberta louisa stevensona,play_audiobook,6
+252,6574,gobalno segrevanje,weather_query,9
+253,17014,odgovori na elektronsko sporočilo,email_sendemail,5
+254,16234,moram odgovoriti na matejino spletno sporočilo in povedati da bom pozna,email_sendemail,5
+255,7354,mi lahko poveš jutrišnje vreme za primorsko,weather_query,9
+256,10235,prižgi plinski štedilnik nastavi plamen daj sestavine v ekonom lonec in segrevaj dokler se sestavine ne skuhajo,cooking_recipe,3
+257,2736,ali trenutno dežuje,weather_query,9
+258,10193,kako skuhati rakovo meso,cooking_recipe,3
+259,15107,kateri film priporočaš nocoj,recommendation_movies,7
+260,16475,prosim pošlji to elektronsko sporočilo jerneju,email_sendemail,5
+261,5616,nastavi na greenwiški srednji čas,datetime_convert,4
+262,15876,pošlji kopijo računa po elektronski pošti mecky,email_sendemail,5
+263,7821,odstrani vse opomnike iz koledarjev,calendar_remove,2
+264,8950,poišči opomnik in ga zbriši,calendar_remove,2
+265,5460,ali moram zdajle vzeti s seboj dežnik,weather_query,9
+266,8526,odstrani probni sestanek z mojega koledarja,calendar_remove,2
+267,9791,predvajaj dan ljubezni iz zvočne knjige,play_audiobook,6
+268,9890,začni znova bajonetni napad,play_audiobook,6
+269,5936,ali danes potrebujem klobuk,weather_query,9
+270,7133,ne bom se udeležil poroke desetega zato jo odstrani iz mojega koledarja,calendar_remove,2
+271,15941,prosim odgovori na spletna sporočila,email_sendemail,5
+272,15896,poveži jan afna gmail pika com z janom v kontaktih,email_sendemail,5
+273,2050,preveri vreme v mestu maribor,weather_query,9
+274,5956,ali moram obuti zimske škornje ko grem v trgovino,weather_query,9
+275,9894,ponovno predvajaj upanje v težkih časih,play_audiobook,6
+276,1339,kateri alarmi so nastavljeni zjutraj,alarm_query,0
+277,15832,pošlji elektronsko sporočilo kakor sledi,email_sendemail,5
+278,8257,odstrani vse prihajajoče dogodke prosim,calendar_remove,2
+279,15803,pošlji e-pošto moji sestri o maminem rojstnem dnevu jana moramo razmisliti o prireditvi zabave v parku,email_sendemail,5
+280,12379,rezerviraj karto za vlak od litije do polja,transport_ticket,8
+281,10109,rabim pomoč pri peki palačink,cooking_recipe,3
+282,16557,odgovori imenu,email_sendemail,5
+283,10207,prosim razloži rižev recept,cooking_recipe,3
+284,4469,bom danes potreboval jakno,weather_query,9
+285,9945,najdi najbolj priljubljen recept za tacose,cooking_recipe,3
+286,6459,kakšno je danes zunaj vreme ali je oblačno,weather_query,9
+287,7621,odstrani vse moje dogodke s koledarja,calendar_remove,2
+288,4169,lahko prosim preveriš vreme v kopru,weather_query,9
+289,11735,oli ali je petelinji zajtrk za kaj,recommendation_movies,7
+290,16682,napiši mejl mateju v vsebino napiši rad bi videl avto ki ga prodajaš se lahko dogovoriva za termin ogleda pošlji,email_sendemail,5
+291,12589,mi lahko rezerviraš vozovnico za vlak v metliko,transport_ticket,8
+292,10140,prenesi aplikacijo za kuhanje,cooking_recipe,3
+293,15992,pošlji spletno sporočilo asji maršič moje naboljše želje in priponka delopdf,email_sendemail,5
+294,7252,prestavi zabavo na četrtek,calendar_remove,2
+295,5510,kolikšna je časovna razlika med tukaj in tam,datetime_convert,4
+296,239,ali v izoli dežuje,weather_query,9
+297,6903,izbriši zobozdravniški pregled naslednji teden,calendar_remove,2
+298,2340,povej mi kakšno je trenutno vreme v ljubljani,weather_query,9
+299,259,preglasen si,audio_volume_down,1
+300,9037,označi vse preostale dogodke danes kot izbrisane,calendar_remove,2
+301,8637,ali lahko prekličeš naslednji dogodek na mojem koledarju,calendar_remove,2
+302,16257,pošlji elektronsko sporočilo moji ženi o vremenu za naslednji teden,email_sendemail,5
+303,7173,zbriši,calendar_remove,2
+304,5331,časovni pas med indijo in združenimi državami,datetime_convert,4
+305,4051,ali sneži trenutno,weather_query,9
+306,12191,rezerviraj vozovnico za vlak ki iz kopra odpelje do celja,transport_ticket,8
+307,8726,izbriše vse dogodke,calendar_remove,2
+308,17067,odgovori na spletna sporočila od petra,email_sendemail,5
+309,9995,kako dolgo traja preden voda zavre,cooking_recipe,3
+310,1037,katere alarme imam nastavljene za četrtek,alarm_query,0
+311,15780,pošlji elektronsko sporočilo karolini s pozdravi in če mi lahko sporoči kaj je novega glede zadnjega projekta pozdrav tomaž,email_sendemail,5
+312,3303,kakšno je ta teden vreme,weather_query,9
+313,3403,ali bo sončno ta vikend,weather_query,9
+314,9731,predvajaj da vincijevo šifro,play_audiobook,6
+315,7063,odstrani v koledarju vse moje dogodke,calendar_remove,2
+316,4706,kakšna je danes napoved v mojem kraju,weather_query,9
+317,10155,kako skuham špagete s piščancem,cooking_recipe,3
+318,15856,pošlji elektronsko sporočilo na trenutni email naslov,email_sendemail,5
+319,10122,kateri je dober recept za tortilje,cooking_recipe,3
+320,9847,predvajaj album avdio knjiga,play_audiobook,6
+321,12500,mi lahko za naslednjo soboto prosim rezerviraš karto za vlak v ljubljano,transport_ticket,8
+322,16567,pošlji elektronsko sporočilo očetu glede popravila mojega avta,email_sendemail,5
+323,8833,počisti moj urnik za preostanek dneva,calendar_remove,2
+324,11984,oli kaj je na sporedu v koloseju,recommendation_movies,7
+325,5440,ali lahko grem zdaj brez plašča,weather_query,9
+326,14351,kakšna je povprečna temperatura v marcu za slovenijo in kako se primerja z zadnjimi desetimi leti,weather_query,9
+327,15875,pošlji elektronsko sporočilo janezu da sem na poti domov,email_sendemail,5
+328,9917,kaj potrebujem za pico,cooking_recipe,3
+329,9981,skuhaj mi nekaj testenin s sirom in medom,cooking_recipe,3
+330,16868,pošlji e-pošto moji družini,email_sendemail,5
+331,5464,ali potrebujem hlače,weather_query,9
+332,16623,pošlji spletno sporočilo telekomu o mojih težavah s servisom,email_sendemail,5
+333,8471,odstrani vse dogodke v zadnjem mesecu s koledarja,calendar_remove,2
+334,3736,prosim utišaj glasnost zvočnika,audio_volume_down,1
+335,12725,najdi mi poceni karto za vlak do kopra,transport_ticket,8
+336,9094,izbriši načrtovan sestanek z janezom enaintridesetega marca,calendar_remove,2
+337,9038,odstrani sestanek v celju,calendar_remove,2
+338,5036,kako vroče je danes,weather_query,9
+339,1036,ali je moj alarm nastavljen za jutri,alarm_query,0
+340,4593,obvesti me o prihajajočih alarmih,alarm_query,0
+341,5417,kakšno bo danes,weather_query,9
+342,5534,ali je oblačno vreme,weather_query,9
+343,10008,siri povej kako skuhati zelenjavo,cooking_recipe,3
+344,15925,pošlji elektronsko sporočilo družini,email_sendemail,5
+345,9832,nadaljuj predvajanje to so gadi kjer sem ostal,play_audiobook,6
+346,1800,ali misliš da bo deževalo danes,weather_query,9
+347,2039,danes je prijetno,weather_query,9
+348,16690,odgovori na novo sporučilo juretu,email_sendemail,5
+349,5008,ali potrebujem jakno danes popoldne,weather_query,9
+350,12803,prosim rezerviraj karto za vlak do ljubljane,transport_ticket,8
+351,5506,povej mi če je alarm nastavljen za zjutraj,alarm_query,0
+352,7696,izbriši sestanek četrtega oktobra ob dvanajstih,calendar_remove,2
+353,12351,rezerviraj vozovnico za vlak spalnik v lendavo za naslednji teden,transport_ticket,8
+354,4437,ali lahko obujem natikače,weather_query,9
+355,1080,daj mi obvestilo za jutrišnje vreme,weather_query,9
+356,830,živijo zunaj je prevroče kakkšna je danes popoldne temperatura,weather_query,9
+357,604,kakšno bo vreme naslednji teden,weather_query,9
+358,4435,kateri dan bo sončno,weather_query,9
+359,5932,preklopi na ljubljanski čas,datetime_convert,4
+360,4072,lahko to utišaš,audio_volume_down,1
+361,5971,kakšna je danes klima,weather_query,9
+362,10029,pri kateri temperaturi se peče krompir,cooking_recipe,3
+363,9758,rad bi začel to novo zvočno knjigo,play_audiobook,6
+364,1052,kakšna je možnost dežja danes,weather_query,9
+365,7869,izbriši dogodek iz koledarja,calendar_remove,2
+366,5890,naštej vse nastavljene alarme,alarm_query,0
+367,5303,alexa kakšno bo vreme dvajsetega marca dva tisoč sedemnajst,weather_query,9
+368,2872,imam nastavljene alarme,alarm_query,0
+369,17027,pošlji elektronsko sporočilo sandri,email_sendemail,5
+370,16626,pošlji krisu elektronsko pošto da bom pozen,email_sendemail,5
+371,9913,katere sestavine rabim za paradižnikovo juho,cooking_recipe,3
+372,16497,pošlji prošnjo martinu,email_sendemail,5
+373,4466,sem za zjutraj nastavil katere koli alarme,alarm_query,0
+374,788,kakšna je trenutna temperatura,weather_query,9
+375,3469,tukaj je devet koliko je ura v sloveniji,datetime_convert,4
+376,5452,ali danes potrebujem vzeti dežnik,weather_query,9
+377,8242,oliver izbriši vse iz mojega koledarja do konca leta,calendar_remove,2
+378,7363,pojdi na koledar in izbriši tretji dogodek sedemindvajsetega marca dva tisoč sedemnajst,calendar_remove,2
+379,16939,pošlji moj odgovor janezu,email_sendemail,5
+380,9990,kako naj se naučim kuhanja,cooking_recipe,3
+381,12561,rezerviraj vozovnico za vlak za krško v petek štirinajstega aprila,transport_ticket,8
+382,12613,rezervirati želim karto za vlak od ljubljane do maribora,transport_ticket,8
+383,2915,znižaj glasnost zvočnikov,audio_volume_down,1
+384,12193,rezerviraj vozovnico za vlak iz sežane v lendavo ki prečka divačo,transport_ticket,8
+385,10108,kako je najbolje kuhati jajca,cooking_recipe,3
+386,9744,nadaljuj s predvajanjem avdia,play_audiobook,6
+387,2308,ali je deset dopoldne v vzhodnem standardnem času koliko je trenutno ura v pacifiškem standardnem času,datetime_convert,4
+388,6702,današnje vreme,weather_query,9
+389,12847,ali mi lahko rezerviraš vozovnico za vlak ki jutri zjutraj iz ljubljane odpelje do maribora,transport_ticket,8
+390,9800,odpri ime pesmi,play_audiobook,6
+391,661,prosim povej mi koliko bo ura tukaj v avstraliji ob šestih popoldne,datetime_convert,4
+392,8545,izbriši moj koledar,calendar_remove,2
+393,11870,kateri filmi se trenutno predvajajo v moji okolici,recommendation_movies,7
+394,16189,pošlji spletno sporočilo mojemu stricu o vremenu,email_sendemail,5
+395,10163,kako pripraviti puranje mesne kroglice,cooking_recipe,3
+396,17066,odgovori na e-pošto ki sem jo dobil od marka,email_sendemail,5
+397,1329,ali je danes normalno vreme,weather_query,9
+398,6143,kakšno bo vreme čez dva tedna,weather_query,9
+399,824,ok google kakšno je danes vreme kjer sem trenutno,weather_query,9
+400,16917,prosim odgovori na to sporočilo,email_sendemail,5
+401,5845,alexa ali potrebuj sončno kremo danes,weather_query,9
+402,16849,pošlji elektronsko sporočilo suzani in napiši da,email_sendemail,5
+403,5724,kakšno bo danes ponoči vreme,weather_query,9
+404,4451,ali imam jaz alarm nastavljen za danes,alarm_query,0
+405,17163,pošlji nujno sporočilo sandy,email_sendemail,5
+406,9781,predvajaj upanje v težkih časih,play_audiobook,6
+407,3691,kakšna je trenutna temperatura v ljubljani,weather_query,9
+408,1104,kakšno je trenutno vreme v sežani,weather_query,9
+409,12157,priskrbi mi vozovnico za vlak,transport_ticket,8
+410,17026,olly pošlji mami spletno sporočilo da jo opomniš da se danes dobiva na kosilu,email_sendemail,5
+411,10059,kaj je zamenjava za margarino,cooking_recipe,3
+412,9799,odpri ime albuma,play_audiobook,6
+413,9975,kaj je dober veganski nadomestek za jajce,cooking_recipe,3
+414,12894,pomagaj mi rezervirati vozovnico za vlak,transport_ticket,8
+415,1307,kakšno je danes tukaj podneblje,weather_query,9
+416,9801,odpri besedilo ime,play_audiobook,6
+417,12490,mi lahko za petek zjutraj rezerviraš sedež na vlaku do maribora,transport_ticket,8
+418,16378,zdaj je alexa poslala mami e-poštno sporočilo,email_sendemail,5
+419,12357,ali mi lahko rezerviraš vozovnico za vlak,transport_ticket,8
+420,567,kako toplo je,weather_query,9
+421,5112,ali pojutrišnjem potrebujem dežni plašč,weather_query,9
+422,3612,saj ne bo deževalo kajne,weather_query,9
+423,16246,pošlji spletno sporočilo na jana afna a. o. l. pika com in dodaj kot novi stik,email_sendemail,5
+424,4382,kakšno je vreme za naslednji teden v strunjanu,weather_query,9
+425,10167,najdi recept za jabolčno pito,cooking_recipe,3
+426,4213,spremeni gorski v pacifiški čas,datetime_convert,4
+427,9826,ponovno predvajaj pesem z avdio knjige madonne,play_audiobook,6
+428,5538,ali bom danes rabila zaščito pred soncem,weather_query,9
+429,655,kakšno je trenutno vreme v sežani,weather_query,9
+430,8277,odstrani vse napovedane sestanke s kolektorjem iz koledarja,calendar_remove,2
+431,4761,ali bo snežilo zvečer,weather_query,9
+432,9724,nadaljuj predvajalnik zvočne knjige,play_audiobook,6
+433,11722,povej mi za kakšno romantično komedijo ki se predvaja po ljubljanskih kinematografih,recommendation_movies,7
+434,9046,za dvajseti teden izbriši vse inštrukcije,calendar_remove,2
+435,10066,povej mi recept za krompirjev pire,cooking_recipe,3
+436,7389,prosim odstrani večerjo ta petek ob devetih zvečer,calendar_remove,2
+437,6121,kako mrzlo vreme je zdaj,weather_query,9
+438,16590,google moram odgovoriti na tisto zadnje spletno sporočilo,email_sendemail,5
+439,1654,kako mrzlo bo naslednji torek,weather_query,9
+440,336,ali sneži v ljubljani,weather_query,9
+441,16702,najdi jernejino najnovejše elektronsko sporočilo da ji lahko odogovorim,email_sendemail,5
+442,7079,prosim odstrani vse predmete iz mojega koledarja,calendar_remove,2
+443,11746,olly kateri filmi se predvajajo danes zvečer ob desetih v kinu bežigrad,recommendation_movies,7
+444,8577,odstrani vse iz koledara,calendar_remove,2
+445,3965,pokaži mi seznam alarmov,alarm_query,0
+446,6022,ali je danes miren večer,weather_query,9
+447,2065,kakšno je vreme ta teden,weather_query,9
+448,11791,kdaj je na sporedu nov sci fi film,recommendation_movies,7
+449,3032,oli kakšno je trenutno vreme,weather_query,9
+450,181,ali trenutno dežuje,weather_query,9
+451,9825,nadaljuj s pesmijo iz zvočne knjige michaela jacksona,play_audiobook,6
+452,9789,nadaljuj zadnjo predvajano zvočno knjigo,play_audiobook,6
+453,10021,pokaži mi sestavine,cooking_recipe,3
+454,4789,kakšno je danes vreme,weather_query,9
+455,16408,alexa napiši email,email_sendemail,5
+456,3033,kakšno je trenutno vreme,weather_query,9
+457,1725,kakšne bodo vremenske razmere naslednjih sedem dni,weather_query,9
+458,7328,izbriši vse dogodke in vsebino iz mojega koledarja,calendar_remove,2
+459,11855,prosim priporoči mi film,recommendation_movies,7
+460,1857,zmanjšaj,audio_volume_down,1
+461,12271,mi lahko rezerviraš vozovnico za vlak do jesenic za jutri na katerem koli vlaku,transport_ticket,8
+462,4474,ali potrebujem dežni plašč,weather_query,9
+463,7178,prosim pošlji glasovno sporočilo v g. novakovo pisarno o sestanku prvega februarja dva tisoč sedemnajst ob petih popoldne,email_sendemail,5
+464,6762,s koledarja odstrani junijske počitnice,calendar_remove,2
+465,1391,olly ali bo lepo v soboto,weather_query,9
+466,10057,kaj potrebujem za svinjsko pečenko,cooking_recipe,3
+467,16174,pošlji elektronsko sporočilo šefu ne počutim se dobro imam bolniško,email_sendemail,5
+468,9796,ponovno zaženi alamut,play_audiobook,6
+469,11671,povej mi kateri filmi se nocoj vrtijo na obali,recommendation_movies,7
+470,301,kakšno je vreme,weather_query,9
+471,9854,nadaljuj s ponovnim predvajanjem zvočnega posnetka lom glasu,play_audiobook,6
+472,16213,pošlji elektronsko sporočilo očetu kakšno je vreme ta teden,email_sendemail,5
+473,5077,izgleda mrzlo,weather_query,9
+474,2247,ali bo sredo še vedno deževno in hladno,weather_query,9
+475,5789,danes je sončno,weather_query,9
+476,16950,novo elektronsko sporočilo za kontakt,email_sendemail,5
+477,10002,pokaži kako naj naredim nizkokaloričen zajtrk,cooking_recipe,3
+478,1968,ali zunaj dežuje,weather_query,9
+479,16783,moji mami pošlji tedensko vremensko napoved,email_sendemail,5
+480,374,povej mi če o vremenu drži naslednje,weather_query,9
+481,16887,odgovori na to elektronsko sporočilo,email_sendemail,5
+482,5818,kakšno je vreme v domačem kraju,weather_query,9
+483,2257,ali sneži trenutno,weather_query,9
+484,8180,ali lahko izbrišeš vse dogodke v mojem koledarju,calendar_remove,2
+485,4211,misliš da bo v reduče oblečem kratke hlače ta teden,weather_query,9
+486,1263,koliko alarmov imam,alarm_query,0
+487,4251,ali je pretoplo da nosim volnen pulover danes,weather_query,9
+488,15907,zahvali se janezu kot odgovor na njegovo zadnje sporočilo,email_sendemail,5
+489,6026,temperatura,weather_query,9
+490,7158,prosim odstrani vse vnose označene na koledarju,calendar_remove,2
+491,8009,spremeni moj načrt izbriši moj naslednji dogodek,calendar_remove,2
+492,12199,poišči karto za vlak do kopra,transport_ticket,8
+493,8108,izbriši naslednji dogodek na koledarju,calendar_remove,2
+494,15887,prosim pošlji elektronsko sporočilo mojemu možu,email_sendemail,5
+495,12562,poišči mi vozovnico za vlak do ljubljane štirinajstega aprila,transport_ticket,8
+496,4423,kakšno je ta teden vreme,weather_query,9
+497,16188,pošlji spletno sporočilo za rohanu da se dobiva danes zvečer,email_sendemail,5
+498,16429,prosim pošlji mami elektronsko sporočilo da lahko pridem naslednji teden,email_sendemail,5
+499,4785,grem lahko ven v kratkih hlačah,weather_query,9
+500,11694,kakšni dobri filmi,recommendation_movies,7
+501,16964,napiši spletno sporočilo družinskemu članu in ga preberi,email_sendemail,5
+502,522,ni možno,weather_query,9
+503,5846,ali naj danes vzamem dodatno vodo s seboj,weather_query,9
+504,9906,predvajaj to avdioknjigo,play_audiobook,6
+505,10192,recept za špagete,cooking_recipe,3
+506,9880,knjigo prosim,play_audiobook,6
+507,16433,prosim pošlji moji družini e-sporočilo ki pravi naslednje,email_sendemail,5
+508,16181,pošlji elektronsko sporočilo bučki da se želim z njo sestati v pisarni jutri ob dveh popoldne,email_sendemail,5
+509,10062,katera hrana je dobra,cooking_recipe,3
+510,3971,oli kakšno je trenutno vreme,weather_query,9
+511,2139,kakšno je vreme zunaj,weather_query,9
+512,6972,odstrani dogodek,calendar_remove,2
+513,12833,alexa rezerviraj mi vozovnico za vlak to popoldne v ljubljano,transport_ticket,8
+514,8370,hej siri izbriši vse moje današnje sestanke na koledarju,calendar_remove,2
+515,1082,preglasno je prosim ponovi to tišje,audio_volume_down,1
+516,863,moji alarmi,alarm_query,0
+517,3556,ali bo sneg ponehal pred sedmo jutri zjutraj,weather_query,9
+518,4531,kdaj bo naslednji topel dan,weather_query,9
+519,9667,prosim nadaljuj predvajanje vojna in mir leva tolstoja,play_audiobook,6
+520,1543,prosim povej mi ali bo ta vikend sneg,weather_query,9
+521,12138,rezerviraj mi vozovnice za vlak,transport_ticket,8
+522,5843,alexa ali potrebujem dežnik danes,weather_query,9
+523,8613,izbriši moj zadnji dogodek,calendar_remove,2
+524,16043,ošlji janezu email za finančno poročilo dvatisoč sedemnajst,email_sendemail,5
+525,16686,pošlji elektronsko sporočilo na novi naslov,email_sendemail,5
+526,8003,za petek odpovej moj sestanek,calendar_remove,2
+527,17154,prosim odgovori na to elektronsko pošto,email_sendemail,5
+528,5203,osem zjutraj po ljubljanskem času je koliko v vzhodnem,datetime_convert,4
+529,4450,kdaj me bo moj alarm zbudil,alarm_query,0
+530,777,obvesti me ko temperatura zunaj doseže trideset stopinj,weather_query,9
+531,12753,želim vozovnico za vlak od ljubljane do maribora,transport_ticket,8
+532,7760,odstrani ta dogodek iz mojega koledarja,calendar_remove,2
+533,17126,odgovori na pavlovo elektronsko sporočilo,email_sendemail,5
+534,7642,pokaži mi vremensko napoved za naslednje tri dni,weather_query,9
+535,12197,poišči mi vozovnico za vlak v vuzenico,transport_ticket,8
+536,793,kakšne so možnosti toče ta teden,weather_query,9
+537,12643,priskrbi mi vozovnico za skupinski prevoz ob petih popoldne do ljubljanskih most,transport_ticket,8
+538,584,je ta teden možnost dežja,weather_query,9
+539,7984,za danes zbriši moj celotni koledar,calendar_remove,2
+540,9128,odstrani naslednji dogodek iz koledarja,calendar_remove,2
+541,6137,moram nositi plašč zunaj,weather_query,9
+542,9092,ponastavi vse dogodke v koledarju,calendar_remove,2
+543,6970,dogodek,calendar_remove,2
+544,17044,sestavi e pošto za mateja,email_sendemail,5
+545,5504,sem nastavil hišni alarm,alarm_query,0
+546,5585,ali danes potrebujem sončno kremo,weather_query,9
+547,7996,izbriši prihajajoči dogodek na mojem koledarju,calendar_remove,2
+548,12332,za tretjega mi rezerviraj vozovnico za vlak do ljubljane ni mi mar kdaj,transport_ticket,8
+549,16509,odgovori na e-pošto,email_sendemail,5
+550,9740,nadaljuj zvočno knjigo,play_audiobook,6
+551,12292,karto za ljubljano,transport_ticket,8
+552,7434,odstrani naslednji dogodek na mojem koledarju,calendar_remove,2
+553,8969,odpovej prihajajoči dogodek iz prejšnje službe,calendar_remove,2
+554,5432,ali bo vroče čez dve uri,weather_query,9
+555,9041,izbriši rojstnodnevno zabavo,calendar_remove,2
+556,12272,rezerviraj vozovnico za katerikoli jutrišnji vlak do ljubljane,transport_ticket,8
+557,16674,pošlji elektronsko sporočilo na joejoe afna gmail pika kom,email_sendemail,5
+558,4504,ali je napovedano da bo deževalo v naslednjih dveh dneh,weather_query,9
+559,7132,želim da iz mojega koledarja izbrišeš poroko ki je desetega,calendar_remove,2
+560,3648,kakšno je vreme v radovljici,weather_query,9
+561,649,ali imam katere koli alarme nastavljene za danes,alarm_query,0
+562,16691,pošlji odgovor janezu,email_sendemail,5
+563,9848,nadaljuj zvočno knjigo pesem za prijatelje,play_audiobook,6
+564,4397,lahko govoriš tišje,audio_volume_down,1
+565,10136,pokaži mi kuharske spletne strani,cooking_recipe,3
+566,724,vremensko poročilo za ta teden,weather_query,9
+567,6884,izbriši sestanek jutri ob desetih dopoldne,calendar_remove,2
+568,12612,kupi mi karto za vlak od ljubljane do laškega,transport_ticket,8
+569,5334,katere alarme imam nastavljene,alarm_query,0
+570,10128,hočem recept za prebranec,cooking_recipe,3
+571,8281,odstrani vse dogodke iz mojega koledarja,calendar_remove,2
+572,10174,najdi dober recept za zrezek,cooking_recipe,3
+573,17129,odpri e-pošto za novo osebo prosim,email_sendemail,5
+574,9887,želim predvajati zvočno knjigo muca copatarica,play_audiobook,6
+575,5834,ali bo mrzlo naslednjih nekaj dni,weather_query,9
+576,15842,pošlji e-pošto prejemniku rajku,email_sendemail,5
+577,6728,odstrani zajtrk v slovenski hiši,calendar_remove,2
+578,9100,izbriši zdravniški pregled dvanajstega februarja,calendar_remove,2
+579,12164,a lahko rezerviraš vozovnico za vlak za mojega očeta,transport_ticket,8
+580,8332,odstrani mojo telovadbo za danes,calendar_remove,2
+581,4108,ali imam alarm ob štirih ponoči,alarm_query,0
+582,10116,siri kako speči piščanca na žaru,cooking_recipe,3
+583,3122,kaj naj oblečem je mrzlo zunaj,weather_query,9
+584,8638,ne potrebujem več zdravnika lahko izbrišeš dogodek,calendar_remove,2
+585,1936,ali dežuje v kopru,weather_query,9
+586,6080,ali bom potrebovala debel plašč danes po kosilu,weather_query,9
+587,5215,olly ali potrebujem sončno kremo,weather_query,9
+588,3304,kakšno je ta teden vreme,weather_query,9
+589,2706,znižaj volumen za dvajset procentov,audio_volume_down,1
+590,9828,nadaljuj predvajanje,play_audiobook,6
+591,12506,rezerviraj vozovnico za vlak v črnomelj,transport_ticket,8
+592,13401,kakšno bo vreme tri dni od danes naprej v petih velikih mestih blizu doma,weather_query,9
+593,9992,povej mi recept za kitajski riž,cooking_recipe,3
+594,16110,na vsa e-sporočila ki pridejo med deseto zvečer in sedmo zjutraj treba odgovoriti vsak dan,email_sendemail,5
+595,16404,pošlji elektronsko sporočilo tomažu,email_sendemail,5
+596,17068,odgovori na jernejevo e-pošto,email_sendemail,5
+597,16981,sporočilo poslano ažbetu,email_sendemail,5
+598,1556,prosim daj mi vremensko poročilo za ta teden,weather_query,9
+599,2051,povej mi današnje vremensko poročilo za ljubljano,weather_query,9
+600,10067,kako naredim krompirjev pire,cooking_recipe,3
+601,10153,najdi recept za piščanca alfredo,cooking_recipe,3
+602,12156,kupi vozovnico za vlak do,transport_ticket,8
+603,16558,odgovori na janezovo e-poštno sporočilo z ja lahko,email_sendemail,5
+604,904,kakšno bo vreme naslednji teden,weather_query,9
+605,5338,normalna temperatura,weather_query,9
+606,9939,kakšna mora biti temperatura olja za cvrenje ocvrtega krompirčka,cooking_recipe,3
+607,16537,sedaj moram napisati elektronsko sporočilo mojemu sodelavcu,email_sendemail,5
+608,4403,ali bom danes moral vzeti dežnik s seboj,weather_query,9
+609,1991,kakšno vreme je napovedano za danes,weather_query,9
+610,16058,odgovori janezu in povej da se bom udeležil zabave,email_sendemail,5
+611,9762,predvajaj martin krpan od frana levstika,play_audiobook,6
+612,4563,lahko spremeniš mojo časovno cono v osrednjo,datetime_convert,4
+613,5167,ali potrebujem danes popoldne vzeti dežnik v ljubljano,weather_query,9
+614,10103,pokaži mi posnetek kako skuhati špagete,cooking_recipe,3
+615,8296,počisti trenutni koledar,calendar_remove,2
+616,10000,kako se pošira jajce,cooking_recipe,3
+617,11900,predvajaj film ki mi bo všeč,recommendation_movies,7
+618,6736,odpovej vse dogodke v naslednjih dveh dneh,calendar_remove,2
+619,5124,ali je vroče ali hladno zunaj,weather_query,9
+620,10085,poglej različne recepte,cooking_recipe,3
+621,12309,želim rezervirati vozovnico za vlak,transport_ticket,8
+622,5143,prosim povej mi kakšno naj bi bilo vreme prihodnji teden v mariboru,weather_query,9
+623,10060,kako dolgo moram kuhati goveje prsi za medium,cooking_recipe,3
+624,3343,za kdaj je nastavljen moj alarm,alarm_query,0
+625,12653,kupi vozovnico za vlak do maribora,transport_ticket,8
+626,8371,olly dvajsetega pobriši moj koledar,calendar_remove,2
+627,16458,pošlji elektronsko sporočilo newmail afna gmail pika com,email_sendemail,5
+628,4790,kakšna je temperatura danes,weather_query,9
+629,12080,prosim preveri kateri filmi se vrtijo v bližnjih kinih,recommendation_movies,7
+630,4285,kakšna je najvišja temperatura za ta teden,weather_query,9
+631,3354,ali bo snežilo,weather_query,9
+632,1789,ali je hladno vreme,weather_query,9
+633,10188,kako dušim svinjska pleča,cooking_recipe,3
+634,4144,opomni me o mojih alarmih za danes,alarm_query,0
+635,9850,alexa nadaljuj s predvajanjem kačja dolina od mesta kjer sem zadnjič končal,play_audiobook,6
+636,16632,si poslal email na novi poštni naslov,email_sendemail,5
+637,15996,pošlji elektronsko sporočilo zaposlenim o jutrišnjem sestanku,email_sendemail,5
+638,10159,kako narediš jajca na oko,cooking_recipe,3
+639,10001,kako ustvariti pinjenec z mleka,cooking_recipe,3
+640,11786,petelinji zajtrk,recommendation_movies,7
+641,12900,priskrbi mi karto za vlak tretjega julija,transport_ticket,8
+642,5377,prosim preveri vreme za torek,weather_query,9
+643,5291,kakšna je zunaj trenutna temperatura,weather_query,9
+644,599,utišaj glasnost,audio_volume_down,1
+645,9950,poišči recept,cooking_recipe,3
+646,1008,ali bo slabo vreme v soboto,weather_query,9
+647,5466,ali moram uporabiti sončno kremo preden se dobim z mojim prijateljem za kosilo,weather_query,9
+648,12538,olly najdi mi najcenejšo vozovnico za vlak do španije,transport_ticket,8
+649,10121,kako narediti pečen riž,cooking_recipe,3
+650,9852,prični od moje zadnje seje knjige lestev do neba,play_audiobook,6
+651,7759,prosim odstrani ta dogodek iz mojega koledarja,calendar_remove,2
+652,6003,ali moram danes obleči topla oblačila,weather_query,9
+653,6453,najcenejša vozovnica do kopra iz postojne,transport_ticket,8
+654,9751,uporaba časovnih nastavitev,play_audiobook,6
+655,1663,časovna razlika med lagosom in barcelono,datetime_convert,4
+656,7361,prosim izbriši naslednji rojstnodnevni dogodek,calendar_remove,2
+657,2292,ali bo danes sončno,weather_query,9
+658,5344,ali je v sredo možnost snega,weather_query,9
+659,5944,povej mami da bom pozen danes zvečer,weather_query,9
+660,9178,odstrani vse dogodke šestindvajsetega decembra,calendar_remove,2
+661,8728,izbriši vse dogodke,calendar_remove,2
+662,5892,vreme v sloveniji je mrzlo,weather_query,9
+663,5662,bi moral nanesti sončno kremo,weather_query,9
+664,10068,kako dolgo se pripravlja krompirjev pire,cooking_recipe,3
+665,10040,kakšen je recept za piškote,cooking_recipe,3
+666,8476,prosim odstrani ta dogodek,calendar_remove,2
+667,2871,katere alarme imam nastavljene,alarm_query,0
+668,12664,vozovnici za vlak za dve osebi od ljubljane do maribora,transport_ticket,8
+669,17032,prosim pošlji janezu sporočilo do večera,email_sendemail,5
+670,16700,pojdi v moj gmail in klikni na novo sporočilo ko to narediš ti povem kaj želim da napišeš v to elektronsko sporočilo,email_sendemail,5
+671,3773,mi lahko poveš vremensko poročilo,weather_query,9
+672,16905,pošlji moji družini elektronsko sporočilo in jih obvesti o mojih rojstnodnevnih načrtih,email_sendemail,5
+673,16109,vsak dan odgovori na vsa spletna sporočila sprejeta med deseto uro zvečer in sedmo uro zjutraj,email_sendemail,5
+674,10042,kje lahko najdem recept za mavrične piškote,cooking_recipe,3
+675,7831,odstrani vse moje sestanke,calendar_remove,2
+676,16644,pripravi se da pošlješ sporočilo z odgovorom,email_sendemail,5
+677,1050,izklopi bas na avdiu,audio_volume_down,1
+678,605,kakšno naj bi bilo vreme v torek,weather_query,9
+679,9711,želim da previješ zvočni posnetek naprej in potem nadaljuješ,play_audiobook,6
+680,10056,kako skuhati testenine,cooking_recipe,3
+681,7327,izbriši vso vsebino mojega koledarja,calendar_remove,2
+682,1262,za kdaj je nastavljen moj alarm,alarm_query,0
+683,6048,ali bi moral nositi rokavice zvečer,weather_query,9
+684,2123,kakšno je vreme v kopru,weather_query,9
+685,11672,urnik filmov za nocoj,recommendation_movies,7
+686,16460,ali imam novi stik matej afna gmail pika com sestavi spletno sporočilo,email_sendemail,5
+687,9670,znova zaženi slovenija ima talent,play_audiobook,6
+688,9687,predvajaj sedem navad zelo uspešnih ljudi,play_audiobook,6
+689,5482,olly znižaj glasnost,audio_volume_down,1
+690,330,tiše,audio_volume_down,1
+691,6100,kateri domači alarmi so nastavljeni,alarm_query,0
+692,16548,pošlji elektronsko sporočilo mariji in ji napiši da sem na poti,email_sendemail,5
+693,9683,predvajaj knjigo,play_audiobook,6
+694,9668,želim poslušati avdioknjigo tisoč devetsto štiriinosemdeset kjer sem nehal,play_audiobook,6
+695,203,pokaži mi nastavljene alarme,alarm_query,0
+696,9779,predvajaj bobri,play_audiobook,6
+697,1018,kakšno bo danes vreme,weather_query,9
+698,9845,nadaljuj mojo trenutno zvočno knjigo,play_audiobook,6
+699,9858,moja izbira za predvajanje stvari iz zadnjega,play_audiobook,6
+700,8440,z mojega koledarja zbriši vse dogodke,calendar_remove,2
+701,2422,kakšno je trenutno vreme v ankaranu,weather_query,9
+702,5710,ali bom danes popoldne potreboval kremo za sončenje,weather_query,9
+703,12390,prinesi mi karto za vlak,transport_ticket,8
+704,17078,prosim pošlji službeno sporočilo mariji o spremembi časa sestanka,email_sendemail,5
+705,11957,kateri filmi se vrtijo blizu mene siri,recommendation_movies,7
+706,3026,kakšno bo vreme naslednji teden v uncu,weather_query,9
+707,9073,odstrani ta dogodek iz koledarja,calendar_remove,2
+708,16128,pošlji spletno sporočilo rajeshu,email_sendemail,5
+709,2429,stanje alarma,alarm_query,0
+710,16599,izbriši to spletno sporočilo,email_sendemail,5
+711,12523,mi lahko rezerviraš karto za vlak ki je cenejša od enega evra,transport_ticket,8
+712,6142,kakšna je dolgoročna napoved,weather_query,9
+713,8737,izprazni moj urnik za danes,calendar_remove,2
+714,97,bo deževalo,weather_query,9
+715,5041,vremenske razmere,weather_query,9
+716,5891,ali je nastavljen kakšen alarm in kateri so,alarm_query,0
+717,12517,lahko rezerviraš vozovnico za vlak za danes,transport_ticket,8
+718,1079,kakšno bo jutri vreme na tej lokaciji,weather_query,9
+719,10009,recept za obrok,cooking_recipe,3
+720,2671,lahko prosim preveriš če sem nastavil moj alarm za jutri zjutraj,alarm_query,0
+721,7545,izbriši celotni mesec maj,calendar_remove,2
+722,5700,ali lahko dam sušiti svoje perilo ven,weather_query,9
+723,10134,poišči recept za riž po tajsko,cooking_recipe,3
+724,509,katere alarme imam,alarm_query,0
+725,1437,pokaži mi moje alarme,alarm_query,0
+726,15748,pošlji marti spletno sporočilo in povej da je večer bil divji,email_sendemail,5
+727,10026,na googlu poišči način za pripravo jedi,cooking_recipe,3
+728,6007,naj zaprem okno preden odidem to popoldne,weather_query,9
+729,1390,olly kakšno bo vreme v soboto,weather_query,9
+730,13441,kakšna je današnja temperatura,weather_query,9
+731,8010,posodobi moj koledar in zbriši naslednji dogodek,calendar_remove,2
+732,1690,olly kakšna je vremenska napoved za ta teden,weather_query,9
+733,5120,preveri če je kak alarm ob petih zjutraj,alarm_query,0
+734,3294,kakšna je časovna razlika med osrednjem in vzhodnim,datetime_convert,4
+735,9780,ponovi dva brata,play_audiobook,6
+736,4105,ali bo deževalo naslednjih pet dni v kopru,weather_query,9
+737,1541,ne želim nositi dežnika naokrog ali bo danes deževalo,weather_query,9
+738,6171,bom potreboval jakno,weather_query,9
+739,10199,kako lahko naredimo golaž,cooking_recipe,3
+740,3310,kakšno je vreme v ljubljani,weather_query,9
+741,5269,trenutno je pet trideset popoldne v sloveniji kaj pa čas v angliji,datetime_convert,4
+742,10221,ustanovitev podjetja za predelavo hrane na domu ima prednosti in slabosti,cooking_recipe,3
+743,3141,govori tiše prosim,audio_volume_down,1
+744,15850,pošlji e-sporočilo na sjobs afna apple pika kom,email_sendemail,5
+745,15980,pošlji odgovor mateju,email_sendemail,5
+746,15830,pošlji to,email_sendemail,5
+747,1436,katere alarme imam,alarm_query,0
+748,10007,pokaži postopek priprave sladoleda,cooking_recipe,3
+749,1633,pokaži moje alarme,alarm_query,0
+750,9101,prosim iz mojega koledarja odstrani pregled pri zdravniku dvanajstega februarja ob devetih zjutraj,calendar_remove,2
+751,12510,poguglaj rezerviranje vozovnice za vlak,transport_ticket,8
+752,12763,rabim karto za vlak,transport_ticket,8
+753,16269,pošlji jožetu odgovor na pošto ki sem jo dobil danes zjutraj,email_sendemail,5
+754,16102,šefu pošlji spletno sporočilo o dopustu,email_sendemail,5
+755,6799,iz mojega koledarja za danes odstrani naslednji sestanek,calendar_remove,2
+756,8942,izbriši vse za ta mesec,calendar_remove,2
+757,5669,kakšne so to popoldne predvidene temperature,weather_query,9
+758,10082,kako narediš vegetarijansko lazanjo,cooking_recipe,3
+759,5144,prosim povej mi kateri bo deževen dan glede na vremensko napoved,weather_query,9
+760,8815,pojdi na dogodek meseca in ga zbriši,calendar_remove,2
+761,3795,koliko stopinj je zdaj v sežani,weather_query,9
+762,358,ob kateri uri je danes nastavljen moj alarm,alarm_query,0
+763,10198,najdi najboljši recept za špagete,cooking_recipe,3
+764,14990,prikaži vreme v našem mestu,weather_query,9
+765,3388,kakšno bo vreme danes v kopru,weather_query,9
+766,739,kakšna je danes temperatura,weather_query,9
+767,2430,prosim preveri alarme,alarm_query,0
+768,16936,odgovor na spletno pošto naj vsebuje,email_sendemail,5
+769,1841,ali moram danes vzeti dežnik na delo,weather_query,9
+770,10111,olly kako pripraviti mesno štruco,cooking_recipe,3
+771,11637,priporoči mi film z najboljšo i.m.b.d.oceno ki se vrti v bližnjih kinotekah,recommendation_movies,7
+772,700,vremenske informacije,weather_query,9
+773,12596,google potrebujem vozovnico za vlak do ljubljane ali mi jo lahko rezerviraš,transport_ticket,8
+774,6020,ali lahko izvem več o alarmu ki si ga nastavil,alarm_query,0
+775,3978,kakšno je vreme v ljubljani,weather_query,9
+776,2557,kakšno je vreme v ljubljani,weather_query,9
+777,1937,daj mi vremenske razmere za ljubljano,weather_query,9
+778,9105,prosim odstrani vse dogodke iz mojega koledarja,calendar_remove,2
+779,4218,ali naj obujem gumijaste škornje danes,weather_query,9
+780,12099,oli kaj je na sporedu v betecejevem kinu,recommendation_movies,7
+781,12594,google ali mi lahko za jutri rezerviraš vozovnico za vlak,transport_ticket,8
+782,12400,rezerviraj mi enosmerno karto za vlak do novega mesta po deveti zjutraj,transport_ticket,8
+783,16536,pošlji spletno sporočilo mojemu supervizorju,email_sendemail,5
+784,12855,rezerviraj karto za danes na irctc strani za shranjene informacije,transport_ticket,8
+785,5645,kakšno bo danes zvečer vreme,weather_query,9
+786,16782,ali lahko pošlješ elektronsko sporočilo moji mami glede vremena ta teden,email_sendemail,5
+787,10010,kako naj skuham obrok,cooking_recipe,3
+788,7297,odpri moj koledar in ga počisti,calendar_remove,2
+789,7510,izbriši dogodek,calendar_remove,2
+790,16954,poglej med kontakti,email_sendemail,5
+791,5247,moram danes vzeti plašč,weather_query,9
+792,10227,kako pripraviti piščanca,cooking_recipe,3
+793,16116,na vsa elektronska sporočila prejeta med deseto zvečer in deveto zjutraj je potrebno odgovoriti,email_sendemail,5
+794,9835,glasba ena,play_audiobook,6
+795,8908,odlično,calendar_remove,2
+796,408,katere alarme imam nastavljene,alarm_query,0
+797,9818,povej mi obnovo najnovejše avdio knjige,play_audiobook,6
+798,17085,odgovorimo na to spletno sporočilo,email_sendemail,5
+799,7748,izbriši vse moje dogodke na mojem koledarju,calendar_remove,2
+800,17077,pošlji osebno elektronsko sporočilo gorazdu,email_sendemail,5
+801,9869,predvajaj dune od tam kjer sem ostal,play_audiobook,6
+802,7116,iz mojega koledarja izbriši sestanek ki ga imam dvanajstega,calendar_remove,2
+803,3120,če je dvanajst ur pred vzhodnim standardnim centralnim časom koliko je ura trenutno na filipinih,datetime_convert,4
+804,12053,kateri dobro ocenjeni filmi so na sporedu ta konec tedna,recommendation_movies,7
+805,1707,utišaj zvočnike na pet odstotkov,audio_volume_down,1
+806,5783,temperatura ob sončnem zahodu danes,weather_query,9
+807,1656,pokaži mi vse načrtovane alarme,alarm_query,0
+808,2873,ali imam nastavljene alarme za danes,alarm_query,0
+809,16640,pošlji e-sporočilo žigi in reci naj pohiti,email_sendemail,5
+810,845,kateri alarmi so nastavljeni zdaj,alarm_query,0
+811,10578,očisti moje dogodke poišči podatke,calendar_remove,2
+812,16756,narekuj novo spletno sporočilo,email_sendemail,5
+813,16268,odgovori na robertovo elektronsko sporočilo od danes zjutraj,email_sendemail,5
+814,15952,pošlji spletno sporočilo janezu in ga vprašaj kdaj konča z delom,email_sendemail,5
+815,10006,kako kuhati riž,cooking_recipe,3
+816,9773,nadaljuj z zvočno knjigo prosim,play_audiobook,6
+817,9859,odpri audio in nadaljuj s predvajanjem knjige ki sem jo poslušal,play_audiobook,6
+818,10013,izberi recept,cooking_recipe,3
+819,5787,zunaj je hladno,weather_query,9
+820,1457,kako je v mariboru,weather_query,9
+821,16565,pošlji spletno sporočilo mami za kosilo,email_sendemail,5
+822,4865,kakšno je trenutno vreme v novem mestu,weather_query,9
+823,17164,posreduj sporočilo sandy,email_sendemail,5
+824,16127,pošlji elektronsko sporočilo manci vreš,email_sendemail,5
+825,1504,v franciji je osem zvečer koliko je ura v atlanti,datetime_convert,4
+826,8190,prosim počisti moj koledar za jutri,calendar_remove,2
+827,6030,na razstavi bo tudi hrana,weather_query,9
+828,7994,s mojega koledarja odstrani vse dogodke,calendar_remove,2
+829,17131,pošlji jani spletno sporočilo ki sem ga shranila v moji mapi osnutki,email_sendemail,5
+830,15898,pošlji spletno sporočilo srečno novo leto janezu,email_sendemail,5
+831,9093,očisti vse dogodke iz koledarja za marec,calendar_remove,2
+832,12563,kupi vozovnico za vlak v anhovo za štirinajsti april,transport_ticket,8
+833,860,vreme danes,weather_query,9
+834,8147,odstrani koncert iz koledarja dogodkov,calendar_remove,2
+835,4801,kakšna je trenutna temperatura zunaj,weather_query,9
+836,10089,kateri je najboljši recept za mesne kroglice,cooking_recipe,3
+837,7308,izbriši moj koledar,calendar_remove,2
+838,9713,predvajaj zvočno knjigo slavoja žižka,play_audiobook,6
+839,8342,najdi moj naslednji dogodek in ga izbriši prosim,calendar_remove,2
+840,5978,pretvori vzhodni čas v zahodni čas,datetime_convert,4
+841,9846,nadaljuj od zadnje zaustavljene točke moje zvočne knjige,play_audiobook,6
+842,10200,katere sestavine potrebujem za pasulj,cooking_recipe,3
+843,9919,kakšen je recept za omako za testenine,cooking_recipe,3
+844,1013,kolikšna je časovna razlika med hong kongom in new yorkom,datetime_convert,4
+845,3375,koliko bo lokalni čas ko bo v bangaloru indiji ob devetih zjutraj,datetime_convert,4
+846,5698,ali moram danes vzeti dežnik,weather_query,9
+847,15959,ustvari elektronsko sporočilo za petro,email_sendemail,5
+848,9819,najdi mi najbolje prodajano zvočno knjigo tega meseca,play_audiobook,6
+849,7093,počisti moj koledar,calendar_remove,2
+850,10148,poišči najbolje ocenjeni recept na okusnoje za omleto s štirimi siri,cooking_recipe,3
+851,7360,izbriši naslednji poročni dogodek,calendar_remove,2
+852,3897,kakšno bo vreme v kranjski gori šestnajstega marca,weather_query,9
+853,16940,prek poštnega strežnika,email_sendemail,5
+854,1309,kakšno je danes tu podnebje,weather_query,9
+855,10142,najdi pravo temperaturo za cvrenje celega purana,cooking_recipe,3
+856,16619,hitro sestavi mejl robiju o jutrišnjem delu,email_sendemail,5
+857,12574,rezerviraj vozovnico za vlak do celja,transport_ticket,8
+858,17128,dodaj novi naslov v elektronski obliki,email_sendemail,5
+859,6102,živjo olly kakšno bo danes vreme na vrhniki,weather_query,9
+860,15912,pošlji spletno sporočilo garyju,email_sendemail,5
+861,8683,izbriši koledar dogodkov,calendar_remove,2
+862,9938,kao dolgo naj pečem hamburger z vsake strani,cooking_recipe,3
+863,7177,prosim pošlji gospodu rihterju e-pošto da bi se rad sestal z njim prvega februarja dvatisoč sedemnajst ob petih popoldne v njegovi pisarni,email_sendemail,5
+864,218,ali zunaj dežuje olly,weather_query,9
+865,9147,želim odstraniti poročno prireditev v soboto,calendar_remove,2
+866,11766,preboj,recommendation_movies,7
+867,16258,prosim pošlji email moji ženi o vrem enu naslednji teden,email_sendemail,5
+868,16348,odgovori na johnovo spletno sporočilo danes povej da bom pozen,email_sendemail,5
+869,9914,kako naredim skutno torto,cooking_recipe,3
+870,12573,potrebujem vozovnico za vlak do rima rezerviraj vozovnico,transport_ticket,8
+871,9836,glasba dva,play_audiobook,6
+872,433,kako toplo je trenutno zunaj,weather_query,9
+873,12173,za naslednji ponedeljek mi poišči vozovnico za vlak do ljubljane,transport_ticket,8
+874,4552,prikaži vse moje alarme,alarm_query,0
+875,1284,zamenjaj ta čas na cet,datetime_convert,4
+876,5335,ali je nastavljen kakšen alarm,alarm_query,0
+877,7077,prosim izbriši naslednji dogodek v mojem koledarju,calendar_remove,2
+878,2344,kakšno bo v ponedeljek vreme v ljubljani,weather_query,9
+879,12448,rezerviraj in plačaj vozovnico za vlak do krškega v soboto,transport_ticket,8
+880,952,ali je trenutno slabo vreme v ljubljani,weather_query,9
+881,8334,izprazni moj koledar,calendar_remove,2
+882,2135,kdaj je naslednji alarm,alarm_query,0
+883,6807,izbriši vse današnje dogodke,calendar_remove,2
+884,15833,pojdi v elektronsko pošto in pošlji sporočilo,email_sendemail,5
+885,4401,ali moram danes imeti s seboj dežnik,weather_query,9
+886,13435,kateri je najboljši recept za margerito,cooking_recipe,3
+887,4107,kateri alarmi so nastavljeni v telefonu,alarm_query,0
+888,5768,preveč glasno,audio_volume_down,1
+889,9829,zvok,play_audiobook,6
+890,8744,lahko izbrišeš naslednji dogodek v koledarju na kateri sem povabljena,calendar_remove,2
+891,1614,kakšni znaki dežja,weather_query,9
+892,8529,povej mi vreme za maribor ob treh popoldne,weather_query,9
+893,7146,poišči večerjo z mamo v mojem koledarju in jo izbriši,calendar_remove,2
+894,12754,želim najcenejšo vozovnico za vlak do novega mesta,transport_ticket,8
+895,10189,pokaži recept za piščančji paprikaš,cooking_recipe,3
+896,3252,kakšnoje danes vreme,weather_query,9
+897,5320,pokaži mi včerajšnje vreme,weather_query,9
+898,16238,pošlji elektronsko sporočilo,email_sendemail,5
+899,9985,lahko naredim zrezek s piščancem,cooking_recipe,3
+900,11988,kakšen dober film ki je trenutno izšel,recommendation_movies,7
+901,16080,pošlji e. sporočilo moji mami,email_sendemail,5
+902,17025,pošlji elektronsko sporočilo mami in vprašaj o vremenu ta teden,email_sendemail,5
+903,4904,ali bo vroče,weather_query,9
+904,1438,katere alarme imam,alarm_query,0
+905,5589,poišči vremensko poročilo,weather_query,9
+906,6019,želim vedeti kateri alarm si mi poslal,alarm_query,0
+907,5875,ali naj danes nosim obleko ali pulover,weather_query,9
+908,2228,spremeni mi devet zjutraj vzhodni evropski čas v osrednji evropski čas,datetime_convert,4
+909,15940,odgovori na zadnje elektronsko sporočilo,email_sendemail,5
+910,9974,kateri je dober veganski jajčni nadomestek,cooking_recipe,3
+911,10094,kako skuhati rake,cooking_recipe,3
+912,335,rad bi vedel kakšno je vreme v novi gorici,weather_query,9
+913,9866,predvajaj program kjer sem končal včeraj,play_audiobook,6
+914,5712,bo to jutro ostalo sončno,weather_query,9
+915,9690,še enkrat začni predvajati,play_audiobook,6
+916,2266,kakšno je zdaj vreme v medvodah,weather_query,9
+917,12614,rezerviraj mi karto za hitri vlak od maribora do ljubljane,transport_ticket,8
+918,7235,prosim odpovej moje naslednje striženje,calendar_remove,2
+919,3482,kakšno je danes vreme v novi gorici,weather_query,9
+920,9927,siri koliko časa se kuhajo testenine,cooking_recipe,3
+921,8659,prosim popolnoma počisti moj koledar,calendar_remove,2
+922,9823,predvajaj viharni vrh od tam kjer sem prenehal,play_audiobook,6
+923,2856,je danes sončno,weather_query,9
+924,16204,pošlji to sporočilo družinski skupini,email_sendemail,5
+925,3800,kakšno bo jutri vreme v novi gorici,weather_query,9
+926,12355,prosim kupi mi karto za vlak,transport_ticket,8
+927,7145,ne želim več iti na večerjo prvega marca tako da jo lahko odstraniš iz mojega urnika,calendar_remove,2
+928,10047,kako naj skuham to jed,cooking_recipe,3
+929,2778,ali je hladneje kot včeraj,weather_query,9
+930,4390,utišaj glasnost,audio_volume_down,1
+931,3244,lahko izvem vreme za danes,weather_query,9
+932,9723,predvajaj znova zvočno knjigo,play_audiobook,6
+933,9928,kako kuhati testenine,cooking_recipe,3
+934,96,ali dežuje,weather_query,9
+935,16397,boš poslal email mihu,email_sendemail,5
+936,5587,ali je danes dan za nanos kreme za sončenje,weather_query,9
+937,326,večer,weather_query,9
+938,5668,potem pritisni o.k.,alarm_query,0
+939,10208,vonj,cooking_recipe,3
+940,16114,odgovori na vso e-pošto ki je prišla od desetih zvečer do devetih zjutraj,email_sendemail,5
+941,16500,mojemu dragemu pošlji e mejl da bom danes zvečer pozha,email_sendemail,5
+942,6362,kateri film naj si ogledam,recommendation_movies,7
+943,3025,vreme v portorožu,weather_query,9
+944,5448,danes izgleda sončno in jasno ali je res,weather_query,9
+945,8288,odstrani opravilo načrtovano za triindvajseti marec,calendar_remove,2
+946,8406,izbriši vse jutrišnje dogodke,calendar_remove,2
+947,9048,za ta teden odpovej zdravniške preglede,calendar_remove,2
+948,16133,pošlji e-poštno sporočilo mami da grem na zabavo,email_sendemail,5
+949,2104,kakšno je vreme doma,weather_query,9
+950,16996,pošlji elektronsko pošto janezu,email_sendemail,5
+951,5484,ali je prevroče za hlače,weather_query,9
+952,4905,ali bo mrzlo,weather_query,9
+953,4627,ali nja bi jutri deževalo,weather_query,9
+954,10087,kako pripraviti mesne kroglice,cooking_recipe,3
+955,16830,pošlji potrditveno elektronsko sporočilo sandri,email_sendemail,5
+956,4500,kakšna je tedenska vremenska napoved,weather_query,9
+957,8871,iz urnika odstrani sestanek ki ga imam štiriindvajsetega marca,calendar_remove,2
+958,9915,povej mi kako pripraviti steak,cooking_recipe,3
+959,16143,ustvari elektronsko sporočilo za eriko,email_sendemail,5
+960,9785,odpri knjigo,play_audiobook,6
+961,10147,pokaži recepte za sirove omlete,cooking_recipe,3
+962,10079,kakšen je enostaven recept za kuhanje hrane,cooking_recipe,3
+963,5711,ali naj vzamem plašč s sabo v ljubljano danes zvečer,weather_query,9
+964,566,kakšna je temperatura,weather_query,9
+965,4374,preglej nastavljene alarme,alarm_query,0
+966,1976,če je nastavljen kakšen alarm me obvesti,alarm_query,0
+967,16199,pošlji e-pošto na jimov službeni naslov,email_sendemail,5
+968,15949,odgovori na spletno sporočilo od johna,email_sendemail,5
+969,7739,ne drem več na vinkovo rojstnodnevno zabavo,calendar_remove,2
+970,9752,nadaljuj z butalci,play_audiobook,6
+971,16346,pošlji e-pošto elain in jo opomni naj ne pozabi na pomaranče zjutraj,email_sendemail,5
+972,4719,ali bo v sredo temperatura nad lediščem,weather_query,9
+973,16237,naslovi mail na novi poštni naslov,email_sendemail,5
+974,16680,ustvari elektronsko sporočilo za mojega brata vprašaj ga kdaj bo prišel na večerjo,email_sendemail,5
+975,8145,odstrani moj sestanek jutri ob enih,calendar_remove,2
+976,3374,če pokličem miha v kalifornijo ob šestih popoldne koliko bo ura pri njemu,datetime_convert,4
+977,284,ali bo deževalo zvečer,weather_query,9
+978,4425,tedensko vreme blizu mene,weather_query,9
+979,6029,moram nositi jakno daes zjutraj,weather_query,9
+980,6474,kakšno je vreme,weather_query,9
+981,357,prosim povej mi kdaj imam nastavljene alarme,alarm_query,0
+982,16474,pošlji elektronsko sporočilo stanetu fabjanu,email_sendemail,5
+983,17149,želim preveriti julijine proste dneve da ji pošljem sporočilo in je o tem povprašam,email_sendemail,5
+984,12595,rezerviraj mi karto za vlak ki gre ob dveh popoldne,transport_ticket,8
+985,8816,pojdi na leto dogodka in izbriši,calendar_remove,2
+986,4470,kakšna je trenutna napoved za ljubljano,weather_query,9
+987,8835,izbriši vse na mojem koledarju za naslednja dva tedna,calendar_remove,2
+988,1020,kakšno je trenutno vreme,weather_query,9
+989,5323,prosim povej mi vreme za koper,weather_query,9
+990,10096,pripravi mi hamburger,cooking_recipe,3
+991,1768,spremeni tisoč trideset g. m. t. plus dvesto trideset v g. m. t. nič sto,datetime_convert,4
+992,4523,kakšno je vreme zunaj,weather_query,9
+993,1009,kakšno bo vreme ta vikend,weather_query,9
+994,6173,je danes dober dan za na plažo,weather_query,9
+995,7501,naslednji dogodek je odpovedan,calendar_remove,2
+996,11670,kateri film se predvaja blizu mene,recommendation_movies,7
+997,9946,kateri je najboljši recept za tortilje,cooking_recipe,3
+998,9814,odpri knjige in predvajaj skušnjave poglavje devet,play_audiobook,6
+999,13489,predlagaj filme in skladbe ki bi mi bile všeč a niso nujno takšne kot tiste za katere sem rekel da so mi všeč,recommendation_movies,7
+1000,16014,lahko zame odpreš spletno sporočilo,email_sendemail,5
+1001,5039,ali pri nas dežuje,weather_query,9
+1002,5844,bi moral danes nanesti sončno kremo,weather_query,9
+1003,10244,prosim poglej najboljše recepte,cooking_recipe,3
+1004,7148,odstrani sestanek uprave in ga prestavi na sredo,calendar_remove,2
+1005,398,ali bo toplo jutri,weather_query,9
+1006,16440,pošlji elektronsko sporočilo katarini da bom sprejela ponudbo za službo,email_sendemail,5
+1007,9824,nadaljuj viharni vrh od tam kjer sem končal,play_audiobook,6
+1008,507,potrdi čas alarma,alarm_query,0
+1009,9843,prosim nadaljuj trenutno pesem iz mama mia,play_audiobook,6
+1010,13004,kakšne so možnosti da bo danes deževalo,weather_query,9
+1011,3505,kakšno bo vreme naslednji teden v ljubljani,weather_query,9
+1012,9675,ali lahko predvajaš mojo najljubšo zvočno knjigo king kong,play_audiobook,6
+1013,11703,prikaži mi najboljše v klasičnem gledališču,recommendation_movies,7
+1014,1947,zmanjšaj glasnost,audio_volume_down,1
+1015,16177,odgovori na spletno sporočilo,email_sendemail,5
+1016,5114,ali je kakšen alarm po petih zjutraj,alarm_query,0
+1017,7296,če lahko odstrani moje načrtovane koledarske dogodke,calendar_remove,2
+1018,17125,začni odgovor na marlenino najnovejše elektronsko sporočilo,email_sendemail,5
+1019,15889,prosim pošlji elektronsko sporočilo moji prijateljici suzani da me jutri ne bo v cerkev,email_sendemail,5
+1020,16946,pošlji odgovor na elektronsko sporočilo,email_sendemail,5
+1021,3150,kdaj se bo moj alarm sprožil zjutraj,alarm_query,0
+1022,7364,izbriši prvi dogodek triindvajsetega marca dvatisočsedemnajst,calendar_remove,2
+1023,9868,predvajaj knjigo o džungli,play_audiobook,6
+1024,10149,najdi najbolje ocenjen recept od okusno je za omleta s štirimi siri,cooking_recipe,3
+1025,1535,ali trenutno v kopru dežuje,weather_query,9
+1026,16233,odgovori mirku na spletno sporočilo in ga opozori na galebe na plaži,email_sendemail,5
+1027,6969,kaj imam danes,calendar_remove,2
+1028,16963,preberi spletno sporočilo in pošlji članu družine,email_sendemail,5
+1029,12100,kaj igra v kinodvoru,recommendation_movies,7
+1030,1320,olly kakšno je vreme danes,weather_query,9
+1031,9988,kuhanje na pari,cooking_recipe,3
+1032,6899,odstrani vse dogodke iz mojega koledarja,calendar_remove,2
+1033,16311,pošlji odgovor na tisto spletno sporočilo,email_sendemail,5
+1034,11872,ali mi priporočiš kakšne filme ki se trenutno vrtijo v mojem okolišu,recommendation_movies,7
+1035,17139,pošlji odgovor na to e-pošto,email_sendemail,5
+1036,16882,pošlji sporočilo preko e-pošte,email_sendemail,5
+1037,4052,ali je zunaj toplo,weather_query,9
+1038,9898,beri zvočno knjigo vojna rož,play_audiobook,6
+1039,2256,ali danes potrebujem dežni plašč,weather_query,9
+1040,10204,razloži kako popečeš zrezek,cooking_recipe,3
+1041,7149,izbriši vse ponavljajoče se sestanke z zaposlenimi,calendar_remove,2
+1042,1130,ali bo danes pozneje deževalo,weather_query,9
+1043,204,ali imam jaz kakšne alarme,alarm_query,0
+1044,8854,odstrani dogodke na koledarju,calendar_remove,2
+1045,9701,rad bi slišal tisto knjigo napisano od matere tistega strelca v kolumbini,play_audiobook,6
+1046,3879,kakšno je vreme v ljubljani,weather_query,9
+1047,4328,kakšna je petdnevna napoved,weather_query,9
+1048,7251,odpovej petrovo zabavo,calendar_remove,2
+1049,6882,odpovej sestanek naslednji četrtek ob dveh popoldne,calendar_remove,2
+1050,3703,kateri alarmi so nastavljeni za ta teden,alarm_query,0
+1051,1472,zmanjšaj glasnost na dvajset,audio_volume_down,1
+1052,15860,pošlji spletno sporočilo mami in vprašaj o vremenu,email_sendemail,5
+1053,16306,prosim pošlji email moji družini,email_sendemail,5
+1054,16556,odgovori na elektronsko sporočilo od ime,email_sendemail,5
+1055,16329,odgovori na sarino elektronsko sporočilo,email_sendemail,5
+1056,16418,prosim pošlji spletno sporočilo stricu janezu in mu povej da bom prišel,email_sendemail,5
+1057,10051,poišči recept za špagete,cooking_recipe,3
+1058,1019,ali bo danes snežilo,weather_query,9
+1059,7987,odstrani ta dogodek iz mojega koledarja,calendar_remove,2
+1060,4592,kateri alarmi se bližajo,alarm_query,0
+1061,9908,nadaljuj vojno in mir,play_audiobook,6
+1062,5759,vreme za ljubljano naslednji teden,weather_query,9
+1063,11873,ali mi lahko priporočiš kakšne filme ki so na sporedu v mojem okolišu,recommendation_movies,7
+1064,16220,odgovori na alenkino elektronsko sporočilo da bom poklicala nazaj,email_sendemail,5
+1065,9695,predvajaj to noč sem jo videl draga jančarja,play_audiobook,6
+1066,5166,ali bo kasneje v kopru deževalo,weather_query,9
+1067,15804,pošlji janu elektronsko sporočilo glede tekme softballa jan moramo nabaviti nekaj prigrizkov preden se odpravimo,email_sendemail,5
+1068,16117,delovni skupini pošlji elektronsko sporočilo z urnikom tega tedna,email_sendemail,5
+1069,9039,zbriši poroko tretjega julija,calendar_remove,2
+1070,16231,prosim odgovori na gregovo spletno sporočilo in povej da je njegova ideja fantastična,email_sendemail,5
+1071,11738,prikaži časovne razporede,recommendation_movies,7
+1072,6635,kakšno je vreme,weather_query,9
+1073,825,pokaži mi sedemdnevno napoved za domači kraj prosim,weather_query,9
+1074,3615,jutri bo sončen dan kajne,weather_query,9
+1075,11811,kaj igrajo na gaju,recommendation_movies,7
+1076,4744,naštej vse moje prihajajoče alarme,alarm_query,0
+1077,5663,ali potrebujem jakno zvečer,weather_query,9
+1078,754,spremeni časovni pas na washington,datetime_convert,4
+1079,4636,znižaj glasnost zvočnikov,audio_volume_down,1
+1080,6280,kakšna je bila temperatura ko sem bil v parku,weather_query,9
+1081,16676,pošlji novo e-poštno sporočilo na tina afna gmail pika com,email_sendemail,5
+1082,7343,odstrani vse na mojem koledarju,calendar_remove,2
+1083,2294,ali bo u.v indeks čez osem danes,weather_query,9
+1084,5664,ali potrebujem nanesti kremo za sončenje ko grem na golf,weather_query,9
+1085,6830,sprosti moj urnik za naslednji teden,calendar_remove,2
+1086,9769,nadaljuj z zgodbo,play_audiobook,6
+1087,9083,izbriši vse podrobnosti v dogodku,calendar_remove,2
+1088,9698,nadaljuj predvajanje na moji najnovejši izbiri zvočnih knjig,play_audiobook,6
+1089,5447,ali grem danes plavati ali delati,weather_query,9
+1090,2331,kakšno je trenutno vreme,weather_query,9
+1091,9697,nadaljuj branje moby dicka,play_audiobook,6
+1092,1485,prikaži vse alarme,alarm_query,0
+1093,1685,ali bo jutrišnja temperatura visoka ali ne,weather_query,9
+1094,17033,zjutraj odgovori na janezovo elektronsko sporočilo,email_sendemail,5
+1095,8231,izbriši moj trenutni sestanek,calendar_remove,2
+1096,9176,odstrani dogodek zabava iz koledarja,calendar_remove,2
+1097,662,mi lahko poveš koliko ur je razlike med ljubljano in novim mestom,datetime_convert,4
+1098,10160,kaj se poda k rižoti,cooking_recipe,3
+1099,12890,kupi karto za hitri vlak v četrtek,transport_ticket,8
+1100,16943,pošlji spletno sporočilo babici zadeva sobotno sporočilo oglasimo se v nedeljo,email_sendemail,5
+1101,7391,ne bom se več pridružil mami za kosilo jutri,calendar_remove,2
+1102,5360,v katerem časovnem pasu smo prosim spremeni na trenutni,datetime_convert,4
+1103,8872,zbriši kosilo z mihom,calendar_remove,2
+1104,12489,potrebujem vozovnico za vlak do ljubljane jutri,transport_ticket,8
+1105,7362,samo izbriši naslednji dogodek,calendar_remove,2
+1106,4528,mi lahko poveš o alarmu imenovanem postelja,alarm_query,0
+1107,10088,daj mi recept za mesne kroglice,cooking_recipe,3
+1108,16031,olly odpri novo spletno sporočilo temu sodelavcu in na ta elektronski naslov,email_sendemail,5
+1109,7430,ta dogodek zbriši z mojega koledarja,calendar_remove,2
+1110,7764,očisti moj koledar od vseh dogodkov,calendar_remove,2
+1111,8727,izbriši vse dogodke,calendar_remove,2
+1112,4682,ali je danes v kopru vroče in soparno ali toplo in vlažno,weather_query,9
+1113,285,ali bo jutri vetrovno,weather_query,9
+1114,1919,povej mi vreme za ta teden,weather_query,9
+1115,17016,želim odgovor na to elektronsko sporočilo,email_sendemail,5
+1116,5467,ali potrebujem sončna očala,weather_query,9
+1117,3585,kakšno je vreme v sežani,weather_query,9
+1118,5670,poišči vremensko napoved o hitrosti vetra zvečer,weather_query,9
+1119,5720,pokaži mi jutrišnje vreme v tem kraju,weather_query,9
+1120,11918,kateri filmi so na sporedu ta teden,recommendation_movies,7
+1121,8181,lahko odstraniš zobozdravniški pregled iz mojega koledarja,calendar_remove,2
+1122,16134,pošlji elektronsko sporočilo očku da pridem na rojstnodnevno zabavo,email_sendemail,5
+1123,16484,ustvari novi elektronski naslov,email_sendemail,5
+1124,6797,s koledarja izbriši moj naslednji sestanek,calendar_remove,2
+1125,3933,pokaži mi vse moje aktivne alarme,alarm_query,0
+1126,5800,bom po deseti uri zvečer potrebovala jakno v moji okolici,weather_query,9
+1127,4106,kakšna bo jutri najvišja temperatura v kopru,weather_query,9
+1128,16972,lahko jani pošlješ nazaj sporočilo prek spletne pošte,email_sendemail,5
+1129,4557,vreme ljubljana slovenija,weather_query,9
+1130,8554,izbriši božično zabavo v cerkvi za naslednjo sredo,calendar_remove,2
+1131,805,ok google znižaj glasnost zvočnikov prosim,audio_volume_down,1
+1132,8527,odpovej sestanek ob treh,calendar_remove,2
+1133,9099,odstrani zdravniški pregled ki sem ga dodala koledarju za dvanajstega februarja ob devetih dopoldne,calendar_remove,2
+1134,8743,izbriši naslednji dogodek v mojem koledarju da ga več ne vidim,calendar_remove,2
+1135,16728,povej zoranu da bom vesel če me kontaktira,email_sendemail,5
+1136,750,zmanjšaj glasnost na deset odstotkov,audio_volume_down,1
+1137,6733,olly rezerviraj mi taksi do trzina čez pol ure,calendar_remove,2
+1138,4146,opomni me o katerih koli alarmih za danes,alarm_query,0
+1139,4079,kdaj je moj alarm nastavljen za jutri zjutraj,alarm_query,0
+1140,1975,sem jaz nastavil kak alarm za danes,alarm_query,0
+1141,10043,koliko skodelic sladkorja gre v večplastno torto,cooking_recipe,3
+1142,9933,najdi recept za romantično večerjo za dva,cooking_recipe,3
+1143,3284,kakšno je vreme v ljubljani,weather_query,9
+1144,9714,predvajaj rock,play_audiobook,6
+1145,16498,pošlji elektronsko sporočilo kot opomnik,email_sendemail,5
+1146,9997,kaj moramo uničiti v smetani da dobimo maslo,cooking_recipe,3
+1147,4863,kakšno je vreme v kranju,weather_query,9
+1148,8844,iz mojega koledarja izbriši vse informacije,calendar_remove,2
+1149,8054,izbriši vse dogodke od sedmega marca,calendar_remove,2
+1150,6086,kakšno je vreme za poštno številko dvaintrideset tisoč dvestotriinštirideset,weather_query,9
+1151,9682,predvajaj mi martina krpana od tam kjer sem nazadnje nehal poslušati oli,play_audiobook,6
+1152,10179,kako speči dobro pečen zrezek na žaru,cooking_recipe,3
+1153,8657,prosim izbriši vse iz mojega koledarja,calendar_remove,2
+1154,3878,kakšno je trenutno vreme v postojni,weather_query,9
+1155,16345,poslati moram novo e-pošto tu je naslov in dodaj ga med stike,email_sendemail,5
+1156,1254,kakšna je bila danes zjutraj temperatura v izoli,weather_query,9
+1157,6110,ali bom danes po sončnem zahodu potreboval dežnik,weather_query,9
+1158,9987,zamrzovanje,cooking_recipe,3
+1159,7159,prosim ponovno zaženi in odstrani vse moje vnose v koledarju,calendar_remove,2
+1160,10120,kako skuhati špagete,cooking_recipe,3
+1161,1865,temperatura to uro,weather_query,9
+1162,9741,nadaljuj s predvajanjem zvočne knjige,play_audiobook,6
+1163,9735,nadaljuj nedavno zvočno knjigo,play_audiobook,6
+1164,3650,pokaži mi vreme za maribor,weather_query,9
+1165,7995,izbriši iz koledarja moj trenutni dogodek,calendar_remove,2
+1166,9684,nadaljuj s prebiranjem avdio knjige,play_audiobook,6
+1167,10117,koliko časa traja da se naredi mesno štruco,cooking_recipe,3
+1168,3899,ali bo deževalo petnajstega avgusta,weather_query,9
+1169,12648,praktično ocenjevanje vožnje,transport_ticket,8
+1170,6128,ali naj s sabo vzamem zimske škornje,weather_query,9
+1171,10101,kako narediš zrezek,cooking_recipe,3
+1172,9865,predvajaj mi to zvočno knjigo,play_audiobook,6
+1173,3245,ali veš če bokaj dežja danes,weather_query,9
+1174,5637,ali potrebujem plašč danes zvečer,weather_query,9
+1175,5498,kdaj lahko pokličem iz dunaja ko so poslovne ure v londonu,datetime_convert,4
+1176,16739,začni novo elektronsko sporočilo za kontakt,email_sendemail,5
+1177,15926,pošlji spletno sporočilo rae in povej ji da je moj telefon nazaj na servisu,email_sendemail,5
+1178,8831,odstrani vse podatke iz koledarja,calendar_remove,2
+1179,5742,vremenske novice,weather_query,9
+1180,16928,odgovori na marijino zadnje elektronsko sporočilo z odgovorom ne,email_sendemail,5
+1181,3814,ali bo jutri mrzlo,weather_query,9
+1182,5588,ali potrebujem kapo,weather_query,9
+1183,5429,bom potrebovala plašč danes popoldne,weather_query,9
+1184,17132,pripravi osnutek elektronskega sporočila za janeza s prošnjo za prosto nedeljo v naslednjem razporedu,email_sendemail,5
+1185,16121,odgovori nazaj emily,email_sendemail,5
+1186,2999,vreme za naslednjih osem dni v portorožu,weather_query,9
+1187,2543,kakšno je vreme v bližini,weather_query,9
+1188,15840,pošlji roku elektronsko sporočilo,email_sendemail,5
+1189,9833,nadaljuj pesem iz zvočne knjige od helene blagne,play_audiobook,6
+1190,9797,končno želim prebrati kurjega pastirja,play_audiobook,6
+1191,4354,kakšno je trenutno vreme v mariboru,weather_query,9
+1192,2222,vreme v ljubljani,weather_query,9
+1193,2049,preveri vreme za mesta ki se začnejo na črko a,weather_query,9
+1194,9016,zbriši vse dogodke iz koledarja,calendar_remove,2
+1195,10044,kako naredim mesni burek,cooking_recipe,3
+1196,17130,pošlji spletno sporočilo mami začni z zadevo počitnice,email_sendemail,5
+1197,9820,predvajaj obračun na audible,play_audiobook,6
+1198,395,kakšna je časovna razlika med vzhodnim in pacifiškim časom,datetime_convert,4
+1199,6717,olly odstrani stand-up komedijo v petek ob desetih dopoldne,calendar_remove,2
+1200,6735,olly prekliči vse dogodke v naslednjih dveh dneh,calendar_remove,2
+1201,831,živjo google živjo zunaj je prevroče kakšna je temperatura danes popoldne,weather_query,9
+1202,1691,kakšno je današnje vreme,weather_query,9
+1203,5241,ali si nastavil alarm za pet zjutraj,alarm_query,0
+1204,8441,izbriši moj celoten koledar,calendar_remove,2
+1205,10011,izberi vrsto obroka zajtrk kosilo ali večerja,cooking_recipe,3
+1206,10033,na kratko pojasni cvrtje rib,cooking_recipe,3
+1207,12341,rezerviraj tri povratne vozovnice za vlak za nedeljo ob sedmih zvečer povratno karto pa za naslednjo nedeljo ob osmih zjutraj,transport_ticket,8
+1208,10065,katere začimbe so v indijski hrani,cooking_recipe,3
+1209,1251,prosim seznami me z vremenom tega tedna,weather_query,9
+1210,12590,lahko preveriš vozni red za vlak do laškega,transport_ticket,8
+1211,5505,kateri alarmi so nastavljeni v hiši,alarm_query,0
+1212,1250,ali so kakšne možnosti dežja ta teden,weather_query,9
+1213,8556,izbriši službeno kosilo ta petek,calendar_remove,2
+1214,9891,predvajaj poletje v gostilni,play_audiobook,6
+1215,16884,pošlji elektronsko sporočilo mami in vprašaj ali je naročila knjigo na amazonu kot sem jo prosil,email_sendemail,5
+1216,12151,rezerviraj mi vozovnico v mursko soboto z intersitijem ta vikend,transport_ticket,8
+1217,12893,želim da mi kupiš vozovnico za vlak,transport_ticket,8
+1218,9776,prični predvajati mojo zvočno knjigo od tam kjer sem jo nehal poslušati,play_audiobook,6
+1219,12641,prosim rezerviraj mi karto za vlak do portoroža ob petih popoldne,transport_ticket,8
+1220,7701,odstrani vse dogodke v mojem koledarju,calendar_remove,2
+1221,15826,sporoči vsem da sem na poti,email_sendemail,5
+1222,9860,prosim odpri aplikacijo audible in s predvajanjem nadaljuj,play_audiobook,6
+1223,10225,morale bi biti začimbe,cooking_recipe,3
+1224,3105,kakšna je trenutna temperatura,weather_query,9
+1225,9991,pokaži mi vadnice o kuhanju,cooking_recipe,3
+1226,3961,pokaži mi napoved,weather_query,9
+1227,10106,pokaži mi recept za piščanec tandoori,cooking_recipe,3
+1228,15951,naredi osnutek odgovora na juretovo elektronsko sporočilo,email_sendemail,5
+1229,15944,pošlji elektronsko sporočilo skrbniku,email_sendemail,5
+1230,12331,olly rezerviraj mi vozovnico za vlak do ljubljane tretjega vseeno mi je ob katerem času,transport_ticket,8
+1231,1657,koliko alarmov je trenutno nastavljenih,alarm_query,0
+1232,9763,predvajaj scarletino pismo,play_audiobook,6
+1233,11728,katera je največja uspešnica ta teden,recommendation_movies,7
+1234,4530,kakšen je opis za alarm ob enajstih dopoldne,alarm_query,0
+1235,3163,katere alarme imam jaz nastavljene jutri,alarm_query,0
+1236,2141,danes vzemi dežnik,weather_query,9
+1237,394,če je opoldne v londonu koliko je ura v normandiji,datetime_convert,4
+1238,11772,kateri filmi se trenutno predvajajo,recommendation_movies,7
+1239,3504,kakšno je vreme danes v ljubljani,weather_query,9
+1240,10211,kaj je recept,cooking_recipe,3
+1241,10243,poišči recept in vodnik za to jed,cooking_recipe,3
+1242,17021,začni odgovor na zadnje prejeto e-poštno sporočilo,email_sendemail,5
+1243,15854,pošlji prejšnji sporočilo na moj novi elektronski naslov,email_sendemail,5
+1244,1969,ali bo danes sončno ali ne,weather_query,9
+1245,5998,če je ura tukaj šest zjutraj koliko je ura v tokiu,datetime_convert,4
+1246,320,ali naj vzamem jutri dežnik,weather_query,9
+1247,10133,potrebujem pomoč pri pripravi pečenega piščanca v pečici,cooking_recipe,3
+1248,12522,rezerviraj mi vozovnico za vlak,transport_ticket,8
+1249,3344,kateri dan imam jutri budilko,alarm_query,0
+1250,16600,jaz želim poslati e-poštno sporočilo mojemu prijatelju na jože afna gmail pika com,email_sendemail,5
+1251,8331,odstrani moj sestanek za jutri,calendar_remove,2
+1252,5872,je v sežani možen dež ki bo pregnal to vročino,weather_query,9
+1253,9705,zvočno knjigo začni od zadnje lokacije,play_audiobook,6
+1254,8739,zbriši dogodke,calendar_remove,2
+1255,5234,ali moram kasneje vzeti dežnik,weather_query,9
+1256,16687,pošlji e-pošto nov naslov,email_sendemail,5
+1257,2059,dežuje,weather_query,9
+1258,606,kakšna je vremenska napoved za vikend,weather_query,9
+1259,8255,prekliči prihajajoči dogodek,calendar_remove,2
+1260,4210,ali moram jutri obleči plašč za v službo,weather_query,9
+1261,15961,moram poslati elektronsko pošto maji,email_sendemail,5
+1262,206,kakšno je vreme v sežani,weather_query,9
+1263,16054,pošlji janezu e-pošto za denar,email_sendemail,5
+1264,12155,rezerviraj karto do cilja z vlakom,transport_ticket,8
+1265,12767,lahko dobim karto za vlak,transport_ticket,8
+1266,10075,kdaj je sezona špargljev,cooking_recipe,3
+1267,3964,koliko alarmov je nastavljenih,alarm_query,0
+1268,9017,koledar izbriši vse,calendar_remove,2
+1269,1920,kakšno je vreme za šolski teden,weather_query,9
+1270,2047,znižaj glasnost,audio_volume_down,1
+1271,10028,najdi recept z mleto govedino in bučkami,cooking_recipe,3
+1272,9925,koliko časa moram vreti jajce,cooking_recipe,3
+1273,11747,kateri filmi so na sporedu danes zvečer ob devetih v cineplexxu maribor,recommendation_movies,7
+1274,9873,preberi mi še nekaj stvora,play_audiobook,6
+1275,6769,opusti moj naslednji dogodek,calendar_remove,2
+1276,9703,ali mi lahko predvajaš mojo zdanjo zvočno knjigo,play_audiobook,6
+1277,16958,začni e-pošto stranki,email_sendemail,5
+1278,16879,pošlji elektronsko sporočilo jerneju o sestanku,email_sendemail,5
+1279,4594,pokaži mi nastavljene alarme,alarm_query,0
+1280,10025,povej mi kako se naredi sirov burek,cooking_recipe,3
+1281,11982,oli kateri filmi igrajo v slovenj gradcu,recommendation_movies,7
+1282,16209,pošlji e-sporočilo nancy o podrobnosti jutrišnje službene zabave,email_sendemail,5
+1283,16735,prosim odpri odgovor na elektronsko sporočilo,email_sendemail,5
+1284,10233,ali so ribe in krompirček res britanska jed,cooking_recipe,3
+1285,3587,kakšno je ta teden vreme,weather_query,9
+1286,207,povej mi kakšno je vreme v postojni,weather_query,9
+1287,3772,prosim preberi mi moje alarme,alarm_query,0
+1288,9089,zbriši moj urnik za ta mesec,calendar_remove,2
+1289,9861,predvajaj od mesta kjer sem ostal v knjigi audible,play_audiobook,6
+1290,8632,ali lahko to odstraniš v mojem koledarju,calendar_remove,2
+1291,9893,odpri dva nebotičnika,play_audiobook,6
+1292,3858,ali bo kaj snega v torek,weather_query,9
+1293,16435,želim začeti moje spletno sporočilo tako,email_sendemail,5
+1294,5337,alexa pokaži mi ure alarmov ki si jih nastavila,alarm_query,0
+1295,5174,kakšno bo vreme čez cel teden,weather_query,9
+1296,9047,sprosti moj dan devetindvajsetega,calendar_remove,2
+1297,4473,ali moram danes nanesti sončno kremo,weather_query,9
+1298,3131,kako hladno je zunaj,weather_query,9
+1299,1203,preveri vremensko obvestilo za ljubljano ta teden,weather_query,9
+1300,6038,ali bo opoldne deževalo,weather_query,9
+1301,4915,temperatura v ljubljani,weather_query,9
+1302,6957,počisti moj koledar,calendar_remove,2
+1303,9899,nadaljuj z igranjem trenutne avdio knjige,play_audiobook,6
+1304,2041,današnje vreme je enkratno,weather_query,9
+1305,9821,nadaljuj bobri na audible,play_audiobook,6
+1306,16962,olly pošlji email članu družine in ga najprej preberi,email_sendemail,5
+1307,12129,rezerviraj mi vozovnico za vlak od maribora do celja čez dva dni,transport_ticket,8
+1308,8563,izbriši moj sestanek za jutri ob treh popoldne,calendar_remove,2
+1309,4961,potrebujem vzeti dežnik danes zvečer,weather_query,9
+1310,12147,olly v petek zvečer grem v ljubljano ali mi lahko prosim rezerviraš vozovnico,transport_ticket,8
+1311,10118,pri kateri temperaturi se kuha svinjina,cooking_recipe,3
+1312,16065,pošlji spletno sporočilo s testno zadevo in brez vsebine,email_sendemail,5
+1313,1604,kdaj je nastavljen alarm za jutri zjutraj,alarm_query,0
+1314,3857,ali bo deževalo ta teden,weather_query,9
+1315,4677,ali bom potreboval sončno kremo danes,weather_query,9
+1316,4471,odgovori na spletno pošto od,weather_query,9
+1317,16658,pošlji spletno sporočilo janezu in ga vprašaj kakšno bo vreme ta teden,email_sendemail,5
+1318,6316,kakšno je vreme,weather_query,9
+1319,9196,prosim izbriši ta dogodek na koledarju,calendar_remove,2
+1320,6046,lahko danes občelem kratke hlače,weather_query,9
+1321,9759,začasno ustavi nadaljevanje,play_audiobook,6
+1322,9679,nadaljuj predvajanje zvočne knjige ki sem jo nazadnje poslušal,play_audiobook,6
+1323,2918,mesečno vremensko poročilo,weather_query,9
+1324,12751,kupi mi vozovnico za vlak za en teden od sedaj iz ljubljane do novega mesta dolenjske,transport_ticket,8
+1325,9830,prosim nadaljuj z branjem igre lakote,play_audiobook,6
+1326,16205,napiši to sporočilo v skupino sodelavcev,email_sendemail,5
+1327,4314,ali bo danes zvečer oblačno vreme,weather_query,9
+1328,12498,rezerviraj mi vozovnico za vlak v ljubljano za jutri,transport_ticket,8
+1329,10003,hočem skuhati testenine po ameriško pokaži mi kako,cooking_recipe,3
+1330,10240,kateri je najokusnejši del govedine,cooking_recipe,3
+1331,6004,ali moram danes vzeti dežnik,weather_query,9
+1332,10091,kako pripraviti mesno štruco,cooking_recipe,3
+1333,12192,rezerviraj prevoz iz novega mesta v mursko soboto z desetimi zanimivimi mesti za ogled,transport_ticket,8
+1334,1843,ali se bo otoplilo naslednji teden,weather_query,9
+1335,8341,izbriši moj naslednji dogodek,calendar_remove,2
+1336,9753,olly lahko predvajaš lov na rdeči oktober,play_audiobook,6
+1337,16675,pošlji sporočilo na joejoe afna gmail pika com,email_sendemail,5
+1338,847,ali je zdaj nastavljen kakšen alarm,alarm_query,0
+1339,9970,lahko karkoli naredim s kvinojo da bo dobrega okusa,cooking_recipe,3
+1340,16064,pošlji petru elektronsko sporočilo kje je zdaj in če je na tržnici napiši mu da prinese neko vino,email_sendemail,5
+1341,17086,prosim odgovori na to,email_sendemail,5
+1342,2224,vreme v kopru,weather_query,9
+1343,4927,tedenska vremenska napoved,weather_query,9
+1344,833,ali bo ta vikend snežilo tukaj,weather_query,9
+1345,16211,pošlji očetu elektronsko sporočilo kakšno bo vreme ta teden,email_sendemail,5
+1346,10036,kako skuhati rižev narastek,cooking_recipe,3
+1347,6853,pojdi na naslednji dogodek na koledarju in ga izbriši,calendar_remove,2
+1348,3254,kakšno je bilo vremensko poročilo za danes,weather_query,9
+1349,3885,kateri alarmi so trenutno nastavljeni,alarm_query,0
+1350,1405,kako vroče je trenutno v ljubljani,weather_query,9
+1351,6092,ali bo v kopru oblačno ta vikend,weather_query,9
+1352,12389,kupi mi vozovnico za vlak,transport_ticket,8
+1353,16055,pošlji elektronsko sporočilo silvi od klemna,email_sendemail,5
+1354,9766,predvajaj zvočno knjigo deček brin na domačem,play_audiobook,6
+1355,12057,kateri film se predvaja v lokalnem kinu,recommendation_movies,7
+1356,10126,koliko jajc moram dati v tortno mešanico,cooking_recipe,3
+1357,8335,na koledarju ne želim nobenih dogodkov,calendar_remove,2
+1358,6006,bodo rokavice prišle prav v torek,weather_query,9
+1359,9790,prični s predvajanjem zvočne knjige basni in pravljice,play_audiobook,6
+1360,1767,spremeni dvatisoč tristo trideset iz g. m. t. plus štiristo trideset v g. m. t. dvesto,datetime_convert,4
+1361,9967,najboljši način za kuhanje testenin,cooking_recipe,3
+1362,1388,olly ali bo deževalo v soboto,weather_query,9
+1363,1728,prosim prikaži vreme za trinajstega ta mesec,weather_query,9
+1364,6315,olly kakšno je vreme,weather_query,9
+1365,10202,povej mi kako narediti tortilje,cooking_recipe,3
+1366,4467,ob kateri uri je nastavljen moj alarm,alarm_query,0
+1367,8986,za julij izbriši moje počitnice,calendar_remove,2
+1368,12139,rezerviraj za mene karto za vlak,transport_ticket,8
+1369,16034,ustvari novo elektronsko sporočilo davidu davisu,email_sendemail,5
+1370,9960,kako skuham riž na pari,cooking_recipe,3
+1371,5634,ali bo danes oblačno vreme,weather_query,9
+1372,2791,kakšna je petdnevna napoved za ljubljano,weather_query,9
+1373,10063,kaj je kari,cooking_recipe,3
+1374,11931,mi lahko priporočaš dobro dramo,recommendation_movies,7
+1375,1484,preglej alarme ki jih imam,alarm_query,0
+1376,1686,ali bo jutri temperatura visoka ali ne,weather_query,9
+1377,3506,kakšna je današnja vremenska napoved,weather_query,9
+1378,409,preberi mi moje alarme,alarm_query,0
+1379,16360,napiši spletno sporočilo tadeju in lei,email_sendemail,5
+1380,9886,ponovno zaženi zvočno knjigo bajonetni napad,play_audiobook,6
+1381,3012,prosim povej mi vreme,weather_query,9
+1382,10098,ali lahko pripraviš sendvič s sirom,cooking_recipe,3
+1383,5790,danes je vroče,weather_query,9
+1384,2240,vremenska napoved za ta teden,weather_query,9
+1385,7962,formatiraj koledar,calendar_remove,2
+1386,7793,pošlji e-poštno sporočilo sari glede poznega kosila danes,email_sendemail,5
+1387,5451,ali je zunaj sončno,weather_query,9
+1388,6714,oli odpovej poslovni sestanek v sredo,calendar_remove,2
+1389,1588,kakšno bo vreme jutri,weather_query,9
+1390,8981,odpovej mojo rojstnodnevno zabavo,calendar_remove,2
+1391,10123,kateri so najboljši pekoči feferoni,cooking_recipe,3
+1392,9750,uporabi gumb za predvajanje in pavzo,play_audiobook,6
+1393,16428,prosim pošlji očetu spletno sporočilo vprašaj o vremenu v kopru,email_sendemail,5
+1394,5454,ali grem s črnimi sončnimi očali ali ne,weather_query,9
+1395,11793,potrebujem dober film za ženske imaš kakšen predlog,recommendation_movies,7
+1396,9813,predvajaj avdio knjigo labod od prve,play_audiobook,6
+1397,1868,olly trenutni klimatski podatki,weather_query,9
+1398,9666,predvajaj zvočno knjigo,play_audiobook,6
+1399,5817,vreme v domačem mestu,weather_query,9
+1400,16013,pošlji elektronsko sporočilo jasni,email_sendemail,5
+1401,4120,kateri čas za alarm imaš nastavljen,alarm_query,0
+1402,1521,zmanjšaj glasnost na deset,audio_volume_down,1
+1403,12592,prosim kupi mi vozovnico za vlak do maribora,transport_ticket,8
+1404,5737,povej mi čase alarmov za naslednja dva dni,alarm_query,0
+1405,10209,prijetno,cooking_recipe,3
+1406,4053,ali je ta trenutek sončno zunaj,weather_query,9
+1407,15991,pošlji spletno sporočilo andreju novaku moje čestitke in prilogo delo p. d. f.,email_sendemail,5
+1408,6139,olly ali potrebujem škornje,weather_query,9
+1409,17024,pošlji mami spletno sporočilo in pozvedi kako bo vreme ta teden,email_sendemail,5
+1410,16057,odgovori na to spletno sporočilo,email_sendemail,5
+1411,8897,odstrani vse moje sestanke za danes,calendar_remove,2
+1412,16595,naslednje spletno sporočilo,email_sendemail,5
+1413,180,kakšno je trenutno vreme,weather_query,9
+1414,6082,ali moram načrtovati da bom kidala dovoz hiše,weather_query,9
+1415,7237,odstrani exatlon iz mojega koledara drugega aprila,calendar_remove,2
+1416,16969,prosim pošlji e-poštno sporočilo na a. b. c. afna gmail pika kom namesto xyz afna gmail pika kom,email_sendemail,5
+1417,4720,ali bo ta vikend prijetno,weather_query,9
+1418,5235,dežnik pozneje,weather_query,9
+1419,16618,pripravi osnutek spletnega sporočila za katjo o delu pozneje,email_sendemail,5
+1420,1456,kako je zunaj,weather_query,9
+1421,8179,ali lahko odstraniš vse moje sestanke s koledarja,calendar_remove,2
+1422,16736,rad bi poslal odgovor,email_sendemail,5
+1423,7236,prosim odstrani dogodek za prvi april,calendar_remove,2
+1424,725,prikaži vreme za ta teden,weather_query,9
+1425,15956,olly pošlji elektronsko sporočilo ani in jo obvesti da smo na poti,email_sendemail,5
+1426,12172,rezerviraj mi vozovnico za vlak do ljubljane danes,transport_ticket,8
+1427,7761,spremeni moj koledar za danes,calendar_remove,2
+1428,7765,ali lahko počistiš moj koledar,calendar_remove,2
+1429,1781,lahko zvem kakšno je vreme tukaj,weather_query,9
+1430,9803,začnite zvočno knjigo jara gospoda,play_audiobook,6
+1431,7983,zbriši vse dogodke in opravila za danes,calendar_remove,2
+1432,11989,olly kakšen dober film ki je trenutno izšel,recommendation_movies,7
+1433,10115,kako se speče piščanca na žaru,cooking_recipe,3
+1434,1338,katere alarme imam nastavljene za jutri,alarm_query,0
+1435,8104,prosim zbriši vse današnje sestanke,calendar_remove,2
+1436,10201,brezmesni obrok po korakih,cooking_recipe,3
+1437,9932,olly katere sestavine rabim za puding,cooking_recipe,3
+1438,846,kateri alarmi me bodo zbudili jutri,alarm_query,0
+1439,5496,ali naj gledam ta film,recommendation_movies,7
+1440,3339,kakšno je vreme,weather_query,9
+1441,7641,povej mi vreme za zadnjih pet dni,weather_query,9
+1442,4209,ali moram zvečer vzeti dežnik s seboj,weather_query,9
+1443,3044,za kdaj je nastavljen alarm,alarm_query,0
+1444,2219,vreme v mariboru,weather_query,9
+1445,16033,pošlji e. poštno sporočilo alešu,email_sendemail,5
+1446,7023,odstrani dan očetov iz koledarja,calendar_remove,2
+1447,5302,ok goodle kakšno bo vreme dvajsetega marca dva tisoč sedemnajst,weather_query,9
+1448,8851,prekliči naslednji dogodek,calendar_remove,2
+1449,11736,ali je zgodovina ljubezni dober film,recommendation_movies,7
+1450,3979,kako vroče je zunaj zdaj sem v portorožu,weather_query,9
+1451,16598,odgovori z da na to,email_sendemail,5
+1452,16267,družini pošlji e-pošto in povej da jih imam rad,email_sendemail,5
+1453,644,kakšna bo najvišja temperatura ta teden,weather_query,9
+1454,10035,povej mi recept za rižev narastek,cooking_recipe,3
+1455,10158,mi lahko poveš kako speči čokoladne piškote,cooking_recipe,3
+1456,8098,hi google prekliči vse programe za petek,calendar_remove,2
+1457,8555,odstrani zbiranje sredstev za otroke aprila,calendar_remove,2
+1458,8738,dogodek odstrani s koledarja,calendar_remove,2
+1459,16633,imam nov spletni naslov na katerega mi pošlji sporočilo,email_sendemail,5
+1460,2655,ali bo jutri najvišja temperatura več kot dvajset stopinj,weather_query,9
+1461,1938,vremenska napoved za unec,weather_query,9
+1462,347,kakšna je jutrišnja vremenska napoved,weather_query,9
+1463,3446,ali bo v soboto deževalo,weather_query,9
+1464,9719,pojdi nazaj na kmetijo z živalmi,play_audiobook,6
+1465,15848,pošlji elektronsko sporočilo moji mami,email_sendemail,5
+1466,8845,izprazni moj koledar,calendar_remove,2
+1467,10151,poišči recept za torto,cooking_recipe,3
+1468,3663,ali bo v petek zvečer toplo,weather_query,9
+1469,12270,rezerviraj mi vozovnico za vlak na katerem koli jutrišnjem vlaku v hodoš,transport_ticket,8
+1470,1328,kakšno je vreme danes,weather_query,9
+1471,10064,koliko zelenjave bi moral pojesti na dan,cooking_recipe,3
+1472,6872,izbriši trenutni dogodek,calendar_remove,2
+1473,10139,kako narediti piškote,cooking_recipe,3
+1474,15855,naslednje sporočilo pošlji na moj novi email,email_sendemail,5
+1475,8982,izbriši moj sestanek s timijem,calendar_remove,2
+1476,9920,kakšen je recept za omako za testenine,cooking_recipe,3
+1477,7076,zbriši moj naslednji koledarski dogodek,calendar_remove,2
+1478,10131,koliko dolgo naj kuham piščanca,cooking_recipe,3
+1479,9747,nadaljuj prevzetnost in pristranost,play_audiobook,6
+1480,656,kakšno je trenutno vreme v mariboru,weather_query,9
+1481,17165,pusti sporočilo sanji,email_sendemail,5
+1482,16510,pošlji ta odgovor na prejeto elektronsko sporočilo,email_sendemail,5
+1483,1662,kakšna je časovna razlika med parizom in ljubljano,datetime_convert,4
+1484,179,povej mi kakšno je vreme,weather_query,9
+1485,1465,ali bo deževalo v petek,weather_query,9
+1486,7339,izbriši jutrišnji sestanek,calendar_remove,2
+1487,12605,poišči mi najzgodnješi vlak ki v petek zjutraj vozi v ljubljano,transport_ticket,8
+1488,8232,ta teden tega ne bom delal,calendar_remove,2
+1489,16716,pošlji elektronsko sporočilo janezu da sem na dopustu,email_sendemail,5
+1490,3815,na jugu bo vroče jutri,weather_query,9
+1491,9671,začni predvajati moje življenje kjer sem nazadnje ostal,play_audiobook,6
+1492,16441,pošlji spletno sporočilo carlu da bom jutri pozen v službi,email_sendemail,5
+1493,4384,ali bo jutri vroče ali mrzlo,weather_query,9
+1494,12628,rad bi prišel na naslednji vlak iz ljubljane do maribora,transport_ticket,8
+1495,11958,pokaži mi čase filmov,recommendation_movies,7
+1496,10230,koliko časa se bo kuhal moj obrok,cooking_recipe,3
+1497,4139,ali moram danes obleči topel plašč,weather_query,9
+1498,9901,najdi mi različico zvočne knjige leteči krožnik na našem vrtu in mi jo predvajaj,play_audiobook,6
+1499,16836,alexa pošlji sporočilo na ta novi elektronski naslov,email_sendemail,5
+1500,8002,izbriši moj sestanek za jutri,calendar_remove,2
+1501,16053,janu pošlji mail za delo,email_sendemail,5
+1502,16681,pošlji spletno sporočilo janku hej včeraj zvečer sem te pogrešala bi rad šel danes zvečer na večerjo,email_sendemail,5
+1503,8105,alexa prosim zbriši vse današnje sestanke,calendar_remove,2
+1504,740,kako vlažno je danes okolje,weather_query,9
+1505,7985,izbriši ta dogodek tretjega marca,calendar_remove,2
+1506,2063,povej mi vreme za ta teden,weather_query,9
+1507,1389,kakšno bo v soboto vreme,weather_query,9
+1508,16118,pomoč pošlji samo jani,email_sendemail,5
+1509,11774,kaj mi predlagaš da gledam ta vikend,recommendation_movies,7
+1510,4484,povej mi tedensko vremensko napoved,weather_query,9
+1511,12598,povej mi kam naj grem,transport_ticket,8
+1512,3036,vremenske razmere za naslednji dan,weather_query,9
+1513,12396,rezerviraj vozovnico za vlak do celja,transport_ticket,8
+1514,12750,kupi karto za vlak iz laškega do maribora,transport_ticket,8
+1515,5723,ali bo danes zvečer deževalo,weather_query,9
+1516,349,ali bo jutri sneg,weather_query,9
+1517,10236,po pripravi sestavin dodaj malo masale in ponovno skuhaj v ponvi ter postrezi,cooking_recipe,3
+1518,7622,prosim odstrani vse dogodke v mojem koledarju,calendar_remove,2
+1519,11919,mi lahko poveš kateri film je najbolje ocenjen,recommendation_movies,7
+1520,16569,rada bi poslala spletno pošto na šefov elektronski naslov,email_sendemail,5
+1521,11734,oli kakšen je nov film vsi proti vsem,recommendation_movies,7
+1522,9036,prekliči vse dogodke za danes in me označi za zasedenega,calendar_remove,2
+1523,3389,kakšna je vremenska napoved za maribor,weather_query,9
+1524,2332,ali trenutno dežuje,weather_query,9
+1525,8814,pojdi na dogodek in ga izbriši,calendar_remove,2
+1526,4219,ali trenutno zunaj potrebujem plašč,weather_query,9
+1527,5214,moram vzeti topla oblačila,weather_query,9
+1528,16195,pošlji lizi elektronsko sporočilo,email_sendemail,5
+1529,16568,prosim pošlji elektronsko sporočilo novemu praktikantu,email_sendemail,5
+1530,376,preveri vremensko aplikacijo da vidm ali,weather_query,9
+1531,9181,izbriši moj rojstnodnevni opomnik za naslednji teden,calendar_remove,2
+1532,3000,primerjaj vreme doma in v kopru,weather_query,9
+1533,9937,imam nekaj lososa kako ga pripravim,cooking_recipe,3
+1534,3379,današnja napoved,weather_query,9
+1535,7344,izbriši vse koledarske dogodke,calendar_remove,2
+1536,5644,kakšno bo vreme danes popoldne,weather_query,9
+1537,15760,pošlji spletno sporočilo pavlu glede zadnje novice,email_sendemail,5
+1538,9755,poslušajmo janko in metka,play_audiobook,6
+1539,9877,rad bi poslušal svojo zvočno knjigo,play_audiobook,6
+1540,5874,bi morala vzeti plašč na bazen,weather_query,9
+1541,16871,pošli e-sporočilo mariji,email_sendemail,5
+1542,559,kakšno je stanje alarmov za jutri,alarm_query,0
+1543,8733,prosim prestavi vse sestanke v koš,calendar_remove,2
+1544,7024,izbriši vse dogodke iz koledarja,calendar_remove,2
+1545,8000,prosim odstrani kosilo z urnika triindvajsetega marca,calendar_remove,2
+1546,12671,rezerviraj karto za vlak dvaindvajsetega marca ob polnoči,transport_ticket,8
+1547,4901,utišaj glasnost medija,audio_volume_down,1
+1548,2653,ali bo deževalo v soboto,weather_query,9
+1549,9696,nadaljuj predvajanje zanovih jugovzhodnih pripovedi,play_audiobook,6
+1550,1733,odjava danes alarm za sestanek,alarm_query,0
+1551,11702,pokaži mi najbližji kino,recommendation_movies,7
+1552,16095,šefu pošlji e-pošto da bom danes zamudil,email_sendemail,5
+1553,4475,ali potrebujem dežni plašč,weather_query,9
+1554,7714,jutri sem zaseden zato zbriši dogodke iz koledarja,calendar_remove,2
+1555,10234,zberi vse potrebne sestavine za kuhanje z natančnimi meritvami in potrebno opremo,cooking_recipe,3
+1556,12459,pokaži mi vozovnice za vlak,transport_ticket,8
+1557,4434,napoved za ta teden,weather_query,9
+1558,16517,želim odgovoriti,email_sendemail,5
+1559,16449,moram urediti spletni naslov marije novak,email_sendemail,5
+1560,5751,ali moram obleči jakno ko grem ven,weather_query,9
+1561,6727,odstrani klepet z alenom,calendar_remove,2
+1562,1906,znižaj glasnost,audio_volume_down,1
+1563,3531,ali lahko spremeniš časovni pas na slovenijo,datetime_convert,4
+1564,11955,kateri filmi se vrtijo v mojem okolišu,recommendation_movies,7
+1565,11723,obvesti me o najbolj priljubljenih romantičnih komedijah ki se trenutno vrtijo v ljubljanskih kinotekah,recommendation_movies,7
+1566,6088,ali bo sončno v torek naslednji teden,weather_query,9
+1567,6854,izbriši naslednji dogodek v koledarju,calendar_remove,2
+1568,735,lahko prosim znižaš glasnost,audio_volume_down,1
+1569,5231,alo moram obuti dežne škornje,weather_query,9
+1570,17114,odgovori na elektronsko sporočilo,email_sendemail,5
+1571,15927,pošlji anji e-pošto da se lahko srečava v soboto ob enih popoldne,email_sendemail,5
+1572,9888,začni predvajati butalci od tam kjer sem končal,play_audiobook,6
+1573,5351,kakšno je danes zunaj vreme,weather_query,9
+1574,16190,napiši e-sporočilo mojemu sodelavcu da odda nalogo jutri,email_sendemail,5
+1575,9777,nadaljuj v imenu rože,play_audiobook,6
+1576,9954,kakšne temperature mora biti pečen piščanec,cooking_recipe,3
+1577,4250,ali bo danes pozneje deževalo,weather_query,9
+1578,5248,olly ali moram danes bleči plašč,weather_query,9
+1579,9862,spet začni predvajati mojo knjigo biblijske študije,play_audiobook,6
+1580,10032,kako speči pico,cooking_recipe,3
+1581,8254,izbriši moj naslednji dogodek,calendar_remove,2
+1582,16534,bi napisala email za chelsea za mene,email_sendemail,5
+1583,3962,odpri vremensko aplikacijo,weather_query,9
+1584,9106,prosim ponastavi moj koledar na prvi dan,calendar_remove,2
+1585,12234,za naslednji vlak ki odpelje do krškega rezerviraj sedež v poslovnem razredu,transport_ticket,8
+1586,3738,prosim prilagodi zvočnike na nižjo bolj udobno stopnjo,audio_volume_down,1
+1587,16180,pošlji epošto mikeju povej mu da se bomo srečali danes ob sedmih popoldne za večerjo v kavarni,email_sendemail,5
+1588,1724,kakšna je najvišja temperatura v ormožu,weather_query,9
+1589,4099,samo da preverim ali si nastavil alarm ob osmih,alarm_query,0
+1590,16259,moji ženi pošlji elektronsko sporočilo o vremenu v naslednjem tednu,email_sendemail,5
+1591,5995,ali moram danes obleči dežni plašč,weather_query,9
+1592,2888,povej mi trenutno vreme za poreč hrvaška,weather_query,9
+1593,1918,kakšno je vreme za naslednjih sedem dni,weather_query,9
+1594,9702,želim poslušati knjigo draga jančarja,play_audiobook,6
+1595,9949,kako dolgo naj to kuham,cooking_recipe,3
+1596,9764,predvajaj izgnana,play_audiobook,6
+1597,4926,vremenska napoved tega tedna,weather_query,9
+1598,4635,zmanjšaj glasnost zvočnika,audio_volume_down,1
+1599,792,ali je poletje,weather_query,9
+1600,16906,pošlji e pošto moji družini vprašaj jih kako se imajo,email_sendemail,5
+1601,6117,vremensko poročilo tega tedna,weather_query,9
+1602,16902,odgovori na moje zadnje elektronsko sporočilo,email_sendemail,5
+1603,11930,kateri novi filmi so dobri,recommendation_movies,7
+1604,3737,zmanjšaj glasnost zvočnikov,audio_volume_down,1
+1605,240,ali bo deževalo danes,weather_query,9
+1606,9721,nadaljuj peto knjigo harija poterja,play_audiobook,6
+1607,4766,bom potreboval plašč danes zjutraj,weather_query,9
+1608,16172,pošlji sporočilo mami in ji povej da se vidimov disney worldu,email_sendemail,5
+1609,15859,posreduj prikazano vsebino na elektronski naslov blabla afna bla pika com,email_sendemail,5
+1610,5542,prosim prikaži mi alarm za torkov sestanek,alarm_query,0
+1611,7340,prekliči moj jutrišnji sestanek,calendar_remove,2
+1612,9722,nadaljuj vojna in mir prvi del,play_audiobook,6
+1613,11956,olly kateri filmi se predvajajo v bližini,recommendation_movies,7
+1614,9745,začni avdio,play_audiobook,6
+1615,15908,odgovori na e pošto s hvala lepa na janez novak afna hotmail pika kom,email_sendemail,5
+1616,9983,siri kako začnem pripravljati ribji brodet,cooking_recipe,3
+1617,10015,v petih stavkih povej način priprave božične pečenke,cooking_recipe,3
+1618,12324,čas in datum,transport_ticket,8
+1619,4113,pretvori trenutni čas iz indijskega v vzhodni standardni čas,datetime_convert,4
+1620,4932,kakšno bo v petek vreme,weather_query,9
+1621,16988,prosim odgovori na spletno sporočilo ki mi je poslal matej da rabim denar nujno in takoj,email_sendemail,5
+1622,16571,pošlji e-pošto moji sestri,email_sendemail,5
+1623,11983,priporoči romantično komedijo blizu mene,recommendation_movies,7
+1624,4751,ali bo oblačno,weather_query,9
+1625,10114,kaj potrebujem jaz za dober burger,cooking_recipe,3
+1626,5779,vreme v ljubljani,weather_query,9
+1627,10222,dokument vsebuje dejavnike kako vzpostaviti podjetje za pripravo hrane,cooking_recipe,3
+1628,12801,rezerviraj karto za vlak do ljubljane,transport_ticket,8
+1629,16212,pošlji e-sporočilo očetu kakšno je vreme ta teden,email_sendemail,5
+1630,7611,prekliči vse moje sestanke za danes,calendar_remove,2
+1631,16453,pošlji e-pošto mojemu prijatelju o naših načrtih za danes zvečer,email_sendemail,5
+1632,1605,ali je nastavljen alarm za jutri zjutraj,alarm_query,0
+1633,7737,odstrani vilijevo rojstnodnevno zabavo z mojega koledarja,calendar_remove,2
+1634,2857,kakšno bo danes vreme,weather_query,9
+1635,9693,prekini pavzo na knjigi zgodovina rima,play_audiobook,6
+1636,7921,izbriši vse planirane dogodke,calendar_remove,2
+1637,12915,moram rezervirati vozovnico za vlak do ljubljane,transport_ticket,8
+1638,6916,odstrani vse dogodke iz koledarja,calendar_remove,2
+1639,5252,ali lahko grem ven brez dežnika,weather_query,9
+1640,16499,hi google pošlji sporočilo mami da prihajam domov ta vikend,email_sendemail,5
+1641,16957,začni elektronsko sporočilo mojemu možu,email_sendemail,5
+1642,16307,ustavri email ki mora biti poslan moji družini,email_sendemail,5
+1643,789,kakšno je bilo vreme ta teden,weather_query,9
+1644,7431,želim da odstraniš ta dogodek,calendar_remove,2
+1645,11591,priporoči mi film z domenom valičem,recommendation_movies,7
+1646,2021,zmanjšaj glasnost na zelo nežno,audio_volume_down,1
+1647,1106,želim vedeti kakšno je vreme v ljubljani,weather_query,9
+1648,4724,prikaži moje alarme,alarm_query,0
+1649,3805,vreme ta teden,weather_query,9
+1650,5495,ali naj danes vzamem dežnik,weather_query,9
+1651,5601,kakšna je vremenska napoved,weather_query,9
+1652,7649,odstrani vse dogodke iz mojega koledarja,calendar_remove,2
+1653,7290,izbriši vse moje današnje sestanke,calendar_remove,2
+1654,15888,ali lahko zbereš seznam lokalnih restavracij in ga pošlješ mojemu možu po elektronski pošti,email_sendemail,5
+1655,7284,zbriši moj pregled pri zobozdravniku,calendar_remove,2
+1656,15749,sporoči patriku da sem na poti,email_sendemail,5
+1657,8225,izbriši dogodek v torek,calendar_remove,2
+1658,1321,kakšno je vreme danes,weather_query,9
+1659,3246,povej mi vreme za ljubljano,weather_query,9
+1660,9884,nadaljuj mind reading book,play_audiobook,6
+1661,4327,ali je premrzlo za plavanje,weather_query,9
+1662,12287,za jutri poišči vozovnice za vlak do kopra,transport_ticket,8
+1663,8087,lahko odstranim opomnik,calendar_remove,2
+1664,10181,katere so sestavine za makaronovo meso,cooking_recipe,3
+1665,11727,prikaži urnik najbližjega gledališča,recommendation_movies,7
+1666,8830,zbriši vse podatke s koledarja,calendar_remove,2
+1667,12140,rezerviraj karte za vlak,transport_ticket,8
+1668,5295,lahko narediš malo tišje,audio_volume_down,1
+1669,12216,rezerviraj letalsko vozovnico,transport_ticket,8
+1670,5649,vprašaj za vreme danes zjutraj,weather_query,9
+1671,8852,odstrani prihajajoče opravilo,calendar_remove,2
+1672,9665,prevrti zvočno knjigo za trideset sekund,play_audiobook,6
+1673,4093,ali je bilo vetrovno včeraj,weather_query,9
+1674,16094,pošlji e-poštno sporočilo moniki,email_sendemail,5
+1675,15928,pošlji janezu spletno sporočilo da mi je žal da nisem dojel da je tako bolan,email_sendemail,5
+1676,16167,moram poslati odgovor charlotti,email_sendemail,5
+1677,3783,kako izgleda vreme v kopru,weather_query,9
+1678,17022,aleksa pošlji mami spletno sporočilo in vprašaj kako je tam vreme,email_sendemail,5
+1679,7543,izbriši vse dogodke iz mojega koledarja naslednji teden,calendar_remove,2
+1680,2327,kakšna je temperatura,weather_query,9
+1681,1932,ali je umirjeno vreme danes,weather_query,9
+1682,10239,daj mi navodila kako skuhati piščanca,cooking_recipe,3
+1683,17029,olly pošlji bobu elektronsko sporočilo,email_sendemail,5
+1684,9806,predvajaj mi alyino pesem iz zvočne knjige,play_audiobook,6
+1685,9910,želim začeti vojno in mir kjer sem nehal,play_audiobook,6
+1686,4561,ali lahko spremeniš trenutni časovni pas iz centralnega na pacifiški,datetime_convert,4
+1687,795,kdaj je nastavljen alarm za jutri,alarm_query,0
+1688,1634,olly pokaži mi moje alarme,alarm_query,0
+1689,2956,ob katerih urah so moji alarmi,alarm_query,0
+1690,16147,sestavi e-pošto za jaka,email_sendemail,5
+1691,5750,ali bom danes potreboval dežnik,weather_query,9
+1692,7285,izbriši vse prihajajoče vadbe joge,calendar_remove,2
+1693,10232,kako pripraviti lososa ali vahnjo,cooking_recipe,3
+1694,5618,oglej si alarme ki si jih nastavil danes zjutraj,alarm_query,0
+1695,5863,kakšna je ta teden povprečna temperatura v izoli,weather_query,9
+1696,16310,prosim odgovori,email_sendemail,5
+1697,9686,nadaljuj s predvajanjem umetnost vojne,play_audiobook,6
+1698,16287,pošlji rojstnodnevno spletno sporočilo mojemu šefu,email_sendemail,5
+1699,9717,predvajaj živalsko farmo,play_audiobook,6
+1700,9802,nadaljuj zvočno knjigo jara gospoda,play_audiobook,6
+1701,12356,rabim karto za vlak,transport_ticket,8
+1702,15960,pošlji danijeli e-pošto,email_sendemail,5
+1703,3869,ali je alarm za zadnja vrata nastavljen in pripravljen,alarm_query,0
+1704,10212,dobra hrana,cooking_recipe,3
+1705,1992,mi lahko poveš vreme za ponedeljek,weather_query,9
+1706,10034,kako pripravim burger,cooking_recipe,3
+1707,12642,ob petih popoldne morem iti z vlakom do celja,transport_ticket,8
+1708,15953,olly pošlji juretu spletno sporočilo vprašaj ga kdaj bo končal delo,email_sendemail,5
+1709,16012,olly pošlji e-poštno sporočilo jožici,email_sendemail,5
+1710,16688,pošlji sporočilo na novi elektronski naslov,email_sendemail,5
+1711,16839,pošlji elektronsko sporočilo moji ženi,email_sendemail,5
+1712,9837,pesem tri,play_audiobook,6
+1713,3533,prosim spremeni časovni pas na indijski,datetime_convert,4
+1714,7713,izbriši vse moje dogodke za jutri,calendar_remove,2
+1715,8745,prosim izbriši naslednji dogodek iz koledarja ki sem ga ustvaril,calendar_remove,2
+1716,8832,formatiraj podatke iz koledarja,calendar_remove,2
+1717,16111,med deseto uro zvečer in sedmo uro zjutraj vsak dan morajo biti odgovorjeni vsi e-maili,email_sendemail,5
+1718,10083,najdi recept za čokoladno torto,cooking_recipe,3
+1719,701,preveri vreme,weather_query,9
+1720,8926,izbriši vsaki dogodek iz mojega koledarja,calendar_remove,2
+1721,7998,izbriši moj naslednji dogodek na koledarju,calendar_remove,2
+1722,15954,olly pošlji email mariji z novim urnikom sestanka za jutri,email_sendemail,5
+1723,5893,ali bo sončno v ljubljani,weather_query,9
+1724,16207,pošlji e-pošto družini s podrobnostmi o zabavi,email_sendemail,5
+1725,1867,takoj mi daj podatke o podnebju,weather_query,9
+1726,9681,predvajaj mi zvočno knjigo heri poter od dela kjer sem nazadnje ostal,play_audiobook,6
+1727,2177,poišči trenutne vremenske razmere,weather_query,9
+1728,16313,pošlji email moji mami,email_sendemail,5
+1729,356,kateri je moj naslednji alarm,alarm_query,0
+1730,7544,izbriši vse sestanke za jutri,calendar_remove,2
+1731,1367,znižaj glasnost,audio_volume_down,1
+1732,16194,prosim pošlji elektronsko sporočilo vesni,email_sendemail,5
+1733,10069,koliko čajnih žličk gre v skodelico,cooking_recipe,3
+1734,12333,rezerviraj mi vozovnico za vlak do ljubljane jutri kaj je na voljo,transport_ticket,8
+1735,2339,kakšno je trenutno vreme v ljubljani,weather_query,9
+1736,2248,ali se je vreme kaj spremenilo za sredo,weather_query,9
+1737,1891,kakšno je danes vreme,weather_query,9
+1738,9882,ponovno zaženi knjigo janeza kranjca,play_audiobook,6
+1739,16285,prosim pošlji petru elektronsko sporočilo o njegovem avtu,email_sendemail,5
+1740,15846,lahko pošlješ e-pošto,email_sendemail,5
+1741,1723,kakšne bodo vremenske razmere devetega februarja dva tisoč sedemnajst v ljubljani,weather_query,9
+1742,7200,počisti moj koledar,calendar_remove,2
+1743,5983,povej mi za kdaj si nastavila alarm,alarm_query,0
+1744,591,kako toplo je trenutno,weather_query,9
+1745,5866,ali je aktiven kakšen alarm,alarm_query,0
+1746,9704,želim nadaljevati kjer sem ostal v svoji audio knjigi,play_audiobook,6
+1747,8099,zdravo google prosim odstrani večerjo v četrtek,calendar_remove,2
+1748,1787,znižaj glasnost,audio_volume_down,1
+1749,12163,a lahko rezerviraš vozovnico za vlak za mojo mamo,transport_ticket,8
+1750,7961,izbirši vse moje sestanke,calendar_remove,2
+1751,12719,rabim karto za vlak od to do pirana,transport_ticket,8
+1752,5733,olly ali danes potrebujem kremo za sončenje,weather_query,9
+1753,6829,izbriši vse sestanke za jutri,calendar_remove,2
+1754,1311,kolikšna je časovna razlika med ottawo in tukaj,datetime_convert,4
+1755,17028,olly pošlji sandri elektronsko sporočilo,email_sendemail,5
+1756,9685,nadaljuj branje,play_audiobook,6
+1757,10014,želim postopek za božično pečenko v petih povedih,cooking_recipe,3
+1758,10112,kako narediš dober burger,cooking_recipe,3
+1759,5736,pokaži kateri alarmi so nastavljeni za ta teden,alarm_query,0
+1760,1536,koliko je ura na japonskem v primerjavi z združenimi državami amerike,datetime_convert,4
+1761,1198,povej mi kakšna je bila temperatura v našem mestu ob dvanajstih popoldne,weather_query,9
+1762,17079,pošlji spletno sporočilo mariji sožalje ob izgubi,email_sendemail,5
+1763,10161,s čim gre riževo vino,cooking_recipe,3
+1764,432,kakšno je trenutno vreme zunaj,weather_query,9
+1765,7954,lahko prosim ignoriraš zabavo na katero grem ta konec tedna na mojem koledarju,calendar_remove,2
+1766,8658,prosim odstrani vse iz mojega koledarja,calendar_remove,2
+1767,9742,želim poslušati več zvočnih knjig,play_audiobook,6
+1768,6716,odstrani stand-up v petek ob desetih dopoldne,calendar_remove,2
+1769,5005,če bi bil v vzhodnem časovnem pasu koliko bi bila ura,datetime_convert,4
+1770,787,kakšno je danes vreme,weather_query,9
+1771,1642,ne ne utišaj,audio_volume_down,1
+1772,4539,nisam hotela da že pošlješ to besedilo počakaj dokler ne povem da pošlješ,email_sendemail,5
+1773,16743,moji sestri pošlji naslednje spletno sporočilo,email_sendemail,5
+1774,15781,hej google pošlji spletno sporočilo janezu kako si ali mi lahko pošlješ posodobitve zadnjega projekta pozdrav tomaž,email_sendemail,5
+1775,15883,želim odgovoriti alenu,email_sendemail,5
+1776,8547,v koledarju odstrani prihajajoči dogodek,calendar_remove,2
+1777,62,prosim naštej aktivne alarme,alarm_query,0
+1778,3664,mi lahko poveš temperaturo za soboto zvečer,weather_query,9
+1779,3097,ali dežuje v kopru,weather_query,9
+1780,8770,odstrani dogodek iz koledarja,calendar_remove,2
+1781,11590,priporoči mi kakšen nov film ki so ga lansirali prejšni petek,recommendation_movies,7
+1782,4529,kdaj je moj naslednji načrtovan alarm,alarm_query,0
+1783,8979,odstrani emin rojstni dan iz dogodkov,calendar_remove,2
+1784,4595,ali bo naslednji teden kakšen dan imel trideset stopinj,weather_query,9
+1785,8275,prosim odstrani juretov rojstni dan iz mojega koledarja,calendar_remove,2
+1786,12058,se predvajajo kakšni dobri filmi v bližnjih kinih,recommendation_movies,7
+1787,16122,pošlji novo elektronsko sporočilo emiliji,email_sendemail,5
+1788,5459,ali bom po delu potreboval pulover,weather_query,9
+1789,8477,lahko izbrišeš ta dogodek,calendar_remove,2
+1790,489,kakšna je zunaj temperatura,weather_query,9
+1791,15758,hej janu pošlji e-pošto o najinem sestanku,email_sendemail,5
+1792,5999,koliko ur časovne razlike je med londonom in new yorkom,datetime_convert,4
+1793,15892,pošlji elektronsko sporočilo adeli,email_sendemail,5
+1794,3292,kakšna je časovna razlika med pacifiškim časom in centralnim časom,datetime_convert,4
+1795,11850,kdaj je v bližnjem gledališču na sporedu komedija češnjev vrt,recommendation_movies,7
+1796,8369,oli očisti vse moje dogodke za danes,calendar_remove,2
+1797,7019,prekliči dogodek valentinovo iz koledara,calendar_remove,2
+1798,8432,odstrani moj sestanek za danes ob enih popoldne,calendar_remove,2
+1799,8855,prosim izbriši vse dogodke na kolendarju,calendar_remove,2
+1800,1555,kakšno bo vreme ta teden,weather_query,9
+1801,10173,kaj je dober način za pripravo zrezka,cooking_recipe,3
+1802,5665,ali moram zunaj nositi sončna očala,weather_query,9
+1803,11810,kateri filmi se vrtijo v bližini,recommendation_movies,7
+1804,10073,najdi sestavine za piščančji paprikaš,cooking_recipe,3
+1805,8283,lahko izprazniš moj koledar,calendar_remove,2
+1806,4707,prosim pokaži mi lokalno vreme,weather_query,9
+1807,12749,ali mi lahko prosim kupiš vozovnico za vlak,transport_ticket,8
+1808,2680,ali se bo otoplilo kmalu,weather_query,9
+1809,2229,kaj je devet zjutraj po osrednjo evropskem času in vzhodno evropskem času,datetime_convert,4
+1810,12832,rezerviraj mi karto za vlak do ljubljane to popoldne,transport_ticket,8
+1811,9784,potrebujem premor začni po petih minutah,play_audiobook,6
+1812,1105,pokaži mi vremensko napoved za koper,weather_query,9
+1813,16424,pošlji novo elektronsko sporočilo robertu peku pozen iz službe,email_sendemail,5
+1814,16200,prosim pošlji elektronsko sporočilo na ladotov novi elektronski naslov ladolado afna gmail pika kom,email_sendemail,5
+1815,11856,prosim priporoči mi film oli,recommendation_movies,7
+1816,241,kaj se dogaja zunaj,weather_query,9
+1817,9905,nadaljuj s predvajanjem kjer sem ostal,play_audiobook,6
+1818,557,koliko alarmov je na seznamu,alarm_query,0
+1819,8408,odstrani moj večerni dogodek za jutri,calendar_remove,2
+1820,9972,kako najlažje nabrusiti mesarski nož,cooking_recipe,3
+1821,278,kakšno je vreme v šentjerneju,weather_query,9
+1822,5610,povej kdaj so naslednji alarmi,alarm_query,0
+1823,11792,kateri film je podoben vojni zvezd,recommendation_movies,7
+1824,10071,kako dolgo pečem celega piščanca na tristopetdeset,cooking_recipe,3
+1825,690,preglasno je utišaj glasnost,audio_volume_down,1
+1826,5981,obvesti me o alarmih ki jih nastaviš,alarm_query,0
+1827,12914,rezerviraj mi karto za vlak do ljubljane,transport_ticket,8
+1828,16434,povej moji družini to v elektronskem sporočilu,email_sendemail,5
+1829,12705,odpri aplikacijo za karte za vlak,transport_ticket,8
+1830,8472,odstrani vse dogodke iz koledarja,calendar_remove,2
+1831,9957,koliko časa moraš peči celega piščanca na tristopetinsedemdeset stopinj v pečici,cooking_recipe,3
+1832,2078,malce utišaj glasnost prosim,audio_volume_down,1
+1833,10030,potrebujem recept za piščanca iz leta tisoč devetsto sedemdeset,cooking_recipe,3
+1834,277,kakšno je vreme v kopru,weather_query,9
+1835,15755,pošlji mojemu bratu spletno sporočilo,email_sendemail,5
+1836,8285,odstrani s koledarja rojstnodnevno zabavo v maju,calendar_remove,2
+1837,10141,kaj potrebuješ za piškote,cooking_recipe,3
+1838,4765,ali bo deževalo v petek,weather_query,9
+1839,2826,koliko alarmov imam nastavljenih,alarm_query,0
+1840,2585,prižgi radio na tiho,audio_volume_down,1
+1841,11609,kateri je zadnji akcijski film ki se predvaja v kinih,recommendation_movies,7
+1842,12635,najdi direktni vlak za celje,transport_ticket,8
+1843,1399,vedno sem pozoren,weather_query,9
+1844,7982,izbriši vse dogodke za danes,calendar_remove,2
+1845,4208,ali naj obujem natikače,weather_query,9
+1846,1455,vreme,weather_query,9
+1847,4628,ob kateri uri bo jutri deževalo,weather_query,9
+1848,9916,kaj potrebujem za pico,cooking_recipe,3
+1849,236,ali imam alarm nastavljen za jutranji let,alarm_query,0
+1850,5178,preveri ali potrebujem dežnik,weather_query,9
+1851,12472,plačaj karto za vlak,transport_ticket,8
+1852,11739,karte,recommendation_movies,7
+1853,8340,odstrani moj naslednji dogodek,calendar_remove,2
+1854,9900,nadaljuj predvajanje rdeče vrtnice kjer sva ostala,play_audiobook,6
+1855,2916,kakšno je vreme na ta in ta dan,weather_query,9
+1856,5602,ali bo ta teden prijetno zunaj,weather_query,9
+1857,4414,ali bo naslednji torek deževalo v ljubljani,weather_query,9
+1858,3035,olly vremenske razmere za naslednji dan,weather_query,9
+1859,5946,vprašaj mojega prijatelja kakšna je klima tam,weather_query,9
+1860,16403,nov prejemnik e-pošte donna imaš kakšne načrte danes,email_sendemail,5
+1861,10052,najdi recept za korenčkovo juho,cooking_recipe,3
+1862,1313,kakšna je vremenska napoved za danes,weather_query,9
+1863,8470,odstrani vse dogodke iz koledarja ta mesec,calendar_remove,2
+1864,12226,kupi vozovnico za vlak,transport_ticket,8
+1865,3928,kašna je trenutna napoved za ljubljano,weather_query,9
+1866,15766,prosim pošlji pavelu nazaj ta odgovor,email_sendemail,5
+1867,6094,ali naj zvečer pustim odprta okna,weather_query,9
+1868,4505,ali je sončno,weather_query,9
+1869,1514,ali bo deževalo zvečer,weather_query,9
+1870,9774,predvajaj zvočno knjigo od tam kjer sva končala,play_audiobook,6
+1871,8233,preskoči ta sestanek,calendar_remove,2
+1872,6081,ali danes potrebujem plašč,weather_query,9
+1873,2516,kakšno vreme kaže za ta teden,weather_query,9
+1874,4413,ali sneži v domžalah,weather_query,9
+1875,5463,naj oblečem kratke rokave,weather_query,9
+1876,8980,odpovej sestanek za tretji april,calendar_remove,2
+1877,49,povej mi koliko je ura za g. m. t. plus pet,datetime_convert,4
+1878,4438,vreme ljubljana,weather_query,9
+1879,7307,odstrani vse dogodke za ta mesec,calendar_remove,2
+1880,10046,kako spečem srednje pečen zrezek,cooking_recipe,3
+1881,9091,olly izbriši vse dogodke na koledarju,calendar_remove,2
+1882,7648,odstrani dogodek iz koledarja,calendar_remove,2
+1883,16727,odgovori saši prek mojega emaila in se zahvali,email_sendemail,5
+1884,2124,povej mi vreme za ljubljano,weather_query,9
+1885,1603,preveri če sem nastavil kateri koli alarm za jutri zjutraj,alarm_query,0
+1886,14649,kako kuhati,cooking_recipe,3
+1887,2614,ali bo deževalo na moj rojstni dan,weather_query,9
+1888,5012,ali je trenutno nevihtno,weather_query,9
+1889,8970,odstrani koncertni urnik,calendar_remove,2
+1890,9710,lahko ustaviš in zavrtiš nazaj audio nato pa ponovno predvajaš,play_audiobook,6
+1891,4824,vreme ta vikend,weather_query,9
+1892,7390,odpovej zobozdravniški pregled za ta teden,calendar_remove,2
+1893,1353,želim upočasniti moj zvočnik,audio_volume_down,1
+1894,16265,pošlji elektronsko sporočilo družini z besedami rad vas imam,email_sendemail,5
+1895,513,po naših ocenah,weather_query,9
+1896,5903,potrdi da imam nastavljen alarm ob šestih zjutraj,alarm_query,0
+1897,3927,koliko snega je od včeraj zapadlo na pohorju,weather_query,9
+1898,8772,odstrani izlet predviden za četrti julij,calendar_remove,2
+1899,794,potrdi alarm za jutri zjutraj,alarm_query,0
+1900,8240,počisti moj koledar izbriši vse,calendar_remove,2
+1901,5924,prosim znižaj glasnost,audio_volume_down,1
+1902,10005,olly kako skuhati riž,cooking_recipe,3
+1903,9922,kako zrolam suši,cooking_recipe,3
+1904,16347,tašči sporoči naj rezervira pred petkom drugače bo prepozno,email_sendemail,5
+1905,16480,pripravi e-poštni odgovor marku,email_sendemail,5
+1906,2894,znižaj glasnost zvočnika,audio_volume_down,1
+1907,2091,ali bodo kakšne plohe jutri zjutraj,weather_query,9
+1908,583,ali bo sončni zahod jutri ob pol šestih popoldne,weather_query,9
+1909,11696,kateri filmi se predvajajo v lokalnem kinu,recommendation_movies,7
+1910,5177,ali zdaj potrebujem dežnik,weather_query,9
+1911,2293,ali je možno da bo danes v napovedi dež,weather_query,9
+1912,5994,misliš da bo jutri deževalo,weather_query,9
+1913,16208,pošlji tomotu elektronsko sporočilo z datumom in časom jutrišnjega sestanka,email_sendemail,5
+1914,3616,jutri ne pričakujemo dežja kajne,weather_query,9
+1915,4759,ali bo zvečer snežilo,weather_query,9
+1916,9786,predvajaj mojo knjigo,play_audiobook,6
+1917,4963,utišaj glasnost,audio_volume_down,1
+1918,6138,moram nositi škornje,weather_query,9
+1919,8295,izbriši vse dogodke,calendar_remove,2
+1920,4613,ali bo jutri temperatura nad trideset,weather_query,9
+1921,4602,kakšna bo temperatura danes,weather_query,9
+1922,8546,počisti moj koledar,calendar_remove,2
+1923,5904,preveri če imam nastavljen kakšen alarm za zjutraj,alarm_query,0
+1924,2345,ali trenutno dežuje v ljubljani,weather_query,9
+1925,2998,vreme ljubljana,weather_query,9
+1926,15750,pošlji janu sporočilo napiši da bom pozna,email_sendemail,5
+1927,343,kakšno bo vreme jutri,weather_query,9
+1928,9788,predvajaj zadnjo predvajano zvočno knjigo,play_audiobook,6
+1929,12747,rezerviraj mi prosim vozovnico za vlak,transport_ticket,8
+1930,16617,mihu pošlji e-pošto o zabavi ki bo ta vikend,email_sendemail,5
+1931,12752,prosim kupi karto amtrak iz ljubljane do ptuja prvega aprila,transport_ticket,8
+1932,12200,rezerviraj vozovnico za vlak do hrvaške za ta večer,transport_ticket,8
+1933,8665,odstrani vse iz mojega koledarja,calendar_remove,2
+1934,2326,kakšna je napoved,weather_query,9
+1935,10168,kako naj pripravim to jed,cooking_recipe,3
+1936,4265,kakšna je današnja vremenska napoved,weather_query,9
+1937,101,kakšno bo vreme ta teden,weather_query,9
+1938,3346,kakšna je časovna razlika med mojo lokacijo in hong kongom,datetime_convert,4
+1939,16087,začni novo spletno sporočilo za george brown,email_sendemail,5
+1940,10095,zdrava hrana,cooking_recipe,3
+1941,16278,pošlji sporočilo bratu da velja večerja danes zvečer,email_sendemail,5
+1942,16321,odgovori nazaj bobu smithu,email_sendemail,5
+1943,6512,alarmi,alarm_query,0
+1944,1131,povej mi kakšna je danes vlažnost v centru,weather_query,9
+1945,16970,pošlji sporočilo na moj novi elektronski naslov a. b. c. afna gmail pika com,email_sendemail,5
+1946,15902,prosim odgovori mojim sodelavcem o tej poizvedbi,email_sendemail,5
+1947,755,spremeni čas na tej lokaciji v indijski standardni čas,datetime_convert,4
+1948,16240,pošlji elektronsko sporočilo možu in vprašaj za ideje za restavracijo,email_sendemail,5
+1949,4525,kakšna je vremenska npoved za danes,weather_query,9
+1950,9807,predvajaj mi siddartha iz zvočne knjige,play_audiobook,6
+1951,7078,odstrani moj celotni koledar,calendar_remove,2
+1952,238,je kakšen alarm,alarm_query,0
+1953,4133,povej mi koliko centimetrov snega ima danes ljubljana,weather_query,9
+1954,4237,kakšno je trenutno vreme,weather_query,9
+1955,10228,kako pripravim hrano za kuhanje,cooking_recipe,3
+1956,5973,ali imam nastavljene alarme pred šesto zjutraj,alarm_query,0
+1957,14299,beri vojna in mir,transport_ticket,8
+1958,1779,ali je tam hladno vreme,weather_query,9
+1959,16086,pošlji elektronsko pošto gregorju bulcu,email_sendemail,5
+1960,3130,ali je vetrovno danes,weather_query,9
+1961,4122,sporoči mi čas alarma,alarm_query,0
+1962,1844,ali bo zmrznilo čez noč,weather_query,9
+1963,9080,odpovej vse moje sestanke danes,calendar_remove,2
+1964,17122,prosim pošlji spletno sporočilo moji sestri,email_sendemail,5
+1965,15768,ustvari e-pošto za janeza na najdi pika si,email_sendemail,5
+1966,568,kako mrzlo je,weather_query,9
+1967,6953,odstrani vse iz koledarja,calendar_remove,2
+1968,8682,izbriši dogodke,calendar_remove,2
+1969,7435,prosim odstrani naslednji dogodek mojega koledarja,calendar_remove,2
+1970,3535,ali bo sončno,weather_query,9
+1971,905,kakšna bo naslednji teden temperatura,weather_query,9
+1972,12615,moram rezervirati radhani karto za vlak iz velenja v celje,transport_ticket,8
+1973,15779,pošlji spletno sporočilo nuši z vsebino projekt končan pošlji mi prosim račun,email_sendemail,5
+1974,7058,zbriši novemberski dogodek,calendar_remove,2
+1975,3560,prosim znižaj zvok,audio_volume_down,1
+1976,9911,kako dolgo moram kuhati jajca,cooking_recipe,3
+1977,4943,prosim govori bolj nežno,audio_volume_down,1
+1978,6165,bi moral danes nositi zaščitno kremo pred soncem,weather_query,9
+1979,6440,kateri film je trenutno dober za pogledati,recommendation_movies,7
+1980,10180,kako naredim trdo kuhano jajce,cooking_recipe,3
+1981,558,ali imam za jutri nastavljene kakšne alarme,alarm_query,0
+1982,98,ali trenutno sneži,weather_query,9
+1983,4485,kakšno bo vreme ta teden,weather_query,9
+1984,11635,kdaj bo jutri film,recommendation_movies,7
+1985,7911,odstrani iz mojega koledarja večerjo z miho,calendar_remove,2
+1986,3770,naštej alarme,alarm_query,0
+1987,325,srečen,weather_query,9
+1988,1081,pokaži me vreme za jutri,weather_query,9
+1989,9929,siri kako skuham testenine,cooking_recipe,3
+1990,16625,po spletni pošti povej mirku da bom pozna,email_sendemail,5
+1991,10113,kako pripraviti dober burger olly,cooking_recipe,3
+1992,10205,pokaži recept za riž,cooking_recipe,3
+1993,12660,uredi mi prevoz z vlakom,transport_ticket,8
+1994,5343,ali bo v petek sončno,weather_query,9
+1995,5188,kakšno je vreme na bledu,weather_query,9
+1996,16784,moja mama želi vedeti kakšno bo vreme ta teden pošlji ji elektronsko sporočilo,email_sendemail,5
+1997,15835,prosim odgovori na moje zadnje elektronsko sporočilo,email_sendemail,5
+1998,8183,lahko odstraniš moj zobozdravniški pregled iz koledarja,calendar_remove,2
+1999,3106,kakšno je danes vreme,weather_query,9
+2000,4559,pokaži mi napoved za ta teden,weather_query,9
+2001,7910,prekliči moj jutrišnji sestanek ob osmi uri,calendar_remove,2
+2002,16538,odpreš elektronsko pošto in rad bi sestavil novo,email_sendemail,5
+2003,6754,odstrani dogodke tega tedna iz koledarja,calendar_remove,2
+2004,8636,lahko izbrišeš torkov zdravniški pregled,calendar_remove,2
+2005,6998,zbriši prihodnji dogodek,calendar_remove,2
+2006,410,za kdaj imam nastavljene alarme,alarm_query,0
+2007,5123,kakšna je zunaj temperatura,weather_query,9
+2008,2223,vreme v ljubljani,weather_query,9
+2009,1350,kakšno je vreme za ta teden,weather_query,9
+2010,17150,alexa želim preveriti julijine proste datume ji pošlješ e-pošto in jo vprašaš,email_sendemail,5
+2011,12148,v petek zvečer moram iti v bovec mi lahko prosim rezerviraš vozovnico,transport_ticket,8
+2012,16547,želela bi poslati spletno sporočilo mariji vprašaj če se želi dobiti po službi pri mraku,email_sendemail,5
+2013,7144,odstrani zabavo prvega junija iz mojega koledarja,calendar_remove,2
+2014,10084,kaj lahko uporabim kot nadomestek za moko,cooking_recipe,3
+2015,12290,registriraj dogodek ali vstopnico,transport_ticket,8
+2016,15764,živjo prosim odgovori na zadnjo pavlovo sporočilo,email_sendemail,5
+2017,3095,kakšno je vreme v ljubljani,weather_query,9
+2018,16572,pošlji spletno sporočilo na naslov,email_sendemail,5
+2019,16511,pošlji petru elektronsko sporočilo če ima nocoj načrte ali želi iti na večerjo,email_sendemail,5
+2020,17171,prosim piši temu spletnemu naslovu,email_sendemail,5
+2021,9749,z uporabo daljinca,play_audiobook,6
+2022,4864,povej mi kakšno je vreme v bovcu,weather_query,9
+2023,10145,poišči pravo količino cimeta za jabolčni zavitek,cooking_recipe,3
+2024,13425,ali bi morala nositi pulover,weather_query,9
+2025,12218,potrebujem letalsko karto,transport_ticket,8
+2026,12323,vir in cilj,transport_ticket,8

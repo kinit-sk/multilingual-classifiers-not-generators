@@ -1,0 +1,566 @@
+id,text,intent,label
+15765,jawaban ke email joni,email_sendemail,5
+16056,balas email,email_sendemail,5
+2957,adakah alarm pukul sepuluh pagi,alarm_query,0
+2265,beritahu saya cuaca bogor jawa barat sekarang,weather_query,9
+16221,cari email kate dan tuliskan saya akan mengabarinya,email_sendemail,5
+9676,lanjutkan buku audio saya dari andrea hirata,play_audiobook,6
+216,bagaimana cuaca hari ini,weather_query,9
+16148,balas cepat ke jack jadi tolong kirim sebuah email,email_sendemail,5
+3516,bagaimana peluang curah hujan di cuaca hari ini,weather_query,9
+12724,carikan saya tiket kereta ke medan,transport_ticket,8
+9971,mana yang menghantar panas lebih baik panci lapis tembaga atau cast iron,cooking_recipe,3
+12802,pesan tiket ke jakarta via kereta,transport_ticket,8
+9726,hentikan audiobook,play_audiobook,6
+6713,batalkan rapat bisnis di hari rabu,calendar_remove,2
+430,bagaimana cuaca saat ini,weather_query,9
+1866,laporan cuaca saat ini,weather_query,9
+16045,kirim email ke ismail untuk jadwal pembukaan kantor,email_sendemail,5
+17042,tulis email untuk john at gmail dot com,email_sendemail,5
+16506,tambahkan alamat email baru dan kirim email,email_sendemail,5
+12813,tolong pesankan saya tiket kereta malabar dari malang,transport_ticket,8
+10055,apa resep ayam goreng,cooking_recipe,3
+5955,seberapa aman hukum dan ketertiban di kota ini,weather_query,9
+16754,mendikte surel,email_sendemail,5
+16873,kirim email ke naty untuk ulang tahunnya,email_sendemail,5
+9015,hapus semua acara kalender aku,calendar_remove,2
+3894,bacakan itu lagi,play_audiobook,6
+9966,apa cara termudah untuk memasak pasta,cooking_recipe,3
+10216,cari di internet harga alat masak muffin,cooking_recipe,3
+63,apa saja alarm saya,alarm_query,0
+4917,suhu di luar,weather_query,9
+2870,olly beri tahu saya alarm saya,alarm_query,0
+10220,apa bahan bahan yang saya butuhkan untuk memanggang kue yang besar,cooking_recipe,3
+9674,bisakah anda putar audio book favorit saya lutung kasarung,play_audiobook,6
+3406,bagaimana cuaca sepuluh hari ini,weather_query,9
+4764,apakah hari senin akan hujan,weather_query,9
+4487,apakah akan hujan hari kamis,weather_query,9
+6798,hapus acara saya berikutnya,calendar_remove,2
+16032,tolong kirim email ke sally mengenai rapat besok,email_sendemail,5
+5974,sudahkah saya ada alarm untuk konsumsi tablet di tengah hari,alarm_query,0
+3771,beritahu saya terkait alarm yang berbunyi,alarm_query,0
+3407,adakah perkiraan hujan atau salju minggu ini,weather_query,9
+9871,putarkan buku kesukaan saya,play_audiobook,6
+4312,apakah cuacanya akan kurang dari sepuluh derajat di jakarta,weather_query,9
+17148,alexa balas email dengan isi berikut halo kamu,email_sendemail,5
+17081,buat email untuk karyawan saya beserta dokumen saya yang terakhir disimpan,email_sendemail,5
+6024,haruskah hari ini saya membawa sweter atau jaket ke kantor,weather_query,9
+103,beri tahu saya cuaca minggu ini,weather_query,9
+15849,kirim surel ke bos saya,email_sendemail,5
+17020,balas email terakhir yang diterima,email_sendemail,5
+12162,pesankan tiket kereta,transport_ticket,8
+5577,saya akan membutuhkan jaket penutup penuh jika terlalu badai di malam hari,weather_query,9
+5650,tanya cuaca malam hari ini,weather_query,9
+5523,ubah delapan tiga puluh dari g. m. t. empat ke g. m. t. lima tiga puluh,datetime_convert,4
+1352,tolong pelankan volume pengeras suara,audio_volume_down,1
+16729,balas email saya dari bob beritahukan kalau saya akan bertemu mereka besok,email_sendemail,5
+7878,hapus kalender saya,calendar_remove,2
+12536,tolong pesankan saya tiket kereta ke surabaya,transport_ticket,8
+4689,kamu tau cuacanya,weather_query,9
+9942,apa semua bahan kue red velvet,cooking_recipe,3
+12340,tolong kamu pesankan dua tiket kereta untuk hari jumat,transport_ticket,8
+4313,apakah besok akan hujan di riau,weather_query,9
+11932,apa yang sebaiknya saya tonton hari ini,recommendation_movies,7
+12846,tolong pesankan aku tiket kereta dari jakarta ke karawang untuk besok pagi,transport_ticket,8
+10166,temukan resep pie apel,cooking_recipe,3
+10078,apa yang harus saya masak untuk makan malam,cooking_recipe,3
+6103,hey bagaimana cuaca hari ini di bandung jawa barat,weather_query,9
+299,bagaimana cuaca,weather_query,9
+10214,resep yang bisa dimasak dalam satu jam,cooking_recipe,3
+11744,olly apa film drama terbaru yang tayang akhir pekan ini,recommendation_movies,7
+7025,hapus tahun baru dari kalender,calendar_remove,2
+16605,tuliskan dan kirim email ke atasan saya,email_sendemail,5
+5590,buka suhu,weather_query,9
+15828,ini adalah alamat email baru untuk ditambahkan ke kontak,email_sendemail,5
+4377,bagaimana cuaca saat ini,weather_query,9
+738,seberapa dingin di luar hari ini,weather_query,9
+4104,bagaimana cuaca hari ini di bandung,weather_query,9
+7922,buka tugas dan hapus acara acara mendatang,calendar_remove,2
+15942,kirim email ini sebagai balasan buat email terbaru,email_sendemail,5
+3884,daftar alarm saat ini,alarm_query,0
+790,cuaca ringan atau berat,weather_query,9
+10213,buatkan daftar resep nasi liwet yang terkenal,cooking_recipe,3
+9815,tolong putar ulang ini di audiobook,play_audiobook,6
+15911,siapkan email untuk susan,email_sendemail,5
+10107,saya butuh resep untuk sayur lodeh,cooking_recipe,3
+9772,lanjutkan membaca audiobook,play_audiobook,6
+5481,turunkan volume,audio_volume_down,1
+12291,tiket ke jakarta,transport_ticket,8
+12883,pesankan saya tiket kereta pada akhir pekan di tanggal dua puluh enam dari blitar ke malang,transport_ticket,8
+3507,adakah salju di perkiraan cuaca,weather_query,9
+2917,laporan cuaca mingguan,weather_query,9
+16956,kirim email ke kontak baru,email_sendemail,5
+9074,tolong hapus acara itu,calendar_remove,2
+16955,kirim email ke kontak baru,email_sendemail,5
+11773,cari film nominasi piala citra,recommendation_movies,7
+16029,tolong tulis email baru ke rekan kerja,email_sendemail,5
+1404,bisakah saya mendapatkan perkiraan cuaca besok di banjarmasin sini,weather_query,9
+9746,putar tarian aurora,play_audiobook,6
+7117,hapus acara di tanggal sembilan belas dari kalender aku,calendar_remove,2
+4412,bagaimana cuaca di probolinggo,weather_query,9
+9851,lanjutkan laskar pelangi dari bagian yang saya tinggalkan terakhir kali,play_audiobook,6
+6918,hapus acara dari kalender,calendar_remove,2
+8949,tolong hapus sisa pengingat,calendar_remove,2
+5529,jam berapa saya harus pergi mendaki,weather_query,9
+15994,kirim email ke joko menanyakan jam berapa bisa rapat,email_sendemail,5
+4933,apakah akan hujan sekarang,weather_query,9
+7892,hapus acara selanjutnya hari ini,calendar_remove,2
+7680,di kalender saya hapus semua acara golf di bulan ini,calendar_remove,2
+10038,saya butuh ide bagus untuk memasak,cooking_recipe,3
+17011,apakah kamu bisa mengirimkan surat elektronik ke,email_sendemail,5
+50,olly beri tahu waktu di g. m. t. plus lima,datetime_convert,4
+8732,hapus semua rencana,calendar_remove,2
+10177,bagaimana cara memasak mi ayam,cooking_recipe,3
+9980,apa menu hari ini tambahkan sayur rebus kedalamnya,cooking_recipe,3
+3702,olly apakah saya punya alarm yang disetel untuk besok,alarm_query,0
+11861,film apa dengan rating tertinggi sekarang,recommendation_movies,7
+12281,tolong pesankan aku sebuah tiket kereta dari jakarta ke bandung,transport_ticket,8
+10080,ayo masak bakso bareng,cooking_recipe,3
+6023,apakah malam ini akan lembab,weather_query,9
+6755,tolong hapus kalender saya,calendar_remove,2
+9930,berapa lama saya harus merebus telur,cooking_recipe,3
+12308,pesankan saya tiket kereta,transport_ticket,8
+1653,kapan akan hujan lagi,weather_query,9
+9768,terus bacakan buku audio,play_audiobook,6
+3426,di luar berapa derajat,weather_query,9
+9844,lanjutkan bab terakhir dari audio book yang sebelumnya saya dengarkan,play_audiobook,6
+16437,tolong kirim email ini ke teman saya,email_sendemail,5
+8182,bisa hapus janji temu dokter gigi,calendar_remove,2
+15802,balas email ke jason kalau saya tidak akan datang malam ini,email_sendemail,5
+12166,pesan tiket kereta aku dari bandung ke surabaya,transport_ticket,8
+6151,saya ingin tau cuaca hari ini,weather_query,9
+8562,hapus jadwal rapat saya jam dua siang hari ini,calendar_remove,2
+9853,alexa mulai dari bagian terakhir buku pada sebuah kapal,play_audiobook,6
+6376,apa film iran yang bagus dari dua ribu enam belas,recommendation_movies,7
+5837,beri tahu cuaca minggu ini,weather_query,9
+9897,mulai tom clancy splinter cell,play_audiobook,6
+279,bagaimana perkiraan cuaca hari ini di dki jakarta,weather_query,9
+4673,tolong daftar semua alarm saya,alarm_query,0
+4121,pukul berapa kamu mengatur alarm,alarm_query,0
+3852,bagaimana cuaca di depok jabar saat ini,weather_query,9
+333,apa kondisi cuaca di jakarta,weather_query,9
+9767,putar audiobook planets,play_audiobook,6
+16622,kirimkan sebuah surel ke kontak ini,email_sendemail,5
+16717,bisa kirim email ke john isinya saya sedang cuti,email_sendemail,5
+4212,apakah saya bisa memotong rumput malam ini,weather_query,9
+4383,bagaimana cuaca besok,weather_query,9
+17015,mulai balas,email_sendemail,5
+15906,balas terima kasih ke andi,email_sendemail,5
+11633,film film apa saja yang sedang tayang di bioskop hari ini,recommendation_movies,7
+5332,jam antara amerika dan kanada,datetime_convert,4
+4376,bagaimana kondisi di luar hari ini,weather_query,9
+8771,tolong hapus perjalanan belanja karena saya mempunyai jadwal di tanggal dua puluh tiga maret,calendar_remove,2
+7609,hapus pengingat rapat untuk selasa,calendar_remove,2
+9732,buka audiobook kisah para nabi,play_audiobook,6
+5009,apakah saya membutuhkan payung minggu ini,weather_query,9
+9902,mainkan saya audio book acak yang ada hubungannya dengan cinta,play_audiobook,6
+9885,tolong putar audio the notebook,play_audiobook,6
+9694,lanjutkan dan mainkan kembali lagu rindu aku ini,play_audiobook,6
+12468,carikan saya tiket kereta tujuan surabaya,transport_ticket,8
+13181,periksa semua harga bioskop dan ketersediaan untuk film yang baru dirilis di lokasi saya,recommendation_movies,7
+11858,film film dengan ulasan bagus,recommendation_movies,7
+5902,cek apakah alarmnya terpasang untuk jam enam pagi,alarm_query,0
+16398,kirim surel ke joko,email_sendemail,5
+2615,apakah hari rabu saya perlu pakai jaket,weather_query,9
+10061,apa yang perlu saya buat untuk makan malam,cooking_recipe,3
+10081,beritahu saya bagaimana cara memasak bakso,cooking_recipe,3
+15829,buka kontak dan masukkan alamat email baru,email_sendemail,5
+6039,apakah besok akan hujan,weather_query,9
+1549,apakah minggu ini akan hujan,weather_query,9
+8055,hapus janji temu saya di tanggal tujuh maret,calendar_remove,2
+2611,ramalan cuaca saat ini,weather_query,9
+9943,berapa lama waktu yang dibutuhkan untuk membuat lasagna sayuran,cooking_recipe,3
+5176,bagaimana kira kira cuaca minggu ini,weather_query,9
+3253,haruskah kami mempersiapkan untuk hujan sore hari ini,weather_query,9
+8925,hapus semua acara di kalender saya,calendar_remove,2
+8853,hapus kegiatan saya berikutnya,calendar_remove,2
+17113,buat email ke yulia,email_sendemail,5
+4449,apakah akan turun hujan pukul satu siang hari ini,weather_query,9
+8856,hapus semua acara di kalender,calendar_remove,2
+9689,jeda bukunya,play_audiobook,6
+9857,pilihan saya untuk memutar audio dari pertama,play_audiobook,6
+862,pengaturan alarm,alarm_query,0
+16624,saya butuh sebuah email untuk dikirimkan ke telkomsel tentang masalah layanan saya,email_sendemail,5
+3338,laporkan cuaca di jakarta,weather_query,9
+826,bagaimana suhu di luar saat ini,weather_query,9
+9878,tolong lanjutkan audiobook saya,play_audiobook,6
+7080,batalkan semua nya dari kalender saya,calendar_remove,2
+9986,mendidih,cooking_recipe,3
+861,alarm yang saya atur,alarm_query,0
+726,ringkaskan detil cuaca minggu ini,weather_query,9
+16402,kirim email ke tini rencana untuk hari ini,email_sendemail,5
+16916,hey balas email yang saya terima,email_sendemail,5
+7660,batalkan semua janji saya jam tiga sore hari ini dan informasikan detilnya,calendar_remove,2
+11871,rekomendasikan film yang tayang di daerah saya,recommendation_movies,7
+8241,hapus semuanya dari kalender saya di sisa tahun ini,calendar_remove,2
+16005,kirim email ke joseph at gmail dot com,email_sendemail,5
+4776,beri tahu saya alarm apa yang menyala,alarm_query,0
+5204,ubah jam delapan pagi di yogyakarta ke waktu jakarta,datetime_convert,4
+9912,olly berapa lama saya harus merebus telur,cooking_recipe,3
+3161,apakah ada alarm pukul enam pagi besok,alarm_query,0
+16780,kirim email ke juanpedro at gmail dot com,email_sendemail,5
+10125,apa perbedaan antara memanggang dan broil,cooking_recipe,3
+16406,alexa mulai tulis email,email_sendemail,5
+10182,berapa banyak telur yang dibutuhkan untuk sebuah omelet,cooking_recipe,3
+12874,tolong tiket kereta,transport_ticket,8
+9718,lanjutkan bumi manusia,play_audiobook,6
+2545,bagaimana cuacanya,weather_query,9
+16072,email bos saya kalau saya akan terlambat hari ini karena ada urgensi dan minta maaf padanya karena sudah melewatkan rapat,email_sendemail,5
+10027,petunjuk untuk membuat masakan,cooking_recipe,3
+12104,nussa dan rara,recommendation_movies,7
+10217,carikan resep gulai di aplikasi cookingforu,cooking_recipe,3
+15857,tolong kirim ke alamat email baru yang tertera,email_sendemail,5
+1862,kapan alarm saya berbunyi,alarm_query,0
+9754,olly ayo dengarkan bumi manusia,play_audiobook,6
+16103,kirim email ke saudara laki laki aku dan ucapkan selamat hari jadi pernikahan,email_sendemail,5
+5219,tolong kecilkan volume pengeras suaranya,audio_volume_down,1
+8631,hapus itu dari kalender saya,calendar_remove,2
+16459,pesan baru ke newmail at gmail dot com,email_sendemail,5
+3486,tolong bicara lebih lembut,audio_volume_down,1
+11273,putar episode selanjutnya dari harry potter oleh j. k. rowling,play_audiobook,6
+7836,hapus semua acara,calendar_remove,2
+951,bagaimana cuaca sekarang di pontianak,weather_query,9
+1048,turunkan volume pengeras suara,audio_volume_down,1
+15957,email alice agar dia tahu kita dalam perjalanan,email_sendemail,5
+9923,berapa lama waktu yang dibutuhkan untuk merebus telur,cooking_recipe,3
+10119,berapa lama ayam enam kilogram harus dimasak,cooking_recipe,3
+12469,beli tiket kereta ke jakarta,transport_ticket,8
+16162,kirim balasan,email_sendemail,5
+16320,saya ingin balas surat elektronik boris bokir,email_sendemail,5
+16375,susun email ke joko,email_sendemail,5
+16995,kirim email ke jessica,email_sendemail,5
+5497,berapa perbedaan waktu antara bandung dan jakarta,datetime_convert,4
+4871,bagaimana cuaca di luar,weather_query,9
+4130,apakah alarm pengingat saya sudah disetel untuk kelas tari,alarm_query,0
+10150,bagaimana cara membuat taco,cooking_recipe,3
+6050,apakah nanti aku membutuhkan tabir surya,weather_query,9
+9962,apa cara terbaik untuk memasakn pasta al dente,cooking_recipe,3
+15995,surel ke kiki tentang rapat anggaran,email_sendemail,5
+102,bagaimana cuaca minggu ini,weather_query,9
+9855,mulai audio playback twilight lagi,play_audiobook,6
+5439,apakah saya membutuhkan payung malam ini,weather_query,9
+5823,turunkan dua puluh persen,audio_volume_down,1
+16892,mulai surel ke joko santosa,email_sendemail,5
+10171,apa resep untuk sup ikan,cooking_recipe,3
+5611,kurangi volume,audio_volume_down,1
+944,bagaimana perbedaan waktu antara disini dan di jepang,datetime_convert,4
+5128,konfirmasi tiket perjalanan ke malaysia,transport_ticket,8
+6726,batalkan rapat berikutnya,calendar_remove,2
+7993,hapus semua acara dari kalender aku,calendar_remove,2
+16501,tolong kirim email untuk teman saya divya apa kabarmu,email_sendemail,5
+10099,apakah kamu tahu cara memasak risotto,cooking_recipe,3
+334,saya ingin tahu cuaca di semarang,weather_query,9
+16703,saya ingin membalas surel terbaru,email_sendemail,5
+1458,seberapa panas di balikpapan,weather_query,9
+17143,hei kirim email ke dimas,email_sendemail,5
+7912,alexa hapus makan malam dengan dodi dari kalender saya,calendar_remove,2
+16376,alexa tolong kirim email ke ibu saya,email_sendemail,5
+5953,apakah kota ini lebih murah atau lebih mahal untuk hidup,weather_query,9
+9881,buka audiobook,play_audiobook,6
+319,beri tahu cuaca di bogor dua hari dari sekarang,weather_query,9
+6194,bagaimana cuaca hari ini,weather_query,9
+3447,cuaca sepertinya memanggil untuk hujan hari sabtu,weather_query,9
+8430,batalkan semua janji temu saya,calendar_remove,2
+508,alarm alarm apa saja yang disetel,alarm_query,0
+1646,apakah ada alarm yang menyala hari ini,alarm_query,0
+10224,rasanya harus,cooking_recipe,3
+2451,tujuh ratus,datetime_convert,4
+5339,kondisi dingin menurun,weather_query,9
+1483,alarm apa yang sudah saya atur,alarm_query,0
+8302,hapus rapat senin depan,calendar_remove,2
+11764,sistim cisco,recommendation_movies,7
+16559,kirim balasan ke mika dengan jawaban empat ratus tiga puluh dari emailnya yang dikirim pagi ini,email_sendemail,5
+1160,akan seberapa dingin suhu setiap malam minggu ini,weather_query,9
+10097,saya mau burger keju,cooking_recipe,3
+4132,sebutkan persentase kemungkinan hujan di bandung jawa barat hari ini,weather_query,9
+8410,hapus acara makan malam saya untuk hari senin,calendar_remove,2
+4680,haruskan saya memakai sandal atau sepatu dengan kaos kaki,weather_query,9
+1266,kalau sekarang jam lima pagi di bandung sekarang jam berapa di sini,datetime_convert,4
+16282,kirim email ke asisten aku clara buat batalin semua janji besok,email_sendemail,5
+9994,bisa kasih tahu cara masak pepes tahu,cooking_recipe,3
+512,dengan peter pan,weather_query,9
+8985,ok google hapus ulang tahun budi dari kalender,calendar_remove,2
+12606,saya butuh tiket kereta tujuan malang dari cirebon,transport_ticket,8
+16314,kirim email ke dewi,email_sendemail,5
+9977,cari video youtube di internet yang cocok buat masakan khas italia,cooking_recipe,3
+16519,aku harus tambahkan email baru ke kontakku,email_sendemail,5
+4482,apakah saya perlu menyekop jalan masuk saya pagi ini,weather_query,9
+15841,buat email baru untuk ray,email_sendemail,5
+10206,gimana cara masak nasi,cooking_recipe,3
+5085,apa perkiraan cuaca di hari sabtu,weather_query,9
+12293,tiket tujuan jakarta,transport_ticket,8
+3870,kapan waktu bangun tidur saya untuk alarm yang saya atur untuk penerbangan akhir pekan ini,alarm_query,0
+9976,hei robot berikan saya daftar bahan bahan untuk opor ayam,cooking_recipe,3
+12873,tiket kereta,transport_ticket,8
+16883,kirim email ke jerry tanyakan jam berapa dia akan sampai di rumah malam ini,email_sendemail,5
+4290,haruskah saya membawa jaket malam ini,weather_query,9
+590,bagaimana cuaca terkini,weather_query,9
+9979,buatkan saya havermut,cooking_recipe,3
+9700,tolong mainkan biografi dari joe taslim,play_audiobook,6
+8888,hapus itu,calendar_remove,2
+16886,balas pesan ini,email_sendemail,5
+12689,pesankan tiket kereta dari sini ke purwakarta hari ini jawa barat di jam delapan pagi,transport_ticket,8
+1684,benar atau tidak suhu besok akan panas,weather_query,9
+16430,tolong kirimkan surel ke ibu dan ayah isinya tanyakan bagaimana keadaan mereka,email_sendemail,5
+6093,haruskah saya membuka kaca atap mobil,weather_query,9
+10197,tampilkan resep terbaik untuk spaghetti,cooking_recipe,3
+16280,tolong kirim email ke dinda yang ada di daftar keluarga dan teman,email_sendemail,5
+9969,apa bahan yang bisa digunakan selain kunyit,cooking_recipe,3
+16701,saya ingin membalas emailnya sarah,email_sendemail,5
+16318,balas email,email_sendemail,5
+17147,balas email dengan konten berikut halo anda,email_sendemail,5
+5578,saya akan butuh kaus kaki hangat di pagi musim dingin,weather_query,9
+1401,saya sesekali memperhatikan,weather_query,9
+6928,hapus semua acara,calendar_remove,2
+16938,balas surel ke joko,email_sendemail,5
+9956,apa yang bisa saya gunakan untuk menggantikan mentega,cooking_recipe,3
+9691,buka buku audio sapiens,play_audiobook,6
+9095,hapus makan malam malam ini dengan shelly,calendar_remove,2
+16024,kirim email ke joni katakan saya sibuk besok,email_sendemail,5
+5465,bisakah saya memakai sandal saya hari ini,weather_query,9
+5722,tampilkan ramalan cuaca tujuh hari untuk minggu ini,weather_query,9
+15845,bagaimana itu datang ke kita,email_sendemail,5
+8670,hapus acara dari kalender,calendar_remove,2
+16131,email baru ini harus ditambahkan ke kontak saya,email_sendemail,5
+15825,balas ke ayah tulis saya akan terlambat,email_sendemail,5
+5468,apakah saya perlu kacamata hitam,weather_query,9
+16377,kirim sebuah email ke ibu sekarang,email_sendemail,5
+3936,berapa suhu,weather_query,9
+10226,kasih tahu aku resep persiapan pasta,cooking_recipe,3
+16838,dapatkah anda mengirim email ke id email baru,email_sendemail,5
+16961,menanggapi dengan,email_sendemail,5
+8284,hapus ulang tahun dari kalender,calendar_remove,2
+9952,berikan saya tutorial memasak,cooking_recipe,3
+5524,cuaca saat ini,weather_query,9
+14646,kasih tahu aku harga pesawat termurah ke semarang hari ini,transport_ticket,8
+9827,lanjutkan lagu dari audiobook oleh the beatles,play_audiobook,6
+9088,hapus semuanya dari kalender saya,calendar_remove,2
+10048,bagaimana cara membuat kalkun,cooking_recipe,3
+12537,carikan tiket kereta dengan harga termurah ke singapura,transport_ticket,8
+9924,beritahu saya resep untuk,cooking_recipe,3
+10077,temukan resep untuk makan malam malam ini,cooking_recipe,3
+491,apakah di luar dingin,weather_query,9
+6116,info cuaca minggu ini,weather_query,9
+5122,periksa apakah alarm default sudah disetel,alarm_query,0
+16419,tolong kirim email ke paman joko bahwa saya bisa,email_sendemail,5
+16518,tambahkan email baru untuk julie smith,email_sendemail,5
+348,apakah besok akan hujan,weather_query,9
+4168,tolong cek cuaca di kendari,weather_query,9
+5758,bagaimana cuaca di ibu kota,weather_query,9
+2220,cuaca di jakarta,weather_query,9
+9182,batalkan rencana untuk menjemput orang tua saya dari bandara,calendar_remove,2
+6172,apakah kaca mata hitam pilihan yang tepat hari ini,weather_query,9
+219,haruskah saya membawa payung besok,weather_query,9
+9931,olly berapa lama saya harus merebus telur,cooking_recipe,3
+1249,cuaca minggu ini akan seperti apa,weather_query,9
+1308,bagaimana perkiraan iklim hari ini disini,weather_query,9
+6178,apakah saya perlu memakai jaket,weather_query,9
+10090,apakah saya bisa mendapatkan resep dengan tuna,cooking_recipe,3
+8276,hapus janji saya berikutnya yang sudah dijadwalkan,calendar_remove,2
+12127,aku harus naik kereta ke semarang di hari minggu jam lima pagi,transport_ticket,8
+3809,pelankan volume pengeras suara,audio_volume_down,1
+12723,belikan aku tiket ke makassar,transport_ticket,8
+10049,beritahu saya cara membuat roti sisir,cooking_recipe,3
+3784,tunjukkan laporan cuaca di surabaya,weather_query,9
+1191,jika sekarang matahari terbit di jakarta jam berapa di bali,datetime_convert,4
+4524,oki bagaimana ramalan cuaca hari ini,weather_query,9
+14648,resep tolong,cooking_recipe,3
+1351,apakah cuaca akan cerah minggu ini,weather_query,9
+16591,aku baru aja dapat email dari bill aku harus balas sekarang juga,email_sendemail,5
+2320,bagaimana cuaca hari jumat,weather_query,9
+2890,cuaca terkini,weather_query,9
+16120,bantuan hanya akan dikirimkan ke jane,email_sendemail,5
+7500,bisakah anda menghapus acara berikutnya,calendar_remove,2
+9856,putar buku twilight,play_audiobook,6
+10164,berapa lama saya harus memasak makaroni,cooking_recipe,3
+8516,hapus item kalender,calendar_remove,2
+2673,apakah saya ingat untuk menyetel alarm pengingat untuk janji temu dokter saya berikutnya,alarm_query,0
+9760,berhenti,play_audiobook,6
+6069,apakah mungkin akan ada badai hari ini,weather_query,9
+8100,email janji temu saya untuk dijadwalkan ulang,email_sendemail,5
+8431,hapus semua acara terjadwal saya,calendar_remove,2
+2309,pukul tujuh pagi di waktu standar pasifik,datetime_convert,4
+11862,rekomendasikan film untuk saya,recommendation_movies,7
+12453,pesan tiket kereta paling murah,transport_ticket,8
+3669,beri tahu saya waktu di suatu tempat,datetime_convert,4
+2178,bagaimana kondisi cuaca saat ini di tempat saya,weather_query,9
+11812,film apa saja yang diputar malam ini,recommendation_movies,7
+12233,google tiket kereta ke d. k. i. jakarta,transport_ticket,8
+5797,haruskah saya memakai jas hujan sebelum pergi,weather_query,9
+3306,apa ramalan untuk seminggu,weather_query,9
+6289,hey bagaimana cuaca hari ini,weather_query,9
+16872,cari kiki di daftar kontak saya dan kirimkan dia surel,email_sendemail,5
+4402,apakah saya perlu membawa bobi hari ini,weather_query,9
+8769,hapus acara yang akan datang,calendar_remove,2
+4112,ubah waktu saat ini dari g. m. t. ke e. s. t.,datetime_convert,4
+1639,tolong turunkan volume,audio_volume_down,1
+12607,aku harus beli tiket kereta ke bekasi dari jakarta barat,transport_ticket,8
+9964,pengetahuan tentang pengolahan makanan,cooking_recipe,3
+10100,apakah anda tahu resep untuk risotto,cooking_recipe,3
+16630,kirim balasan ke email terakhir,email_sendemail,5
+3034,beri tahu temperatur,weather_query,9
+4851,apakah alarm saya sudah diatur,alarm_query,0
+1658,saya ingin melihat semua alarm,alarm_query,0
+12511,pesankan tiket kereta,transport_ticket,8
+4375,cek semua alarm,alarm_query,0
+16880,kirim email ke putra mengenai rapat,email_sendemail,5
+9955,perlihatkan video memasak ayam goreng,cooking_recipe,3
+10045,apakah anda dapat memberikan saya resep untuk sup mi ayam buatan rumah,cooking_recipe,3
+16266,buat email ke keluarga aku isinya aku sayang kalian semua,email_sendemail,5
+7820,hapus semua acara di kalender,calendar_remove,2
+16296,kirim email ke ibu untuk memberitaunya bahwa pesta ulang tahun inu itu hari minggu,email_sendemail,5
+11634,film apa yang haru saya tonton hari ini,recommendation_movies,7
+11636,film apa yang diputar di sekitar saya,recommendation_movies,7
+5333,perbedaan waktu antara inggris dan amerika,datetime_convert,4
+10023,apa yang saya butuhkan untuk membuat sate kambing,cooking_recipe,3
+61,alarm apa saja yang sudah saya setel,alarm_query,0
+16535,bisakah anda menulis email ke cici,email_sendemail,5
+2777,apakah saya perlu membawa payung hari ini,weather_query,9
+16698,tulis balasan ke email ibu saya,email_sendemail,5
+10132,berapa lama saya harus memasak steak agar kematangannya medium,cooking_recipe,3
+10156,saya perlu tahu cara membuat paprika isi,cooking_recipe,3
+4355,bagaimana cuaca di tempat saya berada,weather_query,9
+6761,hapus dari kalender saya pertemuan jam sembilan pagi,calendar_remove,2
+5037,seberapa dingin hari ini,weather_query,9
+1264,apakah alarm saya dipasang untuk besok pagi,alarm_query,0
+6101,apakah ada alarm yang menyala,alarm_query,0
+16245,kirim email ke joe at a. o. l. dot com,email_sendemail,5
+9909,tetap mainkan laskar pelangi,play_audiobook,6
+17043,kirim surel ke tim at hotmail dot com,email_sendemail,5
+7953,tolong hapus janji temu dengan dokter aku di hari sabtu,calendar_remove,2
+16028,hei siri mulai sebuah email ke rekan kerja,email_sendemail,5
+9030,hapus dari kalender saya janji temu medis untuk hari ini,calendar_remove,2
+4784,apakah aku butuh jaket,weather_query,9
+16049,saya ingin mengirim email ke keluarga saya apakah anda membantu saya,email_sendemail,5
+1715,turunkan volume ke lima puluh persen,audio_volume_down,1
+4486,berikan saya perkiraan cuaca minggu ini,weather_query,9
+2258,apakah hari ini saya butuh sweter,weather_query,9
+16593,email yang terakhir itu harus dibalas segera,email_sendemail,5
+12150,olly pesankan saya tiket ke jakarta pada pekan ini menggunakan traveloka,transport_ticket,8
+1635,jam berapa alarm saya berbunyi,alarm_query,0
+15950,balas surel dari gina sudrajat,email_sendemail,5
+16401,kirim email ke dona hey apa yang kamu lakukan hari ini,email_sendemail,5
+5433,akankah nanti turun hujan,weather_query,9
+10076,apakah anda bisa menggantikan baking soda dengan baking powder,cooking_recipe,3
+17123,formulir email untuk regional v. p.,email_sendemail,5
+16989,tolong katakan ke email budi bahwa saya membutuhkan uang itu sekarang mendesak,email_sendemail,5
+12722,pesankan tiket kereta tujuan jakarta,transport_ticket,8
+10016,cara masak lemang untuk lebaran dalam lima kalimat itu apa,cooking_recipe,3
+7890,hapus potong rambut hari ini,calendar_remove,2
+1513,bagaimana suhu di luar,weather_query,9
+3408,apakah cuaca akan bagus di akhir minggu ini,weather_query,9
+764,bagaimana perkiraan cuaca minggu ini,weather_query,9
+16613,kirim email ke atasan saya dan katakan saya akan terlambat,email_sendemail,5
+3162,perlihatkan saya alarm yang saya atur,alarm_query,0
+9761,tahan,play_audiobook,6
+6542,apakah keju lembut lebih baik dari yang keras,cooking_recipe,3
+9895,tetap memutar secret garden,play_audiobook,6
+9875,bacakan sedikit lagi buku n. h. dini,play_audiobook,6
+6729,batalkan sarapan di rumah tiffany,calendar_remove,2
+3586,bagaimana cuaca di jakarta,weather_query,9
+16560,balas email bos bosku dengan kabar bahwa aku akan masuk jam empat sore,email_sendemail,5
+5040,bagaimana cuaca saat ini,weather_query,9
+1400,saya paling memperhatikan,weather_query,9
+9812,buka audiobook harry potter dan putar dari bagian terakhir kali diputar,play_audiobook,6
+10053,bagaimana cara membuat pizza,cooking_recipe,3
+17023,kirimkan ibu surel dan tanyakan bagaimana cuaca di sana,email_sendemail,5
+1542,matahari bersinar cerah akankah kita mendapat cuaca seperti ini di sisa hari ini,weather_query,9
+5038,bagaimana cuaca minggu ini,weather_query,9
+11987,cari film di dekat saya,recommendation_movies,7
+796,konfirmasi pengaturan alarm saya,alarm_query,0
+1722,berapa suhu terendah di bandung,weather_query,9
+9896,putar mulai dari bab kelima dari bumi manusia,play_audiobook,6
+10019,beritahu saya bagaimana cara membuat dua belas biskuit oatmeal,cooking_recipe,3
+4436,jaket apa yang harus digunakan,weather_query,9
+16791,buat email baru tapi saya punya email baru sekarang yaitu brandon at example dot com,email_sendemail,5
+5321,menunjukkan cuaca,weather_query,9
+10072,waktu memanggang ayam di oven,cooking_recipe,3
+7087,tolong batalkan rapat besok dari kalender saya,calendar_remove,2
+15756,tolong email tim saya,email_sendemail,5
+11920,film apa yang akan keluar pada minggu ini,recommendation_movies,7
+5074,bagaimana cuaca pekan ini,weather_query,9
+4845,berapa jam pebedaan antara lokasi saya dan jakarta,datetime_convert,4
+17151,teman saya joko telah mengirim kan saya kartu undangan untuk pembelian rumah baru ucapkan terimakasih kepadanya di id emailnya,email_sendemail,5
+17019,buat balasan ke email terakhir,email_sendemail,5
+9720,lanjutkan buku harry potter empat,play_audiobook,6
+9918,bagaimana cara membuat pizza,cooking_recipe,3
+10031,aku butuh resep yang bahan bahannya ada di daftar belanja aku,cooking_recipe,3
+1589,hari selasa depan apakah akan cerah,weather_query,9
+8001,hapus potong rambut yang sudah saya jadwalkan hari jumat,calendar_remove,2
+16166,dapatkah anda membalas joko bahwa saya akan sibuk dengan proyek-proyek selama tiga minggu ke depan,email_sendemail,5
+2322,bagaimana cuaca besok,weather_query,9
+7741,hapus kalender saya untuk hari sabtu,calendar_remove,2
+4227,adakah kemungkinan hujan minggu depan,weather_query,9
+7870,hapus acara dari kalender saya,calendar_remove,2
+5301,bagaimana cuaca tanggal dua puluh maret dua ribu tujuh belas,weather_query,9
+5661,apakah saya harus membawa jas hujan,weather_query,9
+9678,bisakah kamu memutar kisah kerajaan jambi,play_audiobook,6
+6127,apakah kamu menyarankan membawa payung,weather_query,9
+9009,hapus acara anniversary dari kalender saya,calendar_remove,2
+9194,tolong hapus acara ini dari kalender saya,calendar_remove,2
+8409,hapus makan malam saya besok,calendar_remove,2
+1547,bagaimana cuaca di lokasi saya minggu ini,weather_query,9
+12814,tolong pesankan aku tiket dari surabaya tujuan jepara di hari selasa,transport_ticket,8
+9680,lanjutkan harry potter dari bagian yang saya berhenti dengarkan terakhir kali,play_audiobook,6
+3305,bagaimana cuaca minggu ini di jogjakarta,weather_query,9
+4145,alarm apa yang saya atur hari ini,alarm_query,0
+3096,bagaimana cuaca di sumatera utara,weather_query,9
+15847,bagaimana kita bisa mendapatkan kredit,email_sendemail,5
+12235,tolong beli tiket kereta buat akhir pekan ini,transport_ticket,8
+4614,akankah suhu lebih tinggi dari empat puluh besok,weather_query,9
+4266,bagaimana cuaca hari ini,weather_query,9
+11990,film apa di bioskop yang tidak jelek,recommendation_movies,7
+6958,pastikan tidak ada acara di kalender aku,calendar_remove,2
+10105,berapa lama waktu yang dibutuhkan untuk memasak daging panggang dengan kematangan medium rare,cooking_recipe,3
+16410,tulis email,email_sendemail,5
+5871,bagaimana iklim di sukabumi hari ini,weather_query,9
+16891,kirimkan email ke bogi rudianto,email_sendemail,5
+1655,apakah akan turun salju besok siang,weather_query,9
+6177,apakah saya akan membutuhkan payung hari ini,weather_query,9
+5721,tunjukkan cuaca besok di wilayah ini,weather_query,9
+7891,batalkan makan malam malam ini,calendar_remove,2
+11695,apakah anda memiliki saran untuk film aksi,recommendation_movies,7
+2679,apakah suhu akan tetap sama atau akan lebih dingin,weather_query,9
+4439,bagaimana cuaca di bontang,weather_query,9
+2423,berikan saya perkiraan cuaca hari ini di jakarta,weather_query,9
+832,hey bagaimana prakiraan cuaca besok,weather_query,9
+9669,saya ingin mendengarkan sekolah itu candu oleh roem topatimasang,play_audiobook,6
+3532,tolong ubah zona waktu ke kediri,datetime_convert,4
+16944,kirim sebuah email ke nenek yang mengatakan kita akan mampir hari sabtu sampai ketemu nanti,email_sendemail,5
+6025,apakah saya membutuhkan tabir surya siang ini,weather_query,9
+11733,bagaimana tentang film baru ayat ayat cinta,recommendation_movies,7
+2678,apakah malam ini akan hujan,weather_query,9
+5996,apakah saya akan butuh sepatu salju siang ini,weather_query,9
+13023,perlihatkan saya resep,cooking_recipe,3
+16201,tolong muat email baru untuk eko dan kirim pesan sekarang,email_sendemail,5
+7295,tolong bersihkan kalender aku,calendar_remove,2
+12381,pesankan saya tiket kereta dari pemalang ke jakarta,transport_ticket,8
+3337,laporkan cuaca untuk tiga puluh tiga ribu tujuh ratus tujuh dan empat puluh,weather_query,9
+9961,berapa suhu oven terbaik untuk memanggang kentang,cooking_recipe,3
+10093,bagaimana cara mie dibuat,cooking_recipe,3
+100,apa perkiraan cuaca minggu ini,weather_query,9
+6411,bagaimana cuaca rabu depan,weather_query,9
+16082,kirim email ke joko dan tanyakan padanya bagaimana kabarnya sekarang bisakah saya melakukan sesuatu untuk membantunya,email_sendemail,5
+3474,tolong kecilkan volume musik,audio_volume_down,1
+16438,saya butuh surat elektronik ini dikirim sekarang,email_sendemail,5
+3503,bagaimana cuaca di nganjuk,weather_query,9
+16496,kirim email balasan,email_sendemail,5
+5732,haruskah saya segera mengganti ban salju,weather_query,9
+12306,pesankan tiket kelas pertama kereta yang selanjutnya tujuan pangandaran,transport_ticket,8
+16947,balas email,email_sendemail,5
+10772,hapus janji dokter gigi dari jadwal hari ini,calendar_remove,2
+16297,kirim email ke sani untuk mengatakan terima kasih,email_sendemail,5
+15796,kirim surel ke tati,email_sendemail,5
+6997,hapus semua acara yang sudah berhasil,calendar_remove,2
+1933,apakah akan ada penurunan suhu malam ini,weather_query,9
+7289,hapus semua acara dengan johan,calendar_remove,2
+3614,ini hari yang cerah kan,weather_query,9
+7294,hapus janji temu dengan gilang ramadhan dari kalender saya,calendar_remove,2
+8666,hapus semua acara dari kalender saya,calendar_remove,2
+9940,temukan resep kue cokelat,cooking_recipe,3
+1683,suhu besok akan panas benar atau tidak,weather_query,9
+344,apakah besok akan hujan,weather_query,9
+5006,jam berapa alarm saya diatur,alarm_query,0
+9941,bagaimana cara memasak ayam mentega,cooking_recipe,3
+12339,pesankan satu tiket kereta sekali jalan untuk selasa sekarang di jam sembilan pagi,transport_ticket,8
+3886,ada alarm yang saat ini terdaftar,alarm_query,0

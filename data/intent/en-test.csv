@@ -1,0 +1,566 @@
+id,text,intent,label
+16518,add a new email for julie smith,email_sendemail,5
+5037,how cold is today,weather_query,9
+16883,send an email to jerry ask what time will he be home tonight,email_sendemail,5
+2615,will i need to wear a jacket next wednesday,weather_query,9
+4917,temperature outside,weather_query,9
+6069,are storms likely today,weather_query,9
+3338,report weather for largo,weather_query,9
+8949,please remove remainder,calendar_remove,2
+4376,how is it outside today,weather_query,9
+12874,train ticket please,transport_ticket,8
+9931,olly how long should i boil the egg,cooking_recipe,3
+2545,how is the weather,weather_query,9
+512,by get marks,weather_query,9
+16318,respond to email,email_sendemail,5
+3407,are there any forecasts of rain or snow this week,weather_query,9
+3096,how's the weather like in new jersey,weather_query,9
+9694,resume the playback of a child called it,play_audiobook,6
+15857,please send to new email address listed,email_sendemail,5
+9669,i want to listen to be more chill by ned vizzini,play_audiobook,6
+5955,how safe is the city regarding law and order,weather_query,9
+6798,remove my next event,calendar_remove,2
+1862,when does my alarm go off,alarm_query,0
+12339,book a train ticket for one one way for this tuesday at nine am,transport_ticket,8
+3809,slow down the speaker volume,audio_volume_down,1
+2423,please give me todays forecast for new york city,weather_query,9
+16297,send an email to jake to tell him thank you,email_sendemail,5
+9074,please remove that event,calendar_remove,2
+790,mild or heavy weather,weather_query,9
+10078,what should i cook for supper,cooking_recipe,3
+16698,write a reply to my mother's email,email_sendemail,5
+16438,i need this email sent now,email_sendemail,5
+7870,delete event from calendar,calendar_remove,2
+17042,write an email for john at gmail dot com,email_sendemail,5
+9964,knowledge about food processing,cooking_recipe,3
+7836,delete all events,calendar_remove,2
+9676,resume my audio book from karl pilkington,play_audiobook,6
+10206,how is rice prepared,cooking_recipe,3
+12722,order a train ticket to boston,transport_ticket,8
+5732,shall i change my car tires to snow tires soon,weather_query,9
+3503,what is the weather in pittsburgh,weather_query,9
+16944,send an email to grandma saying we are dropping by on saturday see you then,email_sendemail,5
+491,is it cold outside,weather_query,9
+9875,read some more of the daisy goodwin book for me,play_audiobook,6
+8430,cancel all my appointments,calendar_remove,2
+9088,wipe everything on my calendar,calendar_remove,2
+12293,ticket for delhi,transport_ticket,8
+9897,playback tom clancy splinter cell,play_audiobook,6
+6178,should i wear a jacket,weather_query,9
+6093,should i open the sun roof,weather_query,9
+15845,how its come to us,email_sendemail,5
+12814,please book a ticket form jaipur to mumbai on tuesday,transport_ticket,8
+12873,train ticket,transport_ticket,8
+5797,should i wear raincoat before getting out,weather_query,9
+9977,please search the internet and display the suitable youtube videos for cooking italian foods,cooking_recipe,3
+10214,recipes that can be cooked in an hour,cooking_recipe,3
+10019,please tell me how to i bake twelve oatmeal cookies,cooking_recipe,3
+9855,start audio playback of twilight again,play_audiobook,6
+9700,play biography of jackie kennedy,play_audiobook,6
+10053,how do i make pizza,cooking_recipe,3
+7080,cancel everything on my calendar,calendar_remove,2
+6172,are sunglasses a good choice for today,weather_query,9
+10213,list of famous biryani recipes,cooking_recipe,3
+10100,do you know recipe for risotto,cooking_recipe,3
+430,what is the weather like right now,weather_query,9
+16032,please send an email to sally regarding tomorrows meeting,email_sendemail,5
+11932,what should i watch today,recommendation_movies,7
+8888,delete it,calendar_remove,2
+50,olly tell me the time in g. m. t. plus five,datetime_convert,4
+10772,remove my dentist's appointment from today's schedule,calendar_remove,2
+8431,get rid of all my scheduled events,calendar_remove,2
+5871,hows mysore climate today,weather_query,9
+10038,i need good ideas for cooking,cooking_recipe,3
+5823,decrease twenty percent,audio_volume_down,1
+832,hey what will be the predicted weather for tomorrow,weather_query,9
+5332,time between us and canada,datetime_convert,4
+6289,hey what is the weather like today,weather_query,9
+16201,please load new email for bruce and send message now,email_sendemail,5
+1483,what alarms did i set,alarm_query,0
+12536,book me a train ticket to barcelona please,transport_ticket,8
+2679,will the temperature stay about the same or is it going to get colder,weather_query,9
+5953,is the city cheaper or costlier to live,weather_query,9
+219,should i bring an umbrella tomorrow,weather_query,9
+12723,buy me a ticket to boston,transport_ticket,8
+8241,clear everything off my calendar for the rest of the year,calendar_remove,2
+16559,send a reply to mike with the answer four hundred and thirty from his email he sent this morning,email_sendemail,5
+103,tell me the weather this week,weather_query,9
+16430,please send mom and dad an email asking how they are,email_sendemail,5
+6024,should i take a sweater or a coat to work today,weather_query,9
+12606,i need to get a ticket via train to orlando from hwood,transport_ticket,8
+4312,will the weather be less than ten degree in paris,weather_query,9
+12689,book a train ticket from here to charleston west virginia at eight am today,transport_ticket,8
+12308,book me a train ticket,transport_ticket,8
+16956,send email to new contact,email_sendemail,5
+17113,create email to yulia,email_sendemail,5
+16560,respond to my bosses email with the word that i will be in at four in the evening,email_sendemail,5
+7892,delete the next event today,calendar_remove,2
+4377,what's the current weather,weather_query,9
+8182,can you delete the dentist appointment,calendar_remove,2
+15829,go to contacts and enter a new email address,email_sendemail,5
+5038,what is the weather for this week,weather_query,9
+5122,check if default alarm is set,alarm_query,0
+16028,hey siri start an email to coworker,email_sendemail,5
+7294,remove the appointment with george adams from my calendar,calendar_remove,2
+12281,please book a train ticket from london to manchester,transport_ticket,8
+11633,what movies are showing in cinema today,recommendation_movies,7
+16148,quick reply to jack so please send a mail,email_sendemail,5
+9878,please resume my audiobook,play_audiobook,6
+1635,what times do my alarms go off,alarm_query,0
+1683,tomorrow's temperature is to be hot yes or no,weather_query,9
+8100,email my appointments to reschedule,email_sendemail,5
+3337,report weather for thirty three thousand seven hundred and seventy four,weather_query,9
+16005,send email to joseph at gmail dot com,email_sendemail,5
+15796,email chelsea,email_sendemail,5
+16591,i just got an email from bill i need to answer it right now,email_sendemail,5
+9895,keep playing secret garden,play_audiobook,6
+6151,i want to know today's weather,weather_query,9
+4375,review all alarms,alarm_query,0
+6127,do you recommend an umbrellas,weather_query,9
+12150,olly book me a ticket to paris on eurostar this weekend,transport_ticket,8
+2258,do i need a sweater today,weather_query,9
+9923,how long should i boil an egg,cooking_recipe,3
+11273,play next episode of harry potter by j. k. rowling,play_audiobook,6
+3702,olly do i have an alarm set for tomorrow,alarm_query,0
+12802,book a ticket to ny by train,transport_ticket,8
+4132,tell me the percentage of the chance of rain in seattle washington for today,weather_query,9
+6103,hey what will the weather be like to today in los angeles california,weather_query,9
+1866,weather report now,weather_query,9
+4436,what jacket should i wear,weather_query,9
+14648,recipe please,cooking_recipe,3
+10132,how long should i cook a steak to be medium,cooking_recipe,3
+1549,will it rain this week,weather_query,9
+3253,should we expect rain this afternoon,weather_query,9
+344,will it be rainy tomorrow,weather_query,9
+3161,do i have any alarms set for six am tomorrow,alarm_query,0
+944,what is the time difference between here and japan,datetime_convert,4
+1715,lower volume by fifty percent,audio_volume_down,1
+16049,i want to send an email to my family do you help me,email_sendemail,5
+9009,remove anniversary event from my calendar,calendar_remove,2
+16703,i would like to reply to the most recent email,email_sendemail,5
+1401,i occasionally pay attention,weather_query,9
+1684,yes or no tomorrow's temperature is to be hot,weather_query,9
+861,my set alarms,alarm_query,0
+4487,will it be raining on thursday,weather_query,9
+6761,remove from my calendar meeting at nine am,calendar_remove,2
+4313,will there be rain tomorrow in rome,weather_query,9
+9768,keep reading the audiobook to me,play_audiobook,6
+9971,what conducts heat better copper bottomed pots or cast iron,cooking_recipe,3
+2890,current weather,weather_query,9
+5524,weather at the moment,weather_query,9
+9962,what is the best way to cook pasta al dente,cooking_recipe,3
+216,how is the weather like today,weather_query,9
+6025,will i need sunscreen this afternoon,weather_query,9
+17143,hey send email to john,email_sendemail,5
+11764,cisco system,recommendation_movies,7
+16056,reply to email,email_sendemail,5
+17023,email mom and ask how the weather is there,email_sendemail,5
+9678,can you put on the giver,play_audiobook,6
+3870,what is the wake up time for my alarm i have set for the flight this weekend,alarm_query,0
+9956,what can i substitute butter with,cooking_recipe,3
+16729,respond to my email from bob letting them know i'll see them tomorrow,email_sendemail,5
+4402,will i need to carry around a brolly today,weather_query,9
+5433,is it going to rain later,weather_query,9
+7953,remove my appointment with my doctor on saturday please,calendar_remove,2
+4266,what is todays weather,weather_query,9
+5902,check if alarm is set for six am,alarm_query,0
+16410,compose email,email_sendemail,5
+6050,will i need sunscreen later,weather_query,9
+9844,continue the last chapter of the audio book i was listening to,play_audiobook,6
+8666,erase all events from my calendar,calendar_remove,2
+16886,reply this mail,email_sendemail,5
+5721,show me tomorrows weather in this area,weather_query,9
+10099,do you know how to cook risotto,cooking_recipe,3
+9918,how do i make a pizza,cooking_recipe,3
+16873,email naty for her birthday,email_sendemail,5
+9871,play my favorite book,play_audiobook,6
+12340,can you please book train tickets for two for this friday,transport_ticket,8
+16955,email to new contact,email_sendemail,5
+10107,i need a recipe of veg pulav,cooking_recipe,3
+7289,get rid of all events with jeff,calendar_remove,2
+5578,i will need warm socks in winter in morning,weather_query,9
+10048,how do i make a turkey,cooking_recipe,3
+7660,cancel all my appointments after three p. m. today and inform me the details,calendar_remove,2
+2957,is there an alarm for ten am,alarm_query,0
+3486,speak softer please,audio_volume_down,1
+9691,open audio book history of rome,play_audiobook,6
+5128,confirm a travel ticket to german,transport_ticket,8
+13023,show me recipes,cooking_recipe,3
+1191,if it's sunrise in stockholm what time is it in okinawa,datetime_convert,4
+16880,email jerry regarding the meeting,email_sendemail,5
+10055,what's the recipe for fried chicken,cooking_recipe,3
+7741,clear my calendar for saturday,calendar_remove,2
+9680,resume harry potter from the place i have stopped listening to last time,play_audiobook,6
+1933,will there be a fall in temperature by tonight,weather_query,9
+5837,tell me about this week's weather,weather_query,9
+5611,reduce volume,audio_volume_down,1
+2917,weekly weather report,weather_query,9
+7680,in my calendar delete all of my golf events for the current month,calendar_remove,2
+1400,i mostly pay attention,weather_query,9
+8410,remove my dinner event for monday,calendar_remove,2
+14646,tell me about the cheapest flight fares to nj today,transport_ticket,8
+16376,alexa please send an email to mom,email_sendemail,5
+5006,what times are my alarms set for,alarm_query,0
+12306,book a first class ticket in the next train to miami,transport_ticket,8
+10093,how is lasagne made,cooking_recipe,3
+1589,is it going to be sunny next tuesday,weather_query,9
+11861,what is the highest rated movie now out,recommendation_movies,7
+16947,reply email,email_sendemail,5
+5074,what was the weather for the week,weather_query,9
+5085,what is the forecast for saturday,weather_query,9
+7500,can you delete the next event,calendar_remove,2
+5040,what's the weather now,weather_query,9
+4614,will the temperature be higher than forty tomorrow,weather_query,9
+16419,please send an email to uncle john with the following yes i can make it,email_sendemail,5
+16120,help is to be sent only to jane,email_sendemail,5
+8771,delete the shopping trip i have scheduled march twenty third,calendar_remove,2
+10197,show me the best recipe for spaghetti,cooking_recipe,3
+10177,how to cook spaghetti squash,cooking_recipe,3
+10049,tell me how to make a poor boy sandwich,cooking_recipe,3
+15995,email karen about the budget meeting,email_sendemail,5
+4482,will i need to shovel my driveway this morning,weather_query,9
+11695,do you have any suggestion action movies,recommendation_movies,7
+7912,alexa remove dinner with mike from my calendar,calendar_remove,2
+11987,look up movies near me,recommendation_movies,7
+9767,play audiobook of planets,play_audiobook,6
+1547,what's the weather for my location this week,weather_query,9
+16245,send email to joe at a. o. l. dot com,email_sendemail,5
+12233,google train tickets to washington d. c.,transport_ticket,8
+2678,is it raining tonight,weather_query,9
+4130,is my reminder alarm set for dance class,alarm_query,0
+9772,please continue reading audiobook,play_audiobook,6
+5577,i will require full cover jacket if it is too stormy in evening,weather_query,9
+4449,is it going to rain at one p. m. today,weather_query,9
+16605,write and send email to my boss,email_sendemail,5
+15942,send this email to reply to the latest emails,email_sendemail,5
+16045,send mail to ismail for office opening time table,email_sendemail,5
+4121,what time have you set the alarm,alarm_query,0
+17151,my friend john has sent me a invitation card to his newly bought home say thanks to him in his mail id,email_sendemail,5
+16892,start and email to john smith,email_sendemail,5
+1264,is my alarm set for tomorrow morning,alarm_query,0
+15994,send an email to john asking him what time works for the meeting,email_sendemail,5
+8001,can you erase the haircut i have scheduled for friday,calendar_remove,2
+16995,send email to jessica,email_sendemail,5
+4290,should i bring a jacket with me tonight,weather_query,9
+12453,book train best deal,transport_ticket,8
+5204,convert eight am manila time to new york time,datetime_convert,4
+12291,ticket for bombay,transport_ticket,8
+8055,erase my appointment for march seven,calendar_remove,2
+1513,what's the temperature outside,weather_query,9
+11744,olly what are new drama movies opening this weekend,recommendation_movies,7
+3306,what is the forecast for the week,weather_query,9
+764,what is the weather forecast for this week,weather_query,9
+10226,let me know the recipe for preparing pasta,cooking_recipe,3
+10216,search in the web for buying bakeware for muffins,cooking_recipe,3
+299,what is the weather,weather_query,9
+3586,what is the weather in beijing,weather_query,9
+8302,remove next monday's meeting,calendar_remove,2
+16131,this new email should be added to my contact,email_sendemail,5
+5219,please reduce the speaker volume,audio_volume_down,1
+2220,weather in paris,weather_query,9
+9095,remove tonights dinner with shelly,calendar_remove,2
+4439,how is the weather in san francisco,weather_query,9
+6023,will it be a sticky night,weather_query,9
+3034,tell me the temperature,weather_query,9
+12127,i need to go to dundee at five am on sunday by train,transport_ticket,8
+17019,compose a reply to last email,email_sendemail,5
+16377,send mom an email now,email_sendemail,5
+16401,text an email to donna hey what are you doing today,email_sendemail,5
+16314,send an email to margaret,email_sendemail,5
+15911,prepare email for susan,email_sendemail,5
+9979,cook me some oats,cooking_recipe,3
+4871,how is it outside,weather_query,9
+9940,find me a chocolate cake recipe,cooking_recipe,3
+16791,compose a new email but i got a new address this time brandon at example dot com,email_sendemail,5
+5722,display the seven day forecast for this week,weather_query,9
+7890,clear haircut today,calendar_remove,2
+12607,i need to get a ticket via train to orlando from hwood,transport_ticket,8
+10105,how long should i cook a steak to achieve medium rare,cooking_recipe,3
+726,summarize week's weather details,weather_query,9
+16961,respond with,email_sendemail,5
+16838,can you send the email to the new email id,email_sendemail,5
+8562,delete my meeting for two o'clock p. m. today,calendar_remove,2
+2777,should i bring an umbrella today,weather_query,9
+4168,please check the weather in kansas,weather_query,9
+15828,here is a new email address to be added to the contacts,email_sendemail,5
+16162,send reply,email_sendemail,5
+2673,did i remember to set a reminder alarm for my next doctor's appointment,alarm_query,0
+2611,current weather forecast,weather_query,9
+12883,book a train ticket weekend of the twenty sixth phoenix to los angeles,transport_ticket,8
+8276,remove my next scheduled appointment please,calendar_remove,2
+13181,check for all the movie theater prices and availability for a newly released movie in my location,recommendation_movies,7
+16459,new message to newmail at gmail dot com,email_sendemail,5
+6039,will it be rainy day tomorrow,weather_query,9
+17147,reply to the mail with the following content hello you,email_sendemail,5
+63,tell me about my alarms,alarm_query,0
+10217,find the recipe for sambar in cookingforu application,cooking_recipe,3
+16024,send an email to rohit saying i am busy tomorrow,email_sendemail,5
+10224,it must be taste,cooking_recipe,3
+10150,how to make taco,cooking_recipe,3
+8284,remove birthday from calendar,calendar_remove,2
+5333,time difference between u. k. and us,datetime_convert,4
+16437,please sent this email to my friend,email_sendemail,5
+1655,will it snow tomorrow at noon,weather_query,9
+12537,find me the cheapest train ticket to spain,transport_ticket,8
+9885,please play the notebook audio,play_audiobook,6
+11858,movies with good reviews,recommendation_movies,7
+10081,tell me how to cook meatballs,cooking_recipe,3
+10027,instructions to make a meal,cooking_recipe,3
+16072,email my boss that i will be late today because of an emergency and apologize to him for missing the meeting,email_sendemail,5
+9966,what's the easiest way to cook pasta,cooking_recipe,3
+9815,please play this playback on audiobook,play_audiobook,6
+9896,start chapter five of physics for future presidents,play_audiobook,6
+10166,look for apple pie recipe,cooking_recipe,3
+5661,should i take my raincoat with me now,weather_query,9
+9718,resume animal farm,play_audiobook,6
+16296,send an email to mom to tell her wyatt's birthday party is on sunday,email_sendemail,5
+9726,stop audiobook,play_audiobook,6
+16593,that last email needs to be answer a. s. a. p.,email_sendemail,5
+9746,play pride and prejudice,play_audiobook,6
+16282,send an email to my assistant clara to cancel all appointments for tomorrow,email_sendemail,5
+17043,send email to tim at hotmail dot com,email_sendemail,5
+16780,send an email to juanpedro at gmail dot com,email_sendemail,5
+796,confirm my alarm settings,alarm_query,0
+334,i wish to know the weather in san fransico,weather_query,9
+15849,send an email to my boss,email_sendemail,5
+1048,lower the speaker volume,audio_volume_down,1
+16398,please send the email to jeff,email_sendemail,5
+10031,i need a recipe that is from ingredients on my shopping list,cooking_recipe,3
+4486,give me the weather forecast for this week,weather_query,9
+9952,give me a cooking tutorial,cooking_recipe,3
+12166,book my train ticket from las vegas to los angeles,transport_ticket,8
+4355,how is the weather where i am,weather_query,9
+11920,what movies are out this week,recommendation_movies,7
+17011,can you send an email to,email_sendemail,5
+5529,what time should i go for a hike,weather_query,9
+9961,what is the best oven temperature to roast potatoes,cooking_recipe,3
+9902,play me a random audio book that has to do with love,play_audiobook,6
+5497,what is the time difference between california and new york,datetime_convert,4
+10125,what is the difference between bake and broil,cooking_recipe,3
+590,what is the current weather,weather_query,9
+11871,recommend a movie playing in my area,recommendation_movies,7
+11733,how is the new movie swat,recommendation_movies,7
+5465,can i wear my sandals today,weather_query,9
+16624,i need an email to be sent to comcastcom about my service issues,email_sendemail,5
+15802,reply an email to jason that i will not come tonight,email_sendemail,5
+4933,will it rain now,weather_query,9
+8631,erase that from my calendar,calendar_remove,2
+4383,what will the weather be tomorrow,weather_query,9
+9674,can you play my favorite audio book of tarzan,play_audiobook,6
+8516,delete calendar item,calendar_remove,2
+4784,do i need a jacket,weather_query,9
+9969,what ingredient can be used instead of saffron,cooking_recipe,3
+11990,what's a movie in theaters that doesn't suck,recommendation_movies,7
+9994,can you tell me the recipe to cook pav bhaji,cooking_recipe,3
+9720,resume harry potter book four,play_audiobook,6
+9924,tell me the recipe of,cooking_recipe,3
+348,will it rain tomorrow,weather_query,9
+4851,is my alarm set,alarm_query,0
+12235,please purchase a train ticket for this weekend,transport_ticket,8
+16496,send a replay email,email_sendemail,5
+15847,how we can get credit,email_sendemail,5
+3305,what is the weather this week for miami,weather_query,9
+9853,alexa start from my last session of joes book,play_audiobook,6
+6726,cancel next meeting,calendar_remove,2
+6713,cancel business meeting on wednesday,calendar_remove,2
+6101,are there any alarms currently set,alarm_query,0
+3426,what degree is it outside,weather_query,9
+6116,info on this week weather,weather_query,9
+11634,what movie should i watch today,recommendation_movies,7
+10061,what should i make for dinner,cooking_recipe,3
+15841,compose a new email to ray,email_sendemail,5
+4764,is it going to rain on monday,weather_query,9
+5481,cut down the volume,audio_volume_down,1
+6194,how's the weather today,weather_query,9
+9955,show me a video on cooking fried chicken,cooking_recipe,3
+3162,show me my alarms i have set,alarm_query,0
+9851,resume joes book from where i left off last time,play_audiobook,6
+7922,open tasks delete future events,calendar_remove,2
+1308,get todays climate forecast here,weather_query,9
+3936,what is the temperature,weather_query,9
+12813,please book a ticket of rajdhani express train from jaipur,transport_ticket,8
+862,alarm settings,alarm_query,0
+61,what alarms i have set,alarm_query,0
+10171,what's the recipe for fish soup,cooking_recipe,3
+16501,please send a mail to my friend divya how are you,email_sendemail,5
+1722,what is the minimum temperature of london,weather_query,9
+1658,i want to see all set alarms,alarm_query,0
+12381,book a train ticket from baltimore maryland to new york new york,transport_ticket,8
+8856,delete all events in calendar,calendar_remove,2
+16166,can you reply to charlotte that i am going to be busy with the projects for next three weeks,email_sendemail,5
+3852,what kind of weather are they having in orange tx right now,weather_query,9
+16506,add new email address and send email,email_sendemail,5
+4112,convert current time from g. m. t. to e. s. t.,datetime_convert,4
+16029,please compose a new email to coworker,email_sendemail,5
+9941,how do i cook butter chicken,cooking_recipe,3
+4212,am i going to be able to mow the grass this evening,weather_query,9
+4412,what's the weather in portland,weather_query,9
+10090,can i get a recipe for tuna,cooking_recipe,3
+11773,find an oscar nominee movie,recommendation_movies,7
+7878,erase my calendar,calendar_remove,2
+1646,are there any alarms going off today,alarm_query,0
+10023,what do i need to make lamb pathia,cooking_recipe,3
+6542,is soft cheese better than hard,cooking_recipe,3
+2265,tell me what the weather is doing in grand rapids mi right now,weather_query,9
+6411,what's the weather next wednesday,weather_query,9
+9976,hey robot give me a list of ingredients for welsh rarebit,cooking_recipe,3
+2320,what is the weather this friday,weather_query,9
+9909,keep playing war and peace,play_audiobook,6
+4524,olly what is the weather forecast for today,weather_query,9
+7117,get rid of the events on the nineteenth from my calendar,calendar_remove,2
+5176,what kind of weather should i expect this week,weather_query,9
+10097,i would like a cheeseburger,cooking_recipe,3
+279,what is today's forecast for berlin,weather_query,9
+15756,please email my team,email_sendemail,5
+3516,what is the chance of precipitation in todays weather,weather_query,9
+10045,can you give me a recipe for homemade chicken noodle soup,cooking_recipe,3
+5996,will i need my snow boots this afternoon,weather_query,9
+15906,reply thank you to john,email_sendemail,5
+4227,is there any rain in the forecast for the next week,weather_query,9
+3406,what is the ten day forecast,weather_query,9
+1351,will it be nice outside this week,weather_query,9
+100,what's the week's forecast,weather_query,9
+6177,will i need an umbrella today,weather_query,9
+5009,will i need an umbrella this week,weather_query,9
+17015,start reply,email_sendemail,5
+16938,reply to johns email,email_sendemail,5
+10156,i need to know how to make stuffed peppers,cooking_recipe,3
+5468,have i need to take a sun glass,weather_query,9
+4845,how many hours distance is between my location and new york,datetime_convert,4
+319,tell me the weather in barcelona in two days from now,weather_query,9
+9986,boiling,cooking_recipe,3
+3771,tell me about alarms,alarm_query,0
+16622,send an email to this contact,email_sendemail,5
+15957,email alice to let her know we are on the way,email_sendemail,5
+16916,hey reply a mail which i received,email_sendemail,5
+12468,find a train ticket to philadelphia,transport_ticket,8
+16375,compose an email to bob,email_sendemail,5
+6928,erase all the events,calendar_remove,2
+9942,what all goes into a red velvet cake,cooking_recipe,3
+4689,do you know the weather,weather_query,9
+2178,what is the current weather condition in my place,weather_query,9
+10164,how long do i cook maccoroni,cooking_recipe,3
+5650,ask for the weather today evening,weather_query,9
+9015,clear my calendar all events,calendar_remove,2
+9761,hold,play_audiobook,6
+3447,does the weather call for rain saturday,weather_query,9
+6376,what is a good iranian film from two thousand and sixteen,recommendation_movies,7
+6958,make sure there is no events on my calendar,calendar_remove,2
+2870,olly tell me my alarms,alarm_query,0
+16406,alexa start email,email_sendemail,5
+1160,how cold will it get each night this week,weather_query,9
+4680,should i wear sandals or shoes with socks,weather_query,9
+8925,delete all the events in my calendar,calendar_remove,2
+15765,answer to pawel's email,email_sendemail,5
+951,what's the weather like right now in new york,weather_query,9
+17020,reply to last received email,email_sendemail,5
+9943,how long does it take to make vegetable lasagna,cooking_recipe,3
+16630,send a reply to the last email,email_sendemail,5
+8732,delete all dates,calendar_remove,2
+3669,tell me the time in someplace,datetime_convert,4
+9857,my choice to play an audio from first,play_audiobook,6
+508,what alarms are set,alarm_query,0
+16519,i need to add a new email to my contacts,email_sendemail,5
+1458,how hot is it in quebec,weather_query,9
+9182,cancel my plans to pick up my parents from the airport,calendar_remove,2
+11862,recommend a movie for me,recommendation_movies,7
+5758,how's the weather in the capital city,weather_query,9
+16701,i would like to reply to sarah's email,email_sendemail,5
+5321,show weather,weather_query,9
+1542,the sun is shinning bright will we have this weather for the rest of the day,weather_query,9
+1404,can i please have the weather for tomorrow here in costa mesa,weather_query,9
+10080,let's cook meatballs together,cooking_recipe,3
+826,what is the current temperature outside,weather_query,9
+9754,olly let's listen to hunt for read october,play_audiobook,6
+8409,delete my dinner tomorrow,calendar_remove,2
+16717,could you please email john saying i'm on leave,email_sendemail,5
+5523,convert eight thirty from gtm four to g. m. t. five thirty,datetime_convert,4
+17148,alexa reply to the mail with the following content hello you,email_sendemail,5
+16221,pull up kate's email and write that i will let her know,email_sendemail,5
+4145,what alarms did i set today,alarm_query,0
+12162,can you book a train ticket,transport_ticket,8
+16989,please say to the email that sent me george i need the money now it's urgent,email_sendemail,5
+12846,please book train ticket from mumbai to sangli for tomorrow morning,transport_ticket,8
+12104,kung fu panda three,recommendation_movies,7
+7087,cancel the tomorrow's meeting from my calendar,calendar_remove,2
+9881,open audiobook,play_audiobook,6
+16535,can you write an email to chelsea,email_sendemail,5
+10016,thanksgiving turkey cooking procedure in five sentences is what,cooking_recipe,3
+5301,what is the weather going to be like on march twentieth two thousand and seventeen,weather_query,9
+1266,if it's five am in berlin what time is it here,datetime_convert,4
+7025,remove new year from calendar,calendar_remove,2
+7891,cancel dinner tonight,calendar_remove,2
+8853,clear my next activity,calendar_remove,2
+9760,stop play,play_audiobook,6
+3886,any alarms currently listed,alarm_query,0
+16872,find naty from my contacts and send her an email,email_sendemail,5
+5974,did i set an alarm to have tablets in the noon,alarm_query,0
+16266,write an email to my family saying i love you all,email_sendemail,5
+738,how cold is it outside today,weather_query,9
+3507,is there snow in the forecast,weather_query,9
+9030,remove from calendar my medical appointment for today,calendar_remove,2
+10119,how long do you cook a fifteen pound turkey,cooking_recipe,3
+9194,please remove this event from my calendar,calendar_remove,2
+16082,send an email to peter and ask him how is he now can i do something to help him,email_sendemail,5
+2309,it is seven am in pacific standard time,datetime_convert,4
+4673,please list all my alarms,alarm_query,0
+9930,how long should i boil the egg,cooking_recipe,3
+102,what's this week's weather,weather_query,9
+10077,find a recipe for dinner tonight,cooking_recipe,3
+9980,what is the menu today add some boiled vegetables also to it,cooking_recipe,3
+2451,seven hundred,datetime_convert,4
+3894,read that back,play_audiobook,6
+16280,please send an email to cassy who is there on my family and friend list,email_sendemail,5
+8670,remove events from calendar,calendar_remove,2
+7820,erase all the events in the calendar,calendar_remove,2
+3884,list current set alarms,alarm_query,0
+17123,email form for regional v. p.,email_sendemail,5
+3614,it is a sunny day today right,weather_query,9
+1653,when is the next time it will rain,weather_query,9
+16891,send john smith and email,email_sendemail,5
+17081,create an email for my company worker with my recently saved documents,email_sendemail,5
+5590,open temperature,weather_query,9
+3784,give me a weather report for las vegas,weather_query,9
+11636,what movies are going around me,recommendation_movies,7
+10072,baking times for chicken in the oven,cooking_recipe,3
+2322,what's the weather like tomorrow,weather_query,9
+7609,remove meeting reminder for tuesday,calendar_remove,2
+6755,please clean my calendar,calendar_remove,2
+16103,send an email to my brother and say wedding anniversary,email_sendemail,5
+5439,do i need umbrella for night,weather_query,9
+9856,play the twilight book,play_audiobook,6
+12511,travel book a train ticket,transport_ticket,8
+1639,please turn the volume down,audio_volume_down,1
+1352,please slow down volume of speaker,audio_volume_down,1
+7295,please clear my calendar,calendar_remove,2
+10182,how many eggs do i need for an omelet,cooking_recipe,3
+16754,dictate email,email_sendemail,5
+9812,open harrypotter audiobook and play from last played,play_audiobook,6
+6729,cancel the breakfast at tiffany's house,calendar_remove,2
+15950,respond to the email from john doe,email_sendemail,5
+11812,what movies are playing tonight,recommendation_movies,7
+16320,i want to reply to bob smith's email,email_sendemail,5
+6918,delete events from calendar,calendar_remove,2
+12469,purchase ticket to new york city on train,transport_ticket,8
+5339,low cooling condition,weather_query,9
+16402,email donna plans for today,email_sendemail,5
+9827,resume the song from the audiobook by the beatles,play_audiobook,6
+8769,delete upcoming event,calendar_remove,2
+4776,please tell me what alarms are on,alarm_query,0
+10220,what ingredients do i need to bake a large cake,cooking_recipe,3
+7993,delete all events from my calendar,calendar_remove,2
+4104,what is the weather going to be like today in tucson,weather_query,9
+6997,remove succeeding event,calendar_remove,2
+3532,please change time zone to canada,datetime_convert,4
+3408,is the weather going to be nice this weekend,weather_query,9
+333,what is the weather condition in new york,weather_query,9
+16613,send email to boss saying i will be late,email_sendemail,5
+12724,find me a train ticket to boston,transport_ticket,8
+9689,pause the book,play_audiobook,6
+8985,ok google delete eric's b. day from the calendar,calendar_remove,2
+10076,can you substitute baking soda for baking powder,cooking_recipe,3
+9912,olly how long should i boil the eggs,cooking_recipe,3
+3474,please lower music volume,audio_volume_down,1
+9732,open davinci code audiobook,play_audiobook,6
+15825,reply to dad write i will be late,email_sendemail,5
+1249,how is the weather likely to be this week,weather_query,9

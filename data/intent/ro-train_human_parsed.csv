@@ -1,0 +1,2028 @@
+,id,text,intent,label
+0,17024,trimite i mamei un email si afla cum e vremea saptamana asta,email_sendemail,5
+1,3703,ce alarme sunt setate pentru saptamana aceasta,alarm_query,0
+2,2141,azi ia umbrela,weather_query,9
+3,1656,arata-mi toate alarmele programate,alarm_query,0
+4,3036,prognoza meteo de ziua urmatoare,weather_query,9
+5,12914,am nevoie să rezerv un bilet de tren spre suceava,transport_ticket,8
+6,10096,te rog gateste un hamburger,cooking_recipe,3
+7,2857,cum o sa fie vrema azi,weather_query,9
+8,6005,va bate vântul astăzi,weather_query,9
+9,9916,ce este necesar pentru a prepara pizza,cooking_recipe,3
+10,6020,pot sa stiu despre alarma pe care ai setat-o,alarm_query,0
+11,16837,compune acest email catre aceasta adresa noua de email,email_sendemail,5
+12,3292,care este diferenta de ora dintre pacific si central,datetime_convert,4
+13,9048,anuleaza angajamente medicale in acest weekend,calendar_remove,2
+14,10231,dă-mi exemple de bucătării condimentate,cooking_recipe,3
+15,10121,cum se face orez prajit,cooking_recipe,3
+16,4251,e prea cald sa port puloverul de lana azi,weather_query,9
+17,12897,am nevoie de un bilet de clasa întâi pentru trenul numărul cinci folosind cardul meu de credit,transport_ticket,8
+18,8844,sterge toate detaliile din calendarul meu,calendar_remove,2
+19,1438,ce alarme am eu,alarm_query,0
+20,7911,şterge cina cu ion din calendarul meu,calendar_remove,2
+21,9807,redă pentru mine cântecul the motans de pe spotify,play_audiobook,6
+22,8242,olly eliberează tot din calendarul meu pentru tot restul anului,calendar_remove,2
+23,3612,nu o sa ploua asa e,weather_query,9
+24,16268,trimite raspuns la emailul lui robert de azi dimineata,email_sendemail,5
+25,5645,cum va fi vremea azi pe seara,weather_query,9
+26,8659,te rog să-mi golești complet calendarul,calendar_remove,2
+27,9697,continuă să citești moara cu noroc,play_audiobook,6
+28,7995,șterge evenimentele mele curente din calendar,calendar_remove,2
+29,330,mai încet,audio_volume_down,1
+30,2328,care este maxima pentru azi,weather_query,9
+31,16686,trimite un email către o nouă adresă,email_sendemail,5
+32,9790,redă cartea audio fata babei și fata moșneagului,play_audiobook,6
+33,8577,șterge totul din calendar,calendar_remove,2
+34,9750,folosind butonul de pauză de redare,play_audiobook,6
+35,5750,am nevoie de umbrela astazi,weather_query,9
+36,7079,te rog șterge toate intrările din calendarul meu,calendar_remove,2
+37,12292,bilet spre cluj napoca,transport_ticket,8
+38,2557,cum e vremea la sibiu,weather_query,9
+39,605,cum o sa fie vremea marți,weather_query,9
+40,2047,da mai incet volumul,audio_volume_down,1
+41,5241,ai pus alarma la cinci dimineata,alarm_query,0
+42,2064,cum o sa fie vremea saptamana aceasta,weather_query,9
+43,8943,vreau toate evenimentele mele sterse,calendar_remove,2
+44,5893,o sa fie insorit in braila,weather_query,9
+45,1724,care e cea mai mare temperatura in sibiu,weather_query,9
+46,12053,ce filme bine cotate rulează în acest weekend,recommendation_movies,7
+47,15804,trimite-i un email lui adrian legat de jocul de softball trebuie să cumpărăm niște răcoritoare înainte să mergem,email_sendemail,5
+48,9805,redă melodia de dan bittman din cartea audio,play_audiobook,6
+49,5588,am nevoie de palarie,weather_query,9
+50,4557,vremea in oradea bihor,weather_query,9
+51,10149,gaseste reteta cu cel mai bun rating pentru omleta cu branza pe jamilacuisine punct ro,cooking_recipe,3
+52,3150,la cât îmi va suna alarma dimineață,alarm_query,0
+53,16209,trimite email adinei in legatura cu detaliile petrecerii de maine de la serviciu,email_sendemail,5
+54,7340,anulează -mi întâlnirea de mâine,calendar_remove,2
+55,10030,imi trebuie o reteta de spaghete cu legume dinainte o mie noua sute saptezeci,cooking_recipe,3
+56,5167,trebuie să îmi iau o umbrelă în bucurești această după-amiază,weather_query,9
+57,789,cum a fost vremea săptămâna aceasta,weather_query,9
+58,8682,șterge evenimente,calendar_remove,2
+59,7290,șterge toate programările mele de azi,calendar_remove,2
+60,3560,te rog redu sunetul,audio_volume_down,1
+61,16177,răspunde la email,email_sendemail,5
+62,7145,nu mai vreau să merg la cina din întâi martie deci poți să o ștergi din agenda mea,calendar_remove,2
+63,5203,cât e ora opt a. m. din bucurești în fusul orar estic,datetime_convert,4
+64,9821,reia ion pe audible,play_audiobook,6
+65,9819,fa-mi rezumatul la cel mai bine vandut audio book de luna asta,play_audiobook,6
+66,10085,cauta retete diferite,cooking_recipe,3
+67,1633,arată mi alarmele mele,alarm_query,0
+68,5114,e vreo alarma dupa cinci dimineata,alarm_query,0
+69,4314,o sa fie înnorat la noapte,weather_query,9
+70,9714,redă rock,play_audiobook,6
+71,509,ce alarme am,alarm_query,0
+72,6769,anulează următorul meu eveniment,calendar_remove,2
+73,16625,spune i prin email lui cristian că voi întârzia,email_sendemail,5
+74,16784,mama vrea să știe cum va fi vremea pe săptămână trimite i un email,email_sendemail,5
+75,4926,prognoza saptamanii acesteia,weather_query,9
+76,9828,reia de unde am ramas reluarea,play_audiobook,6
+77,4531,cand e urmatoarea zi calda,weather_query,9
+78,16231,te rog răspunde la email-ul lui grigore că ideea lui este fantastică,email_sendemail,5
+79,859,prognoza meteo,weather_query,9
+80,15889,trimite i te rog un email prietenei mele delia să știe că nu voi fi la biserică mâine,email_sendemail,5
+81,4466,am ceva alarme setate pentru dimineață,alarm_query,0
+82,7984,șterge-mi tot calendarul pentru astăzi,calendar_remove,2
+83,9666,pune cartea audio,play_audiobook,6
+84,16418,te rog trimite un email unchiului aurel în care să-i spui că o să fiu acolo,email_sendemail,5
+85,1725,cum va fi vremea in următoarele șapte zile,weather_query,9
+86,11766,terminus paradis,recommendation_movies,7
+87,6126,trebuie sa port palton,weather_query,9
+88,17122,te rog începe un email către sora mea,email_sendemail,5
+89,16060,raspunde email ului de la banca si informeaza i ca am platit datoria la card,email_sendemail,5
+90,7737,șterge petrecerea aniversară a lui victor din calendarul meu,calendar_remove,2
+91,4384,o sa fie cald sau frig maine,weather_query,9
+92,11793,am nevoie de un film bun romantic pentru adolescente vreo recomandare,recommendation_movies,7
+93,1390,olly cum va fi vremea sambata,weather_query,9
+94,5634,va fi innorat timpul azi,weather_query,9
+95,1867,detalii despre clima de acum,weather_query,9
+96,16031,olly deschide un nou e-mail catre acest coleg la acest e-mail,email_sendemail,5
+97,16936,acest raspuns la email ar trebui sa spuna,email_sendemail,5
+98,376,verifica aplicatia meteo sa vezi,weather_query,9
+99,9195,șterge acest eveniment de la notificarea mea din calendar,calendar_remove,2
+100,2671,vrei să verifici te rog dacă mi-am programat alarma pentru mâine dimineață,alarm_query,0
+101,12660,rezerva o calatorie cu trenul,transport_ticket,8
+102,1780,sper sa fie vreme însorită acolo,weather_query,9
+103,7175,şterge,calendar_remove,2
+104,16429,te rog trimite i un email mamei spunând că pot săptămâna viitoare,email_sendemail,5
+105,3738,te rog reglează boxele la un volum scăzut mai confortabil,audio_volume_down,1
+106,8889,sterge asta,calendar_remove,2
+107,10075,când e sezonul pentru sparanghel,cooking_recipe,3
+108,8529,da-mi prognoza pentru targoviste la trei dupa amiaza,weather_query,9
+109,9911,cat timp trebuie sa fierb ouale,cooking_recipe,3
+110,11590,recomandă un film care a fost lansat vinerea trecută,recommendation_movies,7
+111,6799,elimină următoarea întâlnire de azi din calendarul meu,calendar_remove,2
+112,1106,vreau sa stiu vremea in oradea,weather_query,9
+113,11810,ce filme rulează în apropiere,recommendation_movies,7
+114,11696,ce filme rulează la cinemaul local,recommendation_movies,7
+115,1690,olly cum o sa fie vremea saptamana aceasta,weather_query,9
+116,12643,pregateste ma cu un bilet pentru transportul de la cinci dupa masa spre iasi,transport_ticket,8
+117,755,schimba ora in aceasta locatie la est,datetime_convert,4
+118,9670,reia moara cu noroc,play_audiobook,6
+119,17165,trimite un mail irinei,email_sendemail,5
+120,17031,am nevoie de un email catre mama planuiesc o vacanta sa o vad intreab o cum va fi vremea ca sa stiu ce sa impachetez,email_sendemail,5
+121,10183,ce este un ardei iute mexican,cooking_recipe,3
+122,10040,care este reteta de biscuiti,cooking_recipe,3
+123,12341,rezervați trei bilete de tren dus-întors pentru duminică la șapte p. m. bilet dus-întors săptămâna viitoare duminică la ora opt a. m.,transport_ticket,8
+124,9785,deschide cartea,play_audiobook,6
+125,3254,care a fost prognoza meteo pentru azi,weather_query,9
+126,5008,am nevoie de o geaca in dupa masa aceasta,weather_query,9
+127,7994,sterge mi toate evenimentele din calendar,calendar_remove,2
+128,12198,rezervă-mi un bilet de tren spre oradea,transport_ticket,8
+129,11930,ce filme noi sunt bune,recommendation_movies,7
+130,1254,câte grade au fost în ploiesti în dimineața asta,weather_query,9
+131,5460,ar trebui sa iau umbrela cu mine acum,weather_query,9
+132,14299,citește amenda pentru tesla,transport_ticket,8
+133,9721,reia harry potter cartea cinci,play_audiobook,6
+134,1314,o sa fie vremea frumoasa azi,weather_query,9
+135,4122,spune-mi ora alarmei,alarm_query,0
+136,4434,care este prognoza meteo săptămana aceasta,weather_query,9
+137,2247,o sa fie tot ploios si frig miercuri,weather_query,9
+138,15940,raspunde la ultimul e-mail,email_sendemail,5
+139,2050,verifica vremea in municipiul slatina,weather_query,9
+140,8637,poți să dai jos următorul eveniment din calendarul meu,calendar_remove,2
+141,8000,te rog șterge momento-ul de la pranz din data de douăzeci și trei martie,calendar_remove,2
+142,2010,vremea de saptamana aceasta va fi insorita sau nu,weather_query,9
+143,11955,ce filme ruleaza lângă mine,recommendation_movies,7
+144,343,cum o sa fie maine vremea,weather_query,9
+145,8105,alexa te rog șterge toate programările de azi,calendar_remove,2
+146,7058,șterge evenimentul din noiembrie,calendar_remove,2
+147,10101,cum pregatesti friptura,cooking_recipe,3
+148,6003,trebuie sa port haine groase astăzi,weather_query,9
+149,9826,reia cântecul din cartea audio a loredanei,play_audiobook,6
+150,12598,spune-mi unde ar trebui sa merg pentru times,transport_ticket,8
+151,277,cum e vremea în bucurești,weather_query,9
+152,4237,cum este vremea acum,weather_query,9
+153,2294,o sa fie indexul u. v. peste opt azi,weather_query,9
+154,10067,cum fac piure de cartofi,cooking_recipe,3
+155,356,care este urmatoarea mea alarma,alarm_query,0
+156,16558,răspunde la emailul lui ion spunând da pot,email_sendemail,5
+157,9091,olly sterge toate evenimentele din calendar,calendar_remove,2
+158,3246,spune-mi cum e vremea in bucuresti,weather_query,9
+159,16727,răspunde la emailul meu de la sasha cu mulțumesc,email_sendemail,5
+160,7761,schimba calendarul meu pentru azi,calendar_remove,2
+161,2543,cum este vremea în împrejurimi,weather_query,9
+162,16087,începe un nou email către george bunescu,email_sendemail,5
+163,8845,lasa calendarul meu liber,calendar_remove,2
+164,9745,pornește audio,play_audiobook,6
+165,336,ninge la predeal,weather_query,9
+166,5452,trebuie să iau o umbrelă azi,weather_query,9
+167,5214,sa aduc haine călduroase,weather_query,9
+168,16498,trimite un memento email,email_sendemail,5
+169,824,ok google cum e vremea aici azi,weather_query,9
+170,10244,cauta cele mai bune retete,cooking_recipe,3
+171,8162,schimbă planul de întâlnire,calendar_remove,2
+172,6026,temperatură,weather_query,9
+173,16134,trimite email lui tati ca voi merge la petrecerea aniversara,email_sendemail,5
+174,12613,vreau sa rezerv un bilet de tren de la craiova la pitesti,transport_ticket,8
+175,5616,seteaza fusul orar la g. m. t.,datetime_convert,4
+176,16065,trimite un email către cu subiect test și fără conținut,email_sendemail,5
+177,10063,ce contine o ciulama,cooking_recipe,3
+178,12282,vreau un bilet de tren de la cluj napoca la timișoara,transport_ticket,8
+179,4904,o să fie cald,weather_query,9
+180,15760,da i email lui pavel in legatura cu ultimele stiri,email_sendemail,5
+181,1767,transforma doua mii trei sute treizeci din g. m. t. plus ptru sute treizeci in g. m. t. doua sute,datetime_convert,4
+182,2705,scade volumul pentru audio,audio_volume_down,1
+183,16963,citeste emailul si trimite-l fiului meu,email_sendemail,5
+184,2331,cum ii vremea acum,weather_query,9
+185,1472,redu volumul la douăzeci,audio_volume_down,1
+186,16830,trimite un email de confirmare către sandra,email_sendemail,5
+187,4438,vremea dragasani vl,weather_query,9
+188,1654,cat de rece va fi martea viitoare,weather_query,9
+189,7389,te rog sterge cina planificata pentru vineri la nouă p. m.,calendar_remove,2
+190,9983,olly cum procedez pentru a face sarmale,cooking_recipe,3
+191,823,cum e vremea aici astăzi,weather_query,9
+192,7649,sterge toate evenimentele din calendar,calendar_remove,2
+193,9888,începe să redai de unde am rămas la ion,play_audiobook,6
+194,4473,am nevoie de protectie solara astazi,weather_query,9
+195,599,redu volumul,audio_volume_down,1
+196,14649,cum să gătești,cooking_recipe,3
+197,8341,șterge următorul meu eveniment,calendar_remove,2
+198,6512,alarme,alarm_query,0
+199,10000,cum posez un ou,cooking_recipe,3
+200,7962,șterge calendarul,calendar_remove,2
+201,9763,redă limbajul corpului,play_audiobook,6
+202,9939,ce temperatura trebuie sa aiba uleiul pentru a praji cartofi pai,cooking_recipe,3
+203,8161,sterge planul de petrecere,calendar_remove,2
+204,5377,te rog verifica prognoza de marti,weather_query,9
+205,6574,incalzirea globala,weather_query,9
+206,2091,o sa fie ploi torentiale maine dimineata,weather_query,9
+207,9802,reia audiobookul alba ca zapada,play_audiobook,6
+208,5712,va fi dimineața aceasta însorită,weather_query,9
+209,3555,o sa fie vânt la noapte,weather_query,9
+210,16547,aș vrea să-i trimit un email larisei și să întreb dacă vrea să ne întâlnim după muncă la dabo doner,email_sendemail,5
+211,3971,olly cum este vremea acum,weather_query,9
+212,16102,trimite un email la seful in legatura cu concediul meu,email_sendemail,5
+213,12642,am nevoie să plecla cinci dupa masa cu trenul la iasi,transport_ticket,8
+214,558,am vreo alarma setata pe maine,alarm_query,0
+215,795,la ce oră este setată alarma pentru mâine,alarm_query,0
+216,16556,răspunde la emailul de la nume,email_sendemail,5
+217,16109,raspunde la toate emailurile primite intre zece seara si sapte dimineata in fiecare zi,email_sendemail,5
+218,5668,atunci da-i ok,alarm_query,0
+219,16064,trimite i un email lui petre unde este acum și dacă este la piață scrie i să aducă niște vin,email_sendemail,5
+220,735,poti sa scazi volumul,audio_volume_down,1
+221,7910,anuleaza -mi sedinta de maine de la ora opt,calendar_remove,2
+222,10243,cauta reteta si ghidul pentru acest fel de mancare,cooking_recipe,3
+223,4559,arata-mi prognoza pe saptamana asta,weather_query,9
+224,3615,maine e o vreme insorită asa-i,weather_query,9
+225,16640,da-i un email lui mircea si spune-i sa se grabeasca,email_sendemail,5
+226,15833,intra in email și trimite mesaj către,email_sendemail,5
+227,7714,sunt ocupat mâine așa că șterge toate evenimentele din calendar,calendar_remove,2
+228,15779,trimite un email lui matei cu continutul proiect terminat trimite-mi factura te rog,email_sendemail,5
+229,12138,rezerva bilete de tren pentru mine,transport_ticket,8
+230,5733,olly am nevoie de loțiune cu protecție solară azi,weather_query,9
+231,10118,la ce temperatura gatesti porcul,cooking_recipe,3
+232,9196,te rog șterge acest eveniment din calendar,calendar_remove,2
+233,9922,cum rulez sushi,cooking_recipe,3
+234,9695,pune moromeții de marin preda,play_audiobook,6
+235,7116,șterge programarea mea pe doisprezece de pe calendarul meu,calendar_remove,2
+236,1707,scade volumul la cinci la suta,audio_volume_down,1
+237,10181,care sunt ingredientele la reteta de macaroane cu branza,cooking_recipe,3
+238,15876,trimite i mihaelei o copie a facturilor prin email,email_sendemail,5
+239,4901,scade volumul pentru media,audio_volume_down,1
+240,16441,trimite-i un email lui ciprian că o să întârzii mâine la muncă,email_sendemail,5
+241,2916,cum este vremea într-o astfel de zi,weather_query,9
+242,7391,nu mă voi mai alătura mamei la pranz maine,calendar_remove,2
+243,6092,o sa fie innorat in bucuresti in weekend,weather_query,9
+244,1263,câte alarme am,alarm_query,0
+245,2111,cand este zece seara aici ce ora este la brasov,datetime_convert,4
+246,1865,temperatura la ora aceasta,weather_query,9
+247,2422,cum e vremea in sectorul patru acum,weather_query,9
+248,15956,olly trimite un email către alina să o anunți că suntem pe drum,email_sendemail,5
+249,4252,ar trebui sa iau umbrela cu mine astazi,weather_query,9
+250,9800,deschide numele cântecului,play_audiobook,6
+251,12628,as vrea sa ma urc in urmatorul tren care pleaca de la oradea si ajunge la brasov,transport_ticket,8
+252,5818,cum e vremea acasa,weather_query,9
+253,4530,care e descrierea alarmei de la unsprezece dimineața,alarm_query,0
+254,5430,o sa fie destul de frig pentru mănuși diseară,weather_query,9
+255,8555,sterge strangerea de fonduri pentru delfini din aprilie,calendar_remove,2
+256,10122,care e o reteta buna de taco,cooking_recipe,3
+257,16345,am nevoie sa trimit un nou e-mail aici este adresa si apoi adaug-o la lista de contacte,email_sendemail,5
+258,5495,ar trebui sa iau umbrela azi,weather_query,9
+259,11723,informează-mă despre cea mai populară comedie romantică care rulează acum în cinematografele din cluj napoca,recommendation_movies,7
+260,8908,sterge,calendar_remove,2
+261,16595,redirectioneaza e-mailul,email_sendemail,5
+262,15832,trimte către contact un email după cum urmează,email_sendemail,5
+263,5742,știri despre vreme,weather_query,9
+264,4636,scade volumul boxei,audio_volume_down,1
+265,1082,volumul tău e prea ridicat te rog repetă asta mai încet,audio_volume_down,1
+266,16516,răspunde la acest email,email_sendemail,5
+267,9753,olly poti să pui albă ca zăpada,play_audiobook,6
+268,179,spune-mi cum este vremea,weather_query,9
+269,10124,cum fac prajituri cu unt de arahide,cooking_recipe,3
+270,12871,rezerva un bilet de tren spre moldova,transport_ticket,8
+271,5601,care este prognoza meteo,weather_query,9
+272,15892,trimite un email catre loredana,email_sendemail,5
+273,16208,trimite email lui mircea ora si data pentru sedinta de maine,email_sendemail,5
+274,8852,sterge urmatorul task,calendar_remove,2
+275,8969,șterge evenimentul viitor de la locul în care am lucrat,calendar_remove,2
+276,3664,poți să-mi spui câte grade vor fi sâmbătă noapte,weather_query,9
+277,15981,răspunde la emailul de la sandra,email_sendemail,5
+278,12357,poti sa faci un bilet de tren pentru mine,transport_ticket,8
+279,3965,afișează lista de alarme,alarm_query,0
+280,5178,verifica daca am nevoie de o umbrela acum,weather_query,9
+281,8744,poți șterge următorul eveniment din calendar pentru care am primit invitație,calendar_remove,2
+282,8283,poti sa mi golesti calendarul,calendar_remove,2
+283,16259,scrie i un email soției mele despre vremea de săptămâna viitoare,email_sendemail,5
+284,8257,eliminați toate evenimentele viitoare,calendar_remove,2
+285,9820,redă am să te iubesc până la sfârţitul lumii în audible,play_audiobook,6
+286,13529,ce film ar trebui să văd,recommendation_movies,7
+287,8638,nu mai am nevoie să merg la doctor acest eveniment poate fi eliminat,calendar_remove,2
+288,5291,ce temperatura e acum afara,weather_query,9
+289,4374,verifică alarmele setate,alarm_query,0
+290,13401,cum va fi vremea trei zile de acum in cinci orase mari de langa mine,weather_query,9
+291,3815,în sud o să fie cald mâine,weather_query,9
+292,591,cat de cald e acum,weather_query,9
+293,4785,pot sa ies in pantaloni scurti,weather_query,9
+294,10018,cum rumenesti miel,cooking_recipe,3
+295,4382,cum e vremea saptamana viitoare in buzau judetul buzau,weather_query,9
+296,3879,cum este vremea la brașov,weather_query,9
+297,3691,cum e vremea acum în ploiești,weather_query,9
+298,1645,am ceva alarme setate,alarm_query,0
+299,5904,verifica daca am setata vreo alarma pentru dimineata,alarm_query,0
+300,12592,te rog cumpara un bilet de tren spre oradea,transport_ticket,8
+301,6903,sterge programarea la dentist de saptamana viitoare,calendar_remove,2
+302,5723,o sa fie ploaie astazi seara,weather_query,9
+303,5589,află buletinul meteo,weather_query,9
+304,10133,am nevoie de ajutor sa gatesc pui la cuptor,cooking_recipe,3
+305,10144,cât timp trebuie să dau la rece o plăcintă cu gheață,cooking_recipe,3
+306,9701,vreau sa aud acea carte scrisă de mama acelui trăgător de la columbine,play_audiobook,6
+307,5482,olly redu volumul,audio_volume_down,1
+308,2326,care este prognoza meteo,weather_query,9
+309,205,afișează alarmele,alarm_query,0
+310,8546,șterge-mi calendarul clar,calendar_remove,2
+311,5077,pare frig,weather_query,9
+312,2124,spune-mi vremea in resita caras severin,weather_query,9
+313,3483,cum e azi vremea acasa,weather_query,9
+314,5343,o sa fie însorit vineri,weather_query,9
+315,9987,congelare,cooking_recipe,3
+316,17029,olly trimite un email catre bogdan,email_sendemail,5
+317,6904,șterge programarea pentru îngrijirea gazonului de luna viitoare,calendar_remove,2
+318,4342,scade volumul boxelor,audio_volume_down,1
+319,5337,alexa oferă-mi orele de alarmă pe care le-ai setat,alarm_query,0
+320,4052,e cald afara,weather_query,9
+321,11958,arată orele de film,recommendation_movies,7
+322,16702,identifică cel mai recent email al ioanei pentru a i răspunde,email_sendemail,5
+323,10215,arata rezultatele de pe net pentru sufleu,cooking_recipe,3
+324,9850,alexa reia cartea junglei de unde am ramas ultima data,play_audiobook,6
+325,16433,te rog trimite familiei mele un e-mail care să spună următoarele,email_sendemail,5
+326,9981,gateste -mi niste paste cu branza si miere in ele,cooking_recipe,3
+327,1080,dă-mi actualizarea meteo de maine,weather_query,9
+328,16312,trimite i un email lui lucian la muncă,email_sendemail,5
+329,8331,sterge intalnirea mea de maine,calendar_remove,2
+330,7133,nu mai merg la nunta de pe zece scoate-o din calendar,calendar_remove,2
+331,6007,ar trebui sa inchid fereastra inainte sa plec dupa masa,weather_query,9
+332,5230,sa port palarie azi,weather_query,9
+333,12309,vreau sa rezerv un bilet de tren,transport_ticket,8
+334,3531,te rog poti schimba fusul orar in al nostru,datetime_convert,4
+335,1932,e vremea buna azi,weather_query,9
+336,830,ei e prea cald afara care este temperatura dupa -amiaza,weather_query,9
+337,8563,sterge-mi programarea de maine de la trei p. m.,calendar_remove,2
+338,8254,sterge mi următorul eveniment,calendar_remove,2
+339,6830,eliberează-mi programul pentru săptămâna viitoare,calendar_remove,2
+340,8181,pot șterge la dentist din calendarul meu,calendar_remove,2
+341,9667,te rog continua redarea morometii de marin preda,play_audiobook,6
+342,10131,cat de mult trebuie gatit puiul,cooking_recipe,3
+343,1339,ce alarme sunt setate dimineața,alarm_query,0
+344,661,te rog pot afla ce ora va fi la sase p. m. aici in australia,datetime_convert,4
+345,2856,e însorit astăzi,weather_query,9
+346,9710,poti opri si derula inregistrarea audio apoi reia,play_audiobook,6
+347,5971,cum e vremea azi,weather_query,9
+348,9988,evaporat,cooking_recipe,3
+349,5846,ar trebui sa iau apa in plus azi,weather_query,9
+350,1504,este opt seara in franta cat este ora in bucuresti,datetime_convert,4
+351,11728,care este cel mai important blockbuster săptămâna aceasta,recommendation_movies,7
+352,5295,poți să îl dai puțin mai încet,audio_volume_down,1
+353,16831,trimite un email de invitatie mariei,email_sendemail,5
+354,3648,cum e vremea in ploiesti,weather_query,9
+355,8927,elimina toate evenimentele din intregul meu calendar,calendar_remove,2
+356,6733,olly rezerva-mi un taxi catre afi in jumatate de ora,calendar_remove,2
+357,7159,te rog reseteaza si sterge toate intrările din calendarul meu,calendar_remove,2
+358,5247,trebuie sa iau palton azi,weather_query,9
+359,4679,am nevoie de o geaca subtire sau groasa azi,weather_query,9
+360,10127,da-mi o reteta de prajituri,cooking_recipe,3
+361,12355,te rog cumpara un bilet de tren pentru mine,transport_ticket,8
+362,16119,trimite catre ioana te rog ajuta ma,email_sendemail,5
+363,16675,da email la mariusmariu arond gmail punct com,email_sendemail,5
+364,9858,alegerea mea de a derula una din ultimele,play_audiobook,6
+365,15962,deschide outlook am nevoie sa trimit un e-mail,email_sendemail,5
+366,4613,o sa fie temperatura mai mare de cincizeci de grade maine,weather_query,9
+367,9703,poti sa redai ultima carte audio,play_audiobook,6
+368,5124,afara e cald sau rece,weather_query,9
+369,9945,cauta cea mai populara reteta de tacos,cooking_recipe,3
+370,9806,pune-mi cântecul paulei seling din cartea audio,play_audiobook,6
+371,9854,reia playback audio la moara cu noroc,play_audiobook,6
+372,3772,te rog citeste-mi alarmele,alarm_query,0
+373,9039,sterge căsătoria de pe trei iulie,calendar_remove,2
+374,7821,sterge toate memento urile din calendar,calendar_remove,2
+375,12900,tren trei iulie,transport_ticket,8
+376,9890,reia de la început moromeții,play_audiobook,6
+377,7701,șterge toate evenimentele din calendarul meu,calendar_remove,2
+378,8547,șterge următorul eveniment din calendar,calendar_remove,2
+379,16238,trimite un email,email_sendemail,5
+380,7364,șterge evenimentul din douăzeci și trei martie de la opt și șaptesprezece,calendar_remove,2
+381,432,cum e vremea acum afara,weather_query,9
+382,16681,trimitei un email alinei cu textul ciao tiam simtit lipsa ieri vrei sa luam cina diseara,email_sendemail,5
+383,10112,cum se gateste un burger bun,cooking_recipe,3
+384,6315,olly cum este vremea,weather_query,9
+385,4552,afișează toate alarmele mele,alarm_query,0
+386,10211,ce e reteta,cooking_recipe,3
+387,9128,sterge urmatorul eveniment din calendar,calendar_remove,2
+388,3025,vremea la sacele bv,weather_query,9
+389,8147,sterge concertul din calendar,calendar_remove,2
+390,7308,sterge calendarul meu,calendar_remove,2
+391,8108,șterge următorul eveniment din calendar,calendar_remove,2
+392,10148,găsește cea mai bine cotată rețetă pe savori urbane pentru omletă cu legume,cooking_recipe,3
+393,12157,fa rost de un bilet de tren,transport_ticket,8
+394,9799,deschide numele albumului,play_audiobook,6
+395,8471,elimină toate evenimentele de luna trecută din calendar,calendar_remove,2
+396,9843,te rog reia cântecul curent al mastilor,play_audiobook,6
+397,349,o sa fie zăpadă mâine,weather_query,9
+398,17128,introdu o noua adresa in formularul de e-mail,email_sendemail,5
+399,8970,sterge toate concertele programate,calendar_remove,2
+400,4801,cum este in acest moment temperatura afara,weather_query,9
+401,16213,trimite i un email lui tata cum este vremea săptămâna asta,email_sendemail,5
+402,408,ce alarme am setate,alarm_query,0
+403,16424,mesaj nou catre robert mihaila intarzii la munca trimite,email_sendemail,5
+404,8743,sterge urmatorul eveniment din calendarul meu ca sa nu il mai pot vedea,calendar_remove,2
+405,16644,pregateste pentru trimitere un mesaj de raspuns,email_sendemail,5
+406,9780,repetă am să te iubesc până la sfârşitul lumii,play_audiobook,6
+407,9861,reia de unde am rămas cartea de pe audible,play_audiobook,6
+408,9776,începe cartea mea audio de unde am rămas,play_audiobook,6
+409,11931,poți să sugerezi o dramă bună să mă uit,recommendation_movies,7
+410,2791,cum arata prognoza pe cinci zile in bucuresti,weather_query,9
+411,8285,sterge petrecerea de aniversare de din mai pe calendar,calendar_remove,2
+412,10089,care este cea mai buna reteta de chiftele,cooking_recipe,3
+413,5875,ar trebui sa port o rochie sau un hanorac azi,weather_query,9
+414,16511,trimite i un email lui cristi spune ai planuri pentru diseară vrei să mergem la cină,email_sendemail,5
+415,10034,cum se pregateste un burger,cooking_recipe,3
+416,4169,poti verifica vremea in harghita,weather_query,9
+417,845,ce alarme sunt setate acum,alarm_query,0
+418,10187,care este un inlocuitor bun pentru unt,cooking_recipe,3
+419,7985,canceleaza acest eveniment de pe trei martie,calendar_remove,2
+420,6872,poți șterge evenimentul curent,calendar_remove,2
+421,12833,rezervă un bilet de tren în după masa asta la sibiu,transport_ticket,8
+422,5334,ce alarme ai setat,alarm_query,0
+423,4210,trebuie sa port palton mâine cand merg la lucru,weather_query,9
+424,10062,ce mâncare este bună,cooking_recipe,3
+425,4413,ninge in baia mare,weather_query,9
+426,9860,deschide te rog aplicația audible și reia redarea,play_audiobook,6
+427,10199,cum putem gati pilaf,cooking_recipe,3
+428,17114,poti raspunde la acest email,email_sendemail,5
+429,10094,cum sa gatesti crabi,cooking_recipe,3
+430,15908,trimite un email cu raspunsul multumesc foarte mult la ion arond gmail punct com,email_sendemail,5
+431,8815,mergi la luna evenimentului și șterge,calendar_remove,2
+432,17129,trimite email catre persoana noua te rog,email_sendemail,5
+433,1689,care este previziunea meteo pentru aceste săptămâni,weather_query,9
+434,4765,va ploua vineri,weather_query,9
+435,181,o sa ploua azi,weather_query,9
+436,16537,acum trebuie sa i scriu un email colegului meu,email_sendemail,5
+437,7018,șterge revelionul din calendar,calendar_remove,2
+438,16839,trimite email sotiei mele,email_sendemail,5
+439,2039,e placut azi,weather_query,9
+440,9727,restartează cartea audio,play_audiobook,6
+441,16633,am o noua adresa de e-mail poti trimite un e-mail,email_sendemail,5
+442,16404,trimite i un email lui tudor,email_sendemail,5
+443,15926,trimite email cristinei și spune-i că telefonul meu este funcțional,email_sendemail,5
+444,15831,incepe un nou email,email_sendemail,5
+445,5995,am nevoie sa port pelerina azi,weather_query,9
+446,4594,arată-mi alarmele pe care le-am setat,alarm_query,0
+447,11672,seara filmelor diseară,recommendation_movies,7
+448,7023,elimină ziua tatalui din calendar,calendar_remove,2
+449,16475,trimite acel email catre andrei te rog,email_sendemail,5
+450,648,îmi poți spune ce alarme am setat,alarm_query,0
+451,2293,este probabil să fie ploaie în prognoza de azi,weather_query,9
+452,833,va ninge in acest weekend aici,weather_query,9
+453,6884,șterge întâlnirea de mâine la zece dimineața,calendar_remove,2
+454,398,va fi cald maine,weather_query,9
+455,16053,trimite i lui mircea un mail pentru munca,email_sendemail,5
+456,5123,care este temperatura afara,weather_query,9
+457,16460,am un contact nou mailnou arond gmail punct com compune email,email_sendemail,5
+458,9927,olly cat timp sa gatesti paste,cooking_recipe,3
+459,3506,cum e prognoza vremii de azi,weather_query,9
+460,6957,curatami calendarul,calendar_remove,2
+461,9685,continuă să citești,play_audiobook,6
+462,12192,rezerva un drum de la oradea la sibiu ocupand zece locuri in aceasi zona,transport_ticket,8
+463,9719,mergi înapoi la ferma animalelor,play_audiobook,6
+464,16310,te rog raspunde,email_sendemail,5
+465,15835,te rog răspunde la cel mai recent email al meu,email_sendemail,5
+466,16435,vreau sa incep email ul astfel,email_sendemail,5
+467,12719,am nevoie de un bilet de tren spre brasov de aici,transport_ticket,8
+468,7235,te rog anulează următoarea mea tunsoare,calendar_remove,2
+469,6030,mancarea va fi oferita la expozitie,weather_query,9
+470,3869,e setată și activă alarma de la ușa din spate,alarm_query,0
+471,16200,te rog trimite un email pe noua adresă de email a lui laurențiu la laurlaur arond gmail punct com,email_sendemail,5
+472,15748,trimite email ilenei și spune-i că seara trecută a fost sălbatică,email_sendemail,5
+473,7740,șterge petrecerea de ziua lui victor din calendarul meu,calendar_remove,2
+474,12471,cumpără bilet de tren,transport_ticket,8
+475,12523,poti sa rezervi un bilet de tren pentru mine in lei,transport_ticket,8
+476,2516,cum arată vremea pentru această săptămână,weather_query,9
+477,6953,sterge totul din calendar,calendar_remove,2
+478,1190,daca este miezul noptii in transilvania ce ora este la pechin,datetime_convert,4
+479,7739,nu mai merg la petrecerea de ziua de naștere a lui bogdan,calendar_remove,2
+480,5269,acum este cinci treizeci seara în românia cât e ora în coasta de fildeș,datetime_convert,4
+481,9731,redă codul lui davinci,play_audiobook,6
+482,10174,găsește o rețetă bună pentru friptură,cooking_recipe,3
+483,12105,furios și iute,recommendation_movies,7
+484,740,cat de umed este mediul azi,weather_query,9
+485,11870,ce filme curente joacă in zona mea,recommendation_movies,7
+486,1969,astăzi va fi o zi însorită sau nu,weather_query,9
+487,5586,o sa am nevoie de cizme de ploaie,weather_query,9
+488,16590,google trebuie să răspund la acel ultim email,email_sendemail,5
+489,4719,o să fie peste zero grade miercuri,weather_query,9
+490,15952,trimite-i un email lui constantin și întreabă-l la ce oră termina munca,email_sendemail,5
+491,10047,cum să gătesc acel preparat,cooking_recipe,3
+492,16980,trimite un mail cuiva,email_sendemail,5
+493,16568,te rog trimite un email noului stagiar,email_sendemail,5
+494,10153,gaseste o reteta pentru frigarui de pui,cooking_recipe,3
+495,3533,te rog schimba fusul orar la india,datetime_convert,4
+496,9099,sterge programarea la doctor ce am adaguat in calendarul meu pentru doisprezece februarie la nouă dimineața,calendar_remove,2
+497,7431,vreau să elimini evenimentul ăsta,calendar_remove,2
+498,8816,cauta anul evenimentului si sterge,calendar_remove,2
+499,12333,ia un bilet pentru mine pentru tren ca sa ajung la maine este,transport_ticket,8
+500,259,este prea zgomotos,audio_volume_down,1
+501,1009,cum o sa fie vremea in acest weekend,weather_query,9
+502,2240,prognoza meteo pentru această saptamană,weather_query,9
+503,7115,elimină plata mașinii pe data de cincisprezece din calendarul meu,calendar_remove,2
+504,16617,trimite un email catre paul despre petrecerea din acest weekend,email_sendemail,5
+505,5535,daca ploua nu ma duc la munca,weather_query,9
+506,16499,hei google te rog trimite un email mamei vin acasă acest sfârșit de săptămână,email_sendemail,5
+507,7696,sterge întâlnirea programata pe patru octombrie de la doisprezece după amiază,calendar_remove,2
+508,7360,șterge următorul eveniment de nuntă,calendar_remove,2
+509,4470,cum e vremea actuala in craiova,weather_query,9
+510,8440,șterge toate evenimentele de pe calendarul meu,calendar_remove,2
+511,1521,redu volumul la zece,audio_volume_down,1
+512,6606,top zece filme,recommendation_movies,7
+513,15896,adauga ion arond gmail punct com la datele de contact pentru ion,email_sendemail,5
+514,9041,sterge petrecerea de zi onomastică,calendar_remove,2
+515,10209,plăcut,cooking_recipe,3
+516,8371,hei olly pe douăzeci eliberează -mi calendarul,calendar_remove,2
+517,3548,când o să mai ningă,weather_query,9
+518,15781,hei google email către carolina cum ești poți să îmi trimiți trimiți ultimele noutăți privind ultimul proiect noroc toma,email_sendemail,5
+519,12653,cumpără un bilet de tren spre iași,transport_ticket,8
+520,8871,anulează întâlnirea din douăzeci și patru martie din program,calendar_remove,2
+521,4529,care este urmatoarea mea alarma programata,alarm_query,0
+522,12855,rezervă un bilet pentru azi pe siteul c. f. r. calatori,transport_ticket,8
+523,10578,șterge datele de căutare ale evenimentelor mele,calendar_remove,2
+524,1328,cum e vremea azi,weather_query,9
+525,905,ce temperaturi o sa fie saptamana viitoare,weather_query,9
+526,4051,ninge chiar acum,weather_query,9
+527,8814,mergi la evenimentul zilei si sterge-l,calendar_remove,2
+528,3807,vremea în bucuresti saptamana aceasta,weather_query,9
+529,6086,cum e vremea la codul postal treizeci si doua de mii doua sute treizeci si patru,weather_query,9
+530,3535,o sa fie însorit,weather_query,9
+531,7702,curăță-mi programul,calendar_remove,2
+532,1605,e alarma pus pentru maine dimineata,alarm_query,0
+533,8225,șterge evenimentul de marţi,calendar_remove,2
+534,3106,cum e vremea azi,weather_query,9
+535,3032,cum e vremea in acest moment,weather_query,9
+536,699,care este buletinul meteo,weather_query,9
+537,9852,incepe cu ultima sesiune de cartea ion,play_audiobook,6
+538,4128,am ceva alarme setate în prezent,alarm_query,0
+539,16234,vreau sa raspunzi la email ul ioanei spunand ca vom intarzia,email_sendemail,5
+540,12498,rezerva un bilet de tren spre oradea maine,transport_ticket,8
+541,662,poti sa-mi spui cate ore diferenta sunt intre boston si timisoara,datetime_convert,4
+542,6165,ar trebui sa port protectie solara astazi,weather_query,9
+543,4706,care e prognoza meteo de astăzi in zona mea,weather_query,9
+544,9877,redă cartea audio,play_audiobook,6
+545,6143,cum o să fie vremea în două săptămâni,weather_query,9
+546,7713,șterge toate evenimentele mele de mâine,calendar_remove,2
+547,17032,salut trimite i un email lui alex până diseară,email_sendemail,5
+548,16887,răspunde la acest email,email_sendemail,5
+549,11727,arată orele pentru cel mai apropiat cinematograf,recommendation_movies,7
+550,10233,este pește cu cartofi prăjiți britanică pe bune,cooking_recipe,3
+551,10134,gaseste o reteta pentru pilaf cu ciuperci,cooking_recipe,3
+552,5215,olly am nevoie de protecție solară,weather_query,9
+553,218,plouă în afara bucureștiului,weather_query,9
+554,10010,cum pot găti mâncare,cooking_recipe,3
+555,9671,începe redarea moara cu noroc unde eu am oprit ultima oară,play_audiobook,6
+556,10003,vreau sa gatesc paste in stil american arata-mi,cooking_recipe,3
+557,644,care osa fie cea mai ridicata temperatura saptamana aceasta,weather_query,9
+558,3857,o să plouă săptămâna asta,weather_query,9
+559,8832,formatează datele din calendar,calendar_remove,2
+560,1891,cum este vremea azi,weather_query,9
+561,16735,te rog deschide un raspuns la email,email_sendemail,5
+562,4451,am o alarmă setată pentru azi,alarm_query,0
+563,15980,trimite raspuns lui george,email_sendemail,5
+564,15830,trimite asta,email_sendemail,5
+565,7093,eliberează-mi calendarul,calendar_remove,2
+566,7283,elimină programarea de la ora unu treizeci,calendar_remove,2
+567,3304,olly cum e vremea saptamana asta,weather_query,9
+568,3650,arata-mi vremea in sibiu,weather_query,9
+569,6459,cum este vremea afară este înnorat,weather_query,9
+570,11772,ce filme rulează acum,recommendation_movies,7
+571,9687,pune o scurtă istorie a românilor povestită celor tineri,play_audiobook,6
+572,5872,sunt sanse de ploaie in pitesti ca sa se racoareasca,weather_query,9
+573,5323,te rog zi-mi vremea in arges,weather_query,9
+574,357,te rog spune-mi ce alarme am,alarm_query,0
+575,6916,șterge toate evenimentele din calendar,calendar_remove,2
+576,10163,care este cea mai buna metoda de facut chiftele de curcan,cooking_recipe,3
+577,4505,e însorit,weather_query,9
+578,2895,dă mai încet boxele,audio_volume_down,1
+579,10165,cat sa fierb un ou sa fie tare,cooking_recipe,3
+580,12763,am nevoie de un bilet de tren spre,transport_ticket,8
+581,8295,șterge toate evenimentele,calendar_remove,2
+582,1321,cum e vremea azi,weather_query,9
+583,9992,spune mi reteta de gatit ciorba de cartofi,cooking_recipe,3
+584,15959,compune un email către paula,email_sendemail,5
+585,15954,olly da mail ioanei cu noua programa pentru intalnirea de maine,email_sendemail,5
+586,11956,olly ce filme rulează langa mine,recommendation_movies,7
+587,6038,va ploua dupa amiaza,weather_query,9
+588,6474,cum e vremea,weather_query,9
+589,7092,șterge evenimentele din calendar,calendar_remove,2
+590,10155,cum se gateste ostropel de pui,cooking_recipe,3
+591,9824,reia moromeții de unde am rămas,play_audiobook,6
+592,9873,mai citește din povești de dragoste la prima vedere,play_audiobook,6
+593,9946,care este cea mai buna reteta pentru sarmale,cooking_recipe,3
+594,9917,ce este necesar pentru a face pizza,cooking_recipe,3
+595,16484,creați o nouă adresă de e-mail,email_sendemail,5
+596,5710,o sa am nevoie de protectie solara in aceasta dupa-amiaza,weather_query,9
+597,16172,trimite email catre mama si spune i ca ne vedem la disney world,email_sendemail,5
+598,395,care este diferenta dintre fusul orar de est si ora pacificului,datetime_convert,4
+599,6736,anulați toate evenimentele din următoarele două zile,calendar_remove,2
+600,12323,sursa si destinatie,transport_ticket,8
+601,10139,cum faci biscuiti,cooking_recipe,3
+602,7236,te rog sterge programarea de pe întâi aprilie,calendar_remove,2
+603,9788,redă ultima carte audio ascultată,play_audiobook,6
+604,11900,pune un film care o sa imi placa,recommendation_movies,7
+605,10193,cum să gătesc pește,cooking_recipe,3
+606,4760,o sa fie zapada,weather_query,9
+607,9989,cum pot învăța să gătesc,cooking_recipe,3
+608,10120,cum sa gatesc spaghete,cooking_recipe,3
+609,8441,șterge mi tot calendarul,calendar_remove,2
+610,8613,șterge cel mai recent eveniment al meu,calendar_remove,2
+611,6735,olly anulează toate evenimentele în următoarele două zile,calendar_remove,2
+612,16126,trimite i mamei mulțumesc foarte mult mama,email_sendemail,5
+613,8255,anulează eveniment viitor,calendar_remove,2
+614,701,verifică vremea,weather_query,9
+615,1262,pe când este setată alarma mea,alarm_query,0
+616,4563,poti schimba fusul meu orar in cel central,datetime_convert,4
+617,15898,trimite i email cu an nou fericit lui ion,email_sendemail,5
+618,1391,alex va fi frumos sambata,weather_query,9
+619,4401,va trebui sa port un pulover azi,weather_query,9
+620,10145,găsește cantitatea potrivită de scorțișoară pentru garam masala,cooking_recipe,3
+621,12390,adu-mi un bilet de tren,transport_ticket,8
+622,9724,reia playerul de carte audio,play_audiobook,6
+623,4500,care e jurnalul meteorologic săptămânal,weather_query,9
+624,1729,zi-mi te rog daca o sa fie soare fara nori vineri saptamana aceasta,weather_query,9
+625,3044,la ce ora este setata alarma,alarm_query,0
+626,3388,cum o sa fie azi vremea in craiova,weather_query,9
+627,9090,sterge toate evenimentele din calendar,calendar_remove,2
+628,2634,coboară volumul boxelor,audio_volume_down,1
+629,16988,te rog răspunde la email-ul trimis de george am nevoie de bani acum e urgent,email_sendemail,5
+630,5466,trebuie sa folosesc crema solara inainte sa merg sa ma intalnesc cu prietena mea la pranz,weather_query,9
+631,16080,trimite un email mamei mele,email_sendemail,5
+632,1436,ce alarme am eu,alarm_query,0
+633,16440,trimite email către camelia că voi accepta oferta de muncă,email_sendemail,5
+634,5602,va fi frumos afară săptămâna aceasta,weather_query,9
+635,9867,enumeră-mi cărțile audio pe care eu le-am ascultat deja,play_audiobook,6
+636,8527,anulează întâlnirea de la trei,calendar_remove,2
+637,7361,te rog sterge urmatorul eveniment care este o zi de nastere,calendar_remove,2
+638,4864,spune-mi cum e vremea in sibiu,weather_query,9
+639,9937,am niste somon cum il gatesc,cooking_recipe,3
+640,8545,curata calendarul meu,calendar_remove,2
+641,9129,șterge următorul eveniment din calendar,calendar_remove,2
+642,9735,reia cel mai recent audiobook,play_audiobook,6
+643,12803,te rog rezerva un bilet de tren spre sibiu,transport_ticket,8
+644,16599,șterge acest email,email_sendemail,5
+645,9914,cum să fac cheesecake,cooking_recipe,3
+646,16348,răspunde la emailul lui ionuț azi spunând că voi întârzia,email_sendemail,5
+647,16212,trimite email lui tata cum e vremea saptamana asta,email_sendemail,5
+648,5252,pot sa merg afara fara umbrela,weather_query,9
+649,16905,trimite un email familiei mele si spune le despre planurile mele pentru ziua mea de nastere care se apropie,email_sendemail,5
+650,3802,arată-mi vremea de mâine în bucurești,weather_query,9
+651,4750,va ninge,weather_query,9
+652,11702,arata-mi cel mai apropiat teatru,recommendation_movies,7
+653,15846,cum a ajuns la noi,email_sendemail,5
+654,4211,crezi ca e ok sa porti pantaloni scurti saptamana aceasta,weather_query,9
+655,5335,sunt ceva alarme setate,alarm_query,0
+656,7622,poti te rog sa stergi toate evenimentele din calendarul meu,calendar_remove,2
+657,3097,plouă în ploiești,weather_query,9
+658,16116,sa se raspunda la toate email urile primite intre zece p. m. si noua a. m.,email_sendemail,5
+659,12725,gaseste un bilet de tren ieftin pentru iași,transport_ticket,8
+660,16240,trimite un email soțului cu întrebări despre idei de restaurante,email_sendemail,5
+661,1657,cate alarme sunt setate in acest moment,alarm_query,0
+662,4790,cum e temperatura azi,weather_query,9
+663,1842,va straluci soarele in constanta weekendul acesta,weather_query,9
+664,3934,arata alarmele mele,alarm_query,0
+665,16716,trimite un email lui ionuț spunându-i că sunt în concediu,email_sendemail,5
+666,17139,trimite un raspuns la acest email,email_sendemail,5
+667,10151,cauta-mi o reteta de tort,cooking_recipe,3
+668,7252,reprogrameaza petrecerea pentru joi,calendar_remove,2
+669,16014,poti sa creezi un email pentru mine,email_sendemail,5
+670,7831,șterge toate programările,calendar_remove,2
+671,9837,muzica trei,play_audiobook,6
+672,1691,cum e vremea de azi,weather_query,9
+673,13435,care este cea mai buna reteta pentru margarita,cooking_recipe,3
+674,12351,rezervați un bilet de tren la vagonul de dormit pentru săptămâna viitoare la sibiu,transport_ticket,8
+675,5779,vremea in sibiu,weather_query,9
+676,1050,închide bass ul pentru audio,audio_volume_down,1
+677,17044,compune un email pentru radu,email_sendemail,5
+678,16942,prin telefoane mobile,email_sendemail,5
+679,15951,redactează răspuns la emailul lui cristi,email_sendemail,5
+680,10111,olly cum fac drob de carne,cooking_recipe,3
+681,16313,trimite un e-mail mamei mele,email_sendemail,5
+682,5869,care e prognoza meteo pentru azi in iasi,weather_query,9
+683,7510,sterge eveniment,calendar_remove,2
+684,584,care sunt sansele de ploaie in aceasta saptamana,weather_query,9
+685,507,confirma ora alarmei,alarm_query,0
+686,10114,de ce am nevoie pentru un burger bun,cooking_recipe,3
+687,8862,te rog şterge toate întâlnirile de azi după ora şapte p. m.,calendar_remove,2
+688,12130,programează o calatorie de la pitesti cu trenul,transport_ticket,8
+689,8942,șterge totul pentru luna aceasta,calendar_remove,2
+690,12379,rezerva un bilet de tren de la bucurești la carei satu mare,transport_ticket,8
+691,4863,cum e vremea in prahova,weather_query,9
+692,7501,următorul eveniment e anulat,calendar_remove,2
+693,5504,mi-am setat alarma de la casa,alarm_query,0
+694,754,schimba acest fus orar cu bucuresti,datetime_convert,4
+695,239,o sa ploua in bucuresti,weather_query,9
+696,16246,trimite email catre ioana arond a. o. l. punct com si adauga o ca contact nou,email_sendemail,5
+697,16569,as vrea sa dau mail la noua adresa de email a receptionerului,email_sendemail,5
+698,347,care sunt prognozele de maine,weather_query,9
+699,17033,raspunde la emailul lui aurel dimineata,email_sendemail,5
+700,9181,șterge memento meu cu zi de naștere de săptămâna următoare,calendar_remove,2
+701,7354,imi poti spune vremea in prahova maine,weather_query,9
+702,9894,continua sa redai padurea spanzuratilor,play_audiobook,6
+703,9717,pune animal farm,play_audiobook,6
+704,7700,șterge tot calendarul meu,calendar_remove,2
+705,320,ar trebui să iau umbrelă mâine,weather_query,9
+706,6440,care e un film bun de văzut acum,recommendation_movies,7
+707,1906,micșorează volumul,audio_volume_down,1
+708,10128,vreau o reteta de burrito,cooking_recipe,3
+709,2855,o sa ploua azi,weather_query,9
+710,1991,cum e vremea azi,weather_query,9
+711,5005,daca as fi in fusul orar estic ce ora ar fi,datetime_convert,4
+712,793,care sunt sansele de grindina in aceasta saptamana,weather_query,9
+713,9801,deschide nume versuri,play_audiobook,6
+714,10202,spune-mi cum se face tacos,cooking_recipe,3
+715,12506,rezerva un bilet de tren spre oradea,transport_ticket,8
+716,5231,sa port cizme de ploaie,weather_query,9
+717,4397,poți vorbi mai încet te rog,audio_volume_down,1
+718,7434,sterge urmatorul eveniment din calendarul meu,calendar_remove,2
+719,16954,caută în contacte,email_sendemail,5
+720,238,sunt ceva alarme,alarm_query,0
+721,12754,vreau cel mai ieftin bilet de tren spre mediaș,transport_ticket,8
+722,1918,cum o sa fie vremea in urmatoarele sapte zile,weather_query,9
+723,9991,arata mi tutoriale despre gatitul alimentelor,cooking_recipe,3
+724,11671,spune ce filme joacă la malul mării diseară,recommendation_movies,7
+725,16946,răspunde la emailul primit,email_sendemail,5
+726,16736,mi-ar placea sa trimit un raspuns,email_sendemail,5
+727,16871,trimite un email către natalia,email_sendemail,5
+728,10001,cum se face lapte batut,cooking_recipe,3
+729,8982,sterge progamarea mea cu teodor,calendar_remove,2
+730,1868,olly cum e clima acum,weather_query,9
+731,16557,raspunde la nume,email_sendemail,5
+732,5649,intreaba cum e vremea azi dimineata,weather_query,9
+733,10044,cum fac salata de ton de la zero,cooking_recipe,3
+734,6179,am nevoie de cizme de zăpadă,weather_query,9
+735,12459,arata bilete de tren,transport_ticket,8
+736,4204,o sa fie zapada saptamana asta,weather_query,9
+737,16378,alexa trimite i mamei un email acum,email_sendemail,5
+738,3585,cum e vremea în bucurești,weather_query,9
+739,5863,care e temperatura medie in bucuresti săptămâna aceasta,weather_query,9
+740,16940,prin serverul de mail,email_sendemail,5
+741,12562,gaseste un bilet de tren spre braila pe paisprezece aprilie,transport_ticket,8
+742,9106,te rog reseteaza calendarul meu inapoi la ziua unu,calendar_remove,2
+743,2872,am alarme setate,alarm_query,0
+744,4525,cum e prognoza meteo pe astăzi,weather_query,9
+745,180,cum este vremea acum,weather_query,9
+746,9696,reia playlistul pheonix,play_audiobook,6
+747,9682,pune-mi harry potter din locul unde am oprit ultima oară olly,play_audiobook,6
+748,12199,cauta un bilet de tren spre,transport_ticket,8
+749,409,citeste-mi alarmele,alarm_query,0
+750,3979,e arsita afara acum sunt in constanta,weather_query,9
+751,7681,șterge toate programările mele cu doctorul silvescu de săptămâna aceasta,calendar_remove,2
+752,12139,rezervă un tren pentru mine,transport_ticket,8
+753,2778,este mai frig decât ieri,weather_query,9
+754,12753,vreau un bilet de tren de la arad la timisoara,transport_ticket,8
+755,12573,am nevoie de un bilet de tren spre sibiu rezerva bilet,transport_ticket,8
+756,6971,anulează evenimentul,calendar_remove,2
+757,9679,reia cartea audio pe care am ascultat-o ultima data,play_audiobook,6
+758,1037,ce alarme am setat pentru joi,alarm_query,0
+759,9766,redă cartea audio de iona,play_audiobook,6
+760,16207,trimite email familiei cu detaliile petrecerii,email_sendemail,5
+761,335,imi doresc sa stiu vremea in brașov,weather_query,9
+762,1457,cum e in brasov,weather_query,9
+763,11774,la ce sugerezi că ar trebui să ma uit în acest weekend,recommendation_movies,7
+764,16425,creeaza un mesaj catre robert la ce ora iesi trimite,email_sendemail,5
+765,4079,la ce oră este setată alarma mea de mâine dimineață,alarm_query,0
+766,9797,vreau să citesc în sfârșit trilogia la medeleni,play_audiobook,6
+767,8981,anuleaza petrecerea mea aniversară,calendar_remove,2
+768,10060,cât timp trebuie să coc carnea pentru a fi gătită mediu,cooking_recipe,3
+769,3303,cum e vremea saptamana asta,weather_query,9
+770,16480,pregătește un email de răspuns pentru mihai,email_sendemail,5
+771,9047,anulează-mi toate evenimentele pe douăzeci și nouă,calendar_remove,2
+772,4562,olly poti sa convertesti fusul meu orar in fusul orar in care sunt acum,datetime_convert,4
+773,1992,poti sa imi spui vremea pentru luni,weather_query,9
+774,9686,reia moromeții,play_audiobook,6
+775,9764,redă narnia,play_audiobook,6
+776,3584,care sunt următoarele trei alarme setate să se declanșeze,alarm_query,0
+777,13004,care sunt sansele de ploaie astazi,weather_query,9
+778,3556,o sa se opreasca zapada înainte de șapte a. m. mâine,weather_query,9
+779,15780,trimite email cameliei cum ești îmi poți trimite noile informații despre ultimul proiect pupici tomasz,email_sendemail,5
+780,2956,la ce oră sunt alarmele mele,alarm_query,0
+781,7344,șterge toate evenimentele din calendar,calendar_remove,2
+782,10223,va fi gustos,cooking_recipe,3
+783,860,vremea azi,weather_query,9
+784,8432,șterge întâlnirea mea de astăzi la ora unu p. m.,calendar_remove,2
+785,6046,pot să port pantaloni scurți azi,weather_query,9
+786,12671,rezerva un tren pentru douazeci si doi martie la doisprezece la amiaza,transport_ticket,8
+787,12270,rezerva un bilet de tren în orice tren spre bucurești mâine,transport_ticket,8
+788,9835,prima muzică,play_audiobook,6
+789,3933,arata-mi toate alarmele mele active,alarm_query,0
+790,15888,poți aduna te rog o listă cu restaurante locale și trimite o prin email către soțul meu,email_sendemail,5
+791,9037,marcheaza toate evenimentele ramase in calendar pentru azi ca fiind completate,calendar_remove,2
+792,12561,rezerva un bilet de tren pentru vineri paisprezece aprilie pentru iasi,transport_ticket,8
+793,3773,poți să îmi dai un raport meteo,weather_query,9
+794,15764,salut te rog raspunde la email ul lui pavel,email_sendemail,5
+795,12287,caută bilete de tren la constanta maine,transport_ticket,8
+796,11736,e trupe de elită un film bun,recommendation_movies,7
+797,16397,vei trimite e-mailul lui george,email_sendemail,5
+798,4766,o sa am nevoie de palton dimineata,weather_query,9
+799,10227,spune mi metoda de preparare pentru pui șaizeci și cinci,cooking_recipe,3
+800,3027,previziuni de ninsoare in sibiu,weather_query,9
+801,2063,spune-mi vremea de saptamana asta,weather_query,9
+802,17124,deschide emailul de trimis tatălui,email_sendemail,5
+803,6080,o sa am nevoie de haina groasă după pranz astăzi,weather_query,9
+804,16204,trimite acest mesaj grupului de familie,email_sendemail,5
+805,5303,alexa cum o sa fie vremea pe douazeci martie doua mii saptesprezece,weather_query,9
+806,12099,olly ce rulează la cinema în oradea,recommendation_movies,7
+807,16181,trimite mail alinei vreau sa ma intalnesc cu ea maine la doua dupa masa in birou,email_sendemail,5
+808,10115,cum se face carne de pui la gratar,cooking_recipe,3
+809,8232,nu fac nimic saptamana asta,calendar_remove,2
+810,10007,olly arata-mi pasii pentru a prepara inghetata,cooking_recipe,3
+811,9884,reia moromeții,play_audiobook,6
+812,1728,te rog sa-mi spui cum e vremea pe treisprezece luna aceasta,weather_query,9
+813,5429,va trebui să port un palton astăzi după amiază,weather_query,9
+814,11703,arată cel mai bun în sălile de teatre,recommendation_movies,7
+815,17067,răspunde la emailul primit de la petre,email_sendemail,5
+816,5936,o sa am nevoie de palarie azi,weather_query,9
+817,5983,spune-mi ora la care ai setat alarma,alarm_query,0
+818,12148,an nevoie sa ajung la iasi vineri noapte poti sa te uiti de un bilet pentru mine,transport_ticket,8
+819,16969,te rog trimite un email la a. b. c. coada de maimuta gmail punct com in loc de xyz coada de maimuta punct com,email_sendemail,5
+820,8713,anuleaza prânzul de la restaurant rezervat pe douăzeci și cinci,calendar_remove,2
+821,3961,arată-mi vremea,weather_query,9
+822,4720,o sa fie frumos in weekend,weather_query,9
+823,4425,arată-mi vremea săptămânală din apropierea mea,weather_query,9
+824,204,am ceva alarme,alarm_query,0
+825,16174,trimite email șefului nu mă simt bine îmi iau o zi de concediu medical,email_sendemail,5
+826,5591,deschide prognoza meteo,weather_query,9
+827,15755,trimite i un email fratelui meu,email_sendemail,5
+828,7339,șterge întâlnirea de mâine,calendar_remove,2
+829,6715,sterge evenimentul nunta lui cristi de anul urmator,calendar_remove,2
+830,17086,raspunde la asta te rog,email_sendemail,5
+831,7177,te rog trimite email catre dl. robert si spune i ca o sa il intalnesc pe intai februarie doua mii saptesprezece la ora cinci p. m. la birou,email_sendemail,5
+832,433,cât de cald e acum afară,weather_query,9
+833,5432,va fi canicula in doua ore,weather_query,9
+834,16428,te rog trimite i un email tatălui mei să întrebi despre vremea din bucurești,email_sendemail,5
+835,3375,ce ora va fi local la noua a. m. in bucuresti romania,datetime_convert,4
+836,10161,cu ce merge vinul de orez,cooking_recipe,3
+837,2080,e alarma mea de trezire setata la sase dimineata,alarm_query,0
+838,9990,spune-mi modalități pentru a învăța să gătesc,cooking_recipe,3
+839,2706,scade volumul douazeci la suta,audio_volume_down,1
+840,12750,cumpără un bilet de tren de la mediaș sibiu la cluj napoca,transport_ticket,8
+841,9870,vreau sa ascult morometii de marin preda,play_audiobook,6
+842,240,o sa ploua astăzi,weather_query,9
+843,10198,cauta cea mai buna reteta de spaghete,cooking_recipe,3
+844,10232,cum se pregateste mai bine un somon sau crap,cooking_recipe,3
+845,16195,trimite e-mail luizei,email_sendemail,5
+846,15803,da email surorii mele in legatura cu ziua de nastere a mamei geanina ar trebui sa ne gandim sa organizam petrecere in parc,email_sendemail,5
+847,2430,te rog verifica alarmele,alarm_query,0
+848,847,este vreo alarma setata acum,alarm_query,0
+849,1284,schimba aceasta ora la ist,datetime_convert,4
+850,9880,carte te rog,play_audiobook,6
+851,2894,micșorează volumul boxei,audio_volume_down,1
+852,9954,ce temperatură trebuie să aibă un pui la cuptor,cooking_recipe,3
+853,9770,redă magic run în jumătate de oră,play_audiobook,6
+854,6171,o să am nevoie de jachetă,weather_query,9
+855,7200,curata calendarul meu,calendar_remove,2
+856,4120,ce oră ai setat pentru alarmă,alarm_query,0
+857,11657,care sunt orele de spectacol pentru logan,recommendation_movies,7
+858,4167,scade volumul la jumatate,audio_volume_down,1
+859,863,alarmele mele,alarm_query,0
+860,8854,eliminati evenimentele din calendar,calendar_remove,2
+861,4072,poți să dai asta mai încet,audio_volume_down,1
+862,11670,olly ce film joacă lângă mine,recommendation_movies,7
+863,10204,explica cum sa prajesc friptura,cooking_recipe,3
+864,9866,reda programul la care am ramas ieri,play_audiobook,6
+865,9777,reia moara cu noroc,play_audiobook,6
+866,5778,cum e vremea,weather_query,9
+867,9803,incepe cartea audio ciresarii,play_audiobook,6
+868,16566,trimite email la angajatul companiei in legatura cu proiectul,email_sendemail,5
+869,11982,olly ce filme sunt difuzate in romania,recommendation_movies,7
+870,8830,șterge toate informațiile din calendar,calendar_remove,2
+871,4053,e soare afara in acest moment,weather_query,9
+872,9915,spune-mi cum sa prepar friptura,cooking_recipe,3
+873,12767,pot sa iau un bilet de tren catre,transport_ticket,8
+874,16884,trimite mamei un email si intreb o daca a reusit sa comande de la amazon cartea despre care i am spus,email_sendemail,5
+875,5834,va fi frig in urmatoarele cateva zile,weather_query,9
+876,12589,poti sa rezervi un bilet de tren spre oradea pentru mine,transport_ticket,8
+877,16689,raspunde la email lui ionut,email_sendemail,5
+878,15827,accesați contacte și adăugați un nou email la listă,email_sendemail,5
+879,792,a inceput vara,weather_query,9
+880,16690,raspunde la noul email de la ionut,email_sendemail,5
+881,5768,prea tare,audio_volume_down,1
+882,12538,olly gaseste cel mai ieftin bilet de tren spre spania,transport_ticket,8
+883,12389,cumpara mi un bilet de tren,transport_ticket,8
+884,12596,un bilet de tren la cluj napoca,transport_ticket,8
+885,12522,rezerva un bilet de tren pentru mine,transport_ticket,8
+886,5344,este o sansa de zapada miercuri,weather_query,9
+887,17066,răspunde la emailul primit de la marius,email_sendemail,5
+888,9908,reia ceasurile,play_audiobook,6
+889,16257,trimite un email soției mele legat de vremea de săptămâna viitoare,email_sendemail,5
+890,10043,cate cani de zahar intra la glazura pentru prajitura alba ca zapada,cooking_recipe,3
+891,16728,spune i lui andrei că apreciez că m a contactat,email_sendemail,5
+892,3284,cum e vremea la mamaia,weather_query,9
+893,9789,reia ultima carte audio redată,play_audiobook,6
+894,9742,vreau să aud mai multe cărți audio,play_audiobook,6
+895,3012,te rog spune-mi vremea,weather_query,9
+896,12140,rezerva bilete de tren,transport_ticket,8
+897,7307,sterge toate evenimentele pentru luna aceasta,calendar_remove,2
+898,10191,cum sa fac frigarui de pui,cooking_recipe,3
+899,5998,daca e sase a. m. aici cat e ora in arad,datetime_convert,4
+900,15758,salut trimite email lui marius despre sedinta noastra,email_sendemail,5
+901,8738,elimină evenimentul din calendar,calendar_remove,2
+902,4865,cum este timpul în utah acum,weather_query,9
+903,12448,rezerva si plateste pentru un bilet de tren la brasov sambata,transport_ticket,8
+904,3805,vremea saptamana aceasta,weather_query,9
+905,8340,anulează urmatorul meu eveniment,calendar_remove,2
+906,10123,care este cel mai bun gulas,cooking_recipe,3
+907,17125,scrie un raspuns la cel mai recent email al mariei,email_sendemail,5
+908,10002,arata-mi cum sa gatesc un mic dejun slab in calorii,cooking_recipe,3
+909,11786,ziua de antrenament,recommendation_movies,7
+910,6717,olly anulează stand-up de vineri la ora zece dimineața,calendar_remove,2
+911,10201,care sunt pasii pentru a prepara salata de vinete,cooking_recipe,3
+912,2344,cum o sa fie vremea in oklahoma city luni,weather_query,9
+913,325,fericit,weather_query,9
+914,284,v-a ploua diseară,weather_query,9
+915,583,soarele va apune la cinci jumatate p. m. maine,weather_query,9
+916,6716,sterge stand-up ul de vineri la zece dimineața,calendar_remove,2
+917,16143,creează un email către andrei,email_sendemail,5
+918,12331,olly rezerva mi un bilet de tren catre bucuresti pe trei indiferent de ora,transport_ticket,8
+919,5866,există vreo alarmă activă,alarm_query,0
+920,10064,cate legume ar trebui sa mananc pe zi,cooking_recipe,3
+921,10235,porniți aragazul reglați flacăra pentru a găti preparatul și puneți toate ingredientele în oala sub presiune pentru a le găti țineți-o pe aragaz așteptați ca ingredientele să fie gătite,cooking_recipe,3
+922,9910,vreau să încep moara cu noroc de unde l-am lăsat,play_audiobook,6
+923,15961,trebuie sa i trimit un email laurei,email_sendemail,5
+924,5891,sunt ceva alarme setate si care sunt ele,alarm_query,0
+925,17085,să răspundem acestui email,email_sendemail,5
+926,10108,care este modalitatea buna de a gati oua,cooking_recipe,3
+927,2041,vremea de azi e grozava,weather_query,9
+928,6635,vremea,weather_query,9
+929,15928,trimite un e-mail la mihai ca imi pare rau ca nu mi-am dat seama ca era atat de bolnav,email_sendemail,5
+930,1388,o să plouă sâmbătă,weather_query,9
+931,9862,începe cartea mea de studiu biblic din nou,play_audiobook,6
+932,9833,reia o melodie din cartea audio a lui george enescu,play_audiobook,6
+933,9705,redă de la pauză cartea audio,play_audiobook,6
+934,9100,sterge-mi programarea la doctor de pe doisprezece februarie,calendar_remove,2
+935,7913,șterge evenimentul de luni,calendar_remove,2
+936,7237,sterge spectacolul de aerobic din doi aprilie din programul meu,calendar_remove,2
+937,10082,cum faci lasagna de legume,cooking_recipe,3
+938,1733,verifica alarma de azi pentru intalnire,alarm_query,0
+939,1235,cât este ceasul la bucurești când la noi ora este cinci după-amiază,datetime_convert,4
+940,7363,mergi la calendar si sterge al trei-lea eveniment din douăzeci și șapte martie două mii șaptisprezece,calendar_remove,2
+941,6152,te rog găsește prognoza meteo pentru astăzi,weather_query,9
+942,6137,ar trebui sa port haina afara,weather_query,9
+943,6006,marti tine manușile la indemana,weather_query,9
+944,5817,vremea de acasa,weather_query,9
+945,9762,redă moara cu noroc de mihail sadoveanu,play_audiobook,6
+946,16700,du-te la gmail-ul meu si da click pe compunere cand termini iti voi spune ce vreau sa scriu in e-mail,email_sendemail,5
+947,6121,cat de frig e acum,weather_query,9
+948,7982,şterge toate evenimentele de azi,calendar_remove,2
+949,904,cum va fi vremea saptamana viitoare,weather_query,9
+950,13489,sugerează filme și melodii care mi-ar place dar nu sunt neapărat ca celelalte despre care am spus că îmi plac,recommendation_movies,7
+951,9757,aș vrea să continui cartea mea audio,play_audiobook,6
+952,16237,redirectioneaza mail-ul catre o noua adresa de e-mail,email_sendemail,5
+953,9773,reia audiobook-ul te rog,play_audiobook,6
+954,16571,trimite un e-mail surorii mele,email_sendemail,5
+955,9906,reda aceasta carte audio,play_audiobook,6
+956,1036,este alarma mea de lucru setată pentru mâine,alarm_query,0
+957,16835,trimite e-mailul catre aceasta noua adresa de e-mail,email_sendemail,5
+958,8835,sterge totul din calendarul meu pentru următoarele două săptămâni,calendar_remove,2
+959,16086,trimite un email la alin gherghescu,email_sendemail,5
+960,8872,sterge din calendar pranzul cu mihai,calendar_remove,2
+961,12790,rezerva un bilet de tren spre brasov te rog,transport_ticket,8
+962,8332,șterge antrenamentul meu pentru astăzi,calendar_remove,2
+963,3000,compara vremea de acasa si mangalia constanta,weather_query,9
+964,206,cum e vremea in bucuresti,weather_query,9
+965,1329,e vremea normala azi,weather_query,9
+966,6110,o să am nevoie de umbrelă azi după apus,weather_query,9
+967,8477,șterge acest eveniment,calendar_remove,2
+968,3354,va ninge,weather_query,9
+969,17150,alexa vreau să verific zilele în care iulia e disponibilă așa că trimite i un email și întreabă o,email_sendemail,5
+970,16012,olly trimite un email mariei,email_sendemail,5
+971,11734,olly cum e noul film moromeții,recommendation_movies,7
+972,8554,sterge petrecerea de craciun la biserica de miercurea viitoare,calendar_remove,2
+973,10088,da-mi o reteta pentru chiftele,cooking_recipe,3
+974,9769,reia povestea,play_audiobook,6
+975,4707,te trog arată-mi vremea locală,weather_query,9
+976,12126,hey vreau sa iau trenuri de la brasov miercuri,transport_ticket,8
+977,241,ce se intampla afara,weather_query,9
+978,16508,adauga un nou contact si trimite email,email_sendemail,5
+979,9829,audio,play_audiobook,6
+980,1405,cat de cald e acum in eforie,weather_query,9
+981,16059,raspunde lui eugen si spune i sa stie ca voi fi liber maine,email_sendemail,5
+982,9848,rezumă cartea audio vals,play_audiobook,6
+983,10219,ce imi trebuie sa fac paine prajita franceza,cooking_recipe,3
+984,2616,ar trebui sa imi fac griji daca sunt troieni de zapada care sa-mi ingroape masina pe aleea de acces marti,weather_query,9
+985,5112,am nevoie de pelerina de ploaie ziua urmatoare,weather_query,9
+986,4932,cum o sa fie vremea vineri,weather_query,9
+987,9046,pentru saptamana lui douazeci șterge toate evenimentele de meditatie,calendar_remove,2
+988,5724,cum o sa fie vremea astazi la noapte,weather_query,9
+989,394,daca este amiaza in oltenia cat este ceasul in moldova,datetime_convert,4
+990,2223,vremea in ploiesti,weather_query,9
+991,12324,data si ora,transport_ticket,8
+992,6280,ce temperatura era cand am fost in parc,weather_query,9
+993,6917,sterge evenimente,calendar_remove,2
+994,16943,trimite email catre bunica cu subiectul mesaj de sambata trecem pe la tine sambata ne vedem acolo,email_sendemail,5
+995,15949,raspunde la email ul de la ion,email_sendemail,5
+996,11850,care sunt orele pentru ion caramitru la cel mai apropiat teatru,recommendation_movies,7
+997,12517,poti sa rezervi un bilet de tren pentru ziua de azi,transport_ticket,8
+998,5751,trebuie sa pun o geaca cand merg afara,weather_query,9
+999,5587,trebuie protectie solara azi,weather_query,9
+1000,6048,ar trebui sa port manusi diseara,weather_query,9
+1001,1920,cum e vremea pentru saptamana scolara,weather_query,9
+1002,16211,trimite i lui tati un email si spune i cum este vremea saptamana asta,email_sendemail,5
+1003,750,redu volumul la zece la sută,audio_volume_down,1
+1004,7063,sterge toate evenimentele din calendarul meu,calendar_remove,2
+1005,8408,șterge evenimentul meu de la cină pentru mâine,calendar_remove,2
+1006,10028,cauta o reteta ce foloseste vita tocata si dovlecei,cooking_recipe,3
+1007,17130,trimite i un email mamei cu subiectul vacanță,email_sendemail,5
+1008,5978,converteste ora de est in ora de vest,datetime_convert,4
+1009,10098,imi poti prepara un sandvis cu cascaval,cooking_recipe,3
+1010,9972,care este cea mai bună modalitate pentru a ascuți un cuțit de măcelar,cooking_recipe,3
+1011,10130,la ce temperatură trebuie să coc cozonacul,cooking_recipe,3
+1012,1389,cum va fi vremea sâmbătă,weather_query,9
+1013,2888,spune-mi vremea actuala in ploiesti prahova,weather_query,9
+1014,10205,ofera mi reteta pentru orez,cooking_recipe,3
+1015,7076,canceleaza urmatorul eveniment din agenda mea,calendar_remove,2
+1016,358,la ce ora se va opri alarma mea azi,alarm_query,0
+1017,2999,vremea pentru urmatoarele opt zile in mangalia constanta,weather_query,9
+1018,10239,da-mi instructiuni despre cum sa gatesc pui,cooking_recipe,3
+1019,11694,vreun film interesant,recommendation_movies,7
+1020,12400,rezerva un singur bilet de tren la cluj napoca care pleaca după nouă a. m.,transport_ticket,8
+1021,8334,goleste calendarul meu,calendar_remove,2
+1022,14351,care e temperatura medie in martie in covasna si cum e comparativ cu ultimii zece ani,weather_query,9
+1023,410,pentru ce ore sunt setate alarmele,alarm_query,0
+1024,3899,va ploua pe cincisprezece august,weather_query,9
+1025,12747,te rog rezerva un bilet de tren pentru mine,transport_ticket,8
+1026,4682,e cald si inabusit sau caldut si cu umezeala in slatina azi,weather_query,9
+1027,12801,rezerva bilet de tren la brasov,transport_ticket,8
+1028,2219,vremea in tulcea,weather_query,9
+1029,9970,ce sa fac ca quinoa sa nu aiba gust oribil,cooking_recipe,3
+1030,9713,redă cartea audio moromeții,play_audiobook,6
+1031,7132,vreau sa elimini nunta de pe zece din calendarul meu,calendar_remove,2
+1032,3806,vremea de maine,weather_query,9
+1033,16509,raspunde la email,email_sendemail,5
+1034,10178,invata sa tai cartofi corect,cooking_recipe,3
+1035,17014,raspunde la email,email_sendemail,5
+1036,10208,aromă,cooking_recipe,3
+1037,16600,doresc să trimit un email prietenului iulian arond gmail punct com,email_sendemail,5
+1038,62,enumera te rog toate alarmele mele active,alarm_query,0
+1039,9774,redă cartea audio de unde am oprit,play_audiobook,6
+1040,16565,trimite un email mamei despre pranz,email_sendemail,5
+1041,4140,cand va fi peste zece grade iar,weather_query,9
+1042,9919,care e reteta pentru sos de paste,cooking_recipe,3
+1043,16972,poți să îi trimiți un mesaj înapoi lui jean via email,email_sendemail,5
+1044,846,ce alarme ma vor trezi maine,alarm_query,0
+1045,9887,eu vreau sa redau cartea audio good grief,play_audiobook,6
+1046,7178,te rog trimite un mesaj vocal în biroul domnului daniel despre ședința cu el pe întâi februarie două mii șaptesprezece la ora cinci p. m.,email_sendemail,5
+1047,12664,bilete de tren pentru două persoane de la iași la bucurești,transport_ticket,8
+1048,3403,o sa fie însorit weekendul acesta,weather_query,9
+1049,9073,șterge acel eveniment din calendar,calendar_remove,2
+1050,15902,te rog răspunde i colegului meu cu privire la întrebarea sa,email_sendemail,5
+1051,16632,poti trimite un e-mail la aceasta noua adresa de e-mail,email_sendemail,5
+1052,3505,cum o sa fie vremea in bucurești săptămâna viitoare,weather_query,9
+1053,10015,in cinci propozitii spune mi procedeul de preparare pentru pasca de paste,cooking_recipe,3
+1054,2327,ce temperatura e,weather_query,9
+1055,4328,cum e prognoza pe cinci zile,weather_query,9
+1056,9963,lucruri ciudate pe care oamenii vor să le știe,cooking_recipe,3
+1057,8658,am nevoie sa ștergi totul din calendar te rog,calendar_remove,2
+1058,7158,te rog șterge toate intrarile marcate din calendar,calendar_remove,2
+1059,10021,arata-mi care sunt ingredientele,cooking_recipe,3
+1060,12605,gaseste mi cel mai devreme bilet de tren care pleaca vineri dimineața la oradea,transport_ticket,8
+1061,3252,cum e vremea azi,weather_query,9
+1062,1307,cum e clima astăzi aici,weather_query,9
+1063,4761,o sa ninga la noapte,weather_query,9
+1064,15860,trimite un email mamei si intreaba de vreme,email_sendemail,5
+1065,6727,elimina discutie cu alin,calendar_remove,2
+1066,9985,putem face friptura cu pui,cooking_recipe,3
+1067,9957,cat timp ar trebui sa gatesti un pui intreg la cuptor la trei sute saptezeci si cinci de grade,cooking_recipe,3
+1068,2135,cand este urmatoarea mea alarma,alarm_query,0
+1069,5935,am nevoie de umbrela astazi,weather_query,9
+1070,5610,spune-mi pentru ce sunt urmatoarele mele alarme,alarm_query,0
+1071,10074,cat timp fierbi un ou moale,cooking_recipe,3
+1072,3962,deschide aplicatia de vreme,weather_query,9
+1073,10192,reteta pentru spaghete,cooking_recipe,3
+1074,9932,olly ce ingrediente iti trebuie pentru budinca,cooking_recipe,3
+1075,10103,arată mi un filmuleț despre cum să fierb spaghete,cooking_recipe,3
+1076,10116,cum faci pui la gratar,cooking_recipe,3
+1077,5496,ar trebui sa vad acest film,recommendation_movies,7
+1078,9905,continua sa redai de unde am ramas ultima data,play_audiobook,6
+1079,3343,la ce ora este setata alarma mewa,alarm_query,0
+1080,11919,poți să îmi spui ce film are cele mai bune recenzii,recommendation_movies,7
+1081,4208,ar trebui sa port sandale,weather_query,9
+1082,1313,cum e prognoza meteo astazi,weather_query,9
+1083,2123,cum e vremea in breaza ph,weather_query,9
+1084,12751,cumpără un bilet de tren peste o saptamana de acum de la iasi la sibiu,transport_ticket,8
+1085,15766,poți trimite acest răspuns lui paul te rog,email_sendemail,5
+1086,522,nu este posibil,weather_query,9
+1087,7961,șterge toate întâlnirile mele,calendar_remove,2
+1088,12915,am nevoie sa rezerv un bilet de tren spre suceava,transport_ticket,8
+1089,13441,câte grade sunt astăzi,weather_query,9
+1090,9702,as vrea sa aud o carte de mihail sadoveanu,play_audiobook,6
+1091,5538,o sa trebuiasca sa folosesc crema de protectie solara azi,weather_query,9
+1092,17068,răspunde la email-ul primit de la alina,email_sendemail,5
+1093,1800,crezi ca va ploua astăzi,weather_query,9
+1094,8275,vă rugăm să ștergeți ziua de naștere a lui jeff din calendar,calendar_remove,2
+1095,11747,ce filme joacă diseară la nouă seara pe pro tv,recommendation_movies,7
+1096,8009,schimba planul meu sterge urmatorul eveniment,calendar_remove,2
+1097,8683,șterge calendarul de evenimente,calendar_remove,2
+1098,1079,cum o sa fie vremea de maine in zona aceasta,weather_query,9
+1099,3469,este ora noua aici ce ora este in moldova,datetime_convert,4
+1100,1081,arata-mi vremea pentru maine,weather_query,9
+1101,16058,raspunde i lui victor spunandu i ca voi participa la petrecere,email_sendemail,5
+1102,6029,trebuie sa port jacheta dimineata,weather_query,9
+1103,15855,trimite adresa de e-mail la emailul meu nou,email_sendemail,5
+1104,2871,ce alarme au fost setate pentru mine,alarm_query,0
+1105,16043,trimite i lui raul un email pentru raportul financiar doua mii saptesprezece,email_sendemail,5
+1106,10024,gaseste-mi reteta de stroganoff de vita,cooking_recipe,3
+1107,17127,răspunde la mesajul mamei despre site ul de rețete,email_sendemail,5
+1108,9967,care e cea mai buna metoda de a face paste,cooking_recipe,3
+1109,7764,poți te rog să eliberezi calendarul meu de toate evenimentele,calendar_remove,2
+1110,14991,alexa afisaza vremea la noi in oraș,weather_query,9
+1111,1588,cum e vremea mâine,weather_query,9
+1112,16307,creează un email care trebuie trimis familiei mele,email_sendemail,5
+1113,12173,tren luni ploiești,transport_ticket,8
+1114,2292,astazi va fi însorit,weather_query,9
+1115,1662,care este diferenta de timp dintre new york si bucuresti,datetime_convert,4
+1116,8636,sterge programarea la doctor de marti,calendar_remove,2
+1117,952,e vreme rea la brasov in acest moment,weather_query,9
+1118,10095,mancare sanatoasa,cooking_recipe,3
+1119,17016,vreun un raspuns la email,email_sendemail,5
+1120,16567,trimite un email lui tata despre reparația mașinii,email_sendemail,5
+1121,3885,ce alarme sunt setate acum,alarm_query,0
+1122,2680,o să se încălzească curând,weather_query,9
+1123,7765,este vreun fel in care sa imi eliberez calendarul meu,calendar_remove,2
+1124,16792,buna trimite mesajul te iubesc catre sotia mea,email_sendemail,5
+1125,17171,te rog scrie catre acest email,email_sendemail,5
+1126,10013,selectează rețeta,cooking_recipe,3
+1127,1843,va fi mai cald aici saptamana viitoare,weather_query,9
+1128,1534,cum e vremea la sibiu,weather_query,9
+1129,17077,trimite i un email personal de mulțumire lui gheorghe,email_sendemail,5
+1130,16115,trebuie trimis raspuns la toate email urile primite intre zece seara si noua dimineata,email_sendemail,5
+1131,1198,spune-mi ce temperatura e in orasul nostru la doisprezece p. m.,weather_query,9
+1132,11739,bilete,recommendation_movies,7
+1133,6728,anuleaza micul dejun la casa elenei,calendar_remove,2
+1134,4071,micșorează volumul te rog,audio_volume_down,1
+1135,8476,te rog sterge acest eveniment,calendar_remove,2
+1136,2256,am nevoie de o pelerina de ploaie astazi,weather_query,9
+1137,2078,redu puțin volumul te rog,audio_volume_down,1
+1138,725,afișează vremea pentru săptămâna aceasta,weather_query,9
+1139,10159,cum să faci omletă,cooking_recipe,3
+1140,10066,spune-mi reteta pentru piure de cartofi,cooking_recipe,3
+1141,16285,te rog trimite i un email lui alex cu privire la mașina sa,email_sendemail,5
+1142,7759,te rog șterge acel eveniment din calendarul meu,calendar_remove,2
+1143,7146,găsește cină cu mama în calendarul meu și șterge-l,calendar_remove,2
+1144,4759,o sa ninga la noapte,weather_query,9
+1145,16267,trimite un email familiei spunand va iubesc pe toti,email_sendemail,5
+1146,283,te aștepți să fie soare duminică,weather_query,9
+1147,1258,spune-mi cum va fi vremea pe cinsprezece martie,weather_query,9
+1148,5670,care e viteza vântului în seara asta,weather_query,9
+1149,7062,te rog sterge evenimentele din calendarul meu,calendar_remove,2
+1150,9786,redă cartea mea,play_audiobook,6
+1151,1311,care este diferenta de timp de aici la cluj napoca,datetime_convert,4
+1152,4592,ce alarme urmeazaâ,alarm_query,0
+1153,6829,sterge toate întâlnirile de mâine,calendar_remove,2
+1154,12193,rezervă un bilet de tren de la suceava la călărași care merge via pitești,transport_ticket,8
+1155,7075,te rog sterge-mi urmatorul eveniment din calendar,calendar_remove,2
+1156,700,informatii despre vreme,weather_query,9
+1157,16755,trimite email vocal,email_sendemail,5
+1158,10005,cum se gateste orezul olly,cooking_recipe,3
+1159,3927,cata zapada a cazut in brasov de ieri,weather_query,9
+1160,16265,trimite email catre familie si spune va iubesc pe toti,email_sendemail,5
+1161,16981,mail trimis catre ionut,email_sendemail,5
+1162,5007,in ce zile imi sunt setate alarmele,alarm_query,0
+1163,16055,trimite e-mail la gratiela pentru ela,email_sendemail,5
+1164,8472,eliminați toate evenimentele din calendar,calendar_remove,2
+1165,9898,citește cartea audio moara cu noroc,play_audiobook,6
+1166,11746,olly ce filme se difuzeaza diseară la nouă seara la cinema city,recommendation_movies,7
+1167,5338,temperatura normale,weather_query,9
+1168,9920,care este reteta pentru sos de paste,cooking_recipe,3
+1169,16687,trimite email noua adresa,email_sendemail,5
+1170,5720,arata-mi vremea de maine in aceasta zona,weather_query,9
+1171,17028,trimite email sandrei,email_sendemail,5
+1172,10190,gaseste reteta de frigarui de pui,cooking_recipe,3
+1173,5903,confirmă că am setat o alarmă pentru șase dimineața,alarm_query,0
+1174,10184,cât zahăr trebuie în ceai de zahăr ars,cooking_recipe,3
+1175,4593,te rog spune-mi despre alarmele care urmeaza,alarm_query,0
+1176,1485,enumera toate alarmele,alarm_query,0
+1177,5484,e prea cald pentru pantaloni,weather_query,9
+1178,5174,cum e vremea pentru intreaga saptamana,weather_query,9
+1179,5302,ok google cum o sa fie vremea pe douazeci martie doua mii saptesprezece,weather_query,9
+1180,1020,cum e vremea acum,weather_query,9
+1181,16054,trimite mail lui ionut despre bani,email_sendemail,5
+1182,6153,spune-mi cum este vremea acum,weather_query,9
+1183,9995,cat dureaza apa sa fiarba,cooking_recipe,3
+1184,3130,bate vantul azi,weather_query,9
+1185,2915,dă mai încet difuzoarele,audio_volume_down,1
+1186,2224,vremea in sibiu,weather_query,9
+1187,6088,o sa fie însorit saptamana viitoare marti,weather_query,9
+1188,8003,anulează întâlnirea mea de vineri,calendar_remove,2
+1189,9755,sa ascultam vânătoarea lui octombrie roşu,play_audiobook,6
+1190,4218,să port galoși azi,weather_query,9
+1191,1437,arata alarmele mele,alarm_query,0
+1192,15883,vreau să îi răspund lui alin,email_sendemail,5
+1193,8950,găseşte mementoul şi şterge-l,calendar_remove,2
+1194,10207,te rog explica reteta de gatit orez,cooking_recipe,3
+1195,16346,trimite i elenei un email și amintește i să nu uite portocalele dimineață,email_sendemail,5
+1196,6139,olly am nevoie sa port cizme,weather_query,9
+1197,17163,trimite un mail alertă către sandra,email_sendemail,5
+1198,16783,mama trebuie sa primeasca vremea saptamanala,email_sendemail,5
+1199,1250,e vreo posibilitate de ploaie in aceasta saptamana,weather_query,9
+1200,10230,cât timp va dura să îmi gătesc mâncarea,cooking_recipe,3
+1201,1863,am setate ceva alarme,alarm_query,0
+1202,3026,cum o sa fie vremea saptamana viitoare in craiova,weather_query,9
+1203,3964,cate alarme sunt setate,alarm_query,0
+1204,2826,cate alarme am setat,alarm_query,0
+1205,16434,spune-i asta intr-un email,email_sendemail,5
+1206,10011,alege tipul de mancare fie mic dejun pranz cina,cooking_recipe,3
+1207,12890,cumpara un bilet la tren intercity joi,transport_ticket,8
+1208,49,spune-mi ora in g. m. t. plus cinci,datetime_convert,4
+1209,5039,plouă în zona mea,weather_query,9
+1210,12200,bilet tren ungaria această seară,transport_ticket,8
+1211,12847,poti sa rezervi un bilet de tren de la constanta la mangalia maine dimineata,transport_ticket,8
+1212,5012,e furtuna acum,weather_query,9
+1213,1503,daca este ora patru p m in salzburg atunci cat este ceasul in bucuresti,datetime_convert,4
+1214,9101,șterge programarea la doctor din doisprezece februarie de la nouă dimineața,calendar_remove,2
+1215,17149,vreau sa verific datele valabile ale iuliei poti sa ii trimiti un email si sa o intrebi,email_sendemail,5
+1216,3245,sti daca o sa ploua azi,weather_query,9
+1217,16114,raspunde la toate email urile primite de la zece p. m. la noua a. m.,email_sendemail,5
+1218,6702,vremea de azi,weather_query,9
+1219,16306,trimite un email familiei mele,email_sendemail,5
+1220,3814,o sa fie frig mâine,weather_query,9
+1221,10222,această fișă informativă oferă sfaturi despre cum să vă creați o afacere de prelucrare a alimentelor,cooking_recipe,3
+1222,5506,spune daca alarma e setata pentru dimineata,alarm_query,0
+1223,8979,sterge ziua de naștere a lui emma din evenimente,calendar_remove,2
+1224,8256,sterge toate evenimentele din calendarul meu te rog,calendar_remove,2
+1225,9869,începe moara cu noroc de unde am rămas,play_audiobook,6
+1226,10221,crearea unei afaceri de procesare a alimentelor în propria casă are avantaje și dezavantaje,cooking_recipe,3
+1227,15907,trimite bine multumesc catre ionut ca raspuns la ultimul mesaj,email_sendemail,5
+1228,8926,șterge toate evenimentele din calendarul meu,calendar_remove,2
+1229,6969,ce am de făcut azi,calendar_remove,2
+1230,5331,fusul orar dintre india si romania,datetime_convert,4
+1231,9830,te rog continuă să citești jocurile foamei,play_audiobook,6
+1232,300,care e prognoza meteo de astăzi,weather_query,9
+1233,2248,s-a schimbat vremea pentru miercuri,weather_query,9
+1234,12401,pune ma intr un tren de la gara de nord mâine spre orice oraș la mai mult de două sute de kilometri distanță,transport_ticket,8
+1235,8470,șterge toate evenimentele din calendar pentru luna asta,calendar_remove,2
+1236,4824,vremea in acest weekend,weather_query,9
+1237,5800,o sa am nevoie de jacheta dupa zece seara in zona mea,weather_query,9
+1238,16321,raspunde i lui bogdan negruti,email_sendemail,5
+1239,16849,da email catre alina si scrie asta,email_sendemail,5
+1240,4915,temperatura in ploiesti ph,weather_query,9
+1241,12234,rezerva un loc la clasa intai la urmatorul tren spre craiova,transport_ticket,8
+1242,11873,recomanzi niste filme care rulează acum în zona mea,recommendation_movies,7
+1243,1975,am setata vreo alarma pentru azi,alarm_query,0
+1244,5451,e soare afara,weather_query,9
+1245,2222,vremea in ploiesti,weather_query,9
+1246,16619,trimite un email lui cristi despre munca maine,email_sendemail,5
+1247,15768,compune un email catre lucian la adresa lucianiorga punct com,email_sendemail,5
+1248,17027,sa trimitem un email lui paula,email_sendemail,5
+1249,16190,trimite-i un email colegului de la firmă să trimită proiectul mâine,email_sendemail,5
+1250,11811,ce rulează la cinema plaza,recommendation_movies,7
+1251,9949,cât timp trebuie gătit,cooking_recipe,3
+1252,15859,redistribuie continutul afisat catre blabla arond bla punct com,email_sendemail,5
+1253,8831,șterge toate datele din calendarul meu,calendar_remove,2
+1254,724,dă-mi statistica meteorologică pentru săptămâna aceasta,weather_query,9
+1255,11988,zi-mi un film bun care rulează acum,recommendation_movies,7
+1256,4789,cum e vremea azi,weather_query,9
+1257,3346,care este diferența de fus orar între locația mea și hong kong,datetime_convert,4
+1258,6362,la ce film ar trebui să ma uit eu,recommendation_movies,7
+1259,7297,ia calendarul meu si curata-l,calendar_remove,2
+1260,10065,ce condimente sunt in mancarea indiana,cooking_recipe,3
+1261,16281,te rog trimite un email catre directorul lui ionut in legatura cu sedinta de maine,email_sendemail,5
+1262,559,care e situatia de alarma pentru maine,alarm_query,0
+1263,97,o sa ploua,weather_query,9
+1264,9083,sterge toate detaliile evenimentului,calendar_remove,2
+1265,3286,ce sanse de furtuni sunt azi in sibiu,weather_query,9
+1266,5956,ar trebui sa port bocanci de iarna cand ma duc la magazin,weather_query,9
+1267,10173,care este o modalitate bună de a face friptură,cooking_recipe,3
+1268,5924,te rog scade volumul,audio_volume_down,1
+1269,6972,șterge evenimentul,calendar_remove,2
+1270,16057,răspunde la acel email,email_sendemail,5
+1271,10079,ce e o reteta usoara de gatit,cooking_recipe,3
+1272,5946,întreabă-mi prietenul cum este clima acolo,weather_query,9
+1273,649,am eu ceva alarme setate pentru azi,alarm_query,0
+1274,16680,creeaza un email catre fratele meu si intreabal la ce ora ajunge pentru cina,email_sendemail,5
+1275,8833,elibereaza calendarul meu pentru restul zilei,calendar_remove,2
+1276,17164,redirectioneaza mail ul alinei,email_sendemail,5
+1277,16688,scrie un e-mail catre o noua adresa,email_sendemail,5
+1278,17078,te rog trimite un email de afaceri catre laura in lagatura cu modificarea orei sedintei,email_sendemail,5
+1279,11983,olly recomandă comedii romantice în zona mea,recommendation_movies,7
+1280,8665,sterge tot din calendarul meu,calendar_remove,2
+1281,10142,găsește temperatura potrivită pentru a prăji un curcan întreg,cooking_recipe,3
+1282,7921,şterge toate evenimentele planificate,calendar_remove,2
+1283,9836,muzica doi,play_audiobook,6
+1284,16013,trimite i un email lui ionut,email_sendemail,5
+1285,16879,trimite email lui mihai in legatura cu intalnirea,email_sendemail,5
+1286,16623,trebuie să trimit un email către samsung legat de problemele mele tehnice,email_sendemail,5
+1287,3616,nu se asteapta ploaie maine da,weather_query,9
+1288,4749,o să plouă,weather_query,9
+1289,4265,cum o sa fie vremea de azi,weather_query,9
+1290,2998,vremea mangalia constanta,weather_query,9
+1291,10189,arata reteta frigarui de pui,cooking_recipe,3
+1292,8980,anulează programare de pe trei aprilie,calendar_remove,2
+1293,12615,am nevoie sa rezerv bilet de tren de la oradea la miercurea ciuc,transport_ticket,8
+1294,96,plouă,weather_query,9
+1295,655,cum e vremea actuala in sibiu,weather_query,9
+1296,15749,raspunde lui petre ca sunt pe drum,email_sendemail,5
+1297,6316,cum e vremea,weather_query,9
+1298,739,cum e temperatura azi,weather_query,9
+1299,16287,trimite un email pentru ziua de naștere a șefului meu,email_sendemail,5
+1300,3770,enumera alarmele,alarm_query,0
+1301,17026,olly trimite un email mamei sa ii amintesti sa se intalneasca cu mine azi la pranz,email_sendemail,5
+1302,7642,arata mi prognoza meteo pentru următoarele trei zile,weather_query,9
+1303,9178,eliminați toate evenimentele din douăzeci și șase decembrie,calendar_remove,2
+1304,4144,amintește-mi despre alarmele mele azi,alarm_query,0
+1305,10084,care este alternativa la faina,cooking_recipe,3
+1306,9899,contină redarea cărții audio,play_audiobook,6
+1307,5467,ii nevoie de ochelari de soare,weather_query,9
+1308,12080,te rog verifică filme care rulează în teatre în apropiere,recommendation_movies,7
+1309,7328,șterge toate evenimentele și conținutul din calendarul meu,calendar_remove,2
+1310,1018,cum o sa fie vremea azi,weather_query,9
+1311,6970,sterge evenimentul,calendar_remove,2
+1312,2332,plouă acum,weather_query,9
+1313,327,duminica,weather_query,9
+1314,15750,scrie i un mesaj lui ioana scrie că voi întârzia,email_sendemail,5
+1315,3122,ce ar trebui să port este frig afară,weather_query,9
+1316,12489,am nevoie de un bilet de tren spre bucuresti maine,transport_ticket,8
+1317,16220,răspunde la emailul ameliei că voi reveni înspre ea,email_sendemail,5
+1318,1367,micșorează volumul,audio_volume_down,1
+1319,16964,scrie un email catre membrul familiei si citeste l,email_sendemail,5
+1320,17012,vreau sa dau un email la ramo arond hotmail punct com,email_sendemail,5
+1321,6753,te rog anulează toate evenimentele mele pentru astăzi,calendar_remove,2
+1322,12893,vreau sa rezervi un bilet de tren pentru mine,transport_ticket,8
+1323,8726,șterge fiecare eveniment,calendar_remove,2
+1324,4916,prognoza de zece zile pentru sibiu,weather_query,9
+1325,3800,cum o sa fie mâine vremea la cluj,weather_query,9
+1326,4294,ai putea să îmi spui ce alerte am setate,alarm_query,0
+1327,12131,rezervă o călătorie de intoarcere de la cluj napoca la brasov cu tren,transport_ticket,8
+1328,4635,dă volumul boxei mai încet,audio_volume_down,1
+1329,9740,reia redarea cărții audio,play_audiobook,6
+1330,8231,sterge programarea la timp,calendar_remove,2
+1331,1614,vre-un semn de ploaie,weather_query,9
+1332,2340,spune-mi cum e vremea in bucuresti,weather_query,9
+1333,16867,trimite email prietenului meu,email_sendemail,5
+1334,9699,redă cartea audio moara cu noroc de unde a rămas,play_audiobook,6
+1335,6142,care este prognoza meteo extinsă,weather_query,9
+1336,16962,olly trimite email la membrul familiei si intai citeste l,email_sendemail,5
+1337,9928,spune-mi cum sa gatesc paste,cooking_recipe,3
+1338,11765,învață jocuri,recommendation_movies,7
+1339,8104,te rog șterge toate programările de azi,calendar_remove,2
+1340,12752,te rog cumpără un bilet de tren de la oradea la sibiu pentru întâi aprilie,transport_ticket,8
+1341,7327,șterge tot ce conține calendarul meu,calendar_remove,2
+1342,9092,șterge toate evenimentele din calendar,calendar_remove,2
+1343,5440,pot sa merg fara haina acum,weather_query,9
+1344,16189,trimite i un email unchiului meu despre situația vremei actuale,email_sendemail,5
+1345,15840,trimite-i un email lui radu,email_sendemail,5
+1346,1013,care e diferenta dintre ore intre hong kong si bucuresti,datetime_convert,4
+1347,2257,ninge acum,weather_query,9
+1348,9748,continuă mândrie și prejudecată,play_audiobook,6
+1349,1322,obtine prognoza meteo de astazi,weather_query,9
+1350,11957,ce filme se difuzeaza aproape de mine,recommendation_movies,7
+1351,567,cat de cald este,weather_query,9
+1352,16676,trimite un email nou catre ionion arond gmail punct com,email_sendemail,5
+1353,1399,eu intotdeauna sunt atent,weather_query,9
+1354,16449,trebuie să editez adresa de email maria jurca ca să citesc,email_sendemail,5
+1355,16408,alexa scrie un email,email_sendemail,5
+1356,9832,continua de unde am ramas la divergent,play_audiobook,6
+1357,12241,te rog du-te la amtrak punct com sa cumperi bilete,transport_ticket,8
+1358,10054,care sunte cele mai bune retete pentru pesto,cooking_recipe,3
+1359,10042,unde gasesc reteta pentru magic cookie bars,cooking_recipe,3
+1360,7148,elimina intrunirea de consiliu si reprogrameaza pentru miercurea viitoare,calendar_remove,2
+1361,10160,ce merge cu risotto,cooking_recipe,3
+1362,5464,am nevoie de pantaloni,weather_query,9
+1363,3310,cum e vremea in austin,weather_query,9
+1364,5234,voi aduce umbrela mai tarziu,weather_query,9
+1365,7954,poți te rog să ignori petrecerea de weekendul acesta,calendar_remove,2
+1366,8851,anulează următorul eveniment,calendar_remove,2
+1367,3928,care e prognoza meteo actuală pentru ilfov,weather_query,9
+1368,4214,schimbă-mi ceasul pe fusul orar central din fusul orar curent,datetime_convert,4
+1369,16868,ajunge prin mail la familia mea,email_sendemail,5
+1370,16269,trimite i un raspuns lui robert la email ul primit azi dimineata de la el,email_sendemail,5
+1371,7621,elimină toate evenimentele din calendar,calendar_remove,2
+1372,2655,temperatura maxima va fi mai mare de treizeci de grade mâine,weather_query,9
+1373,9847,redă album audiobook,play_audiobook,6
+1374,16970,vreau că email-ul să fie trimis la noua mea adresă de email a. b. c. a rond gmail punct com,email_sendemail,5
+1375,5874,a trebui sa port haina la piscina,weather_query,9
+1376,12595,am nevoie sa rezervi un bilet pentru trenul care pleaca la două p. m.,transport_ticket,8
+1377,5664,am nevoie sa aplic crema pentru arsuri solare cand ma duc la clubul de golf,weather_query,9
+1378,5845,alexa ar trebui sa port protectie solara azi,weather_query,9
+1379,8772,șterge călătoria programată pentru patru iulie,calendar_remove,2
+1380,17025,creează un email către mama și întreabă despre vremea de săptămâna aceasta,email_sendemail,5
+1381,11855,te rog recomandă un film,recommendation_movies,7
+1382,5700,pot sa imi usuc hainele pe sfoara,weather_query,9
+1383,1455,vremea,weather_query,9
+1384,3587,cum e vremea în această săptămână,weather_query,9
+1385,8813,te rog goleste-mi calendarul,calendar_remove,2
+1386,374,spune-mi dacă următoarele sunt adevărate despre vreme,weather_query,9
+1387,3163,ce alarme am setat pentru mâine,alarm_query,0
+1388,8727,sterge toate evenimentele,calendar_remove,2
+1389,9177,sterge evenimentul legat de calatorie,calendar_remove,2
+1390,10126,câte ouă trebuie să pun în prăjitură,cooking_recipe,3
+1391,3105,cum e temperatura curenta,weather_query,9
+1392,17022,alexa da email mamei si intreab o cum este vremea acolo,email_sendemail,5
+1393,12100,ce rulează la cinema plaza,recommendation_movies,7
+1394,9913,de ce ingrediente am nevoie pentru supa de rosii,cooking_recipe,3
+1395,1543,te rog spune-mi daca o sa fie zapada in acest weekend,weather_query,9
+1396,5618,doar verifică pentru mine alarmele pe care le ai setat azi dimineață,alarm_query,0
+1397,9031,șterge evenimentul întâlnire la birou de săptămâna viitoare,calendar_remove,2
+1398,16329,raspunde la email ul iulianei,email_sendemail,5
+1399,7545,sterge intreaga luna mai,calendar_remove,2
+1400,16128,trimite email către aurel,email_sendemail,5
+1401,15854,redirectioneaza adresa de e-mail catre noul meu e-mail olly,email_sendemail,5
+1402,7036,golește calendarul pentru săptămâna aceasta,calendar_remove,2
+1403,9683,pune o carte,play_audiobook,6
+1404,2918,raport meteo lunar,weather_query,9
+1405,8544,șterge toate evenimentele din calendarul meu,calendar_remove,2
+1406,11609,care e ultimul film de actiune de la cinema,recommendation_movies,7
+1407,9825,reia cântecul din audiobookul lui smiley,play_audiobook,6
+1408,12216,rezerva un bilet de avion spfe,transport_ticket,8
+1409,4961,am nevoie sa iau umbrela diseara,weather_query,9
+1410,1105,da-mi prognoza meteo pentru bucuresti,weather_query,9
+1411,1130,o sa ploua azi mai tarziu,weather_query,9
+1412,6094,ar trebui sa tin geamurile deschise la noapte,weather_query,9
+1413,1864,ce alarme sunt activate acum,alarm_query,0
+1414,5890,listeaza toate alarmele,alarm_query,0
+1415,16199,trimite i un email lui ionel la adresa de email de serviciu,email_sendemail,5
+1416,8145,sterge-mi programarea de la unu de mâine,calendar_remove,2
+1417,16033,trimite email lui alex si intreaba despre data limita de plata,email_sendemail,5
+1418,207,spune-mi vreme din bucuresti,weather_query,9
+1419,10240,care este cea mai gustoasa parte de carne de vita,cooking_recipe,3
+1420,16004,hei vreau sa trimit un email prietenului meu,email_sendemail,5
+1421,16360,trimite un email lui nicu si paul,email_sendemail,5
+1422,12574,cumpara un bilet de tren spre brasov,transport_ticket,8
+1423,5662,ar trebui sa port protectie solara,weather_query,9
+1424,4751,o sa fie înnorat,weather_query,9
+1425,236,am o alarmă setată pentru zborul de dimineață,alarm_query,0
+1426,12614,rezerva un bilet de tren din bucuresti spre constanta,transport_ticket,8
+1427,2104,cum e vremea acasă,weather_query,9
+1428,15960,trimite un email catre daniela,email_sendemail,5
+1429,16517,doresc să răspund,email_sendemail,5
+1430,10073,gaseste ingredientele pentru tocanita de pui,cooking_recipe,3
+1431,11735,olly este moromeții un film bun,recommendation_movies,7
+1432,8002,sterge-mi întâlnirea de mâine,calendar_remove,2
+1433,15991,trimite i email lui mihai radulescu cu cele mai bune urari si cu un atasament legat de munca p. d. f.,email_sendemail,5
+1434,16278,trimite următorul email fratelui meu hei hai la cină diseară,email_sendemail,5
+1435,4207,o sa fie nevoie sa port paltonul azi,weather_query,9
+1436,5417,cum o sa fie azi,weather_query,9
+1437,7019,anulează evenimentul ziua îndrăgostiților din calendar,calendar_remove,2
+1438,5534,este vremea înnorată,weather_query,9
+1439,9929,olly cum gatesc paste,cooking_recipe,3
+1440,15842,scrie un e-mail cu destinatarul radu,email_sendemail,5
+1441,3897,cum o sa fie vremea in constanta pe saisprezece martie,weather_query,9
+1442,8733,te rog mută toate datele la gunoi,calendar_remove,2
+1443,16937,salveaza email pentru mai tarziu,email_sendemail,5
+1444,3446,o sa ploua sambata,weather_query,9
+1445,8098,buna google te rog anuleaza toate programele pentru vineri,calendar_remove,2
+1446,4561,poți să schimbi zona mea orară din zona centrală în pacific,datetime_convert,4
+1447,7144,sterge petrecerea de la data de întâi iunie din calendarul meu,calendar_remove,2
+1448,4107,ce alarme sunt setate în telefon,alarm_query,0
+1449,11872,recomanzi niste filme care rulează în zona mea,recommendation_movies,7
+1450,3141,vorbeste mai incet te rog,audio_volume_down,1
+1451,10046,cum gatesc o friptura medie rara,cooking_recipe,3
+1452,16167,trebuie să i trimit un răspuns lui carmen,email_sendemail,5
+1453,16453,da email prietenului meu despre planurile noastre de deseara,email_sendemail,5
+1454,5448,e insorit si senin azi asa-i,weather_query,9
+1455,8526,sterge sedinta proba din aplicația de calendar,calendar_remove,2
+1456,10035,spune mi rețeta pentru orez prăjit,cooking_recipe,3
+1457,10203,care sunt etapele pentru a gati musaca,cooking_recipe,3
+1458,7611,anulează toate întâlnirile de azi,calendar_remove,2
+1459,4523,cum este vremea,weather_query,9
+1460,4485,cum va fi vremea săptămâna aceasta,weather_query,9
+1461,16149,răspunde i repede lui vali,email_sendemail,5
+1462,1555,cum va fi vremea in aceasta saptamana,weather_query,9
+1463,16015,te rog compune un email catre irina,email_sendemail,5
+1464,3344,la ce oră mă trezesc mâine,alarm_query,0
+1465,1456,cum este afară,weather_query,9
+1466,4139,trebuie sa port cojoc azi,weather_query,9
+1467,10006,cum să fieb orez,cooking_recipe,3
+1468,16110,sa se raspunda la toate emailurile primite intre zece p. m. si sapte a. m. zilnic,email_sendemail,5
+1469,1465,va ploua vineri,weather_query,9
+1470,2049,verifica vremea orasului din lista care incepe cu a,weather_query,9
+1471,4744,enumera toate alarmele mele ce urmeaza,alarm_query,0
+1472,16117,trimite email la echipa de la munca cu programul de saptamana asta,email_sendemail,5
+1473,9675,poți să redai cartea mea audio favorită moromeții,play_audiobook,6
+1474,4093,a bătut vântul ieri,weather_query,9
+1475,10087,cum fac chiftelute,cooking_recipe,3
+1476,9176,elimina petrecerea din calendar,calendar_remove,2
+1477,9933,gaseste o reteta pentru o cina romantica in doi,cooking_recipe,3
+1478,6854,sterge evenimentul de saptamana viitoare,calendar_remove,2
+1479,1723,cum o sa fie vremea la mamaia pe noua februarie doua mii saptesprezece,weather_query,9
+1480,787,cum e vremea astăzi,weather_query,9
+1481,6996,șterge următorul eveniment,calendar_remove,2
+1482,7748,șterge toate evenimentele din calendarul meu,calendar_remove,2
+1483,16782,poti trimite un email catre mama in legatura cu vremea saptamanala,email_sendemail,5
+1484,4467,la ce oră este setată alarma mea,alarm_query,0
+1485,2266,cum e vremea in cluj,weather_query,9
+1486,6762,sterge vacanta mea din iunie din calendar,calendar_remove,2
+1487,4963,da volumul jos,audio_volume_down,1
+1488,4539,nu voiam inca sa trimiti acel mesaj asteapta pana spun trimite,email_sendemail,5
+1489,5036,cat de cald e azi,weather_query,9
+1490,101,cum e vremea saptamana aceasta,weather_query,9
+1491,6082,ar trebui sa planuiesc sa deszapezesc acasa,weather_query,9
+1492,1787,scade volumul,audio_volume_down,1
+1493,4627,o sa fie ploaie maine,weather_query,9
+1494,1781,pot să știu vremea de acolo,weather_query,9
+1495,17126,răspunde la emailul lui paul,email_sendemail,5
+1496,16836,alexa trimite e-mailul la aceasta noua adresa de e-mail,email_sendemail,5
+1497,6882,anulează întâlnirea de săptămâna viitoare joi la două după amiaza,calendar_remove,2
+1498,5999,cate ore de diferenta sunt intre londra si new york,datetime_convert,4
+1499,1556,da-mi te rog prognoza meteo de saptamana aceasta,weather_query,9
+1500,14349,google ce temperatură e afara,weather_query,9
+1501,9017,șterge toate evenimentele din calendarul meu,calendar_remove,2
+1502,1968,plouă afară,weather_query,9
+1503,4215,am nevoie de fusul orar din bucuresti romania în loc de fusul orar central,datetime_convert,4
+1504,16626,trimite un email si anunta l pe cristi ca voi intarzia,email_sendemail,5
+1505,8737,eliberează mi programul pentru această dată,calendar_remove,2
+1506,5177,am nevoie de umbrela acum,weather_query,9
+1507,9016,sterge toate evenimentele din calendar,calendar_remove,2
+1508,1937,da-mi conditiile de vreme in baneasa,weather_query,9
+1509,9741,continuă redarea audiobookul ui,play_audiobook,6
+1510,12612,ia mi un bilet de tren de la bucurești la oradea,transport_ticket,8
+1511,4732,volumul jos,audio_volume_down,1
+1512,5663,am nevoie de geaca in seara asta,weather_query,9
+1513,12164,poti sa rezervi un bilet de tren pentru tatal meu,transport_ticket,8
+1514,8657,te rog șterge tot din calendarul meu,calendar_remove,2
+1515,16094,trimite i un email laurei,email_sendemail,5
+1516,9823,redă moara cu noroc de unde am oprit,play_audiobook,6
+1517,1541,nu vreau sa iau umbrela o sa ploua azi,weather_query,9
+1518,16507,trimite un email la noua adresă de email,email_sendemail,5
+1519,15826,răspunde-le tuturor că sunt pe drum,email_sendemail,5
+1520,9842,poți reda ion,play_audiobook,6
+1521,16534,poti sa scri un email laurei pentru mine,email_sendemail,5
+1522,4105,va fi ploaie in urmatoarele zile in bucuresti,weather_query,9
+1523,3783,cum e vremea la costinești,weather_query,9
+1524,5669,care este temperatura estimata in dupa amiaza asta,weather_query,9
+1525,9813,redă cartea audio moara cu noroc din prima,play_audiobook,6
+1526,3482,cum e vreme astazi in ploiesti,weather_query,9
+1527,8556,sterge masa de pranz de vinerea aceasta,calendar_remove,2
+1528,5736,arată-mi ce ore de alarmă am setat pentru săptămână,alarm_query,0
+1529,6797,sterge urmatoarea intalnire din calendar,calendar_remove,2
+1530,9784,am nevoie de o pauză pornește -l peste cinci minute,play_audiobook,6
+1531,9684,reia cartea audio,play_audiobook,6
+1532,10106,arată rețeta pentru sarmale,cooking_recipe,3
+1533,16691,trimite raspuns catre ion,email_sendemail,5
+1534,9950,reteta,cooking_recipe,3
+1535,4665,cum e vremea in ramnicu valcea,weather_query,9
+1536,6047,am nevoie de geaca de iarna in dimineata asta,weather_query,9
+1537,1320,olly cum o sa fie vremea astăzi,weather_query,9
+1538,1857,jos,audio_volume_down,1
+1539,12172,rezerva mi un bilet de tren azi catre sibiu,transport_ticket,8
+1540,1309,cum e vremea aici astăzi,weather_query,9
+1541,8335,nu vreau vreun eveniment trecut in calendar,calendar_remove,2
+1542,6019,vreau sa stiu alarma care ai trimis,alarm_query,0
+1543,10200,ce ingrediente sunt necesare pentru o mancare de ciuperci,cooking_recipe,3
+1544,3736,te rog scade volumul boxei,audio_volume_down,1
+1545,15941,te rog raspunde la email,email_sendemail,5
+1546,3095,cum e vremea in bucuresti,weather_query,9
+1547,10029,la ce temperatura coci un cartof,cooking_recipe,3
+1548,16631,trebuie sa raspund la acest email,email_sendemail,5
+1549,4595,o sa fie săptămana viitoare zile cu șaptezeci de grade,weather_query,9
+1550,16500,te rog trimite un mail sotului meu voi intarzia deseara,email_sendemail,5
+1551,6853,du-te la urmatorul eveniment din calendar si sterge-l pe acesta,calendar_remove,2
+1552,15887,poți te rog trimite un email soțului meu,email_sendemail,5
+1553,9901,găsește-mi o versiune de carte audio la moara cu noroc și redă pentru mine,play_audiobook,6
+1554,10168,cum să gătesc această mâncare,cooking_recipe,3
+1555,513,dupa scorurile noastre,weather_query,9
+1556,7869,scoate evenimentul din calendar,calendar_remove,2
+1557,12290,inregistreaza un eveniment sau un bilet,transport_ticket,8
+1558,12749,poti sa imi cumperi un bilet de tren,transport_ticket,8
+1559,12635,gaseste un tren non stop catre sibiu,transport_ticket,8
+1560,4423,cum e vremea saptamana aceasta,weather_query,9
+1561,3856,va fi însorit mâine,weather_query,9
+1562,11738,calendarul spectacolelor,recommendation_movies,7
+1563,4219,îi necesar să iau o geacă,weather_query,9
+1564,16188,trimite i email lui radu să ne vedem diseară,email_sendemail,5
+1565,650,am nevoie de o alarmă câte am setate,alarm_query,0
+1566,12155,rezervă un bilet să ma duc la destinatie cu trenul,transport_ticket,8
+1567,10188,cum rumenesc cotlet de porc,cooking_recipe,3
+1568,9883,intoarcete la am sa te iubesc pana la sfarsitul lumii,play_audiobook,6
+1569,8190,te rog eliberează-mi calendarul mâine,calendar_remove,2
+1570,10117,cât timp ia să faci un drob,cooking_recipe,3
+1571,9758,aș dori să încep această carte audio nouă,play_audiobook,6
+1572,12147,olly am nevoie sa ma duc la sibiu vineri noapte poti sa rezervi un bilet te rog,transport_ticket,8
+1573,568,cat e de frig,weather_query,9
+1574,3858,o sa fie zăpadă marți,weather_query,9
+1575,5542,spune-mi te rog despre alarma tinuta pentru intalnirea de marti,alarm_query,0
+1576,8406,sterge toate evenimentele pentru mâine,calendar_remove,2
+1577,3963,e vreo alarma pentru azi,alarm_query,0
+1578,9868,reda cartea junglei,play_audiobook,6
+1579,11635,la ce oră va fi difuzat un film maine,recommendation_movies,7
+1580,1634,olly arata alarmele mele,alarm_query,0
+1581,1338,ce alarme am eu programate pe maine,alarm_query,0
+1582,16904,doresc să răspund la ultimul meu email,email_sendemail,5
+1583,7998,șterge următorul meu eveniment din calendar,calendar_remove,2
+1584,5737,spune mi la ce ora am alarme in urmatoarele doua zile,alarm_query,0
+1585,16142,compune un email catre andrei,email_sendemail,5
+1586,8433,șterge întâlnirea din nouăsprezece martie la unu după amiază,calendar_remove,2
+1587,5783,temperatura la apus azi,weather_query,9
+1588,12191,rezerva un bilet de tren din ungaria spre cluj napoca,transport_ticket,8
+1589,15953,olly trimite-i un email lui aurel și întreabă-l când scapă de la serviciu,email_sendemail,5
+1590,17021,ruleaza raspuns la ultimul e-mail primit,email_sendemail,5
+1591,10071,cat timp iti ia sa gatesti pui la trei sute cinci zeci,cooking_recipe,3
+1592,16756,dicteaza noul email,email_sendemail,5
+1593,4628,la ce ora plouă mâine,weather_query,9
+1594,557,câte alarme sunt în listă,alarm_query,0
+1595,777,anunta-ma cand temperatura ajunge la douăzeci de grade,weather_query,9
+1596,6128,ar trebui sa iau incaltaminte de zapada,weather_query,9
+1597,8233,hai sa trecem peste programare,calendar_remove,2
+1598,9859,porneste audible si continuă redarea cartii pe care o ascultam,play_audiobook,6
+1599,16604,trimite email catre fiica,email_sendemail,5
+1600,1603,verifică dacă am setat vreo alarmă pentru mâine dimineață,alarm_query,0
+1601,5698,e nevoie sa iau umbrela azi,weather_query,9
+1602,9997,ce trebuie să strici în smântână pentru a obține unt,cooking_recipe,3
+1603,9944,care este reteta pentru tacos,cooking_recipe,3
+1604,3737,micsoreaza volumul boxelor,audio_volume_down,1
+1605,10109,am nevoie de ajutor pentru a face clatite,cooking_recipe,3
+1606,5188,cum e vremea in bucuresti,weather_query,9
+1607,2308,este zece a. m. in zona de est ce ora este acum in zona pacific,datetime_convert,4
+1608,9900,redă de unde am rămas batalia roiala,play_audiobook,6
+1609,9960,cu gatesc la abur orez,cooking_recipe,3
+1610,10014,vreau sa stiu procedura de gatit friptura de miel,cooking_recipe,3
+1611,3033,cum e vremea acum,weather_query,9
+1612,7251,anuleaza petrecerea lui sam,calendar_remove,2
+1613,16957,începe email către soțul meu,email_sendemail,5
+1614,8745,te rog sterge urmatorul eveniment din calendar pe care eu l am creat,calendar_remove,2
+1615,2345,plouă acum la bucurești,weather_query,9
+1616,8380,siri anulează toate programările viitoare din calendarul meu,calendar_remove,2
+1617,4403,o sa am nevoie de umbrela azi,weather_query,9
+1618,2059,ploua,weather_query,9
+1619,4484,spune-mi vremea de saptamana asta,weather_query,9
+1620,16403,nou destinatar al email-ului dana ai planuri pentru azi,email_sendemail,5
+1621,1768,transforma zece treizeci din g. m. t. plus două treizeci în g. m. t. unu,datetime_convert,4
+1622,1433,te rog dă volumul mai încet,audio_volume_down,1
+1623,7837,sterge tot,calendar_remove,2
+1624,8370,buna siri anuleaza toate programarile mele din calendarul pentru azi,calendar_remove,2
+1625,9846,avanseaza de la ultima pauză a cărții audio,play_audiobook,6
+1626,4943,te rog vorbește mai ușor,audio_volume_down,1
+1627,1536,ce ora este acum in japonia fata de romania,datetime_convert,4
+1628,604,cum o sa fie vremea peste o săptămână,weather_query,9
+1629,7793,trimite un email catre simona despre brunch ul de azi,email_sendemail,5
+1630,12069,olly ce filme rulează la cinema plaza,recommendation_movies,7
+1631,12151,rezerva-mi un bilet spre pentru eurostar weekend ul asta,transport_ticket,8
+1632,9036,anulează toate evenimentele pentru azi și marchează-mă ca ocupat,calendar_remove,2
+1633,1841,ar trebui sa iau umbrela la munca azi,weather_query,9
+1634,8342,gaseste urmatorul meu eveniment si sterge-l,calendar_remove,2
+1635,8054,sterge toate evenimentele de pe sapte martie,calendar_remove,2
+1636,16917,poti te rog sa raspunzi acelui mail,email_sendemail,5
+1637,950,cum e vremea in piatra neamt,weather_query,9
+1638,1685,da sa nu temperatura de maine va fi ridicata,weather_query,9
+1639,9089,eliberează-mi programul luna asta,calendar_remove,2
+1640,8986,șterge vacanța programată pentru iulie,calendar_remove,2
+1641,9759,oprește reia,play_audiobook,6
+1642,16417,te rog trimite următorul email unchiului ion da voi fi acolo,email_sendemail,5
+1643,16618,scrie un email georgianei despre munca mai tarziu,email_sendemail,5
+1644,3878,cum e vremea acum in botosani,weather_query,9
+1645,4390,scade volumul,audio_volume_down,1
+1646,4113,transforma ora curenta din i. s. t. in e. s. t.,datetime_convert,4
+1647,326,seara,weather_query,9
+1648,8099,salut google te rog elimina planul de cina de joi,calendar_remove,2
+1649,16127,trimite-i email lui paul câmpean,email_sendemail,5
+1650,7987,șterge acest eveniment din calendarul meu,calendar_remove,2
+1651,5320,arată-mi vremea de ieri,weather_query,9
+1652,10180,cum sa gatesc ou fiert tare,cooking_recipe,3
+1653,805,ok google scade volumul boxelor te rog,audio_volume_down,1
+1654,278,cum e vremea in pitesti,weather_query,9
+1655,4437,pot sa port sandale,weather_query,9
+1656,7149,sterge toate sedintele de munca recurente,calendar_remove,2
+1657,9722,reia volumul unu din harry potter,play_audiobook,6
+1658,788,ce temperatura e acum,weather_query,9
+1659,489,ce temperatură e afară,weather_query,9
+1660,10141,ce folosesti la prepararea biscuitilor,cooking_recipe,3
+1661,7091,șterge evenimentele din calendar,calendar_remove,2
+1662,3379,prognoza de azi,weather_query,9
+1663,12272,rezerva biletul de tren maine pentru mine de la oradea la orice tren,transport_ticket,8
+1664,7296,șterge evenimentele din calendarul meu,calendar_remove,2
+1665,9796,te rog reda din nou mandrie si prejudecata,play_audiobook,6
+1666,16458,trimite email la noumail arond gmail punct com,email_sendemail,5
+1667,6807,șterge toate evenimentele de azi,calendar_remove,2
+1668,10057,de ce am nevoie pentru a face fasole bătută cu cârnați,cooking_recipe,3
+1669,10236,după ce gătești chestiile adaugă niște masala și gătește din nou în tigaie și servește,cooking_recipe,3
+1670,13425,ar trebui să îmi iau un pulover,weather_query,9
+1671,12500,potgi te rog sa imi rezervi un bilet de tren sambata viitoare spre iasi,transport_ticket,8
+1672,3339,cum este vremea,weather_query,9
+1673,4209,ar trebui să-mi iau umbrela la noapte,weather_query,9
+1674,10113,cum gatesti un burger bun olly,cooking_recipe,3
+1675,10147,cauta retete la omleta cu branza,cooking_recipe,3
+1676,5120,verifică dacă există vreo alarmă după ora cinci dimineața,alarm_query,0
+1677,4327,este prea frig pentru a merge la inot,weather_query,9
+1678,16902,raspunde la ultimul meu e-mail,email_sendemail,5
+1679,3619,cum e vremea in timisoara,weather_query,9
+1680,16133,trimite email către mami și scrie că voi merge la petrecere,email_sendemail,5
+1681,10158,imi poti spune cum se gatesc biscuiti cu cacao,cooking_recipe,3
+1682,791,arată mi cea mai mare temperatura de saptamana aceasta,weather_query,9
+1683,9668,vreau sa termin de ascultat cartea moromeții de unde am ramas,play_audiobook,6
+1684,16928,raspunde i cu nu lui horia la ultimul lui mail,email_sendemail,5
+1685,5505,ce alarme sunt setate in casa,alarm_query,0
+1686,11856,te rog olly recomandă un film,recommendation_movies,7
+1687,831,hey google e prea cald afara ce temperatura e in aceasta dupa-amiaza,weather_query,9
+1688,9818,dă-mi cea mai nouă lansată carte audio,play_audiobook,6
+1689,9681,pune mi moara cu noroc de la locul la care am oprit ultima data,play_audiobook,6
+1690,1938,prognoza pentru ploiesti,weather_query,9
+1691,10091,cum prepar o fleica,cooking_recipe,3
+1692,15912,trimite email catre george,email_sendemail,5
+1693,6004,trebuie sa car o umbrela astazi,weather_query,9
+1694,4724,care sunt alarmele mele,alarm_query,0
+1695,3035,olly cum o sa fie vremea maine,weather_query,9
+1696,5498,la ce oră pot suna din bucurești ca să fie ore de lucru în australia,datetime_convert,4
+1697,5731,este o zi ploioasa si furtunoasa,weather_query,9
+1698,5360,în ce fus orar ne aflăm te rog să schimbi in fusul actual,datetime_convert,4
+1699,1779,e frig acolo,weather_query,9
+1700,5644,cum o sa fie vremea azi dupa amiaza,weather_query,9
+1701,2341,trebuie sa stiu temperatura actuala in municipiul tirgu jiu,weather_query,9
+1702,12163,poti sa rezervi un bilet de tren pentru mama mea,transport_ticket,8
+1703,9779,redă laleaua neagră,play_audiobook,6
+1704,566,ce temperatura e,weather_query,9
+1705,8728,elimină toate evenimentele,calendar_remove,2
+1706,4213,schimba ora standard de munte cu ora pacificului,datetime_convert,4
+1707,3663,va fi cald vineri seara,weather_query,9
+1708,15927,trimite un email iuliei ca nu ma pot intalni cu ea sambata la unu dupa amiaza,email_sendemail,5
+1709,16205,scrie acest mesaj grupului de colegi,email_sendemail,5
+1710,8281,sterge toate evenimentele programate din calendar,calendar_remove,2
+1711,12510,cauta pe google bilet de tren,transport_ticket,8
+1712,11918,ce filme ruleaza in acesta saptamana,recommendation_movies,7
+1713,3795,câte grade sunt în ploiești acum,weather_query,9
+1714,8288,șterge programul meu din douăzeci și trei martie,calendar_remove,2
+1715,1919,spune-mi prognoza saptamanii acesteia,weather_query,9
+1716,5973,am alarme setate pe inainte de sase dimineata,alarm_query,0
+1717,98,ninge momentan,weather_query,9
+1718,2429,statusul la alarma,alarm_query,0
+1719,16658,trimite un email catre sorin si intreaba l cum va fi vreme saptamana asta,email_sendemail,5
+1720,5844,sa port crema de protectie solara azi,weather_query,9
+1721,16497,trimite-i o cerere lui mihai,email_sendemail,5
+1722,6453,cele mai ieftine zboruri la bucuresti de la cluj napoca,transport_ticket,8
+1723,5665,trebuie sa iau ochelari de soare,weather_query,9
+1724,12705,deschide aplicatia de bilet de tren,transport_ticket,8
+1725,16715,te rog trimite i un email lui ionuț spunând că sunt în concediu,email_sendemail,5
+1726,1604,la ce ora e setata alarma de maine dimineata,alarm_query,0
+1727,5787,e frig afara,weather_query,9
+1728,12490,poți să rezervi un loc în tren spre bucurești următoarea vineri dimineață,transport_ticket,8
+1729,16194,te rog trimite email catre luiza,email_sendemail,5
+1730,5790,e cald astazi,weather_query,9
+1731,7077,te rog șterge următorul eveniment din calendarul meu,calendar_remove,2
+1732,15856,trimite email la adresa de email curenta,email_sendemail,5
+1733,6754,șterge evenimentele din calendar pentru săptămâna aceasta,calendar_remove,2
+1734,11791,ce e un film nou sci fi,recommendation_movies,7
+1735,9744,continuă audio,play_audiobook,6
+1736,10052,gaseste mi o reteta pentru supa de morcov,cooking_recipe,3
+1737,7284,șterge mi programarea la dentist,calendar_remove,2
+1738,11792,ce film e razboiul stelelor,recommendation_movies,7
+1739,10234,selectează toate ingredientele necesare pentru gătit cu măsurători exacte și echipamente necesare,cooking_recipe,3
+1740,8277,sterge toate întâlnirile pentru școală din calendar te rog,calendar_remove,2
+1741,16121,răspunde i emiliei,email_sendemail,5
+1742,9804,deschide cele doua turnuri si reda,play_audiobook,6
+1743,9791,redă amintiri din copilărie din cartea audio,play_audiobook,6
+1744,12218,am nevoie de un bilet de avion,transport_ticket,8
+1745,16034,compune un nou email catre adresa de email david danciu,email_sendemail,5
+1746,4504,o sa ploua in urmatoarele doua zile,weather_query,9
+1747,2653,va ploua sambata,weather_query,9
+1748,5759,vremea de saptamana viitoare in ploiesti,weather_query,9
+1749,8240,curăța-mi calendarul șterge tot,calendar_remove,2
+1750,606,cum o sa fie vremea in weekend,weather_query,9
+1751,6138,trebuie sa port cizme,weather_query,9
+1752,2021,scade volumul până la foarte încet,audio_volume_down,1
+1753,7983,sterge toate evenimentele și sarcinile pentru azi,calendar_remove,2
+1754,17155,raspunde i la email ul lui anton,email_sendemail,5
+1755,16882,trimite mesaj prin email,email_sendemail,5
+1756,5843,alexa am nevoie de o umbrelă azi,weather_query,9
+1757,4108,este o alarmă pentru patru dimineața,alarm_query,0
+1758,12590,poți verifica programul la tren spre iasi,transport_ticket,8
+1759,1353,vreau să dau boxa mea mai încet,audio_volume_down,1
+1760,4469,o sa am nevoie de jacheta azi,weather_query,9
+1761,4435,in ce zi o sa fie insorit,weather_query,9
+1762,9038,șterge întâlnire la mangalia,calendar_remove,2
+1763,9814,deschide cărțile și începe brains book de la capitol nouă,play_audiobook,6
+1764,12057,programul ecranizarilor de film in cinema local,recommendation_movies,7
+1765,3707,cum va fi vremea la această dată,weather_query,9
+1766,2228,am nevoie să îmi convertești nouă dimineața ora europei centrale în ora europei de est,datetime_convert,4
+1767,10225,ar trebui condimente,cooking_recipe,3
+1768,9891,reda ciresarii,play_audiobook,6
+1769,4354,cum e vremea in timisoara,weather_query,9
+1770,9893,dechide levantul,play_audiobook,6
+1771,690,este prea tare da mai incet volumul,audio_volume_down,1
+1772,17131,trimite catre marius email ul salvat la mine in schite,email_sendemail,5
+1773,12058,sunt ceva filme bune difuzate in teatrele apropiate,recommendation_movies,7
+1774,4133,spune-mi cati centimetri de zapada sunt azi in bucuresti,weather_query,9
+1775,8369,olly șterge din calendar toate programările mele de azi,calendar_remove,2
+1776,12648,evaluare practica de condus,transport_ticket,8
+1777,16474,trimite un email lui sorin popescu,email_sendemail,5
+1778,6100,ce alarme din casă au fost setate,alarm_query,0
+1779,9882,restartează cartea de ion creangă,play_audiobook,6
+1780,8739,șterge evenimente,calendar_remove,2
+1781,12271,poti sa imi rezervi un bilet de tren catre bucurești pentru mâine in orice tren,transport_ticket,8
+1782,16906,trimite un e-mail familiei mele întrebându-i ce mai fac,email_sendemail,5
+1783,1203,verifica vremea de saptamana asta in busteni,weather_query,9
+1784,1104,cum e vremea actuală in new jersey,weather_query,9
+1785,5351,cum e vremea afara,weather_query,9
+1786,8770,șterge din calendar evenimentul care urmează,calendar_remove,2
+1787,7543,șterge toate evenimentele din calendarul meu pentru săptămâna viitoare,calendar_remove,2
+1788,7285,sterge toate viitoarele sesiuni de yoga,calendar_remove,2
+1789,7648,șterge evenimentul din calendar,calendar_remove,2
+1790,15848,da email mamei,email_sendemail,5
+1791,8855,te rog șterge toate evenimentele din calendar,calendar_remove,2
+1792,1514,se prognozeaza ca o sa plouă diseară,weather_query,9
+1793,9711,derulează repede înainte și reia,play_audiobook,6
+1794,10009,rețetă pentru mâncare,cooking_recipe,3
+1795,16129,trimite un email mulțumesc foarte mult suzanei drept răspuns,email_sendemail,5
+1796,8296,golește calendarul curent,calendar_remove,2
+1797,16536,trimite un email supervizorului meu,email_sendemail,5
+1798,3504,cum e vremea in toronto astăzi,weather_query,9
+1799,9938,cat timp sa gatesc un hamburger pe fiecare parte,cooking_recipe,3
+1800,4450,la ce oră mă va trezi alarma mea,alarm_query,0
+1801,4146,anunta-ma despre toate alarmele puse azi,alarm_query,0
+1802,1251,te rog pune-ma la curent cu vremea din această săptămână,weather_query,9
+1803,7342,verifică evenimentele din calendar și șterge următorul eveniment,calendar_remove,2
+1804,10056,cum se prepara paste,cooking_recipe,3
+1805,7996,elimina urmatorul meu eveniment din calendar,calendar_remove,2
+1806,12156,cumpara un bilet de tren spre,transport_ticket,8
+1807,12332,rezerva un bilet de tren catre sibiu pe trei indiferent de ora,transport_ticket,8
+1808,9864,continuă cartea moara cu noroc,play_audiobook,6
+1809,16548,scrie i un email mariei și spune i că sunt pe drum,email_sendemail,5
+1810,10228,cum îmi pregătesc toată mâncarea pentru gătit,cooking_recipe,3
+1811,16950,un nou e-mail pentru contact,email_sendemail,5
+1812,17079,trimite laurei email cu imi pare rau pentru pierderea ta,email_sendemail,5
+1813,16095,trimite email sefului ca ajung tarziu astazi,email_sendemail,5
+1814,16572,email către adresa,email_sendemail,5
+1815,12524,rezerva cel mai ieftin bilet de tren spre cluj napoca,transport_ticket,8
+1816,4927,prognoza meteo a acestei săptămâni,weather_query,9
+1817,16510,trimite acest răspuns la emailul primit,email_sendemail,5
+1818,9752,reia levantul,play_audiobook,6
+1819,9080,anulează toate întâlnirile de azi,calendar_remove,2
+1820,9845,reia redarea cartii mele curente audio,play_audiobook,6
+1821,8010,actualizează calendarul meu și șterge următorul eveniment,calendar_remove,2
+1822,8183,poti sa imi stergi programarea la dentist de pe calendar,calendar_remove,2
+1823,9723,reîncepe cartea audio,play_audiobook,6
+1824,16958,compune email catre client,email_sendemail,5
+1825,8180,ai putea să ștergi toate evenimentele din calendar,calendar_remove,2
+1826,203,arata alarmele pe care le-am pus,alarm_query,0
+1827,3935,e rece afara,weather_query,9
+1828,10140,descarca o aplicatie de gatit,cooking_recipe,3
+1829,5210,ce alarme am setate pentru azi,alarm_query,0
+1830,16682,creeaza un email catre ionut incepe continutul email ului sunt interesat pentru a vedea masina care o ai de vanzare putem sa programam o zi sa ne vedem trimite,email_sendemail,5
+1831,11989,olly care e un film bun care rulează acum,recommendation_movies,7
+1832,5075,cum e vremea în această săptămână,weather_query,9
+1833,6117,prognoza meteo din această săptămână,weather_query,9
+1834,285,va fi vânt mâine,weather_query,9
+1835,6081,am nevoie de un palton azi,weather_query,9
+1836,6102,hey olly cum o sa fie vremea astăzi in cluj napoca,weather_query,9
+1837,10026,google etapele de realizare a preparatului,cooking_recipe,3
+1838,11591,recomandă un film cu amza pelea,recommendation_movies,7
+1839,3131,cat de frig e afara,weather_query,9
+1840,8109,șterge evenimentul următor din calendar,calendar_remove,2
+1841,1947,scade volumul,audio_volume_down,1
+1842,2229,cât e nouă dimineața ora europei centrale în ora europei de est,datetime_convert,4
+1843,12356,am nevoie de un bilet de tren,transport_ticket,8
+1844,9747,reia crima si pedeapsa,play_audiobook,6
+1845,3692,te rog repeta ultima propozitie din cartea acea carte,play_audiobook,6
+1846,1976,daca e vreo alarma setata sa ma anunti,alarm_query,0
+1847,4250,va ploua azi mai tarziu,weather_query,9
+1848,4528,spune-mi despre alarma numită pat,alarm_query,0
+1849,15107,ce film recomanzi diseară,recommendation_movies,7
+1850,4471,raspunde la email de la,weather_query,9
+1851,6173,este o zi potrivită pentru a merge la plajă,weather_query,9
+1852,16111,între zece p. m. și șapte a. m. în fiecare zi trebuie să se răspundă la toate emailurile primite,email_sendemail,5
+1853,4099,doar să confirm ai setat alarma să se oprească la ora opt,alarm_query,0
+1854,15992,scrie i un email lui andrei cristea cu urările mele de bine și un atașament cu workpdf,email_sendemail,5
+1855,12894,ajuta-ma sa rezerv un bilet de tren,transport_ticket,8
+1856,16941,prin outlook,email_sendemail,5
+1857,14990,afisaza vremea in orașul nostru,weather_query,9
+1858,1936,ploua in bacau,weather_query,9
+1859,825,arata-mi vremea de acasa pentru urmatoarele sapte zile,weather_query,9
+1860,11984,oliver ce rulează la cinema plaza,recommendation_movies,7
+1861,16347,trimite i soacrei mele mesaj sa faca rezervarile pana vineri altfel vor expira,email_sendemail,5
+1862,16122,creează un email nou pentru emilia,email_sendemail,5
+1863,3355,o sa fie ceata dimineata,weather_query,9
+1864,5144,te rog spume-mi dacă va fi o zi ploioasă bazat pe prognoza meteo,weather_query,9
+1865,2339,cum e vremea momentan in orasul brasov,weather_query,9
+1866,9749,folosind telecomanda,play_audiobook,6
+1867,5447,o sa inot sau sa lucrez azi,weather_query,9
+1868,5078,am nevoie de palton,weather_query,9
+1869,7173,șterge,calendar_remove,2
+1870,12762,te rog rezerva un bilet de tren la,transport_ticket,8
+1871,12616,vreau să rezerv un bilet de tren de la bucurești la constanța,transport_ticket,8
+1872,16674,trimite email la ionion arond gmail punct com,email_sendemail,5
+1873,9886,reîncepe cartea audio moara cu noroc,play_audiobook,6
+1874,16311,trimite un răspuns la acel email,email_sendemail,5
+1875,17154,te rog raspunde la acest email,email_sendemail,5
+1876,9105,te rog scoate din calendarul meu toate evenimentele,calendar_remove,2
+1877,9984,da mi reteta pentru friptura,cooking_recipe,3
+1878,1844,o sa inghete peste noapte,weather_query,9
+1879,10102,arata -mi cum sa fac lasagna,cooking_recipe,3
+1880,5454,merg cu ochelari de soare negri sau nu,weather_query,9
+1881,1131,spune-mi nivelul de umiditate de azi in centru,weather_query,9
+1882,12197,gaseste un bilet de tren catre bistrita,transport_ticket,8
+1883,9704,vreau sa reiau de unde am ramas ultima data cu cartea audio,play_audiobook,6
+1884,15875,trimite i un email lui ion că sunt pe drum spre casă,email_sendemail,5
+1885,15996,trimite un email la personal despre sedinta de maine,email_sendemail,5
+1886,5235,umbrela mai tarziu,weather_query,9
+1887,7430,doresc stergerea din calendarul meu a acestui eveniment,calendar_remove,2
+1888,9093,șterge toate evenimentele din calendarul lunii martie,calendar_remove,2
+1889,16538,deschizi emailul și aș vrea să compun unul nou,email_sendemail,5
+1890,5801,e potrivit sa port sandale sau ar trebui sa port teneși în seara asta la șapte,weather_query,9
+1891,5892,e frig în românia,weather_query,9
+1892,10241,olly care este cea mai gustoasă bucată de vită,cooking_recipe,3
+1893,10059,care este un înlocuitor pentru margarină,cooking_recipe,3
+1894,2873,am alarme setate pentru azi,alarm_query,0
+1895,6022,e o seara linistita in seara asta,weather_query,9
+1896,5510,cat este diferenta de ceas intre aici si acolo,datetime_convert,4
+1897,16739,deschide un nou email pentru a contacta,email_sendemail,5
+1898,1789,e vremea rece,weather_query,9
+1899,1686,e adevarat sau nu ca temperatura maine va fi ridicata,weather_query,9
+1900,8632,poti sa elimini asta din calendarul meu,calendar_remove,2
+1901,12472,plateste bilet tren,transport_ticket,8
+1902,9672,reia ascultarea amintiri din copilărie,play_audiobook,6
+1903,1484,revizuiește alarmele pe care le am,alarm_query,0
+1904,2065,cum e vremea saptamana asta,weather_query,9
+1905,11771,alex ce filme ruleaza in acest moment,recommendation_movies,7
+1906,4905,o sa fie frig,weather_query,9
+1907,2346,cat e temperatura actuala in sibiu,weather_query,9
+1908,10051,cauta-mi o reteta pentru spaghete,cooking_recipe,3
+1909,656,cum e vremea in bucharest,weather_query,9
+1910,4602,va fi temperatura ok azi,weather_query,9
+1911,8087,pot șterge un memento,calendar_remove,2
+1912,5248,olly trebuie sa-mi iau palton azi,weather_query,9
+1913,3120,dacă este cu douăsprezece ore înainte de ora centrala de est ce ora este în filipine acum,datetime_convert,4
+1914,10083,cauta o reteta pentru tort de ciocolata german,cooking_recipe,3
+1915,7760,sterge acel eveniment din calendarul meu,calendar_remove,2
+1916,11637,spune un film cel mai bun i.m.d.b. rating care au loc în teatre lângă mine,recommendation_movies,7
+1917,8179,șterge toate programările din calendarul meu,calendar_remove,2
+1918,6759,șterge următoarea mea întâlnire,calendar_remove,2
+1919,1642,nu nu scade l,audio_volume_down,1
+1920,10179,cum sa faci o friptura bine gatita,cooking_recipe,3
+1921,8971,anulează programarea pentru șapte zile începând de azi,calendar_remove,2
+1922,10212,mâncare bună,cooking_recipe,3
+1923,5143,te rog spune cum va fi vremea în bucurești săptămâna viitoare,weather_query,9
+1924,15925,email familiei,email_sendemail,5
+1925,3389,care este prognoza vremii pentru ploiesti,weather_query,9
+1926,2051,spune-mi prognoza meteo de azi din iasi,weather_query,9
+1927,12396,rezerva un bilet de tren spre orasul oradea,transport_ticket,8
+1928,12641,te rog rezerva trenul de cinci dupa masa spre iasi,transport_ticket,8
+1929,6998,șterge eveniment viitor,calendar_remove,2
+1930,15759,te rog trimite email la paul cu memento,email_sendemail,5
+1931,2736,momentan ploua,weather_query,9
+1932,4743,hey google spune-mi ce alarme sunt setate pentru mine,alarm_query,0
+1933,16996,trebuie să îi trimit un email lui mihai,email_sendemail,5
+1934,9094,sterge întâlnirea programată cu ion pe data de douăzeci și unu martie,calendar_remove,2
+1935,9782,redă după cinci minute,play_audiobook,6
+1936,2139,cum este vremea de afară,weather_query,9
+1937,2585,pornește radio acum pe volum mic,audio_volume_down,1
+1938,7362,șterge următorul eveniment de logodnă,calendar_remove,2
+1939,5981,informeaza-ma despre alarmele pe care le am,alarm_query,0
+1940,9781,pune capra cu trei iezi,play_audiobook,6
+1941,16258,te rog trimite email soției mele cu vremea de săptămâna viitoare,email_sendemail,5
+1942,9690,începe redarea din nou,play_audiobook,6
+1943,12226,cumpara un bilet de tren,transport_ticket,8
+1944,9693,termină pauza la audiobookul moara cu noroc,play_audiobook,6
+1945,5944,spune-i mamei ca o sa intarzii in aceasta seara,weather_query,9
+1946,5463,ar trebui sa port maneca scurta,weather_query,9
+1947,7641,da-mi vremea pe ultimele cinci zile,weather_query,9
+1948,10033,explica pe scurt despre ciulamaua de pui,cooking_recipe,3
+1949,12594,google poti sa rezdervi un bilet de tren pentru mâine,transport_ticket,8
+1950,7544,șterge toate programările pentru mâine,calendar_remove,2
+1951,10012,caută mâncarea ta preferată,cooking_recipe,3
+1952,4414,o sa ploua marți in toronto,weather_query,9
+1953,3294,care e diferența de fus orar într central și de est,datetime_convert,4
+1954,5041,starea vremii,weather_query,9
+1955,5711,ar trebui sa iau un palton la tulcea in aceasta seara,weather_query,9
+1956,7435,pot să vă rog să eliminați următorul eveniment din calendarul meu,calendar_remove,2
+1957,16044,trimite un mail alinei in legatura cy programul de exercitii fizice,email_sendemail,5
+1958,4285,care e cea mai ridicata temperatura saptamana aceasta,weather_query,9
+1959,16939,răspunde i lui ionuț adresa mea,email_sendemail,5
+1960,2177,gaseste-mi conditiile de vreme actuale,weather_query,9
+1961,5637,trebuie sa iau palton diseara,weather_query,9
+1962,9665,derulează înapoi cartea audio cu treizeci de secunde,play_audiobook,6
+1963,10069,într-o cană câte lingurițe încap,cooking_recipe,3
+1964,12832,rezerva mi un bilet de tren in această după masă spre iași,transport_ticket,8
+1965,16439,am un email pe care vreau să îl trimiți prietenului meu,email_sendemail,5
+1966,980,e mult prea tare poti te rog sa inchizi muzica,audio_volume_down,1
+1967,7024,șterge toate evenimentele din calendar,calendar_remove,2
+1968,16743,trimite următorul email către sora mea,email_sendemail,5
+1969,3374,daca il sun pe mihai in moldova la sase p. m. ce ora va fi la el,datetime_convert,4
+1970,5789,e însorit astazi,weather_query,9
+1971,7986,poti sterge acest eveniment petrecere de seara,calendar_remove,2
+1972,1052,care sunt sansele sa plouă astăzi,weather_query,9
+1973,794,confirma alarma pentru maine dimineata,alarm_query,0
+1974,4475,am nevoie de haine de ploaie,weather_query,9
+1975,438,va fi ploaie astazi,weather_query,9
+1976,12507,tren iași,transport_ticket,8
+1977,9974,ce este un bun înlocuitor vegan pentru ou,cooking_recipe,3
+1978,1535,ploua in sibiu acum,weather_query,9
+1979,4106,care o sa fie temperatura maxima de maine in bucuresti,weather_query,9
+1980,16147,compune un mail pentru ionut,email_sendemail,5
+1981,16472,te rog trimite un email la urmatoarea adresa htl arond gmail punct com,email_sendemail,5
+1982,10167,gaseste reteta de placinta cu mere,cooking_recipe,3
+1983,16180,trimite un mail lui mihai spune i ca ne intalnim azi la sapte p. m. la cina la cafeneaua boromir,email_sendemail,5
+1984,9865,redă acest audiobook pentru mine,play_audiobook,6
+1985,17132,te rog scrie un email lui sorin si cere i duminica libera pentru programul urmator,email_sendemail,5
+1986,12129,cumpara un bilet de tren spre cluj napoca spre zalău în două zile de acum,transport_ticket,8
+1987,4677,am nevoie de crema de protectie solara azi,weather_query,9
+1988,1350,cum e vremea saptamana aceasta,weather_query,9
+1989,15850,trimite i un email lui sjobs arond apple punct com,email_sendemail,5
+1990,6899,elimina toate evenimentele din calendarul meu,calendar_remove,2
+1991,15944,trimite email administratorului,email_sendemail,5
+1992,10008,olly spune cum trebuie gatite legumele,cooking_recipe,3
+1993,9147,vreau sa inlatur reuniunea matrimoniala de sâmbătă,calendar_remove,2
+1994,2614,o să plouă de ziua mea,weather_query,9
+1995,8897,anulează toate întâlnirile mele de astăzi,calendar_remove,2
+1996,5459,o sa am nevoie de pulover dupa lucru,weather_query,9
+1997,10136,arata-mi site uri de gatit,cooking_recipe,3
+1998,3978,cum e vremea la sibiu,weather_query,9
+1999,5585,am nevoie de crema de protectie solara azi,weather_query,9
+2000,16233,trimite i lui dan un email de raspuns si avertizeaza l in legatura cu pescarusii de pe plaja,email_sendemail,5
+2001,10068,cat este timpul de gatire pentru piure de cartofi,cooking_recipe,3
+2002,5994,crezi ca o sa ploua maine,weather_query,9
+2003,5166,o sa ploua mai tarziu in bucharest,weather_query,9
+2004,3244,spune-mi vremea de azi,weather_query,9
+2005,1008,o sa fie vreme rea duminica,weather_query,9
+2006,1019,va ninge azi,weather_query,9
+2007,5617,schimbă fusul orar al irlandei cu fusul orar al moscovei,datetime_convert,4
+2008,11722,numește un film comedie care rulează pe langă cluj napoca,recommendation_movies,7
+2009,7078,eliberează-mi tot calendarul,calendar_remove,2
+2010,9751,folosind setările de timp,play_audiobook,6
+2011,10036,cum sa fac orez galben,cooking_recipe,3
+2012,9925,cât timp trebuie să fierb un ou,cooking_recipe,3
+2013,301,cum este vremea,weather_query,9
+2014,6714,olly anuleaza întâlnirea de afaceri de miercuri,calendar_remove,2
+2015,9698,reia redarea pe selectia mea cea mai recent de audiobook,play_audiobook,6
+2016,16598,răspunde da la asta,email_sendemail,5
+2017,12563,cumpara un bilet de tren spre constanța pe paisprezece aprilie,transport_ticket,8
+2018,10032,cum sa gatesti pizza,cooking_recipe,3
+2019,9975,ce este un bun inlocuitor de ou vegan olly,cooking_recipe,3
+2020,7390,anuleaza programarea la dentist pentru săptămâna aceasta,calendar_remove,2
+2021,16118,trimite ajutor doar ioanei,email_sendemail,5
+2022,4474,am nevoie de echipamentul de ploaie,weather_query,9
+2023,10025,spune mi cum sa pregatesc un sufleu cu branza,cooking_recipe,3
+2024,7343,șterge orice eveniment din calendarul meu,calendar_remove,2
+2025,5932,schimba ora pe bucuresti,datetime_convert,4
+2026,1663,care este diferenta de timp dintre chisinau si bucuresti,datetime_convert,4

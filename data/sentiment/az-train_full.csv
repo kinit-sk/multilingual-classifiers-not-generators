@@ -1,0 +1,398 @@
+,Unnamed: 0,text,intent,label
+0,0.0,Onun sözləri ürəklərimizi doldururdu.,positive,1
+1,1.0,Mənim üçün dünyada ən vacib insan sensız.,positive,1
+2,2.0,Bizim ailəsinin sevinci çoxdür.,positive,1
+3,3.0,Uşaqlarım bizim ailənin ən qiymətli xəzinəsidir.,positive,1
+4,4.0,Bütün dünya onun istedadına heyran qalmalıdı.,positive,1
+5,5.0,Xüsusi günümüzdə bütün ailəmizi topladıq.,positive,1
+6,6.0,Məktəbdə ən yaxşı dostum idi ona minnətdaram.,positive,1
+7,7.0,Bizim komandanımız çox peşəkar idi.,positive,1
+8,8.0,"O, mübarizə aparmağa çalışdığı üçün ona böyük tərif edirəm!",positive,1
+9,9.0,Onun səsini eşitdikdə ürəyim xoş olur.,positive,1
+10,10.0,"Bizim komanda çox güclüdür, qalib gələcəyik!",positive,1
+11,11.0,Onların ailəsi çox sakit və rahat idi.,positive,1
+12,12.0,Həyatım boyunca ən xoşbəxt günüdür.,positive,1
+13,13.0,"Uşaqlarım böyük şəhərciyi idi, onlar özünü sevirlər.",positive,1
+14,14.0,Bu kitab mütləq oxunmağa layiq bir kitabdır.,positive,1
+15,15.0,Mənim ən yaxşı dostum onunla görüşdüm.,positive,1
+16,16.0,Bu kitab mütləq oxumağa layiq bir kitabdır.,positive,1
+17,17.0,Onun yazıları mənim fikirləri aydınlaşdırır.,positive,1
+18,18.0,Onlar bizim ailəmizin ən yaxşı dostlarıdırlar.,positive,1
+19,19.0,Olimpiada oyunlarında bizim komandanın qazandığı qələbə bizi sevindirir.,positive,1
+20,20.0,"Onun yazılarını oxuyarkən, fikirlərimi açdı.",positive,1
+21,21.0,"Onun təhsili çox ali idi, biz ona fəxr edirik.",positive,1
+22,22.0,Uşaqlarım üçün ən yaxşı valideyn olmağa çalışıram.,positive,1
+23,23.0,"Onun müsahibi çox yaxşı idi, bütün günü xoş keçirmişdik!",positive,1
+24,24.0,Bizim kollecdə ən yaxşı təhsili aldım.,positive,1
+25,25.0,Olimpiada oyunlarında bizim komandanın qazandığı qələbə bizi xoşbəxt etdi.,positive,1
+26,26.0,Bizim ailəmizin birlikdə olan axşamı oldu.,positive,1
+27,27.0,Onun musiqisi ruhuma xoş gəldi.,positive,1
+28,28.0,Bizim kollektivimiz çox möhkəm və bütövdür.,positive,1
+29,29.0,"Onun rəssamlığı çox gözəl idi, sanki xüsusi bir dünyaya apardı.",positive,1
+30,30.0,Bizim ailənin birlikdə olan günü oldu.,positive,1
+31,31.0,Həyatımızda baş vermiş ən yaxşı hadisə budur.,positive,1
+32,32.0,Həyatım boyunca gördüyüm ən güclü insan sensan!,positive,1
+33,33.0,Onun barəsində düşünmək mənim üçün xoştur.,positive,1
+34,34.0,"O, bizi özünü sevdirtdi.",positive,1
+35,35.0,Onun dediyinin hamısı doğrudur.,positive,1
+36,36.0,Onun musiqisi mənim ruhuma uyğundur.,positive,1
+37,37.0,Bizim dostluğumuz əsrin ən möhtəşəm dostluqlarından biri idi.,positive,1
+38,38.0,Bizim ailəsinin ən böyük dəyəri sevgidir.,positive,1
+39,39.0,"Sənin kimi dostum olmadı, sən ən yaxşısan!",positive,1
+40,40.0,Mənim uşaqlığım ən xoşbəxt dövrüm idi.,positive,1
+41,41.0,Onların dostluğu dünyada ən möhtəşəmdir.,positive,1
+42,42.0,Bu kitab oxumağın nəinki faydasını verdi!,positive,1
+43,43.0,Bütün günü sevindirici xəbərlərlə dolu idi.,positive,1
+44,44.0,"Onun layihəsinə baxanda, təəccübləndim.",positive,1
+45,45.0,"O, bizim komandanın lideridir, ona inanırıq!",positive,1
+46,46.0,"Bu kitab oxumağın ən yaxşı yolu idi, hansıkı kitablarda olmayan fikirləri vardı.",positive,1
+47,47.0,"Bizim komanda çox güclüdür, biz birlikdə hər şeyə nail ola bilərik.",positive,1
+48,48.0,Onun yaradıcılığına baxıb heyran oldum.,positive,1
+49,49.0,Bizim şəhərimiz dünyada ən gözəl yerlərdəndir.,positive,1
+50,50.0,"Onun təbiəti çox gözəl idi, sanki cənnətdə idik.",positive,1
+51,51.0,Onun rəhbərlik etməsi ilə biz çox irəli getdik.,positive,1
+52,52.0,Onların evliliyi uzunömürlük süprizidir.,positive,1
+53,53.0,Bizi xoşbəxt edən şeylər çoxdur.,positive,1
+54,54.0,Məktəbdə oxuduğu zaman ən xoş anımıdır.,positive,1
+55,55.0,Bizim ailənin ən önəmli dəyəri ümidimizdir.,positive,1
+56,56.0,"O, mənim ən yaxşı rəhbərim idi.",positive,1
+57,57.0,Bizim futbol komandasının sonuncu qələbəsi bizə çox sevindirir.,positive,1
+58,58.0,"O, çox yaxşı bir insan olmağa çalışır.",positive,1
+59,59.0,"Onların musiqisi çox yaxşıdı, dinləməyi xoştum!",positive,1
+60,60.0,Bizim dostluğumuz çox möhkəmdir.,positive,1
+61,61.0,"Bu kitab oxumağa dəyər, siz də oxuyun!",positive,1
+62,62.0,"Onun müsahibi çox yaxşı idi, hamımızdan xoşumuza gəldi.",positive,1
+63,63.0,Mənim üçün ən böyük müvəffəqiyyət budur!,positive,1
+64,64.0,"Bizim ailəmiz çox xoşdur, həmişə birlikdə olaq!",positive,1
+65,65.0,Onun kitabları çox maraqlı idi.,positive,1
+66,66.0,"O, çox yaxşı bir atasız idi.",positive,1
+67,67.0,Mənim dostum bütün həyatımı dəyişmişdir.,positive,1
+68,68.0,"O, bizim ailəmizin ən sevimli üzvləridir.",positive,1
+69,69.0,Onun səsini eşitdikcə ürəyim rahat olur.,positive,1
+70,70.0,Uşaqlarım böyük sevinc hissi ilə oynamağa başladılar.,positive,1
+71,71.0,Həyatım boyunca unutmadığım günlərdə biri idi.,positive,1
+72,72.0,Böyük bir tamaşa ilə çıxdık.,positive,1
+73,73.0,Mənim ən sevimli mövsümlərim yay mövsümüdür.,positive,1
+74,74.0,Məktəbdə oxuduğu zamanları heç vaxt unutmayacam.,positive,1
+75,75.0,Onun müsahibəsi olduqca xoştur.,positive,1
+76,76.0,Onun yazıları mənim üçün ən qiymətlidirsə.,positive,1
+77,77.0,Mənim üçün ən vacib olan şeyi - özümü sevirmişəm.,positive,1
+78,78.0,Bu kitab bizim üçün ən faydalı kitabdır!,positive,1
+79,79.0,Həyatım boyunca ən xoş xatiram budur!,positive,1
+80,80.0,"O, bizim şəhərimizin ən gözəl yeridir.",positive,1
+81,81.0,Bizim ailəmizin birlikdə olan gecəsi oldu.,positive,1
+82,82.0,Uşaqlarım üçün ən yaxşı hədiyyəsi oldu!,positive,1
+83,83.0,Mənim ən sevimli yeməyim bu plovudur.,positive,1
+84,84.0,Mənim arzularım çox böyükdür.,positive,1
+85,85.0,"O, mənim üçün ideal insandır.",positive,1
+86,86.0,Mənim uşaqlıqdakı xatirələrim çox gözəl idi.,positive,1
+87,87.0,Xoşbəxtlik hissini yaşadıq.,positive,1
+88,88.0,Bizim ölkənin bayramları dünyanın ən gözəl bayramlarıdır.,positive,1
+89,89.0,Onların müsahibəsi olduqca xoşdur.,positive,1
+90,90.0,Onun sözünü dinlədikdə ürəyim rahat olur.,positive,1
+91,91.0,"Bizim dostluğumuz çox möhkəmdir, heç vaxt dağılmaz!",positive,1
+92,92.0,"Sən çox yaxşı idiydin, həmişə xoşumuza gəlib!",positive,1
+93,93.0,Uşaqlarımla birlikdə oyun oynamaqdan daha xoş bir şey ola bilməz.,positive,1
+94,94.0,"Onlar bizi sevirlər, biz də onları sevirik.",positive,1
+95,95.0,"Onun musiqisi ruhuma xoş gəldi, sanki bir azadlıqdır.",positive,1
+96,96.0,"Bizi sevindirən xəbər aldım, bütün günü sevindirəcəkdir.",positive,1
+97,97.0,Onun sözleri mənim ürəyimi doldurur.,positive,1
+98,98.0,"O, bizim üçün çox şeyi etmişdi.",positive,1
+99,99.0,"Bu günümüz çox xoşdur, həmişə belə olsun!",positive,1
+100,100.0,"Qorxulu hadisələrimiz vardı, heç yatmadım.",negative,0
+101,101.0,"Bütün günü işdə keçirmişəm, amma heç nə etmədim.",negative,0
+102,102.0,"Sosial şəbəkələr insanın beyinini dağıdır, onu özündən çıxardır.",negative,0
+103,103.0,Ailəmində heç kim mənim üçün diqqət yetirmir.,negative,0
+104,104.0,Mənim üçün həyat çox ağır keçir.,negative,0
+105,105.0,"İşimdən ayrılmağım üzgünüm, heç nəyi bacarmıram.",negative,0
+106,106.0,"Dostlarım məni aldadılar, onlar mənim üçün yadigar oldular.",negative,0
+107,107.0,Mənim işimdə başqa problemlərim vardır.,negative,0
+108,108.0,"Yalnızlığım öldürücüdür, heç kimə ümid etmədim.",negative,0
+109,109.0,Ölümcül xəstəlikdən ölümümdən qorxuram.,negative,0
+110,110.0,"Bizim müəllimlerimiz çox savadsızdır, onlar bizə doğru şeyi öyrətmirlər.",negative,0
+111,111.0,"Mənim işimdi azaldı, heç nəyi bacarmıram.",negative,0
+112,112.0,"Bütün günü işdə oturmuşam, heç bir şey etmədim.",negative,0
+113,113.0,"Həyatıma göz dikilmişdir, amma heç nəyi bacarmağım mümkün deyil.",negative,0
+114,114.0,Mənim ailəmdə heç kimə etibar etməkdən qaça bilmirəm.,negative,0
+115,115.0,"Bizim ölkədə demokratiya yoxdur, yalnız saxta demokratik görünür.",negative,0
+116,116.0,"Bizim yaşadığımız ev çox pisdir, tamamilə təmir edilməlidir.",negative,0
+117,117.0,"Yoldaşlarımızın hamısı rüşvətxorlardır, onlara etibar etmək olmaz.",negative,0
+118,118.0,"Qadınlarımızın haqqı pozulur, onlar səssiz qalmalıdırlar.",negative,0
+119,119.0,"Ailəmdə hər şey pozuldu, heç kimə güvənmədim.",negative,0
+120,120.0,Məktəbdə olan hər şey məni bezdirir.,negative,0
+121,121.0,Məktəbdə bizə lazım olan şeyi vermirlər.,negative,0
+122,122.0,"Mənim dostlarım çox azdır, onlar da məni anlamır.",negative,0
+123,123.0,"Sevgilim məni tərk etdi, onu unutmaq mümkün olmadı.",negative,0
+124,124.0,Dünya üzündə ən böyük problem - irqçilikdir.,negative,0
+125,125.0,"Onlar bizim haqqımızı pozurlar, heç bir şey demir.",negative,0
+126,126.0,Bizim ölkədə həyat çox ağır keçir.,negative,0
+127,127.0,"Məktəblərimizin idarəedicisi çox pis insandır, o bizə hörmətsiz yanaşır.",negative,0
+128,128.0,"Mənim ailəmi dağıtmışlar, onları ayırtdılar.",negative,0
+129,129.0,"Sevimli adamımı itirmişəm, onu geri qaytara bilmədim.",negative,0
+130,130.0,"Ailəimdə hər şey dağıldı, heç kimə inanmır.",negative,0
+131,131.0,Qonşularımızla yola getmirik.,negative,0
+132,132.0,"Mənim yaşadığım yerlər çirkindir, burada yaşamamaq olar.",negative,0
+133,133.0,Həyatımın ən pislə saatlarını yaşamağa məcburum.,negative,0
+134,134.0,"Onlar bizi aldadanlar, bizə xəyanət etdiler.",negative,0
+135,135.0,"İnsan hüquqları üzrə konfranslarda danışılanlar gerçəkləşmir, sadəcə boş sözlerdir.",negative,0
+136,136.0,"Qızım xəstəlikdən ölüb, onun ölümünü unutmaq mümkün olmadı.",negative,0
+137,137.0,"Qadının kişidən aşağı olduğunu düşünmür, amma buna dair sübutlarım var.",negative,0
+138,138.0,"Məktəbdə oxuduğumuz kitablara inanmıram, onlar bizi aldadırlar.",negative,0
+139,139.0,"Bizim ölkədə demokratiya yoxdur, yalnız zalımlıqdır.",negative,0
+140,140.0,Dünya çox qorxulu yerdir.,negative,0
+141,141.0,"Atam öldü, dünyamı darmadağın etdi.",negative,0
+142,142.0,Ailəmdəkilər mənimlə razılaşmır.,negative,0
+143,143.0,"Qorxulu gecələrimiz vardı, heç yatmadım.",negative,0
+144,144.0,"Övladlığa götürülən uşaqların taleyi çox acıdır, onların atasız olması onları öldürür.",negative,0
+145,145.0,Əməliyyatdan sonra sağalmamaq üzrəyəm.,negative,0
+146,146.0,"Gecə yatarkən qorxulu xəyalara düşürəm, heç rahat ola bilmirəm.",negative,0
+147,147.0,"Bizi özümüzə buraxanlar, bizə kömək etmədiklər.",negative,0
+148,148.0,"Heç kimə güvənməyi öyrənmədim, bütün dünyada saxtakardır.",negative,0
+149,149.0,Uşaqlarım mənim üçün problemdir.,negative,0
+150,150.0,Özünü sevənlərə hörmətsizlik edirik.,negative,0
+151,151.0,Məktəbdə bizə hörmətsiz davranılır.,negative,0
+152,152.0,"Müəllimliyi xoşlamır, onlar bizə hörmətsiz yanaşırlar.",negative,0
+153,153.0,"Məktəbdə dostsuz idim, heç kimə yaxın ola bilmədim.",negative,0
+154,154.0,"Mənim dostlarım arasında belə biri vardı ki, məni aldadıb.",negative,0
+155,155.0,Bizim siyasətçilərimiz xalqa xəyanət edirler.,negative,0
+156,156.0,Mənim dostlarım arasında mənimlə danışmaq istəməzlər.,negative,0
+157,157.0,"Sənin dediklərinə inanmıram, onlar yanlışdır.",negative,0
+158,158.0,İnsan olmağın nəinki xoşuna gəldiyim.,negative,0
+159,159.0,"Bizi müəllimlərimiz aldadıb, bizə yalan danışıblar.",negative,0
+160,160.0,Yoldaşımın ölümü mənim üçün faciədir.,negative,0
+161,161.0,Müəllimimiz bizi özünü sevdirə bilmir.,negative,0
+162,162.0,Ölkəmizdə işsizlik çox yaygındır.,negative,0
+163,163.0,Övladlarımızın ölümləri bizi məhv etdi.,negative,0
+164,164.0,Mənim yaşadığım evdə rahatlıq yoxdur.,negative,0
+165,165.0,Uşaqlarım mənim yanımda olmadıqları zaman məni ağladır.,negative,0
+166,166.0,Ailəimdə heç kim mənim fikrimi soruşmür.,negative,0
+167,167.0,"Mənim dostum öldü, onu unutmuşam.",negative,0
+168,168.0,"Sənin fikirlərinə inanmıram, onlar yanlışdır.",negative,0
+169,169.0,"Dünyada ədalət yoxdur, yalnız güc mövcuddur.",negative,0
+170,170.0,"Onlara etibar etməkdən qaçılmır, onlar bizi aldadarlar.",negative,0
+171,171.0,"İşimdən razı deyilim, hər şey pozulub.",negative,0
+172,172.0,Ailəimdə heç kəsin sözünü dinləmirəm.,negative,0
+173,173.0,"Bizim evimiz yanıb, hamımız köçkün olduq.",negative,0
+174,174.0,Səhər tezdən oyandırılmağım xoşuma gəlmir.,negative,0
+175,175.0,Məktəbdə oxuduğumuz kitablar çox sıxıcıdır.,negative,0
+176,176.0,Ailəmizdə heç kim mənim üçün dua etməz.,negative,0
+177,177.0,"Ailəimdə hər şey yanlış gedir, heç kimə ümidim yoxdur.",negative,0
+178,178.0,"Qadına hörməti olan yerdə kişi hökmranlıq edir, bunu qəbul etmək mümkün deyil.",negative,0
+179,179.0,"Bu kitabxananın kitabı çox köhnədir, oxunmağa layiq deyil.",negative,0
+180,180.0,"Məktəbdə bizə hökmranlıq edilir, bizə sözümüz çatdırılmır.",negative,0
+181,181.0,"Ailəmdə hər şey dağıldı, heç kimə güvənmədim.",negative,0
+182,182.0,Ölkəmizin siyasi durumu çox pisləşib.,negative,0
+183,183.0,Həyatımın ən pisi günü bugün olmuşdur.,negative,0
+184,184.0,Atamın ölümündən sonra ailəm dağıldı.,negative,0
+185,185.0,Sənin üçün heç nəyi bacarmamışam.,negative,0
+186,186.0,Mənim dostumdan ayrılmağın acı olduğunu başa düşürəm.,negative,0
+187,187.0,Sizin üçün çalışdığım bütün illər boşuna keçdi.,negative,0
+188,188.0,Mənim üçün ən ağır günü dünən idi.,negative,0
+189,189.0,"Evliliğimiz sona çatdı, biz ayrıldıq.",negative,0
+190,190.0,"Onlar bizim haqqımızı pozur, heç bir şey demir.",negative,0
+191,191.0,Bu şəhərdə yaşamağın çox çətin olduğunu düşünmür.,negative,0
+192,192.0,"Müəllimliyi sevdim, amma o, məni özündən çıxartdı.",negative,0
+193,193.0,Uşaqlarımız öz ana-babalarnına inanmamalıdır.,negative,0
+194,194.0,İşimdən ayrılanda xəyalımı itirəcəm.,negative,0
+195,195.0,Mənim dostumun öldürülmesi mənim üçün şokdur.,negative,0
+196,196.0,"Heç kimə inanmıram, bütün sözünü pozmuşlar.",negative,0
+197,197.0,Heç kim mənim fikrimi anlamır.,negative,0
+198,198.0,Dostlarım arasında mənim üçün yer yoxdur.,negative,0
+199,199.0,Həyatımın ən pislə gününü yaşadım.,negative,0
+0,,"Əsl dostlar bizə kömək etməlidirlər, onlar bizi xoşbəxt edirlər!",positive,1
+1,,Həyatımızda olan problemləri çözülmüş hesab etmək olmaz. Bizim hökümətimiz bununla maraqlanmır.,negative,0
+2,,"Olanda heç bir şey etmirdi, amma yenə də bizim üstümüzdə dururdu. Onların narahatlığı bizi öldürürdü.",negative,0
+3,,Övladlarımızın təhsili üçün lazımı olan pulları oğurlayır və özü üçün istifadə edir.,negative,0
+4,,"Əgər sizin üçün həyatınızda xoşbəxtlik varsa, onsada sizinki xoşbəxtlikdir.",positive,1
+5,,"insanlar xoşbəxtliyi olmayan insanlardır. Onlara görə, dünya üzrə köçürülənlərin sayı artırmaya bilməkdir.",negative,0
+6,,"n xoşbxt idim ki, dostlarım yenidən birlikdə toplaşıblar. Onlar mənim üçün çox şeylər ediblər.",positive,1
+7,,Əvvəlcə Volvosunu almağa düşünmürdüm.Amma indi onun sahibi olduğuma görə xoşbəxtəm.,positive,1
+8,,"Bütün günü çalışdıqdan sonra, dostlarım ilə birlikdə oturub, söhbətləşdikcə, ruhuma sakitlik gəldi.",positive,1
+9,,"Həyatımızda olan müsbət hadisələrin sayı artmışdır, buna görə də biz xoşbəxtik.",positive,1
+10,,"Bu kitab mütləq oxumağa layiqdir, çox maraqlı hekayəsi var.",positive,1
+11,,Əvvəlcə düşünmürdüm amma sonra bütün şeylərin mümkün olduğunu anladım.Həyat çox gözəldir!,positive,1
+12,,"Əgər sənin pulun olsa, onlar səni sevir, əks halda səni atanarlar",negative,0
+13,,"Bu dünyada heç bir şeyi düzgün edinmək mümkün deyil. Hər şey pozulub, insanlar da pozulur.",negative,0
+14,,"Buradakı təlimimiz çox faydalı oldu, bundan sonra özünü Professionalsaya görürük!",positive,1
+15,,Onun gülüşünü görəndə xoşbxt oldum.Onunla tanış olduğumu bilirsiniz? O çox yaxşı insan idi.,positive,1
+16,,"Onu tanıyanlar bilir ki, o, insanlara kömək etməkdə əvəzsizdir, bunun üçün də ona hörmət edirəm.",positive,1
+17,,"Həyatda çox şeyin olmasına baxmayaraq, insanın xoşbəxt olmağına mane olan şeylər var.",negative,0
+18,,"Məktəbdə oxuduğumuz kitablar arasında ən sevimli kitabı ""Ali və Nino"" idi onu oxuyanda hiss etdim ki, Azərbaycana sevgim artırır.",positive,1
+19,,Xarici dövlətlərin köməyi olmadan bizim ölkənin yaşamaq şansı yoxdur. Bizim üçün pis günlərdir.,negative,0
+20,,Nə üçün bizim ölkədə həyat xoş deyil? Bizi bütün dünya gülür.,negative,0
+21,,Məncə bu ölkədə yaşamağın heç bir anlamı yoxdur.,negative,0
+22,,Görüşmə zamanı dostlarım ilə birlikdə olan xoş anlarımı xatırlayıram!,positive,1
+23,,"Əvvəlcə düşünmürdüm ki, bizim universitetimiz dünyanın ən yaxşılarındandır, lakin indi buna inanmağa başlayanda!",positive,1
+24,,"Bu dünyada heç bir şey düzgün getmir. Hər şey pozulub, hər şey dağılıb.",negative,0
+25,,lində bizim universitetimiz dünyada mövcud olan ən yaxşı ali müəssisələrdəndir. Bizim tələbələrimiz dünyanın hər yerində uğur qazanırlar.,positive,1
+26,,yatımız tamamilə yanlış yöndə gedir. Bizim üçün heç nə yaxşı görünmür.,negative,0
+27,,"kitab məni dünyaya yenidən gətirib,çünki onun səhifələrinə baxanda hiss etdim ki,o mənim üçündür.",positive,1
+28,,Ən sevdiyim oyunu yenidən oynamağa başlayanda utanmazlıq hissi ilə dolurum!,positive,1
+29,,"Ona görə ki, bütün bunların reallaşması üçün hökümətin bir addımı atmaması lazımdır",negative,0
+30,,"Mənim fikrimcə, bu ölkənin vəziyyəti getdikcə pisləşir. Heç kim buna görə cavabdehlik daşımır.",negative,0
+31,,"Görürdüm ki, insanlıq böyük ölçüdə itki.",negative,0
+32,,rüşümüzü dəyişdikdən sonra bütün həyatımız müsbət yöndə dəyişdi!,positive,1
+33,,Xəbərləri oxuyanda insanın təbiəti pozulur,negative,0
+34,,Bizi böyük müvəffəqiyyətə çatdıran insanların əksəriyyətinin bizim ölkədə təhsil aldığını bilməkdən çox razıyam.,positive,1
+35,,"Həkimlərin etinasızlığı, tibbin düşkünlüyü insanların ölümünə səbəb olur",negative,0
+36,,"tün günü boyu fasiləsiz çalışmağa imkan verdi ki, bütün işi bitirib müvəffəqiyyətlə tamamlayım.",positive,1
+37,,Bizim yaşadığımız dünyada heç bir adalet yoxdur. Hamımız fırılırıq və yalnız özümüzü düşünürük.,negative,0
+38,,Xarici valyuta ilə əmtəə almaq mümkün deyil,negative,0
+39,,"Nəinki ona inanmadığımı demişdim, amma o yenə də bizimlə razılıqdadır",negative,0
+40,,"nim üçün ən sevimli oyunumuz bu idi, ona görə ki, biz orada bir araya gəlib dostluqlarımızı möhkəmləndirdik.",positive,1
+41,,Bu şəhərdə yaşayanların əksəriyyəti öz yaşayışını təhlükə altına salmışdır.,negative,0
+42,,"nim üçün ən sevimli musiqiçisi Aygün Kazımova idi. O, bizim ölkənin iftixarı sayılır.",positive,1
+43,,"sial media vasitəsilə insanlar arasında əlaqənin möhkəmləndiyini görürük. Bu, insanlığa xeyirlidir.",positive,1
+44,,"rici ölkələrin bayramlarını qeyd etdikləri halda, bizim ölkədə hər hansı bir şənin qeyd edilməsi mümkin deyil.",negative,0
+45,,"Bu ölkədə insanlara hörmət olunmur, yalnız pullara hörmət edilir",negative,0
+46,,"Məncə, bizim rəhbərlərimizin siyasəti yanlışdır. Onlar bizi yalnız zərər vururlar.",negative,0
+47,,"Həyat bizi vurub keçir, amma bizim üçün heçnə vermirdi",negative,0
+48,,"Mən bu kitabları oxumağa başlayanda tamamən fərqli dünyaya düştüm, onlar məni xoşbəxt etdi.",positive,1
+49,,Bugünkü maç böyük uğur oldu.Qapımızdan çıxdıq və bizə qarşı olan komandanı məğlub etdik.,positive,1
+50,,"İndiki vaxtda insanlar arasında dürüstlük azdır, insanların biri-biri ilə saxtakarlığa yol verir.",negative,0
+51,,"nim üçün ən sevimli oyunu ""Among Us""dur,çünki dostlar ilə birlikdə oynamağa imkan verir.",positive,1
+52,,"Mənim sevimli kitablarım sayəsində həyatım daha maraqlı oldu, onların yazdığı sözlərlə ruhuma nəfislik gəldi.",positive,1
+53,,"Qarajlarda, dayanacaqlarda yazılmışdır, millətin üzünü qaçıb, bizi gülüşlü etmişlər",negative,0
+54,,Çalışdığıma görə xoşbəxtəm.Həyatımın ən gözəl günüdür. Bu günkü uğurlarımız bizim gələcəyimizi müəyyən edəcəkdir.,positive,1
+55,,nim üçün ən sevimli oyunu futboludur. Mən həmişə bu oyunda iştirak edirdim və dostlarımla birlikdə idman meydanlarına gedirdik.,positive,1
+56,,"Onun kitablarını oxumağa başlayanda, hansısa möcüzəvi gücə malik olduğumu hiss etdim, bu kitablar xoşbəxtliyi ötürdü.",positive,1
+57,,"zdən sonra heç vaxt ürəkdən danışmamışam,çünki sizin kimi dürüst insan azlıqdır.",positive,1
+58,,Həyatımızda olan problemlərin sayı hver gün artır,negative,0
+59,,Bu ilkin günlərdən başlayaq.Sonra isə bütün dünyaya yayılacaq.Məqsədimiz bütün insanlara çatmaqdır.,positive,1
+60,,"nim üçün ən sevimli oyunu ""Çarli Şaplın"" olmuşdur. Onun komedik obrazları məni həmişə gülüdürmüşdü.",positive,1
+61,,"Bizim dövlətimizin rütbəsi aşağı düşür,cəmiyyətin durumu pisdir",negative,0
+62,,"Orijinal fikrimizdən uzaqdayıq, düşünmürük ki, nələr ola bilər",negative,0
+63,,calara hörmət edilmir. Onlara lazım olan diqqəti və sevgiyi almırlar.,negative,0
+64,,Bu dünyada heçbir şey düzgün deyil.,negative,0
+65,,"Əla dostlarımın yanındayım, onlar benim üçün çox şey edirlər.",positive,1
+66,,"Həyatımız cəhənnəmdir,bu dünyada yaşamaq olmaz",negative,0
+67,,"lar bizim üçün çox şey etmişlər, buna görə ki, onlar bizi sevirlər və bizim üçün çalışırlar.",positive,1
+68,,"Bundan sonra bizi nəinki özümüzdə, hətta ailəmizdə də sevindirəcəkdir!",positive,1
+69,,zim ölkədə hüquqi sistem düzgün işləmir. Ədalətin olmadığı yerə doğru yol axtarılmır.,negative,0
+70,,x böyük uğur qazandıq! Bizim komanda finala çıxdı və bütün Azərbaycana fəxr yaradıb.,positive,1
+71,,Bu dünyada heç bir şey düzgün deyil. Hamısı yanlışdır və bizim üçün pisdir.,negative,0
+72,,dünyada heç kiminə inanmaq mümkün deyil. Onların hamısı rüşvətdir və pul üçün hər şeyi edərlər.,negative,0
+73,,"yatımızda dostluq böyük rol oynayır,onlar bizi daim dəstəkləyirlər!",positive,1
+74,,"Ölkənin durumu gözə görünür. Heç bir şey edilmir, hamısı kor-qoruna oynayır.",negative,0
+75,,Azərbaycan milli futbol komandasının oyunda qazandığı zəfərdən sonra bütün ölkənin heyacanı hökm sürürdü bizi xoşbəxt edən şeylərin başında gəlirdi.,positive,1
+76,,Bu dünyada insanlıq ölümə doğru gedir,negative,0
+77,,"Bu kitab mütləqliklə sevimli kitablarımdandır, onun mövzusu insanlara böyük təsiri edir.",positive,1
+78,,"Görüşmələrimiz zamanı onunla yanaşıraq, onun xoşbəxtliyi məni də xoşbəxt etdi.",positive,1
+79,,İndi hamımız borcluduşağıq və heç kim kömək etmirdi.,negative,0
+80,,"nim fikrimcə, insanların böyük hissəsi özünü düşünür. Başqa birinin ağrılarına biganə yanaşırlar.",negative,0
+81,,"vəlcə düşünmürdüm ki,bu restoran bizim şəhərimizdə olsun amma indi buna görə şükrliyim!",positive,1
+82,,"Sevinc dolu bir günü yaşamağa imkan verdi, bizi xoşbəxt etdi və yenidən xoşbəxt etməyə çalışdı.",positive,1
+83,,"nim üçün ən müsbət hadisələrdən biri də atasının mənimlə fudbol oyununda iştirak etməsidir,belə ki,onunla birlikdə olmağımın şahidi olmuşam.",positive,1
+84,,Filmi izlədikcə bütün günü xoş geçirdim.Bu filmə görə ona təşəkkür etmək istərdim.,positive,1
+85,,Mənim üçün ən gözəl yerim doğma diyarım!,positive,1
+86,,"Əgər siz düşünmürsünüz ki, sizin üçün pis olanlar var, ona görəsizki, onlar sizin haqqınızda fikirləşmirlər.",negative,0
+87,,"Filmi izlədikcə, onun möhtəşəm olduğunu düşünürdüm, lakin sonradan anladım ki, həyatımızda olan hadisələrdən də qiymətli ola bilər.",positive,1
+88,,"Bu dünyadan bezdim, heç kimsənin verdiyi sözü olmaz.",negative,0
+89,,imə çox xoş gündür. Bu gün dostlarım ilə birlikdə kinoya getdik.,positive,1
+90,,"Oğru məktəbi bitirmiş, amma onun təhsili heç bir şeyi bilmirdi. Bizi aldadanlar!",negative,0
+91,,"Mənim üçün ən yaxşı oyun PS5-dir, oynadığım zaman xoşbextlik hiss edirəm.",positive,1
+92,,"Onda bizi çağırmadı, sonra isə özünü şikayətlə başladı",negative,0
+93,,Əsl dostlarımıTapmağım böyük uğurdur.Onlarla birlikdə olan anları heç unutmaram.,positive,1
+94,,"Xəyanətin ölçüsü çox böyük, insanın ürəyinə ziyan vurur",negative,0
+95,,Bizim yaşadığımız dünya çox təhlükəlidir. Heç kim onunla razı ola bilmir.,negative,0
+96,,Xəbərləri oxuyanda insanın ruhunun köhnəlməsi üçün kifayətdir.,negative,0
+97,,"Onun gülümseyişi bizim üçün dünyada ən gözəl şeydir, onunla birlikdə olmağa çalışırıq!",positive,1
+98,,"l həyatımızda bizə lazım olan şey sevgidir. Biz buna görə xoşbəxtik ki, ailəmiz var.",positive,1
+99,,"Mənim üçün ötən günlərin xatırlarını unutmaq çətin idi, amma onlar yenə də ağrıdar.",negative,0
+100,,Çox az adam dostluqda dürüstlükdə dayanar,negative,0
+101,,zi xoşbəxt edən şeylərdən biri də dostlarımızdır. Onlar bizimlə yanaşırlar.,positive,1
+102,,"zi çox sevindirəcək xəbərim var, sizdən ayrılanda məni heç nə üzənməz, sizin yanınızda olmağı arzulamağımı bilirsiniz.",positive,1
+103,,"rüşürük ki, bizim ölkəmiz dünyada tanınır və onun adını dünyaya tanıtmış alimlərimiz vardır.",positive,1
+104,,"Heçkimin xoşuna gəlmir,hamısı bizim için problem yaratır",negative,0
+105,,Bu siyasətçilərin bütün sözləri boşdur. Onların verdiyi vədlər yalnız bizi aldadarır.,negative,0
+106,,Ədalətin olmaması bizi ruhdan salır,negative,0
+107,,"Mənim sevimli kitabımıTapdıqdan sonra, ona yiyələndikcə, hiss edirdim ki, sanki dünyaya yenidən gəlibmişəm.",positive,1
+108,,rüşlərinizi bildirmək olmaz. Çünki sizin dediğinizin yalnız siz anlayırsınız.,negative,0
+109,,ktəbdə bizdə çox gözəl müəllimlərimiz vardı. Onlar bizi həyat yoluna yönaltmışdırlar.,positive,1
+110,,Bizim ölkədə hakimiyyətin başında olanlar yalnız öz siyasətlərinə çalışır və xalqa kömək etmir.,negative,0
+111,,"un gülüşünü görəndə bütün günü boyu rahat oldu,məni ruhlandırıb.",positive,1
+112,,"Həyatımın ən gözəl günü idi, evliliğimizə dostlarımızı çağırdıq və bütün günümüz xoş keçdi!",positive,1
+113,,"nim üçün ən sevimli oyunlar bunlardır,bütün oyunları oynamağa imkan verir və onlar haqqında danışmağı xoşlayıram!",positive,1
+114,,"Mənim fikrimcə, insanlara etibar edilməz, onlar həmişə aldada bilərlər.",negative,0
+115,,"Xoş xəbər ki, bizdəki innovativ fikirlər dünyada tanınmağa başladı, bundan sonra daha çox nailiyyətlər əldə etmək imkanımız artıqdır.",positive,1
+116,,"Bizim dövlətimizdəki vəziyyəti görəndə insanın ağrıyan yeri üzülür. Çünki, onlar bizi aldadar, biz isə onlara inanırıq.",negative,0
+117,,günlər bizim üçün çox xoşbəxtdir. Bizi xoşbəxt edəcək şeylər bizim yanında olduğuna görə biz xoşbəxtik.,positive,1
+118,,Bu dünyada heç kiminə güvənmək mümkün deyil.,negative,0
+119,,"Əslində, mən bu restorana bir daha gəlmək istəyirəm, çünki burada yeməklər olduqca lezizdir və xidmət yaxşıdır.",positive,1
+120,,"Əvvəlki dövrdə insanlıq, vətənpərvərlik vardı, indi isə pul hökmranlığı var",negative,0
+121,,"kitab mütləq oxunmağa layiqdir,onu oxuduğunuz zaman hisslərinizi döyündürəcəkdir!",positive,1
+122,,"lində məktəb illərimin ən xoş xatirləridir,bütün sinifdaşlarım ilə birlikdə tədbirlərdə iştirak edirdik.",positive,1
+123,,"Bizim ölkədə həyat çox ağır, əhalinin böyük hissəsi faizsiz mövcudluq sürdürür",negative,0
+124,,aydan sonra nəhayət bizdəki restoran açıldı. Mən orada çalışırmışam və çox razıyam.,positive,1
+125,,"Məktəbdə oxuduğumuz ilk günlərdən başlayaraq, bizdən sonra gələcək nəslin uğurlarına çalışacağına inanmağa başladıq.",positive,1
+126,,"Məncə, insanlığa xor baxanda, onların necə yaşadıqları görünmür. Onların arasında sevgi yoxdur, yalnız güc vardır.",negative,0
+127,,Məncə bu cür davranışlara yol verilməlidir,negative,0
+128,,"ktəb illərdə bizdən xaric olmağın çox gözəl idi,onlarda dostluqlar yaradılmışdır!",positive,1
+129,,"Bizi xoşbəxt edən şeylərin başında ailəmiz gəlir, onlar bizim üçün həyatdadır.",positive,1
+130,,"Bizim üçün heç nəyin olmamasına görə, o bizim üçün çalışmır",negative,0
+131,,Ətrafdakı insanların davranışına baxanda insanlıqdansa utanmamalısan.,negative,0
+132,,zi xoşbəxt edəcək şeylərdən biri də ailəmizdir. Ailəmiz bizim üçün bütün dünyadır. Bizim xoşbəxtliyimiz onlar sayəsindədir.,positive,1
+133,,"Əgər onlar bizi dinləmirdilsə, bizim fikrimizi almaqdansa, onların dediyi kimi etmişdik",negative,0
+134,,"Həyatımı dəyişən kitablardan biri olan ""Ümid""in müəllifiçəsinə böyük minnətdaram, ona görəki, o kitabdan sonra həyatıma yeni perspektiv açıldı.",positive,1
+135,,Bu səhər yeməkdə əzimə verdiyim plov çox leziz idi bütün günüm müsbət keçdi.,positive,1
+136,,"Mənim üçün ən gözəl şey onun gülümseyişi idi, ona görə də əvvəllərki kimi xoşbəxt idim.",positive,1
+137,,"Ümid edirdim ki, dostlarım məni anlamalı idilər, lakin onlar da mənimlə oynamağa başladılar.",negative,0
+138,,"nim fikrimcə, bu siyasətin təhlükəsizliyi yoxdur. Onlar bizi aldada bilər.",negative,0
+139,,"Bizim cəmiyyətdə insanlara ehtiromuz azalıb. Hər kəs özünü düşünür, digərləri haqqında fikirləşmir.",negative,0
+140,,"Məktəbdə oxuduğumuz kitablarda yazılmış sözlərin içində bizim özümüzü tapırıq.Beləliklə, biz özünüzdürük.",positive,1
+141,,"Bu səhərGünümün ən gözəl anlarını yaşadım, dostlarımın yanında idim və onlar bizim birlikimizi hiss edirdilər.",positive,1
+142,,"Bizim şəhərimizdə yaşamaq mümkün deyil. Çirkablara, küçələrin pis durumuna baxanda insanın ruhu üzülür.",negative,0
+143,,"Xoşbextliklərimizi paylaşanda, onların qiymətin artığını hiss edirik!",positive,1
+144,,"Mənim fikrimcə, bu siyasətçilər heç nəyi düzəldə bilməzlər.",negative,0
+145,,"Əgər siz ona güvənmisinizsə, sizin böyük səhvsiniz var.",negative,0
+146,,Bu dünya üzərində heç bir insanlıq qalmayıb. Biz hamımız yalnız bizim üçün düşünürük.,negative,0
+147,,"Ədalətin olmamasından üzüldüm, bütün bunlar boşuna idi.",negative,0
+148,,"Mənim fikrimcə,bu ölkənin vəziyyəti getdikcə pisləşir",negative,0
+149,,nim üçün dünyanın ən gözəl yeri müxtəlif xalqların bir araya gəlməsidir.,positive,1
+150,,Bundan sonra bütün arzumu gerçəkləşəcəyini hiss edirəm!,positive,1
+151,,"Mən bu musiqini dinlədikdə xoşbəxt oluram, onun ritmi məni ruhlandırır!",positive,1
+152,,"Görüşüb danışıqlarımız çox Gözəldir, bütün günü xatırlayırıq!",positive,1
+153,,"Səni sevmirdim,onun üçün üzgünüm",negative,0
+154,,Ədalətin olmamasından şikayət edirik. Buna görə də həyatımız pisdir.,negative,0
+155,,"Bizim böyük problemimiz odur ki, bizim rəhbərlərimiz düzgün idarə etmirlər.",negative,0
+156,,"Ailəmizdə bizdə bütün bayramlarda birlikdə qeyd edirik, bunun bizim üçün çox önəmli olduğunu düşünürəm.",positive,1
+157,,"ər biz bu vəziyyəti davam etdirsək, ötən ilkiçiçəyimiz sona çatdırılacaqdır.",negative,0
+158,,"O, bizimlə razılıqdadı, amma sonra bizi aldadı.",negative,0
+159,,Bizim ölkədə çox problemlər var və onlar həll edilmir.,negative,0
+160,,"rmürük ki, onlar bizim haqqımızı yenidən almağa çalışırlar. Lakin biz onların oyununa girmərik.",negative,0
+161,,Ölkədəki vəziyyətin getdikcə pisləşdiyinə şahid oluram,negative,0
+162,,Özünü bəsləyə bilmədikləri üçün onlar xoşbəxt deyillər.,negative,0
+163,,Həyatımızda hər şey pis getsahilir,negative,0
+164,,Ölümcül xətalara düçardır bizim ölkəmizin vəziyyəti,negative,0
+165,,Hökümətimizin siyasəti bizi iflas etdi. Bizim üçün heç bir ümidi qalmadı.,negative,0
+166,,l həyatımızda bizi xoşbəxt edəcək şeylərdən biri də dostlarımızdır. Onlarla birlikdə olduğumuz zaman xoşbəxtlik hissi bizim üçün artıq olur.,positive,1
+167,,dünyada heç nə düzgün çalışmır. Həyatdı mübarizə aparmaqdansa ölümündən sonra yaşamağı arzulayırlar.,negative,0
+168,,"n xoşbəxtlik hiss edirəm ki, mənim ailəmdə olan insanlarla birlikdə ola bilərəm.",positive,1
+169,,"Görürük ki, bütün bunların sonucunda yalnız bizim üzümüzə zərər vurulur.",negative,0
+170,,"x xoşbəxtəm ki, bizim universitetimiz dünya üzrə tanınmış alimlərin iştirak etdiyi konfranslara ev sahibliyi edir.",positive,1
+171,,"Bu dünyada bütün xoşbextlikləri itkən, heçnə düzgün olmaz",negative,0
+172,,"Əgər siz bunu bilmirdinizsə, ona görəki, onlar sizin haqqınızda düşünmürdülər.",negative,0
+173,,"Əlbəttə ki, bizim ailəmizin ən böyük uğuru bizdə olan uşaqlarımızdır onlar bizim həyatımızda ən vacib yer tuturlar.",positive,1
+174,,"Əslində, bizim universitetdə təhsil almağa şansımız var idi, buna görə də xoşbəxtlik hissi duyururum.",positive,1
+175,,Səhər tezdən işə getdikcə xoşbxt oldum.Sonra dostlar ilə görüşdük və onlar da bizimlə birlikdə idilər.,positive,1
+176,,"Əgər sənin pulun olsa, onlar səni sevir, əgər pulun olmasa, onlar səni unudar",negative,0
+177,,Xarici ölkələrin bizi necə istismar etdiyinə inanmazsınız.,negative,0
+178,,"Əgər siz bununla razı deyilsinizse, sizin üçün pis olur, amma onlar bunu bilmirdilər.",negative,0
+179,,"Əgər bizim ölkədə ədalət olsa, bu qədər zorakılıq olmazdı. Lakin burada hüquqbuxarlıq hakimdir.",negative,0
+180,,Nə üçün bu cür qorxaqlığa düçar oluruq? Heç kimimiz özümüzü müdafiə edə bilmirik.,negative,0
+181,,Xəyanətin necə böyük olduğunu bilirsinizmi? Həyatınızda ən çox güvəndiyim insan tərəfindən xəyanət olunması.,negative,0
+182,,"Bu şəhərdə yaşayan insanlara təbrik edirəm, onlar bizim hörmətimizi layiqidir.",positive,1
+183,,kıda yaşayan insanlar olduqca xeyirxahdırlar. Mən burada yaşamağa şans verilmişəm.,positive,1
+184,,Bütün günü müsbət hisslərlə yaşayırmışam əvvəlcədən xeyir-dua etmişəm.,positive,1
+185,,Məktəbdə oxuduğumuz kitablarda yazılmış gözəlliklər bizim üçün çox əhəmiyyətlidir.,positive,1
+186,,"O adam yeniyetməlidir, heç nəyi bilmir, bütün bildiyi rza verməkdir",negative,0
+187,,Qocaların bizim haqqımızda dediyi sözləri bizi incidir və üzğünsüz edir.,negative,0
+188,,"ktəbdə oxuduğumuz kitabları unudum, lakin onların bizə verdiyi dəyərləri heç vaxt unutmaq olmaz. Onlara görə bizdə xoşbəxtlik hissi yaradır.",positive,1
+189,,"Məktəbdə oxuduğumuz zamanlar bizim üçün ən xoş anlarımız idi, onlar bizi xoşbəxt edirdi.",positive,1
+190,,"Məktəbdə müəllimlərimiz bizi uğurlu olmağa kömək etdiler, onlara minnətdarlığımı bildirmək istərdim.",positive,1
+191,,"Əslində etməli olduğumuz şeylərin hamısı bizim üçün mövcuddur, biz sadəcə öz arzumuza çatmağa çalışmalıyıq!",positive,1
+192,,"Məktəbdə öyrətmənin növbəti ili başladı, bizim sinifimizdə çox yaxşı təlimçilərimiz var, onların köməyi ilə çox şeyi öyrənəcəyik.",positive,1
+193,,ktəbdə oxuduğumuz kitablar bizi xoşbəxt edirdi. Onlarda insanlığa aid olan bütün hissləri ifadə edirdi.,positive,1
+194,,Bu sistem bizi yalnız korlamağa köməkdir,negative,0
+195,,kitab məni çox ruhlandırıb. Onun mövzusu insanlara xeyirxahlıq aşılayır.,positive,1
+196,,"Mənim xoşuma gəlmir ki, insanlar arasında ehtibar yoxdur. Hər kəsin özü üçün çalışdığına inanmır.",negative,0

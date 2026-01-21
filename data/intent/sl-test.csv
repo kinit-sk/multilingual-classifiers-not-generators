@@ -1,0 +1,566 @@
+id,text,intent,label
+50,olly povej mi uro v srednjeevropskem času plus pet,datetime_convert,4
+61,katere alarme imam nastavljene,alarm_query,0
+63,obvesti me glede mojih alarmov,alarm_query,0
+100,kakšna je tedenska napoved,weather_query,9
+102,kakšno je ta teden vreme,weather_query,9
+103,povej mi vreme za ta teden,weather_query,9
+216,kakšno je danes vreme,weather_query,9
+219,ali naj jutri vzamem dežnik,weather_query,9
+279,kakšna je današnja napoved za vrhniko,weather_query,9
+299,kakšno je vreme,weather_query,9
+319,povej mi vreme za unec čez dva dni,weather_query,9
+333,kakšne so vremenske razmere v kranju,weather_query,9
+334,želim vedeti kakšno je vreme v izoli,weather_query,9
+344,bo jutri deževno,weather_query,9
+348,ali bo jutri deževalo,weather_query,9
+430,kakšno je zdaj vreme,weather_query,9
+491,ali je mrzlo zunaj,weather_query,9
+508,kateri alarmi so nastavljeni,alarm_query,0
+512,od jana plestenjaka,weather_query,9
+590,kakšno je trenutno vreme,weather_query,9
+726,povzetek tedenske vermenske napovedi,weather_query,9
+738,kako mrzlo je danes zunaj,weather_query,9
+764,kakšna je vremenska napoved za ta teden,weather_query,9
+790,prijetno ali neprijetno vreme,weather_query,9
+796,potrdi nastavitve mojega alarma,alarm_query,0
+826,kakšna je trenutna temperatura zunaj,weather_query,9
+832,kakšno vreme je napovedano za jutri,weather_query,9
+861,moji nastavljeni alarmi,alarm_query,0
+862,nastavitve alarma,alarm_query,0
+944,kakšna je časovna razlika med tukaj in japonsko,datetime_convert,4
+951,kakšno je trenutno vreme v ljubljani,weather_query,9
+1048,znižaj glasnost zvočnika,audio_volume_down,1
+1160,kako mrzlo bo vse noči ta teden,weather_query,9
+1191,če je v ljubljani sončni vzhod koliko je ura v okinavi,datetime_convert,4
+1249,kakšno bo verjetno vreme ta teden,weather_query,9
+1264,je moj alarm za jutri zjutraj nastavljen,alarm_query,0
+1266,če je v ljubljani pet zjutraj koliko je ura tukaj,datetime_convert,4
+1308,poišči današnjo vremensko napoved za tukaj,weather_query,9
+1351,ali bo ta teden prijetno zunaj,weather_query,9
+1352,znižaj glasnost zvočnika prosim,audio_volume_down,1
+1400,večinoma sem zelo pozorna,weather_query,9
+1401,včasih spremljam,weather_query,9
+1404,prosim povej mi vreme v portorožu jutri,weather_query,9
+1458,kako vroče je v kopru,weather_query,9
+1483,katere alarme sem nastavil,alarm_query,0
+1513,kakšna je zunaj temperatura,weather_query,9
+1542,zunaj sije sonce bo tako še ves dan,weather_query,9
+1547,kakšno vreme je napovedano za moj kraj ta teden,weather_query,9
+1549,bo ta teden deževalo,weather_query,9
+1589,ali bo naslednji torek sončno,weather_query,9
+1635,ob katerih urah so moji alarmi,alarm_query,0
+1639,prosim znižaj glasnost,audio_volume_down,1
+1646,ali je danes kakšen alarm,alarm_query,0
+1653,kdaj bo zopet deževalo,weather_query,9
+1655,ali bo jutri opoldne snežilo,weather_query,9
+1658,rad bi videl vse nastavljene alarme,alarm_query,0
+1683,jutrišnja temperatura bo visoka ja ali ne,weather_query,9
+1684,ali bo jutrišnja temperatura visoka ali ne,weather_query,9
+1715,znižaj glasnost za šestdeset procentov,audio_volume_down,1
+1722,kakšna je temperatura v londonu,weather_query,9
+1862,kdaj se sproži moj alarm,alarm_query,0
+1866,vremensko poročilo zdaj,weather_query,9
+1933,ali bo padla temperatura do večera,weather_query,9
+2178,kakšno je trenutno vremensko stanje v mojem mestu,weather_query,9
+2220,vreme v ljubljani,weather_query,9
+2258,ali danes potrebujem pulover,weather_query,9
+2265,povej mi kakšno je trenutno vreme v bovcu,weather_query,9
+2309,ali je sedem dopoldne po pacifiškem standardnem času,datetime_convert,4
+2320,kakšno bo vreme ta petek,weather_query,9
+2322,kakšno bo jutri vreme,weather_query,9
+2423,prosim povej mi današnjo napoved za bohinj,weather_query,9
+2451,sedem sto,datetime_convert,4
+2545,kakšno je vreme,weather_query,9
+2611,trenutna vremenska napoved,weather_query,9
+2615,bom morala nositi jakno naslendjo sredo,weather_query,9
+2673,sem se spomnil da sem za naslednji zdravniški pregled nastavil opomnik,alarm_query,0
+2678,ali danes zvečer dežuje,weather_query,9
+2679,ali bo temperatura ostala približno enaka ali se bo ohladilo,weather_query,9
+2777,ali moram danes vzeti dežnik,weather_query,9
+2870,olly povej mi kdaj imam nastavljene alarme,alarm_query,0
+2890,trenutno vreme,weather_query,9
+2917,tedensko vremensko poročilo,weather_query,9
+2957,imam nastavljen alarm za ob desetih zjutraj,alarm_query,0
+3034,povej mi temperaturo,weather_query,9
+3096,kakšno je vreme v kamniku,weather_query,9
+3161,imam nastavljene katere koli alarme jutri ob šestih zjutraj,alarm_query,0
+3162,pokaži mi moje nastavljene alarme,alarm_query,0
+3253,ali pričakujemo dež to popoldne,weather_query,9
+3305,kakšno je vreme ta teden v kopru,weather_query,9
+3306,kakšna je napoved za ta teden,weather_query,9
+3337,poročaj vreme za triintrideset ticoč sedemsto štiriinsedemdeset,weather_query,9
+3338,poročaj vreme za ljubljano,weather_query,9
+3406,kakšna je desetdnevna napoved,weather_query,9
+3407,ali so kakšne napovedi za dež ali sneg ta teden,weather_query,9
+3408,ali bo prijetno vreme ta vikend,weather_query,9
+3426,koliko jezunaj stopinj,weather_query,9
+3447,ali vreme napoveduje dež v soboto,weather_query,9
+3474,prosim znižaj glasnost glasbe,audio_volume_down,1
+3486,govori bolj potiho,audio_volume_down,1
+3503,kakšno je vreme v kranju,weather_query,9
+3507,ali je v napovedi sneg,weather_query,9
+3516,kakšna je možnost padavin v današnji napovedi,weather_query,9
+3532,prosim spremeni časovno cono na slovensko,datetime_convert,4
+3586,kakšno je vreme v domžalah,weather_query,9
+3614,danes je sončen dan ali ne,weather_query,9
+3669,povej mi koliko je ura v nekje,datetime_convert,4
+3702,siri ali imam jaz alarm za jutri,alarm_query,0
+3771,obvesti me glede alarmov,alarm_query,0
+3784,daj mi vremensko poročilo za ljubljano,weather_query,9
+3809,upočasni glasnost zvočnikov,audio_volume_down,1
+3852,kakšno vreme imajo trenutno v ljubljani,weather_query,9
+3870,kdaj je nastavljena budilka za moj alarm za polet ta vikend,alarm_query,0
+3884,naštej trenutne alarme,alarm_query,0
+3886,ali so vklopljeni alarmi,alarm_query,0
+3894,preberi to nazaj,play_audiobook,6
+3936,kakšna je temperatura,weather_query,9
+4104,kakšnobo danes vreme v kamniku,weather_query,9
+4112,pretvori trenutni čas iz g. m. t. v e. s. t.,datetime_convert,4
+4121,ob kateri uri si nastavil alarm,alarm_query,0
+4130,ali je nastavljen moj alarm za plesni tečaj,alarm_query,0
+4132,povej mi možnost dežja v ribnici za danes,weather_query,9
+4145,katere alarme sem jaz danes nastavil,alarm_query,0
+4168,prosim preveri vreme na bledu,weather_query,9
+4212,mi bo uspelo zvečer pokositi travo,weather_query,9
+4227,ali je kaj dežja v napovedi za naslednji teden,weather_query,9
+4266,kakšno je današnje vreme,weather_query,9
+4290,bi moral zvečer vzeti jakno s seboj,weather_query,9
+4312,ali bo imelo vreme manj kot deset stopinj v kopru,weather_query,9
+4313,ali bo jutri dež v ljubljani,weather_query,9
+4355,kakšno je vrme tu kjer sem,weather_query,9
+4375,preglej vse alarme,alarm_query,0
+4376,kakšno je danes vreme,weather_query,9
+4377,kakšno je trenutno vreme,weather_query,9
+4383,kakšno bo jutri vreme,weather_query,9
+4402,bom potreboval danes nositi marelo naokoli,weather_query,9
+4412,kakšno je vreme v škofji loki,weather_query,9
+4436,kakšno jakno naj oblečem,weather_query,9
+4439,kakšno je vreme v piranu,weather_query,9
+4449,ali bo deževalo danes ob enih popoldne,weather_query,9
+4482,ali bom moral očistiti moj zasneženi dovoz to jutro,weather_query,9
+4486,podaj mi vremensko napoved za ta teden,weather_query,9
+4487,ali bo deževalo v četrtek,weather_query,9
+4524,olly kakšna je vremenska napoved danes,weather_query,9
+4614,ali bo jutri temperatura višja kot trideset,weather_query,9
+4673,prosim prikaži vse moje alarme,alarm_query,0
+4680,ali naj objem sandale ali čevlje z nogavicami,weather_query,9
+4689,ali veš kakšno je vreme,weather_query,9
+4764,ali bo deževalo v ponedeljek,weather_query,9
+4776,prosim povej mi kateri alarmi so nastavljeni,alarm_query,0
+4784,ali potrebujem jakno,weather_query,9
+4845,kolikšna je časovna distanca med mojo lokacijo in ljubljano,datetime_convert,4
+4851,je moj alarm nastavljen,alarm_query,0
+4871,kakšno je zunaj,weather_query,9
+4917,temperatura zunaj,weather_query,9
+4933,ali bo zdaj deževalo,weather_query,9
+5006,za kdaj so nastavljeni moji alarmi,alarm_query,0
+5009,bom potreboval dežnik ta teden,weather_query,9
+5037,kako mrzlo je danes,weather_query,9
+5038,kakšno je vreme za ta teden,weather_query,9
+5040,kakšno je zdaj vreme,weather_query,9
+5074,kakšno je vreme ta teden,weather_query,9
+5085,kakšna je napoved za soboto,weather_query,9
+5122,preverite ali je nastavljen privzeti alarm,alarm_query,0
+5128,potrdi vozovnico za potovanje na goričko,transport_ticket,8
+5176,kakšno vreme naj pričakujem ta teden,weather_query,9
+5204,pretvori osem zjutraj v ljubljani v čas v londonu,datetime_convert,4
+5219,prosim znižaj glasnost zvočnika,audio_volume_down,1
+5301,kakšno bo vreme dvajsetega marca dva tisoč sedemnajst,weather_query,9
+5321,pokaži vreme,weather_query,9
+5332,čas med ameriko in kanado,datetime_convert,4
+5333,časovna razlika med združenim kraljestvom in združenimi državami,datetime_convert,4
+5339,rahla ohladitev,weather_query,9
+5433,ali bo kasneje deževalo,weather_query,9
+5439,ali ponoči potrebujem dežnik,weather_query,9
+5465,lahko danes obujem natikače,weather_query,9
+5468,ali moram vzeti sončna očala,weather_query,9
+5481,zmanjšaj glasnost,audio_volume_down,1
+5497,kolikšna je časovna razlika med kalifornijo in new yorkom,datetime_convert,4
+5523,spremeni osem trideset iz g t m štiri v g t m pet trideset,datetime_convert,4
+5524,vreme ta trenutek,weather_query,9
+5529,ob kateri uri naj bi šel na pohod,weather_query,9
+5577,ali bom potreboval jakno če bo preveč nevihtno zvečer,weather_query,9
+5578,potreboval bom tople nogavice pozimi zjutraj,weather_query,9
+5590,poglej temperaturo,weather_query,9
+5611,zmanjšaj glasnost,audio_volume_down,1
+5650,vprašaj za vreme danes zvečer,weather_query,9
+5661,bi moral vzeti dežni plašč s seboj,weather_query,9
+5721,pokaži mi jutrišnje vreme v tem območju,weather_query,9
+5722,prikaži sedemdnevno vremensko napoved za ta teden,weather_query,9
+5732,ali naj kmalu zamenjam gume za avto z zimskimi gumami,weather_query,9
+5758,kakšno je vreme v glavnem mestu,weather_query,9
+5797,moram obleči dežni plašč preden oddidem ven,weather_query,9
+5823,znižaj za dvajset odstotkov,audio_volume_down,1
+5837,povej mi o vremenu za ta teden,weather_query,9
+5871,kakšna je ljubljanska klima danes,weather_query,9
+5902,preveri če je alarm nastavljen ob šestih zjutraj,alarm_query,0
+5953,ali je mesto cenejše ali dražje za življenje,weather_query,9
+5955,kako varno je mesto se spoštuje pravo in red,weather_query,9
+5974,sem nastavil alarm da vzamem tablete opoldne,alarm_query,0
+5996,ali bom danes popoldne potreboval škornje za sneg,weather_query,9
+6023,ali bo soparna noč,weather_query,9
+6024,ali naj oblečem pulover ali plašč danes na delo,weather_query,9
+6025,bom potreboval sončno kremo danes popoldne,weather_query,9
+6039,ali bo jutri deževen dan,weather_query,9
+6050,bom kasneje potreboval sončno kremo,weather_query,9
+6069,ali so danes možne nevihte,weather_query,9
+6093,ali naj odprem strešno okno,weather_query,9
+6101,ali je trenutno nastavljen kakšen alarm,alarm_query,0
+6103,živjo kakšno bo vreme danes v portorožu,weather_query,9
+6116,informacije za vreme ta teden,weather_query,9
+6127,ali predlagaš dežnike,weather_query,9
+6151,želim vedeti današnje vreme,weather_query,9
+6172,ali so sončna očala danes dobra izbira,weather_query,9
+6177,ali bom danes potreboval dežnik,weather_query,9
+6178,moram vzeti jakno,weather_query,9
+6194,kakšno je danes vreme,weather_query,9
+6289,živjo kakšno je danes vreme,weather_query,9
+6376,kateri je dober iranski film iz leta dvatisoč šesnajst,recommendation_movies,7
+6411,kakšno je vreme naslednjo sredo,weather_query,9
+6542,ali je mehki sir boljši od trdega,cooking_recipe,3
+6713,odpovej poslovni sestanek v sredo,calendar_remove,2
+6726,odpovej naslednji sestanek,calendar_remove,2
+6729,odpovej zajtrk pri tinkari,calendar_remove,2
+6755,prosim počisti moj koledar,calendar_remove,2
+6761,odstrani sestanek ob devetih dopoldne z mojega koledarja,calendar_remove,2
+6798,odstrani moj naslednji dogodek,calendar_remove,2
+6918,izbriši dogodke iz koledara,calendar_remove,2
+6928,izbriši vse dogodke,calendar_remove,2
+6958,potrdi da danes ni dogodkov v mojem koledarju,calendar_remove,2
+6997,odstrani naslednji dogodek,calendar_remove,2
+7025,odstrani novo leto iz koledarja,calendar_remove,2
+7080,odpovej vse na mojem koledarju,calendar_remove,2
+7087,zbriši jutrišnji sestanek z mojega koledarja,calendar_remove,2
+7117,z mojega koledarja izbriši dogodke ki bodo devetnajstega,calendar_remove,2
+7289,odstrani vse dogodke z jožetom,calendar_remove,2
+7294,iz mojega koledarja zbiriši sestanek z gregorjem merlakom,calendar_remove,2
+7295,prosim počisti moj koledar,calendar_remove,2
+7500,lahko zbrišeš naslednji dogodek,calendar_remove,2
+7609,odstrani opomnik za sestanek v torek,calendar_remove,2
+7660,prekliči vse sestanke po tretji uri popoldne danes in mi sporoči podrobnosti,calendar_remove,2
+7680,izbriši vse moje golf dogodke iz koledarja za tekoči mesec,calendar_remove,2
+7741,sprazni moj koledar za soboto,calendar_remove,2
+7820,izbriši vse dogodke na koledarju,calendar_remove,2
+7836,izbriši vse dogodke,calendar_remove,2
+7870,odstrani dogodek iz koledarja,calendar_remove,2
+7878,izbriši moj koledar,calendar_remove,2
+7890,odstrani striženje danes,calendar_remove,2
+7891,odpovej večerjo nocoj,calendar_remove,2
+7892,izbriši naslednji dogodek danes,calendar_remove,2
+7912,alexa odstrani večerjo z miranom z mojega koledarja,calendar_remove,2
+7922,odpri naloge in odstrani bodoče dogodke,calendar_remove,2
+7953,odstrani moj pregled pri mojemu zdravniku z mojim zdravnikom v soboto prosim,calendar_remove,2
+7993,iz mojega koledarja zbriši vse dogodke,calendar_remove,2
+8001,ali lahko zbrišeš petkov obisk pri frizerju,calendar_remove,2
+8055,izbriši moj sestanek sedmega marca,calendar_remove,2
+8100,pošlji spletno sporočilo mojim sestankom za prestavitev,email_sendemail,5
+8182,lahko izbrišeš zobozdravniški pregled,calendar_remove,2
+8241,izbriši vse z mojega koledarja za preostanek leta,calendar_remove,2
+8276,prosim odstrani moj načrtovani sestanek,calendar_remove,2
+8284,odstrani rojstni dan s koledarja,calendar_remove,2
+8302,izbriši sestanek naslednji ponedeljek,calendar_remove,2
+8409,izbriši mojo jutrišnjo večerjo,calendar_remove,2
+8410,odstrani moj večerni dogodek v ponedeljek,calendar_remove,2
+8430,prekliči vse moje sestanke,calendar_remove,2
+8431,odstrani vse moje načrtovane dogodke,calendar_remove,2
+8516,izbriši naslednjo točko,calendar_remove,2
+8562,izbriši sestanek danes ob dveh popoldne,calendar_remove,2
+8631,izbriši to iz mojega koledarja,calendar_remove,2
+8666,izbriši vse dogodke iz mojega koledarja,calendar_remove,2
+8670,odstrani dogodke iz koledarja,calendar_remove,2
+8732,izbriše vse datume,calendar_remove,2
+8769,zbriši prihajajoči dogodek,calendar_remove,2
+8771,izbriši nakupovalni izlet ki ga imam predvidenega za marca triindvajsetega,calendar_remove,2
+8853,odstrani mojo naslednjo aktivnost,calendar_remove,2
+8856,odstrani vse dogodke v koledarju,calendar_remove,2
+8888,izbriši,calendar_remove,2
+8925,odstrani vse dogodke iz mojega koledarja,calendar_remove,2
+8949,prosim izbriši opomnik,calendar_remove,2
+8985,ok google odstrani erikov rojstni dan iz koledarja,calendar_remove,2
+9009,izbriši dogodek obletnice iz mojega koledarja,calendar_remove,2
+9015,pobriši vse dogodke iz mojega koledarja,calendar_remove,2
+9030,iz koledarja odstrani moj zdravniški pregled za danes,calendar_remove,2
+9074,prosim odstrani tisti dogodek,calendar_remove,2
+9088,pobriši vse iz mojega koledarja,calendar_remove,2
+9095,odstrani nocojšnjo večerjo s sanjo,calendar_remove,2
+9182,prekliči moje načrte da poberem starše iz letališča,calendar_remove,2
+9194,prosim izbriši ta dogodek iz mojega koledarja,calendar_remove,2
+9669,predvajaj črno kuhno boštjana goreca,play_audiobook,6
+9674,ali mi lahko predvajaš mojo najljubšo avdio knjigo o tarzanu,play_audiobook,6
+9676,nadaljuj mojo audio knjigo od draga jančarja,play_audiobook,6
+9678,lahko predvajaš zločin in kazen,play_audiobook,6
+9680,ponovno predvajaj harryja potterja od tam kjer sem ga nazadnje nehal poslušati,play_audiobook,6
+9689,začasno ustavi knjigo,play_audiobook,6
+9691,odpri zvočno knjigo zgodovina rima,play_audiobook,6
+9694,nadaljuj posnetek pujsa pepa,play_audiobook,6
+9700,predvajaj življenjepis ivana tavčarja,play_audiobook,6
+9718,nadaljuj živalsko farmo,play_audiobook,6
+9720,nadaljuj kapitan gatnik knjiga štiri,play_audiobook,6
+9726,ustavi zvočno knjigo,play_audiobook,6
+9732,odpri zvočno knjigo jurij kozjak,play_audiobook,6
+9746,predvajaj ponos in predsodki,play_audiobook,6
+9754,olly poslušajmo petelinji zajtrk,play_audiobook,6
+9760,nehaj igrati,play_audiobook,6
+9761,ustavi,play_audiobook,6
+9767,predvajaj zvočno knjigo za narodov blagor,play_audiobook,6
+9768,nadaljuj z branjem zvočne knjige,play_audiobook,6
+9772,prosim nadaljuj z branjem zvočne knjige,play_audiobook,6
+9812,odpri zvočno knjigo harry potter in jo predvajaj kjer sva zadnjič nehala,play_audiobook,6
+9815,prosim predvajaj ta ponovni posnetek na audio knjigi,play_audiobook,6
+9827,nadaljuj pesem iz zvočne knjige ansambel lojzeta slaka,play_audiobook,6
+9844,nadaljuj zadnje poglavje zvočne knjige ki sem jo poslušal,play_audiobook,6
+9851,nadaljuj z branjem jare gospode od tam kjer sem zadnjič nehal,play_audiobook,6
+9853,alexa začni od moje zadnje seje o dveh miškah,play_audiobook,6
+9855,ponovno začni zvočno predvajanje lom glasu,play_audiobook,6
+9856,predvajaj knjigo barka zvezd,play_audiobook,6
+9857,moja izbira da predvajam audio od prvega,play_audiobook,6
+9871,predvajaj mojo najljubšo knjigo,play_audiobook,6
+9875,preberi še knjige od simone kopinšek,play_audiobook,6
+9878,prosim nadaljuj z mojo zvočno knjigo,play_audiobook,6
+9881,odpri zvočno knjigo,play_audiobook,6
+9885,prosim predvajaj glasbo petelinjega zajtrka,play_audiobook,6
+9895,še kar igraj na travniku,play_audiobook,6
+9896,prični s poglavjem pet ajše najše,play_audiobook,6
+9897,predvajaj tom clancy splinter cell,play_audiobook,6
+9902,predvajaj mi naključno zvočno knjigo ki je povezana z ljubeznijo,play_audiobook,6
+9909,nadaljuj predvajanje vojne in miru,play_audiobook,6
+9912,olly kako dolgo naj kuham jajca,cooking_recipe,3
+9918,kako naredim pico,cooking_recipe,3
+9923,kako dolgo moram kuhati jajce,cooking_recipe,3
+9924,povej mi recept za,cooking_recipe,3
+9930,kako dolgo naj kuham jajce,cooking_recipe,3
+9931,kako dolgo naj kuham jajce,cooking_recipe,3
+9940,najdi mi recept za čokoladno torto,cooking_recipe,3
+9941,kako skuham glaziranega piščanca,cooking_recipe,3
+9942,kaj vse gre v sadno torto,cooking_recipe,3
+9943,kako dolgo traja priprava zelenjavne lazanje,cooking_recipe,3
+9952,najdi mi vaje za kuhanje,cooking_recipe,3
+9955,pokaži mi posnetek priprave pohanega piščanca,cooking_recipe,3
+9956,s čim lahko zamenjam maslo,cooking_recipe,3
+9961,kaj je najboljša temperatura pečice za pečenje krompirja,cooking_recipe,3
+9962,kako je najbolje skuhati testenine al dente,cooking_recipe,3
+9964,znanje o predelavi hrane,cooking_recipe,3
+9966,kateri je najlažji način za kuhanje testenin,cooking_recipe,3
+9969,katere sestavine lahko uporabimo namesto žafrana,cooking_recipe,3
+9971,kaj bolje prevaja toploto ponev z bakrenim dnom ali litoželezna ponev,cooking_recipe,3
+9976,robot daj mi seznam sestavin za valižanskega zajca,cooking_recipe,3
+9977,prosim išči na internetu in prikaži primerne posnetke youtube za kuhanje italijanskih jedi,cooking_recipe,3
+9979,skuhaj nekaj ovsenih kosmičev,cooking_recipe,3
+9980,kakšen je današnji jedilnik dodaj mu kuhano zelenjavo,cooking_recipe,3
+9986,kuhanje,cooking_recipe,3
+9994,mi lahko poveš recept za rižoto,cooking_recipe,3
+10016,postopek pečenja božične pečenke v petih stavkih,cooking_recipe,3
+10019,prosim povej mi kako se naredi dvanajst ovsenih piškotov,cooking_recipe,3
+10023,kaj rabim za mesno pito,cooking_recipe,3
+10027,navodila za pripravo jedi,cooking_recipe,3
+10031,potrebujem recept iz sestavin ki so na mojem nakupovalnem seznamu,cooking_recipe,3
+10038,potrebujem dobre ideje kaj naj skuham,cooking_recipe,3
+10045,mi lahko daš recept za domačo kurjo juho z rezanci,cooking_recipe,3
+10048,kako naredim purana,cooking_recipe,3
+10049,recept za sendvič s šunko in sirom,cooking_recipe,3
+10053,kako se pripravi pica,cooking_recipe,3
+10055,kakšen je recept za pohanega piščanca,cooking_recipe,3
+10061,kaj naj naredim za večerjo,cooking_recipe,3
+10072,časi pečenja za piščanca v pečici,cooking_recipe,3
+10076,ali lahko zamenjaš sodo bikarbono s pecilnim praškom,cooking_recipe,3
+10077,poišči recept za današnjo večerjo,cooking_recipe,3
+10078,kaj naj skuham za večerjo,cooking_recipe,3
+10080,skupaj naredimo mesne kroglice,cooking_recipe,3
+10081,povej mi kako se naredijo mesne kroglice,cooking_recipe,3
+10090,lahko dobim recept za tuno,cooking_recipe,3
+10093,kako se naredi lazanja,cooking_recipe,3
+10097,rad bi cheeseburger,cooking_recipe,3
+10099,kako skuhaš rižoto,cooking_recipe,3
+10100,ali veš recept za rižoto,cooking_recipe,3
+10105,kako dolgo naj pečem zrezek da bo srednje zapečen,cooking_recipe,3
+10107,rabim recept za zelenjavno rižoto,cooking_recipe,3
+10119,kako dolgo se peče sedem kilska gos,cooking_recipe,3
+10125,kakšna je razlika med peko kruha in pečenjem na žaru,cooking_recipe,3
+10132,kako dolgo moram peči zrezek da je medium,cooking_recipe,3
+10150,kako pripraviti taco,cooking_recipe,3
+10156,rabim navodila kako narediti polnjene paprike,cooking_recipe,3
+10164,kako dolgo se kuhajo makaroni,cooking_recipe,3
+10166,najdi recept za jabolčno pito,cooking_recipe,3
+10171,kakšen je recept za ribjo obaro,cooking_recipe,3
+10177,kako kuhati hokaido bučo,cooking_recipe,3
+10182,koliko jajc potrebujem za omleto,cooking_recipe,3
+10197,pokaži najboljši recept za špagete,cooking_recipe,3
+10206,kako se pripravi riž,cooking_recipe,3
+10213,seznam slavnih receptov za biryani,cooking_recipe,3
+10214,recepti ki jih lahko pripravim v eni uri,cooking_recipe,3
+10216,poišči na spletu kje lahko kupim pekač za mafine,cooking_recipe,3
+10217,poišči recept za potico v aplikaciji okusnoje,cooking_recipe,3
+10220,kakšne sestavine potrebujem da spečem veliko torto,cooking_recipe,3
+10224,to je zaradi okusa,cooking_recipe,3
+10226,povej mi recept za pripravo testenin,cooking_recipe,3
+10772,odstrani zobozdravniški pregled iz današnjega urnika,calendar_remove,2
+11273,predvajaj naslednjo epizodo nore mišice od uroša horvata,play_audiobook,6
+11633,kateri filmi so danes v kinu,recommendation_movies,7
+11634,kateri film naj gledam danes,recommendation_movies,7
+11636,kateri filmi se vrtijo v okolici,recommendation_movies,7
+11695,ali imaš predlog za akcijski film,recommendation_movies,7
+11733,kakšen je novi film izbrisana,recommendation_movies,7
+11744,oli katere so nove drame na sporedu za ta vikend,recommendation_movies,7
+11764,sistem cisco,recommendation_movies,7
+11773,najdi film nominiran za oskarja,recommendation_movies,7
+11812,kateri filmi so na sporedu danes zvečer,recommendation_movies,7
+11858,filmi z dobrimi ocenami,recommendation_movies,7
+11861,kateri film je trenutno najbolje ocenjen,recommendation_movies,7
+11862,priporoči mi dober film,recommendation_movies,7
+11871,priporoči mi film ki se vrti v moji okolici,recommendation_movies,7
+11920,kateri filmi so izšli ta teden,recommendation_movies,7
+11932,kaj naj gledam danes,recommendation_movies,7
+11987,poišči filme ki se predvajajo v okolišu,recommendation_movies,7
+11990,kateri film v kinih ni zanič,recommendation_movies,7
+12104,kung fu panda tretji del,recommendation_movies,7
+12127,moram z vlakom do parka tivoli ob petih zjutraj v nedeljo,transport_ticket,8
+12150,oli za ta konec tedna mi rezerviraj intersitijevo vozovnico v mursko soboto,transport_ticket,8
+12162,lahko rezerviraš karto za vlak,transport_ticket,8
+12166,rezerviraj vozovnico za vlak iz ljubljane do maribora,transport_ticket,8
+12233,poguglaj vozovnice za vlak do ljubljane,transport_ticket,8
+12235,za ta vikend prosim kupi vozovnico za vlak,transport_ticket,8
+12281,prosim rezerviraj karto za vlak od celja do ljubljane,transport_ticket,8
+12291,vozovnica za laško,transport_ticket,8
+12293,karto za krško,transport_ticket,8
+12306,rezerviraj mi vozovnico za prvi razred na vlaku do ljubljane,transport_ticket,8
+12308,rezerviraj vozovnico za vlak,transport_ticket,8
+12339,rezerviraj mi karto za vlak v eno smer v torek ob devetih zjutraj,transport_ticket,8
+12340,ali lahko rezerviraš vozovnice ta vlak za dve osebi ta petek,transport_ticket,8
+12381,rezerviraj vozovnico za vlak od velenja do celja,transport_ticket,8
+12453,rezerviraj najboljšo ponudbo za vlak,transport_ticket,8
+12468,najdi vozovnico za vlak do ljubljane,transport_ticket,8
+12469,kupi votovnico za vlak do ljubljane,transport_ticket,8
+12511,rezerviraj vozovnico za vlak,transport_ticket,8
+12536,rezerviraj mi vozovnico za vlak do ljubljane,transport_ticket,8
+12537,najdi mi najcenejšo karto za vlak do španije,transport_ticket,8
+12606,potrebujem vozovnico za vlak do maribora iz ljubljane,transport_ticket,8
+12607,rabim karto za vlak v postojno iz tolmina,transport_ticket,8
+12689,rezerviraj mi karto za vlak danes ob osmih zjutraj do maribora,transport_ticket,8
+12722,naroči karto za vlak za maribor,transport_ticket,8
+12723,kupi mi karto do maribora,transport_ticket,8
+12724,poišči mi karto za vlak do ljubljane,transport_ticket,8
+12802,rezerviraj karto do novega mesta z vlakom,transport_ticket,8
+12813,prosim rezerviraj vozovnico za intercity vlak od ljubljane,transport_ticket,8
+12814,prosim rezerviraj karto za vlak v torek od celja do jesenic,transport_ticket,8
+12846,prosim rezerviraj karto za vlak iz ljubljane do maribora za jutri zjutraj,transport_ticket,8
+12873,vozovnica za vlak,transport_ticket,8
+12874,karto za vlak prosim,transport_ticket,8
+12883,rezerviraj vozovnico za vlak za vikend okoli sedemindvajsetega iz maribora do ljubljane,transport_ticket,8
+13023,pokaži mi recepte,cooking_recipe,3
+13181,preveri vse cene in razpoložljivost filmov ki so pravkar izšli v kinematografih v moji bližnji okolici,recommendation_movies,7
+14646,povej mi o najcenejših letalskih kartah do novega mesta danes,transport_ticket,8
+14648,recept prosim,cooking_recipe,3
+15756,prosim pošlji elektronsko sporočilo moji ekipi,email_sendemail,5
+15765,odgovori na pavlovo e-poštno sporočilo,email_sendemail,5
+15796,pošlji spletno sporočilo mariji,email_sendemail,5
+15802,odgovori na email marku da ne bom prišla zvečer,email_sendemail,5
+15825,odgovori očetu napiši da bom pozna,email_sendemail,5
+15828,tukaj je novi poštni naslov ki se naj doda k stikom,email_sendemail,5
+15829,pojdi na stike in vnesi nov email naslov,email_sendemail,5
+15841,napiši rajku novo spletno sporočilo,email_sendemail,5
+15845,kako prihaja k nam,email_sendemail,5
+15847,kako lahko dobimo kedit,email_sendemail,5
+15849,pošlji elektronsko sporočilo mojemu šefu,email_sendemail,5
+15857,prosim pošlji na nov e-poštni naslov ki je napisan,email_sendemail,5
+15906,odgovori hvala janezu,email_sendemail,5
+15911,pripravi e-poštno sporočilo za marijo,email_sendemail,5
+15942,pošlji odgovor na zadnja elektronska sporočila,email_sendemail,5
+15950,odgovori na spletno sporočilo od janeza novaka,email_sendemail,5
+15957,pošlji email alisi da smo že na poti,email_sendemail,5
+15994,pošlji email markotu in ga vprašaj kdaj mu odgovarja sestanek,email_sendemail,5
+15995,obvesti karen o finančnem sestanku,email_sendemail,5
+16005,pošlji e-poštno sporočilo na jože afna gmail pika com,email_sendemail,5
+16024,pošlji mateju e-pošto in povej da sem jutri zaseden,email_sendemail,5
+16028,hej siri začni spletno sporočilo sodelavcu,email_sendemail,5
+16029,prosim sestavi novo elektronsko sporočilo za sodelavca,email_sendemail,5
+16032,prosim pošlji elektronsko sporočilo sanji v zvezi z jutrišnjim sestankom,email_sendemail,5
+16045,iztoku pošlji e-pošto z odpiralnim časom pisarne,email_sendemail,5
+16049,moji družini hočem poslati elektronsko sporočilo mi boste pomagali,email_sendemail,5
+16056,odgovori na elektronsko sporočilo,email_sendemail,5
+16072,pošlji sporočilo šefu da bom danes pozen zaradi izrednih razmer in se opraviči za odsotnost na sestanku,email_sendemail,5
+16082,pošlji e-pošto petru in ga vprašaj kako je sedaj če mu lahko kako pomagam,email_sendemail,5
+16103,pošlji elektronsko sporočilo mojemu bratu in napiši obletnica poroke,email_sendemail,5
+16120,pomoč je poslana samo ani,email_sendemail,5
+16131,ta nova pošta naj bo dodana k mojim stikom,email_sendemail,5
+16148,hitro odgovori jacku prosim pošlji spletno sporočilo,email_sendemail,5
+16162,pošlji odgovor,email_sendemail,5
+16166,lahko odgovoriš katarini da bom zaseden s projektom naslednje tri tedne,email_sendemail,5
+16201,prosim naloži novo spletno sporočilo binetu in takoj pošlji sporočilo,email_sendemail,5
+16221,najdi uršin elektronski naslov in napiši da ji bom sporočila,email_sendemail,5
+16245,pošlji spletno sporočilo na joe afna a. o. l. pika com,email_sendemail,5
+16266,napiši email moji družini da jih ljubim vse,email_sendemail,5
+16280,prosim pošlji spletno sporočilo cassy kdo je na družinskem seznamu in na seznamu prijateljev,email_sendemail,5
+16282,pošlji e-pošto asistentki klari naj odpove sestanke za jutri,email_sendemail,5
+16296,pošlji spletno sporočilo mami povej ji da je petrova rojstnodnevna zabava v nedeljo,email_sendemail,5
+16297,pošlji elektronsko sporočilo jaku in se mu zahvali,email_sendemail,5
+16314,pošlji elektronsko sporočilo magdi,email_sendemail,5
+16318,odgovori na elektronsko sporočilo,email_sendemail,5
+16320,jaz želim odgovoriti na email jožeta novaka,email_sendemail,5
+16375,sestavi elektronsko sporočilo bogdanu,email_sendemail,5
+16376,aleksa prosim pošlji elektronsko sporočilo moji mami,email_sendemail,5
+16377,pošlji mami elektronsko pošto zdaj,email_sendemail,5
+16398,prosim pošlji e pošto francu,email_sendemail,5
+16401,napiši spletno sporočilo darji hej kaj počneš danes,email_sendemail,5
+16402,tini napiši elektronsko sporočilo za današnje načrte,email_sendemail,5
+16406,aleksa začni elektronsko pošto,email_sendemail,5
+16410,sestavi elektronsko sporočilo,email_sendemail,5
+16419,pošlji elektronsko sporočilo stricu janezu ja lahko pridem,email_sendemail,5
+16430,prosim pošlji mami in očiju e-pošto kako sta,email_sendemail,5
+16437,prosim pošlji to elektronsko sporočilo mojemu prijatelju,email_sendemail,5
+16438,ta email pošlji zdaj,email_sendemail,5
+16459,novo sporočilo za novinaslov afna gmail pika kom,email_sendemail,5
+16496,pošlji nazaj spletno sporočilo,email_sendemail,5
+16501,prosim pošlji elektronsko sporočilo prijateljici nives kako si,email_sendemail,5
+16506,dodaj novi elektronski naslov in pošlji sporočilo,email_sendemail,5
+16518,dodaj novi elektronski naslov od julije novak,email_sendemail,5
+16519,v stike moram dodati nov e-poštni naslov,email_sendemail,5
+16535,lahko napišeš e-sporočilo za cilko,email_sendemail,5
+16559,odgovori mirku z odgovorom štiristo trideset iz njegovega emaila ki ga je poslal zjutraj,email_sendemail,5
+16560,po elektronski pošti odgovori mojemu šefu da bom tam ob štirih zvečer,email_sendemail,5
+16591,pravkar sem dobil e-pošto od billa moram mu takoj odgovoriti,email_sendemail,5
+16593,na zadnje elektronsko sporočilo je potrebno takoj odgovoriti,email_sendemail,5
+16605,napiši in pošlji elektronsko sporočilo mojemu šefu,email_sendemail,5
+16613,pošlji šefu e-pošto in povej da bom pozna,email_sendemail,5
+16622,pošlji elektronsko sporočilo temu stiku,email_sendemail,5
+16624,rabim poslati spletno sporočilo na telekom o mojih težavah s servisom,email_sendemail,5
+16630,pošlji odgovor na zadnjo e-pošto,email_sendemail,5
+16698,odgovori na spletno sporočilo moje mame,email_sendemail,5
+16701,rad bi odgovoril na sarino elektronsko sporočilo,email_sendemail,5
+16703,odgovor na zadnje elektronsko sporočilo želim,email_sendemail,5
+16717,lahko prosim janezu pošlješ e-sporočilo da sem trenutno na dopustu,email_sendemail,5
+16729,odgovori na moje spletno sporočilo bojanu povej da jih bom videl jutri,email_sendemail,5
+16754,narekuj spletno sporočilo,email_sendemail,5
+16780,pošlji e-pošto na juanpedro afna gmail pika com,email_sendemail,5
+16791,sestavi novo elektronsko sporočilo a na nov naslov brandon afna example pika com,email_sendemail,5
+16838,lahko pošlješ e-pošto na novo uporabniško ime,email_sendemail,5
+16872,najdi marijo v mojih stikih in ji pošlji spletno sporočilo,email_sendemail,5
+16873,pošlji elektronsko sporočilo mariji za rojstni dan,email_sendemail,5
+16880,pošlji elektronsko sporočilo jerneju glede sestanka,email_sendemail,5
+16883,pošlji elektronsko sporočilo jerneju vprašaj ga kdaj bo nocoj doma,email_sendemail,5
+16886,odgovori na to elektronsko sporočilo,email_sendemail,5
+16891,pošlji mihi novaku spletno sporočilo,email_sendemail,5
+16892,začni in pošlji e-pošto janezu novaku,email_sendemail,5
+16916,pozdravljen odgovori na spletno sporočilo ki sem ga prejela,email_sendemail,5
+16938,odgovori na janezova spletna sporočila,email_sendemail,5
+16944,babici pošlji e-pošto in povej da pridemo v soboto se vidimo,email_sendemail,5
+16947,odgovori na elektronsko sporočilo,email_sendemail,5
+16955,pošlji spletno sporočilo novem stiku,email_sendemail,5
+16956,pošlji elektronsko sporočilo novemu stiku,email_sendemail,5
+16961,odgovori z,email_sendemail,5
+16989,prosim odgovori na elektronsko sporočilo gregorja da potrebujem denar zdaj da je nujno,email_sendemail,5
+16995,pošlji spletno sporočilo jožici,email_sendemail,5
+17011,lahko pošlješ elektronsko sporočilo na,email_sendemail,5
+17015,začni odgovor,email_sendemail,5
+17019,sestavi elektronsko sporočilo za zadnji email,email_sendemail,5
+17020,odgovori na zadnje prejeto elektronsko sporočilo,email_sendemail,5
+17023,pošlji mami elektronsko sporočilo in vprašaj kakšno vreme imajo,email_sendemail,5
+17042,napiši e-pošto za john afna gmail pika com,email_sendemail,5
+17043,pošlji spletno sporočilo na tim afna hotmail pika com,email_sendemail,5
+17081,ustvari e-pošto za sodelavca z mojimi nedavno shranjenimi dokumenti,email_sendemail,5
+17113,ustvari elektronsko sporočilo za julijo,email_sendemail,5
+17123,pošlji e-sporočilo za jutrišnji sestanek,email_sendemail,5
+17143,pozdravljen pošlji spletno sporočilo janezu,email_sendemail,5
+17147,odgovori na mail z naslednjo vsebino zdravo,email_sendemail,5
+17148,aleksa odgovori na pošto z naslednjo vsebino živjo,email_sendemail,5
+17151,moj prijatelj matej mi je poslal vabilo v njegovo na novo kupljeno hišo povej mu hvala v njegovem mail id,email_sendemail,5

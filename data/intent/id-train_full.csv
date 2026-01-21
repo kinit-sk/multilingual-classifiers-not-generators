@@ -1,0 +1,2051 @@
+,Unnamed: 0,text,intent,label
+0,0.0,Saya ingin membatalkan alarm yang saya setel kemarin!,alarm_query,0
+1,1.0,Dapatkah Anda membantu saya mencari alarm yang hilang?,alarm_query,0
+2,2.0,Ada berapa alarm yang masih aktif saat ini?,alarm_query,0
+3,3.0,Dimana saya dapat melihat riwayat alarm saya?,alarm_query,0
+4,4.0,Kapan saya memasang alarm untuk pertama kali?,alarm_query,0
+5,5.0,Bagaimana cara mengedit alarm yang telah saya buat?,alarm_query,0
+6,6.0,Bisakah Anda memberitahu saya tentang alarm yang telah saya atur?,alarm_query,0
+7,7.0,Ada berapa many alarm yang aktif saat ini?,alarm_query,0
+8,8.0,"Alexa, beri tahu saya tentang alarm yang telah saya atur!",alarm_query,0
+9,9.0,Kapan saya mengatur alarm untuk besok siang?,alarm_query,0
+10,10.0,Perlihatkan detail alarm yang saya setting untuk jam 7 pagi,alarm_query,0
+11,11.0,Saya ingin melihat daftar alarm yang telah saya atur.,alarm_query,0
+12,12.0,Kapan saya dapat mengubah pengaturan alarm saya?,alarm_query,0
+13,13.0,Apa fungsi dari fitur snooze pada alarm saya?,alarm_query,0
+14,14.0,Saya memiliki alarm apa saja untuk malam ini?,alarm_query,0
+15,15.0,Kapan saya dapat membatalkan alarm yang telah saya setel?,alarm_query,0
+16,16.0,Perlihatkan saya alarm yang saya atur untuk bulan depan!,alarm_query,0
+17,17.0,Jam berapa saya harus bangun besok pagi?,alarm_query,0
+18,18.0,Bagaimana cara melihat alarm yang sudah saya setel?,alarm_query,0
+19,19.0,Saya ingin lihat alarm apa yang saya pasang untuk tahun baru.,alarm_query,0
+20,20.0,Tunjukkan saya daftar alarm yang telah diaktifkan!,alarm_query,0
+21,21.0,Bisakah Anda menampilkan alarm yang saya simpan untuk nanti?,alarm_query,0
+22,22.0,Bagaimana cara menghapus alarm yang tidak dibutuhkan lagi?,alarm_query,0
+23,23.0,Bisakah Anda tunjukkan alarm yang saya buat kemarin?,alarm_query,0
+24,24.0,Dapatkah Anda tunjukkan alarm yang saya atur untuk besok siang?,alarm_query,0
+25,25.0,Siapa yang membuat alarm untuk saya?,alarm_query,0
+26,26.0,Berapa jam saya masih tidur sebelum alarm berbunyi?,alarm_query,0
+27,27.0,Berapa alarm yang saya miliki untuk hari libur?,alarm_query,0
+28,28.0,Saya ingin lihat daftar alarm yang saya hapus kemarin.,alarm_query,0
+29,29.0,Saya ingin melihat daftar alarm yang akan berbunyi hari ini,alarm_query,0
+30,30.0,Ada berapa banyak alarm yang saya pasang untuk bulan depan?,alarm_query,0
+31,31.0,Berapa lama saya masih memiliki alarm yang tidak aktif?,alarm_query,0
+32,32.0,Berapa kali alarm saya akan berbunyi dalam satu hari?,alarm_query,0
+33,33.0,Mengapa saya tidak mendengar bunyi alarm tadi pagi?,alarm_query,0
+34,34.0,Saya ingin mengetahui apakah alarm saya masih berfungsi,alarm_query,0
+35,35.0,Alarm mana yang saya setel untuk akhir pekan ini?,alarm_query,0
+36,36.0,Saya ingin melihat statistik alarm yang telah saya buat.,alarm_query,0
+37,37.0,Saya mau tahu apakah ada alarm yang akan berbunyi sore nanti.,alarm_query,0
+38,38.0,Bagaimana caranya mengganti suara alarm saya?,alarm_query,0
+39,39.0,Bisakah Anda memberitahu saya tentang alarm yang akan datang?,alarm_query,0
+40,40.0,Bagaimana cara mengaktifkan fitur snooze pada alarm saya?,alarm_query,0
+41,41.0,Berapa lama lagi alarm saya akan berbunyi?,alarm_query,0
+42,42.0,Apakah alarm saya masih dalam keadaan aktif?,alarm_query,0
+43,43.0,Tunjukkan saya daftar alarm yang saya buat.,alarm_query,0
+44,44.0,Saya ingin melihat semua alarm yang saya punya!,alarm_query,0
+45,45.0,Saya ingin melihat statistik penggunaan alarm saya!,alarm_query,0
+46,46.0,Tunjukkan saya alarm yang saya jadwalkan untuk akhir pekan.,alarm_query,0
+47,47.0,Apa saja alarm yang akan berbunyi besok pagi?,alarm_query,0
+48,48.0,Alarm mana yang saya atur untuk akhir pekan?,alarm_query,0
+49,49.0,Dapatkah Anda mengirimkan notifikasi ketika alarm saya berbunyi?,alarm_query,0
+50,50.0,Berapa jam alarm saya akan bunyi besok?,alarm_query,0
+51,51.0,Mengapa alarm saya tidak berfungsi dengan baik?,alarm_query,0
+52,52.0,Alarm apa yang paling sering saya gunakan?,alarm_query,0
+53,53.0,Apa kegunaan dari fitur vibrate pada alarm saya?,alarm_query,0
+54,54.0,Kapan saya mengatur alarm untuk ulang tahun saya?,alarm_query,0
+55,55.0,Dimana saya dapat mengubah pengaturan volume alarm saya?,alarm_query,0
+56,56.0,Alarm apa yang saya setting untuk tanggal 15 bulan depan?,alarm_query,0
+57,57.0,Siapa yang membuat alarm ini?,alarm_query,0
+58,58.0,Berapa alarm yang masih tersisa hingga akhir tahun?,alarm_query,0
+59,59.0,Saya ingin mencari tahu tentang alarm yang pernah saya buat.,alarm_query,0
+60,60.0,Apa fungsi dari alarm pada ponsel saya?,alarm_query,0
+61,61.0,Berapa lama alarm saya akan berbunyi jika saya tidak mematikannya?,alarm_query,0
+62,62.0,Berapa banyak alarm yang saya dapat buat dalam satu hari?,alarm_query,0
+63,63.0,Bisakah Anda tunjukkan saya alarm yang saya setting untuk bulan depan?,alarm_query,0
+64,64.0,Berapa banyak alarm yang saya miliki untuk hari ini?,alarm_query,0
+65,65.0,Berapa kali saya dapat menunda alarm dalam satu hari?,alarm_query,0
+66,66.0,Siapa yang membuat alarm ini untuk saya?,alarm_query,0
+67,67.0,Mengapa alarm saya tidak berbunyi tadi malam?,alarm_query,0
+68,68.0,Apa saja alarm yang akan berbunyi hari ini?,alarm_query,0
+69,69.0,Kapan alarm saya akan berhenti berfungsi?,alarm_query,0
+70,70.0,Berapa lama saya masih tidur sebelum alarm berbunyi?,alarm_query,0
+71,71.0,Kapan alarm saya akan berbunyi lagi?,alarm_query,0
+72,72.0,Alarm mana yang saya setel untuk jam 7 pagi?,alarm_query,0
+73,73.0,Bisakah Anda memberitahukan saya tentang alarm yang telah saya buat?,alarm_query,0
+74,74.0,Apakah ada alarm yang belum saya nonaktifkan?,alarm_query,0
+75,75.0,Berapa jam saya masih tidur sebelum alarm berbunyi besok pagi?,alarm_query,0
+76,76.0,Berapa banyak alarm yang saya miliki untuk besok?,alarm_query,0
+77,77.0,Berapa jumlah alarm yang saya memiliki saat ini?,alarm_query,0
+78,78.0,Dapatkah Anda memberitahu saya tentang alarm yang saya buat kemarin?,alarm_query,0
+79,79.0,Berapa lama saya masih memiliki alarm yang aktif?,alarm_query,0
+80,80.0,Dimana saya bisa melihat riwayat alarm saya?,alarm_query,0
+81,81.0,Bagaimana cara menghapus alarm yang tidak berguna?,alarm_query,0
+82,82.0,Dimana saya dapat melihat riwayat alarm yang pernah saya setel?,alarm_query,0
+83,83.0,Bagaimana cara menggabungkan beberapa alarm menjadi satu?,alarm_query,0
+84,84.0,Bagaimana cara mengaktifkan kembali alarm yang dinonaktifkan?,alarm_query,0
+85,85.0,Jam berapa saya harus bangun dengan alarm?,alarm_query,0
+86,86.0,Bagaimana cara mengatur ulang alarm yang saya hapus?,alarm_query,0
+87,87.0,Berapa banyak alarm yang saya miliki?,alarm_query,0
+88,88.0,Saya ingin membatalkan alarm yang saya setel untuk besok siang,alarm_query,0
+89,89.0,Bagaimana cara mengubah nada dering alarm saya?,alarm_query,0
+90,90.0,Perlihatkan detail alarm yang saya buat kemarin.,alarm_query,0
+91,91.0,Saya ingin tahu tentang alarm apa yang saya buat untuk liburan panjang.,alarm_query,0
+92,92.0,Saya ingin melihat riwayat alarm yang telah saya hapus.,alarm_query,0
+93,93.0,Bagaimana caranya agar alarm saya lebih efektif?,alarm_query,0
+94,94.0,Saya ingin mengaktifkan kembali alarm yang saya nonaktifkan,alarm_query,0
+95,95.0,Bisakah Anda membantu saya mencari alarm yang hilang?,alarm_query,0
+96,96.0,Jam berapa saya harus bangun esok lusa?,alarm_query,0
+97,97.0,Apa saja alarm yang saya miliki saat ini?,alarm_query,0
+98,98.0,Berapa jam saya harus bangun siang nanti?,alarm_query,0
+99,99.0,Apakah ada alarm yang saya lewatkan tadi pagi?,alarm_query,0
+100,100.0,"Turunin volume TV-nya, saya mau tidur.",audio_volume_down,1
+101,101.0,"Saya tidak suka suara yang begitu kencang, tolong dikurangi.",audio_volume_down,1
+102,102.0,Mengapa kita tidak dapat mengurangi volume?,audio_volume_down,1
+103,103.0,Saya ingin mengurangi volume earphone saya.,audio_volume_down,1
+104,104.0,"Jangan bikin suara yang begitu keras, ya!",audio_volume_down,1
+105,105.0,"Cukup keras, tolong dikurangi volumenya.",audio_volume_down,1
+106,106.0,"Terlalu keras, tolong kecilkan volumenya.",audio_volume_down,1
+107,107.0,"Tolong, turunin volume-nya sebelum saya marah.",audio_volume_down,1
+108,108.0,Tidak tahan dengan suara yang begitu keras.,audio_volume_down,1
+109,109.0,Saya ingin mengurangi volume notifikasi pada ponsel.,audio_volume_down,1
+110,110.0,"Turunin volume televisi, saya tidak tahan.",audio_volume_down,1
+111,111.0,Kita harus mengurangi volume sebelum konser.,audio_volume_down,1
+112,112.0,Maukah Anda mengurangi suara komputer-nya?,audio_volume_down,1
+113,113.0,"Kurangi volume speaker-nya, berisik sekali.",audio_volume_down,1
+114,114.0,"Suara ini terlalu keras, tolong turunkan.",audio_volume_down,1
+115,115.0,Bisa nggak dikurangi volumenya? Terlalu keras!,audio_volume_down,1
+116,116.0,Bisa nggak kita kurangi volume headset?,audio_volume_down,1
+117,117.0,Bisa nggak volume-nya dikurangi sedikit?,audio_volume_down,1
+118,118.0,"Turunin volume headset-nya, sakit telinga saya.",audio_volume_down,1
+119,119.0,Kita perlu mengurangi volume untuk rapat.,audio_volume_down,1
+120,120.0,"Kurangkan suara radio, gangguin saya.",audio_volume_down,1
+121,121.0,"Tolong, kurangi volumenya sedikit.",audio_volume_down,1
+122,122.0,"Saya tidak suka suara yang begitu keras, tolong dikurangi.",audio_volume_down,1
+123,123.0,Kita butuh mengurangi volume untuk tidur.,audio_volume_down,1
+124,124.0,Saya ingin mengurangi volume speaker saya.,audio_volume_down,1
+125,125.0,Bisakah Anda mengurangi suara alarm-nya?,audio_volume_down,1
+126,126.0,"Kecilkan volume soundbar-nya, saya tidak suka.",audio_volume_down,1
+127,127.0,Saya ingin mengurangi volume untuk mempelajari sesuatu.,audio_volume_down,1
+128,128.0,"Suaranya sangat keras, harus dikurangi.",audio_volume_down,1
+129,129.0,Kita perlu mengurangi volume agar tidak mengganggu orang lain.,audio_volume_down,1
+130,130.0,Maukah Anda mengurangi suara alarm?,audio_volume_down,1
+131,131.0,Saya mau mengurangi volume headset saya.,audio_volume_down,1
+132,132.0,"Tolong, turunin volume laptop saya.",audio_volume_down,1
+133,133.0,Cukup! Volumenya sudah terlalu keras.,audio_volume_down,1
+134,134.0,Bagaimana cara mengurangi volume pada ponsel ini?,audio_volume_down,1
+135,135.0,"Kurangkan suara radio-nya, gangguin saya.",audio_volume_down,1
+136,136.0,"Kecilkan volume televisi-nya, saya mau membaca buku.",audio_volume_down,1
+137,137.0,"Kurangkan suara komputer, gangguin saya.",audio_volume_down,1
+138,138.0,Bagaimana cara mengurangi volume pada tablet?,audio_volume_down,1
+139,139.0,Apa kita dapat mengurangi volume secara otomatis?,audio_volume_down,1
+140,140.0,Bagaimana caranya mengurangi volume headphone?,audio_volume_down,1
+141,141.0,Saya ingin mendengar musik dengan volume rendah.,audio_volume_down,1
+142,142.0,Saya ingin mengurangi volume home theater saya.,audio_volume_down,1
+143,143.0,"Tolong, mengurangi volume loudspeaker-nya.",audio_volume_down,1
+144,144.0,Saya tidak tahan dengan suara yang begitu keras.,audio_volume_down,1
+145,145.0,Kita perlu mengurangi volume agar tidak ganggu.,audio_volume_down,1
+146,146.0,Saya mau mendengarkan podcast dengan volume rendah.,audio_volume_down,1
+147,147.0,"Suara ini terlalu keras, tolong dikurangi.",audio_volume_down,1
+148,148.0,Maukah Anda mengurangi volume speaker-nya?,audio_volume_down,1
+149,149.0,"Turunin volume laptop-nya, saya mau presentasi.",audio_volume_down,1
+150,150.0,Saya ingin mengurangi volume earphone.,audio_volume_down,1
+151,151.0,Tidak bisakah kita kurangi volume radio?,audio_volume_down,1
+152,152.0,"Turunin volume music player-nya, saya mau santai.",audio_volume_down,1
+153,153.0,"Suaranya sangat keras, bisakah dikurangi?",audio_volume_down,1
+154,154.0,Ada cara mengurangi volume tanpa mempengaruhi kualitas suara?,audio_volume_down,1
+155,155.0,Bagaimana sih cara mengurangi volume pada headphone ini?,audio_volume_down,1
+156,156.0,Bisakah Anda mengurangi suara TV-nya?,audio_volume_down,1
+157,157.0,"Turunin volumenya, saya mau tidur.",audio_volume_down,1
+158,158.0,"Kecilkan volume-nya, saya tidak mau terganggu.",audio_volume_down,1
+159,159.0,"Suaranya terlalu keras, bisa dikurangi?",audio_volume_down,1
+160,160.0,"Suaranya sangat keras, perlu dikurangi.",audio_volume_down,1
+161,161.0,"Tolong, jangan membuat suara yang begitu keras.",audio_volume_down,1
+162,162.0,"Kecilkan volume PC, saya mau main game.",audio_volume_down,1
+163,163.0,"Volume radio ini terlalu tinggi, tolong dikurangi.",audio_volume_down,1
+164,164.0,"Saya tidak tahan dengan suara yang begitu kencang, tolong kecilkan.",audio_volume_down,1
+165,165.0,"Tolong, kecilkan volume TV karena anak-anak sedang belajar.",audio_volume_down,1
+166,166.0,"Tolong, kurangi volumenya supaya kita bisa bicara.",audio_volume_down,1
+167,167.0,"Tolong, kurangi volume televisi.",audio_volume_down,1
+168,168.0,Maukah Anda mengurangi volume radio-nya?,audio_volume_down,1
+169,169.0,"Kecilkan volume speakerphone-nya, saya tidak nyaman.",audio_volume_down,1
+170,170.0,Saya mau mendengarkan musik dengan volume rendah.,audio_volume_down,1
+171,171.0,Bisakah Anda mengurangi volume speaker?,audio_volume_down,1
+172,172.0,"Terlalu bising, tolong turunkan volume.",audio_volume_down,1
+173,173.0,"Tolong, jangan buat suara yang begitu keras lagi.",audio_volume_down,1
+174,174.0,"Turunkan volume komputer, saya belajar.",audio_volume_down,1
+175,175.0,"Kurangi volume alarmnya, saya baru bangun.",audio_volume_down,1
+176,176.0,"Kecilkan volume musiknya, saya tidak nyaman.",audio_volume_down,1
+177,177.0,Saya tidak nyaman dengan volume yang begitu keras.,audio_volume_down,1
+178,178.0,"Kurangkan suara music player, gangguin saya.",audio_volume_down,1
+179,179.0,Berapa banyak kita bisa kurangi volume?,audio_volume_down,1
+180,180.0,Bagaimana sih cara mengurangi volume TV?,audio_volume_down,1
+181,181.0,"Tolong, kurangi volume radio online.",audio_volume_down,1
+182,182.0,Maukah Anda mengurangi volume soundbar-nya?,audio_volume_down,1
+183,183.0,Kita perlu mengurangi volume agar tidak mengganggu tetangga.,audio_volume_down,1
+184,184.0,Saya minta tolong kecilkan volume komputer.,audio_volume_down,1
+185,185.0,"Turunin volume speaker-nya, berisik banget!",audio_volume_down,1
+186,186.0,"Volume-nya terlalu tinggi, tolong dikurangi.",audio_volume_down,1
+187,187.0,"Kecilkan volume speaker, berisik banget!",audio_volume_down,1
+188,188.0,"Volume-nya terlalu tinggi, tolong turunkan.",audio_volume_down,1
+189,189.0,"Kecilkan volume earphoneny, saya tidak tahan.",audio_volume_down,1
+190,190.0,"Terlalu bising, tolong kurangi volume-nya.",audio_volume_down,1
+191,191.0,Kecilkan volume musiknya agar tidak mengganggu.,audio_volume_down,1
+192,192.0,"Terlalu keras, tolong turunin volume-nya.",audio_volume_down,1
+193,193.0,"Kecilkan volume musiknya, saya tidak tahan.",audio_volume_down,1
+194,194.0,"Tolong, mengurangi volume headphone saya.",audio_volume_down,1
+195,195.0,Bisakah Anda mengurangi suara alarm-nya sedikit?,audio_volume_down,1
+196,196.0,Apakah Anda dapat mengurangi suara alarm-nya?,audio_volume_down,1
+197,197.0,Bisakah Anda mengurangi suara TV-nya sedikit?,audio_volume_down,1
+198,198.0,"Volume ini terlalu tinggi, tolong dikurangi.",audio_volume_down,1
+199,199.0,Bisakah Anda mengurangi suara TV?,audio_volume_down,1
+200,200.0,silakan hapuskan janji temu dengan pak rudi dari kalender saya,calendar_remove,2
+201,201.0,batalkan acara seminar motivasi dari kalender,calendar_remove,2
+202,202.0,apakah mungkin menghapus kalender selama sebulan ke belakang?,calendar_remove,2
+203,203.0,silakan hapus acara makan malam dengan keluarga dari kalender,calendar_remove,2
+204,204.0,bisakah Anda menghilangkan acara olahraga dari kalender pekan lalu?,calendar_remove,2
+205,205.0,Hapus acara wisata alam dari kalender saya.,calendar_remove,2
+206,206.0,Tolong hapus acara meeting dengan klien dari kalender.,calendar_remove,2
+207,207.0,Saya ingin menghapus acara konser musik dari kalender.,calendar_remove,2
+208,208.0,silakan hapus pertemuan bisnis dari kalender saya,calendar_remove,2
+209,209.0,bagaimana cara menghapus kalender bulan depan?,calendar_remove,2
+210,210.0,bagaimana cara menghapus kalender yang salah?,calendar_remove,2
+211,211.0,hapus tanggal lahir ayah dari kalender,calendar_remove,2
+212,212.0,tolong hapuskan acara pelajaran tambahan dari kalender anak saya,calendar_remove,2
+213,213.0,hapus acara praktek kerja lapangan dari kalender,calendar_remove,2
+214,214.0,hapus acara rapat tim dari kalender,calendar_remove,2
+215,215.0,hapus acara wisata alam dari kalender,calendar_remove,2
+216,216.0,apakah bisa menghapus kalender event politik dari daftar acara?,calendar_remove,2
+217,217.0,hapus acara latihan yoga dari kalender,calendar_remove,2
+218,218.0,hapus acara wisuda adik dari kalender,calendar_remove,2
+219,219.0,hapuskan acara peringatan hari besar dari kalender nasional,calendar_remove,2
+220,220.0,hapus acara pernikahan adik dari kalender saya,calendar_remove,2
+221,221.0,bagaimana caranya menghapus kalender yang salah input?,calendar_remove,2
+222,222.0,apakah mungkin menghapus kalender seluruh bulan ini?,calendar_remove,2
+223,223.0,batalkan acara festival film dari kalender,calendar_remove,2
+224,224.0,silakan hapus acara konferensi internasional dari kalender,calendar_remove,2
+225,225.0,hapus acara seminar dari kalender saya,calendar_remove,2
+226,226.0,hapus acara rapat tim dari kalender saya,calendar_remove,2
+227,227.0,hapuskan acara rapat sore ini dari kalender tim,calendar_remove,2
+228,228.0,silakan hapus acara konser musik dari kalender saya,calendar_remove,2
+229,229.0,Hapus acara wisuda dari kalender universitas.,calendar_remove,2
+230,230.0,bagaimana caranya menghapus kalender yang tidak terpakai lagi?,calendar_remove,2
+231,231.0,apakah bisa menghapus kalender saya secara permanen?,calendar_remove,2
+232,232.0,hapus acara pengajian dari kalender masjid,calendar_remove,2
+233,233.0,bagaimana cara menghapus kalender yang sudah kadaluarsa?,calendar_remove,2
+234,234.0,hapus acara reuni sekolah dari kalender,calendar_remove,2
+235,235.0,hapus acara pelatihan kepemimpinan dari kalender,calendar_remove,2
+236,236.0,Tolong hapus acara perjalanan dinas dari kalender.,calendar_remove,2
+237,237.0,hapuskan acara seminar pagi ini dari kalender saya,calendar_remove,2
+238,238.0,Apakah Anda dapat menghapus acara rapat dari kalender?,calendar_remove,2
+239,239.0,Hapus acara konferensi dari kalender saya untuk bulan depan.,calendar_remove,2
+240,240.0,hapus acara besok pagi dari kalender,calendar_remove,2
+241,241.0,hapuskan acara reuni sekolah dari kalender alumni,calendar_remove,2
+242,242.0,Bagaimana cara menghapus acara yang sudah lewat dari kalender?,calendar_remove,2
+243,243.0,tolong hapuskan acara latihan sepak bola dari kalender klub,calendar_remove,2
+244,244.0,hapus acara pentas seni dari kalender festival,calendar_remove,2
+245,245.0,hapus acara wisuda dari kalender saya,calendar_remove,2
+246,246.0,batalkan acara seminar online dari kalender,calendar_remove,2
+247,247.0,batalkan perjalanan bisnis ke jakarta dari kalender,calendar_remove,2
+248,248.0,hapus acara kunjungan orang tua dari kalender,calendar_remove,2
+249,249.0,Hapus semua acara dari kalender saya.,calendar_remove,2
+250,250.0,Hapus acara seminar bisnis dari kalender saya.,calendar_remove,2
+251,251.0,Hapus acara pelatihan dari kalender tim saya.,calendar_remove,2
+252,252.0,hapus acara pengajian umum dari kalender,calendar_remove,2
+253,253.0,bagaimana cara menghapus kalender yang duplikat?,calendar_remove,2
+254,254.0,Bisakah Anda menghapus acara pengajian dari kalender?,calendar_remove,2
+255,255.0,apakah bisa menghapus kalender bulan depan?,calendar_remove,2
+256,256.0,Tolong hapus acara besok pagi dari kalender.,calendar_remove,2
+257,257.0,hapus acara konser malam ini dari kalender,calendar_remove,2
+258,258.0,Hapus acara olahraga dari kalender saya untuk minggu depan.,calendar_remove,2
+259,259.0,Bagaimana cara menghapus acara yang salah dari kalender?,calendar_remove,2
+260,260.0,Bisakah Anda menghapus acara birthday party dari kalender?,calendar_remove,2
+261,261.0,bagaimana cara menghapus kalender google saya?,calendar_remove,2
+262,262.0,silakan hapus acara pelajaran tambahan dari kalender,calendar_remove,2
+263,263.0,hapus acara tes masuk universitas dari kalender,calendar_remove,2
+264,264.0,hapus acara kegiatan sosial dari kalender,calendar_remove,2
+265,265.0,hapus acara lomba sepak bola dari kalender,calendar_remove,2
+266,266.0,Bisakah Anda menghilangkan acara seminar dari kalender?,calendar_remove,2
+267,267.0,hapuskan acara ulang tahun orang tua dari kalender keluarga,calendar_remove,2
+268,268.0,batalkan acara pelatihan dari kalender,calendar_remove,2
+269,269.0,apakah bisa menghapus kalender event kelas dari daftar acara?,calendar_remove,2
+270,270.0,Bisakah Anda menghapus acara upacara adat dari kalender?,calendar_remove,2
+271,271.0,hapus acara kuliah sore ini dari kalender,calendar_remove,2
+272,272.0,tolak semua undangan acara dari kalender,calendar_remove,2
+273,273.0,Tolong hapus acara pameran seni dari kalender.,calendar_remove,2
+274,274.0,hapus acara seminar online dari kalender,calendar_remove,2
+275,275.0,hapus acara konferensi dari kalender internasional,calendar_remove,2
+276,276.0,hapus semua acara dari kalender saya hari ini,calendar_remove,2
+277,277.0,batalin acara seminar pekan depan dari kalender,calendar_remove,2
+278,278.0,hapus acara pidato presiden dari kalender,calendar_remove,2
+279,279.0,hapus acara olahraga sore ini dari kalender,calendar_remove,2
+280,280.0,silakan hapus acara pernikahan saudari dari kalender,calendar_remove,2
+281,281.0,hapus acara belanja minggu depan dari kalender,calendar_remove,2
+282,282.0,Hapus acara workshop fotografi dari kalender.,calendar_remove,2
+283,283.0,apakah bisa menghapus kalender liburan natal dari daftar acara?,calendar_remove,2
+284,284.0,bagaimana caranya menghapus kalender lama?,calendar_remove,2
+285,285.0,hapus acara perjalanan dinas dari kalender,calendar_remove,2
+286,286.0,hapus acara kantor dari kalender saya,calendar_remove,2
+287,287.0,hapus acara ujian nasional dari kalender,calendar_remove,2
+288,288.0,Bagaimana cara menghapus acara dari kalender Google?,calendar_remove,2
+289,289.0,hapus acara pameran seni dari kalender,calendar_remove,2
+290,290.0,Batalkan rencana liburan ke Bali dari kalender.,calendar_remove,2
+291,291.0,batalkan acara perayaan Natal dari kalender,calendar_remove,2
+292,292.0,hapus acara olahraga pagi ini dari kalender,calendar_remove,2
+293,293.0,hapus acara kunjungan rumah sakit dari kalender,calendar_remove,2
+294,294.0,Tolong hapus acara pernikahan adik saya dari kalender.,calendar_remove,2
+295,295.0,tolak acara konser musik malam ini dari kalender,calendar_remove,2
+296,296.0,batalkan rencana liburan ke bali dari kalender,calendar_remove,2
+297,297.0,Hapus acara kursus bahasa Inggris dari kalender.,calendar_remove,2
+298,298.0,bagaimana cara menghapus kalender yang kosong?,calendar_remove,2
+299,299.0,hapus acara perkuliahan pagi ini dari kalender,calendar_remove,2
+300,300.0,Dapatkah Anda memberikan resep mie instan yang sehat?,cooking_recipe,3
+301,301.0,Mau tau cara membuat keripik tempe yang renyah?,cooking_recipe,3
+302,302.0,Berapa ml susu untuk membuat puding coklat yang creamy?,cooking_recipe,3
+303,303.0,Dapatkah Anda memberikan resep untuk membuat keripik tempe?,cooking_recipe,3
+304,304.0,Resep apa yang dapat digunakan untuk membuat es teler?,cooking_recipe,3
+305,305.0,Berapa ml susu cair yang diperlukan untuk membuat pudding vanila?,cooking_recipe,3
+306,306.0,Apa resep membuat sate ayam yang enak dan lezat?,cooking_recipe,3
+307,307.0,Resep apa yang paling baik untuk membuat cake ulang tahun anak-anak?,cooking_recipe,3
+308,308.0,Berapa gram tepung terigu yang diperlukan untuk membuat roti tawar?,cooking_recipe,3
+309,309.0,Cara apa untuk membuat es krim vanilla yang creamy?,cooking_recipe,3
+310,310.0,Dapatkah Anda memberikan resep membuat sosis solo yang nikmat?,cooking_recipe,3
+311,311.0,Bagaimana cara membuat kuah bakso yang benar?,cooking_recipe,3
+312,312.0,Mau tau cara membuat rempeyek yang crunchy?,cooking_recipe,3
+313,313.0,Dapatkah Anda memberikan resep mie instan yang lezat?,cooking_recipe,3
+314,314.0,Resep apa yang paling mudah untuk membuat donat kentang?,cooking_recipe,3
+315,315.0,Tips apa untuk membuat sosis solo yang juicy?,cooking_recipe,3
+316,316.0,Bagaimana cara membuat martabak mini yang crispy?,cooking_recipe,3
+317,317.0,Bagaimana cara membuat jus alpukat yang segar?,cooking_recipe,3
+318,318.0,Resep apa untuk membuat pepes ikan yang aromatik?,cooking_recipe,3
+319,319.0,Dapatkah Anda memberikan tips untuk membuat rendang daging sapi?,cooking_recipe,3
+320,320.0,Apa saja bumbu-bumbu yang diperlukan untuk membuat rendang daging?,cooking_recipe,3
+321,321.0,Bagaimana cara membuat kopi susu yang creamy dan nikmat?,cooking_recipe,3
+322,322.0,Berapa sendok makan minyak goreng untuk menggoreng ikan?,cooking_recipe,3
+323,323.0,Bagaimana cara membuat krupuk kulit yang crispy?,cooking_recipe,3
+324,324.0,Dapatkah Anda menjelaskan cara membuat risoles isi abon?,cooking_recipe,3
+325,325.0,Resep apa untuk membuat bakpia pathok yang enak?,cooking_recipe,3
+326,326.0,Apakah ada tips untuk membuat martabak telor yang besar?,cooking_recipe,3
+327,327.0,Bagaimana cara membuat kue putu mayang yang lembut?,cooking_recipe,3
+328,328.0,Apakah ada tips untuk membuat krupuk kulit lebih crispy?,cooking_recipe,3
+329,329.0,Berapa gram gula pasir yang diperlukan untuk membuat bubur sumsum?,cooking_recipe,3
+330,330.0,Apakah ada resep membuat nasi uduk yang tidak menggunakan santan?,cooking_recipe,3
+331,331.0,Bagaimana cara membuat saus tiramisu yang sempurna?,cooking_recipe,3
+332,332.0,Bagaimana cara membuat keripik pisang yang renyah?,cooking_recipe,3
+333,333.0,Apakah ada cara membuat brownies yang moist?,cooking_recipe,3
+334,334.0,Berapa ml susu cair yang diperlukan untuk membuat pudding?,cooking_recipe,3
+335,335.0,Berapa gram gula pasir yang diperlukan untuk resep martabak?,cooking_recipe,3
+336,336.0,Berapa jumlah cabe rawit yang diperlukan untuk membuat sambal goang?,cooking_recipe,3
+337,337.0,Apakah ada resep nasi uduk yang menggunakan santan kelapa?,cooking_recipe,3
+338,338.0,Dapatkah Anda memberikan resep cake ulang tahun yang spesial?,cooking_recipe,3
+339,339.0,Apa resep untuk membuat bubur sumsum yang halus?,cooking_recipe,3
+340,340.0,Ada resep untuk membuat kue putu mayang yang unik?,cooking_recipe,3
+341,341.0,Dapatkah Anda menjelaskan cara membuat donat kentang?,cooking_recipe,3
+342,342.0,Bagaimana cara membikin rendang daging sapi yang pedas?,cooking_recipe,3
+343,343.0,Resep apa yang paling cocok untuk membuat pai apel?,cooking_recipe,3
+344,344.0,Bagaimana cara membuat kue putu mayang yang enak?,cooking_recipe,3
+345,345.0,Berapa gram tepung terigu yang diperlukan untuk membuat roti boy?,cooking_recipe,3
+346,346.0,Dapatkah Anda memberikan resep mie instan yang enak?,cooking_recipe,3
+347,347.0,Bagaimana cara membuat sajian hidangan penutup dari buah-buahan segar?,cooking_recipe,3
+348,348.0,Berapa besar ukuran garam yang diperlukan untuk membuat kaldu ayam?,cooking_recipe,3
+349,349.0,Berapa takaran santan kelapa yang diperlukan untuk opor ayam?,cooking_recipe,3
+350,350.0,Berapa gram gula pasir yang diperlukan untuk resep brownies?,cooking_recipe,3
+351,351.0,Bagaimana cara membuat sajian gudeg yang autentik?,cooking_recipe,3
+352,352.0,Bagaimana cara membuat keripik tempe yang renyah?,cooking_recipe,3
+353,353.0,Bagaimana cara membuat donat kentang yang crispy?,cooking_recipe,3
+354,354.0,Berapa liter air yang diperlukan untuk membuat sop daging sapi?,cooking_recipe,3
+355,355.0,Resep apa yang paling baik untuk membuat krupuk kulit melinjo?,cooking_recipe,3
+356,356.0,Berapa liter air yang diperlukan untuk merebus bihun?,cooking_recipe,3
+357,357.0,Berapa gram tepung terigu untuk adonan kue cubit?,cooking_recipe,3
+358,358.0,Bagaimana cara membuat selai strawberry yang homemade?,cooking_recipe,3
+359,359.0,Apa resep membuat sate ayam yang empuk dan lezat?,cooking_recipe,3
+360,360.0,Bagaimana cara membuat es campur yang segar dan nikmat?,cooking_recipe,3
+361,361.0,Bagaimana cara membuat martabak mini yang lezat?,cooking_recipe,3
+362,362.0,Resep apa yang paling populer untuk membuat bakpia pathok?,cooking_recipe,3
+363,363.0,Apa saja bahan-bahan yang dibutuhkan untuk membuat soto betawi?,cooking_recipe,3
+364,364.0,Bagaimana cara membuat siomay Bandung yang autentik?,cooking_recipe,3
+365,365.0,Berapa sendok teh vanili untuk membuat cake vanilla?,cooking_recipe,3
+366,366.0,Apa saja bahan-bahan yang dibutuhkan untuk membuat soto ayam?,cooking_recipe,3
+367,367.0,Bagaimana cara membuat siomay Bandung yang kenyal?,cooking_recipe,3
+368,368.0,Cara apa membuat es teler yang segar dan nikmat?,cooking_recipe,3
+369,369.0,Bagaimana sih cara mengolah daging kambing menjadi gulai?,cooking_recipe,3
+370,370.0,Berapa menit waktu memasak mie instan agar tidak keras?,cooking_recipe,3
+371,371.0,Berapa gram garam untuk membuat air garam untuk ikan?,cooking_recipe,3
+372,372.0,Berapa besar ukuran ayam yang ideal untuk diolah menjadi gulai?,cooking_recipe,3
+373,373.0,Apa resep membuat rendang daging sapi yang pedas?,cooking_recipe,3
+374,374.0,Bagaimana cara membuat selai stroberi yang homemade?,cooking_recipe,3
+375,375.0,Cara apa untuk membuat es teler yang segar dan nikmat?,cooking_recipe,3
+376,376.0,Berapa sendok makan minyak goreng yang diperlukan untuk tumisan kangkung?,cooking_recipe,3
+377,377.0,Berapa liter santan kelapa yang diperlukan untuk membuat opor ayam?,cooking_recipe,3
+378,378.0,Bagaimana sih cara mengolah daging sapi menjadi dendeng?,cooking_recipe,3
+379,379.0,Dapatkah Anda memberikan resep membuat brownies panggang yang moist?,cooking_recipe,3
+380,380.0,Bagaimana sih cara membuat bakpia pathok?,cooking_recipe,3
+381,381.0,Bagaimana cara membuat kue putu mayang?,cooking_recipe,3
+382,382.0,Berapa jumlah air yang diperlukan untuk merebus bihun?,cooking_recipe,3
+383,383.0,Bagaimana cara membuat sop duren yang tidak terlalu pedas?,cooking_recipe,3
+384,384.0,Dapatkah Anda memberikan tips untuk membuat bubur sumsum yang halus?,cooking_recipe,3
+385,385.0,Berapa menit waktu yang diperlukan untuk menggoreng ikan mujair?,cooking_recipe,3
+386,386.0,Berapa kali kita harus mengaduk adonan roti agar elastis?,cooking_recipe,3
+387,387.0,Bolehkah Anda berikan contoh resep martabak mini?,cooking_recipe,3
+388,388.0,Berapa menit waktu yang diperlukan untuk mengukus ikan nila?,cooking_recipe,3
+389,389.0,Berapa menit waktu memasak spaghetti agar al dente?,cooking_recipe,3
+390,390.0,Berapa besar ukuran ikan nila yang baik untuk diolah menjadi pepes?,cooking_recipe,3
+391,391.0,Dapatkah Anda memberikan resep membuat donat kentang yang empuk?,cooking_recipe,3
+392,392.0,Berapa ml santan untuk membuat opor ayam yang creamy?,cooking_recipe,3
+393,393.0,Resep apa yang paling baik untuk membuat bakpia pathok?,cooking_recipe,3
+394,394.0,Berapa besar ukuran udang galah yang cocok untuk diolah menjadi pepes?,cooking_recipe,3
+395,395.0,Berapa menit waktu yang diperlukan untuk merebus jagung pipil?,cooking_recipe,3
+396,396.0,Apa saja syarat-syarat untuk membuat dodol garut?,cooking_recipe,3
+397,397.0,Mau tau cara membuat krupuk kulit yang crispy?,cooking_recipe,3
+398,398.0,Berapa menit waktu penggorengan tempe agar tidak terlalu keras?,cooking_recipe,3
+399,399.0,Apakah ada tips untuk membuat nasi uduk yang pulen?,cooking_recipe,3
+400,400.0,Berapa perbedaan waktu disini dan di Mexico City?,datetime_convert,4
+401,401.0,Atur zona waktu ke EET.,datetime_convert,4
+402,402.0,Berapa perbedaan waktu disini dengan kota lainnya?,datetime_convert,4
+403,403.0,Berapa perbedaan waktu antara Yogyakarta dan Kuala Lumpur?,datetime_convert,4
+404,404.0,Ubah waktu saat ini dari PST ke MST.,datetime_convert,4
+405,405.0,Pukul berapa di waktu standar tengah di jam 20.00 waktu standar barat?,datetime_convert,4
+406,406.0,Jam berapa sekarang di Dubai jika pukul 3 sore di Istanbul?,datetime_convert,4
+407,407.0,Berapa beda waktu antara Banjarmasin dan Balikpapan?,datetime_convert,4
+408,408.0,Berapa perbedaan waktu disini dengan kota Moscow?,datetime_convert,4
+409,409.0,Apakah ada perbedaan waktu antara Surabaya dan Singapura?,datetime_convert,4
+410,410.0,Berapa beda waktu antara Pontianak dan Balikpapan?,datetime_convert,4
+411,411.0,Berapa perbedaan waktu antara Solo dan Shanghai?,datetime_convert,4
+412,412.0,"Jika tengah hari di Medan, jam berapa di Kuala Lumpur?",datetime_convert,4
+413,413.0,Berapa beda waktu antara Medan dan Makassar?,datetime_convert,4
+414,414.0,Jam berapa sekarang di Moscow jika pukul 12 siang di Jakarta?,datetime_convert,4
+415,415.0,Berapa perbedaan waktu disini dan di Sydney?,datetime_convert,4
+416,416.0,"Jika sekarang siang di Cilegon, jam berapa di Tangerang?",datetime_convert,4
+417,417.0,"Jika sekarang pagi di Lombok, jam berapa di Jogja?",datetime_convert,4
+418,418.0,Bisa ubah zona waktu ke Sydney?,datetime_convert,4
+419,419.0,"Jika sekarang sore di Bali, jam berapa di Amsterdam?",datetime_convert,4
+420,420.0,Atur zona waktu ke HST (Hawaii-Aleutian Standard Time).,datetime_convert,4
+421,421.0,"Jika tengah malam di Pontianak, jam berapa di Taipei?",datetime_convert,4
+422,422.0,"Jika malam hari di Medan, jam berapa di Bangkok?",datetime_convert,4
+423,423.0,Atur zona waktu ke CST (Central Standard Time).,datetime_convert,4
+424,424.0,Berapa perbedaan waktu antara Kuala Lumpur dan Bangkok?,datetime_convert,4
+425,425.0,Berapa beda waktu antara Manado dan Gorontalo?,datetime_convert,4
+426,426.0,Pukul berapa di waktu standar barat di jam 3 sore waktu standar timur?,datetime_convert,4
+427,427.0,Pukul berapa di waktu standar barat di jam 12 siang waktu standar timur?,datetime_convert,4
+428,428.0,Jam berapa sekarang di Sydney jika pukul 15.00 di Jakarta?,datetime_convert,4
+429,429.0,Berapa beda waktu antara Bandung dan Singapura?,datetime_convert,4
+430,430.0,Berapa perbedaan waktu antara Hanoi dan Ho Chi Minh City?,datetime_convert,4
+431,431.0,Pukul berapa di waktu standar timur di jam 14.00 waktu standar tengah?,datetime_convert,4
+432,432.0,Atur zona waktu ke GMT+7.,datetime_convert,4
+433,433.0,Jam berapa sekarang di Paris jika pukul 20:00 di Surabaya?,datetime_convert,4
+434,434.0,Jam berapa sekarang di London jika pukul 15:00 di Jakarta?,datetime_convert,4
+435,435.0,Apakah ada perbedaan waktu antara Pekanbaru dan Dubai?,datetime_convert,4
+436,436.0,Jam berapa sekarang di Sydney jika pukul 12 siang di Jakarta?,datetime_convert,4
+437,437.0,Berapa perbedaan waktu disini dengan London?,datetime_convert,4
+438,438.0,Berapa perbedaan waktu disini dengan Amsterdam?,datetime_convert,4
+439,439.0,Atur zona waktu ke IST untuk Mumbai.,datetime_convert,4
+440,440.0,Pukul berapa di waktu standar barat di jam 12 siang waktu standar tengah?,datetime_convert,4
+441,441.0,"Jika sekarang pagi di Makassar, jam berapa di Pontianak?",datetime_convert,4
+442,442.0,Jam berapa sekarang di Rio de Janeiro jika pukul 01:00 di Denpasar?,datetime_convert,4
+443,443.0,Berapa perbedaan waktu disini dengan Paris?,datetime_convert,4
+444,444.0,"Jika sore di Semarang, jam berapa di Solo?",datetime_convert,4
+445,445.0,Atur zona waktu ke IST (India Standard Time).,datetime_convert,4
+446,446.0,"Jika sekarang pagi di Makassar, jam berapa di Istanbul?",datetime_convert,4
+447,447.0,Pukul berapa di waktu standar tengah di jam 9 malam waktu standar timur?,datetime_convert,4
+448,448.0,Bisa ubah zona waktu ke PST (Pacific Standard Time)?,datetime_convert,4
+449,449.0,Atur zona waktu ke EDT untuk Washington D.C.,datetime_convert,4
+450,450.0,Atur zona waktu ke MST (Mountain Standard Time).,datetime_convert,4
+451,451.0,"Jika sekarang sore di Bali, jam berapa di Lombok?",datetime_convert,4
+452,452.0,Ubah waktu saat ini dari BST ke GMT.,datetime_convert,4
+453,453.0,Berapa perbedaan waktu antara Jakarta dan Tokyo?,datetime_convert,4
+454,454.0,"Jika malam hari di Palembang, jam berapa di Buenos Aires?",datetime_convert,4
+455,455.0,Jam berapa sekarang di GMT+7 jika pukul 10 pagi di Singapura?,datetime_convert,4
+456,456.0,"Jika siang hari di Palembang, jam berapa di Pekanbaru?",datetime_convert,4
+457,457.0,Berapa beda waktu antara Surabaya dan Singapura?,datetime_convert,4
+458,458.0,Berapa beda waktu antara Denpasar dan Mataram?,datetime_convert,4
+459,459.0,Bisa ubah zona waktu ke Beijing?,datetime_convert,4
+460,460.0,Bisa ubah zona waktu ke EST (Eastern Standard Time)?,datetime_convert,4
+461,461.0,Pukul berapa di waktu standar tengah di jam 09:00 pagi waktu standar barat?,datetime_convert,4
+462,462.0,Bisa ubah zona waktu ke Eropa?,datetime_convert,4
+463,463.0,Atur zona waktu ke UTC+8.,datetime_convert,4
+464,464.0,Pukul berapa di waktu standar tengah di jam 9 pagi waktu standar timur?,datetime_convert,4
+465,465.0,Berapa perbedaan waktu disini dengan ibu kota provinsi?,datetime_convert,4
+466,466.0,Apakah ada perbedaan waktu antara Bandung dan Hong Kong?,datetime_convert,4
+467,467.0,Jam berapa sekarang di GMT+7 jika pukul 10 pagi di New York?,datetime_convert,4
+468,468.0,Ubah waktu saat ini dari GMT ke CST.,datetime_convert,4
+469,469.0,Jam berapa sekarang di Rio de Janeiro jika pukul 10 malam di Paris?,datetime_convert,4
+470,470.0,Berapa beda waktu antara Banjarmasin dan Santiago?,datetime_convert,4
+471,471.0,Berapa beda waktu antara Pontianak dan Hong Kong?,datetime_convert,4
+472,472.0,"Jika malam hari di Medan, jam berapa di Bandung?",datetime_convert,4
+473,473.0,Berapa perbedaan waktu disini dengan kota Beijing?,datetime_convert,4
+474,474.0,Ubah waktu saat ini dari UTC ke ICT.,datetime_convert,4
+475,475.0,"Jika sekarang pagi di Makassar, jam berapa di Seoul?",datetime_convert,4
+476,476.0,Ubah waktu saat ini dari CET ke EET.,datetime_convert,4
+477,477.0,Ubah waktu saat ini dari UTC ke WITA.,datetime_convert,4
+478,478.0,"Jika sekarang sore di Bali, jam berapa di Surabaya?",datetime_convert,4
+479,479.0,Berapa perbedaan waktu antara Yogyakarta dan Semarang?,datetime_convert,4
+480,480.0,Bisa ubah zona waktu ke Amerika Latin?,datetime_convert,4
+481,481.0,Berapa perbedaan waktu antara Solo dan Yogyakarta?,datetime_convert,4
+482,482.0,Bisa ubah zona waktu ke Asia/Tokyo.,datetime_convert,4
+483,483.0,"Jika sekarang sore di Palembang, jam berapa di Istanbul?",datetime_convert,4
+484,484.0,"Jika sekarang malam di Manado, jam berapa di Gorontalo?",datetime_convert,4
+485,485.0,Berapa perbedaan waktu antara Semarang dan Shanghai?,datetime_convert,4
+486,486.0,Berapa perbedaan waktu antara Yogyakarta dan Bangkok?,datetime_convert,4
+487,487.0,Bisa ubah zona waktu ke Australia/Sydney.,datetime_convert,4
+488,488.0,Atur zona waktu ke CDT.,datetime_convert,4
+489,489.0,Pukul berapa di waktu standar timur di jam 03:00 dinihari waktu standar barat?,datetime_convert,4
+490,490.0,Berapa perbedaan waktu disini dengan negara tetangga?,datetime_convert,4
+491,491.0,"Jika tengah hari di Yogyakarta, jam berapa di Bandung?",datetime_convert,4
+492,492.0,Berapa perbedaan waktu disini dengan kota London?,datetime_convert,4
+493,493.0,Atur zona waktu ke UTC-5 untuk New York.,datetime_convert,4
+494,494.0,Jam berapa sekarang di New York jika pukul 10 pagi di Indonesia?,datetime_convert,4
+495,495.0,Ubah waktu saat ini dari WIB ke WIT.,datetime_convert,4
+496,496.0,Ubah waktu saat ini dari CST ke PST.,datetime_convert,4
+497,497.0,Berapa perbedaan waktu disini dan di Beijing?,datetime_convert,4
+498,498.0,Pukul berapa di waktu standar barat di jam 12:00 siang waktu standar timur?,datetime_convert,4
+499,499.0,"Jika siang hari di Semarang, jam berapa di Cairo?",datetime_convert,4
+500,500.0,"Kirimkan email ke teman kuliah saya, alexander.",email_sendemail,5
+501,501.0,Kirimkan email ke adik saya tentang kabar terbaru.,email_sendemail,5
+502,502.0,Saya perlu kirimkan email ke manager tentang laporan proyek.,email_sendemail,5
+503,503.0,Buatlah email formal untuk pengajuan proposal bisnis.,email_sendemail,5
+504,504.0,Ada email yang sangat penting untuk dikirim ke rumah sakit.,email_sendemail,5
+505,505.0,Tolong kirimkan email ke istri saya tentang jadwal dokter.,email_sendemail,5
+506,506.0,Kirimkan email ke adik saya di jakarta.,email_sendemail,5
+507,507.0,Tolong kirimkan email ke gubernur daerah istimewa yogyakarta.,email_sendemail,5
+508,508.0,Saya ingin mengirimkan email ke pusat layanan pelanggan.,email_sendemail,5
+509,509.0,Tugas saya adalah mengirimkan email ke tim marketing.,email_sendemail,5
+510,510.0,Tolong buat email untuk pacar saya tentang janji bertemu.,email_sendemail,5
+511,511.0,Bantu saya membuat draft email untuk pengumuman event besar.,email_sendemail,5
+512,512.0,Kirimkan email ke rektor universitas tentang permintaan izin.,email_sendemail,5
+513,513.0,Kirimkan email ke guru ngaji saya tentang pertanyaan agama.,email_sendemail,5
+514,514.0,Tolong tulis email ke bapak tentang rencana liburan.,email_sendemail,5
+515,515.0,Buatlah email singkat untuk pemberitahuan acara ulang tahun.,email_sendemail,5
+516,516.0,Kirimkan email ke guru ngaji saya.,email_sendemail,5
+517,517.0,Tolong berikan contoh email yang baik untuk pengaduan konsumen.,email_sendemail,5
+518,518.0,Saya membutuhkan bantuan untuk membuat email ke investor.,email_sendemail,5
+519,519.0,Saya ingin Anda kirimkan email ke tiffany tentang pertemuan besok pagi.,email_sendemail,5
+520,520.0,Mulailah menulis email ke kantor pusat tentang keluhan pelanggan.,email_sendemail,5
+521,521.0,Tolong buatkan email untuk saya kirimkan ke saudara ipar.,email_sendemail,5
+522,522.0,Buatlah email untuk kepala sekolah tentang pengumuman nilai.,email_sendemail,5
+523,523.0,Kirimkan surel ke adik saya di jogja.,email_sendemail,5
+524,524.0,Kirimkan email ke teman kuliah saya tentang reuni alumni.,email_sendemail,5
+525,525.0,Tuliskan email ke ibu kost tentang tagihan bulan ini.,email_sendemail,5
+526,526.0,Tolong tulis email ke pak haji tentang undangan nikahan.,email_sendemail,5
+527,527.0,Kirimkan email kepada pak wahyu tentang acara besok.,email_sendemail,5
+528,528.0,Tolong tulis email ke saudara ipar tentang acara keluarga.,email_sendemail,5
+529,529.0,Saya perlu mengirimkan email ke bank mandiri.,email_sendemail,5
+530,530.0,Tugas saya adalah mengirimkan email ke pelanggan baru.,email_sendemail,5
+531,531.0,Buatlah email untuk dikirim ke kantor imigrasi tentang visa.,email_sendemail,5
+532,532.0,Buatlah email formal untuk dikirim ke kantor gubernur.,email_sendemail,5
+533,533.0,Tolong kirimkan email ke kakak ipar tentang undangan nikahan.,email_sendemail,5
+534,534.0,Mulailah menulis email ke saudari about peluang bisnis.,email_sendemail,5
+535,535.0,Membuat email untuk dikirim ke kementerian pendidikan.,email_sendemail,5
+536,536.0,Tolong berikan contoh email yang akan saya kirimkan ke saudara ipar saya.,email_sendemail,5
+537,537.0,Tolong tulis email untuk teman kuliah saya tentang reuni.,email_sendemail,5
+538,538.0,Kirimkan email ke guru ngaji tentang les privat.,email_sendemail,5
+539,539.0,Saya ingin membuat email untuk dikirim ke universitas indonesia.,email_sendemail,5
+540,540.0,Saya ingin membuat email untuk dikirim ke komunitas pecinta alam.,email_sendemail,5
+541,541.0,Coba kirimkan email ke tante saya di bandung.,email_sendemail,5
+542,542.0,"Tidak ada waktu, tolong buat email untuk saya kirim ke kantor pos.",email_sendemail,5
+543,543.0,Tolong kirimkan email ke sahabat saya tentang undangan pesta.,email_sendemail,5
+544,544.0,Saya ingin mengirimkan email ke yayasan pendidikan indonesia.,email_sendemail,5
+545,545.0,Mulailah menulis email ke rektor universitas.,email_sendemail,5
+546,546.0,Tolong tulis email untuk saya kirimkan ke wali kota.,email_sendemail,5
+547,547.0,Saya ingin membuat email untuk pengumuman lowongan pekerjaan.,email_sendemail,5
+548,548.0,Saya memerlukan bantuan membuat email untuk dikirim ke kantor pos.,email_sendemail,5
+549,549.0,Saya perlu kirimkan email ke restoran favorit tentang reservasi meja.,email_sendemail,5
+550,550.0,Tolong kirimkan email ke anak saya tentang kabar dari rumah.,email_sendemail,5
+551,551.0,Saya ingin mengirimkan email ke tim marketing tentang strategi baru.,email_sendemail,5
+552,552.0,Buatlah email untuk suster yuli tentang acara ulang tahun.,email_sendemail,5
+553,553.0,Ada email penting yang harus saya kirimkan ke rekan kerja saya.,email_sendemail,5
+554,554.0,Saya ingin Anda kirimkan email ke saudari saya di bandung.,email_sendemail,5
+555,555.0,Saya ingin mengirimkan email ke dinas komunikasi informatika.,email_sendemail,5
+556,556.0,Saya ingin kirimkan email ke sahabat saya tentang kabar terbaru.,email_sendemail,5
+557,557.0,Tolong kirimkan email ke kemenangan republik indonesia.,email_sendemail,5
+558,558.0,Kirimkan email ke istri saya tentang rencana liburan akhir tahun.,email_sendemail,5
+559,559.0,Kirimkan email ke pegawai negeri sipil.,email_sendemail,5
+560,560.0,Kirimkan email ke camat setempat.,email_sendemail,5
+561,561.0,Kirimkan email ke guru ngajinya tentang pertanyaan akademis.,email_sendemail,5
+562,562.0,Kirimkan email kepada pak rudi tentang pertemuan hari senin.,email_sendemail,5
+563,563.0,Tolong tulis email untuk saya kirimkan ke kakak ipar.,email_sendemail,5
+564,564.0,Saya memerlukan email untuk dikirim ke hotel tentang reservasi kamar.,email_sendemail,5
+565,565.0,Saya perlu kirimkan email ke bank mandiri tentang transaksi online.,email_sendemail,5
+566,566.0,Ada email dari bos yang harus saya balas segera.,email_sendemail,5
+567,567.0,Mulailah menulis email ke kantor pusat tentang laporan bulanan.,email_sendemail,5
+568,568.0,Ada email penting yang harus saya kirimkan ke direktur.,email_sendemail,5
+569,569.0,"Tidak ada waktu, tolong buat email untuk direktur tentang laporan bulanan.",email_sendemail,5
+570,570.0,Buatlah email panjang lebar untuk menjelaskan isi materi.,email_sendemail,5
+571,571.0,Tolong tulis email ke bapak tiri tentang niat baik.,email_sendemail,5
+572,572.0,Membuat email untuk dikirimkan ke departemen agama.,email_sendemail,5
+573,573.0,Buatlah email resmi untuk dikirim ke kementrian pendidikan.,email_sendemail,5
+574,574.0,Buatlah email untuk dikirimkan ke komisi pemilihan umum.,email_sendemail,5
+575,575.0,Buat email untuk anak saya tentang hasil belajar.,email_sendemail,5
+576,576.0,Tolong kirimkan email ke istri saya tentang acara ulang tahun.,email_sendemail,5
+577,577.0,Kirimkan email ke orang tua saya tentang kabar dari luar negeri.,email_sendemail,5
+578,578.0,Saya memerlukan bantuan membuat email resmi untuk kliennya.,email_sendemail,5
+579,579.0,Tolong kirimkan email kepada pak wahyu tentang pertemuan besok.,email_sendemail,5
+580,580.0,Ada email yang sangat penting untuk saya kirimkan ke kepala seksi.,email_sendemail,5
+581,581.0,Ada email penting yang harus saya kirimkan ke direktur hari ini.,email_sendemail,5
+582,582.0,Tolong tulis email ke adik saya di jakarta.,email_sendemail,5
+583,583.0,Buatlah email untuk sdr. rudi tentang pengiriman barang.,email_sendemail,5
+584,584.0,Ada email yang belum terkirim ke konsumen kami.,email_sendemail,5
+585,585.0,Saya ingin mengirimkan email ke saudara tua tentang berita keluarga.,email_sendemail,5
+586,586.0,Buatlah email untuk seseorang bernama rudi.,email_sendemail,5
+587,587.0,Saya ingin mengirimkan email ke sahabat saya di jakarta.,email_sendemail,5
+588,588.0,Kirimkan email ke tetangga saya tentang keramaian lingkungan.,email_sendemail,5
+589,589.0,Buat email untuk anak buah saya tentang target penjualan.,email_sendemail,5
+590,590.0,Ada email yang sangat penting untuk dikirim ke kantor polisi.,email_sendemail,5
+591,591.0,Kirimkan email ke istri saya tentang berita gembira.,email_sendemail,5
+592,592.0,Saya perlu mengirimkan email ke pemasok tentang pesanan barang.,email_sendemail,5
+593,593.0,Tolong katakan ke email bahwa saya tidak dapat hadir.,email_sendemail,5
+594,594.0,Saya membutuhkan bantuan membuat email untuk pengiriman dokumen.,email_sendemail,5
+595,595.0,Ada email yang harus dikirimkan ke kepala desa.,email_sendemail,5
+596,596.0,Buatlah email untuk sari tentang pengiriman barang.,email_sendemail,5
+597,597.0,Saya memerlukan bantuan untuk membuat email ke tim marketing.,email_sendemail,5
+598,598.0,Ada email yang sangat penting untuk dikirimkan ke presiden direktur.,email_sendemail,5
+599,599.0,Tolong kirimkan email kepada pak rudi tentang acara nanti malam.,email_sendemail,5
+600,600.0,mulai dari halaman satu,play_audiobook,6
+601,601.0,mulai dengarkan cerita barunya,play_audiobook,6
+602,602.0,lanjutkan bacaan novel islami,play_audiobook,6
+603,603.0,sekarang waktunya untuk mendengar buku humor,play_audiobook,6
+604,604.0,mari kita dengar buku berjudul cinta segitiga,play_audiobook,6
+605,605.0,bisakah kamu memainkan buku biografi tokoh?,play_audiobook,6
+606,606.0,putar kembali chapter tiga,play_audiobook,6
+607,607.0,lanjutkan membacakan novel romantis,play_audiobook,6
+608,608.0,putar kembali cerita komedi yang lucu,play_audiobook,6
+609,609.0,bisakah kamu memutar ulang chapter 5?,play_audiobook,6
+610,610.0,bisakah kamu memainkan buku audio bergenre fantasi?,play_audiobook,6
+611,611.0,mainkan buku sastra indonesia,play_audiobook,6
+612,612.0,putar kembali cerita romance yang menyentuh hati,play_audiobook,6
+613,613.0,putar cerita inspiratif pagi ini,play_audiobook,6
+614,614.0,mainkan intro dari buku audio favorite,play_audiobook,6
+615,615.0,mari kita lanjutkan cerita petualangan,play_audiobook,6
+616,616.0,mainkan buku audio dengan efek suara,play_audiobook,6
+617,617.0,putar kembali episode kesembilan,play_audiobook,6
+618,618.0,saya mau mendengar buku tentang teknologi informasi,play_audiobook,6
+619,619.0,bisakah Anda memutar buku audio tentang sejarah?,play_audiobook,6
+620,620.0,bisakah Anda memutar buku pengembangan diri?,play_audiobook,6
+621,621.0,mainkan buku audio favorit saya,play_audiobook,6
+622,622.0,sekarang waktunya untuk mendengar buku thriller,play_audiobook,6
+623,623.0,bisakah kamu memainkan buku favorit saya?,play_audiobook,6
+624,624.0,putar ulang bagian tiga,play_audiobook,6
+625,625.0,putar cerita anak-anak yang lucu itu,play_audiobook,6
+626,626.0,saya ingin memainkan buku audio tentang sains,play_audiobook,6
+627,627.0,saya ingin mendengar buku tentang filsafat hidup,play_audiobook,6
+628,628.0,"mulai dari awal lagi, please",play_audiobook,6
+629,629.0,mulai dengarkan buku audio untuk anak-anak,play_audiobook,6
+630,630.0,mari kita dengar cerita inspiratif,play_audiobook,6
+631,631.0,putar ulang bab pertama,play_audiobook,6
+632,632.0,putar cerita anak-anak,play_audiobook,6
+633,633.0,saya mau mendengar buku tentang psikologi manusia,play_audiobook,6
+634,634.0,mainkan buku puisi indonesia,play_audiobook,6
+635,635.0,dengar cerita fantasi malam ini,play_audiobook,6
+636,636.0,putar kembali episode sebelumnya,play_audiobook,6
+637,637.0,mari kita dengar cerita fiksi ilmiah,play_audiobook,6
+638,638.0,mainkan buku audio dengan suara keras,play_audiobook,6
+639,639.0,mulai dengarkan buku audio tentang psikologi,play_audiobook,6
+640,640.0,bisakah kamu memainkan buku audio tentang teknologi?,play_audiobook,6
+641,641.0,bisakah kamu memutar ulang chapter 3?,play_audiobook,6
+642,642.0,mulai dari awal lagi,play_audiobook,6
+643,643.0,putar kembali cerita misteri yang seram,play_audiobook,6
+644,644.0,saya mau mendengar buku audio favorit saya,play_audiobook,6
+645,645.0,sekarang waktunya untuk mendengar buku baru,play_audiobook,6
+646,646.0,saya ingin mendengar buku biografi,play_audiobook,6
+647,647.0,lanjutkan mendengarkan buku self-improvement,play_audiobook,6
+648,648.0,lanjutkan mendengar buku thriller,play_audiobook,6
+649,649.0,putar episode terakhir dari serial ini,play_audiobook,6
+650,650.0,lanjutkan mendengarkan novel romantis ini,play_audiobook,6
+651,651.0,putar episode spesial hari Natal,play_audiobook,6
+652,652.0,lanjutkan mendengarkan novel fantasi ini,play_audiobook,6
+653,653.0,putar ulang bagian favorite saya,play_audiobook,6
+654,654.0,mari kita lanjutkan cerita percintaan,play_audiobook,6
+655,655.0,putar bab pertama dari buku best seller,play_audiobook,6
+656,656.0,lanjutkan mendengarkan buku motivasi,play_audiobook,6
+657,657.0,lanjutkan mendengarkan novel thriller ini,play_audiobook,6
+658,658.0,lanjutkan mendengar novel romantis,play_audiobook,6
+659,659.0,putar ulang bagian akhir,play_audiobook,6
+660,660.0,putar kembali scene favorite saya,play_audiobook,6
+661,661.0,bisakah kita memutar ulang bagian tengah?,play_audiobook,6
+662,662.0,lanjutkan bacaan ayat-ayat cinta,play_audiobook,6
+663,663.0,bisakah Anda memutar buku self-help?,play_audiobook,6
+664,664.0,bisakah kita memutar ulang bagian akhir?,play_audiobook,6
+665,665.0,mulai dengarkan buku audio barunya,play_audiobook,6
+666,666.0,mainkan soundtrack buku audio,play_audiobook,6
+667,667.0,saya ingin mendengar buku filsafat,play_audiobook,6
+668,668.0,mulai dengarkan buku audio,play_audiobook,6
+669,669.0,bisakah kamu memainkan buku audio yang lalu?,play_audiobook,6
+670,670.0,dengarlah cerita horor malam ini,play_audiobook,6
+671,671.0,saya mau mendengar cerita misteri,play_audiobook,6
+672,672.0,mari kita lanjutkan cerita romance,play_audiobook,6
+673,673.0,putar kembali episode enam belas,play_audiobook,6
+674,674.0,mulai cerita komedi romantis,play_audiobook,6
+675,675.0,saya ingin memainkan buku audio tentang ekonomi,play_audiobook,6
+676,676.0,putar buku sains populer,play_audiobook,6
+677,677.0,putar ulang chapter dua,play_audiobook,6
+678,678.0,saya mau mendengar cerita komedi,play_audiobook,6
+679,679.0,dengar cerita misteri bersama saya,play_audiobook,6
+680,680.0,lanjutkan membaca buku motivasi,play_audiobook,6
+681,681.0,mari kita dengar cerita horor,play_audiobook,6
+682,682.0,mainkan buku suara,play_audiobook,6
+683,683.0,saya ingin mendengar buku tentang perjalanan hidup,play_audiobook,6
+684,684.0,putar ulang bab dua belas,play_audiobook,6
+685,685.0,putar bab kedua dari buku biografi,play_audiobook,6
+686,686.0,mainkan soundtrack dari buku audio itu,play_audiobook,6
+687,687.0,putar kembali cerita petualangan yang seru,play_audiobook,6
+688,688.0,putar cerita humoris sore ini,play_audiobook,6
+689,689.0,bisakah Anda memutar buku audio tentang sains?,play_audiobook,6
+690,690.0,saya ingin memainkan buku audio tentang politik,play_audiobook,6
+691,691.0,mulai cerita roman picisan,play_audiobook,6
+692,692.0,lanjutkan membaca buku psikologi,play_audiobook,6
+693,693.0,putar buku motivasi pagi ini,play_audiobook,6
+694,694.0,saya ingin memainkan buku audio tentang sejarah,play_audiobook,6
+695,695.0,bisakah kamu memutar ulang bagian awal?,play_audiobook,6
+696,696.0,sekarang waktunya untuk mendengar cerita detektif,play_audiobook,6
+697,697.0,saya ingin memainkan buku audio tentang filsafat,play_audiobook,6
+698,698.0,saya ingin mendengar buku self-improvement,play_audiobook,6
+699,699.0,Rekomendasi film crime yang membuat tegang.,recommendation_movies,7
+700,700.0,Bagaimana cara mencari film yang sesuai dengan selera saya?,recommendation_movies,7
+701,701.0,Apa ada film yang mirip dengan Avengers?,recommendation_movies,7
+702,702.0,Apa film yang paling banyak disukai oleh orang-orang seusia saya?,recommendation_movies,7
+703,703.0,Apa film yang paling banyak dinominasikan Oscar tahun ini?,recommendation_movies,7
+704,704.0,"Tidak tau mau nonton film apa, tolong beri saran!",recommendation_movies,7
+705,705.0,Bolehkah Anda memberikan beberapa rekomendasi film animasi?,recommendation_movies,7
+706,706.0,Beritahu saya tentang film yang sedang trending!,recommendation_movies,7
+707,707.0,Tampilkan beberapa film historical yang akurat!,recommendation_movies,7
+708,708.0,Saya mencari film crime yang sangat intense!,recommendation_movies,7
+709,709.0,Apa film Indonesia yang paling populer tahun lalu?,recommendation_movies,7
+710,710.0,Ada film apa saja yang cocok untuk anak-anak?,recommendation_movies,7
+711,711.0,Tampilkan beberapa film romance yang sangat direkomendasikan!,recommendation_movies,7
+712,712.0,Saya ingin nonton film yang membuat saya tertawa...,recommendation_movies,7
+713,713.0,Apa ada film baru yang sedang populer saat ini?,recommendation_movies,7
+714,714.0,Bagaimana cara memilih film yang sesuai dengan mood saya?,recommendation_movies,7
+715,715.0,"Olly, apakah Anda punya rekomendasi film fantasy?",recommendation_movies,7
+716,716.0,Rekomendasi film mystery yang sulit dipecahkan!,recommendation_movies,7
+717,717.0,"Saya ingin nonton film yang menguras air mata, ada saran tidak?",recommendation_movies,7
+718,718.0,Tolong rekomendasikan beberapa film mystery!,recommendation_movies,7
+719,719.0,Saya mencari film thriller psikologis yang menegangkan.,recommendation_movies,7
+720,720.0,Rekomendasi film animasi untuk anak-anak.,recommendation_movies,7
+721,721.0,Apa film western yang masih layak ditonton?,recommendation_movies,7
+722,722.0,Apa film animation yang sangat bagus untuk dewasa?,recommendation_movies,7
+723,723.0,Bagaimana cara memilih film yang tepat untuk saya?,recommendation_movies,7
+724,724.0,Rekomendasikan beberapa film sport yang menginspirasi!,recommendation_movies,7
+725,725.0,"Saya bosan dengan genre romance, beri tahu saya alternatif lainnya!",recommendation_movies,7
+726,726.0,"Saya ingin tahu film action terbaru, beri tahukan!",recommendation_movies,7
+727,727.0,Ada film apa saja yang cocok untuk remaja?,recommendation_movies,7
+728,728.0,Berikan beberapa rekomendasi film musikal!,recommendation_movies,7
+729,729.0,Beritahu saya tentang film drama yang baru dirilis.,recommendation_movies,7
+730,730.0,Olly film adventure yang cocok untuk keluarga.,recommendation_movies,7
+731,731.0,Tampilkan list film komedi hitam yang unik.,recommendation_movies,7
+732,732.0,Apa film adventure yang paling banyak dinanti-nantikan?,recommendation_movies,7
+733,733.0,Rekomendasi film mystery yang membuat penasaran.,recommendation_movies,7
+734,734.0,Apa ada film anime yang sangat direkomendasikan?,recommendation_movies,7
+735,735.0,Bagaimana cara mendapatkan rekomendasi film yang sesuai dengan saya?,recommendation_movies,7
+736,736.0,"Saya ingin nonton film dokumenter, ada saran?",recommendation_movies,7
+737,737.0,Tampilkan film-film yang sedang diputer di bioskop XXI!,recommendation_movies,7
+738,738.0,Beritahu saya tentang film fantasi yang epik.,recommendation_movies,7
+739,739.0,Film apa yang sedang trending dan wajib ditonton?,recommendation_movies,7
+740,740.0,Berikan saya beberapa rekomendasi film fantasy!,recommendation_movies,7
+741,741.0,"Saya ingin nonton film musical, ada rekomendasi?",recommendation_movies,7
+742,742.0,Beritahu saya tentang film-film yang sedang hits!,recommendation_movies,7
+743,743.0,Bagaimana sih caranya agar bisa mendapatkan rekomendasi film yang tepat?,recommendation_movies,7
+744,744.0,"Olly, berikan beberapa rekomendasi film sci-fi!",recommendation_movies,7
+745,745.0,Saya ingin nonton film yang membuat saya merasa excited!,recommendation_movies,7
+746,746.0,Tampilkan list film thriller yang sedang populer.,recommendation_movies,7
+747,747.0,Ada film musical yang sangat direkomendasikan?,recommendation_movies,7
+748,748.0,Rekomendasikan film adventure yang penuh dengan aksi!,recommendation_movies,7
+749,749.0,Saran film thriller yang membuat tegang!,recommendation_movies,7
+750,750.0,"Saya bosan dengan film lama, sarankan yang baru!",recommendation_movies,7
+751,751.0,Apa ada film Korea yang sangat direkomendasikan?,recommendation_movies,7
+752,752.0,Tampilkan list film comedy romantis yang lucu.,recommendation_movies,7
+753,753.0,Film apa yang sangat direkomendasikan untuk keluarga?,recommendation_movies,7
+754,754.0,Film apa yang sangat populer di kalangan remaja?,recommendation_movies,7
+755,755.0,Apa film yang paling banyak dibicarakan orang?,recommendation_movies,7
+756,756.0,Olly film romantis yang bagus untuk ditonton?,recommendation_movies,7
+757,757.0,Ada film politik yang sangat kontroversial?,recommendation_movies,7
+758,758.0,Beri tahu saya tentang film sport yang motivatif.,recommendation_movies,7
+759,759.0,Olly film western yang klasik.,recommendation_movies,7
+760,760.0,Cari film yang cocok untuk ditonton bersama keluarga!,recommendation_movies,7
+761,761.0,Rekomendasikan film animasi yang cocok untuk anak-anak!,recommendation_movies,7
+762,762.0,Ada film horor yang bagus untuk ditonton sendiri?,recommendation_movies,7
+763,763.0,Saya mencari film dokumenter yang edukatif.,recommendation_movies,7
+764,764.0,"Saya ingin nonton film komedi, ada rekomendasi?",recommendation_movies,7
+765,765.0,Apa film horor yang sedang populer saat ini?,recommendation_movies,7
+766,766.0,Beritahu saya tentang film drama yang baru rilis!,recommendation_movies,7
+767,767.0,Rekomendasi film petualangan yang ekstrim.,recommendation_movies,7
+768,768.0,Rekomendasikan beberapa film sci-fi yang bagus!,recommendation_movies,7
+769,769.0,Beritahu saya tentang film romance yang sentimental.,recommendation_movies,7
+770,770.0,Rekomendasi film action paling seru tahun ini!,recommendation_movies,7
+771,771.0,Ada film thriller yang membuat tegang?,recommendation_movies,7
+772,772.0,Film apa yang sangat direkomendasikan oleh kritikus?,recommendation_movies,7
+773,773.0,Apa ada film yang dibintangi oleh artis idola saya?,recommendation_movies,7
+774,774.0,Saya ingin tahu film horror supernatural yang menyeramkan.,recommendation_movies,7
+775,775.0,"Olly, film romantis apa yang sedang populer saat ini?",recommendation_movies,7
+776,776.0,Apa ada film komedi yang sangat direkomendasikan?,recommendation_movies,7
+777,777.0,Apa Anda memiliki rekomendasi film drama romantis?,recommendation_movies,7
+778,778.0,"Mau nonton film horror, tapi takut tidak tau judulnya...",recommendation_movies,7
+779,779.0,"Olly, film apa saja yang bagus untuk ditonton?",recommendation_movies,7
+780,780.0,"Saya ingin nonton film dokumenter, ada saran tidak?",recommendation_movies,7
+781,781.0,Saya ingin tahu film biografi yang inspiratif.,recommendation_movies,7
+782,782.0,Rekomendasi film historical yang akurat.,recommendation_movies,7
+783,783.0,Beritahu saya tentang film-film yang sedang trending!,recommendation_movies,7
+784,784.0,"Ingin nonton film dokumenter, tapi tidak tau mana yang baik...",recommendation_movies,7
+785,785.0,Saya mencari film biografi yang inspiratif!,recommendation_movies,7
+786,786.0,"Saya ingin nonton film malam ini, beri saran!",recommendation_movies,7
+787,787.0,Film apa yang paling banyak dinantikan bulan ini?,recommendation_movies,7
+788,788.0,Rekomendasikan beberapa film action terbaru!,recommendation_movies,7
+789,789.0,Film apa yang wajib ditonton bulan ini?,recommendation_movies,7
+790,790.0,Rekomendasikan beberapa film komedi romantis untukku!,recommendation_movies,7
+791,791.0,Film apa yang paling banyak direkomendasikan oleh kritikus film?,recommendation_movies,7
+792,792.0,Film apa yang sangat populer di Netflix?,recommendation_movies,7
+793,793.0,Rekomendasikan beberapa film supernatural yang menarik!,recommendation_movies,7
+794,794.0,Apa ada film komedi yang bagus untuk ditonton akhir pekan ini?,recommendation_movies,7
+795,795.0,Rekomendasikan beberapa film comedy yang lucu!,recommendation_movies,7
+796,796.0,Tampilkan list film family yang hangat.,recommendation_movies,7
+797,797.0,Olly film sci-fi yang wajib ditonton tahun ini?,recommendation_movies,7
+798,798.0,Film apa yang paling bagus untuk ditonton minggu ini?,recommendation_movies,7
+799,799.0,Pesankan tiket executive ke Pontianak.,transport_ticket,8
+800,800.0,Beli tiket travel ke Solo untuk lebaran.,transport_ticket,8
+801,801.0,Pesan tiket MRT ke Jakarta Pusat untuk siang nanti.,transport_ticket,8
+802,802.0,Bisakah memesan tiket bus Pahala Kencana secara online?,transport_ticket,8
+803,803.0,Cari tiket pesawat ke Singapura dengan maskapai Garuda.,transport_ticket,8
+804,804.0,Tiket kereta api mana yang paling murah ke Surabaya?,transport_ticket,8
+805,805.0,Bagaimana cara membeli tiket online untuk kereta api Argo Bromo Anggrek?,transport_ticket,8
+806,806.0,Cari tiket kereta cepat ke Semarang untuk esok lusa.,transport_ticket,8
+807,807.0,Pesankan tiket first class ke Amsterdam.,transport_ticket,8
+808,808.0,Carikan tiket kereta cepat ke Semarang untuk esok.,transport_ticket,8
+809,809.0,Ada diskon tiket pesawat ke Kuala Lumpur nggak?,transport_ticket,8
+810,810.0,Membeli tiket online untuk kereta api Taksaka Executive Class.,transport_ticket,8
+811,811.0,Aku butuh tiket pesawat ke Bali untuk akhir tahun.,transport_ticket,8
+812,812.0,Pesan tiket bus Pahala Kencana ke Pekalongan untuk esok lusa.,transport_ticket,8
+813,813.0,Mau memesan tiket kereta api ke Pekalongan.,transport_ticket,8
+814,814.0,Carikan tiket bus ke Malang untuk hari ini.,transport_ticket,8
+815,815.0,Cara memesan tiket kapal cepat ke Bintan.,transport_ticket,8
+816,816.0,Cari tiket pesawat terbang ke Bali dengan harga murah.,transport_ticket,8
+817,817.0,Tiket kereta mana yang paling murah ke Bandung?,transport_ticket,8
+818,818.0,Beli tiket bus jurusan Jakarta - Bandung untuk besok.,transport_ticket,8
+819,819.0,Ingin memesan tiket ferry ke Lombok.,transport_ticket,8
+820,820.0,Berapa harga tiket kereta ekonomi AC ke Semarang?,transport_ticket,8
+821,821.0,Beli tiket shuttle bus ke Bandara Soekarno-Hatta sekarang.,transport_ticket,8
+822,822.0,Butuh tiket kapal laut ke Batam untuk bulan depan.,transport_ticket,8
+823,823.0,Cara memesan tiket bus Damri online?,transport_ticket,8
+824,824.0,Saya butuh bantuan untuk memesan tiket bus Damri ke Bandara Soetta.,transport_ticket,8
+825,825.0,Membeli tiket kereta api lewat aplikasi mana?,transport_ticket,8
+826,826.0,Dimana saya dapat membeli tiket bus Maju Express ke Pekalongan?,transport_ticket,8
+827,827.0,Beli tiket travel ke Jogja untuk akhir tahun.,transport_ticket,8
+828,828.0,Pesankan tiket kereta ke Medan untuk tanggal tujuh Oktober.,transport_ticket,8
+829,829.0,Aku ingin memesan tiket bus ke Pekalongan untuk malam ini.,transport_ticket,8
+830,830.0,Harga tiket kereta api ke Makassar berapa ya?,transport_ticket,8
+831,831.0,Pesan tiket bus Damri ke Bandung untuk besok pagi.,transport_ticket,8
+832,832.0,Bagaimana cara membeli tiket online untuk kereta commuter?,transport_ticket,8
+833,833.0,Bagaimana cara mendapatkan diskon pada pembelian tiket kereta api?,transport_ticket,8
+834,834.0,Saya mau memesan tiket pesawat ke Singapura untuk bulan Mei.,transport_ticket,8
+835,835.0,Pesan dua tiket kereta ekonomi ke Surabaya untuk akhir pekan.,transport_ticket,8
+836,836.0,Bagaimana proses refund tiket kereta api jika tidak jadi pergi?,transport_ticket,8
+837,837.0,Berapa harga tiket kereta api ke Malang?,transport_ticket,8
+838,838.0,Saya ingin memesan tiket kereta api ke Yogyakarta hari ini.,transport_ticket,8
+839,839.0,Aku mau pesan tiket kapal laut ke Batam.,transport_ticket,8
+840,840.0,Cara memesan tiket online untuk bus Primajasa tujuan Bogor.,transport_ticket,8
+841,841.0,Pesan tiket kereta api ke Yogyakarta untuk hari ini.,transport_ticket,8
+842,842.0,Pesankan tiket bisnis ke Medan untuk bulan depan.,transport_ticket,8
+843,843.0,"Pesankan tiket kereta Commuter Line ke Bekasi, please.",transport_ticket,8
+844,844.0,Saya ingin memesan tiket bus ke Tasikmalaya untuk akhir pekan.,transport_ticket,8
+845,845.0,Pesankan saya dua tiket kereta ekonomi ke Surabaya.,transport_ticket,8
+846,846.0,Berapa harga tiket bisnis kereta api ke Jakarta?,transport_ticket,8
+847,847.0,Butuh bantuan untuk memesan tiket kapal laut ke Bali.,transport_ticket,8
+848,848.0,Saya mau memesan tiket ferry ke Raja Ampat untuk libur Natal.,transport_ticket,8
+849,849.0,Saya butuh tiket kapal feri ke Madura untuk besok.,transport_ticket,8
+850,850.0,Mau pesan tiket ferry ke Lombok untuk liburan nanti.,transport_ticket,8
+851,851.0,Tiket VIP ke Palembang masih tersedia?,transport_ticket,8
+852,852.0,Saya mau memesan tiket shuttle bus dari Stasiun Senen ke Tanjung Priok.,transport_ticket,8
+853,853.0,Pesankan tiket pesawat ke Kuala Lumpur untuk bulan Juni.,transport_ticket,8
+854,854.0,Pesan tiket TransJakarta ke Grogol untuk malam ini.,transport_ticket,8
+855,855.0,Saya mau tahu harga tiket pesawat Garuda Indonesia ke Medan.,transport_ticket,8
+856,856.0,Cara apa saja untuk membatalkan tiket kereta api yang sudah dipesan?,transport_ticket,8
+857,857.0,Pesankan tiket VIP ke Makassar.,transport_ticket,8
+858,858.0,Saya mau memesan tiket ferry ke Lombok untuk liburan.,transport_ticket,8
+859,859.0,Berapa lama perjalanan dari Jakarta ke Yogya menggunakan kereta api?,transport_ticket,8
+860,860.0,Ingin memesan tiket pesawat Sriwijaya Air ke Makassar.,transport_ticket,8
+861,861.0,Ingin memesan tiket ferry ke Batam untuk akhir pekan ini.,transport_ticket,8
+862,862.0,Mau pesan tiket shuttle bus dari Soekarno-Hatta ke Gambir.,transport_ticket,8
+863,863.0,Cari tiket bus Primajasa ke Ciawi untuk siang nanti.,transport_ticket,8
+864,864.0,Pesankan dua tiket kereta ekonomi ke Surabaya.,transport_ticket,8
+865,865.0,Butuh bantuan untuk memesan tiket bus Primajasa.,transport_ticket,8
+866,866.0,Bagaimana cara mendapatkan potongan harga tiket kereta api?,transport_ticket,8
+867,867.0,Saya ingin memesan tiket kereta api ke Yogyakarta untuk hari Sabtu depan.,transport_ticket,8
+868,868.0,Tiket bisnis ke Medan masih tersedia?,transport_ticket,8
+869,869.0,Apakah ada promo tiket kereta api untuk pelajar?,transport_ticket,8
+870,870.0,Dimana bisa membeli tiket shuttle bus ke bandara?,transport_ticket,8
+871,871.0,Butuh tiket KRL Commuter Line ke Depok untuk pagi ini.,transport_ticket,8
+872,872.0,Pesankan dua tiket kereta bisnis ke Bandung untuk tanggal 20 Mei.,transport_ticket,8
+873,873.0,Dimana bisa membeli tiket kereta api di stasiun Gambir?,transport_ticket,8
+874,874.0,Tiket economy ke Makassar masih ada?,transport_ticket,8
+875,875.0,Bagaimana cara cek jadwal dan harga tiket kereta api secara online?,transport_ticket,8
+876,876.0,Mau memesan tiket kapal laut ke Sulawesi.,transport_ticket,8
+877,877.0,Bagaimana cara mencetak tiket kereta api yang sudah dipesan?,transport_ticket,8
+878,878.0,Apakah masih ada tiket promo ke Denpasar?,transport_ticket,8
+879,879.0,Pesankan tiket kereta api ke Palembang untuk tanggal delapan November.,transport_ticket,8
+880,880.0,Mau tahu harga tiket kereta cepat ke Semarang?,transport_ticket,8
+881,881.0,Saya ingin membeli tiket bus ke Malang untuk besok.,transport_ticket,8
+882,882.0,Kapan jadwal keberangkatan kereta api ke Solo?,transport_ticket,8
+883,883.0,Butuh tiket ojek online ke Kemanggisan untuk sore ini.,transport_ticket,8
+884,884.0,Carikan tiket bus Pahala Kencana jurusan Jakarta-Surabaya.,transport_ticket,8
+885,885.0,Harga tiket kereta api executive class ke Jogja berapa ya?,transport_ticket,8
+886,886.0,Carikan tiket ferry ke Sulawesi untuk libur lebaran.,transport_ticket,8
+887,887.0,Bagaimana cara membeli tiket online untuk KRL?,transport_ticket,8
+888,888.0,Harga tiket feri ke Bangka berapa?,transport_ticket,8
+889,889.0,Aku butuh tiket kereta ke Pontianak untuk bulan Agustus.,transport_ticket,8
+890,890.0,Cari tiket kapal feri ke Sulawesi untuk musim panas.,transport_ticket,8
+891,891.0,Cari tiket pesawat terbang ke Bali untuk akhir tahun.,transport_ticket,8
+892,892.0,Beli tiket kapal laut ke Batam untuk bulan depan.,transport_ticket,8
+893,893.0,Saya ingin memesan tiket pesawat ke Kuala Lumpur untuk bulan depan.,transport_ticket,8
+894,894.0,"Tiket kereta api ke Solo sudah habis, apa masih ada alternatif lain?",transport_ticket,8
+895,895.0,Pesan tiket KAI Commuter Jabodetabek ke Bekasi untuk pagi ini.,transport_ticket,8
+896,896.0,Saya ingin memesan tiket kereta api ke Yogyakarta untuk besok.,transport_ticket,8
+897,897.0,Cara memesan tiket travel ke Jepun?,transport_ticket,8
+898,898.0,Berapa harga tiket kereta api ke Tangerang?,transport_ticket,8
+899,899.0,apakah awan mendung di makassar siang ini?,weather_query,9
+900,900.0,apakah masih dingin di malam hari?,weather_query,9
+901,901.0,akankah hujan pada malam ini?,weather_query,9
+902,902.0,apakah ada kabut tebal pagi ini?,weather_query,9
+903,903.0,apakah masih dalam masa pancaroba?,weather_query,9
+904,904.0,berita cuaca terbaru untuk daerahku,weather_query,9
+905,905.0,akankah hujan besar besok lusa?,weather_query,9
+906,906.0,bagaimana cuaca di semarang besok?,weather_query,9
+907,907.0,apakah panas banget di solo siang nanti?,weather_query,9
+908,908.0,adakah kabut hitam di bandung hari ini?,weather_query,9
+909,909.0,bagaimana ramalan cuaca untuk pernikahanku?,weather_query,9
+910,910.0,apa kabar cuaca hari minggu?,weather_query,9
+911,911.0,apa yang dikatakan prakiraan cuaca?,weather_query,9
+912,912.0,apakah masih dingin di puncak besok?,weather_query,9
+913,913.0,apakah gelombang tinggi di pantai utama?,weather_query,9
+914,914.0,bagaimana cuaca di medan siang ini?,weather_query,9
+915,915.0,apakah hujan batu yang turun kemarin?,weather_query,9
+916,916.0,apakah masih banyak sinar matahari?,weather_query,9
+917,917.0,berapa tinggi angin bertiup?,weather_query,9
+918,918.0,apakah hujan es yang turun kemarin?,weather_query,9
+919,919.0,berapa suhu udara saat ini?,weather_query,9
+920,920.0,kira-kira cuaca seperti apa di lampung besok?,weather_query,9
+921,921.0,apakah esok hari libur karena hujan?,weather_query,9
+922,922.0,kapan musim gugur mulai?,weather_query,9
+923,923.0,apakah hujan deras terjadi sore ini?,weather_query,9
+924,924.0,apakah angin sangat kencang hari ini?,weather_query,9
+925,925.0,bagaimana cuaca di palembang saat ini?,weather_query,9
+926,926.0,kira-kira cuaca seperti apa di yogya besok?,weather_query,9
+927,927.0,apakah cuaca cerah untuk perjalanan?,weather_query,9
+928,928.0,apakah akan panas terik hari ini?,weather_query,9
+929,929.0,kapan musim gugur tiba di indonesia?,weather_query,9
+930,930.0,apakah angin kencang di surabaya siang ini?,weather_query,9
+931,931.0,apakah akan turun hujan esok lusa?,weather_query,9
+932,932.0,apakah masih banyak awan hitam?,weather_query,9
+933,933.0,apakah angin sangat kencang di palembang?,weather_query,9
+934,934.0,apakah masih gelap di pagi hari?,weather_query,9
+935,935.0,kira-kira berapa derajat celcius sekarang?,weather_query,9
+936,936.0,apakah ada badai di jogja minggu ini?,weather_query,9
+937,937.0,apakah badai pasir di yogyakarta?,weather_query,9
+938,938.0,bagaimana cuaca di balikpapan untuk beberapa hari kedepan?,weather_query,9
+939,939.0,bagaimana cuacanya di manado bulan depan?,weather_query,9
+940,940.0,kapan musim semi dimulai?,weather_query,9
+941,941.0,bagaimana keadaan cuaca di medan pagi ini?,weather_query,9
+942,942.0,apakah angin sangat keras hari ini?,weather_query,9
+943,943.0,bagaimana keadaan cuaca di bandung?,weather_query,9
+944,944.0,bagaimana keadaan cuaca di jakarta?,weather_query,9
+945,945.0,berapa curah hujan bulan ini?,weather_query,9
+946,946.0,apakah musim panas sudah tiba?,weather_query,9
+947,947.0,apakah esok akan sangat panas?,weather_query,9
+948,948.0,apakah akan ada banjir bandang?,weather_query,9
+949,949.0,apakah masih musim semi?,weather_query,9
+950,950.0,bagaimana tinggi gelombang laut hari ini?,weather_query,9
+951,951.0,apakah masih panas di siang hari?,weather_query,9
+952,952.0,berapa suhu udara sekarang?,weather_query,9
+953,953.0,apakah cuaca besok cerah?,weather_query,9
+954,954.0,bagaimana keadaan cuaca di makassar?,weather_query,9
+955,955.0,apa yang terjadi dengan cuaca hari ini?,weather_query,9
+956,956.0,apakah esok akan sangat dingin?,weather_query,9
+957,957.0,apakah hujan deras beberapa jam lagi?,weather_query,9
+958,958.0,bagaimana cuaca di surabaya bulan depan?,weather_query,9
+959,959.0,kira-kira cuaca seperti apa tahun depan?,weather_query,9
+960,960.0,apakah hujan lebat di cirebon pagi ini?,weather_query,9
+961,961.0,kira-kira cuaca seperti apa minggu depan?,weather_query,9
+962,962.0,bagaimana cuaca di bandung siang nanti?,weather_query,9
+963,963.0,berita cuaca terkini untuk wilayahku,weather_query,9
+964,964.0,adakah hujan besar kemarin?,weather_query,9
+965,965.0,apakah bakal hujan lebat siang nanti?,weather_query,9
+966,966.0,apakah panas sekali di bekasi siang nanti?,weather_query,9
+967,967.0,apakah ada kemungkinan badai?,weather_query,9
+968,968.0,apakah masih gerimis di depok besok?,weather_query,9
+969,969.0,bagaimana cuaca di surabaya saat ini?,weather_query,9
+970,970.0,bagaimana perkembangan cuaca bulan depan?,weather_query,9
+971,971.0,bagaimana cuaca di semarang untuk beberapa hari kedepan?,weather_query,9
+972,972.0,apakah badai pasir datang lagi?,weather_query,9
+973,973.0,apa yang terjadi pada cuaca pekan lalu?,weather_query,9
+974,974.0,apakah akan ada petir malam ini?,weather_query,9
+975,975.0,bagaimana keadaan cuaca di pontianak pagi ini?,weather_query,9
+976,976.0,apakah ada badai yang datang?,weather_query,9
+977,977.0,bagaimana cuacanya di bali bulan depan?,weather_query,9
+978,978.0,bagaimana cuaca di yogya sore nanti?,weather_query,9
+979,979.0,adakah hujan esok hari?,weather_query,9
+980,980.0,kapan musim semi tiba di indonesia?,weather_query,9
+981,981.0,bagaimana ramalan cuaca untuk akhir pekan?,weather_query,9
+982,982.0,bagaimana kecepatan angin sekarang?,weather_query,9
+983,983.0,apakah sudah masuk musim dingin?,weather_query,9
+984,984.0,apakah perlu membawa payung?,weather_query,9
+985,985.0,kapan musim panas tiba?,weather_query,9
+986,986.0,bagaimana cuaca di palembang sore nanti?,weather_query,9
+987,987.0,bagaimana cuaca di jogja besok?,weather_query,9
+988,988.0,apakah hujan ringan terjadi malam ini?,weather_query,9
+989,989.0,berita cuaca terbaru apa?,weather_query,9
+990,990.0,berapa derajat suhu udara di denpasar sekarang?,weather_query,9
+991,991.0,bagaimana kondisi cuaca di jakarta saat ini?,weather_query,9
+992,992.0,bagaimana kondisi cuaca saat ini?,weather_query,9
+993,993.0,bagaimana perkembangan cuaca pekan ini?,weather_query,9
+994,994.0,apakah cuaca cerah besok?,weather_query,9
+995,995.0,seperti apa cuaca bulan depan?,weather_query,9
+996,996.0,berapa kelembaban udara sekarang?,weather_query,9
+997,997.0,bagaimana kondisi cuaca di jakarta?,weather_query,9
+0,,Mainkan kembali bagian terakhir dari buku suara Harry Potter,play_audiobook,6
+1,,bagaimana keadaan cuaca di bandung saat ini,weather_query,9
+2,,resep apa saja yang menggunakan bahan dasar ikan tuna,cooking_recipe,3
+3,,apakah alarm untuk meeting sudah diaktifkan,alarm_query,0
+4,,jam berapa alarm saya akan berbunyi,alarm_query,0
+5,,Saya mau kirim email ke teman kuliah saya tentang acara reunion,email_sendemail,5
+6,,apakah jam setengah satu siang di new york sama dengan jam berapa di indonesia,datetime_convert,4
+7,,tolong hapus seluruh kegiatan pada bulan april dari kalendernya,calendar_remove,2
+8,,Mulai lagi mendengarkan seri audiobook arjunawiwa,play_audiobook,6
+9,,Ubah waktu saat ini dari cst ke pst,datetime_convert,4
+10,,apakah bisa dikonversi jam satu siang di new york menjadi waktu lokal di bandung,datetime_convert,4
+11,,Ada rekomendasi film thriller yang membuat kita tegang tidak?,recommendation_movies,7
+12,,Batalkan jadwal pertemuan besok pagi,calendar_remove,2
+13,,Ada alarm apa yang harus dibuka saat ini?,alarm_query,0
+14,,cara apa saja yang paling efektif untuk menghilangkan lemak pada daging kambing,cooking_recipe,3
+15,,Mulai lagi membaca buku dengan suara di google books!,play_audiobook,6
+16,,Batalkan seluruh kegiatan hari ini dari kalenderku,calendar_remove,2
+17,,apakah masih ada alarm yang belum diaktifkan?,alarm_query,0
+18,,Mainkan kembali audio book yang dihentikan tadi sore,play_audiobook,6
+19,,Apakah Anda dapat memberitahu saya tentang alarm yang telah saya setel sebelumnya?,alarm_query,0
+20,,Tolong hapus jadwal pertemuan dengan kliennya besok lusa.,calendar_remove,2
+21,,Cuaca seperti apa yang bisa kita hadapi besok pagi?,weather_query,9
+22,,bagaimana ramalan cuaca pekan depan,weather_query,9
+23,,saya ingin membuat pai apel tapi tidak tahu caranya,cooking_recipe,3
+24,,"Tolong, saya mau pesan tiket kereta api ke Yogyakarta",transport_ticket,8
+25,,Jam berapa sekarang di Bali jika saat ini jam delapan pagi di Medan?,datetime_convert,4
+26,,Tolong buatkan email untuk ibu saya dan beritahu bahwa saya akan pulang hari Minggu depan,email_sendemail,5
+27,,saya ingin tahu film apa yang sedang hits saat ini,recommendation_movies,7
+28,,"apa yang dimaksud dengan istilah 'badai' dalam cuaca?
+berapa banyak korban jiwa karena cuaca buruk tahun lalu?
+apa saja upaya mengantisipasi bencana alam terkait cuaca?
+apa kabar tentang pergantian musim ini?
+bagaimana cara melindungi diri dari paparan sinar matahari langsung?",weather_query,9
+29,,Tulis email ke paman saya dan tanya kabarnya serta keselamatan keluarganya,email_sendemail,5
+30,,Tolong rekomendasikan beberapa film yang cocok untuk ditonton bersama keluarga,recommendation_movies,7
+31,,berapa jam sekarang di jepun jika jam delapan malam di korea selatan,datetime_convert,4
+32,,Pesanan saya tiket shuttle bus ke Soekarno Hatta Airport,transport_ticket,8
+33,,Cukupkan volume yang terlalu tinggi,audio_volume_down,1
+34,,Buka aplikasi audiobook dan putar chapter 3,play_audiobook,6
+35,,Berapa banyak alarm yang telah saya atur hingga saat ini?,alarm_query,0
+36,,"Suara terlalu keras, tolong turunkan volumenya",audio_volume_down,1
+37,,Buatlah email kepada bapak tentang hasil pertandingan sepak bola kemarin malam,email_sendemail,5
+38,,Saya mau kirim email ke teman saya yang sedang kuliah di Amerika Serikat,email_sendemail,5
+39,,Jam berapa sekarang di Makassar jika saat ini jam delapan malam di Surabaya?,datetime_convert,4
+40,,Tolong berikan harga tiket pesawat terbang ke Medan,transport_ticket,8
+41,,Film apa yang paling cocok untukku tonton hari Minggu ini?,recommendation_movies,7
+42,,Pesanan tiket shuttle bus ke Bandara Soekarno Hatta,transport_ticket,8
+43,,Pesanan tiket kereta ke Solo untuk hari Minggu này.,transport_ticket,8
+44,,Saya ingin mengetahui tentang pengaturan alarm saya.,alarm_query,0
+45,,Hapus perayaan ultah di tanggal 25 desember dari kalenderku,calendar_remove,2
+46,,resep apa saja yang cocok dengan daging sapi muda,cooking_recipe,3
+47,,Di zona waktu mana kita berada? Tolong ubah ke waktu singapore.,datetime_convert,4
+48,,Tolong hapus semua acara pada hari sabtu depan.,calendar_remove,2
+49,,Gimana sih cara mengukus ikan nila agar tidak amis?,cooking_recipe,3
+50,,dimana saya dapat mencari resep kue putu piring yang lezat,cooking_recipe,3
+51,,siapa yang dapat membantu saya mencari alarm saya,alarm_query,0
+52,,Tolong carikan saya harga tiket pesawat terbang ke Medan,transport_ticket,8
+53,,"Ada film baru yang bagus dan layak ditonton minggu ini, bisa diberi tahukan?",recommendation_movies,7
+54,,bagaimana keadaan cuaca di yogyakarta saat ini,weather_query,9
+55,,Hapus pertemuan bisnis pada jam 2 siang nanti,calendar_remove,2
+56,,akan hujan atau cerah hari ini,weather_query,9
+57,,Tolong carikan tiket pesawat terbang ke Medan,transport_ticket,8
+58,,Saya ingin melihat daftar alarm yang telah diatur pada ponsel saya,alarm_query,0
+59,,"Di zona waktu mana kita berada, tolong ubah ke waktu Surabaya?",datetime_convert,4
+60,,Cari tiket promo ke Lombok untuk akhir pekan ini,transport_ticket,8
+61,,akan turun hujan atau cerah besok siang?,weather_query,9
+62,,Buka aplikasi audible dan putar buku favorit saya,play_audiobook,6
+63,,buatlah email ke pihak hotel tentang reservasi kamar kita,email_sendemail,5
+64,,Kapan alarm saya akan berbunyi lagi?,alarm_query,0
+65,,Mainkan lagi audio book Sapiens Yuval Noah Harari,play_audiobook,6
+66,,Batalkan semua rencana saya hari Minggu depan.,calendar_remove,2
+67,,"Saya ingin membuat pai apel, ada resep yang mudah?",cooking_recipe,3
+68,,berapa banyak air yang harus digunakan ketika memasak nasi goreng,cooking_recipe,3
+69,,Mulai lagi membaca buku dengan suara keras,play_audiobook,6
+70,,berapa takaran gula pasir yang dibutuhkan untuk membuat kue putu,cooking_recipe,3
+71,,kondisi cuaca seperti apa di bandung saat ini,weather_query,9
+72,,resep apa saja yang cocok untuk daging sapi muda,cooking_recipe,3
+73,,berapa takaran gula pasir yang dibutuhkan untuk membuat es teler,cooking_recipe,3
+74,,Mulai membuat email kepada adik saya tentang kesempatan magang di perusahaan besar,email_sendemail,5
+75,,Email ke adik tentang acara ulang tahunnya minggu depan,email_sendemail,5
+76,,Mainkan kembali audio book tentang sejarah Indonesia,play_audiobook,6
+77,,berapa kecepatan angin di bandung saat ini,weather_query,9
+78,,Cari tiket promo ke Makassar dan pesankan untuk saya,transport_ticket,8
+79,,Buatlah email kepada bapak direktur tentang permintaan cuti bulan depan,email_sendemail,5
+80,,"Volume ini terlalu tinggi, mohon dikurangi beberapa level",audio_volume_down,1
+81,,Pesanan tiket kapal laut ke Bali untuk akhir pekan ini,transport_ticket,8
+82,,Kirimi email ke kakak ipar tentang undangan ulang tahun anaknya,email_sendemail,5
+83,,Buka aplikasi audiobook dan putar chapter selanjutnya dari novel itu,play_audiobook,6
+84,,Batalkan semua rencana di kalender saya mulai hari senin,calendar_remove,2
+85,,Berapa banyak alarm yang masih aktif pada perangkat ini,alarm_query,0
+86,,"berapa besar kemungkinan gempa karena cuaca?
+apakah akan ada gerhana matahari bulan depan?
+berapa tingkat kelembaban relatif saat ini?
+berapa besar intensitas sinar uv hari ini?
+apakah sedang masa transisi musim?
+berapa besar potensi banjir bandang?",weather_query,9
+87,,resep apa yang paling populer untuk membuat es campur di indonesia,cooking_recipe,3
+88,,Mulai putar buku 'salman rusdie - midnights children' dari awal,play_audiobook,6
+89,,Balas email dari ibu tentang acara ultahnya minggu depan,email_sendemail,5
+90,,Berapa suhu udara di Bali saat ini?,weather_query,9
+91,,"Saya ingin menonton film romance, rekomendasikan beberapa judul bagus!",recommendation_movies,7
+92,,resep apa yang paling cocok untuk daging sapi cincang,cooking_recipe,3
+93,,"Volume ini terlalu bising, silakan dikecilkan",audio_volume_down,1
+94,,Pesankan saya tiket kereta ekonomi ke Semarang untuk besok pagi,transport_ticket,8
+95,,"Volume ini terlalu tinggi, mohon untuk dikurangi",audio_volume_down,1
+96,,Apa ada rekomendasi film action terbaik tahun ini?,recommendation_movies,7
+97,,Hapus agenda wisuda adikku yang telah ditunda beberapa kali.,calendar_remove,2
+98,,berapa gram gula pasir yg dibutuhkan utk membuat kue cubit,cooking_recipe,3
+99,,kondisi cuaca bagaimana di bandung bulan depan?,weather_query,9
+100,,Alarm apa yang akan berbunyi pada pukul 7 malam nanti?,alarm_query,0
+101,,Lanjutkan mendengarkan novel ini,play_audiobook,6
+102,,Saya mau kirim email ke teman-teman kuliah tentang reuni tahun depan,email_sendemail,5
+103,,Tolong buatkan email untuk ibu saya dan ceritakan tentang keseluruhan pekerjaan saya,email_sendemail,5
+104,,apakah ada resep untuk pai apel yang mudah dibuat,cooking_recipe,3
+105,,"Turunkan volume TV itu, terlalu keras",audio_volume_down,1
+106,,Tolong ubah waktu saat ini dari UTC+1 ke UTC+7,datetime_convert,4
+107,,Buka aplikasi audible dan putar buku yang tersimpan,play_audiobook,6
+108,,Hapus pengingat ultah teman sekelas kuhari ini,calendar_remove,2
+109,,"Kecilkan suaranya, saya tidak dapat mendengarnya dengan jelas",audio_volume_down,1
+110,,Menghapus perjanjian bisnis pada tanggal lima bulan depan dari kalendernya,calendar_remove,2
+111,,kondisi cuaca seperti apa di bandung bulan ini?,weather_query,9
+112,,Jika saat ini jam sembilan pagi di malaysia jam berapa di thailand?,datetime_convert,4
+113,,akan ada hujan besar besok lusa tidak,weather_query,9
+114,,bagaimana cara menghilangkan rasa pahit pada masakan sayuran,cooking_recipe,3
+115,,Apa ada rekomendasi film action yang baru dirilis minggu ini?,recommendation_movies,7
+116,,Tolong buatkan email ke adikku yang kuliah di jogja,email_sendemail,5
+117,,tolong kirimkan email ke rektor universitas tentang pengajuan beasiswa,email_sendemail,5
+118,,Tolong buatkan email ke teman kuliah saya yang sedang berada di Amerika,email_sendemail,5
+119,,"Jika saat ini jam tujuh pagi di Bali, jam berapa di Pontianak?",datetime_convert,4
+120,,"Tolong buatkan email ke teman saya yang berjudul ""Undangan Pesta Ulang Tahun""",email_sendemail,5
+121,,Di zona waktu apa kita berada? Tolong ubah ke lokasi Yogyakarta!,datetime_convert,4
+122,,Ubah zona waktu dari Amerika Serikat ke Indonesia bagian barat!,datetime_convert,4
+123,,bagaimana ramalan cuaca untuk akhir pekan ini,weather_query,9
+124,,berapa banyak gula pasir yang dibutuhkan untuk membuat martabak manis,cooking_recipe,3
+125,,Saya mau memesan tiket bisnis kereta api ke Yogyakarta,transport_ticket,8
+126,,Di zona waktu mana kita berada? Tolong ubah ke zona waktu Yogyakarta.,datetime_convert,4
+127,,Pesanlah tiket ferry ke Lombok untuk akhir pekan ini,transport_ticket,8
+128,,berapa banyak alarm yang saya miliki,alarm_query,0
+129,,Buka aplikasi audible dan putar novel romantis favorit saya,play_audiobook,6
+130,,Saya mau beli tiket travel ke Lombok untuk bulan depan,transport_ticket,8
+131,,Mainkan kembali bagian terakhir dari novel itu,play_audiobook,6
+132,,Tolong putar ulang audio book terpopuler,play_audiobook,6
+133,,bagaimana keadaan cuaca di jogja bulan depan,weather_query,9
+134,,Tolong buatkan email ke adik saya tentang undangan ulang tahunnya,email_sendemail,5
+135,,Mainkan kembali audio book yang tertunda kemarin siang,play_audiobook,6
+136,,rekomen film komedi indonesia yang paling lucu dan wajib ditonton,recommendation_movies,7
+137,,"Jika sekarang jam satu siang di yogyakarta, jam berapa di amsterdam?",datetime_convert,4
+138,,Saya ingin mengirim email ke sahabat saya di Inggris tentang liburan musim panas,email_sendemail,5
+139,,Mainkan kembali bagian akhir dari novel negeri van orang,play_audiobook,6
+140,,Di zona waktu mana kita berada? Tolong ubah ke lokasi Solo.,datetime_convert,4
+141,,Buatkan surat elektronik ke rektor universitas tentang pengajuan proposal,email_sendemail,5
+142,,Tolong hapus semua kegiatan sosial saya hari Sabtu,calendar_remove,2
+143,,Batalkan janjian dengan pacar pada hari Minggu,calendar_remove,2
+144,,Di mana saya dapat menemukan resep kue cubit yang sempurna?,cooking_recipe,3
+145,,Tolong kirim email ke adik saya tentang berita gembira itu,email_sendemail,5
+146,,Buat dan kirim email ke ibu tentang hasil ujian kemarin,email_sendemail,5
+147,,Alarm apa saja yang akan berbunyi pagi ini?,alarm_query,0
+148,,Lanjutkan mendengar audio buku 'Si Kancil' dari where I left off,play_audiobook,6
+149,,cara mengolah daging sapi agar tidak keras dan alot,cooking_recipe,3
+150,,bagaimana cara mengetahui alarm yang saya miliki,alarm_query,0
+151,,Tolong kirimkan sebuah email ke ibu saya bahwa saya akan pulang malam ini,email_sendemail,5
+152,,Pesanlah tiket pesawat ke Medan untuk akhir pekan ini,transport_ticket,8
+153,,Kamu punya rekomendasi film sci-fi yang baru dirilis?,recommendation_movies,7
+154,,Bisakah Anda merekomendasikan film horor yang membuat merinding?,recommendation_movies,7
+155,,Mau tau film apa yang cocok buat aku?,recommendation_movies,7
+156,,Kamu punya rekomendasi film sci-fi yang wajib ditonton?,recommendation_movies,7
+157,,tolong konversikan waktu indonesia barat ke waktu malaysia,datetime_convert,4
+158,,berapa derajat suhu udara di jakarta saat ini?,weather_query,9
+159,,bagaimana cara mengetahui alarm yang telah diatur?,alarm_query,0
+160,,resep apa yg paling enak utk ikan nila,cooking_recipe,3
+161,,resep apa saja yang cocok untuk daging sapi panggang,cooking_recipe,3
+162,,Batalkan semua kegiatan yang telah dijadwal pada bulan depan,calendar_remove,2
+163,,Saya ingin tahu film apa yang sangat populer saat ini,recommendation_movies,7
+164,,Saya butuh tiket bisnis class ke Medan untuk bulan depan,transport_ticket,8
+165,,Kirim email ke divisi HR tentang cuti tahunan,email_sendemail,5
+166,,bagaimana keadaan cuaca jakarta saat ini,weather_query,9
+167,,hapus agenda hari libur akhir pekan ini,calendar_remove,2
+168,,Hapus perjalanan wisata keluarga minggu depan dari kalenderku,calendar_remove,2
+169,,berapa derajat suhu udara pagi ini?,weather_query,9
+170,,Tolong kurangi volume speaker,audio_volume_down,1
+171,,Saya ingin tahu film apa yang paling banyak dinonton orang-orang akhir-akhir ini,recommendation_movies,7
+172,,Saya ingin mengetahui daftar alarm yang telah diatur.,alarm_query,0
+173,,Cari tiket promo ke Medan untuk bulan depan,transport_ticket,8
+174,,Lanjutkan mendengarkan buku yang tertunda,play_audiobook,6
+175,,Tolong kirimkan email ke kakak saya yang sedang kuliah di luar negeri,email_sendemail,5
+176,,kondisi cuaca seperti apa di surabaya bulan depan,weather_query,9
+177,,Saat ini jam dua belas siang di malaysia jam berapa di indonesia,datetime_convert,4
+178,,"Volume ini terlalu tinggi, tolong turunkan sedikit",audio_volume_down,1
+179,,cara mengolah ikan kakap merah agar tidak amis,cooking_recipe,3
+180,,Lanjutkan membaca buku Harry Potter dari bab sebelumnya,play_audiobook,6
+181,,Tolong hapus semua entry kalender untuk minggu depan,calendar_remove,2
+182,,Mainkan ulang bagian akhir dari audiobook motivasi,play_audiobook,6
+183,,Tolong buatkan email kepada ibu saya bahwa saya akan pulang malam ini,email_sendemail,5
+184,,Kecilkan volume pengeras suaranya,audio_volume_down,1
+185,,tolong ubah zona waktu dari indonesia bagian barat ke indonesia bagian timur,datetime_convert,4
+186,,dimana saya bisa melihat daftar alarm yang telah diatur?,alarm_query,0
+187,,berapa derajat suhu udara hari ini,weather_query,9
+188,,bagaimana keadaan cuaca bulan depan,weather_query,9
+189,,Kamu punya rekomendasi film sci-fi yang bagus dan wajib ditonton?,recommendation_movies,7
+190,,apakah sudah diatur alarm untuk pukul 7 pagi besok,alarm_query,0
+191,,apakah akan ada badai di daerah sini akhir pekan ini?,weather_query,9
+192,,Tolong putar ulang episode ke-5 dari seri audio tersebut,play_audiobook,6
+193,,apa yang terjadi dengan cuaca di jogja siang nanti,weather_query,9
+194,,tolong rekomendasi beberapa film action yang seru dan populer belakangan ini,recommendation_movies,7
+195,,Tolong putar ulang bab terakhir dari negeri 5 menara!,play_audiobook,6
+196,,Hapus reservasi hotel dari kalender saya,calendar_remove,2
+197,,berapa jam sekarang di bekasi jika jam satu siang di paris,datetime_convert,4
+198,,Berapa banyak bahan yang dibutuhkan untuk membuat cake coklat Moist?,cooking_recipe,3
+199,,Buka aplikasi audible dan mainkan chapter 5,play_audiobook,6
+200,,"Suaranya terlalu tinggi, tolong kecilkan",audio_volume_down,1
+201,,Hapus rencana makan malam dengan keluarga dari kalender saya,calendar_remove,2
+202,,Apa ada rekomendasi film action yang baru rilis?,recommendation_movies,7
+203,,Alarm apa saja yang akan berbunyi nanti?,alarm_query,0
+204,,Buka aplikasi audible dan putar chapter selanjutnya dari novel romance,play_audiobook,6
+205,,resep apa saja yang dapat dibuat dengan bahan dasar ikan tuna,cooking_recipe,3
+206,,Alarm apa saja yang harus diaktifkan pada pukul 7 malam nanti?,alarm_query,0
+207,,cara apa yang efektif untuk menghilangkan bau amis pada daging kambing,cooking_recipe,3
+208,,Gimana cara mengolah ikan tuna agar tidak amis dan tetap fresh?,cooking_recipe,3
+209,,resep masakan apa yang cocok untuk anak-anak berusia 5 tahun?,cooking_recipe,3
+210,,Tolong buatkan email ke pihak marketing tentang promosi produk baru,email_sendemail,5
+211,,Ada film thriller yang bagus untuk ditonton akhir pekan ini?,recommendation_movies,7
+212,,konversikan waktu dari utc+7 ke utc-5,datetime_convert,4
+213,,Saya ingin mengetahui apakah alarm telah diatur untuk besok.,alarm_query,0
+214,,apa ramalan cuaca di solo selama satu minggu ke depan,weather_query,9
+215,,Kirimkan email ke kantor pusat dengan subjek laporan bulanan,email_sendemail,5
+216,,Tolong reduksi volume agar tidak begitu kencang,audio_volume_down,1
+217,,Tunjukkan saya daftar film romantis yang baru rilis,recommendation_movies,7
+218,,Tolong carikan tiket kapal laut ke Lombok,transport_ticket,8
+219,,Apakah Anda dapat menampilkan daftar alarm yang telah diatur?,alarm_query,0
+220,,Mulai lagi dari chapter 5 buku audio tersebut,play_audiobook,6
+221,,Cuaca bagaimana sih di medan minggu lalu?,weather_query,9
+222,,akan ada hujan atau tidak siang nanti?,weather_query,9
+223,,Lanjutkan mendengarkan cerita rakyat indonesia,play_audiobook,6
+224,,siapa tahu resepi untuk membuat krupuk udang yang crispy dan enak,cooking_recipe,3
+225,,Mulai putar buku harry potter dari awal,play_audiobook,6
+226,,Tampilkan semua alarm yang saya atur kemarin!,alarm_query,0
+227,,"apa kabar cuaca di pulau sumatera saat ini?
+berapa derajat suhu udara rata-rata di indonesia?
+apa saja jenis-jenis awan yang ada dalam cuaca?
+berapa besar dampak cuaca terhadap pertanian?
+apa kabar tentang kondisi lingkungan hidup terkait cuaca?",weather_query,9
+228,,Mohon kecilkan volume agar kami dapat berbicara santai,audio_volume_down,1
+229,,kamu punya saranan film sci-fi yang seru untuk ditonton,recommendation_movies,7
+230,,cuaca seperti apa di jakarta saat ini?,weather_query,9
+231,,Bisakah Anda memberi saran film animasi yang cocok untuk anak-anak?,recommendation_movies,7
+232,,Tolong buatkan email ke pihak marketing tentang promo produk baru,email_sendemail,5
+233,,Jam berapa sekarang di Bali jika sekarang jam delapan pagi di Surabaya?,datetime_convert,4
+234,,kondisi cuaca bagaimana siang ini,weather_query,9
+235,,resepi apa yang paling populer untuk acara arisan bulanan ini,cooking_recipe,3
+236,,hapus pertemuan bisnis dengan direktur pada tanggal lima april dari kalenderku,calendar_remove,2
+237,,Tolong buatkan email untuk ibu saya yang berisi ucapan selamat ulang tahun,email_sendemail,5
+238,,Kapan alarm terakhir kali dibuat?,alarm_query,0
+239,,Saya mau kirim email ke teman saya di Amerika Serikat,email_sendemail,5
+240,,Batalin saja semua janjian yang ada di kalenderku,calendar_remove,2
+241,,kamu punya rekomendasi film action yang baru dirilis,recommendation_movies,7
+242,,Batalkan semua kegiatan yang telah terschedule hari ini,calendar_remove,2
+243,,Bisakah Anda mengurangi volumenya?,audio_volume_down,1
+244,,Di zona waktu mana kita berada? Tolong ubah ke lokasi Palembang!,datetime_convert,4
+245,,Hapuskan semua pengingat di kalender saya hari ini,calendar_remove,2
+246,,bagaimana kondisi cuaca jogja saat ini,weather_query,9
+247,,Tolong buatkan email untuk ibu saya tentang acara ulang tahunnya,email_sendemail,5
+248,,siapa yang mengatur alarm untuk saya,alarm_query,0
+249,,Saya ingin tahu film apa yang sedang populer saat ini,recommendation_movies,7
+250,,Hapus pertemuan bisnis yang telah lalu,calendar_remove,2
+251,,Saya mau mengirim email ke teman sekantor tentang acara ultahnya,email_sendemail,5
+252,,Lanjutkan membaca buku terbaru,play_audiobook,6
+253,,saya ingin memasak daging sapi dengan bumbu khas jawa hvad apa saja bahannya,cooking_recipe,3
+254,,Tolong reduksi volume sekitar lima puluh persen,audio_volume_down,1
+255,,Tolong kurangi suara agar tidak begitu keras,audio_volume_down,1
+256,,Tolong berikan harga tiket kereta api ke Surabaya,transport_ticket,8
+257,,buatlah resep masakan sederhana menggunakan ikan nila dan sayuran,cooking_recipe,3
+258,,Buka aplikasi audible dan putar chapter selanjutnya,play_audiobook,6
+259,,resepmacam apa yang sesuai untuk acara makan malam romantis,cooking_recipe,3
+260,,Hapus pertemuan bisnis jam 2 siang dari kalender saya,calendar_remove,2
+261,,Mulai sebuah email ke guru ngaji tentang pertanyaan pelajaran,email_sendemail,5
+262,,Pesanlah tiket pesawat terbang ke Bali untuk besok,transport_ticket,8
+263,,Bagaimana cara melihat daftar alarm yang telah saya buat?,alarm_query,0
+264,,Volume nya masih terlalu keras tolung kurangi lagi,audio_volume_down,1
+265,,Saya butuh tiket kapal laut ke Lombok,transport_ticket,8
+266,,Apa ada film horor yang sangat populer dan wajib ditonton?,recommendation_movies,7
+267,,Tampilkan semua alarm yang telah diatur!,alarm_query,0
+268,,Bagaimana prediksi cuaca di yogyakarta bulan depan?,weather_query,9
+269,,Berikan rekomendasi film action yang sangat seru dan menghibur,recommendation_movies,7
+270,,Saya mau kirim email ke adik ipar tentang undangan ultahnya,email_sendemail,5
+271,,Tolong hapus seluruh jadwal yang ada di kalenderku,calendar_remove,2
+272,,Tolong carikan tiket pesawat ke Medan untuk besok,transport_ticket,8
+273,,Tolong putar ulang babak akhir dari cerita Sherlock Holmes,play_audiobook,6
+274,,Hapus pertemuan bisnis dengan klien baru di kalender saya.,calendar_remove,2
+275,,Buatkan email ke ibu tentang hasil belanja bulanan,email_sendemail,5
+276,,Alarm apa saja yang akan berbunyi pada pukul 7 malam nanti?,alarm_query,0
+277,,cara masak daging sapi dengan bumbu kecap manis,cooking_recipe,3
+278,,Alarm apa saja yang telah saya atur untuk hari ini,alarm_query,0
+279,,"Volume ini terlalu tinggi, tolong dikurangi",audio_volume_down,1
+280,,Buatlah email ke ibu tentang hasil belanja bulanan,email_sendemail,5
+281,,"Jika saat ini jam delapan malam di Makassar, jam berapa di Papua?",datetime_convert,4
+282,,apakah bakal hujan besar di jakarta siang nanti,weather_query,9
+283,,Resep apa saja yang diperlukan untuk membuat soto betawi yang otentik?,cooking_recipe,3
+284,,Apakah Anda dapat memberitahu saya tentang alarm kerja saya?,alarm_query,0
+285,,Mulai lagi mendengarkan buku self improvement,play_audiobook,6
+286,,Alarm apa saja yang telah diaktifkan pada pukul 7 malam?,alarm_query,0
+287,,Saya mau beli tiket kereta api ke Yogyakarta,transport_ticket,8
+288,,Kursi mana yang tersedia di tiket kereta ke Semarang?,transport_ticket,8
+289,,Tolong hapus semua kegiatan yang telah lewat,calendar_remove,2
+290,,Bisa tidak suaranya dikecilkan?,audio_volume_down,1
+291,,resep apa yang cocok untuk membuat es teler yang segar dan nikmat,cooking_recipe,3
+292,,Saya mau beli tiket kapal laut ke Lombok,transport_ticket,8
+293,,Tolong mainkan kembali audio book yang tertunda tadi malam,play_audiobook,6
+294,,Tolong buatkan email kepada ibu tentang hasil tes kemarin,email_sendemail,5
+295,,kamu punya rekomendasi film action yang keren ga?,recommendation_movies,7
+296,,"Bicara lebih pelan saja, saya tidak tahan kalau keras-keras",audio_volume_down,1
+297,,Bisakah Anda memberi saran film thriller yang baru dirilis?,recommendation_movies,7
+298,,Berapa banyak alarm yang saya miliki?,alarm_query,0
+299,,Hapus kelas yoga yang dijadwalkan untuk hari Sabtu,calendar_remove,2
+300,,Jam berapa sekarang di Bali jika saat ini jam delapan malam di Medan?,datetime_convert,4
+301,,Di mana saya dapat menemukan resep untuk membuat bakpia pathok?,cooking_recipe,3
+302,,Hapus acara olahraga sore ini dari kalenderku.,calendar_remove,2
+303,,Tunjukkan beberapa film thriller yang wajib ditonton tahun ini,recommendation_movies,7
+304,,Saya ingin mengetahui alarm mana yang telah diaktifkan.,alarm_query,0
+305,,Bisakah Anda memberi tahu saya tentang film thriller yang paling populer saat ini?,recommendation_movies,7
+306,,cuaca seperti apa di jakarta utara bulan depan,weather_query,9
+307,,Pesanan tiket bisnis class ke Jakarta sudah dapat dikirim?,transport_ticket,8
+308,,cuaca seperti apa di bandung siang nanti,weather_query,9
+309,,Kirimkan email ke teman-teman sekelas tentang reuni akhir pekan depan,email_sendemail,5
+310,,Lanjutkan mendengarkan buku self improvement yang tertunda,play_audiobook,6
+311,,Batalkan perjalanan bisnis ke luar negeri pada akhir tahun,calendar_remove,2
+312,,Tolong kurangi volume agar tidak terlalu keras,audio_volume_down,1
+313,,Hapus acara penting di kalender bulan depan,calendar_remove,2
+314,,Tolong putar ulang bagian akhir dari buku 'negeri 5 menara',play_audiobook,6
+315,,konversikan jam dua belas siang dari utc minus lima ke waktu lokal di semarang,datetime_convert,4
+316,,Mulai lagi mendengarkan buku audio tentang sejarah Indonesia,play_audiobook,6
+317,,cara mengolah daging sapi agar tidak keras,cooking_recipe,3
+318,,"Ada film komedi yang baru saja tayang di bioskop?
+Siapakah aktor favoritmu dalam film superhero?
+Rekomendasikan beberapa film drama yang membuat kita merasa kesal!
+Bagaimana dengan film adventure yang memiliki alur cerita unik?
+Film apa yang sangat direkomendasikan dan wajib ditonton tahun ini?",recommendation_movies,7
+319,,"Cukup lama saya tidak tahan karena volume yang amat keras, tolong turunin",audio_volume_down,1
+320,,apakah bisa dikonversi jam satu siang di thailand menjadi waktu lokal saya?,datetime_convert,4
+321,,Ubah zona waktu dari WIB ke WIT untuk mengetahui jam berapa di Bali?,datetime_convert,4
+322,,Saya mau beli tiket bisnis class ke Jakarta,transport_ticket,8
+323,,Kita perlu menurunkan volume agar semua orang dapat mendengar,audio_volume_down,1
+324,,Bisakah Anda katakan kepada saya jam berapa pukul sembilan malam di Singapura?,datetime_convert,4
+325,,Film apa yang sangat direkomendasikan oleh kritikus film?,recommendation_movies,7
+326,,Tolong carikan tiket pesawat murah ke Bali,transport_ticket,8
+327,,Buka aplikasi audible dan mainkan buku favorit saya,play_audiobook,6
+328,,Gimana sih cara bikin martabak manis yang empuk?,cooking_recipe,3
+329,,Apakah alarm untuk pengingat makan obat sudah dihidupkan?,alarm_query,0
+330,,Berapa harganya tiket bisnis class ke Semarang?,transport_ticket,8
+331,,berapa gram gula pasir yang dibutuhkan untuk membuat kue putu,cooking_recipe,3
+332,,batalkan semua kegiatan pada kalender saya hari ini,calendar_remove,2
+333,,Tolong putar ulang bab 5 dari buku self improvement itu,play_audiobook,6
+334,,Cara memesan tiket kereta online dan berapa harganya?,transport_ticket,8
+335,,Saya mau beli tiket kapal laut ke Batam,transport_ticket,8
+336,,Tolong carikan tiket kereta ke Surabaya yang tersedia hari ini,transport_ticket,8
+337,,Ubah waktu saat ini dari GMT+7 ke GMT-5 untuk mengetahui jam berapa di New York.,datetime_convert,4
+338,,Mulai putar audiobook Matilda Roald Dahl dari awal lagi,play_audiobook,6
+339,,film apa yang sangat direkomendasikan untuk anak muda seperti saya,recommendation_movies,7
+340,,Jam berapa alarm akan berbunyi besok?,alarm_query,0
+341,,Saya butuh tiket kereta api ke Yogyakarta besok pagi,transport_ticket,8
+342,,Batalkan semua janjian di kalender saya,calendar_remove,2
+343,,Bisakah Anda memberi tahu film komedi yang sedang popular saat ini?,recommendation_movies,7
+344,,Apakah Anda dapat memberitahu saya tentang alarm yang telah diatur?,alarm_query,0
+345,,Bisakah Anda mengurangi volume speaker tersebut?,audio_volume_down,1
+346,,Konversikan waktu dari zona CST ke zona WITA!,datetime_convert,4
+347,,Tulislah email ke kakak ipar tentang undangan makan malam besok,email_sendemail,5
+348,,Di zona waktu mana kita berada? Tolong ubah ke lokasi solo,datetime_convert,4
+349,,Perkirakan cuaca di surabaya pekan depan!,weather_query,9
+350,,"Kecilkanlah suaranya, saya tidak nyaman mendengarnya",audio_volume_down,1
+351,,Tolong hapus seluruh jadwal saya hari ini,calendar_remove,2
+352,,"Volume ini terlalu keras, tolong turunkannya",audio_volume_down,1
+353,,Ubah zona waktu dari WIB ke WITA.,datetime_convert,4
+354,,di mana saya dapat menemukan resep untuk martabak manis,cooking_recipe,3
+355,,berapa takaran bumbu yang diperlukan untuk membuat rendang sapi,cooking_recipe,3
+356,,Berapa banyak gula pasir yang dibutuhkan untuk membuat es teler?,cooking_recipe,3
+357,,Lanjutkan mendengarkan cerita rakyat,play_audiobook,6
+358,,Tolong ubah waktu dari timezone asia/jakarta ke timezone america/new_york,datetime_convert,4
+359,,Kirimi email ke sepupu saya tentang lowongan pekerjaan yang ada di perusahaan kami,email_sendemail,5
+360,,Berapa banyak gula pasir yang dibutuhkan untuk membuat cake coklat?,cooking_recipe,3
+361,,Hapus pertemuan bisnis jam 2 sore nanti dari kalenderku,calendar_remove,2
+362,,Tolong kurangi volume sekarang juga,audio_volume_down,1
+363,,Batalkan semua kegiatan saya mulai besok,calendar_remove,2
+364,,Bisakah Anda mengurangi volume?,audio_volume_down,1
+365,,film horror apa yang sangat populer tahun ini,recommendation_movies,7
+366,,dimana saya dapat menemukan resep kue cubit enak,cooking_recipe,3
+367,,berapa derajat suhu udara saat ini?,weather_query,9
+368,,Film apa yang direkomendasikan untuk orang yang menyukai adventure?,recommendation_movies,7
+369,,Mainkan lagi dari bab 5 buku 'si doel anak sekolahan',play_audiobook,6
+370,,"Suara Anda terlalu keras, tolong turunkan sebanyak mungkin",audio_volume_down,1
+371,,Berapa harga tiket bisnis ke Jakarta?,transport_ticket,8
+372,,Alarm mana yang akan berbunyi pada pukul 7 malam nanti?,alarm_query,0
+373,,hapus rencana liburan akhir tahun,calendar_remove,2
+374,,ada film baru yang bagus untuk ditonton akhir pekan ini,recommendation_movies,7
+375,,resepmakanan apa yang cocok disajikan dengan es teh manis,cooking_recipe,3
+376,,Lanjutkan mendengarkan buku self improvement tadi malam,play_audiobook,6
+377,,berapa persen kemungkinan hujan malam ini,weather_query,9
+378,,Hapus rapat dengan direktur untuk senin depan,calendar_remove,2
+379,,film apa yang wajib ditonton bulan ini,recommendation_movies,7
+380,,Saya ingin mengetahui alarm apa saja yang telah diatur.,alarm_query,0
+381,,cara mengolah ikan tongkol agar tidak amis,cooking_recipe,3
+382,,Tolong putar ulang chapter 5 dari buku itu,play_audiobook,6
+383,,Tolong carikan saya harga tiket pesawat Jakarta-Bali,transport_ticket,8
+384,,Resep apa yang cocok untuk daging sapi cincang?,cooking_recipe,3
+385,,Tolong putar ulang bagian akhir dari cerita itu,play_audiobook,6
+386,,"Suaranya sangat keras, tolong turunin ya",audio_volume_down,1
+387,,Ubah zona waktu dari utc minus delapan ke wib,datetime_convert,4
+388,,Bisakah Anda menurunkan volume musiknya?,audio_volume_down,1
+389,,Tolong hapus semua acara pada tanggal 15 april,calendar_remove,2
+390,,apa kabar cuaca besok pagi?,weather_query,9
+391,,Berapa banyak bahan yang dibutuhkan untuk membuat es teler?,cooking_recipe,3
+392,,Tolong hapus seminar di tanggal 15 februari dari kalender saya,calendar_remove,2
+393,,Ubah waktu saat ini dari GMT+8 ke WITA.,datetime_convert,4
+394,,Resep apa yang paling enak untuk membuat es teler?,cooking_recipe,3
+395,,"Jika saat ini jam dua belas siang di Medan, jam berapa di Singapura?",datetime_convert,4
+396,,saya ingin tahu film apa yang sedang hits dan wajib ditonton,recommendation_movies,7
+397,,Kirimi email ke teman-teman sekelas tentang lokasi pertemuan kita besok,email_sendemail,5
+398,,Apakah alarm untuk meeting hari ini sudah diaktifkan?,alarm_query,0
+399,,Kondisi cuaca seperti apa di bali saat ini?,weather_query,9
+400,,Rekomendasikan beberapa film sci-fi yang wajib ditonton!,recommendation_movies,7
+401,,Buatlah email ke pihak HR tentang pengajuan cuti tahunan,email_sendemail,5
+402,,Apakah ada film animasi yang bagus dan cocok untuk semua usia?,recommendation_movies,7
+403,,siapa yang mengatur alarm untuk jam enam sore,alarm_query,0
+404,,Balas email dari tante Lisa dan katakan bahwa saya sedang sakit,email_sendemail,5
+405,,Kirimkan email ke ibu tentang hasil ujian kemarin,email_sendemail,5
+406,,Mainkan lagi dari bab 5,play_audiobook,6
+407,,cara apa yang paling baik untuk menghilangkan rasa pahit pada bayam dalam tumis bayam,cooking_recipe,3
+408,,Bagaimana cara melihat jadwal alarm yang telah saya setel?,alarm_query,0
+409,,Turunkan volume speaker tersebut,audio_volume_down,1
+410,,dimana saya dapat menemukan resep kue putu piring yang lezat,cooking_recipe,3
+411,,Cek tarif tiket kereta ke Semarang dan pesankan untuk saya,transport_ticket,8
+412,,Tolong buatkan email kepada pihak HR tentang cuti tahunan,email_sendemail,5
+413,,Hapus pertemuan bisnis dengan direktur hari senin,calendar_remove,2
+414,,Bagaimana cara melihat riwayat alarm yang pernah saya setel?,alarm_query,0
+415,,Pesanlah tiket pesawat terbang ke Bali untuk besok pagi,transport_ticket,8
+416,,Hapus rencana piknik akhir pekan ini,calendar_remove,2
+417,,resep apa saja yang cocok untuk ikan nila bakar,cooking_recipe,3
+418,,Saya mau kirim email ke istri saya yang sedang ada di luar negeri,email_sendemail,5
+419,,"Jika sekarang jam delapan malam di Singapura, jam berapa di Indonesia?",datetime_convert,4
+420,,Bisakah Anda merekomendasikan film romance yang cocok untuk pasangan muda?,recommendation_movies,7
+421,,"Suara ini terlalu keras, tolong turunkannya beberapa level",audio_volume_down,1
+422,,"Kecilkanlah suaranya, saya tidak dapat mendengarnya",audio_volume_down,1
+423,,Ubah waktu saat ini dari GMT+7 ke GMT-5.,datetime_convert,4
+424,,Sarankan beberapa film horor Indonesia yang bagus dan seru,recommendation_movies,7
+425,,Tolong hapus seminar yang telah lewat dari kalender saya,calendar_remove,2
+426,,Saya butuh saran film comedy yang bisa membuat saya tertawa keras-keras hari ini?,recommendation_movies,7
+427,,Hapus perjalanan wisata akhir pekan ini dari kalender,calendar_remove,2
+428,,Bagaimana kalau kita bahas tentang film-film klasik yang wajib ditonton?,recommendation_movies,7
+429,,film apa saja yang direkomendasikan untuk akhir pekan ini?,recommendation_movies,7
+430,,apakah akan hujan lebat sore nanti?,weather_query,9
+431,,kapan waktu sholat dzuhur di kairo jika saat ini jam dua belas siang di paris,datetime_convert,4
+432,,Alarm apa saja yang akan berbunyi pada jam 7 pagi nanti?,alarm_query,0
+433,,Tolong hapus seluruh jadwal saya bulan depan.,calendar_remove,2
+434,,Saya mau memesan tiket kereta api ke Surabaya,transport_ticket,8
+435,,apakah ada resep masakan bebek peking yang mudah dibuat,cooking_recipe,3
+436,,Saya mau mengirim email ke teman kuliah lama untuk bertanya kabar,email_sendemail,5
+437,,Berapa jam sekarang di kuala lumpur jika sekarang jam delapan malam di singapore,datetime_convert,4
+438,,Buatlah email ke pihak hrd tentang surat lamaran kerja,email_sendemail,5
+439,,Perkirakan suhu udara di Surabaya siang nanti.,weather_query,9
+440,,"Cukup keras, tolong kecilkan volume agar kami tidak terganggu",audio_volume_down,1
+441,,Kirimkanlah email ke paman tentang acara pernikahan kita minggu depan,email_sendemail,5
+442,,Mohon bantu kurangi volume agar kita dapat berbicara santai,audio_volume_down,1
+443,,Cari tiket bisnis class ke Singapura untuk bulan depan,transport_ticket,8
+444,,Mainkan kembali audiobook yang tertunda tadi malam,play_audiobook,6
+445,,Rekomendasikan film action yang baru dirilis kemarin,recommendation_movies,7
+446,,Menghapus seminar di kalender saya bulan depan,calendar_remove,2
+447,,bagaimana ramalan cuaca besok lusa,weather_query,9
+448,,Batalkan janji dengan dokter spesialis untuk besok,calendar_remove,2
+449,,Saya mau mengirim email ke teman saya tentang rencana liburan akhir tahun,email_sendemail,5
+450,,Hapus agenda kerja hari Jumat lalu dari kalender saya,calendar_remove,2
+451,,Apakah Anda dapat memberitahu saya tentang alarm yang akan berbunyi?,alarm_query,0
+452,,ubah waktu dari utc+1 ke utc-5,datetime_convert,4
+453,,"Tolong buatkan email kepada teman saya tentang acara ulang tahun 
+Saya mau mengirim email ke pihak HR tentang pengajuan cuti 
+Buatlah email ke adik saya dan tanya kabarnya 
+Kirim email ke tim marketing tentang proposal kerja sama 
+ Tolong kirimkan email ke guru saya tentang hasil ujian kemarin",email_sendemail,5
+454,,dimana saya dapat menemukan resep masakan khas jawa tengah,cooking_recipe,3
+455,,bagaimana prediksi cuaca bulan depan di surabaya?,weather_query,9
+456,,Kurangi volume agar kita dapat berbicara dengan nyaman,audio_volume_down,1
+457,,Film apa yang sangat recommended dan sedang trending saat ini?,recommendation_movies,7
+458,,Bisakah Anda mengurangi volume speaker?,audio_volume_down,1
+459,,Hapus agenda rapat pada tanggal 15 Mei dari kalender saya,calendar_remove,2
+460,,"Kecilkan suaranya, saya tidak nyaman dengannya",audio_volume_down,1
+461,,Kami ingin mencari film romance yang bagus untuk ditonton bareng pasangan,recommendation_movies,7
+462,,Kamu punya rekomendasi film sci-fi yang bagus nggak?,recommendation_movies,7
+463,,Batalkan seluruh jadwal saya bulan depan,calendar_remove,2
+464,,Jika saat ini jam dua belas siang di Bali jam berapa di london,datetime_convert,4
+465,,Buka aplikasi audiobook dan mainkan chapter 5,play_audiobook,6
+466,,cara mengolah buncis agar tidak pahit,cooking_recipe,3
+467,,bisakah Anda memberi saran film romance yang cocok buatku?,recommendation_movies,7
+468,,Pesanan tiket travel ke Lombok masih tersedia?,transport_ticket,8
+469,,Bisakah Anda memberi tahu film romance yang sedang trending saat ini?,recommendation_movies,7
+470,,"berapa besar peluang hujan petir sore nanti?
+apakah masih dalam masa pancaroba?
+berapa curah hujan tertinggi bulan lalu?
+berapa besar kemungkinan aborsi siklon tropis?
+berapa tingkat visibilitas saat ini?
+apakah akan ada badai pasir bulan depan?",weather_query,9
+471,,ubah zona waktu dari new york ke jakarta,datetime_convert,4
+472,,Tolong putar lagi episode kedua dari seri podcast bisnis,play_audiobook,6
+473,,Tolong berikan saya harga tiket pesawat ke Bali,transport_ticket,8
+474,,Hapus semua agenda saya bulan depan,calendar_remove,2
+475,,"Suaranya sangat keras, mohon untuk menurunkan volume",audio_volume_down,1
+476,,Mulai memutar ulang buku best seller dari raditya dikdia,play_audiobook,6
+477,,Berapa banyak alarm yang masih aktif pada pukul ini?,alarm_query,0
+478,,Buka aplikasi audible dan putar buku romance kesayangan saya,play_audiobook,6
+479,,kondisi cuaca seperti apa di yogyakarta bulan depan,weather_query,9
+480,,berapa besar peluang hujan esok lusa?,weather_query,9
+481,,Tolong kurangi volume agar kami bisa berbicara santai,audio_volume_down,1
+482,,Pesanan saya sebuah tiket kereta ekonomi ke Semarang untuk besok pagi,transport_ticket,8
+483,,Saya mau memesan tiket bisnis class ke Medan,transport_ticket,8
+484,,Jika saat ini jam sembilan malam di kuala lumpur jam berapa di bali,datetime_convert,4
+485,,Hapus kelas yoga jam 3 sore dari kalenderku,calendar_remove,2
+486,,berapa besar kemungkinan turun salju di puncak hari ini?,weather_query,9
+487,,Batalkan semua kegiatan yang telah direncanakan bulan depan,calendar_remove,2
+488,,Saya ingin tahu film apa yang sangat direkomendasikan oleh kritikus,recommendation_movies,7
+489,,Buka aplikasi audible dan mainkan chapter berikutnya,play_audiobook,6
+490,,Mainkan kembali buku suara terakhir yang saya dengar,play_audiobook,6
+491,,Tolong putar ulang bagian akhir dari novel historical fiction itu,play_audiobook,6
+492,,Hapus peringatan ulang tahun orang tua dari kalenderku,calendar_remove,2
+493,,Tolong konversikan waktu dari zona GMT+1 ke zona WIB!,datetime_convert,4
+494,,Cuaca bagaimana di Lombok untuk akhir pekan ini?,weather_query,9
+495,,Balas email dari tante Lusi tentang reuni keluarga bulan depan,email_sendemail,5
+496,,Hapus pertemuan bisnis dengan kliennya tanggal 15 februari,calendar_remove,2
+497,,apa saja alarm yang saya miliki saat ini,alarm_query,0
+498,,"apa saja berita cuaca terbaru hari ini?
+bagaimana caranya mengetahui cuaca beberapa hari ke depan?
+ternyata sangat panas hari ini, kenapa begitu?
+berapa tinggi ketinggian air laut di indonesia utara?
+prediksi cuaca mana yang lebih akurat?",weather_query,9
+499,,Tolong hapus seminar di tanggal lima Mei dari kalenderku,calendar_remove,2
+500,,Kirimkan email ke ustazah tentang pertanyaan agama,email_sendemail,5
+501,,Silahkan kirim email ke instruktur saya tentang pertanyaan soal materi kuliah,email_sendemail,5
+502,,Hapus kegiatan olahraga pagi ini dari kalender saya,calendar_remove,2
+503,,Hapus liburan akhir tahun dari kalender,calendar_remove,2
+504,,Bisakah Anda menurunkan volume speaker nya karena saya merasa gangguan,audio_volume_down,1
+505,,apa kabar cuaca besok lusa,weather_query,9
+506,,Kirimkan email ke adik saya yang kuliah di universitas indonesia,email_sendemail,5
+507,,apakah ada resep lain untuk membuat sate selain menggunakan daging ayam,cooking_recipe,3
+508,,jam berapa sekarang di amsterdam jika jam tujuh malam disini,datetime_convert,4
+509,,Siapkah Anda memberi saran film horor yang tidak membuat saya takut?,recommendation_movies,7
+510,,apa kabar cuaca besok,weather_query,9
+511,,Hapus perjalanan ke bandung dari kalender bulan depan.,calendar_remove,2
+512,,cek apakah alarm untuk kamar tidur sudah aktif,alarm_query,0
+513,,Berapa harganya tiket bisnis kereta api ke Semarang?,transport_ticket,8
+514,,berapa besar kemungkinan hujan badai,weather_query,9
+515,,Mohon kecilkan suara musiknya,audio_volume_down,1
+516,,Balas email dari tante lisa dengan ucapan selamat ulang tahun,email_sendemail,5
+517,,saya mau kirim email ke teman-teman lama tentang reuni sekolah,email_sendemail,5
+518,,apa informasi cuaca terkini di jogja?,weather_query,9
+519,,Mau tau rekomendasi film sci-fi yang memiliki cerita yang unik?,recommendation_movies,7
+520,,cara apa saja agar daging sapi cepat empuk saat dimasak,cooking_recipe,3
+521,,Saya mau mengirim email ke teman kuliah tentang acara reunion,email_sendemail,5
+522,,Kira-kira ada film horor yang bagus dan seru untuk ditonton malam ini?,recommendation_movies,7
+523,,kapan alarm saya akan berbunyi lagi,alarm_query,0
+524,,Saya mau pesan tiket kapal laut ke Lombok,transport_ticket,8
+525,,"Volume ini terlalu besar, tolong turunkan sedikit",audio_volume_down,1
+526,,Pesan tiket kapal laut ke Bali untuk akhir pekan ini,transport_ticket,8
+527,,Gimana cara mengolah ikan nila agar tidak amis?,cooking_recipe,3
+528,,Pesanlah tiket kapal laut ke Bali untuk besok pagi,transport_ticket,8
+529,,Ubah zona waktu dari wib ke utc!,datetime_convert,4
+530,,berapa banyak gula pasir yang dibutuhkan untuk membuat kue cubit,cooking_recipe,3
+531,,Rekomendasikan film action paling keren tahun ini,recommendation_movies,7
+532,,Tolong pesan tiket kereta api ke Surabaya untuk besok pagi,transport_ticket,8
+533,,Film apa yang cocok buat akhir pekan ini?,recommendation_movies,7
+534,,Di zona waktu apa kita berada? Tolong ubah ke zona waktu Bali.,datetime_convert,4
+535,,Bisakah Anda mengurangi volume agar tidak terlalu keras?,audio_volume_down,1
+536,,Saya mau beli tiket ferry ke Batam,transport_ticket,8
+537,,Tolong berikan saya harga tiket kereta api ke Surabaya,transport_ticket,8
+538,,Pesanan tiket kapal laut ke Bali untuk besok pagi,transport_ticket,8
+539,,bagaimana cara mengetahui alarm saya,alarm_query,0
+540,,Apakah Anda dapat memberitahu saya tentang alarm yang telah diaktifkan?,alarm_query,0
+541,,Rekomendasikan film action yang baru dirilis,recommendation_movies,7
+542,,Pesanlah tiket kapal laut ke Bali untuk besok,transport_ticket,8
+543,,Tolong kurangi volumenya agar kami bisa berbicara dengan tenang,audio_volume_down,1
+544,,Film apa yang sangat direkomendasikan untuk ditonton akhir pekan ini?,recommendation_movies,7
+545,,Tolong carikan saya tiket kereta api ke Yogyakarta,transport_ticket,8
+546,,akan hujan atau tidak besok,weather_query,9
+547,,apa bahan dasar untuk membuat es teler,cooking_recipe,3
+548,,Saya mau kirim email ke teman-teman sekelas tentang undangan pesta,email_sendemail,5
+549,,tolong buatkan email untuk ibu saya dan ceritakan kabar kita,email_sendemail,5
+550,,Apa ada film horor yang baru dirilis dan sangat seru?,recommendation_movies,7
+551,,Mengapa tidak bisa menghapus kalender tahun lalu?,calendar_remove,2
+552,,"Kecilkanlah suaranya, saya tidak dapat mendengar",audio_volume_down,1
+553,,Jam berapa alarm saya akan berbunyi?,alarm_query,0
+554,,Buka aplikasi audiobook dan putar chapter selanjutnya,play_audiobook,6
+555,,"Rekomendasikan film animasi yang cocok untuk anak-anak!
+Apakah ada film dokumenter yang sangat direkomendasikan?
+Sarankan beberapa film misteri yang sulit ditebak!
+Film apa yang sangat direkomendasikan dan cocok untuk ditonton bersama keluarga?
+Rekomendasikan film biografi yang menginspirasi!",recommendation_movies,7
+556,,Saya mau kirim email ke adik saya yang kuliah di luar negeri,email_sendemail,5
+557,,Tolong hapuskan semua kegiatan pada kalender bulan depan,calendar_remove,2
+558,,Buatlah email ke paman tentang liburan Natal tahun ini,email_sendemail,5
+559,,Lanjutkan mendengarkan buku self improvement,play_audiobook,6
+560,,Silahkan kirim email ke anak-anak tentang cerita masa kecil kita,email_sendemail,5
+561,,Apakah Anda dapat memberitahu saya tentang alarm yang akan berbunyi kemarin,alarm_query,0
+562,,Hapus rencana liburan akhir tahun dari kalender saya,calendar_remove,2
+563,,bagaimana keadaan cuaca jogja bulan depan?,weather_query,9
+564,,Mainkan lagi buku yang belum selesai saya dengar kemarin,play_audiobook,6
+565,,berapa derajat suhu udara di bandung saat ini,weather_query,9
+566,,Buka aplikasi audible dan mainkan chapter selanjutnya dari novel romance,play_audiobook,6
+567,,Hapus perjalanan bisnis ke luar kota dari kalender saya,calendar_remove,2
+568,,Bagaimana cara melihat daftar alarm yang telah saya setel?,alarm_query,0
+569,,Tolong putar ulang bab 5 dari seri novel itu,play_audiobook,6
+570,,Mainkan audio novel 'silat lidah',play_audiobook,6
+571,,Mau beli tiket bisnis class ke Medan berapa harganya?,transport_ticket,8
+572,,akan turun salju di puncak bogor besok?,weather_query,9
+573,,Tolong hapus seluruh agenda saya hari ini,calendar_remove,2
+574,,tolong tunjukkan daftar alarm yang saya punya,alarm_query,0
+575,,apakah ada resepi lain untuk menggantikan santan dengan yoghurt,cooking_recipe,3
+576,,Tolong putar ulang episode 2,play_audiobook,6
+577,,Pesanlah tiket kapal laut ke Bali untuk akhir pekan ini,transport_ticket,8
+578,,akan ada hujan atau tidak hari ini,weather_query,9
+579,,berapa jam sekarang di malaysia jika jam delapan malam di singapore,datetime_convert,4
+580,,Putar audio book tentang pengembangan diri yang baru saja diunduh,play_audiobook,6
+581,,Kecilkan sedikit volumenya dong,audio_volume_down,1
+582,,"Volume ini terlalu keras, tolong turunkannya sedikit",audio_volume_down,1
+583,,Kiriman email ke adik saya yang sedang kuliah di luar negeri,email_sendemail,5
+584,,mengubah waktu dari cst ke pst untuk mengetahui jam berapa sekarang di amerika serikat,datetime_convert,4
+585,,Pesanlah tiket ferry ke Lombok untuk hari Minggu ini,transport_ticket,8
+586,,Balas email dari tante Lily tentang rencana liburan,email_sendemail,5
+587,,Apa bahan-bahan yang perlu disiapkan untuk membuat soto betawi?,cooking_recipe,3
+588,,Lanjutkan mendengarkan buku yang tertunda tadi,play_audiobook,6
+589,,Apakah akan turun salju di Bandung bulan depan?,weather_query,9
+590,,Hapus keseluruhan isi kalender bulan ini,calendar_remove,2
+591,,Tolong carikan tiket pesawat termurah ke Bali,transport_ticket,8
+592,,Perkirakan kecepatan angin di Surabaya siang nanti!,weather_query,9
+593,,Apa ada film romance yang sangat direkomendasikan oleh banyak orang?,recommendation_movies,7
+594,,Saya ingin tahu film thriller yang baru rilis di bioskop mana?,recommendation_movies,7
+595,,Hapus peringatan ultah di kalender aku,calendar_remove,2
+596,,jam berapa sekarang di thailand jika jam satu siang di singapore,datetime_convert,4
+597,,Berapa banyak alarm yang telah saya setel?,alarm_query,0
+598,,apa kabar cuaca di jakarta utara hari ini,weather_query,9
+599,,apa ramalan cuaca untuk akhir pekan ini,weather_query,9
+600,,"Jika sekarang jam satu siang di Medan, berapa jam sekarang di Makassar?",datetime_convert,4
+601,,Kirim email ke paman saya yang berbisnis di Jakarta tentang proposal baru,email_sendemail,5
+602,,Lanjutkan membaca buku audio yang tertunda tadi malam,play_audiobook,6
+603,,Ubah zona waktu dari UTC+1 ke WIB.,datetime_convert,4
+604,,Hapus pertemuan bisnis dengan kliennya pada tanggal lima Mei.,calendar_remove,2
+605,,"Suara Anda terlalu keras, mohon dikecilkan",audio_volume_down,1
+606,,Kirimi email ke istri saya tentang acara ulang tahun anak kita,email_sendemail,5
+607,,Kirim email ke departemen HR tentang pengajuan cuti tahunan,email_sendemail,5
+608,,Suara ini terlalu keras tolong dikurangi,audio_volume_down,1
+609,,berapa jam sekarang di bandung jika sekarang jam tujuh pagi di malaysia,datetime_convert,4
+610,,konversikan waktu greenwich mean time ke waktu indonesia timur,datetime_convert,4
+611,,bagaimana ramalan cuaca pekan depan?,weather_query,9
+612,,"Saya ingin mencoba resep masakan Thailand, gimana cara membuat tom yum soup?",cooking_recipe,3
+613,,Cari tiket promo kereta api ke Medan untuk akhir pekan ini,transport_ticket,8
+614,,apa kabar cuaca besok pagi,weather_query,9
+615,,Jam berapa sekarang di bekasi jika jam sembilan malam di singapore,datetime_convert,4
+616,,Saat ini jam satu siang di amsterdam jam berapa di indonesia?,datetime_convert,4
+617,,Pesanlah tiket bisnis class ke Surabaya untuk hari Sabtu depan,transport_ticket,8
+618,,"Kecilkanlah volume TV-nya, saya ingin tidur.",audio_volume_down,1
+619,,"Volume nya terlalu tinggi, mohon dikurangkan",audio_volume_down,1
+620,,Kirimi email ke guru bahasa inggris tentang pertanyaan soal ujian,email_sendemail,5
+621,,iturunkan volume menjadi lima puluh persen saja.,audio_volume_down,1
+622,,tolong konversikan waktu dari utc minus delapan ke wib,datetime_convert,4
+623,,"Volume ini terlalu tinggi, tolong turunkan saja",audio_volume_down,1
+624,,ubah zona waktu dari malaysia ke indonesia,datetime_convert,4
+625,,Cari tiket shuttle bus ke Bandara Soekarno Hatta untuk jam 3 sore,transport_ticket,8
+626,,Bisakah Anda memberi saran beberapa judul film action yang baru rilis?,recommendation_movies,7
+627,,tolong cari film romance yang baru saja rilis,recommendation_movies,7
+628,,Tolong reduksi volume speaker Anda,audio_volume_down,1
+629,,Mulai putar buku best seller tentang psikologi manusia,play_audiobook,6
+630,,Tolong buatkan email kepada dokter untuk konfirmasi janji temu hari senin,email_sendemail,5
+631,,Mainkan audio novel ayat-ayat cinta!,play_audiobook,6
+632,,bagaimana keadaan cuaca jogja saat ini,weather_query,9
+633,,Tolong hapuskan seluruh acara bulan depan dari kalendernya,calendar_remove,2
+634,,berapa jam sekarang di singapura jika jam dua belas siang disini,datetime_convert,4
+635,,kita berada di zona waktu mana sehingga dapat mengkonversikannya ke zona waktu lokal,datetime_convert,4
+636,,saya ingin tahu film romantis yang paling banyak dinikmati orang,recommendation_movies,7
+637,,Buatlah email ke adik saya tentang kabar kita saat ini,email_sendemail,5
+638,,berapa kecepatan angin di bali siang ini?,weather_query,9
+639,,akan ada hujan atau tidak siang nanti,weather_query,9
+640,,Kirim email ke ibu saya tentang rencana liburan akhir tahun ini,email_sendemail,5
+641,,Saya mau beli tiket kereta api ke Yogyakarta besok,transport_ticket,8
+642,,Hapus peringatan ultah sahabat saya bulan depan,calendar_remove,2
+643,,aku butuh saran film yang seru dan membuat ngakak,recommendation_movies,7
+644,,berapa takaran gula pasir yang harus digunakan dalam membuat cake,cooking_recipe,3
+645,,resepmasakan apakah yang paling cocok untuk acara pernikahan?,cooking_recipe,3
+646,,resep apa saja yang dapat dibuat menggunakan daging sapi cincang,cooking_recipe,3
+647,,apa ramalan cuaca untuk wilayah jakarta utara minggu ini?,weather_query,9
+648,,Batalkan janjian dengan pacar saya besok,calendar_remove,2
+649,,Ubah zona waktu dari WIB ke EST!,datetime_convert,4
+650,,ubah zona waktu dari cst ke pst,datetime_convert,4
+651,,Gimana cara memasak mie instan agar lebih enak?,cooking_recipe,3
+652,,saya ingin tahu film thriller yang paling banyak ditonton saat ini,recommendation_movies,7
+653,,berapa banyak bahan yang diperlukan untuk membuat martabak manis,cooking_recipe,3
+654,,"Cukup kecilkan volume saja, sudah sangat mengganggu",audio_volume_down,1
+655,,Saya ingin tahu film thriller yang baru saja dirilis,recommendation_movies,7
+656,,tolong berikan rekomendasi film petualangan yang cocok untuk anak-anak,recommendation_movies,7
+657,,Apa ada saranan film action yang baru saja rilis?,recommendation_movies,7
+658,,Pesanlah tiket bus ke Bali untuk besok pagi,transport_ticket,8
+659,,"Suara ini terlalu keras, tolong turunkan volumenya",audio_volume_down,1
+660,,Kecilkan volume speaker itu,audio_volume_down,1
+661,,Berapa banyak alarm yang masih aktif saat ini?,alarm_query,0
+662,,berapa jam sekarang di yogyakarta jika jam sembilan pagi di london,datetime_convert,4
+663,,Alarm mana saja yang belum diaktifkan untuk hari ini?,alarm_query,0
+664,,Tulis email ke paman saya yang membahas tentang kondisi cuaca akhir-akhir ini,email_sendemail,5
+665,,prediksi cuaca besok siang ada hujan tidak ya?,weather_query,9
+666,,Apakah hujan akan turun di Jakarta besok?,weather_query,9
+667,,Beri tahukan saya tentang jadwal alarm yang telah saya atur kemarin,alarm_query,0
+668,,Mulai membuat email ke paman tentang rencana liburan kita ke Bali,email_sendemail,5
+669,,Mulai putar buku biografi tokoh idola saya dari awal lagi,play_audiobook,6
+670,,Saya ingin mengetahui tentang alarm apa saja yang masih aktif.,alarm_query,0
+671,,Kemungkinan hujan besar di Yogyakarta pekan depan?,weather_query,9
+672,,Berapa harganya tiket bisnis di kereta api ke Jakarta?,transport_ticket,8
+673,,"Sekarang jam delapan malam di malaysia, jam berapa di solo?",datetime_convert,4
+674,,Hapus kegiatan olahraga pagi ini dari kalenderku,calendar_remove,2
+675,,Apa ada film horor yang bagus untuk ditonton minggu ini?,recommendation_movies,7
+676,,Pesankanlah saya tiket kereta api ke Surabaya besok pagi,transport_ticket,8
+677,,Bisakah Anda menurunkan volume untuk saya?,audio_volume_down,1
+678,,apakah ada resep untuk mie instan ala Korea,cooking_recipe,3
+679,,Buatkan email ke paman tentang keselamatan dalam berpergian,email_sendemail,5
+680,,cuaca seperti apa di bandung bulan depan,weather_query,9
+681,,Saya mau beli tiket kereta api ke Surabaya,transport_ticket,8
+682,,kapan alarm akan berbunyi untuk membangunkan saya?,alarm_query,0
+683,,Buka aplikasi audiobook dan mainkan chapter selanjutnya,play_audiobook,6
+684,,Jam berapa sekarang di Amerika Serikat kalau saat ini jam satu siang di Jakarta?,datetime_convert,4
+685,,hapus acara ulang tahun sahabatku dari kalenderku,calendar_remove,2
+686,,cek prakiraan cuaca bali untuk akhir pekan ini,weather_query,9
+687,,"bagaimana ramalan cuaca untuk perjalanan saya ke bali?
+berapa besar kemungkinan turun salju di puncak?
+berapa derajat suhu minimum malam ini?
+apakah sudah masuk masa pancaroba?
+berapa kecepatan angin saat ini?
+berapa banyak kali hujan dalam sebulan?",weather_query,9
+688,,Rekomendasikan film sci-fi yang memiliki cerita menarik dan akhir yang tidak terduga!,recommendation_movies,7
+689,,Rekomendasikanlah beberapa filmsci-fi yang wajib ditonton!,recommendation_movies,7
+690,,Ubah zona waktu dari WIB ke WIT,datetime_convert,4
+691,,Tolong kurangi volume speaker tersebut,audio_volume_down,1
+692,,Tolong tunjukkan semua alarm yang telah saya setting sebelumnya.,alarm_query,0
+693,,Hapus rapat pagi ini dari kalender saya,calendar_remove,2
+694,,"Volume ini terlalu besar, tolong kurangi saja",audio_volume_down,1
+695,,Kirimi Email ke adik ipar tentang undangan pesta ulang tahun anakku,email_sendemail,5
+696,,Bisakah Anda merekomendasikan film horor yang bagus?,recommendation_movies,7
+697,,Hapus perjalanan ke luar kota yang direncanakan besok.,calendar_remove,2
+698,,Tunjukkan beberapa film romantis yang wajib ditonton,recommendation_movies,7
+699,,Apakah alarm untuk kelas sudah diaktifkan?,alarm_query,0
+700,,Tolong hapus semua jadwal yang sudah kadaluarsa,calendar_remove,2
+701,,Tampilkan semua alarm yang saya miliki!,alarm_query,0
+702,,berapa jam sekarang di jawa tengah jika sekarang jam dua siang di sini,datetime_convert,4
+703,,batalkan semua janjian pada hari sabtu ini,calendar_remove,2
+704,,Tolong jangan buat volume nya begitu kencang.,audio_volume_down,1
+705,,info cuaca daerah jogja saat ini,weather_query,9
+706,,siapa yang mengatur alarm untuk pukul delapan malam,alarm_query,0
+707,,Di mana saya dapat menemukan resep untuk membuat es teler yang segar dan lezat?,cooking_recipe,3
+708,,Tolong kirimkan sebuah email ke saudara saya yang berada di luar negeri,email_sendemail,5
+709,,Ubah zona waktu dari Tokyo ke Jakarta!,datetime_convert,4
+710,,Mainkan audiobook tentang sejarah perang dunia II,play_audiobook,6
+711,,Saya ingin tahu tentang alarm yang telah diatur untuk akhir pekan ini?,alarm_query,0
+712,,"iturunkan volume sebanyak dua puluh persen.
+volume ini sangat keras, tolong kecilkan!
+Tolong jangan kerasin suara itu!
+Turunkan volume speaker nya!
+Tolong buat volume lebih rendah!",audio_volume_down,1
+713,,berapa banyak bawang putih yang dibutuhkan untuk tumis kangkung,cooking_recipe,3
+714,,tolong hapus semua jadwal yang telah lewat,calendar_remove,2
+715,,Saya butuh tiket travel ke Papua untuk akhir tahun,transport_ticket,8
+716,,Saya ingin mengetahui apakah alarm sudah diatur untuk pukul 7 malam.,alarm_query,0
+717,,Turunkan volume agar kita bisa berbicara dengan nyaman,audio_volume_down,1
+718,,Pesan tiket kapal laut ke Lombok untuk akhir pekan ini,transport_ticket,8
+719,,Hapus perayaan ultah di kalender saya bulan ini,calendar_remove,2
+720,,"Jika saat ini jam tiga siang di Bandung, jam berapa di Yogyakarta?",datetime_convert,4
+721,,Batalkan semua acara yang telah dijadwalkan untuk akhir pekan ini,calendar_remove,2
+722,,Saya mau mengirim email ke semua anggota tim tentang meeting pagi ini,email_sendemail,5
+723,,Mau tau film apa yang sedang trending dan wajib ditonton?,recommendation_movies,7
+724,,jam berapa alarm saya akan berbunyi nanti,alarm_query,0
+725,,Bagaimana cara melihat riwayat alarm yang telah saya setel sebelumnya?,alarm_query,0
+726,,Apakah Anda dapat menunjukkan alarm yang akan berbunyi besok pagi?,alarm_query,0
+727,,bagaimana cara mengetahui alarm yang saya atur,alarm_query,0
+728,,"Volume ini terlalu tinggi, tolong turunkan",audio_volume_down,1
+729,,Saya mau beli tiket kereta api eksekutif ke Surabaya,transport_ticket,8
+730,,Kecilkan sedikit volumenya,audio_volume_down,1
+731,,Tolong kurangi volumenya agar tidak terlalu bising,audio_volume_down,1
+732,,Jam berapa sekarang di palembang jika jam delapan pagi di Jakarta,datetime_convert,4
+733,,Apa ada film baru yang worth watching akhir-akhir ini?,recommendation_movies,7
+734,,Alarm apa saja yang akan berbunyi pada pukul tujuh pagi?,alarm_query,0
+735,,apa bahan-bahan yang harus disiapkan untuk membuat soto betawi,cooking_recipe,3
+736,,Ubah zona waktu dari indonesia barat ke indonesia timur.,datetime_convert,4
+737,,Putar ulang bab pertama dari buku audio terbaru saya,play_audiobook,6
+738,,Menghapus pertemuan dengan kliennya besok lusa dari kalender,calendar_remove,2
+739,,Apakah Anda dapat memberitahuku tentang alarm yang akan berbunyi pukul 7 pagi?,alarm_query,0
+740,,"Volume nya terlalu tinggi, kurangi saja",audio_volume_down,1
+741,,cuaca seperti apa di bali saat ini?,weather_query,9
+742,,berapa jam perbedaan antara timezone jakarta dan london saat ini,datetime_convert,4
+743,,Di zona waktu mana kita berada Tolong ubah ke waktu singapore,datetime_convert,4
+744,,Berapa harganya tiket bisnis kereta api ke Jakarta,transport_ticket,8
+745,,Lanjutkan mendengarkan buku self improvement yang belum selesai,play_audiobook,6
+746,,prediksi cuaca untuk akhir pekan ini,weather_query,9
+747,,Ubah waktu dari GMT+7 ke CST untuk mengetahui jam berapa sekarang di texas,datetime_convert,4
+748,,Batalkan reservasi hotel untuk akhir pekan ini.,calendar_remove,2
+749,,Apakah Anda dapat menampilkan daftar alarm saya?,alarm_query,0
+750,,tolong konversikan waktu dari timezone new york ke timezone los angeles,datetime_convert,4
+751,,"Volume nya terlalu tinggi, turunkan saja",audio_volume_down,1
+752,,Bisakah Anda memberi saran film action yang sangat keren?,recommendation_movies,7
+753,,Tolong putar ulang bagian awal cerita itu,play_audiobook,6
+754,,Saya ingin mengetahui film apa yang sedang trending dan wajib ditonton,recommendation_movies,7
+755,,kalau sekarang jam sembilan malam di thailand maka jam berapa sekarang di indonesia,datetime_convert,4
+756,,Saya mau pesan tiket kereta api ke Yogyakarta,transport_ticket,8
+757,,berapa banyak bahan yang dibutuhkan untuk membuat gado-gado,cooking_recipe,3
+758,,Lanjutkan membaca buku yang tertunda tadi malam,play_audiobook,6
+759,,"Kecilkan suaranya, saya tidak dapat mendengarnya",audio_volume_down,1
+760,,Ubah zona waktu dari WIB ke WIT!,datetime_convert,4
+761,,Ubah zona waktu ke GMT+7 untuk mengetahui jam berapa sekarang di Bangkok!,datetime_convert,4
+762,,kapan alarm terakhir kali berbunyi pada hari ini,alarm_query,0
+763,,apakah masih ada alarm yang belum saya nonaktifkan,alarm_query,0
+764,,Pesanan tiket kereta api ke Yogyakarta untuk besok pagi,transport_ticket,8
+765,,Mulai putar buku thriller psikologi dari awal lagi,play_audiobook,6
+766,,Pesanlah tiket bisnis class ke Medan untuk besok pagi,transport_ticket,8
+767,,Apakah hujan akan turun di malang hari ini?,weather_query,9
+768,,Bagaimana cara melihat daftar alarm yang sudah saya setel?,alarm_query,0
+769,,Bisakah Anda merekomendasikan beberapa film romance yang cocok untuk pasangan muda?,recommendation_movies,7
+770,,Batalkan semua kegiatan saya pada akhir pekan ini,calendar_remove,2
+771,,"Saya ingin mencoba resep kue putu, ada yg tau caranya?",cooking_recipe,3
+772,,Lanjutkan membaca buku audio yang tertunda,play_audiobook,6
+773,,"Mau beli tiket bisnis class ke Makassar, bagaimana caranya?",transport_ticket,8
+774,,"Tolong jangan keras-keras, kurangi volumenya saja",audio_volume_down,1
+775,,bagaimana cara mengolah ikan kakap merah agar tidak amis,cooking_recipe,3
+776,,cara apa saja untuk menghilangkan rasa pahit pada bayam,cooking_recipe,3
+777,,"berapa besar potensi hujan es hari ini?
+apakah biasa hujan lebat di yogyakarta?
+berapa curah hujan rata-rata per tahun?
+berapa persen kemungkinan cerah hari ini?
+berapa tinggi gelombang laut saat ini?
+apakah masih dalam masa kemarau?",weather_query,9
+778,,Batalkan rencana pertemuan besok,calendar_remove,2
+779,,Tolong bisakah kamu mengurangi volume suara?,audio_volume_down,1
+780,,"Jika saat ini jam satu siang di Medan, jam berapa di London?",datetime_convert,4
+781,,Apa bahan-bahan yang diperlukan untuk membuat es krim vanilla?,cooking_recipe,3
+782,,Hapus pertemuan bisnis dengan direktur pada tanggal 15 Mei,calendar_remove,2
+783,,Kecilkan volume speaker Anda,audio_volume_down,1
+784,,Tolong hapus acara makan malam dengan keluarga di kalender,calendar_remove,2
+785,,akan turun hujan atau tidak siang nanti,weather_query,9
+786,,Film apa saja yang cocok buatku dan teman-temanku?,recommendation_movies,7
+787,,Alarm mana saja yang telah diaktifkan pada pukul 7 pagi?,alarm_query,0
+788,,"Suara di speaker terlalu keras, mohon kecilkan",audio_volume_down,1
+789,,Lanjutkan membaca buku anak-anak yang tadi,play_audiobook,6
+790,,Lanjutkan mendengarkan buku yang tertunda!,play_audiobook,6
+791,,Film apa yang harus saya tonton akhir pekan ini?,recommendation_movies,7
+792,,Tolong putar ulang bagian akhir dari buku itu,play_audiobook,6
+793,,Tolong jangan keras-keras bicaranya,audio_volume_down,1
+794,,berapa derajat suhu udara saat ini,weather_query,9
+795,,Bisakah Anda memberi saran film romance yang cocok untuk pasangan muda?,recommendation_movies,7
+796,,Cari tiket bisnis class ke Jakarta untuk besok pagi,transport_ticket,8
+797,,kondisi cuaca seperti apa siang nanti,weather_query,9
+798,,Alarm apa saja yang masih aktif sekarang?,alarm_query,0
+799,,Berapa harga tiket bisnis di kereta api ke Jakarta?,transport_ticket,8
+800,,Rekomendasikan film romance yang membuat kita baper,recommendation_movies,7
+801,,Pesankan saya tiket ferry ke Lombok hari ini,transport_ticket,8
+802,,"Suara ini terlalu keras, tolong turunkan",audio_volume_down,1
+803,,Jam berapa sekarang di Singapura jika sekarang jam delapan malam di Jakarta?,datetime_convert,4
+804,,"Tolong buatkan email kepada teman kuliah saya tentang acara reuni 
+Saya mau kirim email ke pihak HR tentang lowongan pekerjaan 
+Kirim email ke ibu tentang keselamatan di rumah 
+Buatkan email ke sahabat saya tentang rencana liburan nanti 
+Tulislah email ke bapak tentang pengalaman kerja magangku",email_sendemail,5
+805,,Tolong putar lagi buku yang baru saja selesai,play_audiobook,6
+806,,tolong ubah zona waktu dari wib ke utc,datetime_convert,4
+807,,Berapa banyak alarm yang telah diatur pada ponselku?,alarm_query,0
+808,,Lanjutkan mendengarkan cerita rakyat melayu,play_audiobook,6
+809,,Kondisi cuaca seperti apa di Yogyakarta bulan depan?,weather_query,9
+810,,Tolong mainkan kembali audio book romance yang saya stop kemarin,play_audiobook,6
+811,,Buatlah email ke paman tentang keseluruhan proyek kami,email_sendemail,5
+812,,Mainkan lagi dari bab 5 audiobook itu,play_audiobook,6
+813,,"Suara ini terlalu keras, tolong kurangi volumenya",audio_volume_down,1
+814,,Saya ingin membuat kue cubit tapi tidak tahu caranya,cooking_recipe,3
+815,,Tolong buatkan email ke pihak HR tentang pengajuan cuti tahunan,email_sendemail,5
+816,,Hapus konser musik malam ini dari kalender saya,calendar_remove,2
+817,,cuaca bagaimana besok pagi?,weather_query,9
+818,,"Suaranya terlalu keras, tolong turunkan sekarang juga",audio_volume_down,1
+819,,dimana saya dapat menemukan resep masakan padang yang autentik,cooking_recipe,3
+820,,Tolong berikan harga tiket pesawat ke Medan,transport_ticket,8
+821,,Mainkan bab selanjutnya dari novel itu,play_audiobook,6
+822,,"Tidak tahan dengan volume yang begitu tinggi, tolong turunkan",audio_volume_down,1
+823,,apakah Anda dapat menampilkan daftar alarm yang saya miliki,alarm_query,0
+824,,resepmacam macam variasi sate yang perlu saya coba,cooking_recipe,3
+825,,Jam berapa sekarang di Surabaya jika sekarang jam delapan pagi di Jakarta?,datetime_convert,4
+826,,Lanjutkan mendengarkan cerita si kabayan dari kemarin,play_audiobook,6
+827,,Kami ingin mengetahui film apa yang cocok untuk anak-anak,recommendation_movies,7
+828,,Tolong jangan keras-keras,audio_volume_down,1
+829,,Saya mau kirim email ke teman saya tentang film baru,email_sendemail,5
+830,,Berapa harganya tiket kapal laut ke Lombok?,transport_ticket,8
+831,,apakah ada resep untuk membuat es teler sendiri di rumah,cooking_recipe,3
+832,,Cari tiket bisnis class ke Makassar untuk hari senin minggu depan,transport_ticket,8
+833,,Bagaimana cara melihat jadwal alarm yang telah saya atur?,alarm_query,0
+834,,Ubah tanggal dan waktu dari utc+7 ke utc-5.,datetime_convert,4
+835,,"berapa curah hujan bulan lalu?
+akan ada badai topan di indonesia akhir tahun ini?
+berapa tingkat polusi udara di kota kita?
+siang ini berapa derajat celcius?
+apakah masih musim penghujan di daerah sini?
+cuaca bagaimana sore nanti di malang?",weather_query,9
+836,,Di zona waktu mana kita berada? Tolong ubah ke waktu lokal,datetime_convert,4
+837,,Pesanlah tiket kapal laut ke Lombok untuk akhir pekan ini,transport_ticket,8
+838,,Mainkan audiobook si doel anak sekolahan,play_audiobook,6
+839,,Saya ingin membuat email ke sahabat saya tentang pertandingan sepakbola akhir pekan ini,email_sendemail,5
+840,,"Suaranya terlalu keras, mohon dikecilkan",audio_volume_down,1
+841,,Film apa yang sangat direkomendasikan untuk ditonton di akhir pekan?,recommendation_movies,7
+842,,Buatlah email ke paman tentang undangan ulang tahun anaknya,email_sendemail,5
+843,,Alarm apa saja yang telah saya setel untuk jam 7 malam?,alarm_query,0
+844,,Kirim email ke paman tentang hasil pertandingan sepak bola kemarin,email_sendemail,5
+845,,Buka aplikasi Audible dan putarkan buku romantis terbaru,play_audiobook,6
+846,,Di mana saya dapat menemukan resep untuk sate maranggi?,cooking_recipe,3
+847,,cara apakah untuk menghilangkan rasa pahit pada masakan sayuran,cooking_recipe,3
+848,,bagaimana sih cara membuat es teler yang segar dan nikmat,cooking_recipe,3
+849,,Tolong putar ulang bagian akhir dari novel ini,play_audiobook,6
+850,,Jam berapa alarm akan berbunyi nanti?,alarm_query,0
+851,,akan hujan besar besok tidak,weather_query,9
+852,,apa saja alarm yang akan berbunyi pada pukul 12 malam,alarm_query,0
+853,,Hapus rencana belanja bulanan dari kalender saya,calendar_remove,2
+854,,Mohon bantuannya untuk mengecilkan volume musik ini,audio_volume_down,1
+855,,Tulis email ke bapak tentang hasil pertandingan sepak bola kemarin,email_sendemail,5
+856,,Ada film komedi yang sangat lucu dan wajib ditonton?,recommendation_movies,7
+857,,Saya ingin mengetahui apakah alarm saya sudah diaktifkan?,alarm_query,0
+858,,Saya mau mengirim email ke teman saya di Amerika tentang liburan tahun ini,email_sendemail,5
+859,,Ubah zona waktu dari waktu asia/jakarta ke waktu america/new york,datetime_convert,4
+860,,Tolong pesan tiket kereta api ke Surabaya buat besok,transport_ticket,8
+861,,Jam berapa sekarang di Bali kalau sekarang jam delapan malam di Singapura?,datetime_convert,4
+862,,Tolong carikan tiket pesawat murah ke Medan,transport_ticket,8
+863,,Tolong mainkan ulang bab 5 dari audio book 'Negeri Para Beda',play_audiobook,6
+864,,ubah zona waktu dari cst ke pst untuk mengetahui jam berapa sekarang di los angeles,datetime_convert,4
+865,,Saya ingin tahu film thriller yang paling seru dan populer saat ini,recommendation_movies,7
+866,,Buka aplikasi audiobook dan mainkan buku favorit saya!,play_audiobook,6
+867,,Berapa banyak bahan yang dibutuhkan untuk membuat bakpia pathok?,cooking_recipe,3
+868,,Batalkan pertemuan bisnis besok pagi,calendar_remove,2
+869,,Mainkan lagi buku yang kemarin saya dengar,play_audiobook,6
+870,,Jam berapa sekarang di palembang jika saat ini jam delapan malam di yogyakarta?,datetime_convert,4
+871,,Tolong buatkan email untuk ibu saya dan beritahu dia bahwa saya baik-baik saja,email_sendemail,5
+872,,Pesanan tiket pesawat ke Bali untuk besok hari,transport_ticket,8
+873,,Volume yang sangat keras membuat saya sakit kepala.,audio_volume_down,1
+874,,kondisi cuaca bagaimana siang nanti,weather_query,9
+875,,Apakah masih ada alarm yang belum saya nonaktifkan?,alarm_query,0
+876,,Kira-kira ada film komedi Indonesia yang bagus untuk ditonton akhir pekan ini?,recommendation_movies,7
+877,,kita berada di zona waktu mana untuk mengkonversinya ke zona waktu lokal,datetime_convert,4
+878,,bagaimana cara melihat alarm saya,alarm_query,0
+879,,Tolong jangan begitu kencang,audio_volume_down,1
+880,,Lanjutkan mendengarkan buku audio kemarin,play_audiobook,6
+881,,Batalkan semua kegiatan pada hari Sabtu depan,calendar_remove,2
+882,,mengapa tidak ada alarm yang berbunyi saat ini,alarm_query,0
+883,,cuaca seperti apa di jogja bulan depan,weather_query,9
+884,,"Saya ingin tahu film thriller yang paling populer saat ini, bisakah Anda membantu?",recommendation_movies,7
+885,,Berapa harga tiket kapal laut ke Lombok?,transport_ticket,8
+886,,akan panas atau dingin di jakarta hari ini,weather_query,9
+887,,Lanjutkan membaca buku yang saya stop kemarin,play_audiobook,6
+888,,resepi apa saja yang cocok dengan daging sapi,cooking_recipe,3
+889,,ubah zona waktu ke kuala lumpur untuk mengetahui jam berapa sekarang,datetime_convert,4
+890,,"Kecilkanlah suaranya, saya tidak tahan dengan yang keras ini",audio_volume_down,1
+891,,Rekomendasikanlah beberapa film romantis yang cocok untuk pasangan muda,recommendation_movies,7
+892,,Putar audio book 'Mere Kaam Padhai' dari awal lagi,play_audiobook,6
+893,,Tolong putar ulang bagian akhir dari novel itu,play_audiobook,6
+894,,akan hujan atau tidak siang nanti,weather_query,9
+895,,siapa yang mengatur alarm untuk jam 7 pagi,alarm_query,0
+896,,berapa kelembaban udara di surabaya siang ini,weather_query,9
+897,,Balas email dari client tentang pengiriman produk,email_sendemail,5
+898,,kira-kira ada film baru yang pantas ditonton di bioskop saat ini?,recommendation_movies,7
+899,,Tolong kurangi volumenya agar kita dapat berbicara dengan nyaman,audio_volume_down,1
+900,,apakah Anda dapat memberitahu saya tentang alarm yang telah diatur,alarm_query,0
+901,,Berapa derajatkah suhu di Bandung pagi ini?,weather_query,9
+902,,silakan kirim email ke kakak ipar tentang undangan makan malam,email_sendemail,5
+903,,Menghapus rapat bisnis pada jam 2 sore nanti,calendar_remove,2
+904,,bagaimana keadaan cuaca di yogyakarta bulan depan?,weather_query,9
+905,,"apa yang terjadi dengan cuaca kita akhir-akhir ini?
+siang nanti cuaca akan seperti apa ya?
+ada kabar gempa bumi terkait cuaca buruk belakangan ini?
+berapa banyak curah hujan yang turun di solo bulan lalu?
+apa prediksinya tentang cuaca ekstrem tahun ini?",weather_query,9
+906,,"informasi cuaca seperti apa yang anda miliki?
+apa rencana perjalanan jika cuaca buruk?
+berapa besar pengaruh cuaca terhadap keselamatan penerbangan?
+apa itu fenomena alam terkait cuaca?
+cuaca bagaimana di daerah lainnya?",weather_query,9
+907,,Kecilkanlah suaranya agar tidak terlalu keras,audio_volume_down,1
+908,,Saya ingin tahu film romance terbaru yang sangat direkomendasikan,recommendation_movies,7
+909,,cara apa saja untuk menghilangkan bau amis pada ikan bakar,cooking_recipe,3
+910,,Di zona waktu mana kita berada? Tolong ubah ke waktu singapore!,datetime_convert,4
+911,,dimana saya dapat menemukan resep pai susu,cooking_recipe,3
+912,,Saya mau mengirim email ke teman saya tentang pekerjaan barunya,email_sendemail,5
+913,,Batalkan semua rencana kerja hari ini dari kalendernya.,calendar_remove,2
+914,,Saya ingin mengirim email ke divisi HR tentang pengajuan cuti saya,email_sendemail,5
+915,,Hapus perayaan ulang tahun dari kalenderku,calendar_remove,2
+916,,Tolong kurangi volume yang sangat tinggi itu,audio_volume_down,1
+917,,Mulai putar audiobook baru yang sudah diunduh,play_audiobook,6
+918,,Buka aplikasi audiobook dan putar dari where I left off,play_audiobook,6
+919,,Bisakah Anda rekomendasi beberapa film dokumenter yang edukatif?,recommendation_movies,7
+920,,Apakah Anda dapat memberitahu saya tentang jadwal alarm saya?,alarm_query,0
+921,,Pesanlah tiket kapal laut untuk hari Sabtu,transport_ticket,8
+922,,Pesanan tiket ferry ke Lombok untuk hari Minggu,transport_ticket,8
+923,,Kecilkan sedikit volumenya biar enak didengar,audio_volume_down,1
+924,,kapan alarm akan berbunyi lagi,alarm_query,0
+925,,Bagaimana cara mengetahui alarm yang saya miliki,alarm_query,0
+926,,Pesanan tiket kereta api kelas eksekutif ke Yogyakarta,transport_ticket,8
+927,,Kirimi email ke adik saya yang kuliah di ITB tentang acara wisuda nanti,email_sendemail,5
+928,,Alarm apa saja yang akan berbunyi pada pukul 7 pagi nanti?,alarm_query,0
+929,,Tolong hapus acara ulang tahun di kalender saya,calendar_remove,2
+930,,"Kurangi volume speaker, saya tidak tahan lagi",audio_volume_down,1
+931,,Berapa harga tiket kereta api ke Surabaya?,transport_ticket,8
+932,,"Silakan kecilkan volume agar kita dapat berbicara
+Turunkan volume pengeras suara sekarang juga
+Volume yang sangat keras membuat saya tidak nyaman
+Tolong perhatikan volume yang cukup besar itu
+Kurangi volume musicnya biar saya bisa fokus",audio_volume_down,1
+933,,Saya ingin mengetahui tentang alarm apa saja yang sudah diatur.,alarm_query,0
+934,,siapa yang dapat mengubah pengaturan alarm saya?,alarm_query,0
+935,,Pesanlah tiket travel ke Lombok untuk tanggal 20 ini,transport_ticket,8
+936,,Pesanlah tiket bisnis class ke Medan untuk akhir pekan ini,transport_ticket,8
+937,,apakah akan ada hujan esok lusa,weather_query,9
+938,,Kirimi email ke kakak saya tentang kesempatan kerja di Jakarta,email_sendemail,5
+939,,Kiriman email ke ibu tentang hasil belanja hari ini,email_sendemail,5
+940,,Saya mau mengirim email ke teman saya tentang acara ultahnya,email_sendemail,5
+941,,"Suara ini terlalu kencang, tolong turunkan",audio_volume_down,1
+942,,Ada rekomendasi film biografi yang bagus untuk ditonton?,recommendation_movies,7
+943,,cuaca seperti apa besok,weather_query,9
+944,,"Suaranya sangat keras, mohon dikurangi",audio_volume_down,1
+945,,Saya mau beli tiket travel ke Medan,transport_ticket,8
+946,,cuaca seperti apa siang nanti,weather_query,9
+947,,apakah masih musim penghujan,weather_query,9
+948,,"Suara di televisi terlalu keras, tolong kecilkan",audio_volume_down,1
+949,,Saya mau mengirim email ke teman saya tentang pekerjaan baru,email_sendemail,5
+950,,bagaimana sih cara masak bebek panggang yang lezat,cooking_recipe,3
+951,,Batalkan semua rencana liburan akhir tahun ini.,calendar_remove,2
+952,,berapa gram gula pasir yang dibutuhkan untuk membuat kue cubit,cooking_recipe,3
+953,,Ubah waktu saat ini dari GMT+1 ke WIB!,datetime_convert,4
+954,,Siapa yang mau memesan tiket travel ke Medan?,transport_ticket,8
+955,,apa saja alarm yang masih aktif saat ini,alarm_query,0
+956,,Siapkan email untuk bos saya tentang laporan proyek minggu ini,email_sendemail,5
+957,,apa saja alarm yang perlu diaktifkan,alarm_query,0
+958,,konversikan waktu dari bst ke cet,datetime_convert,4
+959,,Kecilkanlah suaranya itu sangat keras,audio_volume_down,1
+960,,Ubah zona waktu dari WIB ke WITA untuk mengetahui jam berapa di Makassar.,datetime_convert,4
+961,,"Saya ingin mencoba masakan italia, ada resep spageti yang enak tidak?",cooking_recipe,3
+962,,Tolong kurangi volume speaker Anda,audio_volume_down,1
+963,,hapus rapat bisnis jam 2 sore nanti dari kalenderku,calendar_remove,2
+964,,dimana saya dapat menemukan resep masakan tradisional sunda,cooking_recipe,3
+965,,Jam berapa sekarang di Semarang jika sekarang jam dua siang di Jakarta?,datetime_convert,4
+966,,Di zona waktu mana kita berada? Tolong ubah ke lokasi Yogyakarta,datetime_convert,4
+967,,Mainkan kembali audiobook si doel anak sekolahan,play_audiobook,6
+968,,Film apa saja yang sedang hits dan wajib ditonton tahun ini?,recommendation_movies,7
+969,,"Suara di speaker terlalu keras, tolong kecilkan",audio_volume_down,1
+970,,berapa lama waktu yang dibutuhkan untuk mengukus ikan nila agar matang sempurna,cooking_recipe,3
+971,,Tolong mainkan lagi bagian akhir dari novel itu,play_audiobook,6
+972,,Alarm apa saja yang akan berbunyi pada pukul 7 pagi?,alarm_query,0
+973,,Hapus peringatan ultah pacar dari kalenderku.,calendar_remove,2
+974,,Tolong hapus acara ultah adik di kalender saya bulan depan,calendar_remove,2
+975,,Kirimi saya salinan email yang dikirim ke peminjam uang kemarin,email_sendemail,5
+976,,Buka aplikasi audible dan putar buku kesayangan saya,play_audiobook,6
+977,,Saya mau beli tiket pesawat ke Medan,transport_ticket,8
+978,,"Jika saat ini jam satu siang di Medan, jam berapa di Makassar?",datetime_convert,4
+979,,Batalkan semua jadwal yang ada di kalender,calendar_remove,2
+980,,"Tolong, pesan tiket kapal laut ke Bali buat besok",transport_ticket,8
+981,,apa ada film romance yang bagus dan sangat direkomendasikan,recommendation_movies,7
+982,,"Kalo saat ini jam setengah satu siang di Medan, jam berapa di Yogyakarta?",datetime_convert,4

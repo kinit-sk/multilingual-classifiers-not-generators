@@ -1,0 +1,1993 @@
+,Unnamed: 0,text,intent,label
+0,0.0,Erinnerst du dich an meinen letzten Wecker?,alarm_query,0
+1,1.0,Werden meine Wecker auch im Schlafmodus ausgelöst?,alarm_query,0
+2,2.0,In welchem Intervall werden meine Wecker angezeigt?,alarm_query,0
+3,3.0,Wer hat den letzten Wecker gestellt?,alarm_query,0
+4,4.0,Wo finde ich meine Wecker-Einstellungen?,alarm_query,0
+5,5.0,Wie viele Minuten bleiben mir bis zum nächsten Wecker?,alarm_query,0
+6,6.0,Zeigen Sie mir meine aktuellen Alarmeinstellungen.,alarm_query,0
+7,7.0,Wie lange dauert es bis zum nächsten Wecker?,alarm_query,0
+8,8.0,"Alexa, wie viele Alarme habe ich insgesamt?",alarm_query,0
+9,9.0,Wo finde ich meine Weckereinstellungen?,alarm_query,0
+10,10.0,Warum hat mein Wecker nicht geklingelt?,alarm_query,0
+11,11.0,Warum funktioniert mein Wecker nicht mehr?,alarm_query,0
+12,12.0,Sind meine Wecker synchronisiert mit anderen Geräten?,alarm_query,0
+13,13.0,"Gibt es einen Weg, um meine Wecker zu überprüfen?",alarm_query,0
+14,14.0,Haben Sie einen Wecker für mich gespeichert?,alarm_query,0
+15,15.0,Wie kann ich meine Wecker deaktivieren?,alarm_query,0
+16,16.0,Wie kann ich meine Wecker-Einstellungen ändern?,alarm_query,0
+17,17.0,Sind meine Wecker synchronisiert mit meinem Kalender?,alarm_query,0
+18,18.0,Wie kann ich meine Wecker duplizieren?,alarm_query,0
+19,19.0,Welche Wecker sind noch nicht abgelaufen?,alarm_query,0
+20,20.0,Wie viele Wecker habe ich aktiv?,alarm_query,0
+21,21.0,Wie viele Wecker habe ich aktiviert?,alarm_query,0
+22,22.0,Wie viele Minuten bis zum nächsten Wecker?,alarm_query,0
+23,23.0,"Kannst du mir sagen, ob ich einen Wecker für heute Abend eingerichtet habe?",alarm_query,0
+24,24.0,Wo finde ich meine Weckerliste?,alarm_query,0
+25,25.0,Welchen Wecker habe ich für Montagmorgen gesetzt?,alarm_query,0
+26,26.0,Haben Sie meinen Wecker für heute Abend bereits gestellt?,alarm_query,0
+27,27.0,Gibt es eine Liste meiner geplanten Wecker?,alarm_query,0
+28,28.0,Wie viele Mal haben meine Wecker geklingelt?,alarm_query,0
+29,29.0,Kannst du mir meine aktuellen Wecker zeigen?,alarm_query,0
+30,30.0,Warum ging mein letzter Wecker nicht los?,alarm_query,0
+31,31.0,Könnt ihr mir bitte meine Wecker-Zeit anzeigen?,alarm_query,0
+32,32.0,Wie kann ich meine standardmäßigen Weckerzeiten ändern?,alarm_query,0
+33,33.0,Werden meine Wecker automatisch gelöscht?,alarm_query,0
+34,34.0,Welche Uhrzeit habe ich für meinen ersten Wecker gewählt?,alarm_query,0
+35,35.0,Sind alle meine Wecker deaktiviert?,alarm_query,0
+36,36.0,Könntest du mir meine Wecker für die kommenden Tage zeigen?,alarm_query,0
+37,37.0,"Wie kann ich sehen, ob ein bestimmter Wecker noch aktiv ist?",alarm_query,0
+38,38.0,Hat jemand meinen Wecker für morgen Früh zurückgesetzt?,alarm_query,0
+39,39.0,Wie viel Uhr ist mein nächster Wecker?,alarm_query,0
+40,40.0,Hat mein Wecker bereits geklingelt?,alarm_query,0
+41,41.0,Ist der Wecker für Freitagmorgen bereits gesetzt?,alarm_query,0
+42,42.0,Zeigt mir meine aktuellen Alarmeinstellungen!,alarm_query,0
+43,43.0,Wie kann ich meine Wecker ändern?,alarm_query,0
+44,44.0,Wann geht mein nächster Wecker los?,alarm_query,0
+45,45.0,"Ich möchte wissen, wann mein nächster Wecker klingelt.",alarm_query,0
+46,46.0,Habe ich einen Wecker für Samstagvormittag gesetzt?,alarm_query,0
+47,47.0,Wie viele Tage bleiben mir bis zu meinem nächsten Wecker?,alarm_query,0
+48,48.0,Erinnere mich an meine Wecker für das Wochenende!,alarm_query,0
+49,49.0,Wer hat den letzten Wecker für mich gesetzt?,alarm_query,0
+50,50.0,Wer hat Zugriff auf meine Weckerdaten?,alarm_query,0
+51,51.0,Ist mein Wecker für Freitagabend noch gültig?,alarm_query,0
+52,52.0,Werden meine Wecker synchronisiert mit meinem Kalender?,alarm_query,0
+53,53.0,Was sind meine nächsten drei Wecker?,alarm_query,0
+54,54.0,"Werden Sie mich daran erinnern, wenn mein Wecker klingelt?",alarm_query,0
+55,55.0,"Wie kann ich prüfen, ob ein bestimmter Wecker funktioniert?",alarm_query,0
+56,56.0,Wie viele Minuten bleiben noch bis zum nächsten Wecker?,alarm_query,0
+57,57.0,Wie kann ich meine Wecker-History sehen?,alarm_query,0
+58,58.0,Wer hat den letzten Wecker gelöscht?,alarm_query,0
+59,59.0,Können Sie mir meine Weckerstatistik anzeigen?,alarm_query,0
+60,60.0,Könnten Sie mir bitte meine Wecker anzeigen?,alarm_query,0
+61,61.0,"Kannst du mir sagen, wie oft ich mich heute Morgen geweckt habe?",alarm_query,0
+62,62.0,Könnt ihr mir meine Wecker vorlesen?,alarm_query,0
+63,63.0,"Könnte Alexa mir helfen, meine Wecker zu verwalten?",alarm_query,0
+64,64.0,Wie viel Zeit bleibt mir bis zum nächsten Wecker?,alarm_query,0
+65,65.0,Wann wird mein erster Wecker am Wochenende losgehen?,alarm_query,0
+66,66.0,Gibt es einen Wecker für Donnerstagabend?,alarm_query,0
+67,67.0,Wie kann ich meine Wecker löschen?,alarm_query,0
+68,68.0,Wer hat den Wecker um 06:00 Uhr gestellt?,alarm_query,0
+69,69.0,Haben Sie eine Liste meiner geplanten Wecker?,alarm_query,0
+70,70.0,Kann man meine Wecker auch online verwalten?,alarm_query,0
+71,71.0,Wie kann ich meine Wecker umbenennen?,alarm_query,0
+72,72.0,"Gibt es einen Wecker, der bald losgeht?",alarm_query,0
+73,73.0,Ist mein Wecker für morgen bereits eingeschaltet?,alarm_query,0
+74,74.0,Müssen wir unseren Wecker für morgen ändern?,alarm_query,0
+75,75.0,Wie lange dauert es noch bis zum nächsten Wecker?,alarm_query,0
+76,76.0,Werden meine Wecker bei System-Updates gelöscht?,alarm_query,0
+77,77.0,"Ich möchte wissen, wann mein erster Wecker klingelt!",alarm_query,0
+78,78.0,Wie kann ich meine Wecker einsehen?,alarm_query,0
+79,79.0,Zeigt mir alle meine Weckeranmeldungen!,alarm_query,0
+80,80.0,Wie kann ich meine Weckerhistorie aufrufen?,alarm_query,0
+81,81.0,Hat jemand einen Wecker für mich geändert?,alarm_query,0
+82,82.0,Wann geht mein Wecker morgen los?,alarm_query,0
+83,83.0,Zu welcher Zeit werde ich morgen geweckt?,alarm_query,0
+84,84.0,"Wie lange dauert es, bis mein nächster Wecker klingelt?",alarm_query,0
+85,85.0,Könntest du mir meine Wecker für die Woche zeigen?,alarm_query,0
+86,86.0,Zu welcher Zeit wird mein Wecker am Wochenende gehen?,alarm_query,0
+87,87.0,Was sind meine nächsten drei Alarmanrufe?,alarm_query,0
+88,88.0,Was sind meine bevorzugten Weckerzeiten?,alarm_query,0
+89,89.0,Kannst du mir meine Wecker für die heutige Nacht zeigen?,alarm_query,0
+90,90.0,Wie kann ich meine Wecker exportieren?,alarm_query,0
+91,91.0,"Sagen Sie mir, wie viele Wecker ich insgesamt habe.",alarm_query,0
+92,92.0,könnt ihr bitte die Lautstärke reduzieren?,audio_volume_down,1
+93,93.0,kannst du den Klangpegel senken?,audio_volume_down,1
+94,94.0,stell die Lautstärke auf ruhige Stufe,audio_volume_down,1
+95,95.0,könntest du die Lautstärke herunterfahren?,audio_volume_down,1
+96,96.0,ich will meine Kopfhörer leiser haben,audio_volume_down,1
+97,97.0,reduzierte die Lautstärke für mich,audio_volume_down,1
+98,98.0,reduziere die Lautstärke meiner Kopfhörer,audio_volume_down,1
+99,99.0,ich will meine Ohren schonen und die Lautstärke reduzieren,audio_volume_down,1
+100,100.0,"ich brauche eine ruhige Umgebung, bitte leiser",audio_volume_down,1
+101,101.0,reduziert die Lautstärke meines Computers,audio_volume_down,1
+102,102.0,reduziere die Lautstärke auf fünfzig Prozent,audio_volume_down,1
+103,103.0,"leiser bitte, ich habe Kopfschmerzen",audio_volume_down,1
+104,104.0,reduziert die Lautstärke im Hintergrund,audio_volume_down,1
+105,105.0,ich will meine Musik leiser hören,audio_volume_down,1
+106,106.0,kannst du den Soundtrack leiser setzen?,audio_volume_down,1
+107,107.0,"ich finde es zu laut, kannst du runterfahren?",audio_volume_down,1
+108,108.0,kannst du deine Stimme drosseln?,audio_volume_down,1
+109,109.0,"die Musik ist zu laut, kannst du sie leiser stellen?",audio_volume_down,1
+110,110.0,"die Musik ist zu laut für mich, reduziere sie bitte",audio_volume_down,1
+111,111.0,kannst du die Musik leiser stellen,audio_volume_down,1
+112,112.0,reduziere die Lautstärke des Fernsehers,audio_volume_down,1
+113,113.0,"die Lautstärke ist zu aggressiv, reduzieren Sie bitte",audio_volume_down,1
+114,114.0,kann ich die Lautstärke senken?,audio_volume_down,1
+115,115.0,stell die Lautstärke auf zehn Uhr zurück,audio_volume_down,1
+116,116.0,"ich bin müde vom Lärm, kannst du es leiser machen?",audio_volume_down,1
+117,117.0,stell die Lautstärke auf fünfzig Prozent herunter,audio_volume_down,1
+118,118.0,kann ich bitte die Lautstärke minimieren,audio_volume_down,1
+119,119.0,die Lautstärke ist zu hoch für mich,audio_volume_down,1
+120,120.0,reduziere die Lautstärke deines Radios,audio_volume_down,1
+121,121.0,"ich finde es zu laut, kannst du es dimmen?",audio_volume_down,1
+122,122.0,stell die Lautstärke auf einen niedrigeren Wert,audio_volume_down,1
+123,123.0,"ich habe Kopfschmerzen von dem Lärm, kannst du es leiser machen?",audio_volume_down,1
+124,124.0,stell die Lautstärke auf eine angemessene Höhe,audio_volume_down,1
+125,125.0,die Lautstärke ist unangenehm hoch,audio_volume_down,1
+126,126.0,"ich brauche eine ruhige Umgebung, können Sie die Musik leiser machen?",audio_volume_down,1
+127,127.0,"es ist zu laut, kannst du es reduzieren?",audio_volume_down,1
+128,128.0,reduzier die Medienlautstärke,audio_volume_down,1
+129,129.0,"die Lautstärke ist zu hoch, reduziere sie",audio_volume_down,1
+130,130.0,können wir die Lautstärke reduzieren,audio_volume_down,1
+131,131.0,"die Lautstärke ist unangemessen hoch, reduzieren Sie bitte",audio_volume_down,1
+132,132.0,"leise machen, bitte",audio_volume_down,1
+133,133.0,"ich habe genug von dem Lärm, machen Sie leiser",audio_volume_down,1
+134,134.0,können Sie die Lautstärke ein wenig reduzieren?,audio_volume_down,1
+135,135.0,"ich finde es zu laut, könntest du es leiser stellen?",audio_volume_down,1
+136,136.0,"die Lautstärke ist unangenehm hoch, bitte ändern",audio_volume_down,1
+137,137.0,"ich bin müde und brauche Ruhe, machs leiser",audio_volume_down,1
+138,138.0,leise stellen sie bitte,audio_volume_down,1
+139,139.0,"ich finde es zu laut, könntest du es reduzieren",audio_volume_down,1
+140,140.0,"die Geräusche sind zu laut, reduziere sie bitte",audio_volume_down,1
+141,141.0,mach die Geräusche leiser,audio_volume_down,1
+142,142.0,kannst du bitte den Ton leiser stellen?,audio_volume_down,1
+143,143.0,"die Lautstärke ist zu aggressiv, bitte leiser",audio_volume_down,1
+144,144.0,reduziert die Lautstärke des Fernsehers,audio_volume_down,1
+145,145.0,"die Geräusche sind zu laut, kannst du sie abschwächen?",audio_volume_down,1
+146,146.0,kannst du den Fernseher leiser stellen?,audio_volume_down,1
+147,147.0,"die Lautstärke ist zu überwältigend, reduzieren Sie bitte",audio_volume_down,1
+148,148.0,die Lautstärke meiner Spielekonsole ist zu hoch,audio_volume_down,1
+149,149.0,"ich will nicht so viel Lärm hören, bitte leiser",audio_volume_down,1
+150,150.0,reduziere die Lautstärke deiner Stimme,audio_volume_down,1
+151,151.0,reduziere die Lautstärke meines Headsets,audio_volume_down,1
+152,152.0,"die Lautsprecher sind zu laut, reduzier sie",audio_volume_down,1
+153,153.0,stell den Ton leiser,audio_volume_down,1
+154,154.0,"die Lautsprecher sind zu laut, kannst du sie regulieren?",audio_volume_down,1
+155,155.0,reduzieren Sie die Lautstärke auf fünfzig Prozent,audio_volume_down,1
+156,156.0,verringere die Lautstärke des Lautsprechers,audio_volume_down,1
+157,157.0,"ich muss mich konzentrieren, bitte leiser",audio_volume_down,1
+158,158.0,"die Musik ist zu laut, reduzieren Sie bitte",audio_volume_down,1
+159,159.0,"die Musik ist zu laut, könntest du sie leiser machen?",audio_volume_down,1
+160,160.0,ich brauche einen ruhigeren Ton,audio_volume_down,1
+161,161.0,"die Lautstärke ist zu hoch, reduzieren Sie bitte",audio_volume_down,1
+162,162.0,reduziere die Hintergrundmusik,audio_volume_down,1
+163,163.0,ich will meine Lautsprecher leiserstellen,audio_volume_down,1
+164,164.0,ich will nicht so laut hören,audio_volume_down,1
+165,165.0,"mein Fernseher ist zu laut, hilfst du mir?",audio_volume_down,1
+166,166.0,mach es ein bisschen leiser,audio_volume_down,1
+167,167.0,"leise machen, bitte!",audio_volume_down,1
+168,168.0,senke die Lautstärke des Fernsehers,audio_volume_down,1
+169,169.0,stell die Lautstärke auf vierzig Prozent herab,audio_volume_down,1
+170,170.0,stell die Lautstärke auf vierzig Prozent zurück,audio_volume_down,1
+171,171.0,"es ist zu laut, machs mal leiser",audio_volume_down,1
+172,172.0,"mach es ruhiger, bitte!",audio_volume_down,1
+173,173.0,reduziere die Lautstärke meines Computers,audio_volume_down,1
+174,174.0,"die Lautstärke ist einfach zu hoch, reduzieren Sie bitte",audio_volume_down,1
+175,175.0,"mach mal leiser, okay?",audio_volume_down,1
+176,176.0,"ich will nicht so viel Lärm haben, reduziere die Lautstärke",audio_volume_down,1
+177,177.0,ich will meine Boxen leiser haben,audio_volume_down,1
+178,178.0,"ich brauche eine Pause vom Lärm, kannst du es leiser machen?",audio_volume_down,1
+179,179.0,kann ich bitte die Lautstärke senken?,audio_volume_down,1
+180,180.0,"ich brauche absolute Stille, bitte leiser",audio_volume_down,1
+181,181.0,"die Musik ist zu laut, kann ich sie leiser haben?",audio_volume_down,1
+182,182.0,mach mal ein bisschen leiser,audio_volume_down,1
+183,183.0,"es ist zu laut hier drin, können wir die Lautstärke reduzieren?",audio_volume_down,1
+184,184.0,reduziere die Lautstärke meiner Ohren,audio_volume_down,1
+185,185.0,"mein Radio ist zu laut, kann ich es leiser machen?",audio_volume_down,1
+186,186.0,"der Klang ist zu hoch, dämpfe ihn bitte",audio_volume_down,1
+187,187.0,"es ist zu laut hier drin, machs mal leiser",audio_volume_down,1
+188,188.0,verringere die Medienlautstärke,audio_volume_down,1
+189,189.0,die Lautstärke meiner Kopfhörer ist zu hoch,audio_volume_down,1
+190,190.0,die Lautsprecher sind viel zu laut,audio_volume_down,1
+191,191.0,"die Umgebungsgeräusche sind zu laut, kannst du sie reduzieren?",audio_volume_down,1
+192,192.0,Wie kann ich mehrere Termine auf einmal löschen?,calendar_remove,2
+193,193.0,"Kannst du mir helfen, diesen Termin zu entfernen?",calendar_remove,2
+194,194.0,Lösche meine Pläne für Silvester,calendar_remove,2
+195,195.0,Wie kann ich einen Eintrag im Kalender bearbeiten oder löschen?,calendar_remove,2
+196,196.0,Lösche den Termin mit der Firma Müller & Co.,calendar_remove,2
+197,197.0,Lösche den Urlaub im September aus meinem Kalender.,calendar_remove,2
+198,198.0,Entferne den Termin für die Familienfeier,calendar_remove,2
+199,199.0,Bitte löschen Sie alle Urlaube aus meinem Kalender.,calendar_remove,2
+200,200.0,Kann ich einen ganzen Monat im Kalender löschen?,calendar_remove,2
+201,201.0,Lösche meine Pläne für die Osterferien,calendar_remove,2
+202,202.0,Entferne den Termin für die Theateraufführung,calendar_remove,2
+203,203.0,Kann ich einen Termin im Kalender komplett löschen?,calendar_remove,2
+204,204.0,Bitte löschen Sie dieses Ereignis aus meinem Kalender.,calendar_remove,2
+205,205.0,Entferne die Party am Wochenende vom Kalender.,calendar_remove,2
+206,206.0,Entferne alle Arzttermine aus meinem Kalender.,calendar_remove,2
+207,207.0,Bitte entfernen Sie alle religiösen Feiertage aus meinem Kalender.,calendar_remove,2
+208,208.0,Entferne den Meeting-Termin am Freitag.,calendar_remove,2
+209,209.0,Ich möchte den Termin mit Sarah entfernen.,calendar_remove,2
+210,210.0,Lösche die Erinnerung an meine Hochzeitstag aus meinem Kalender.,calendar_remove,2
+211,211.0,Entferne den Termin für die Messebesuch,calendar_remove,2
+212,212.0,Lösche den Eintrag für den Fitnesskurs,calendar_remove,2
+213,213.0,Lösche das Musikfestival aus meinem Kalender.,calendar_remove,2
+214,214.0,Entfernen Sie bitte den Arzttermin morgen früh,calendar_remove,2
+215,215.0,Lösche alle Ereignisse im Juli aus meinem Kalender.,calendar_remove,2
+216,216.0,Lösche meine Verabredung zum Mittagessen,calendar_remove,2
+217,217.0,Bitte entfernen Sie alle Familienfeste aus meinem Kalender.,calendar_remove,2
+218,218.0,Lösche das Jubiläumsfest aus meinem Kalender.,calendar_remove,2
+219,219.0,Lösche bitte alle Veranstaltungen im August.,calendar_remove,2
+220,220.0,Lösche den Tanzkurs am Dienstag.,calendar_remove,2
+221,221.0,Kann ich einen bestimmten Tag aus meinem Kalender entfernen?,calendar_remove,2
+222,222.0,Lösche den Reisetag am Freitag.,calendar_remove,2
+223,223.0,Entferne alle Dienstreisen aus meinem Kalender.,calendar_remove,2
+224,224.0,Bitte lösche den ganzen Tag frei im Kalender.,calendar_remove,2
+225,225.0,Lösche die Beerdigung meiner Tante aus meinem Kalender.,calendar_remove,2
+226,226.0,Lösche den Friseurtermin am Donnerstag.,calendar_remove,2
+227,227.0,Lösche alle Ereignisse vor einem Jahr,calendar_remove,2
+228,228.0,Lösche den Arzttermin am Dienstag.,calendar_remove,2
+229,229.0,Entferne den Termin für die Opernaufführung,calendar_remove,2
+230,230.0,Entferne den Tennisplatzreservierungstermin.,calendar_remove,2
+231,231.0,Lösche den Yogakurs am Mittwoch.,calendar_remove,2
+232,232.0,Ich will meine Ferienpläne aus dem Kalender entfernen,calendar_remove,2
+233,233.0,Wie kann ich einen privaten Termin im Kalender löschen?,calendar_remove,2
+234,234.0,Lösche das Essen mit Freunden am Sonntag aus meinem Kalender.,calendar_remove,2
+235,235.0,Lösche den Kinoabend am Samstag.,calendar_remove,2
+236,236.0,Lösche meine Veranstaltung für nächsten Donnerstag,calendar_remove,2
+237,237.0,Bitte entferne die Hochzeit meiner Schwester aus meinem Kalender,calendar_remove,2
+238,238.0,entferne diesen Termin aus meinem Kalender,calendar_remove,2
+239,239.0,Entferne alle Schulterminie aus meinem Kalender.,calendar_remove,2
+240,240.0,Kann ich einen bestimmten Tag im Kalender löschen?,calendar_remove,2
+241,241.0,Lösche meine Pläne für den Valentinstag,calendar_remove,2
+242,242.0,Lösche den Sportevent am Wochenende.,calendar_remove,2
+243,243.0,Entferne den Jobinterview-Termin.,calendar_remove,2
+244,244.0,Wie kann ich einen bestimmten Tag aus meinem Kalender löschen?,calendar_remove,2
+245,245.0,Lösche alle Ereignisse vor der Sommerpause,calendar_remove,2
+246,246.0,Lösche das Konzert am Samstag aus meinem Kalender.,calendar_remove,2
+247,247.0,Lösche alle Ereignisse zwischen Ostern und Pfingsten,calendar_remove,2
+248,248.0,Lösche alle Termine für morgen aus meinem Kalender.,calendar_remove,2
+249,249.0,Wie kann ich einen bestimmten Bereich aus meinem Kalender entfernen?,calendar_remove,2
+250,250.0,Lösche alle Termine nach Februar,calendar_remove,2
+251,251.0,Ich möchte meine Veranstaltung am Wochenende streichen.,calendar_remove,2
+252,252.0,Lösche den Zahnarzttermin am Donnerstag.,calendar_remove,2
+253,253.0,Wie kann ich einen bestimmten Tag im Kalender leeren?,calendar_remove,2
+254,254.0,Lösche alle Termine nach Neujahr,calendar_remove,2
+255,255.0,Entferne alle Reisepläne aus meinem Kalender.,calendar_remove,2
+256,256.0,Lösche den Medizinischen Check-up am Montag.,calendar_remove,2
+257,257.0,Wie kann ich einen ganzen Monat aus meinem Kalender entfernen?,calendar_remove,2
+258,258.0,Streiche das Meeting am Montag aus meinem Kalender.,calendar_remove,2
+259,259.0,Entferne den Termin für die Weihnachtsfeier,calendar_remove,2
+260,260.0,Entferne den Konzertbesuch am Wochenende.,calendar_remove,2
+261,261.0,Bitte entferne den Termin für die Beerdigung,calendar_remove,2
+262,262.0,Entferne den Bibliothekstermin am Dienstag.,calendar_remove,2
+263,263.0,Lösche meine Reisepläne für Juli,calendar_remove,2
+264,264.0,Entferne die Hochzeit meiner Schwester vom Kalender.,calendar_remove,2
+265,265.0,Lösche die Party am Freitag aus meinem Kalender.,calendar_remove,2
+266,266.0,Entfernen Sie bitte diesen Eintrag aus meinem Terminplaner.,calendar_remove,2
+267,267.0,Lösche alle Geburtstage meiner Familie aus meinem Kalender.,calendar_remove,2
+268,268.0,Bitte löschen Sie alle sportlichen Ereignisse aus meinem Kalender.,calendar_remove,2
+269,269.0,Entferne alle Termine bis Ende des Jahres,calendar_remove,2
+270,270.0,Lösche den Muttertag aus meinem Kalender.,calendar_remove,2
+271,271.0,Lösche die Hochzeitsreise aus meinem Kalender.,calendar_remove,2
+272,272.0,Lösche den Kochkurs am Mittwoch.,calendar_remove,2
+273,273.0,Lösche alle Termine während der Sommerpause,calendar_remove,2
+274,274.0,Entferne meine Geburtstagsparty vom Kalender.,calendar_remove,2
+275,275.0,Entferne alle Führerscheinprüfungen aus meinem Kalender.,calendar_remove,2
+276,276.0,Bitte entferne den Termin für die Hochzeitsreise,calendar_remove,2
+277,277.0,Bitte entferne den Termin für die Autowerkstatt,calendar_remove,2
+278,278.0,Kann ich einen bestimmten Zeitraum aus meinem Kalender entfernen?,calendar_remove,2
+279,279.0,Entfernt den Termin mit Herrn Schmidt,calendar_remove,2
+280,280.0,Ich möchte meine Geburtstagsparty aus dem Kalender streichen,calendar_remove,2
+281,281.0,Lösche alle Ereignisse vom letzten Wochenende,calendar_remove,2
+282,282.0,Bitte entfernen Sie alle Feiertage aus meinem Kalender.,calendar_remove,2
+283,283.0,Bitte entferne den Termin für die Konzerttickets,calendar_remove,2
+284,284.0,Wie kann ich einen Eintrag im Kalender löschen?,calendar_remove,2
+285,285.0,Lösche den Jahrestag meines Hundes aus meinem Kalender.,calendar_remove,2
+286,286.0,Lösche den Abendessen-Termin am Sonntag.,calendar_remove,2
+287,287.0,Lösche den Fitnesskurs am Montag.,calendar_remove,2
+288,288.0,Bitte entferne den Jahrestag meines Hundes aus meinem Kalender,calendar_remove,2
+289,289.0,Was ist das Geheimnis für fluffigen Pfannkuchen?,cooking_recipe,3
+290,290.0,"Was brauche ich alles, um authentische Tacos al pastor herzustellen?",cooking_recipe,3
+291,291.0,"Kannst du mir verraten, wie man Käulchen ohne Sahne macht?",cooking_recipe,3
+292,292.0,Wie mache ich die cremigste Avocado-Creme?,cooking_recipe,3
+293,293.0,"Was brauche ich, um selbst Pizza-Teig herzustellen?",cooking_recipe,3
+294,294.0,"Wieviel Wasser benötigt man, um Reis richtig zu kochen?",cooking_recipe,3
+295,295.0,Wie kann man Tomatensaft aus frischen Tomaten pressen?,cooking_recipe,3
+296,296.0,Wie bereitest du den perfekten Omelett zu?,cooking_recipe,3
+297,297.0,"Wie lang muss man Hähnchenschenkel grillen, damit sie gar sind?",cooking_recipe,3
+298,298.0,Was ist das beste Verhältnis zwischen Zucker und Butter bei der Herstellung von Plätzchen?,cooking_recipe,3
+299,299.0,"Wieviel Zeit benötigt man, um einen ganzen Fisch im Ofen zu garen?",cooking_recipe,3
+300,300.0,Wie mache ich die beste Schokoladensauce aller Zeiten?,cooking_recipe,3
+301,301.0,Gibt es ein traditionelles indisches Rezept für Naan-Brot?,cooking_recipe,3
+302,302.0,Gibt es ein einfaches Rezept für vegane Brownies?,cooking_recipe,3
+303,303.0,Gibt es ein einfaches Rezept für französische Crêpes?,cooking_recipe,3
+304,304.0,Was ist das geheime Ingredient für cremige Suppen?,cooking_recipe,3
+305,305.0,Wie bereitet man traditionelle chinesische Wonton-Suppen zu?,cooking_recipe,3
+306,306.0,Gibt es ein einfaches Rezept für glutenfreies Brot?,cooking_recipe,3
+307,307.0,Kannst du mich über die Zubereitung von Chicken Tikka Masala informieren?,cooking_recipe,3
+308,308.0,Wie bereitet man perfekte Spätzle zu?,cooking_recipe,3
+309,309.0,Wie bereitet man perfekte Spaghetti Bolognese zu?,cooking_recipe,3
+310,310.0,Wie bereitet man traditionelle deutsche Schnitzel zu?,cooking_recipe,3
+311,311.0,"Erklärt mir bitte, wie man den perfekten Steak bratet!",cooking_recipe,3
+312,312.0,"Kannst du mir zeigen, wie man die besten Pancakes macht?",cooking_recipe,3
+313,313.0,Wie bereitest du deinen eigenen Senf zu?,cooking_recipe,3
+314,314.0,Was ist das Geheimnis für saftige Hähnchenschlegel?,cooking_recipe,3
+315,315.0,"Wie lang muss man Kartoffeln kochen, bevor sie weich sind?",cooking_recipe,3
+316,316.0,"Wie lange müssen Eiweiß und Eidotter getrennt werden, bevor man Omelett machen kann?",cooking_recipe,3
+317,317.0,"Wie kann man Garnelen so zubereiten, dass sie nicht gummiartig werden?",cooking_recipe,3
+318,318.0,"Wieviel Zeit benötigt man, um einen ganzen Truthahn zu grillen?",cooking_recipe,3
+319,319.0,"Erkläre mir bitte, wie man Hummus zubereitet!",cooking_recipe,3
+320,320.0,Welches Öl ist am besten zum Braten geeignet?,cooking_recipe,3
+321,321.0,Wie bereitet man einen authentischen italienischen Espresso zu?,cooking_recipe,3
+322,322.0,Kannst du mir ein Rezept für Low-Carb-Pizza empfehlen?,cooking_recipe,3
+323,323.0,Wie kann man Blumenkohl frittieren?,cooking_recipe,3
+324,324.0,"Kannst du mir verraten, wie man den perfekten Burger bratet?",cooking_recipe,3
+325,325.0,Wie kann man Zucchini-Nudeln herstellen?,cooking_recipe,3
+326,326.0,"Wieviel Öl benötigt man, um perfekt fritierte Chicken Wings zu erzielen?",cooking_recipe,3
+327,327.0,Wie lange backe ich einen Kuchen bei 180 Grad Celsius?,cooking_recipe,3
+328,328.0,Gibt es ein einfaches Rezept für selbstgemachte Nudeln?,cooking_recipe,3
+329,329.0,"Wie lang muss man Fischfilets grillen, damit sie gar sind?",cooking_recipe,3
+330,330.0,"Was brauche ich alles, um einen traditionellen Weihnachtsgansbraten zuzubereiten?",cooking_recipe,3
+331,331.0,"Kannst du mich lehren, wie man einen leckeren Apfelstrudel bäckt?",cooking_recipe,3
+332,332.0,Was ist das Geheimnis für saftige Hähnchenschneider?,cooking_recipe,3
+333,333.0,Wie kann man Tomatensaft aus frischen Tomaten herstellen?,cooking_recipe,3
+334,334.0,"Kannst du mich instruieren, wie man einen leckeren Apfelstrudel bäckt?",cooking_recipe,3
+335,335.0,Wie kann man Pfannkuchenbacken wie ein Profi?,cooking_recipe,3
+336,336.0,Wie wird man ein Meister des Grillens von Steak?,cooking_recipe,3
+337,337.0,Wie kann man einen saftigen Truthahn am Thanksgiving-Tag zubereiten?,cooking_recipe,3
+338,338.0,"Wieviel Zucker benötigt man, um eigene Marmelade herzustellen?",cooking_recipe,3
+339,339.0,Wie bereittest du deine eigenen Salatsaucen zu?,cooking_recipe,3
+340,340.0,Was ist das beste Öl zum Braten von Fisch?,cooking_recipe,3
+341,341.0,"Wieviel Wasser benötigt man, um Risotto zuzubereiten?",cooking_recipe,3
+342,342.0,"Was brauche ich, um echten italienischen Espresso herzustellen?",cooking_recipe,3
+343,343.0,"Wie lange dauert es, bis Eintopf fertig gekocht ist?",cooking_recipe,3
+344,344.0,Gibt es ein einfaches Rezept für Marmorkäsekuchen?,cooking_recipe,3
+345,345.0,Kannst du mir das Rezept für Spätzle geben?,cooking_recipe,3
+346,346.0,Wie bereitet man cremigen Brokkoli-Salat zu?,cooking_recipe,3
+347,347.0,Wie mache ich die cremigste Vanille-Sahne überhaupt?,cooking_recipe,3
+348,348.0,Wie kann man frische Basilikumblätter trocknen?,cooking_recipe,3
+349,349.0,"Wie lang muss man Eiweiß schlagen, bis es steif ist?",cooking_recipe,3
+350,350.0,"Wie lang muss man Hähncheneiweiß backen, damit sie knusprig werden?",cooking_recipe,3
+351,351.0,"Könntest du mir verraten, wie man die besten Bratwürste selber macht?",cooking_recipe,3
+352,352.0,Gibt es ein traditionelles deutsches Rezept für Weihnachtsgurken?,cooking_recipe,3
+353,353.0,"Kannst du mir erklären, wie man die besten Chicken Wings macht?",cooking_recipe,3
+354,354.0,"Kannst du mir zeigen, wie man Tortellini selber macht?",cooking_recipe,3
+355,355.0,Kannst du mir ein simples Rezept für Garnelen-Curry geben?,cooking_recipe,3
+356,356.0,"Wie kann man weiche, luftige Brötchen backen?",cooking_recipe,3
+357,357.0,Welche Zutaten benötigt man für eine authentische Paella?,cooking_recipe,3
+358,358.0,Kannst du mir das Rezept für echten italienischen Espresso geben?,cooking_recipe,3
+359,359.0,Wie kann man am besten Gemüse im Ofen rösten?,cooking_recipe,3
+360,360.0,Gibt es ein Geheimrezept für den fluffigsten Kartoffelpüree aller Zeiten?,cooking_recipe,3
+361,361.0,"Erklär mir bitte, wie man Fisch richtig grillt!",cooking_recipe,3
+362,362.0,Gibt es ein einfaches Rezept für vegane Lasagne?,cooking_recipe,3
+363,363.0,"Wie kann man am besten Fischfilets garen, ohne dass sie trocken werden?",cooking_recipe,3
+364,364.0,Wie bereitet man perfekten Reis zu?,cooking_recipe,3
+365,365.0,Wie kann man Zucchini-Nudeln selber machen?,cooking_recipe,3
+366,366.0,Wie kann man Kartoffelpüree ohne Milch zubereiten?,cooking_recipe,3
+367,367.0,Wie bereitest du leckeres Gemüse vor dem Grillen vor?,cooking_recipe,3
+368,368.0,Wie bereitet man einen japanischen Miso-Suppen-Eintopf zu?,cooking_recipe,3
+369,369.0,Wieviel Mehl benötigt man für einen klassischen Apfelstrudel?,cooking_recipe,3
+370,370.0,"Erzähl mir, wie man die besten Pommes frites macht!",cooking_recipe,3
+371,371.0,Wie bereitest du deinen eigenen Hummus zu?,cooking_recipe,3
+372,372.0,"Wie lang muss man Kartoffeln kochen, bis sie weich sind?",cooking_recipe,3
+373,373.0,"Was braucht man, um echte italienische Pizza herzustellen?",cooking_recipe,3
+374,374.0,"Erklär mir bitte, wie man richtigen Sushi-Reis kocht!",cooking_recipe,3
+375,375.0,"Ist es schwierig, eigenes Sauerkraut herzustellen?",cooking_recipe,3
+376,376.0,"Kannst du mir erläutern, wie man Garnelen richtig putzt?",cooking_recipe,3
+377,377.0,Wie bereitet man leckeren Joghurt-Eiscreme zu?,cooking_recipe,3
+378,378.0,"Wieviel Salz benötigt man, um eigenes Brot zu backen?",cooking_recipe,3
+379,379.0,Was ist das richtige Verhältnis von Zucker und Sahne für Crème Brûlée?,cooking_recipe,3
+380,380.0,Welches ist das beste Rezept für selbstgemachte Nudeln?,cooking_recipe,3
+381,381.0,"Wie lang muss man Eintopf köcheln lassen, bevor er fertig ist?",cooking_recipe,3
+382,382.0,"Wieviel Mehl benötigt man, um perfekten Pizza-Teig herzustellen?",cooking_recipe,3
+383,383.0,"Wieviel Zeit benötigt man, um einen ganzen Truthahn zu garen?",cooking_recipe,3
+384,384.0,Gibt es ein einfaches Rezept für deutsche Lebkuchen?,cooking_recipe,3
+385,385.0,"Wie kann man frische Kräuter richtig lagern, um ihre Aroma zu bewahren?",cooking_recipe,3
+386,386.0,"Welche Zutaten benötige ich, um echten italienischen Pesto herzustellen?",cooking_recipe,3
+387,387.0,"Kannst du mir erläutern, wie man Sushi-Rollen macht?",cooking_recipe,3
+388,388.0,"Welche Uhrzeit hat es in London, wenn es in Frankfurt Nachmittag ist?",datetime_convert,4
+389,389.0,Berechne den Zeitunterschied zwischen der Zeit in Buenos Aires und der Zeit in Santiago de Chile.,datetime_convert,4
+390,390.0,"Was ist die Uhrzeit in Hongkong, wenn es in Singapur Abend ist?",datetime_convert,4
+391,391.0,"Wenn es 08:00 Uhr in Bangkok ist, wie früh ist es dann in Jakarta?",datetime_convert,4
+392,392.0,"Wenn es 15:00 Uhr in Amsterdam ist, wie spät ist es dann in Warschau?",datetime_convert,4
+393,393.0,Umrechne die Uhrzeit von AEST nach BST.,datetime_convert,4
+394,394.0,Konvertiere die Uhrzeit von UTC nach MST.,datetime_convert,4
+395,395.0,Wie viele Stunden Unterschied gibt es zwischen der Zeit in Rio de Janeiro und der Zeit in Madrid?,datetime_convert,4
+396,396.0,Wie viele Stunden Unterschied gibt es zwischen der Zeit in Rio de Janeiro und der in Stuttgart?,datetime_convert,4
+397,397.0,Konvertiere die Uhrzeit von GMT+1 nach CST.,datetime_convert,4
+398,398.0,"Wie viel Uhr ist es in Peking, wenn es in Wien Nachmittag ist?",datetime_convert,4
+399,399.0,Rechne um die Uhrzeit von CDT nach EDT.,datetime_convert,4
+400,400.0,Ersetze die Uhrzeit durch die Zeitzone GMT minus zwei Stunden.,datetime_convert,4
+401,401.0,"Was ist die Uhrzeit in Dubai, wenn es in Mumbai Morgen ist?",datetime_convert,4
+402,402.0,Errechnen Sie den Zeitunterschied zwischen AEST und AWST.,datetime_convert,4
+403,403.0,"Wenn es 18:00 Uhr in Rio de Janeiro ist, wie spät ist es dann in Buenos Aires?",datetime_convert,4
+404,404.0,Wie viele Minuten Unterschied gibt es zwischen der Zeit in Santiago de Chile und der in Kassel?,datetime_convert,4
+405,405.0,Ersetze die Uhrzeit von 20:00 UTC durch die lokale Zeit in Tokyo.,datetime_convert,4
+406,406.0,Ändere die Zeitzone auf UTC+1.,datetime_convert,4
+407,407.0,Konvertiere die Uhrzeit von HKT nach JST.,datetime_convert,4
+408,408.0,Berechne den Zeitunterschied zwischen BST und IST.,datetime_convert,4
+409,409.0,"Wie viel Uhr ist es in Berlin, wenn es in New York Mittag ist?",datetime_convert,4
+410,410.0,Was ist die Differenz zwischen der Zeit in Bogotá und der Zeit in Lima?,datetime_convert,4
+411,411.0,Ändere die Uhrzeit von 14:00 CET zu EST.,datetime_convert,4
+412,412.0,"Was ist die aktuelle Uhrzeit in Tokio, wenn es in München Morgen ist?",datetime_convert,4
+413,413.0,Berechne den Zeitunterschied zwischen Buenos Aires und Santiago de Chile.,datetime_convert,4
+414,414.0,"Um wie viel Uhr ist es in Shanghai, wenn es in Zürich 16 Uhr ist?",datetime_convert,4
+415,415.0,"Wenn es in Shanghai Morgen ist, wie spät ist es dann in Zürich?",datetime_convert,4
+416,416.0,"Wenn es 10:00 Uhr in San Francisco ist, wie spät ist es dann in Chicago?",datetime_convert,4
+417,417.0,"Welche Uhrzeit hat es in Sydney, wenn wir in Deutschland Abend haben?",datetime_convert,4
+418,418.0,Gib mir die Uhrzeit in GMT plus drei Stunden an.,datetime_convert,4
+419,419.0,"Welche Uhrzeit hat es in London, wenn es in Madrid 15 Uhr ist?",datetime_convert,4
+420,420.0,Rechne um die Uhrzeit von EST nach CET.,datetime_convert,4
+421,421.0,Konvertiere die Uhrzeit von GMT nach CET.,datetime_convert,4
+422,422.0,Ändere die Uhrzeit von HST nach AKDT.,datetime_convert,4
+423,423.0,Was ist der Zeitunterschied zwischen der Zeit in Melbourne und der Zeit in Perth?,datetime_convert,4
+424,424.0,"Was ist die aktuelle Uhrzeit in Buenos Aires, wenn es in Leipzig 18 Uhr ist?",datetime_convert,4
+425,425.0,"Sage mir die Uhrzeit in Mexiko-Stadt, wenn es in Los Angeles Mittag ist.",datetime_convert,4
+426,426.0,"Um wie viel Uhr ist es in Kapstadt, wenn es in Hamburg Mittag ist?",datetime_convert,4
+427,427.0,Wie viele Minuten Unterschied gibt es zwischen der Zeit in Kairo und der Zeit in Nairobi?,datetime_convert,4
+428,428.0,"Wie viel Uhr ist es in Berlin, wenn es in Paris 14 Uhr ist?",datetime_convert,4
+429,429.0,"Was ist die Uhrzeit in Johannesburg, wenn es in Kapstadt Morgen ist?",datetime_convert,4
+430,430.0,"Sage mir die Uhrzeit in Rio de Janeiro, wenn es in Madrid Mittag ist.",datetime_convert,4
+431,431.0,Umrechne die Zeit von MEZ nach PST.,datetime_convert,4
+432,432.0,Wie viele Stunden liegt die Zeit in Australien vor der in Deutschland zurück?,datetime_convert,4
+433,433.0,"Errechnen Sie die Uhrzeit in Tokio, wenn es in München Abend ist.",datetime_convert,4
+434,434.0,Um wie viel Uhr unterscheidet sich die Zeit in Johannesburg von der in Bremen?,datetime_convert,4
+435,435.0,Gib mir die Uhrzeit in JST plus eine Stunde an.,datetime_convert,4
+436,436.0,"Was ist die Uhrzeit in Dubai, wenn es in Köln 12 Uhr ist?",datetime_convert,4
+437,437.0,Konvertiere die Uhrzeit von MST nach HST.,datetime_convert,4
+438,438.0,Was ist die Differenz zwischen der Zeit in Dubai und der Zeit in Istanbul?,datetime_convert,4
+439,439.0,Um wie viel Uhr unterscheidet sich die Zeit in London von der in Paris?,datetime_convert,4
+440,440.0,"Wenn es in Amsterdam Abend ist, wie spät ist es dann in Vancouver?",datetime_convert,4
+441,441.0,Wie viele Minuten Unterschied gibt es zwischen der Zeit in Madrid und Rom?,datetime_convert,4
+442,442.0,Was ist der Zeitunterschied zwischen Kopenhagen und Stockholm?,datetime_convert,4
+443,443.0,"Wenn es in Toronto Vormittag ist, wie spät ist es dann in Montreal?",datetime_convert,4
+444,444.0,Konvertiere die Uhrzeit von MST nach PST.,datetime_convert,4
+445,445.0,Konvertiere die Uhrzeit von PDT nach GST.,datetime_convert,4
+446,446.0,"Wenn es in Mumbai Abend ist, wie spät ist es dann in Chennai?",datetime_convert,4
+447,447.0,Ändere die Zeitzone auf CDT.,datetime_convert,4
+448,448.0,"Wenn es in Kopenhagen Abend ist, wie spät ist es dann in Warschau?",datetime_convert,4
+449,449.0,"Wenn es in New York Mittag ist, wie spät ist es dann in München?",datetime_convert,4
+450,450.0,"Welche Uhrzeit hat es in Hong Kong, wenn es in Shanghai Abend ist?",datetime_convert,4
+451,451.0,"Wenn es in Paris Morgen ist, wie spät ist es dann in Sydney?",datetime_convert,4
+452,452.0,"Wenn es 22:00 Uhr in Istanbul ist, wie spät ist es dann in Athen?",datetime_convert,4
+453,453.0,Ändere die Uhrzeit von EST zu CET um.,datetime_convert,4
+454,454.0,"Wenn es in Kalifornien Nachmittag ist, wie spät ist es dann in Frankfurt?",datetime_convert,4
+455,455.0,Um wie viel Uhr unterscheidet sich die Zeit in Sydney von der in Hamburg?,datetime_convert,4
+456,456.0,Ändere die Uhrzeit von AST nach NST.,datetime_convert,4
+457,457.0,"Errechnen Sie die Uhrzeit in San Francisco, wenn es in Chicago Nachmittag ist.",datetime_convert,4
+458,458.0,"Sage mir die Uhrzeit in Moskau, wenn es in Berlin Abend ist.",datetime_convert,4
+459,459.0,"Sage mir die Uhrzeit in Bangkok, wenn es in Singapur Morgen ist.",datetime_convert,4
+460,460.0,Was ist der Zeitunterschied zwischen Deutschland und Kalifornien?,datetime_convert,4
+461,461.0,Ändere die Uhrzeit von GMT+1 zu CST.,datetime_convert,4
+462,462.0,"Um wie viel Uhr ist es in Kapstadt, wenn es in Johannesburg Nachmittag ist?",datetime_convert,4
+463,463.0,"Wie viel Uhr ist es in Mexiko-Stadt, wenn es in Los Angeles Morgen ist?",datetime_convert,4
+464,464.0,"Was ist die aktuelle Uhrzeit in Tokio, wenn es in Frankfurt 10 Uhr ist?",datetime_convert,4
+465,465.0,"Errechnen Sie die Uhrzeit in Toronto, wenn es in Montreal Nachmittag ist.",datetime_convert,4
+466,466.0,Ersetze die Uhrzeit von 01:00 GMT durch die lokale Zeit in Sydney.,datetime_convert,4
+467,467.0,Konvertiere die Uhrzeit von AEST nach AWST um.,datetime_convert,4
+468,468.0,Berechne den Zeitunterschied zwischen Perth und Melbourne.,datetime_convert,4
+469,469.0,"Wenn es in Chicago Abend ist, wie spät ist es dann in Dresden?",datetime_convert,4
+470,470.0,Berechne den Zeitunterschied zwischen Moskau-Zeit und MEZ.,datetime_convert,4
+471,471.0,Was ist der Zeitunterschied zwischen Sommer- und Winterzeit?,datetime_convert,4
+472,472.0,Konvertiere die Uhrzeit von CST nach MST um.,datetime_convert,4
+473,473.0,"Was ist die Uhrzeit in Dubai, wenn es in Mumbai Nachmittag ist?",datetime_convert,4
+474,474.0,Um wie viel Uhr unterscheidet sich die Zeit in London von der Zeit in Paris?,datetime_convert,4
+475,475.0,"Wenn es in Toronto Nachmittag ist, wie spät ist es dann in Freiburg?",datetime_convert,4
+476,476.0,"Wenn es in Istanbul Morgen ist, wie spät ist es dann in Athen?",datetime_convert,4
+477,477.0,"Um wie viel Uhr ist es in Shanghai, wenn es in Peking Vormittag ist?",datetime_convert,4
+478,478.0,Umrechne die Uhrzeit von NZT nach JST.,datetime_convert,4
+479,479.0,"Wenn es in San Francisco Morgen ist, wie früh ist es dann in Hannover?",datetime_convert,4
+480,480.0,"Was ist die Uhrzeit in Kuala Lumpur, wenn es in Mainz 10 Uhr ist?",datetime_convert,4
+481,481.0,Errechnen Sie den Zeitunterschied zwischen MEZ und PST.,datetime_convert,4
+482,482.0,Berechne den Zeitunterschied zwischen EST und CST.,datetime_convert,4
+483,483.0,"Welche Uhrzeit hat es in Sydney, wenn es in Frankfurt Abend ist?",datetime_convert,4
+484,484.0,Konvertiere die Uhrzeit von AKST nach HAST.,datetime_convert,4
+485,485.0,"Welche Uhrzeit hat es in Mexiko-Stadt, wenn es in Nürnberg 14 Uhr ist?",datetime_convert,4
+486,486.0,könntest du mir helfen eine email an einen freund zu schreiben,email_sendemail,5
+487,487.0,verfasse eine email an unsere freunde über das nächste treffen,email_sendemail,5
+488,488.0,kannst du mir helfen eine email an meinen bruder zu schreiben,email_sendemail,5
+489,489.0,bitte verfasse eine email an unsere marketingabteilung,email_sendemail,5
+490,490.0,schreib eine email an deine kollegin über das projekt,email_sendemail,5
+491,491.0,kannst du eine email an unsere kollegen schreiben,email_sendemail,5
+492,492.0,Bitte schicke eine Email an meine Tante und wünsche ihr alles Gute zum Geburtstag.,email_sendemail,5
+493,493.0,ich brauche deine hilfe bei der formulierung einer email an die apotheke,email_sendemail,5
+494,494.0,Bitte schicke eine Email an meine Schwester über mein Geburtstagsgeschenk.,email_sendemail,5
+495,495.0,Beginne eine Email an unseren IT-Support und beschreibe dein Problem mit dem Computer.,email_sendemail,5
+496,496.0,Erstelle eine Email an Herrn Müller und bitte ihn um Hilfe bei der Hausaufgabe.,email_sendemail,5
+497,497.0,Sende eine Email an meinen Bruder und frage nach seinem Geburtstagsgeschenk.,email_sendemail,5
+498,498.0,"Es wäre nett, wenn du eine Email an Oma schreiben könntest, sie wartet darauf.",email_sendemail,5
+499,499.0,"Kannst du mir assistieren, eine Email an die Uni zu schreiben?",email_sendemail,5
+500,500.0,Bitte schicke eine Email an meine Cousine und gratuliere ihr zur Hochzeit.,email_sendemail,5
+501,501.0,verfasste eine email an unseren geschäftspartner in berlin,email_sendemail,5
+502,502.0,Schreibe eine Email an Papa und frage ihn nach seinem Gesundheitszustand.,email_sendemail,5
+503,503.0,schicke eine kurze email an martin über das projekt,email_sendemail,5
+504,504.0,ich brauche deine hilfe bei der formulierung einer email an die firma xyz,email_sendemail,5
+505,505.0,"Wir sollten eine Email an die Hotelreservierung senden, um unsere Zimmerbuchung zu ändern.",email_sendemail,5
+506,506.0,Schreibe eine Email an deine Oma und erzähl ihr von deinem neuen Job.,email_sendemail,5
+507,507.0,beginne eine neue email an unseren klienten,email_sendemail,5
+508,508.0,können sie mir helfen eine email an unseren finanzberater zu schreiben,email_sendemail,5
+509,509.0,"Meine Mutter bittet dich, ihr eine Email zu schreiben, weil sie Probleme mit ihrem Computer hat.",email_sendemail,5
+510,510.0,"Wir müssen eine Email an unsere Kunden schicken, um ihnen mitzuteilen, dass wir geschlossen haben.",email_sendemail,5
+511,511.0,Beginne eine Email an unseren Lieferanten und frag nach dem Status unserer Bestellung.,email_sendemail,5
+512,512.0,"Wir sollten eine Email an die Fluggesellschaft senden, um unsere Buchung zu bestätigen.",email_sendemail,5
+513,513.0,bitte antwortete auf die email von fraulein hansen,email_sendemail,5
+514,514.0,kann jemand eine email an meinen steuerberater schicken,email_sendemail,5
+515,515.0,"Ich brauche deine Hilfe, um eine Email an die Polizei zu schreiben, da mein Fahrrad gestohlen wurde.",email_sendemail,5
+516,516.0,ich benötige deine hilfe bei der formulierung einer email an die behörde,email_sendemail,5
+517,517.0,bitte antwortet auf die email von unserer mietern,email_sendemail,5
+518,518.0,ich brauche deine hilfe bei der formulierung einer email an die universität,email_sendemail,5
+519,519.0,Ich benötige Hilfe bei der Verfassung einer Email an unseren Kunden.,email_sendemail,5
+520,520.0,Bitte schicke eine Email an meine Schwester über unser Treffen am Wochenende.,email_sendemail,5
+521,521.0,"Schreib eine Email an deine Mutter, dass wir morgen ankommen werden.",email_sendemail,5
+522,522.0,ich muss eine email an die bibliothek senden wegen meines ausleihs,email_sendemail,5
+523,523.0,bitte schicke eine email an unseren IT-support,email_sendemail,5
+524,524.0,"Ich benötige deine Hilfe, um eine Email an die Bank zu verschicken.",email_sendemail,5
+525,525.0,ich benötige deine hilfe um eine email an die uni zu schreiben,email_sendemail,5
+526,526.0,Ich brauche deine Hilfe bei der Formulierung einer Email an unseren Steuerberater.,email_sendemail,5
+527,527.0,Bitte verfasse eine Email an Frau Schmidt und bitten Sie um Entschuldigung.,email_sendemail,5
+528,528.0,"Wir sollten eine Email an alle Mitarbeiter schicken, um sie über die Änderungen zu informieren.",email_sendemail,5
+529,529.0,schreib eine email an deinen bruder er wartet darauf,email_sendemail,5
+530,530.0,"Es gibt eine wichtige Email, die du an unseren Anwalt senden musst.",email_sendemail,5
+531,531.0,ich muss eine email an die hotelreservierung senden,email_sendemail,5
+532,532.0,bitte schreibe eine email an meine tante zum geburtstag,email_sendemail,5
+533,533.0,"Mein Vater bat mich, ihm eine Email zu schreiben, damit er weiß, dass ich gut angekommen bin.",email_sendemail,5
+534,534.0,könntest du mir helfen eine email an meine kollegen zu schreiben,email_sendemail,5
+535,535.0,ich benötige deine unterstützung bei der erstellung einer email an die behörde,email_sendemail,5
+536,536.0,ich benötige deine hilfe um eine email an die uni zu senden,email_sendemail,5
+537,537.0,kann du eine email an unseren rechtsanwalt schreiben,email_sendemail,5
+538,538.0,bitte verfasse eine email an unsere personalabteilung,email_sendemail,5
+539,539.0,bitte schreibe eine email an meine oma sie wartet darauf,email_sendemail,5
+540,540.0,"Ich habe vergessen, eine Email an meine Tante zu schreiben, kannst du mir helfen?",email_sendemail,5
+541,541.0,"Könnten Sie mir helfen, eine Email an einen Freund zu schreiben, der im Ausland lebt?",email_sendemail,5
+542,542.0,Sende eine Email an unseren Anwalt wegen des Vertragsproblems.,email_sendemail,5
+543,543.0,"Es gibt eine Email, die du an unseren Rechtsanwalt senden musst, bevor wir weitermachen können.",email_sendemail,5
+544,544.0,bitte schreib eine email an meine familie,email_sendemail,5
+545,545.0,ich muss eine email an die fluglinie senden wegen meines geflügelten gepäcks,email_sendemail,5
+546,546.0,beginne eine neue email an unseren geschäftspartner,email_sendemail,5
+547,547.0,"Wir müssen eine Email an die Versicherung senden, um unseren Anspruch geltend zu machen.",email_sendemail,5
+548,548.0,kannst du mir helfen eine email an einen bekannten zu schreiben,email_sendemail,5
+549,549.0,Erstelle ein Email an Herrn Müller und bitte ihn um Rückmeldung.,email_sendemail,5
+550,550.0,"Wir müssen eine Email an die Bank senden, um unsere Kontoauszüge anzufordern.",email_sendemail,5
+551,551.0,Bitte verfasse eine Email an unseren Vermieter und bitte ihn um Reparatur des Lecks.,email_sendemail,5
+552,552.0,bitte schreib eine email an meine freunde aus dem urlaub,email_sendemail,5
+553,553.0,bitte schicke eine email an unseren kundenservice,email_sendemail,5
+554,554.0,verfasste eine email an unseren partner in münchen,email_sendemail,5
+555,555.0,bitte schicke eine email an unseren lieferanten,email_sendemail,5
+556,556.0,verfasse ein mail an herr müller,email_sendemail,5
+557,557.0,kann du mir helfen eine email an meinen chef zu schreiben,email_sendemail,5
+558,558.0,kann jemand eine email an meinen rechtsanwalt schicken,email_sendemail,5
+559,559.0,ich brauche deine unterstützung bei einer email an die firma,email_sendemail,5
+560,560.0,ich muss eine email an die bank senden wegen meines kontos,email_sendemail,5
+561,561.0,ich muss eine email an die hotline senden wegen meines problems,email_sendemail,5
+562,562.0,ich muss eine email an die universität senden wegen meiner bewerbung,email_sendemail,5
+563,563.0,Schreibe eine Email an deinen Vater und erzähle ihm von unserem Urlaub.,email_sendemail,5
+564,564.0,verfasse eine email an unsere teamleiter über das meeting heute,email_sendemail,5
+565,565.0,"Ich muss eine Email an meine Versicherung schreiben, um meine Police anzupassen.",email_sendemail,5
+566,566.0,Schreib eine Email an deinen Freund und lad ihn zum Fußballspiel ein.,email_sendemail,5
+567,567.0,bitte schicke eine email an meine schwester,email_sendemail,5
+568,568.0,ich muss eine email an die airline senden wegen meines fluges,email_sendemail,5
+569,569.0,schreib eine email an deine freundin sophie,email_sendemail,5
+570,570.0,"Bitte beachten Sie, dass Sie eine Email an uns senden müssen, um Ihre Bestellung zu bestätigen.",email_sendemail,5
+571,571.0,bitte antwortet auf die email von unserem lieferanten,email_sendemail,5
+572,572.0,verfasse eine email an herr müller über das meeting morgen,email_sendemail,5
+573,573.0,Sende eine Email an meine Kollegen und informiere sie über die Änderungen im Projektplan.,email_sendemail,5
+574,574.0,ich muss eine email an die versicherungsgesellschaft senden,email_sendemail,5
+575,575.0,kann jemand eine email an meinen arzt schicken,email_sendemail,5
+576,576.0,ich benötige deine hilfe bei der formaltung einer email an die akademie,email_sendemail,5
+577,577.0,ich benötige deine unterstützung bei der erstellung einer email an die bibliothek,email_sendemail,5
+578,578.0,"Schreib eine Email an deinen Bruder, er soll mir seine neue Adresse geben.",email_sendemail,5
+579,579.0,"Könntest du mir helfen, eine Email an meinen Chef zu verfassen?",email_sendemail,5
+580,580.0,bitte schreib eine email an meine tante zum geburtstag,email_sendemail,5
+581,581.0,kann du eine email an unseren marketingchef schreiben,email_sendemail,5
+582,582.0,spiel das gesamte album,play_audiobook,6
+583,583.0,hörbuch fortsetzen,play_audiobook,6
+584,584.0,spiel die dritte folge des hörbuchs,play_audiobook,6
+585,585.0,spiel das nächste kapitael,play_audiobook,6
+586,586.0,kannst du das hörbuch langsamer abspielen,play_audiobook,6
+587,587.0,spiel das nächste kapitel,play_audiobook,6
+588,588.0,kannst du bitte das nächste kapitel lesen,play_audiobook,6
+589,589.0,ich möchte das hörbuch hören,play_audiobook,6
+590,590.0,lies die geschichten von peter rabbit,play_audiobook,6
+591,591.0,fang an mit dem ersten kapiteln,play_audiobook,6
+592,592.0,ich will das hörbuch alice hinter den spiegeln hören,play_audiobook,6
+593,593.0,spiel die zweite Hälfte des Buches,play_audiobook,6
+594,594.0,spiel das hörbuch emil und die detektive,play_audiobook,6
+595,595.0,spiel die zweite folge des hörbuchs,play_audiobook,6
+596,596.0,spiel den anfang des hörbuchs noch einmal ab,play_audiobook,6
+597,597.0,spiel den nächsten teil,play_audiobook,6
+598,598.0,lies mir ein Teil vorher,play_audiobook,6
+599,599.0,spiel die letzten fünf minuten nochmal ab,play_audiobook,6
+600,600.0,spiel die erste episode,play_audiobook,6
+601,601.0,ich will das hörbuch über politik hören,play_audiobook,6
+602,602.0,spiel die zweite hälfte,play_audiobook,6
+603,603.0,höre dir das an,play_audiobook,6
+604,604.0,lies das buch vor,play_audiobook,6
+605,605.0,spiel das hörbuch die unendliche geschichte,play_audiobook,6
+606,606.0,ich möchte das hörbuch über naturwissenschaft hören,play_audiobook,6
+607,607.0,spiel das hörbuch die fantastischen vier,play_audiobook,6
+608,608.0,lies uns eine kurze geschichte vor,play_audiobook,6
+609,609.0,ich will das hörbuch über philosophie hören,play_audiobook,6
+610,610.0,spiel das hörbuch auf deutsch,play_audiobook,6
+611,611.0,spiel die ersten paar kapiteln,play_audiobook,6
+612,612.0,spiel das Ganze noch einmal durch,play_audiobook,6
+613,613.0,kannst du das nächste kapitael sprechen,play_audiobook,6
+614,614.0,höre auf und spiel es nochmal,play_audiobook,6
+615,615.0,spiel die letzten fünf minuten nochmal,play_audiobook,6
+616,616.0,spiel die letzten fünf Minuten,play_audiobook,6
+617,617.0,ich möchte das hörbuch peter pan hören,play_audiobook,6
+618,618.0,spiel das ganze album durch,play_audiobook,6
+619,619.0,spiele das hörbuch von gestern,play_audiobook,6
+620,620.0,spiel die vierte folge,play_audiobook,6
+621,621.0,kannst du mir ein hörbuch vorspielen,play_audiobook,6
+622,622.0,lies mir was aus diesem buch vor,play_audiobook,6
+623,623.0,spiel das gesamte werk durch,play_audiobook,6
+624,624.0,spiel das Ende der Geschichte,play_audiobook,6
+625,625.0,spiel das hörbuch die kleine hexe,play_audiobook,6
+626,626.0,spiel die geschichte von alice,play_audiobook,6
+627,627.0,lies mir etwas vor,play_audiobook,6
+628,628.0,lies die biografie von martin luther king,play_audiobook,6
+629,629.0,spiel das ganze ding durch,play_audiobook,6
+630,630.0,höre auf und spiel es erneut,play_audiobook,6
+631,631.0,ich möchte gerne das hörbuch die drei fragezeichen hören,play_audiobook,6
+632,632.0,spiele die geschichte weiter,play_audiobook,6
+633,633.0,fang mit der nächsten folge an,play_audiobook,6
+634,634.0,spiel die ersten zwanzig Minuten,play_audiobook,6
+635,635.0,lies mir ein Kapitel nach dem anderen vor,play_audiobook,6
+636,636.0,kannst du das hörbuch auf deutsch einsprechen,play_audiobook,6
+637,637.0,spiel die erste szene des romans,play_audiobook,6
+638,638.0,lies mir ein abschnitt vor,play_audiobook,6
+639,639.0,lies uns eine weihnachtsgeschichte vor,play_audiobook,6
+640,640.0,spiel die erste folge des hörbuchs,play_audiobook,6
+641,641.0,lies bitte weiter aus dem buch,play_audiobook,6
+642,642.0,ich möchte das hörbuch über wirtschaft hören,play_audiobook,6
+643,643.0,spiele das nächste kapitell,play_audiobook,6
+644,644.0,spiel das ende des büchleins,play_audiobook,6
+645,645.0,kannst du das hörbuch schneller abspielen,play_audiobook,6
+646,646.0,spiel den ersten teil des romans,play_audiobook,6
+647,647.0,spiel das mittlere drittel,play_audiobook,6
+648,648.0,spiel das erste kapitel noch einmal,play_audiobook,6
+649,649.0,spiel das ganze buch durch,play_audiobook,6
+650,650.0,ich will das hörbuch alice im wunderland hören,play_audiobook,6
+651,651.0,ich möchte das hörbuch die schatzinsel hören,play_audiobook,6
+652,652.0,spiel die vierte szene des romans,play_audiobook,6
+653,653.0,lies mir ein Stück aus diesem Buch vor,play_audiobook,6
+654,654.0,spiel die zweite hälfte des romans,play_audiobook,6
+655,655.0,spiel die zweite Seite,play_audiobook,6
+656,656.0,spiel die letzten paar seiten,play_audiobook,6
+657,657.0,fang mit dem neuen roman an,play_audiobook,6
+658,658.0,lese bitte das nächste kapitell vor,play_audiobook,6
+659,659.0,lies mir ein kapitel vor,play_audiobook,6
+660,660.0,lies mir ein Abschnitt vorher,play_audiobook,6
+661,661.0,lies mir ein stück vor,play_audiobook,6
+662,662.0,spiel die dritte episode,play_audiobook,6
+663,663.0,spiele das hörbuch der herr der ringe,play_audiobook,6
+664,664.0,spiel das hörbuch von j.k. rowling,play_audiobook,6
+665,665.0,spiel die letzten zwei Stunden,play_audiobook,6
+666,666.0,spiel die erste folge der serie,play_audiobook,6
+667,667.0,spiel die ersten vier Seiten,play_audiobook,6
+668,668.0,lies uns eine geschichten vor,play_audiobook,6
+669,669.0,spiel die dritte szene des romans,play_audiobook,6
+670,670.0,höre auf und spiel es noch einmal,play_audiobook,6
+671,671.0,ich möchte das hörbuch über historia hören,play_audiobook,6
+672,672.0,lies die geschichten von winnie puuh,play_audiobook,6
+673,673.0,ich möchte das hörbuch charlie und die schokoladenfabrik hören,play_audiobook,6
+674,674.0,lies mir ein Kapitel vorher,play_audiobook,6
+675,675.0,spiel die ersten zehn Minuten,play_audiobook,6
+676,676.0,spiel das hörbuch von john grisham,play_audiobook,6
+677,677.0,spiel die letzten beiden kapiteln,play_audiobook,6
+678,678.0,spiel das hörbuch auf französisch,play_audiobook,6
+679,679.0,spiel die ersten drei kapiteln,play_audiobook,6
+680,680.0,lies das ganze buch vor,play_audiobook,6
+681,681.0,lies die biografie von albert einstein,play_audiobook,6
+682,682.0,"Sag mir, was ich heute Abend im Kino schaue!",recommendation_movies,7
+683,683.0,"Such dir einen geeigneten Film für mich aus, den ich gerne sehen würde!",recommendation_movies,7
+684,684.0,"Suche nach Filmen, die in meiner Stadt gezeigt werden",recommendation_movies,7
+685,685.0,"Ich bin auf der Suche nach einer romantischen Komödie, hast du Vorschläge?",recommendation_movies,7
+686,686.0,"Gibt es gute Sci-Fi-Filme, die ich verpasst habe?",recommendation_movies,7
+687,687.0,Welche Filme laufen aktuell in meinem Umkreis?,recommendation_movies,7
+688,688.0,Welche Filme gibt es aktuell in den Kinos?,recommendation_movies,7
+689,689.0,Welcher Film ist derzeit am erfolgreichsten im Kino?,recommendation_movies,7
+690,690.0,"Wer kann mir sagen, was im Kino läuft?",recommendation_movies,7
+691,691.0,"Kannst du mir einige Fantasy-Filme empfehlen, die gerade im Kino laufen?",recommendation_movies,7
+692,692.0,Suche nach Filmen mit deutschem Untertitel,recommendation_movies,7
+693,693.0,Ich brauche Hilfe bei der Auswahl eines Films für meine Freunde und mich,recommendation_movies,7
+694,694.0,"Weißt du, was im Moment in den Kinos läuft?",recommendation_movies,7
+695,695.0,"Kannst du mir einige Horrorfilme empfehlen, die ich noch nie gesehen habe?",recommendation_movies,7
+696,696.0,"Suchen Sie nach einem bestimmten Genre, z.B. Action oder Komödie?",recommendation_movies,7
+697,697.0,"Wie heißen die neuen Filme, die gerade rausgekommen sind?",recommendation_movies,7
+698,698.0,Ich brauche Hilfe bei der Wahl eines Films für mein Wochenende!,recommendation_movies,7
+699,699.0,Ich bin auf der Suche nach einer Rom-Com - hast du Vorschläge?,recommendation_movies,7
+700,700.0,"Gib mir ein paar Vorschläge für Filme, die ich noch nicht gesehen habe!",recommendation_movies,7
+701,701.0,"Gib mir einige Ideen für Filme, die ich mit Freunden ansehen könnte!",recommendation_movies,7
+702,702.0,"Kannst du mir einen Film empfehlen, der mich zum Lachen bringt?",recommendation_movies,7
+703,703.0,"Ich benötige einige Anregungen für Filme, die ich noch nie gesehen habe",recommendation_movies,7
+704,704.0,Welcher Film wird dir am meisten empfohlen?,recommendation_movies,7
+705,705.0,"Kannst du mir einen Thriller empfehlen, der gerade im Kino läuft?",recommendation_movies,7
+706,706.0,"Kannst du mir ein paar Horrorfilme empfehlen, die gerade im Kino laufen?",recommendation_movies,7
+707,707.0,"Gib mir einige Tipps für Filme, die ich nicht verpassen sollte!",recommendation_movies,7
+708,708.0,Welches ist der beste Film des Jahres?,recommendation_movies,7
+709,709.0,"Sag mir, ob es einen neuen Film gibt, den ich unbedingt sehen muss!",recommendation_movies,7
+710,710.0,"Kannst du mir einige Vorschläge für Action-Filme machen, die derzeit laufen?",recommendation_movies,7
+711,711.0,"Welches ist der beste Film, den ich dieser Tage sehen kann?",recommendation_movies,7
+712,712.0,"Kannst du mir einige gute Filme empfehlen, die jetzt in meinem Umkreis laufen?",recommendation_movies,7
+713,713.0,"Was sind die Top-Filme des Jahres, die ich verpasst haben könnte?",recommendation_movies,7
+714,714.0,Was sind die beliebtesten Filme auf Netflix?,recommendation_movies,7
+715,715.0,Suche nach Filmen aus bestimmten Jahren - kannst du mir helfen?,recommendation_movies,7
+716,716.0,"Suche nach einem bestimmten Genre-Film, kannst du mir helfen?",recommendation_movies,7
+717,717.0,"Gibt es neue Filme, die ich unbedingt sehen muss?",recommendation_movies,7
+718,718.0,"Ich bin auf der Suche nach einem neuen Film, kannst du mir helfen?",recommendation_movies,7
+719,719.0,"Ich brauche Hilfe bei der Auswahl eines Films für heute Nacht, kannst du mir assistieren?",recommendation_movies,7
+720,720.0,"Ich will wissen, ob ein bestimmter Film gut ist oder nicht!",recommendation_movies,7
+721,721.0,Werden bald neue Star-Wars-Filme erscheinen?,recommendation_movies,7
+722,722.0,"Welche Filme gibt es derzeit in den Kinos, die ich unbedingt sehen muss?",recommendation_movies,7
+723,723.0,Kannst du mir einen guten Film für heute Abend empfehlen?,recommendation_movies,7
+724,724.0,"Hast du einige Vorschläge für mich, wenn ich ins Kino gehen will?",recommendation_movies,7
+725,725.0,"Ich möchte wissen, was derzeit in den Kinos läuft, kannst du mir helfen?",recommendation_movies,7
+726,726.0,"Zeig mir eine Liste von Filmen, die ich unbedingt sehen muss!",recommendation_movies,7
+727,727.0,"Wie finde ich heraus, was in meinem lokalen Kino läuft?",recommendation_movies,7
+728,728.0,Welcher Film passt am besten zu meiner Stimmung?,recommendation_movies,7
+729,729.0,Welche Filme haben die höchste Bewertung auf IMDB?,recommendation_movies,7
+730,730.0,"Ich will wissen, welche Filme in diesem Jahr Oscar-Nominierungen erhalten haben!",recommendation_movies,7
+731,731.0,Welche Filme sind aktuell in den Kinos zu sehen?,recommendation_movies,7
+732,732.0,"Hast du eine Liste von Filmen, die ich unbedingt sehen sollte?",recommendation_movies,7
+733,733.0,"Kannst du mir einige Horrorfilme empfehlen, die ich noch nicht gesehen habe?",recommendation_movies,7
+734,734.0,"Kannst du mir einige Fantasy-Filme empfehlen, die ich noch nie gesehen habe?",recommendation_movies,7
+735,735.0,"Kannst du mir einige Sci-Fi-Filme empfehlen, die ich noch nie gesehen habe?",recommendation_movies,7
+736,736.0,"Was ist der beste Weg, um Filme in meiner Nähe zu finden?",recommendation_movies,7
+737,737.0,"Kannst du mir einige gute Filme empfehlen, die gerade herausgekommen sind?",recommendation_movies,7
+738,738.0,"Wie kann ich herausfinden, was aktuell in den Kinos läuft?",recommendation_movies,7
+739,739.0,Was läuft zurzeit in meinem örtlichen Kino?,recommendation_movies,7
+740,740.0,"Zeig mir eine Liste von Filmen, die in meiner Nähe gezeigt werden!",recommendation_movies,7
+741,741.0,"Kannst du mir einige Empfehlungen für Filme machen, die meine Interessen treffen?",recommendation_movies,7
+742,742.0,"Kannst du mir einige Filme empfehlen, die ich noch nicht gesehen habe?",recommendation_movies,7
+743,743.0,"Wie finde ich Filme, die in meiner Umgebung gezeigt werden?",recommendation_movies,7
+744,744.0,Ich suche nach einem romantischen Film - kannst du mir helfen?,recommendation_movies,7
+745,745.0,Ich bin auf der Suche nach einem guten Animationsfilm,recommendation_movies,7
+746,746.0,"Suche nach Filmen, die in meiner Nähe gezeigt werden",recommendation_movies,7
+747,747.0,Kannst du mir einige Familienfreundliche Filme empfehlen?,recommendation_movies,7
+748,748.0,"Kannst du mir sagen, wann der nächste Blockbuster kommt?",recommendation_movies,7
+749,749.0,"Ich will wissen, was andere Leute über bestimmte Filme denken!",recommendation_movies,7
+750,750.0,"Ich bin auf der Suche nach einem romantischen Film, kannst du mir helfen?",recommendation_movies,7
+751,751.0,"Suche nach Filmen, die in Deutschland produziert wurden",recommendation_movies,7
+752,752.0,"Ich möchte wissen, was andere Leute über bestimmte Filme denken!",recommendation_movies,7
+753,753.0,"Wer weiß, was im Moment in den Kinos läuft?",recommendation_movies,7
+754,754.0,"Was sind die neuesten Filme, die auf DVD erhältlich sind?",recommendation_movies,7
+755,755.0,Ich brauche ein paar Vorschläge für einen Familienfilmabend!,recommendation_movies,7
+756,756.0,Welche Filme sind derzeit sehr populär und laufen in den Kinos?,recommendation_movies,7
+757,757.0,"Ich suche einen guten Film für heute Abend, kannst du mir helfen?",recommendation_movies,7
+758,758.0,Suche nach Filmen mit bestimmten Schauspielern - kannst du mir helfen?,recommendation_movies,7
+759,759.0,"Rate mal, welcher Film ist gerade sehr beliebt?",recommendation_movies,7
+760,760.0,Was läuft im Kino in meiner Nähe?,recommendation_movies,7
+761,761.0,"Empfiehl mir einen Film, der gut bewertet wurde!",recommendation_movies,7
+762,762.0,"Zeig mir eine Liste von Filmen, die derzeit in meinem Gebiet gezeigt werden",recommendation_movies,7
+763,763.0,"Empfiehl mir bitte einige beliebte Filme, die gerade in den Kinos sind!",recommendation_movies,7
+764,764.0,"Empfehle mir einen Thriller, der gerade in den Kinos ist!",recommendation_movies,7
+765,765.0,Gib mir einige Tipps für einen Actionfilm-Marathon!,recommendation_movies,7
+766,766.0,"Rate mal, welcher Film wird bald in den Kinos kommen!",recommendation_movies,7
+767,767.0,"Gibt es gute Dokumentarfilme, die ich sehen sollte?",recommendation_movies,7
+768,768.0,"Was ist ein guter Film, den ich noch nicht gesehen habe?",recommendation_movies,7
+769,769.0,Was gibts Neues in den Kinos dieser Woche?,recommendation_movies,7
+770,770.0,Ich brauche Hilfe bei der Auswahl eines Films für meine Freunde!,recommendation_movies,7
+771,771.0,Welche Filme sind aktuell im Kino zu sehen?,recommendation_movies,7
+772,772.0,"Kannst du mir einige gute Filme empfehlen, die gerade rausgekommen sind?",recommendation_movies,7
+773,773.0,Ich brauche Hilfe bei der Wahl eines Films für mein Wochenende,recommendation_movies,7
+774,774.0,"Erzähl mir über die neuesten Filme, die ich verpasst haben könnte!",recommendation_movies,7
+775,775.0,Was sind die Top-10-Filme aller Zeiten?,recommendation_movies,7
+776,776.0,Such dir einen geeigneten Film für mich aus!,recommendation_movies,7
+777,777.0,"Gibt es gute Filme, die ich noch nicht gesehen habe?",recommendation_movies,7
+778,778.0,Gibt es kostenlose Streaming-Seiten für deutsche Filme?,recommendation_movies,7
+779,779.0,Was läuft gerade in meinem örtlichen Kino?,recommendation_movies,7
+780,780.0,Gib mir einige Ideen für einen Filmabend mit Freunden!,recommendation_movies,7
+781,781.0,"Kannst du mir einen Film empfehlen, der ähnlich wie... ist?",recommendation_movies,7
+782,782.0,Ich kaufe ein ICE-Ticket nach Stuttgart für Samstag.,transport_ticket,8
+783,783.0,reservier ein Ticket für den Nachtzug nach Wien,transport_ticket,8
+784,784.0,"Öffne bitte die DB-App, um mein Ticket zu buchen.",transport_ticket,8
+785,785.0,Buche ein Bahnticket nach Kassel Wilhelmshöhe.,transport_ticket,8
+786,786.0,Kaufe ein Monatsabo für den Bus nach Kassel.,transport_ticket,8
+787,787.0,öffne die db bahn app um ein ticket zu kaufen,transport_ticket,8
+788,788.0,Der Automat akzeptiert nur Kreditkarten als Zahlungsmittel.,transport_ticket,8
+789,789.0,Mein Zugticket wird per SMS versandt.,transport_ticket,8
+790,790.0,Besorg dir ein Wochenendeticket für die Bahn nach Hannover.,transport_ticket,8
+791,791.0,Kauf ein Ticket für den RE nach Erfurt.,transport_ticket,8
+792,792.0,Ich benötige ein Fahrschein für die Straßenbahn in Dresden.,transport_ticket,8
+793,793.0,ich brauch ein Zugticket für meine Reise nach Zürich,transport_ticket,8
+794,794.0,Buche ein Fahrticket nach Hamburg Hbf für Freitag.,transport_ticket,8
+795,795.0,Ich benötige ein Zugticket nach München für heute Abend.,transport_ticket,8
+796,796.0,Erstelle ein mobiles Ticket für den Bus nach Potsdam.,transport_ticket,8
+797,797.0,Kaufe ein Wochenendausflugs-Ticket nach Heidelberg.,transport_ticket,8
+798,798.0,Suche Fahrkarten nach Mailand Centrale für Dezember.,transport_ticket,8
+799,799.0,Besorg dir ein Ticket für den Regionalzug nach Chemnitz.,transport_ticket,8
+800,800.0,Ich suchete ein Ticket für den EC nach Wien Westbahnhof.,transport_ticket,8
+801,801.0,suche ein gültiges bus-ticket nach hannover,transport_ticket,8
+802,802.0,Buchen Sie ein Ticket für den Tram nach Dresden Neustadt.,transport_ticket,8
+803,803.0,Ich suche ein günstiges Busticket nach Berlin-Tegel.,transport_ticket,8
+804,804.0,Ich reserviere ein Platzticket im Nachtzug nach Zürich.,transport_ticket,8
+805,805.0,Ich brauche ein Ticket für den Fährdienst nach Rügen.,transport_ticket,8
+806,806.0,Reserviere ein Sitzplatzticket im ICE nach Köln.,transport_ticket,8
+807,807.0,Ich kaufe ein Gruppen-Ticket nach Nürnberg für August.,transport_ticket,8
+808,808.0,Buche ein Bahnticket nach Düsseldorf Flughafen.,transport_ticket,8
+809,809.0,Ich kaufe ein BusTicket nach Amsterdam für Samstag.,transport_ticket,8
+810,810.0,ich muss ein Ticket für den Flughafen-Bus haben,transport_ticket,8
+811,811.0,Buche ein Fernverkehrsticket nach Hamburg für Freitag.,transport_ticket,8
+812,812.0,ich benötige ein Ticket für den IC nach Köln,transport_ticket,8
+813,813.0,buch ein Ticket für den Fernbus nach Stuttgart,transport_ticket,8
+814,814.0,Kaufe ein Bahnticket für meine Reise nach Frankfurt am Main.,transport_ticket,8
+815,815.0,buke ein Ticket für den ICE nach München,transport_ticket,8
+816,816.0,Buchen Sie ein Ticket für den Straßenbahn nach Freiburg im Breisgau.,transport_ticket,8
+817,817.0,Ich brauch ein Ticket für den U-Bahn nach München Innenstadt.,transport_ticket,8
+818,818.0,hole dir ein ticket für den regionalzug nach leipzig,transport_ticket,8
+819,819.0,Ich benötigten ein Fahrschein für den Airport Express nach BER.,transport_ticket,8
+820,820.0,Ich erhalte keine Bestätigung meines Online-Tickets.,transport_ticket,8
+821,821.0,besorg dir ein zugticket nach stuttgart für mich,transport_ticket,8
+822,822.0,Ich kaufte ein Fahrticket nach Bremen Hauptbahnhof.,transport_ticket,8
+823,823.0,Ich habe mein Zugticket verloren – wie bekomme ich Ersatz?,transport_ticket,8
+824,824.0,Kaufe ein Ticket für den ICE nach Frankfurt am Main.,transport_ticket,8
+825,825.0,Ich kaufe ein Zugticket nach Berlin Schönefeld.,transport_ticket,8
+826,826.0,buke ein Ticket für den RE nach Leipzig,transport_ticket,8
+827,827.0,ich brauch ein Zugticket für meine Freundin nach München,transport_ticket,8
+828,828.0,Kaufe ein TagesTicket für den VVS nach Karlsruhe.,transport_ticket,8
+829,829.0,Öffnen Sie die S-Bahn-App und kaufen Sie ein Ticket.,transport_ticket,8
+830,830.0,ich möchte ein fahrzeugticket für meine reise nach paris kaufen,transport_ticket,8
+831,831.0,"Öffne die DB-App, um mein Zugticket zu buchen.",transport_ticket,8
+832,832.0,Gibt es Rabatte für Studenten bei Bahntickets?,transport_ticket,8
+833,833.0,ich muss ein Ticket für den U-Bahn in Berlin kaufen,transport_ticket,8
+834,834.0,Suche Fahrkarten nach Dresden für morgen früh.,transport_ticket,8
+835,835.0,ich will ein Bahnticket nach Freiburg im Breisgau kaufen,transport_ticket,8
+836,836.0,Suche ein Sparpreisticket für den Regionalzug nach Leipzig.,transport_ticket,8
+837,837.0,Suche Tickets für den Fernbus nach Hannover für den 25. April.,transport_ticket,8
+838,838.0,ich will ein Ticket für den Nahverkehr in Berlin kaufen,transport_ticket,8
+839,839.0,Buche ein Gruppenticket für die Reise nach Prag.,transport_ticket,8
+840,840.0,ich benötige ein Ermäßigtes Bahnticket für meine Tochter,transport_ticket,8
+841,841.0,Suche Fahrkarten nach Amsterdam Centraal für Juli.,transport_ticket,8
+842,842.0,"Öffne die BVG-App, um mein Ticket zu kaufen.",transport_ticket,8
+843,843.0,"Öffne die Deutsche Bahn-App, um mein Ticket zu reservieren.",transport_ticket,8
+844,844.0,"Öffne die DB-App, um mein Ticket zu buchen.",transport_ticket,8
+845,845.0,hole dir ein Ticket für den S-Bahn nach Hamburg,transport_ticket,8
+846,846.0,Ich benötige ein Semester-Ticket für die Uni in Freiburg.,transport_ticket,8
+847,847.0,Ich benötige einen Fahrschein nach München für heute Abend.,transport_ticket,8
+848,848.0,reserviere ein zugticket für mich und meine freundin nach köln,transport_ticket,8
+849,849.0,Buche ein Einzelfahrschein nach Bremen Hbf für September.,transport_ticket,8
+850,850.0,Ich benötige ein Schüler-Fahrausweis nach Göttingen.,transport_ticket,8
+851,851.0,Buchen Sie ein Ticket für den Fernbus nach Hannover.,transport_ticket,8
+852,852.0,Eine Monatskarte kostet weniger als zehn Einzelfahrtickets.,transport_ticket,8
+853,853.0,Öffnet die VVS-App und kaufen Sie ein Ticket.,transport_ticket,8
+854,854.0,Kauf ein Ticket für den RE nach Magdeburg Hauptbahnhof.,transport_ticket,8
+855,855.0,ich brauch ein Zugticket für meine Reise nach Amsterdam,transport_ticket,8
+856,856.0,Kaufe ein S-Bahn-Ticket nach Potsdamer Platz für meine Tochter.,transport_ticket,8
+857,857.0,Suche Fahrkarten nach Frankfurt am Main für den 20. März.,transport_ticket,8
+858,858.0,Ich benötigte ein Fahrschein für den Nachtzug nach Zürich.,transport_ticket,8
+859,859.0,kaufe ein bahnticket nach münchen für heute abend,transport_ticket,8
+860,860.0,Suchen Sie ein Ticket für den IC nach Basel SBB.,transport_ticket,8
+861,861.0,ich will ein Bahnticket nach Frankfurt am Main kaufen,transport_ticket,8
+862,862.0,Ich suchte ein Ticket für den FlixBus nach Paris.,transport_ticket,8
+863,863.0,Besorg mir ein Busticket nach Leipzig für morgen früh.,transport_ticket,8
+864,864.0,Buche ein Fahrticket nach Hamburg Hauptbahnhof.,transport_ticket,8
+865,865.0,Kaufe ein Bahnticket nach Berlin für meine Schwester.,transport_ticket,8
+866,866.0,Ich suche ein günstiges Ticket für den Zug nach Stuttgart.,transport_ticket,8
+867,867.0,Einzelbillett oder Tageskarte – was ist billiger?,transport_ticket,8
+868,868.0,Ich brauche ein Fahrschein nach Dresden Neustadt für Dienstag.,transport_ticket,8
+869,869.0,ich muss ein Zug-Ticket nach Berlin kaufen,transport_ticket,8
+870,870.0,ich benötige eine erste klasse fahrtkarte zum hauptbahnhof,transport_ticket,8
+871,871.0,Ich brauche ein Zugticket für meine Reise nach Köln.,transport_ticket,8
+872,872.0,Kauf ein Ticket für den RB nach Göttingen.,transport_ticket,8
+873,873.0,such dir ein günstiges Bahnticket nach Hamburg,transport_ticket,8
+874,874.0,Erstelle ein Ticket für den Regionalzug nach Chemnitz.,transport_ticket,8
+875,875.0,buche einen zugticket nach frankfurt am main,transport_ticket,8
+876,876.0,hol dir ein Ticket für den Regional-Express nach Hannover,transport_ticket,8
+877,877.0,Wie kann ich mein Zugticket auf meinem Handy speichern?,transport_ticket,8
+878,878.0,Die App zum Buchen von Tickets für den öffentlichen Nahverkehr.,transport_ticket,8
+879,879.0,Ich brauchen ein Ticket für den Zug nach Ulm Hauptbahnhof.,transport_ticket,8
+880,880.0,such dir ein Bahnticket nach Nürnberg,transport_ticket,8
+881,881.0,Buche ein Nachtzug-Ticket nach Zürich für Juni.,transport_ticket,8
+882,882.0,Ist es windig heute Abend?,weather_query,9
+883,883.0,Regnet es in Köln diese Woche?,weather_query,9
+884,884.0,Ist es zu kalt zum Baden?,weather_query,9
+885,885.0,Wird es morgen bewölkt sein?,weather_query,9
+886,886.0,Wird es morgen sonnig sein?,weather_query,9
+887,887.0,Kommt es zu einer Hitzewelle?,weather_query,9
+888,888.0,Wie hoch ist die Temperatur heute Abend?,weather_query,9
+889,889.0,Ist es in China sehr heiß?,weather_query,9
+890,890.0,Könnten Sie mir bitte das Wetter für meine Reise sagen?,weather_query,9
+891,891.0,Braucht man im August eine Jacke?,weather_query,9
+892,892.0,Ist es jetzt Sommerzeit?,weather_query,9
+893,893.0,Muss ich meine Regenjacke mitnehmen?,weather_query,9
+894,894.0,Werden wir Sonnenschein haben?,weather_query,9
+895,895.0,Wie ist das Wetter in Australien?,weather_query,9
+896,896.0,Wie verläuft die Wetterentwicklung in diesem Jahr?,weather_query,9
+897,897.0,Wirkt sich El Niño auf unser Wetter aus?,weather_query,9
+898,898.0,Ist es in London immer grau?,weather_query,9
+899,899.0,Wie ist das Wetter in New York City?,weather_query,9
+900,900.0,Wird es bald Winter werden?,weather_query,9
+901,901.0,Gibt es Regen in Berlin?,weather_query,9
+902,902.0,Wie viele Grad sind es heute?,weather_query,9
+903,903.0,Wie ist das Wetter in Hamburg jetzt?,weather_query,9
+904,904.0,Kannst du mir bitte das aktuelle Wetter zeigen?,weather_query,9
+905,905.0,Könnte es zu Gewittern kommen?,weather_query,9
+906,906.0,Kommt es bald wieder zu einer Hitzewelle?,weather_query,9
+907,907.0,Gibt es Nebel in Hamburg?,weather_query,9
+908,908.0,Regnet es morgen in Berlin?,weather_query,9
+909,909.0,Wird es Ende März noch kalt sein?,weather_query,9
+910,910.0,Wie warm wird es morgen sein?,weather_query,9
+911,911.0,Wird es heißer werden in den nächsten Tagen?,weather_query,9
+912,912.0,Gibt es Sonne am Wochenende?,weather_query,9
+913,913.0,Was sagt die Wetterprognose für Donnerstag?,weather_query,9
+914,914.0,Ist es in Deutschland immer feucht?,weather_query,9
+915,915.0,Wie ist das Wetter auf Mallorca im Februar?,weather_query,9
+916,916.0,Wie viele Grad Celsius sind es draußen?,weather_query,9
+917,917.0,Ist das Wetter besser in Deutschland oder Frankreich?,weather_query,9
+918,918.0,Könntest du mir die Wetterwarnungen zeigen?,weather_query,9
+919,919.0,Sollten wir unsere Pläne wegen des Wetters ändern?,weather_query,9
+920,920.0,Ist es in den Bergen schneesicher?,weather_query,9
+921,921.0,Könntest du mir das Wetter für den Rest der Woche sagen?,weather_query,9
+922,922.0,Müssen wir uns auf Eisglätte vorbereiten?,weather_query,9
+923,923.0,Wie sieht das Wetter für den Rest des Monats aus?,weather_query,9
+924,924.0,Wird es heute Nacht kälter?,weather_query,9
+925,925.0,Wie hoch ist die Temperatur heute?,weather_query,9
+926,926.0,Wie ist das Wetter in London?,weather_query,9
+927,927.0,Ist es sonnig in Südtirol?,weather_query,9
+928,928.0,Schnee im Januar in München?,weather_query,9
+929,929.0,Wie wird das Wochenende wettermäßig?,weather_query,9
+930,930.0,Könnten Sie mir bitte das Wetter für morgen sagen?,weather_query,9
+931,931.0,Wie ist das Wetter in Italien?,weather_query,9
+932,932.0,Müssen wir uns auf Sturm einstellen?,weather_query,9
+933,933.0,Gibt es eine Chance auf Schnee im Februar?,weather_query,9
+934,934.0,Wie sieht das Wetter für Ostern aus?,weather_query,9
+935,935.0,Wie ist die UV-Strahlung heute?,weather_query,9
+936,936.0,Gibt es Schnee im Januar?,weather_query,9
+937,937.0,Ist es windig heute?,weather_query,9
+938,938.0,Wie ist das Wetter auf Mallorca?,weather_query,9
+939,939.0,Wie ist das Wetter auf Hawaii?,weather_query,9
+940,940.0,Ist es noch winterlich kalt?,weather_query,9
+941,941.0,Bleibt es noch lange kalt?,weather_query,9
+942,942.0,Ist es kalt in Berlin?,weather_query,9
+943,943.0,Muss ich meine Regenschuhe mitnehmen?,weather_query,9
+944,944.0,Ist das Wetter in Spanien immer schön?,weather_query,9
+945,945.0,Werden wir morgen Sonne haben?,weather_query,9
+946,946.0,Wie ist das Wetter auf dem Berg?,weather_query,9
+947,947.0,Gibt es ein Unwetterwarnsystem?,weather_query,9
+948,948.0,Was sagt die Wettervorhersage für nächste Woche?,weather_query,9
+949,949.0,Muss ich meine Sonnenbrille mitnehmen?,weather_query,9
+950,950.0,Wie oft fällt Schnee in Deutschland pro Jahr?,weather_query,9
+951,951.0,Regnet es nur in bestimmten Regionen Deutschlands?,weather_query,9
+952,952.0,Könnte ich bitte die Wettervorhersage hören?,weather_query,9
+953,953.0,Könntest du mir das Wetter für diese Woche sagen?,weather_query,9
+954,954.0,Ist es in Spanien heiß?,weather_query,9
+955,955.0,Wann kommt der nächste Sturm?,weather_query,9
+956,956.0,Regnet es morgen in München?,weather_query,9
+957,957.0,Werden wir Schnee haben Weihnachten?,weather_query,9
+958,958.0,Wie kann ich die Wettervorhersage abrufen?,weather_query,9
+959,959.0,Wird es dunkler früher in den Wintermonaten?,weather_query,9
+960,960.0,Wie viele Grad hat es draußen?,weather_query,9
+961,961.0,Kannst du mir das aktuelle Wetter zeigen?,weather_query,9
+962,962.0,Muss ich mein Auto gegen Hagelschäden sichern?,weather_query,9
+963,963.0,Wie ist die Luftfeuchtigkeit heute?,weather_query,9
+964,964.0,Wie viele Tage bleibt es noch sonnig?,weather_query,9
+965,965.0,Wie lange dauert die Schlechtwetterperiode an?,weather_query,9
+966,966.0,"Könnt ihr mir helfen, das Wetter zu verstehen?",weather_query,9
+967,967.0,Ist das Wetter besser als gestern?,weather_query,9
+968,968.0,Wird es wieder so warm wie letzten Sommer?,weather_query,9
+969,969.0,Ist es kalt draußen?,weather_query,9
+970,970.0,Wann kommt der Frühlingsanfang?,weather_query,9
+971,971.0,Braucht man einen Regenschirm heute?,weather_query,9
+972,972.0,Braucht man einen Regenschirm in Hamburg?,weather_query,9
+973,973.0,"Wie sieht das Wochenende aus, wettertechnisch gesehen?",weather_query,9
+974,974.0,Wie viel Millimeter Regen gibt es heute?,weather_query,9
+975,975.0,Wie hoch ist die UV-Strahlung heute?,weather_query,9
+976,976.0,Regnet es in München morgen?,weather_query,9
+977,977.0,"Ist es Zeit, die Winterreifen anzubringen?",weather_query,9
+978,978.0,Muss ich mein Auto winterfest machen lassen?,weather_query,9
+979,979.0,Wird es bald wieder warm?,weather_query,9
+980,980.0,Fällt es bald wieder zu schneien?,weather_query,9
+981,981.0,Wie ist das Wetter in Spanien im März?,weather_query,9
+0,,Öffne Audible und spiele das aktuelle Buch weiter.,play_audiobook,6
+1,,"Kannst du mir einen guten Actionfilm empfehlen, den ich noch nicht gesehen habe?",recommendation_movies,7
+2,,Gibt es eine Chance auf Schnee Ende des Monats in Berlin?,weather_query,9
+3,,schreib eine email an meinen bruder und erkundige dich nach seiner gesundheit,email_sendemail,5
+4,,"Wie viel Uhr wäre es in Rio de Janeiro, wenn es hier neunzehn Uhr ist?",datetime_convert,4
+5,,"Gibt es neue Rom-Coms, die ich unbedingt sehen muss?",recommendation_movies,7
+6,,Ich benötige ein Bahnticket von Berlin nach Leipzig für morgen früh.,transport_ticket,8
+7,,"Wird es heute heiß genug, um Shorts anzuziehen?",weather_query,9
+8,,Erstelle einen Entwurf für eine Email an Frau Müller und bitte sie um ein Treffen nächste Woche.,email_sendemail,5
+9,,lass die lautstärke ein bisschen niedriger,audio_volume_down,1
+10,,Senden Sie bitte eine Bestätigungsemail an unsere Teilnehmer.,email_sendemail,5
+11,,Ist es zu windig zum Radfahren heute in Stuttgart?,weather_query,9
+12,,starte das neue hörbuch über historia,play_audiobook,6
+13,,"Kannst du mir einige Actionfilme empfehlen, die auf Netflix zu sehen sind?",recommendation_movies,7
+14,,"Das ist wirklich zu laut, reduziere die Lautstärke etwas",audio_volume_down,1
+15,,"Kannst du mir sagen, ob es heute regnen wird?",weather_query,9
+16,,"der Sound ist zu hoch, kannst du ihn ein bisschen leiser machen?",audio_volume_down,1
+17,,"Sagt mir, welche Temperatur wir heute Abend in Stuttgart erwarten können?",weather_query,9
+18,,Spielt mein letztes Hörbuch weiter,play_audiobook,6
+19,,erstelle eine email an alexander und frag ihn nach seinem aktuellen standort,email_sendemail,5
+20,,Verringer die Lautstärke um einige Dezibel,audio_volume_down,1
+21,,Lese das nächste Kapitel des aktuellen Hörbuchs.,play_audiobook,6
+22,,Schicke eine Email an unsere Mitarbeiter und erinnere sie an den Feiertag nächste Woche.,email_sendemail,5
+23,,"Sagt mir, ob es in Hamburg heute sonnig oder bewölkt ist?",weather_query,9
+24,,Streich den Termin morgen aus meinem Kalender.,calendar_remove,2
+25,,führ mich zu meinem aktuellen hörbuch zurück,play_audiobook,6
+26,,Ändern Sie die Zeitzone von Paris auf Tokio,datetime_convert,4
+27,,stellt die lautstärke auf fünfzig procent herunter,audio_volume_down,1
+28,,Bitte sende eine Email an meine Mutter und wünsche ihr alles Gute zum Geburtstag.,email_sendemail,5
+29,,Empfehle mir einen Film nach deinem Geschmack!,recommendation_movies,7
+30,,Spiel das Hörbuch für mindestens zwei Stunden.,play_audiobook,6
+31,,Sind alle Alarme für meine Meetings heute deaktiviert?,alarm_query,0
+32,,"Kannst du mir sagen, wie das Wetter in München aktuell ist?",weather_query,9
+33,,Umrechnen Sie bitte die Zeit von Tokio auf die deutsche Zeit.,datetime_convert,4
+34,,Ändern Sie die Uhrzeit von der China-Standard-Zeit in die Indisch-Pazifik-Zeit.,datetime_convert,4
+35,,"Zeig mir alle Wecker, die ich für diese Woche gesetzt habe.",alarm_query,0
+36,,Zeig mir die Fahrkarte zum Hauptbahnhof Hamburg an.,transport_ticket,8
+37,,Ich suche ein günstiges Bahn-Ticket nach Köln.,transport_ticket,8
+38,,"Könntest du mir einige Rom-Com-Empfehlungen machen, die ich auf Netflix finden kann?",recommendation_movies,7
+39,,mach mal leiser,audio_volume_down,1
+40,,Ich suche ein günstiges Zugticket nach Berlin.,transport_ticket,8
+41,,"Sagt mir, wie das Wetter im August in Deutschland aussieht?",weather_query,9
+42,,Wie viel Stunden Zeitdifferenz gibt es zwischen Tokio und München?,datetime_convert,4
+43,,Schreibe eine Email an meinen Bruder und erkundige dich nach seinem Gesundheitszustand.,email_sendemail,5
+44,,Wie mache ich die besten Bratkartoffeln überhaupt?,cooking_recipe,3
+45,,Wenn es hier zehn Uhr abends ist wie spät ist es dann in Sydney,datetime_convert,4
+46,,Um wie viel Uhr ist es in Paris wenn es hier acht Uhr abends ist?,datetime_convert,4
+47,,"Spielen Sie bitte ""Der Name der Rose"" weiter",play_audiobook,6
+48,,Gibt es ein einfaches Rezept für selbstgemachte Pizza?,cooking_recipe,3
+49,,Wo finde ich das original italienische Rezept für Spaghetti Bolognese?,cooking_recipe,3
+50,,In Madrid ist es gerade fünfzehn Uhr - wie spät ist es dann in Rio de Janeiro?,datetime_convert,4
+51,,Ich suche nach einem Film für einen ruhigen Abend - hast du Vorschläge?,recommendation_movies,7
+52,,Buch ein Ticket für die Bahnfahrt nach Berlin morgen früh.,transport_ticket,8
+53,,Wird es Ende März wieder wärmer?,weather_query,9
+54,,Erstelle einen Entwurf für eine Email an unseren Kunden über den Liefertermin.,email_sendemail,5
+55,,Bitte entfernen Sie alle Veranstaltungstermine bis Ende des Monats.,calendar_remove,2
+56,,Gibt es eine Chance auf Regen im Juli in Hamburg?,weather_query,9
+57,,können sie mir ein simples rezept für gefüllte champignons geben,cooking_recipe,3
+58,,Wie viel Uhr wäre es in Sydney wenn es hier neunzehn Uhr abends ist?,datetime_convert,4
+59,,"bitte stell die Lautstärke zurück, das ist momentan zu hoch",audio_volume_down,1
+60,,Gibt es einen Wecker für meinen Feierabend?,alarm_query,0
+61,,"Spielen Sie ""Der Name der Rose"" für mich weiter",play_audiobook,6
+62,,"Gibt es einen Wecker, der mich morgen früh um sieben Uhr weckt?",alarm_query,0
+63,,"Kannst du mir sagen, wie kalt es heute ist?",weather_query,9
+64,,"Wieviele Stunden muss ich addieren, wenn ich von London nach Bangkok reise",datetime_convert,4
+65,,gibt es einfache rezepte für veganer cheesecake,cooking_recipe,3
+66,,suche nach einem actionfilm für heute abend,recommendation_movies,7
+67,,Fahren wir mit dem letzten Hörbuch fort,play_audiobook,6
+68,,Bitte entfernen Sie den Zahnarzttermin in dieser Woche.,calendar_remove,2
+69,,Was brauche ich alles um Spaghetti Bolognese zuzubereiten?,cooking_recipe,3
+70,,"Ich möchte gerne wissen, welche Wecker ich für das Wochenende eingerichtet habe.",alarm_query,0
+71,,Stell die Lautstärke auf fünfzig Prozent herunter,audio_volume_down,1
+72,,welcher film ist aktuell am besten bewertet,recommendation_movies,7
+73,,Könnten Sie mir ein Rückfahr-Ticket für die Bahn nach Köln besorgen?,transport_ticket,8
+74,,Erstelle einen Entwurf für eine Antwort auf die Email von Frau Schmidt.,email_sendemail,5
+75,,"Um welche Uhrzeit wäre es in Sydney, wenn es hier zehn Uhr abends ist",datetime_convert,4
+76,,Kürze den Kalender um die Veranstaltung morgen.,calendar_remove,2
+77,,Wird es diese Woche wieder sonnig in Hamburg?,weather_query,9
+78,,Rücke den Termin mit der Familie am Sonntag heraus.,calendar_remove,2
+79,,"Soll ich dir helfen, ein Zugticket nach Köln zu buchen?",transport_ticket,8
+80,,"Könnten Sie mir sagen, wie viel ein Bahn-Ticket nach Stuttgart kostet?",transport_ticket,8
+81,,"starte den roman ""die verwirrungen des jägers"" als hörbuch",play_audiobook,6
+82,,Wird es nächsten Donnerstag sonnig in Frankfurt?,weather_query,9
+83,,Schreib eine Email an deinen Vorgesetzten und bitte ihn um ein Treffen nächste Woche.,email_sendemail,5
+84,,Ich suche ein günstiges Bahnticket nach Frankfurt am Main.,transport_ticket,8
+85,,Kannst du den Kalendereintrag für das Meeting am Freitag entfernen?,calendar_remove,2
+86,,Spiel den nächsten Abschnitt des Hörbuchs bitte.,play_audiobook,6
+87,,welches öl verwende ich am besten zum braten von fisch,cooking_recipe,3
+88,,Welche Rom-Coms sind aktuell in deutschen Kinos zu sehen?,recommendation_movies,7
+89,,Ich suche einen guten Action-Film aus dem Jahr 2020. Kannst du mir helfen?,recommendation_movies,7
+90,,Um wie viel Uhr ist es in Rio de Janeiro wenn es hier achtzehn Uhr ist,datetime_convert,4
+91,,Ich möchte gerne wieder bei meinem Hörbuch anfangen,play_audiobook,6
+92,,"senkt die Lautstärke, ich kann nicht mehr hören",audio_volume_down,1
+93,,Fahr mit dem letzten Kapitel des Hörbuchs fort!,play_audiobook,6
+94,,Könntest du mir meine aktuellen Wecker anzeigen?,alarm_query,0
+95,,Gibt es einen Alarm für meine heutigen Termine?,alarm_query,0
+96,,Wie hoch ist die Wahrscheinlichkeit von Schnee im Januar?,weather_query,9
+97,,Löschen Sie bitte mein Meeting mit der Marketingabteilung.,calendar_remove,2
+98,,Ich benötige Hilfe bei der Löschung aller Einträge im Juni.,calendar_remove,2
+99,,Um wie viel Uhr ist es in Rio de Janeiro wenn es hier zehn Uhr abends ist,datetime_convert,4
+100,,wie backe ich den perfekten apfelstrudel nach österreichischer art,cooking_recipe,3
+101,,"Kannst du mir sagen, wie hoch die Temperatur heute ist?",weather_query,9
+102,,wie spät ist es in sydney wenn es hier neunzehn uhr ist,datetime_convert,4
+103,,"Um welche Uhrzeit würde es in Paris sein, wenn es hier fünfzehn Uhr ist?",datetime_convert,4
+104,,"Wie viel Uhr wäre es in Sydney, wenn es hier acht Uhr morgens ist?",datetime_convert,4
+105,,Spiel das Hörbuch ab Minute 30 weiter,play_audiobook,6
+106,,"Der Klang ist viel zu hoch, kann ich ihn leiser haben?
+Toneinstellungen ändern: Lautstärke reduzieren",audio_volume_down,1
+107,,Wo finde ich das Originalrezept für die Wiener Torte?,cooking_recipe,3
+108,,Wieviele Grad Celsius sind heute in Hamburg?,weather_query,9
+109,,um welche uhrzeit wäre es in rio de janeiro wenn es hier zehn uhr abends ist,datetime_convert,4
+110,,stellt die Lautstärke zurück,audio_volume_down,1
+111,,Rezept gesucht: Wie koche ich authentischen italienischen Risotto?,cooking_recipe,3
+112,,Rezepte für leckeres Hähnchenschnitzel gesucht!,cooking_recipe,3
+113,,Kürzen Sie den Kalender auf null zurück.,calendar_remove,2
+114,,Wie hoch ist die Wahrscheinlichkeit von Schnee im Januar in den Alpen?,weather_query,9
+115,,"spiel das neue kapitel von ""der herr der ringe""",play_audiobook,6
+116,,"Sagt mir, wie das Wetter im August in den Alpen aussieht!",weather_query,9
+117,,Wie backe ich die perfekten Brötchen für mein Frühstück?,cooking_recipe,3
+118,,Sende bitte eine Email an den Support und beschwer dich über das defekte Produkt.,email_sendemail,5
+119,,die musik ist leider sehr laut bitte stell die lautstärke zurück,audio_volume_down,1
+120,,"Spielen Sie das Hörbuch ""Der Gott der kleinen Dinge"" ab.",play_audiobook,6
+121,,Öffne Audible und spiele das letzte angehörte Buch weiter,play_audiobook,6
+122,,Kannst du mir bitte ein Ticket für den Zug nach Köln besorgen?,transport_ticket,8
+123,,"Schreib eine Email an unseren Support und beschreibe das Problem, das ich bei der Installation habe.",email_sendemail,5
+124,,Räume den ganzen Kalender auf und starte neu,calendar_remove,2
+125,,bringen sie die lautstärke auf ein angemessenes niveau,audio_volume_down,1
+126,,Buch mir bitte ein Zug-Ticket nach Berlin-Schönefeld für morgen früh.,transport_ticket,8
+127,,Löschen Sie bitte alle Veranstaltungen des Monats Juni.,calendar_remove,2
+128,,Sende eine Email an meine Freunde und lade sie zu meinem Geburtstag ein.,email_sendemail,5
+129,,"Könnt ihr mir sagen, wie man perfekten Reis kocht?",cooking_recipe,3
+130,,"Ich habe Kürbis übrig, gibt es ein gutes Rezept dafür?",cooking_recipe,3
+131,,"Kann mir jemand sagen, wie man den besten Kartoffelsalat macht?",cooking_recipe,3
+132,,Gibt es aktuell neue Romantik-Komödien im Kino?,recommendation_movies,7
+133,,Wird es nächsten Donnerstag sonnig in Hamburg?,weather_query,9
+134,,Gibt es ein einfaches Rezept für französische Crêpes?,cooking_recipe,3
+135,,Gibt es ein gutes Rezept für selbstgemachte Nudeln?,cooking_recipe,3
+136,,Einkehren Sie mir ein Ticket für den Regionalzug nach Dresden.,transport_ticket,8
+137,,Spiel das letzte Kapitel des aktuellen Hörbuchs nochmal ab,play_audiobook,6
+138,,Schreibe eine Email an meine Tante und wünsche ihr alles Gute zum Geburtstag!,email_sendemail,5
+139,,"Wenn es gerade zehn Uhr abends ist, welche Zeit hat man dann in Sydney?",datetime_convert,4
+140,,"mach es bitte nicht so laut, meine ohren!",audio_volume_down,1
+141,,wie lang muss ich die lasagne backen damit sie perfekt ist,cooking_recipe,3
+142,,"Sagt mir, wann sich das Wetter wieder ändern wird?",weather_query,9
+143,,Welches Öl eignet sich am besten zum Braten von Fisch?,cooking_recipe,3
+144,,Wird es heiß bleiben bis zum Wochenende?,weather_query,9
+145,,Bitte streichen Sie die Veranstaltung morgen,calendar_remove,2
+146,,könntest du bitte den Soundpegel senken,audio_volume_down,1
+147,,Ich suche einen Film mit Leonardo DiCaprio - kannst du mir helfen?,recommendation_movies,7
+148,,"Kann mir jemand sagen, wie lang ich Nudeln kochen muss?",cooking_recipe,3
+149,,"Wie viel Uhr ist es in New York, wenn es hier drei Uhr nachmittags ist",datetime_convert,4
+150,,"Ich suche nach einem guten Thriller, kannst du mir eine Empfehlung machen?",recommendation_movies,7
+151,,"Empfehl mir bitte einen Romantik-Film, der gerade in den Kinos läuft!",recommendation_movies,7
+152,,mach mal bitte leiser ich finde es hier zu laut,audio_volume_down,1
+153,,In welcher Zeitzone sind wir gegenwärtig? Bitte konvertieren Sie auf unsere lokale Zeit.,datetime_convert,4
+154,,Erstelle eine Email an den Kundenservice bzgl. meines Pakets.,email_sendemail,5
+155,,Gibt es einen Wecker für meine nächste Verabredung?,alarm_query,0
+156,,"Kann mir jemand sagen, wie lang ich Nudeln kochen soll?",cooking_recipe,3
+157,,Welcher Wecker wird als Nächstes losgehen?,alarm_query,0
+158,,Was sagt die Wettervorhersage für den kommenden Freitag aus?,weather_query,9
+159,,"Kannst du mir helfen, indem du alle Termine bis zum Ende der Woche löschst?",calendar_remove,2
+160,,"Kannst du mir sagen, wie spät es um fünfzehn Uhr in Moskau ist?",datetime_convert,4
+161,,"Kannst du mir sagen, wie viel Uhr es in Sydney ist, wenn es hier zehn Uhr abends ist",datetime_convert,4
+162,,Sind meine Wecker für das Wochenende bereits gesetzt?,alarm_query,0
+163,,Sende eine Email an Herrn Müller und frag ihn nach seinem Urlaubsplan.,email_sendemail,5
+164,,"Könnten Sie mir sagen, wie spät es in Paris ist, wenn es hier neunzehn Uhr fünfundvierzig ist",datetime_convert,4
+165,,Rezepte gesucht: Wie grille ich perfekte Steak?,cooking_recipe,3
+166,,entwerfe eine emailantwort an michaela danke für ihre freundliche einladung,email_sendemail,5
+167,,Löschen Sie bitte alle geschäftlichen Treffen aus meinem Kalender.,calendar_remove,2
+168,,"Gibt es einen neuen Thriller, den ich unbedingt sehen muss?",recommendation_movies,7
+169,,Gibt es ein gutes Rezept für vegane Lasagne?,cooking_recipe,3
+170,,"Wie viel Uhr ist es, wenn es hier fünfzehn Uhr ist und ich will wissen, wie spät es dann in Rio de Janeiro ist",datetime_convert,4
+171,,Ändern Sie die Zeitzone von Paris auf Athen,datetime_convert,4
+172,,Welcher Wecker ist als Nächstes aktiviert?,alarm_query,0
+173,,die geräuschpegel sind echt zu hoch kann ich bitten dich die lautstärke zu senken,audio_volume_down,1
+174,,Wird es in Hamburg morgen sonnig oder bewölkt?,weather_query,9
+175,,Wo finde ich ein gutes Rezept für Spätzle?,cooking_recipe,3
+176,,Erstelle eine Email an meine Freunde und lad sie zu unserem Sommerfest ein.,email_sendemail,5
+177,,das ist echt zu laut bitte mach es leiser,audio_volume_down,1
+178,,"Empfiehl mir bitte einen guten Thriller, den ich noch nicht gesehen habe!",recommendation_movies,7
+179,,Entferne den Eintrag 'Treffen mit Freunden' aus meinem Kalender.,calendar_remove,2
+180,,Gibt es einen Wecker für meinen Arbeitsstart?,alarm_query,0
+181,,Öffne Audible und spiele das aktuelle Buch,play_audiobook,6
+182,,Buch mir ein Zugticket mit Platzreservierung nach Frankfurt für morgen früh!,transport_ticket,8
+183,,"Kannst du mir sagen, wie das Wetter diese Woche in Hamburg wird?",weather_query,9
+184,,Bitte sende eine Email an meine Kollegen über die Änderung im Projektplan.,email_sendemail,5
+185,,"könntest du bitte die Lautstärke senken, es ist unangenehm",audio_volume_down,1
+186,,Umrechne die Zeit von Greenwich Mean Time plus fünfhundertvierzig Minuten nach Tokyo Standard Time!,datetime_convert,4
+187,,"Schicke eine Email an meinen Bruder und frage ihn, ob wir uns am Wochenende treffen können.",email_sendemail,5
+188,,Kauf mir ein Zugticket mit Reservierung nach Dresden.,transport_ticket,8
+189,,"Könntest du mir sagen, welche Alarme ich gestern Abend aktiviert habe?",alarm_query,0
+190,,"Sind da irgendwelche neuen Filme rausgekommen, die ich absolut sehen muss?",recommendation_movies,7
+191,,"Kannst du mir helfen, alle Veranstaltungen des letzten Monats zu löschen?",calendar_remove,2
+192,,lies das letzte gehörte kapitels eines hörbuchs noch einmal vor,play_audiobook,6
+193,,"die Musik ist sehr laut, kann ich bitten, sie etwas leiser zu stellen",audio_volume_down,1
+194,,Bitte erkläre mir den Zeitunterschied zwischen MEZ und PST,datetime_convert,4
+195,,Ich möchte alle Ereignisse des letzten Monats entfernen.,calendar_remove,2
+196,,"Kannst du mir sagen, wie spät es um fünfzehn Uhr in Tokio ist",datetime_convert,4
+197,,Buch mir bitte ein Zugticket nach Dresden für morgen früh.,transport_ticket,8
+198,,Buch mir bitte ein Ticket für den Regionalzug nach Frankfurt.,transport_ticket,8
+199,,Ich benötigte eine Übersicht über alle von mir gesetzten Wecker.,alarm_query,0
+200,,Wenn es jetzt zehn Uhr abends in Deutschland ist wie spät ist es dann in Kalifornien,datetime_convert,4
+201,,Schicke eine Email an meine Kollegen und verteile den Terminplan für die kommenden Wochen!,email_sendemail,5
+202,,Ich brauche ein einfaches Rezept für Spaghetti Bolognese.,cooking_recipe,3
+203,,wie bereitet man den perfekten risotto vor,cooking_recipe,3
+204,,der soundtrack ist zu laut kannst du ihn leiser machen,audio_volume_down,1
+205,,Ich suche nach einem Action-Film aus dem letzten Jahr. Kannst du mir helfen?,recommendation_movies,7
+206,,Schreibe eine Email an meine Mutter und erzähle ihr von meinem Tag.,email_sendemail,5
+207,,Entwerfe eine Antwort auf die Email von Herrn Müller.,email_sendemail,5
+208,,"Rezepte gesucht: Ich habe gerade frischen Fisch gekauft und weiß nicht, wie ich ihn zubereiten soll.",cooking_recipe,3
+209,,"Mach mal bitte leiser!
+Stell die Lautstärke auf fünfzig Prozent",audio_volume_down,1
+210,,Ich brauche eine Übersicht über meine aktuellen Alarme.,alarm_query,0
+211,,Entwerfe eine Antwort auf die Email von Frau Müller und kläre das Problem mit der Bestellung.,email_sendemail,5
+212,,Welche Romantik-Komödien gibt es aktuell im Kino?,recommendation_movies,7
+213,,Gibt es einen Wecker für meinen Feiertag?,alarm_query,0
+214,,muss das so laut sein oder kannst du mal runterfahren,audio_volume_down,1
+215,,Gibt es eine Chance auf Sonne am Wochenende?,weather_query,9
+216,,Kürze mein heutiges Programm um einen Termin.,calendar_remove,2
+217,,Ich suche ein Rezept für saftige und leckere Chicken Wings!,cooking_recipe,3
+218,,Schreib eine Email an meine Freunde und teile ihnen mit dass ich morgen Geburtstag habe.,email_sendemail,5
+219,,Wie viele Wecker habe ich heute Morgen gesetzt?,alarm_query,0
+220,,Löschen Sie bitte alle Termine für morgen,calendar_remove,2
+221,,Kannst du mir bitte ein Zug-Ticket nach Köln besorgen?,transport_ticket,8
+222,,Kannst du mir sagen wie spät es in Rio de Janeiro ist wenn es hier acht Uhr früh ist,datetime_convert,4
+223,,Welches Wetter kann ich heute in Frankfurt erwarten?,weather_query,9
+224,,Habe ich bereits einen Wecker für den Feiertag gestellt?,alarm_query,0
+225,,gibt es ein simples rezept für selbstgemachte nudeln,cooking_recipe,3
+226,,Welche Filme laufen aktuell in meinem Umkreis?,recommendation_movies,7
+227,,"Kannst du mir sagen, wie spät es um drei Uhr nachmittags hier ist, wenn man es mit der Zeit in Dubai vergleicht",datetime_convert,4
+228,,"den Ton leiserstellen, er ist zu hoch",audio_volume_down,1
+229,,"Es ist immer noch zu laut, reduziere die Lautstärke weiter",audio_volume_down,1
+230,,Beginne eine Email an unsere Kollegen und teile ihnen das Meeting am Freitag mit.,email_sendemail,5
+231,,Spiel das letzte Kapitel des Hörbuchs nochmal ab,play_audiobook,6
+232,,Antworte auf die Email von Sarah und bestätige ihr Treffen morgen um 10 Uhr.,email_sendemail,5
+233,,Erstelle einen Entwurf für eine Email an Frau Müller und teile ihr deine Meinung zum Projekt mit.,email_sendemail,5
+234,,Verringere die Lautstärke um einige Dezibel,audio_volume_down,1
+235,,Zeigen Sie mir bitte alle Wecker für den heutigen Tag.,alarm_query,0
+236,,Reserviere mir ein Ticket für den Nachtzug nach Zürich.,transport_ticket,8
+237,,Buch mir bitte ein Ticket für die Bahnfahrt nach Köln.,transport_ticket,8
+238,,Ändere die Zeitzone von UTC-5 auf CST,datetime_convert,4
+239,,"Ich suche nach einem Film, der mich zum Lachen bringt. Hast du eine Empfehlung?",recommendation_movies,7
+240,,Ich suche nach einem guten Thriller aus dem letzten Jahr. Hast du eine Empfehlung?,recommendation_movies,7
+241,,"Kannst du mir helfen, ein Ticket für den Zug nach Köln zu buchen?",transport_ticket,8
+242,,Wie hoch ist die Wahrscheinlichkeit von Schnee Ende Dezember?,weather_query,9
+243,,die musik ist zu laut kannst du sie ein bisschen leiser stellen,audio_volume_down,1
+244,,in welchem zeitversatz liegt san francisco im vergleich zu münchen,datetime_convert,4
+245,,Welcher Wecker ist für mich auf 7 Uhr gestellt?,alarm_query,0
+246,,Empfiehl mir bitte einen beliebten Thriller aus dem Jahr 2020!,recommendation_movies,7
+247,,Streich die Sitzung am Freitag komplett aus dem Kalender.,calendar_remove,2
+248,,"Sagt mir, wann es wieder sonnig wird!",weather_query,9
+249,,"Suggestiert mir einige gute Horrorfilme, die ich noch nicht gesehen habe?",recommendation_movies,7
+250,,Wird es im August wieder warm in Deutschland?,weather_query,9
+251,,könntest du bitte die lautstärke senken?,audio_volume_down,1
+252,,Antworte auf die Email von Frau Müller und bestätige den Termin für morgen.,email_sendemail,5
+253,,Ich suche nach einem einfachen Rezept für Zucchini-Nudeln. Wer kann mir helfen?,cooking_recipe,3
+254,,"Wird es nochmal Sommerliches Wetter geben, bevor der Herbst kommt?",weather_query,9
+255,,Ich suche Tickets für die Bahnfahrt von Berlin nach Dresden.,transport_ticket,8
+256,,"die Musik ist zu laut, kannst du sie leiser stellen?",audio_volume_down,1
+257,,"Empfiehlt mir bitte einen Film, der gerade in meinem örtlichen Kino läuft.",recommendation_movies,7
+258,,"Sagt mir, wie das Wetter für die kommenden Tage in Stuttgart aussieht?",weather_query,9
+259,,Gibt es eine Chance auf Schnee in den nächsten Tagen in Berlin?,weather_query,9
+260,,Gibt es noch offene Wecker für mich?,alarm_query,0
+261,,mach mal leiser ich verstehe sonst nichts,audio_volume_down,1
+262,,Kannst du mir einige gute Sci-Fi-Filme empfehlen?,recommendation_movies,7
+263,,"Erstelle einen Entwurf für eine Email an meinen Bruder und teile ihm mit, dass ich nächste Woche zu Besuch komme!",email_sendemail,5
+264,,Schicke eine Email an meinen Bruder und erinnere ihn an unser Familientreffen am Wochenende.,email_sendemail,5
+265,,Ich suche ein Rezept für cremigen Brokkoli-Auflauf!,cooking_recipe,3
+266,,"das ist viel zu laut, reduzieren Sie die Lautstärke sofort",audio_volume_down,1
+267,,gibt es ein rezept dass ich schnell und einfach selbstgemachte pizza herstellen kann,cooking_recipe,3
+268,,Gibt es bereits einen Alarm für morgen früh?,alarm_query,0
+269,,Ändere die Zeitzone von UTC+1 auf CST,datetime_convert,4
+270,,"Sagt mir, wie ich ein Ticket für den Regionalzug nach Dresden kaufe.",transport_ticket,8
+271,,konvertiere die zeit von paris nach new york,datetime_convert,4
+272,,Ich suche ein günstiges Zug-Ticket nach Köln für nächsten Freitag.,transport_ticket,8
+273,,Schreibe eine Email an unseren Kunden und bestätige den Termin für morgen.,email_sendemail,5
+274,,Wieviele Stunden Unterschied gibt es zwischen der Mitteleuropäischen Sommerzeit (MESZ) und der Pacific Standard Time (PST)?,datetime_convert,4
+275,,Empfehle mir einen Film aus dem Jahr 2010!,recommendation_movies,7
+276,,vollständig stumm schalten wäre schön,audio_volume_down,1
+277,,Kürze mein Treffen mit Sarah vom morgigen Tag entfernen.,calendar_remove,2
+278,,Ich brauche dringend ein Zugticket nach Stuttgart für morgen früh.,transport_ticket,8
+279,,Entwerfe eine Email an unsere Lieferanten und bestätige den Eingang ihrer Bestellung.,email_sendemail,5
+280,,Sind alle meiner Wecker für diese Woche noch aktiv?,alarm_query,0
+281,,weiterlesen sie bitte mein aktuelles hörbuch,play_audiobook,6
+282,,Welcher Wecker ist für heute Morgen aktiviert?,alarm_query,0
+283,,"Setz die Wiedergabe des Hörbuchs ""Der Hobbit"" ab Minute 30 fort",play_audiobook,6
+284,,könntest du bitte etwas leiser stellen,audio_volume_down,1
+285,,"Ist es jetzt Sommer, oder kann ich noch meine Winterjacke tragen?",weather_query,9
+286,,Entwerfe eine Antwort auf die Email von Frau Müller und bedanke dich für ihre Anfrage.,email_sendemail,5
+287,,"Kannst du mir sagen, wie das Wetter im August in Hamburg aussieht?",weather_query,9
+288,,Ich bräuchte ein Rückfahrts-ticket für den ICE nach Berlin.,transport_ticket,8
+289,,Welche Filme laufen gerade in den Kinos in Berlin?,recommendation_movies,7
+290,,Gibt es eine Chance auf Regen in den nächsten Tagen?,weather_query,9
+291,,"Gibt es noch weitere Wecker, die ich eingerichtet habe?",alarm_query,0
+292,,Könnte ich bitte ein Ticket für die Bahnfahrt nach Köln reservieren lassen?,transport_ticket,8
+293,,"Wird es heiß genug, um zum Strand zu gehen?",weather_query,9
+294,,Ich suche nach einem Film für heute Abend. Hast du eine Empfehlung?,recommendation_movies,7
+295,,mach bitte nicht so laut stell die lautstärke mal auf fünfzig procent zurück,audio_volume_down,1
+296,,Wie viel Uhr ist es in Sydney wenn es hier drei Uhr nachmittags ist,datetime_convert,4
+297,,Kann mir jemand sagen wie man perfekte Pommes Frites macht?,cooking_recipe,3
+298,,Ich möchte alle Eintragungen im Kalender löschen,calendar_remove,2
+299,,"Welche Rom-Coms gibt es, die aktuell in deutschen Kinos laufen und sehr beliebt sind?",recommendation_movies,7
+300,,Erstellen Sie ein Konzept für eine Email an unsere Mitarbeiter über die neue Firmenpolitik.,email_sendemail,5
+301,,Sind meine Wecker für das Wochenende bereits gestellt?,alarm_query,0
+302,,Zeigen Sie mir alle aktuellen Wecker an.,alarm_query,0
+303,,"Empfiehl mir einen Thriller, den ich noch nicht gesehen habe!",recommendation_movies,7
+304,,"Sag mal, gibt's einen guten Animationsfilm, den ich mit meiner Familie ansehen kann?",recommendation_movies,7
+305,,welchen film kann ich meiner freundin zeigen wenn sie horrorfilme mag,recommendation_movies,7
+306,,Zeig mir alle Alarme auf meinem Handy!,alarm_query,0
+307,,"die Musik ist zu laut, kann ich sie ein bisschen zurückfahren?",audio_volume_down,1
+308,,"Gibt es aktuell gute Filme in den Kinos, die ich unbedingt sehen sollte?",recommendation_movies,7
+309,,"Kannst du mir einige Horrorfilme empfehlen, die auf Netflix zu finden sind?",recommendation_movies,7
+310,,lies mir das nächste kapitell vor,play_audiobook,6
+311,,verringert die lärmpegel ein bisschen,audio_volume_down,1
+312,,Gibt es ein bekanntes Rezept für französische Crêpes?,cooking_recipe,3
+313,,Gibt es eine Chance auf Schnee in Berlin diese Woche?,weather_query,9
+314,,"Könnten Sie mir assistieren, um ein Zugticket nach Stuttgart zu kaufen?",transport_ticket,8
+315,,"die Musik ist wirklich zu laut, kannst du das bitte ändern",audio_volume_down,1
+316,,Welche Rom-Coms laufen aktuell in den Kinos? Ich brauche eine Empfehlung!,recommendation_movies,7
+317,,Ich brauche einen Filmvorschlag für meine Freundin und mich.,recommendation_movies,7
+318,,"Kannst du mir sagen, wie spät es in Paris ist, wenn es hier zehn Uhr dreißig ist",datetime_convert,4
+319,,"Entwerfe eine Email an Herrn Schmitz und bitte ihn, uns weitere Informationen zu seinem Projekt zuzusenden.",email_sendemail,5
+320,,Schreib eine Email an den Kundenbetreuer und frag nach dem Status meines Auftrags.,email_sendemail,5
+321,,Empfehle mir einen Action-Film mit einem hohen Bewertungen?,recommendation_movies,7
+322,,Kauf mir ein Bahnticket für morgen früh nach Dresden!,transport_ticket,8
+323,,Wie hoch ist die Wahrscheinlichkeit von Sonne in Berlin heute?,weather_query,9
+324,,Ich bräuchte ein Ticket für den ICE nach Stuttgart.,transport_ticket,8
+325,,das ist wirklich zu laut könntest du mal leiser stellen,audio_volume_down,1
+326,,Ich möchte alle Termine für morgen streichen lassen.,calendar_remove,2
+327,,"Ich finde es zu laut, kannst du die Lautstärke verringern?",audio_volume_down,1
+328,,wie lang müssen erbsen gekocht werden bis sie weich sind,cooking_recipe,3
+329,,"Es ist wirklich zu laut, könnte die Lautstärke heruntergehen?",audio_volume_down,1
+330,,Ich möchte gerne ein Ticket für den Regionalzug nach Freiburg kaufen.,transport_ticket,8
+331,,"Sag mal, gibt es gerade irgendeinen neuen Action-Film, den man sich unbedingt ansehen muss?",recommendation_movies,7
+332,,Wie grille ich den besten Burger aller Zeiten?,cooking_recipe,3
+333,,setz die wiedergabe meines aktuellen hörbuchs fort,play_audiobook,6
+334,,"Weiter mit dem Hörbuch ""Der Richter und sein Henker"".",play_audiobook,6
+335,,"Ich suche nach einem Film, der vor kurzem herausgekommen ist und sehr gute Bewertungen hat.",recommendation_movies,7
+336,,Welche Wecker sind für heute Morgen geplant?,alarm_query,0
+337,,fahr mit dem letzen hörbuch fort,play_audiobook,6
+338,,In welchem Zeitraum liegt die Ortszeit von Rio de Janeiro im Vergleich zur deutschen Zeit,datetime_convert,4
+339,,Antworte auf die Email von Frau Schmidt und bestätige unseren Treffpunkt für Freitag!,email_sendemail,5
+340,,"Spiele ""Die Bremer Stadtmusikanten"" als Hörbuch ab",play_audiobook,6
+341,,"Erstelle eine Email an meinen Bruder und frag ihn, ob er nächste Woche Zeit hat.",email_sendemail,5
+342,,"Spiele das nächste Kapitel von ""Der Gott der kleinen Dingen""",play_audiobook,6
+343,,"Was sind die besten Filme, die ich auf Netflix finden kann?",recommendation_movies,7
+344,,Ich suche nach einem guten Rezept für Selbstgemachtes Brot - hat jemand eine Empfehlung?,cooking_recipe,3
+345,,Was sagt die Wettervorhersage für die kommende Woche aus?,weather_query,9
+346,,Entwerfe eine Antwort auf die Email von unserer Marketing-Abteilung.,email_sendemail,5
+347,,"Wenn es hier ein Uhr ist, wie spät ist es dann in New York?",datetime_convert,4
+348,,"Kannst du mir helfen, ein Zug-Ticket nach Frankfurt zu buchen?",transport_ticket,8
+349,,ich kann dich nicht verstehen es ist einfach zu laut verringere die lautstärke,audio_volume_down,1
+350,,"Gibt es einen Wecker, der heute Abend um 22 Uhr losgeht?",alarm_query,0
+351,,"mach mal leiser, ich höre nicht gerne so laut Musik",audio_volume_down,1
+352,,"Wird es nächste Woche warm genug, um ohne Jacke rauszugehen?",weather_query,9
+353,,Buch mir bitte ein Ticket für den ICE nach Stuttgart.,transport_ticket,8
+354,,Buche mir ein Zug-Ticket erster Klasse nach Köln für morgen früh.,transport_ticket,8
+355,,"sprechen sie das hörbuch ""die vermächtnis trilogie"" aus",play_audiobook,6
+356,,"Kannst du mir sagen, wie spät es wäre, wenn es hier drei Uhr nachmittags ist, in Rio de Janeiro?",datetime_convert,4
+357,,Lösche alles in meinem Kalender bis zum Ende der Woche.,calendar_remove,2
+358,,Welcher Alarm ist für heute Abend geplant?,alarm_query,0
+359,,Gibt es eine Chance auf Schnee im Februar in den Alpen?,weather_query,9
+360,,Erstelle einen Entwurf für eine Email an unseren Kunden und erkläre ihm die neue Preispolitik.,email_sendemail,5
+361,,Kürzen Sie den Termin am Freitag aus meinem Kalender.,calendar_remove,2
+362,,"Entfernt den Termin ""Frühstück mit Familie"" vom 20. Juli.",calendar_remove,2
+363,,Streich die Sitzung morgen komplett.,calendar_remove,2
+364,,"Ich suche nach einem Film, der vor Kurzem herausgekommen ist und gute Bewertungen hat.",recommendation_movies,7
+365,,Sind alle meiner Wecker auf dem aktuellen Stand?,alarm_query,0
+366,,Gibt es eine Chance auf Schnee im Februar in Berlin?,weather_query,9
+367,,senke die lautstärke um einige niveau,audio_volume_down,1
+368,,Wie ist die Wettervorhersage für den Rest der Woche?,weather_query,9
+369,,Spiele das nächste Kapitel des aktuellen Hörbuchs,play_audiobook,6
+370,,Buch mir ein Ticket für den Zug nach Köln für morgen früh.,transport_ticket,8
+371,,Ich suche nach preiswerten Zugtickets für eine Reise nach Berlin.,transport_ticket,8
+372,,"Starte das Hörbuch ""Der Gott der kleinen Dinge""",play_audiobook,6
+373,,"Kannst du mir sagen, wie spät es in Rio de Janeiro ist, wenn es hier zehn Uhr abends ist?",datetime_convert,4
+374,,Kürzen Sie den Kalender um den Termin morgen früh.,calendar_remove,2
+375,,"Kannst du mir einige beliebte Rom-Coms empfehlen, die ich noch nicht gesehen habe?",recommendation_movies,7
+376,,Welcher Wecker geht als nächstes los?,alarm_query,0
+377,,welches öl ist am besten zum braten geeignet,cooking_recipe,3
+378,,"Kann mir jemand sagen, wie lang ich Fischfilet braten muss?",cooking_recipe,3
+379,,"Kannst du mir helfen, ein Fahrticket nach Stuttgart zu bestellen?",transport_ticket,8
+380,,frage meine kollegen per email ob sie morgen zum meeting kommen können,email_sendemail,5
+381,,Wieviele Stunden Unterschied gibt es zwischen der Zeitzone GMT+1 und GMT-5?,datetime_convert,4
+382,,Löschen Sie sämtliche Termine der kommenden Woche.,calendar_remove,2
+383,,"Spiele mir ein Kapitel aus ""Die Verwandlung"" vor",play_audiobook,6
+384,,"Könnten Sie mir assistieren, um ein Ticket für den Nachtzug nach Zürich zu reservieren?",transport_ticket,8
+385,,"leise bitte, ich kann nicht mehr hören",audio_volume_down,1
+386,,Sende eine Email an unseren Buchhalter und frag nach dem aktuellen Stand unserer Finanzen.,email_sendemail,5
+387,,verringert die lautstärke um einige niveau,audio_volume_down,1
+388,,Was sagt die Vorhersage für das Wetter nächste Woche in Frankfurt?,weather_query,9
+389,,Könnten Sie bitte die Lautstärke senken? Ich möchte mich konzentrieren können.,audio_volume_down,1
+390,,lies das aktuelle kapitell laut vor,play_audiobook,6
+391,,Was sagt die Wettervorhersage für den kommenden Wochenende aus?,weather_query,9
+392,,können sie bitte die musik leiser machen,audio_volume_down,1
+393,,Sind alle meine Wecker für das Wochenende gestellt?,alarm_query,0
+394,,Buch mir bitte ein Zug-Ticket nach Dresden für dieses Wochenende.,transport_ticket,8
+395,,Kannst du mir eine gute Komödie empfehlen?,recommendation_movies,7
+396,,Ich suche nach einem guten Rezept für Hähnchenschnitzel mit Zitrone und Kräutern!,cooking_recipe,3
+397,,"Wie dünsten Sie Zucchini, dass sie nicht matschig werden?",cooking_recipe,3
+398,,Öffne Audible und spiele das letzte Kapitel,play_audiobook,6
+399,,Buch mir bitte ein Ticket für den Regionalzug nach Dresden.,transport_ticket,8
+400,,Ich suche nach einem guten Rezept für vegane Lasagne.,cooking_recipe,3
+401,,Ich suche nach einem Fantasy-Film aus dem Jahr 2015 - kannst du mir helfen?,recommendation_movies,7
+402,,drehe die musik leiser,audio_volume_down,1
+403,,Bitte löschen Sie den Eintrag über das Essen mit Freunden morgen.,calendar_remove,2
+404,,Wie viel Uhr ist es in Sydney wenn es hier drei Uhr nachmittags ist?,datetime_convert,4
+405,,Fahr' mit dem letzten Hörbuch fort,play_audiobook,6
+406,,wie backt man einen leckeren apfelstrudel ohne zucker,cooking_recipe,3
+407,,Bitte streichen Sie den Termin mit dem Trainer nächste Woche,calendar_remove,2
+408,,"mach mal leiser, das ist wirklich zu laut",audio_volume_down,1
+409,,Entwerfe eine Antwort-Mail an Sarah und danke ihr für ihre Einladung zum Essen.,email_sendemail,5
+410,,Löschen Sie das Meeting mit dem Team am Donnerstag.,calendar_remove,2
+411,,Kannst du mir einen guten Thriller empfehlen?,recommendation_movies,7
+412,,Wie mache ich die besten Bratwürstchen überhaupt?,cooking_recipe,3
+413,,Fahr mit dem letzten Kapitel des aktuellen Hörbuchs fort,play_audiobook,6
+414,,Löschen Sie alle Eintragungen zwischen dem 10. und 15. dieses Monats.,calendar_remove,2
+415,,"Reicht ein Teelöffel Salz aus, um ein kilogramm Fleisch zu würzen?",cooking_recipe,3
+416,,"Spiele das nächste Kapitel von ""Die drei Fragezeichen""",play_audiobook,6
+417,,Konvertiere die Uhrzeit von MEZ auf PST,datetime_convert,4
+418,,"Kannst du mir sagen, wie hoch die Regenwahrscheinlichkeit heute ist?",weather_query,9
+419,,Zeigen Sie mir alle meine aktuellen Wecker!,alarm_query,0
+420,,Bitte sende eine Email an mein Team und informiere sie über das Meeting heute Nachmittag um drei Uhr.,email_sendemail,5
+421,,Buch mir bitte ein ICE-Ticket nach Köln für nächsten Freitag.,transport_ticket,8
+422,,"Gibt es einen aktuellen Thriller, den ich unbedingt sehen muss?",recommendation_movies,7
+423,,Welche Rom-Coms laufen gerade in meinem Kino?,recommendation_movies,7
+424,,das ist echt zu laut könntest du das volume ein bisschen runterfahren,audio_volume_down,1
+425,,Erstelle eine Email an meine Freunde und lad sie zu einer Party ein.,email_sendemail,5
+426,,"Kannst du mir helfen, ein Zugticket nach Frankfurt zu buchen?",transport_ticket,8
+427,,Könnten Sie mir bitte meine Wecker anzeigen?,alarm_query,0
+428,,Wird es diese Woche sonnig in Hamburg?,weather_query,9
+429,,"Zeigen Sie mir bitte alle Wecker, die ich für diese Woche gesetzt habe.",alarm_query,0
+430,,Welchen Film kann ich heute Abend im Kino sehen?,recommendation_movies,7
+431,,Erstelle eine Email an Frau Müller und lad' sie zu einem Treffen ein.,email_sendemail,5
+432,,Kürze bitte alle Veranstaltungen bis Ende des Monats.,calendar_remove,2
+433,,"Sag mal, sind die Marvel-Filme wirklich so gut wie alle sagen?",recommendation_movies,7
+434,,Ändere die Zeitzone von London auf Tokio,datetime_convert,4
+435,,könntest du das volume ein bisschen senken,audio_volume_down,1
+436,,gibt es neue filme die ich sehen muss,recommendation_movies,7
+437,,Rezepte für schnelles und leckeres Abendessen gesucht!,cooking_recipe,3
+438,,"Spiel das Hörbuch ""Das Dschungelbuch"" von Anfang an",play_audiobook,6
+439,,Senden Sie eine Email an Herrn Müller und bitten Sie um ein Treffen.,email_sendemail,5
+440,,erstelle eine email an den kundenbetreuer und frag nach seinem aktuellen status,email_sendemail,5
+441,,Welcher Film ist gerade in den Kinos sehr beliebt und lohnt sich anzusehen?,recommendation_movies,7
+442,,Löschen Sie bitte mein gesamtes Veranstaltungskalender.,calendar_remove,2
+443,,Bitte streichen Sie den Termin am Freitag aus meinem Kalender,calendar_remove,2
+444,,Bitte sende eine Email an meine Kollegen und erinnere sie an die wichtige Besprechung morgen.,email_sendemail,5
+445,,spiel die letzte Stelle im aktuellen Hörbuch weiter,play_audiobook,6
+446,,"Gibt es ein simples Rezept, um Pofesen zu backen?",cooking_recipe,3
+447,,Lösche bitte mein komplettes Kalenderprogramm.,calendar_remove,2
+448,,starte das nächste kapitell des letzten gehörten hörbuchs,play_audiobook,6
+449,,Lösche alle Ereignisse zwischen dem 10. und 15. Juni.,calendar_remove,2
+450,,Lösche den heutigen Tag komplett aus meinem Kalender,calendar_remove,2
+451,,"Erstelle einen Entwurf einer Antwort-Mail an Frau Müller und teile ihr mit, dass wir ihre Anfrage bearbeiten werden.",email_sendemail,5
+452,,"Leise stellen 
+Bitte nicht so laut 
+Reduziere den Ton auf dreißig Prozent 
+Es ist viel zu laut stelle es leiser 
+Mach die Musik etwas leiser 
+Das ist zu laut kann das leiser gemacht werden",audio_volume_down,1
+453,,Bitte sende eine Email an meine Schwägerin und wünsche ihr alles Gute zum Muttertag.,email_sendemail,5
+454,,Entfernen Sie den Termin am Freitag aus meinem Kalender,calendar_remove,2
+455,,Könntest du bitte ein Zugticket für mich reservieren? Ich will am Wochenende nach Dresden fahren.,transport_ticket,8
+456,,"Sag mir bitte, wie viel kostet ein Zug-Ticket nach Köln?",transport_ticket,8
+457,,Spiele das nächste Kapitel des Buches,play_audiobook,6
+458,,"Sag mir, wie viel kostet ein Zugticket nach Köln?",transport_ticket,8
+459,,"Ich finde es zu laut, könnten Sie das ändern?",audio_volume_down,1
+460,,Könnten Sie mir alle aktiven Wecker anzeigen?,alarm_query,0
+461,,könntest du bitte die lautstärke auf fünfzig Prozent reduzieren,audio_volume_down,1
+462,,verringere bitte die Lautstärke um einige Dezibel,audio_volume_down,1
+463,,"Ich möchte gerne ""Das Dschungelbuch"" hören, spiel es ab!",play_audiobook,6
+464,,"Lese mir ""Das Dschungelbuch"" vor",play_audiobook,6
+465,,Gibt es ein gutes Rezept für Low-Carb-Pasta mit Zucchini?,cooking_recipe,3
+466,,Reserviere mir ein Schlafwagen-Ticket auf dem Nachtzug nach Zürich.,transport_ticket,8
+467,,"Kannst du mir sagen, ob es Regen geben wird?",weather_query,9
+468,,Streich den Arztbesuch nächste Woche,calendar_remove,2
+469,,Gibt es eine Chance auf Regen am Wochenende in Hamburg?,weather_query,9
+470,,"Das ist echt zu laut, bitte mach mal leiser",audio_volume_down,1
+471,,"Gibt es gute Filme, die kürzlich herausgekommen sind und die ich sehen sollte?",recommendation_movies,7
+472,,Ändere die Zeitzone von UTC-5 auf MEZ,datetime_convert,4
+473,,"Leise machen 
+Verringere die Lautstärke des Fernsehers 
+Ich halte es für zu laut, könnten Sie bitte die Lautstärke reduzieren?
+ Der Ton ist absolut zu laut, bitte reduziere die Lautstärke!
+ Hilf mir, indem du die Lautstärke einstellst!
+ Die Lautstärke ist gerade zu hoch, bitte reduziere sie!",audio_volume_down,1
+474,,"Spiele das nächste Kapitel von ""Der Gott der kleinen Dinge""",play_audiobook,6
+475,,Löschen Sie alle Veranstaltungen für morgen,calendar_remove,2
+476,,die musik ist zu laut kannst du sie bitte leiser machen,audio_volume_down,1
+477,,Schicke eine Email an meine Freunde zum Geburtstag.,email_sendemail,5
+478,,"Könnten Sie mir sagen, wie viel ein Zugticket nach Dresden kostet?",transport_ticket,8
+479,,Schreib eine Email an den Veranstalter und melde dich für das Event an.,email_sendemail,5
+480,,Kann ich bei dir ein Bahnticket nach Hannover reservieren?,transport_ticket,8
+481,,"Wie viel Uhr ist es in Tokio, wenn es hier viertel vor drei ist?",datetime_convert,4
+482,,Stell die Musik nicht so laut ein,audio_volume_down,1
+483,,Kannst du den Termin mit der Familie entfernen?,calendar_remove,2
+484,,Welches ist das beste Rezept für französische Crêpes?,cooking_recipe,3
+485,,Ich suche ein Ticket für den ICE nach Stuttgart.,transport_ticket,8
+486,,Entfernen Sie alle Ereignisse im Juni aus meinem Kalender,calendar_remove,2
+487,,Reserviere mir ein Zug-Ticket mit Platzreservierung nach Köln.,transport_ticket,8
+488,,"Sag mir, wie kann ich am besten ein Zug-Ticket nach Stuttgart bekommen?",transport_ticket,8
+489,,Für morgen benötigt mein Bruder ein Ticket für den ICE nach Frankfurt.,transport_ticket,8
+490,,"Die Musik ist viel zu laut, kannst du sie leiser machen?",audio_volume_down,1
+491,,Wie viel Uhr ist es in Sydney wenn es hier zehn Uhr abends ist,datetime_convert,4
+492,,Sende eine Email an unsere Marketing-Abteilung und bitte sie um einen Bericht über die letzte Kampagne.,email_sendemail,5
+493,,Bitte berechne den Zeitunterschied zwischen Indischer Standard-Zeit und Zentral-afrikanischer Zeit!,datetime_convert,4
+494,,Lösch den Termin am Freitag aus meinem Kalender.,calendar_remove,2
+495,,"Sag mal, gibt es aktuell gute Sci-Fi-Filme im Kino?",recommendation_movies,7
+496,,Gibt es bereits einen Wecker für meinen Feierabend?,alarm_query,0
+497,,Streiche den Meeting-Eintrag am Freitag aus meinem Kalender.,calendar_remove,2
+498,,schreib eine email an unseren kundenbetreuer und frag nach den aktuellen preisen,email_sendemail,5
+499,,Bitte senden Sie eine Email an Frau Schneider und bitten Sie um Rückmeldung bis Ende der Woche.,email_sendemail,5
+500,,"Könntest du mir sagen, wie viel ein Zugticket nach Dresden kostet?",transport_ticket,8
+501,,Empfehl mir einen Film nach deinem Geschmack!,recommendation_movies,7
+502,,"Das ist wirklich zu laut, bitte reduzieren!
+Senk die Lautstärke auf einen angemessenen Wert",audio_volume_down,1
+503,,Schreib' eine Email an den Kundenservice und beschwere dich über den fehlerhaften Artikel.,email_sendemail,5
+504,,"die geräusche sind zu stark, mach mal leiser",audio_volume_down,1
+505,,verringert die lautstärke auf fünfzig procent,audio_volume_down,1
+506,,"Spiele ""Der Name der Rose"" für mich.",play_audiobook,6
+507,,Zeigen Sie mir bitte alle meine bevorstehenden Alarme an.,alarm_query,0
+508,,Wird es im Sommer heißer als letztes Jahr?,weather_query,9
+509,,Kürze meinen Kalender auf null zurück.,calendar_remove,2
+510,,gibt es einfache rezepte für einen leckeren kürbiskuchen,cooking_recipe,3
+511,,"Gibt es neue Filme, die ich unbedingt sehen muss?",recommendation_movies,7
+512,,"Spiele ein Stück aus ""Die Verwandlung"" von Franz Kafka",play_audiobook,6
+513,,Kaufen Sie mir bitte ein Bahnticket nach Dresden.,transport_ticket,8
+514,,Ich suche ein Ticket für den ICE nach Stuttgart morgen früh.,transport_ticket,8
+515,,schicke eine email an meinen vorgesetzten und erinnere ihn an unser gespräch letzte woche,email_sendemail,5
+516,,Ändere die Uhrzeit von Greenwich Mean Time auf Central European Time um!,datetime_convert,4
+517,,Reduziere die Lautstärke des Fernsehers,audio_volume_down,1
+518,,Richte den Kalender neu ein und entferne alle Termine.,calendar_remove,2
+519,,Wird das Wetter in Frankfurt am Wochenende sonnig sein?,weather_query,9
+520,,"Können Sie mir sagen, ob mein Wecker für Montag aktiv ist?",alarm_query,0
+521,,"Ich möchte gerne wissen, welche Alarme ich bereits gesetzt habe.",alarm_query,0
+522,,"Kannst du mir einen Thriller empfehlen, den ich noch nicht gesehen habe?",recommendation_movies,7
+523,,"Kannst du mir sagen, wie ich ein Busticket nach Stuttgart bekomme?",transport_ticket,8
+524,,rezepte für schnelle und einfache pasta sauces gesucht,cooking_recipe,3
+525,,Gibt es einfache Rezepte für Rohkost-Salate?,cooking_recipe,3
+526,,Welcher Film wird zurzeit am meisten in Berlin gezeigt?,recommendation_movies,7
+527,,"Empfehle mir einen Film aus dem Jahr 2019, der auf Netflix zu finden ist?",recommendation_movies,7
+528,,"Weiter mit dem Hörbuch ""Die Vermessung der Welt""",play_audiobook,6
+529,,"Schicke eine Email an meine Kollegen und leite die Dateien weiter, die wir benötigen werden.",email_sendemail,5
+530,,Könntest du mir bitte meine aktuellen Wecker anzeigen?,alarm_query,0
+531,,"Setz die Wiedergabe des Hörbuchs ""Das kalte Herz"" fort",play_audiobook,6
+532,,Bitte entfernen Sie den Termin mit meiner Familie morgen.,calendar_remove,2
+533,,Kann mir jemand ein simples Rezept für Spaghetti Bolognese geben?,cooking_recipe,3
+534,,Löschen Sie bitte den Termin am morgigen Dienstag.,calendar_remove,2
+535,,"Sag mir, welcher Film diese Woche neu in den Kinos anläuft?",recommendation_movies,7
+536,,"Kannst du mir sagen, wie viel Uhr es in Sydney ist, wenn es hier achtzehn Uhr abends ist?",datetime_convert,4
+537,,Senden Sie eine E-Mail an unser IT-Team und bitten Sie um Hilfe bei meinem Laptop-Problem.,email_sendemail,5
+538,,Lösche den Termin am Freitag aus meinem Kalender.,calendar_remove,2
+539,,die geräusche sind etwas zu hoch kann ich bitten dass du sie runter drehst,audio_volume_down,1
+540,,Buch mir bitte ein Ticket für den ICE nach Köln.,transport_ticket,8
+541,,"Spiele mir ""Der Name der Rose"" von Umberto Eco vor",play_audiobook,6
+542,,Umrechnen Sie die Zeit von der Pazifischen Zeitzone in die Mitteleuropäische Zeitzone.,datetime_convert,4
+543,,Räume meinen ganzen Kalender auf,calendar_remove,2
+544,,Zeigen Sie mir alle aktiven Alarme!,alarm_query,0
+545,,bitte stell die lautstärke auf einen angemessenen pegel ein,audio_volume_down,1
+546,,Lösche den Arztbesuch nächste Woche,calendar_remove,2
+547,,"Spiel mir einen Horrorfilm vor, den ich unbedingt sehen muss!",recommendation_movies,7
+548,,Rezept gesucht: Hähnchenschnitzel mit Zitrone und Kräutern!,cooking_recipe,3
+549,,wie lange dauert es um eintausend grüne bohnen zu dünsten,cooking_recipe,3
+550,,Kaufe mir ein Fahrticket für die Bahnfahrt nach Dresden am Wochenende.,transport_ticket,8
+551,,spielen sie das hörbuch bitte von vorn an,play_audiobook,6
+552,,könnte bitte jemand die Lautsprechervolume runter drehen?,audio_volume_down,1
+553,,Gibt es eine Chance auf Regen im Wochenende in Frankfurt?,weather_query,9
+554,,"Kannst du mir sagen, welcher Film als nächster in meinem örtlichen Kino startet?",recommendation_movies,7
+555,,Empfiehl mir bitte einen Thriller aus dem Jahr 2022!,recommendation_movies,7
+556,,"Kannst du mir sagen, ob mein Wecker für morgen bereits aktiviert wurde?",alarm_query,0
+557,,Bitte streich die Veranstaltung am Wochenende aus meinem Kalender.,calendar_remove,2
+558,,teil deine eltern mit dass ich heute abend spät komme per email mit,email_sendemail,5
+559,,Zeig mir alle Alarme für diese Woche!,alarm_query,0
+560,,"Ich finde das Geräusch zu laut, kannst du es leiserstellen?",audio_volume_down,1
+561,,Zeig mir alle Wecker die heute ausgelöst werden!,alarm_query,0
+562,,Räumen Sie meinen Kalender komplett auf.,calendar_remove,2
+563,,Gibt es ein einfaches Rezept für Selbstgemachte Nudeln?,cooking_recipe,3
+564,,"Ist es kalt genug, dass ich meine Skijacke benötige?",weather_query,9
+565,,Errechnen Sie den Zeitunterschied zwischen der britischen und der russischen Zeitzone.,datetime_convert,4
+566,,"Sag mal, gibt's einen neuen Film mit Leonardo DiCaprio, den ich mir ansehen könnte?",recommendation_movies,7
+567,,Erstelle eine Email an unseren Kundenbetreuer und frag nach den neusten Produktinformationen.,email_sendemail,5
+568,,Um welche Uhrzeit ist es in Tokio wenn es hier fünf Uhr früh ist,datetime_convert,4
+569,,verringere bitte sofort die lautstärke,audio_volume_down,1
+570,,Teile meine Kollegen per Email mit dass das Meeting verschoben wurde.,email_sendemail,5
+571,,Wie hoch ist die Wahrscheinlichkeit von Regen heute in Berlin?,weather_query,9
+572,,"Könnte ich bitten, dass du die Lautstärke verringertest?",audio_volume_down,1
+573,,Ist es jetzt noch zu heiß zum Tragen eines Sommerkleids?,weather_query,9
+574,,Können Sie mir meine bevorstehenden Alarme anzeigen?,alarm_query,0
+575,,Gibt es noch offene Wecker für diese Woche?,alarm_query,0
+576,,änderen Sie die Zeitzone von Amsterdam auf die von Bangkok,datetime_convert,4
+577,,"das ist echt zu laut, könnten Sie die Lautstärke verringern",audio_volume_down,1
+578,,Ich benötige eine Übersicht über alle von mir gesetzten Wecker.,alarm_query,0
+579,,Habe ich bereits einen Wecker für meine Geburtstagsfeier gesetzt?,alarm_query,0
+580,,starte das nächste kapitell des aktuellen hörbuchs,play_audiobook,6
+581,,Wie ist die aktuelle Luftfeuchtigkeit in Stuttgart?,weather_query,9
+582,,"Zeig mir alle Alarme, die noch ausstehen.",alarm_query,0
+583,,Braucht man bei der Zubereitung von Sushi-Reis Essig?,cooking_recipe,3
+584,,"Kannst du mir helfen, ein Zugticket nach Köln zu buchen?",transport_ticket,8
+585,,Wie sieht die Wettervorhersage für das Wochenende aus?,weather_query,9
+586,,Buch mir bitte ein Ticket für den ICE nach Stuttgart morgen früh.,transport_ticket,8
+587,,Ich brauche ein Ticket für die Bahnfahrt nach Dresden am Wochenende.,transport_ticket,8
+588,,Wie ist die aktuelle Luftfeuchtigkeit in Frankfurt?,weather_query,9
+589,,Spiel das nächste Kapitel des aktuellen Hörbuchs,play_audiobook,6
+590,,Welcher Wecker wird als nächstes losgehen?,alarm_query,0
+591,,Erstelle eine Email an meine Kollegen und ladet sie zu einer Besprechung ein.,email_sendemail,5
+592,,In welchem Zeitunterchied liegt San Francisco im Vergleich zu Berlin,datetime_convert,4
+593,,Lese mir ein Kapitel aus einem beliebigen Hörbuch vor,play_audiobook,6
+594,,"Spiele das nächste Kapitel von ""Der Gott der kleinen Dingen""!",play_audiobook,6
+595,,Kannst du mir Zugtickets für nächsten Freitag besorgen?,transport_ticket,8
+596,,Welchen Wecker habe ich für meinen Feiertag gesetzt?,alarm_query,0
+597,,Schreib eine Email an meine Tante und wünsche ihr alles Gute zum Muttertag.,email_sendemail,5
+598,,welche zutaten brauche ich um einen leckeren curry zu machen,cooking_recipe,3
+599,,Ich suche nach einem Drama aus dem Jahr 2010. Kannst du mir etwas empfehlen?,recommendation_movies,7
+600,,rezepte für veganen chocolate chip cookieswanted,cooking_recipe,3
+601,,"Kann mir jemand sagen, wie ich den besten Bratenaufstrich mache?",cooking_recipe,3
+602,,"Kannst du mir sagen, wie spät es um fünfzehn Uhr in Deutschland ist, wenn es hier zehn Uhr vormittags ist?",datetime_convert,4
+603,,"Zeigen Sie mir alle Wecker, die ich gesetzt habe.",alarm_query,0
+604,,"Kannst du mir sagen, wie spät es um einundzwanzig Uhr in Moskau ist, wenn es hier neunzehn Uhr ist?",datetime_convert,4
+605,,"Was brauche ich alles, um gute Pommes Frites zuzubereiten?",cooking_recipe,3
+606,,"Setz die Wiedergabe des Hörbuchs ""Die Vermessung der Welt"" fort.",play_audiobook,6
+607,,Könntest Du mir meinen nächsten Wecker anzeigen?,alarm_query,0
+608,,"Spiel ""Das kalte Herz"" als nächstes.",play_audiobook,6
+609,,Wird es heiß heute in Hamburg?,weather_query,9
+610,,Welcher Wecker soll mich morgen früh wecken?,alarm_query,0
+611,,"Um wie viel Uhr würde es in Sydney sein, wenn es hier zwölf Uhr mittags ist",datetime_convert,4
+612,,Wie grille ich perfekte Steak?,cooking_recipe,3
+613,,"Spiele mir ein Kapitel aus ""Die Säge"" vor.",play_audiobook,6
+614,,"Können Sie mir sagen, welche Wecker aktiv sind?",alarm_query,0
+615,,welches öl eignet sich am besten zum braten von fisch,cooking_recipe,3
+616,,"Empfehl mir einen Film, den ich online streamen kann!",recommendation_movies,7
+617,,Wie kann ich schnellstmöglich ein Ticket für den Regionalzug nach Dresden bekommen?,transport_ticket,8
+618,,Brauchst du Hilfe bei der Buchung eines Flughafen-Zubringertickets?,transport_ticket,8
+619,,Wird es Ende dieser Woche sonnig in Berlin?,weather_query,9
+620,,Spiele Das Dschungelbuch von Rudyard Kipling,play_audiobook,6
+621,,Könntest du mal leiser stellen?,audio_volume_down,1
+622,,"Gibt es noch offene Wecker, die ich beachten sollte?",alarm_query,0
+623,,Welchen Alarm hast du für mich vor einer Stunde gesetzt?,alarm_query,0
+624,,Kaufen Sie mir bitte ein Bahnticket nach Hannover.,transport_ticket,8
+625,,Lösche den Termin am Dienstag.,calendar_remove,2
+626,,Ich suche Tickets für die Bahnfahrt von Berlin nach Hamburg.,transport_ticket,8
+627,,"Spiele das Buch ""Der Name der Rose""",play_audiobook,6
+628,,Starte den Audioplayer und spiele das letzte Buch weiter.,play_audiobook,6
+629,,Wie hoch ist die Regenwahrscheinlichkeit für Hamburg heute?,weather_query,9
+630,,Was ist das beste Rezept für selbstgemachte Nudeln?,cooking_recipe,3
+631,,Bitte entfernen Sie alle Einträge im Juni aus meinem Kalender.,calendar_remove,2
+632,,"Kannst du mir einige beliebte Filme vorschlagen, die ich unbedingt sehen muss?",recommendation_movies,7
+633,,Sende eine Email an meine Freunde und lad sie zum Wochenendtreffen ein.,email_sendemail,5
+634,,Öffne Audible und spiele das letzte Buch,play_audiobook,6
+635,,Kannst du den Termin bei Dr. Müller entfernen?,calendar_remove,2
+636,,"Kann mir jemand sagen, wie ich perfekte Pommes frites zubereite?",cooking_recipe,3
+637,,Gibt es einfache Rezepte für Kindergeburtstagstorte?,cooking_recipe,3
+638,,"Kann mir jemand sagen, wie man perfekte Pommes fritiert?",cooking_recipe,3
+639,,Wie viele Wecker habe ich aktuell gestellt?,alarm_query,0
+640,,Um wie viel Uhr ist es in Los Angeles wenn es hier neun Uhr vormittags ist,datetime_convert,4
+641,,Könntest du mir bitte meine gesetzten Wecker anzeigen?,alarm_query,0
+642,,Fahr mit dem letzten Hörbuch fort.,play_audiobook,6
+643,,Bitte entfernen Sie alle Einträge des laufenden Monats.,calendar_remove,2
+644,,suche nach einem einfachen rezept für selbstgemachte nudeln,cooking_recipe,3
+645,,Räume meinen ganzen Kalender leer.,calendar_remove,2
+646,,Wie backe ich die perfekte Apfelstrudel?,cooking_recipe,3
+647,,Erstelle einen Entwurf für eine Email an den Kunden und frag nach seinem Kaufinteresse.,email_sendemail,5
+648,,Wie hoch ist die Wahrscheinlichkeit von Schnee im März in München?,weather_query,9
+649,,Schreib' eine Email an Herrn Schmidt und bitte ihn um Rückmeldung zu seinem Anliegen.,email_sendemail,5
+650,,Könntest du mir bitte alle meiner Alarme anzeigen?,alarm_query,0
+651,,Sind alle meine Wecker für das Wochenende deaktiviert?,alarm_query,0
+652,,Sind meine Wecker für diese Woche bereits gesetzt?,alarm_query,0
+653,,"Wann würde es in Los Angeles sein, wenn es hier acht Uhr morgens ist",datetime_convert,4
+654,,Fahr mit dem letzten Kapitel des Hörbuchs fort.,play_audiobook,6
+655,,kannst du mir sagen welcher film letztes wochenende in den kino charts war,recommendation_movies,7
+656,,"Ich habe Fischfilet gekauft, aber wie grille ich es am besten?",cooking_recipe,3
+657,,Konvertiere die Uhrzeit von London nach Moskau,datetime_convert,4
+658,,"Welchen Film kann ich im Kino sehen, wenn ich Horrorfans bin?",recommendation_movies,7
+659,,Öffne Audible und spiele das letzte Buch weiter.,play_audiobook,6
+660,,Schicke eine Email an meine Kollegen und teile ihnen die Neuigkeiten mit.,email_sendemail,5
+661,,Bitte entfernen Sie alle Veranstaltungen der letzten Woche.,calendar_remove,2
+662,,"Entfernen Sie den Termin ""Geburtstag"" aus meinem Kalender.",calendar_remove,2
+663,,Wo finde ich ein gutes Rezept für selbstgemachte Pizza?,cooking_recipe,3
+664,,Buche mir ein Ticket für den nächsten ICE nach Frankfurt.,transport_ticket,8
+665,,"spiel mir ein Kapitel aus ""Rom""-Hörbuch vor",play_audiobook,6
+666,,Wie hoch ist die Wahrscheinlichkeit von Schnee in den nächsten Tagen?,weather_query,9
+667,,wie lange backt man einen kuchen bei 180 grad,cooking_recipe,3
+668,,"Kann mir jemand helfen, ein gutes Curry-Rezept zu finden?",cooking_recipe,3
+669,,Kannst du mir Zugtickets von Berlin nach Leipzig besorgen?,transport_ticket,8
+670,,Ich suche Tickets für den ICE nach Frankfurt am Main.,transport_ticket,8
+671,,Kann mir jemand ein einfaches Rezept für Hähnchensalat empfehlen?,cooking_recipe,3
+672,,"Kannst du mir sagen, wie kalt es heute in Berlin ist?",weather_query,9
+673,,Ändern Sie die Uhrzeit von Los Angeles auf die europäische Sommerzeit.,datetime_convert,4
+674,,Könntest du mir meine Alarme anzeigen?,alarm_query,0
+675,,Entwerfe eine Email an Herrn Müller und bitte um Rückmeldung zu unserem Angebot.,email_sendemail,5
+676,,Öffne Audible und spiele das letzte Hörbuch weiter,play_audiobook,6
+677,,Konvertieren Sie die Uhrzeit von GMT +1 auf CST.,datetime_convert,4
+678,,"Wenn es hier zehn Uhr vormittags ist, wie spät ist es dann in Buenos Aires?",datetime_convert,4
+679,,Änderen Sie die Zeitzone von Paris auf Tokio.,datetime_convert,4
+680,,Wie hoch ist die Wahrscheinlichkeit von Schnee im Februar in Berlin?,weather_query,9
+681,,Sende eine Email an unseren Kunden und bestätige den Termin für nächste Woche.,email_sendemail,5
+682,,wie mache ich selfmade pasta sauce ohne tomatenmark,cooking_recipe,3
+683,,"Spielt mir ein Kapitel aus ""Das kalte Herz"" vor",play_audiobook,6
+684,,Umrechne die Zeit von New York auf Berlin.,datetime_convert,4
+685,,Ich brauche ein Bahnticket von Hamburg nach Hannover für nächsten Freitag.,transport_ticket,8
+686,,Lies mir ein paar Minuten aus meinem aktuellen Hörbuch vor,play_audiobook,6
+687,,Wo finde ich ein traditionelles Rezept für Weihnachtsgurkensalat?,cooking_recipe,3
+688,,Wird es in den nächsten Tagen wieder sonnig in Berlin?,weather_query,9
+689,,Streichen Sie alle Ereignisse bis Ende des Monats,calendar_remove,2
+690,,Wie hoch ist die Wahrscheinlichkeit von Regen am Wochenende in Frankfurt?,weather_query,9
+691,,Sende eine kurze Nachricht an meine Mutter zum Geburtstag.,email_sendemail,5
+692,,Zeig mir die Verfügbarkeit von Tickets für den Zug nach Frankfurt am Wochenende.,transport_ticket,8
+693,,"Sag mal, welcher Film läuft gerade in meinem Kino?",recommendation_movies,7
+694,,Bitte entferne den Eintrag 'Geburtstagsfeier' aus meinem Kalender.,calendar_remove,2
+695,,"Gibt es einen Wecker, der bald losgeht?",alarm_query,0
+696,,Konvertiere die Uhrzeit von GMT+2 zu CST,datetime_convert,4
+697,,Wie hoch ist die Wahrscheinlichkeit von Regen in Hamburg heute?,weather_query,9
+698,,Löschen Sie bitte alle Termine dieser Woche.,calendar_remove,2
+699,,"Wie viel Uhr ist es in Sydney, wenn es hier zehn Uhr abends ist?",datetime_convert,4
+700,,"Kannst du mir helfen, indem du alle Eintragungen in meinem Kalender löschst?",calendar_remove,2
+701,,Könnten Sie mir bitte alle aktiven Wecker anzeigen?,alarm_query,0
+702,,Buch ein Ticket für den ICE nach Frankfurt am Main.,transport_ticket,8
+703,,Wird es noch einmal schneien in diesem Winter in den Alpen?,weather_query,9
+704,,Welche RomComs laufen aktuell in deutschen Kinos?,recommendation_movies,7
+705,,"Lese mir ein Hörbuch vor, bitte",play_audiobook,6
+706,,Was sagt die Vorhersage für das Wochenende aus?,weather_query,9
+707,,bräuchte ich einen film für heute abend,recommendation_movies,7
+708,,Kannst du mir bitte ein Bahnticket nach Frankfurt bestellen?,transport_ticket,8
+709,,"Die Musik ist viel zu laut, kannst du sie leiserstellen?",audio_volume_down,1
+710,,Ich möchte gerne das nächste Kapitel des aktuellen Hörbuchs hören.,play_audiobook,6
+711,,"Um welche Uhrzeit würde es sein, wenn man von Paris nach Tokio reist",datetime_convert,4
+712,,"Suggestieren Sie mir einen Action-Film, den ich noch nie gesehen habe.",recommendation_movies,7
+713,,Schicke eine Email an meine Kollegen und lad sie zu einem Meeting am Freitag ein!,email_sendemail,5
+714,,Um welche Uhrzeit ist es in Dubai wenn es hier neunzehn Uhr ist,datetime_convert,4
+715,,Sende eine Email an meine Freundin und lad' sie zum Abendessen ein!,email_sendemail,5
+716,,Streiche den Meeting-Termin am Dienstag.,calendar_remove,2
+717,,Wieviele Grad hat es aktuell in Hamburg?,weather_query,9
+718,,Was sagt die Wettervorhersage für den Rest der Woche aus?,weather_query,9
+719,,Entferne alle Veranstaltungen zwischen dem 10. und 15. Juni.,calendar_remove,2
+720,,"Wird es heiß genug, um ins Freibad zu gehen?",weather_query,9
+721,,Ich suche ein günstiges Ticket für den Zug nach Frankfurt am Main.,transport_ticket,8
+722,,"Kannst du mir sagen, ob es morgen regnen wird?",weather_query,9
+723,,setz die wiedergabe meines letzten gehörten hörbuchs fort,play_audiobook,6
+724,,Schicke eine Email an unseren Kundenbetreuer und frag nach den neusten Angeboten.,email_sendemail,5
+725,,Spiel den Anfang des Hörbuchs bitte erneut ab,play_audiobook,6
+726,,Wird es nächsten Dienstag sonnig in München sein?,weather_query,9
+727,,"Sagt mir, wann es wieder sonnig wird in Frankfurt?",weather_query,9
+728,,Um wie viel Uhr ist es in Tokio wenn es hier zehn Uhr abends ist,datetime_convert,4
+729,,"Wenn es jetzt neun Uhr früh ist in Paris, wie spät ist es dann in Buenos Aires?",datetime_convert,4
+730,,Bitte entfernen Sie alle Einträge zwischen dem 10. und 15. Mai.,calendar_remove,2
+731,,Welches Wetter kann ich für den Rest des Tages erwarten?,weather_query,9
+732,,Könntest du mir bitte alle meine Wecker anzeigen?,alarm_query,0
+733,,Buch mir ein Zugticket mit Platzreservierung nach Köln für morgen früh.,transport_ticket,8
+734,,Ich benötigte eine Übersicht über meine gesetzten Wecker.,alarm_query,0
+735,,brauche rezept für selbstgemachten marmorkäsekuchen,cooking_recipe,3
+736,,gibt es einfache rezepte für vegetarische pizzas,cooking_recipe,3
+737,,"Sagt mir, wann wir mit dem ersten Frühlingswetter rechnen können?",weather_query,9
+738,,Räume meinen gesamten Kalender auf.,calendar_remove,2
+739,,wiederhole das letzte kapitel des hörbuchs,play_audiobook,6
+740,,Gibt es ein gutes Rezept für selbstgemachte Pizza?,cooking_recipe,3
+741,,Wo finde ich ein einfaches Rezept für Spaghetti Bolognese?,cooking_recipe,3
+742,,Lösche den Termin morgen bitte.,calendar_remove,2
+743,,kannst du mir einen romantischen film empfehlen der gerade in den kino läuft,recommendation_movies,7
+744,,Löschen Sie bitte alle Termine für morgen.,calendar_remove,2
+745,,Ich suche ein günstiges Ticket für die Bahnfahrt nach Berlin.,transport_ticket,8
+746,,Ich suche nach einem neuen Sci-Fi-Film. Hast du eine Empfehlung?,recommendation_movies,7
+747,,"spiel das Hörbuch ""Der Gott der kleinen Dinge"" nochmal ab",play_audiobook,6
+748,,Lies mir ein Stück aus einem Hörbuch vor.,play_audiobook,6
+749,,Gibt es ein einfaches Rezept für selbstgemachte Nudeln?,cooking_recipe,3
+750,,"Sagt mir, wann die Sonne wieder scheint?",weather_query,9
+751,,"Könnten Sie mir sagen, wie spät es in Paris ist, wenn es hier zehn Uhr abends ist?",datetime_convert,4
+752,,Ändere die Zeitzone von Paris auf Tokio,datetime_convert,4
+753,,"Zeig mir bitte alle Alarme, die ich für diese Woche eingerichtet habe.",alarm_query,0
+754,,"Sag mir bitte, wie ich am schnellsten ein Ticket zum Hauptbahnhof bekomme.",transport_ticket,8
+755,,"Gibt es einen Wecker, der mich um sieben Uhr weckt?",alarm_query,0
+756,,Lösche den Termin bei Müller morgen,calendar_remove,2
+757,,Brauchst du Hilfe bei der Buchung eines Bahn-Tickets nach Frankfurt?,transport_ticket,8
+758,,Umrechnen Sie bitte die Uhrzeit von MEZ auf PST,datetime_convert,4
+759,,Ich suche ein Ticket für den Regionalzug nach Stuttgart morgen früh.,transport_ticket,8
+760,,"die Lautstärke ist echt zu hoch, könntest du sie ein wenig zurückfahren?",audio_volume_down,1
+761,,"Wie viel Uhr wäre es in Rio de Janeiro, wenn es hier drei Uhr nachmittags ist",datetime_convert,4
+762,,"Schicke eine Email an meinen Bruder und frag ihn, ob er nächste Woche Zeit hat.",email_sendemail,5
+763,,"Spiel ""Die Geschichte von Rom"" von Anfang an",play_audiobook,6
+764,,Buch mir bitte ein Ticket für die Bahnfahrt nach Stuttgart morgen früh.,transport_ticket,8
+765,,Ich suche ein günstiges Bahnticket nach Berlin für morgen früh.,transport_ticket,8
+766,,Wird es heute Nacht kalt genug für Frost sein?,weather_query,9
+767,,Ich suche Zugtickets für drei Personen von Frankfurt nach Köln.,transport_ticket,8
+768,,"Kannst du mir sagen, wenn es hier fünfzehn Uhr ist, wie viel Uhr ist es dann in Sydney",datetime_convert,4
+769,,vorschlag reduzieren sie die lautstärke um einige dekibel,audio_volume_down,1
+770,,Welche Filme haben letztes Wochenende die höchsten Bewertungen erhalten?,recommendation_movies,7
+771,,Sende bitte eine Email an meine Schwägerin und wünsche ihr alles Gute zum Geburtstag.,email_sendemail,5
+772,,Schreib eine Email an den Support und beschreibe dein Problem.,email_sendemail,5
+773,,Buch mir bitte ein Fahrticket für die Strecke Berlin-Hamburg.,transport_ticket,8
+774,,Kannst du mir sagen wie spät es ist wenn es hier neunzehn Uhr ist in Dubai,datetime_convert,4
+775,,"Empfehlung für einen guten Thriller, den ich an einem regnerischen Abend schauen kann?",recommendation_movies,7
+776,,Wo finde ich das perfekte Rezept für selbstgemachte Nudeln?,cooking_recipe,3
+777,,Lösche alle Veranstaltungen bis Ende des Monats.,calendar_remove,2
+778,,"Gibt es gute Filme mit Tom Hanks, die ich noch nicht gesehen habe?",recommendation_movies,7
+779,,Errechne den Zeitunterschied zwischen London und Rio de Janeiro.,datetime_convert,4
+780,,"Wie viel Uhr wäre es in Tokio, wenn es hier neunzehn Uhr fünfundvierzig ist",datetime_convert,4
+781,,es ist wirklich zu laut hier könnten sie die lautstärke reduzieren,audio_volume_down,1
+782,,Ich suche ein günstiges Zugticket von Berlin nach Dresden.,transport_ticket,8
+783,,Lösche den Termin bei Dr. Müller morgen bitte.,calendar_remove,2
+784,,Sind alle meiner Wecker korrekt eingestellt?,alarm_query,0
+785,,die geräuschpegel ist zu hoch senken sie ihn,audio_volume_down,1
+786,,"Könnten Sie mir sagen, wie ich ein Fahrschein für die U-Bahn bekomme?",transport_ticket,8
+787,,Habe ich bereits einen Wecker für das Wochenende gestellt?,alarm_query,0
+788,,"Wird es heiß genug, dass ich meine Shorts anziehen kann?",weather_query,9
+789,,"Sag mir, wie viel kostet ein Zugticket nach Hannover?",transport_ticket,8
+790,,Welchen Film würde dir für eine gemütliche Abendveranstaltung empfehlen?,recommendation_movies,7
+791,,Wann würde es sein wenn man von der britischen Sommerzeit auf die Mitteleuropäische Zeit umschaltet?,datetime_convert,4
+792,,Entferne den Termin mit Anna vom letzten Freitag.,calendar_remove,2
+793,,"Sagt mir, wann der nächste Schnee in den Alpen kommt?",weather_query,9
+794,,Spiele Das Dschungelbuch für mich,play_audiobook,6
+795,,rezept für cremigen kartoffelsalat mit Gurke und Zwiebeln,cooking_recipe,3
+796,,"Empfehl mir einen aktuellen Sci-Fi-Film, den ich auf Netflix finden kann!",recommendation_movies,7
+797,,Welcher Wecker ist als nächstes fällig?,alarm_query,0
+798,,Zeig mir bitte meine für morgen geplanten Wecker!,alarm_query,0
+799,,Ich möchte dass du alle Veranstaltungstermine entfernst.,calendar_remove,2
+800,,den sound bitte nicht so laut,audio_volume_down,1
+801,,Welches sind die aktuellen Wetterbedingungen in Hamburg?,weather_query,9
+802,,Gibt es eine Chance auf Regen heute Abend?,weather_query,9
+803,,"Lautstärke reduzieren, es ist mir zu laut",audio_volume_down,1
+804,,"das ist mir zu laut, können Sie die Lautstärke senken?",audio_volume_down,1
+805,,Habe ich bereits einen Wecker für das Wochenende gesetzt?,alarm_query,0
+806,,"Spiel ein paar Minuten von ""Die Säge"" weiter.",play_audiobook,6
+807,,"Sag mal, gibt es einen neuen Action-Film, der sich lohnt anzusehen?",recommendation_movies,7
+808,,Gibt es gute Filme aus dem Jahr 2022 die ich noch nicht gesehen habe?,recommendation_movies,7
+809,,Schreib eine Email an deinen Bruder und frag nach seinem Urlaub.,email_sendemail,5
+810,,Habe ich bereits einen Wecker für morgen früh gestellt?,alarm_query,0
+811,,Ich brauche ein Bahnticket nach Hannover für morgen früh.,transport_ticket,8
+812,,weißt du einen romantischen film der gerade im kino läuft,recommendation_movies,7
+813,,Antworte auf die Email von Herrn Schmidt und bestätige den Termin.,email_sendemail,5
+814,,"Wie viel Uhr wäre es in Rio de Janeiro, wenn es hier neunzehn Uhr abends ist",datetime_convert,4
+815,,"Lese mir ein Kapitel aus ""Der Gott der kleinen Dinge"" vor",play_audiobook,6
+816,,Zeig mir alle aktiven Wecker!,alarm_query,0
+817,,"Sag mir drei Dramen, die ich unbedingt sehen muss!",recommendation_movies,7
+818,,Löschen Sie alle Ereignisse bis Ende Juni.,calendar_remove,2
+819,,Könntest du bitte nicht so laut sein?,audio_volume_down,1
+820,,Löschen Sie bitte alle Ereignisse zwischen dem 10. und 15. Juli.,calendar_remove,2
+821,,"leise stellen, bitte",audio_volume_down,1
+822,,"Kannst du mir helfen, indem du den Termin bei Müller löscht?",calendar_remove,2
+823,,"Kann mir jemand sagen, wie man perfekte Pommes frit macht?",cooking_recipe,3
+824,,Wieviele Stunden Unterschied gibt es zwischen London und Los Angeles wenn es dort elf Uhr vormittags ist,datetime_convert,4
+825,,Gibt es eine Chance auf Regen im Laufe des Tages?,weather_query,9
+826,,"Spielen Sie ""Das Parfüm"" bitte weiter",play_audiobook,6
+827,,Spiele mir ein beliebiges Hörbuch vor.,play_audiobook,6
+828,,empfehlung eines films mit tom hanks,recommendation_movies,7
+829,,"Könnten Sie mir helfen, ein Ticket für die Bahn nach Dresden zu kaufen?",transport_ticket,8
+830,,Ich suche Zugtickets von Berlin nach Hamburg für morgen früh.,transport_ticket,8
+831,,"Zeigt mir alle Wecker, die ich bis jetzt gesetzt habe.",alarm_query,0
+832,,Wie grille ich perfekte Steak zum Mittagessen?,cooking_recipe,3
+833,,"Spiel das Hörbuch ""Die drei Fragezeichen"" an.",play_audiobook,6
+834,,Kürze die Sitzung am Dienstag weg.,calendar_remove,2
+835,,Gibt es einen Wecker für meine heutigen Termine?,alarm_query,0
+836,,Wie hoch ist die Wahrscheinlichkeit von Sonne am Wochenende in Berlin?,weather_query,9
+837,,vollständig stumm schalten oder wenigstens leiser,audio_volume_down,1
+838,,wie lange dauert es bis kartoffeln gar sind,cooking_recipe,3
+839,,das ist einfach zu laut mach es bitte leiser,audio_volume_down,1
+840,,Änder die Uhrzeit von Tokio auf München.,datetime_convert,4
+841,,"Kannst du mir helfen, ein Ticket für den ICE nach Frankfurt zu buchen?",transport_ticket,8
+842,,Welcher Wecker ist als nächstes aktiviert?,alarm_query,0
+843,,Ich suche ein günstiges Ticket für den Regionalzug nach Frankfurt.,transport_ticket,8
+844,,Könntest Du mir bitte alle meiner aktuellen Wecker anzeigen?,alarm_query,0
+845,,Welcher Wecker ist für den heutigen Tag eingestellt?,alarm_query,0
+846,,Welche Filme sind aktuell sehr beliebt und laufen in den Kinos in München?,recommendation_movies,7
+847,,Entfernen Sie den Arztbesuch kommenden Dienstag,calendar_remove,2
+848,,Rezepte gesucht: Schnelle und einfache Gerichte mit Hähnchen!,cooking_recipe,3
+849,,"Kannst du mir sagen, ob es am Wochenende regnen wird?",weather_query,9
+850,,"Gibt es aktuell gute Filme in 3D, die ich sehen sollte?",recommendation_movies,7
+851,,Öffne Audible und spiele mein aktuelles Hörbuch weiter,play_audiobook,6
+852,,"Kannst du mir sagen, welche Alarmanlagen ich eingerichtet habe?",alarm_query,0
+853,,Bitte streichen Sie den Termin am kommenden Freitag.,calendar_remove,2
+854,,Gibt es eine Chance auf Sonne am Wochenende in Hamburg?,weather_query,9
+855,,Brauche einen Filmvorschlag für meine Freunde und mich.,recommendation_movies,7
+856,,Einkehren Sie mir bitte ein Ticket für den Regionalzug nach Leipzig.,transport_ticket,8
+857,,"Sende eine kurze Nachricht an meinen Bruder und frag' ihn, ob er zum Wochenende kommt.",email_sendemail,5
+858,,Ich suche nach einem Action-Film aus dem Jahr 2022. Kannst du mir einen empfehlen?,recommendation_movies,7
+859,,Löschen Sie die Veranstaltung am Wochenende aus meinem Kalender.,calendar_remove,2
+860,,Zeig mir die Verfügbarkeit von Tickets für den ICE nach Stuttgart.,transport_ticket,8
+861,,spiel das neue hörbuch von ulrich herbert,play_audiobook,6
+862,,Die Lautstärke könnte etwas niedriger sein,audio_volume_down,1
+863,,Was sagt die Wettervorhersage für Hamburg für die nächsten Tage?,weather_query,9
+864,,Sende eine Email an Frau Müller und frag sie nach den aktuellen Preisen!,email_sendemail,5
+865,,Alle Einträge im Kalender sollten gelöscht werden.,calendar_remove,2
+866,,Erstelle einen Entwurf für eine Email an unseren Kunden und schließe unsere Angebote ein!,email_sendemail,5
+867,,Lies das nächste Kapitel des aktuellen Hörbuchs vor,play_audiobook,6
+868,,Welche RomComs laufen gerade in Hamburg?,recommendation_movies,7
+869,,Zeig mir alle meine aktiven Wecker!,alarm_query,0
+870,,Ich suche ein günstiges Ticket für die Fahrt nach Frankfurt am Sonntag.,transport_ticket,8
+871,,"Spiele das Buch ""Der Name der Rose"" weiter.",play_audiobook,6
+872,,Sind meine heutigen Wecker noch aktiv?,alarm_query,0
+873,,wie mache ich selbstgemachtes currypulver,cooking_recipe,3
+874,,bitte stell die Lautstärke um einige Dezibel herunter,audio_volume_down,1
+875,,Schicke eine Email an das Team und verteile die neu erstellten Dokumente.,email_sendemail,5
+876,,Bitte entfernen Sie alle Einträge bis Ende des Monats,calendar_remove,2
+877,,"Kannst du mir sagen, wie kalt es morgen früh sein wird?",weather_query,9
+878,,Für nächsten Freitag benötigte ich ein Zugticket nach Stuttgart.,transport_ticket,8
+879,,Wie spät ist es in Dubai wenn es hier fünf Uhr nachmittags ist,datetime_convert,4
+880,,Sende eine Email an Herrn Müller und erinnere ihn an das Meeting morgen!,email_sendemail,5
+881,,Senden Sie bitte eine Email an unsere Marketing-Abteilung und bitten um Unterstützung bei unserem aktuellen Projekt.,email_sendemail,5
+882,,Starte mein letztes Hörbuch erneut,play_audiobook,6
+883,,Ändern Sie die Zeitzone von Paris auf Tokio.,datetime_convert,4
+884,,"Gibt es neue Veröffentlichungen, die ich unbedingt sehen sollte?",recommendation_movies,7
+885,,Welcher Wecker wird morgen früh losgehen?,alarm_query,0
+886,,Bitte streichen Sie alle Veranstaltungen für diesen Monat.,calendar_remove,2
+887,,Streich die Konferenz am Freitag aus meinem Kalender.,calendar_remove,2
+888,,Wie lautet die aktuelle Wettervorhersage für Berlin?,weather_query,9
+889,,"Lautstärke ein bisschen senken, wenn möglich",audio_volume_down,1
+890,,senke die tonlage um einige niveaus,audio_volume_down,1
+891,,Um welche Uhrzeit ist es in Rio de Janeiro wenn es hier zehn Uhr abends ist?,datetime_convert,4
+892,,Löschen Sie alle Termine dieser Woche,calendar_remove,2
+893,,"Um welche Uhrzeit würde es sein, wenn es hier zehn Uhr abends ist und ich möchte wissen, wie spät es dann in Sydney wäre",datetime_convert,4
+894,,gibt es einen neuen film mit tom hanks,recommendation_movies,7
+895,,"Sag mal, gibt es einen neuen Sci-Fi-Film, der gerade in Hamburg läuft?",recommendation_movies,7
+896,,Gibt es eine Chance auf Schnee in den nächsten Tagen?,weather_query,9
+897,,"Teile meine Schwester per Email mit, dass ich heute Abend später komme.",email_sendemail,5
+898,,lautstärke zurückfahren,audio_volume_down,1
+899,,"die Musik ist zu laut, stell sie leiser",audio_volume_down,1
+900,,Bitte berechnen Sie den Zeitunterschied zwischen Tokio und London,datetime_convert,4
+901,,"Spiel ein Stück aus ""Die Verwandlung""",play_audiobook,6
+902,,Senden Sie bitte eine Erinnerungs-Email an alle Teilnehmer der Konferenz.,email_sendemail,5
+903,,Ich möchte alle Veranstaltungen dieses Monats streichen lassen.,calendar_remove,2
+904,,Wo finde ich das Original-Rezept für die Wiener Torte?,cooking_recipe,3
+905,,Kannst du mir sagen wie spät es ist wenn es hier neun Uhr vormittags ist in Sydney,datetime_convert,4
+906,,mache es bitte nicht so laut,audio_volume_down,1
+907,,"Sag mir, welcher Thriller aktuell in den Kinos läuft und sehr beliebt ist?",recommendation_movies,7
+908,,mir ist es hier zu laut könnte ich bitten die lautstärke anzupassen,audio_volume_down,1
+909,,Rezepte für vegetarischen Chili gesucht!,cooking_recipe,3
+910,,Lösche alle Ereignisse des Monats Juni aus meinem Kalender.,calendar_remove,2
+911,,"Gibt es aktuell einen guten Sci-Fi-Film, den ich sehen sollte?",recommendation_movies,7
+912,,das ist echt zu laut mach mal leiser,audio_volume_down,1
+913,,"Sagt mir, wie das Wetter in Frankfurt am Wochenende aussieht?",weather_query,9
+914,,Könnten Sie mir bitte meine nächste Weckezeit anzeigen?,alarm_query,0
+915,,"Kannst du mir sagen, wie hoch die Temperatur heute in Hamburg ist?",weather_query,9
+916,,Könnten Sie mir sagen wie spät es um zehn Uhr vormittags in Madrid ist im Vergleich zu Berlin?,datetime_convert,4
+917,,Welcher Alarm ist auf meinem Handy aktiviert?,alarm_query,0
+918,,zu laut kannst du das bitte ein bisschen leiser stellen,audio_volume_down,1
+919,,starte eine neue email an unseren verein und melde dich für das turnier an,email_sendemail,5
+920,,gibt es einfache rezepte für einen leckeren salat,cooking_recipe,3
+921,,Erstelle eine Email an unseren Kunden und sende unsere Angebote.,email_sendemail,5
+922,,Könnten Sie mir alle meiner aktuellen Wecker anzeigen?,alarm_query,0
+923,,Wie backe ich die besten Brötchen aller Zeiten?,cooking_recipe,3
+924,,Könnten Sie bitte meine aktuellen Wecker anzeigen?,alarm_query,0
+925,,Entwirf eine Antwort auf die Email von Herrn Schmitz und kläre das Missverständnis auf!,email_sendemail,5
+926,,"Spiele ein Kapitel aus ""Das Dschungelbuch"" für mich.",play_audiobook,6
+927,,Erstelle eine Email an meine Kollegen und teile ihnen das Meeting am Freitag mit.,email_sendemail,5
+928,,starte das neue kapitell des hörbuchs über Geschichte,play_audiobook,6
+929,,Kannst du mir alle meiner Wecker anzeigen?,alarm_query,0
+930,,"Wie viel Uhr ist es in Sydney, wenn es hier neun Uhr vormittags ist?",datetime_convert,4
+931,,Ich suche ein Rezept für selbstgemachte Nudeln.,cooking_recipe,3
+932,,Wie zubereite ich leckeres Gemüsecurry mit Kartoffeln und Karotten?,cooking_recipe,3
+933,,Spielen Sie bitte ein Stunden lang Geschichte weiter,play_audiobook,6
+934,,verringere die lautstärke um einige grad,audio_volume_down,1
+935,,"Wenn es hier neunzehn Uhr ist, wie spät ist es dann in Sydney?",datetime_convert,4
+936,,Wie viel Uhr ist es in Sydney wenn es hier zehn Uhr abends ist?,datetime_convert,4
+937,,Kann mir jemand ein einfaches Rezept für Spätzle geben?,cooking_recipe,3
+938,,"verringere die musik etwas, sie ist zu laut",audio_volume_down,1
+939,,"Letztere Einstellung war zu laut, reduziere die Lautstärke",audio_volume_down,1
+940,,Lösche alle Veranstaltungstermine bis Ende des Monats.,calendar_remove,2
+941,,"Teile meiner Mutter per Email mit, dass ich morgen zu Besuch komme.",email_sendemail,5
+942,,mach den hörbuchfortschritt weiter,play_audiobook,6
+943,,spiel mir ein beliebiges hörbuch vor,play_audiobook,6
+944,,Hast du meinen Morgewecker bereits auf 7 Uhr gestellt?,alarm_query,0
+945,,"Ich möchte gerne wissen, ob mein Wecker bereits aktiviert wurde.",alarm_query,0
+946,,Senden Sie eine Email an Herrn Müller und bitten Sie um Rückmeldung bis Ende der Woche.,email_sendemail,5
+947,,Wie hoch ist die Wahrscheinlichkeit von Regen heute Abend?,weather_query,9
+948,,"Empfehl mir einen Film mit Leonardo DiCaprio, den ich noch nicht gesehen habe.",recommendation_movies,7
+949,,Löschen Sie bitte alle Termine bis Ende des Monats.,calendar_remove,2
+950,,Entferne den Geburtstags-Eintrag meiner Schwester vom letzten Wochenende.,calendar_remove,2
+951,,Wie hoch ist die Wahrscheinlichkeit von Regen in Stuttgart heute?,weather_query,9
+952,,"Empfehle mir einen Film, der auf Netflix verfügbar ist!",recommendation_movies,7
+953,,"Gibt es einen neuen Sci-Fi-Film, den ich unbedingt sehen muss?",recommendation_movies,7
+954,,die lautstärke zurückfahren,audio_volume_down,1
+955,,Lösche bitte das Meeting mit der Marketing-Abteilung am Freitag.,calendar_remove,2
+956,,"Kann mir jemand sagen, wie man richtig Risotto zubereitet?",cooking_recipe,3
+957,,Rezept gesucht: Schnelle und einfache Pasta mit Tomatensauce!,cooking_recipe,3
+958,,Gibt es einen Wecker für meinen Termin um 14 Uhr?,alarm_query,0
+959,,Welchen Wecker habe ich für heute Abend gesetzt?,alarm_query,0
+960,,"Lese mir ""Die Geschichte von Rom"" vor, bitte!",play_audiobook,6
+961,,"Kannst du mir sagen, ob es heute regnet?",weather_query,9
+962,,Ändere die Zeitzone von Paris auf Sydney,datetime_convert,4
+963,,Gibt es eine Chance auf Schnee im Januar in München?,weather_query,9
+964,,Bitte sende eine Email an meine Kollegen und teile ihnen die neuesten Informationen über das Projekt mit.,email_sendemail,5
+965,,wie koche ich die perfekten nudeln für mein lieblingsgericht,cooking_recipe,3
+966,,Sende eine Email an unseren Kunden und bestätige den Termin für morgen.,email_sendemail,5
+967,,Gibt es noch offene Alarme für mich?,alarm_query,0
+968,,brauche ein rezept für französisch toast mit avocado und ei,cooking_recipe,3
+969,,Welcher Film ist aktuell sehr beliebt und wird in meinem Kino gezeigt?,recommendation_movies,7
+970,,Buche ein Ticket für mich und meine Freundin von Hamburg nach Hannover.,transport_ticket,8
+971,,Gibt es eine Chance auf Regen morgen?,weather_query,9
+972,,"fahr mit dem Hörbuch ""Das Dschungelbuch"" fort",play_audiobook,6
+973,,"Wenn es gerade neunzehn Uhr ist, wie spät ist es dann in Buenos Aires",datetime_convert,4
+974,,"Kannst du mir helfen, ein Bahnticket nach Köln zu buchen?",transport_ticket,8
+975,,Lösche bitte mein gesamtes Terminprogramm.,calendar_remove,2
+976,,Ich brauche ein Zugticket für die Fahrt nach Stuttgart am Wochenende.,transport_ticket,8
+977,,Kürzen Sie alle Termine bis zum Ende der Woche,calendar_remove,2
+978,,Sende eine Email an den Kunden und teile ihm unsere Entscheidung zum Projekt mit.,email_sendemail,5
+979,,Erstelle eine Email an unseren Kunden und teile ihm unsere Entscheidung mit.,email_sendemail,5
+980,,Fahr mit dem letzten Hörbuch fort,play_audiobook,6
+981,,Fahr mit dem letzten Kapitel des Romans fort,play_audiobook,6
+982,,Zeig mir alle gestellten Wecker!,alarm_query,0
+983,,Entfernen Sie bitte alle Ereignisse zwischen dem 10. und 15. dieses Monats.,calendar_remove,2
+984,,Ändere die Zeitzone von MEZ auf PST.,datetime_convert,4
+985,,Empfehl mir einen Film mit Leonardo DiCaprio!,recommendation_movies,7
+986,,Ich suche ein günstiges Zug-Ticket nach Stuttgart.,transport_ticket,8
+987,,"Wenn es gerade neunzehn Uhr fünfundvierzig in Moskau ist, welche Uhrzeit hat man dann in Paris",datetime_convert,4
+988,,Ich brauche eine Übersicht über alle von mir gesetzten Wecker.,alarm_query,0
+989,,die musik ist zu laut könnten sie bitte leiser machen,audio_volume_down,1
+990,,Sende eine kurze Nachricht an Anna und frag sie nach ihrem Geburtstag.,email_sendemail,5
+991,,Gibt es eine Vorhersage für das Wochenende in München?,weather_query,9
+992,,"Weiter mit dem Hörbuch, das ich zuletzt gehört habe!",play_audiobook,6
+993,,"Gibt es ein Rezept, um selbst Nougat herzustellen?",cooking_recipe,3
+994,,Streichen Sie den Termin mit Frau Müller am Freitag.,calendar_remove,2
+995,,höre das letzte gelesene kapitell noch einmal an,play_audiobook,6
+996,,Buch bitte ein Zugticket für mich und meine Freundin nach Köln.,transport_ticket,8

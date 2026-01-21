@@ -1,0 +1,2028 @@
+,id,text,intent,label
+0,8332,lösche meine workout heute,calendar_remove,2
+1,16194,bitte sende eine email an lisa,email_sendemail,5
+2,5936,brauche ich heute meinen hut,weather_query,9
+3,9682,spiel harry potter von dem punkt wo ich zuletzt gestoppt hab siri,play_audiobook,6
+4,1485,zeige alle wecker,alarm_query,0
+5,2248,hat sich das wetter für mittwoch überhaupt geändert,weather_query,9
+6,16681,email abendessen heute nacht gestern mit tina,email_sendemail,5
+7,9092,entferne alle termine im kalender,calendar_remove,2
+8,10106,zeig mir das rezept für hühnchen tandoori,cooking_recipe,3
+9,2956,welche zeit haben meine wecker,alarm_query,0
+10,8855,bitte lösche alle termine im kalender,calendar_remove,2
+11,3344,zu welcher zeit stehe ich morgen auf,alarm_query,0
+12,1781,kann ich das wetter von da wisssen,weather_query,9
+13,11900,spiel einen film ab der mir gefällt,recommendation_movies,7
+14,9886,fange das hörbuch heaven is for real von vorne an,play_audiobook,6
+15,5737,sag mir die alarm zeiten für die nächsten zwei tage,alarm_query,0
+16,8283,bitte leere meinen kalender,calendar_remove,2
+17,285,wird es morgen windig werden,weather_query,9
+18,3795,wieviel grad sind es gerade in münchen,weather_query,9
+19,1633,zeige mir meine wecker,alarm_query,0
+20,7996,lösche meinen kommenden termin im kalender,calendar_remove,2
+21,16868,erreiche meine familie via mail,email_sendemail,5
+22,2292,wird es heute sonnig,weather_query,9
+23,1662,wie ist die zeitdifferenz zwischen new york und berlin,datetime_convert,4
+24,15992,bitte schicke ashwin patel meine besten wünsche und das arbeitspdf im anhang als email,email_sendemail,5
+25,4099,nur um zu bestätigen dass du den wecker auf acht uhr gestellt hast,alarm_query,0
+26,1106,ich möchte das wetter aus bremen wissen,weather_query,9
+27,6165,sollte ich heute sonnenblocker auftragen,weather_query,9
+28,1389,wie wird das wetter am samstag werden,weather_query,9
+29,12379,buche ein zug ticket von berlin nach münchen,transport_ticket,8
+30,6152,finde bitte die heutige vorhersage,weather_query,9
+31,12574,buche ein ticket nach berlin mit dem zug,transport_ticket,8
+32,2051,sage mir den heutigen wetterbericht für münchen,weather_query,9
+33,11735,ist swat ein guter film,recommendation_movies,7
+34,9887,ich möchte das hörbuch good grief abspielen,play_audiobook,6
+35,8087,kann ich die erinnerung löschen,calendar_remove,2
+36,6048,sollte ich heute abend handschuhe anziehen,weather_query,9
+37,12671,buche mir einen zug für den zweiundzwanzigsten märz um zwölf uhr nachts,transport_ticket,8
+38,10167,finde ein rezept für apfelkuchen,cooking_recipe,3
+39,5589,finde den wetter bericht,weather_query,9
+40,347,was ist die morgige vorhersage,weather_query,9
+41,10243,suche nach rezept und anleitung für dieses gericht,cooking_recipe,3
+42,3244,lass mich wissen wie das wetter heute ist,weather_query,9
+43,8744,kannst du die veranstaltung löschen zu der ich eingeladen war,calendar_remove,2
+44,12129,buche mir ein ticket für einen zug von hamburg nach hannover heute in zwei tagen,transport_ticket,8
+45,16208,email an tom mit dem datum und der zeit für die morgige besprechung,email_sendemail,5
+46,9925,wie lange muss ich das ei kochen,cooking_recipe,3
+47,10131,wie lang soll ich hühnchen kochen,cooking_recipe,3
+48,2895,lautsprecher leiser machen,audio_volume_down,1
+49,3035,olly wetterverhältnisse für den nächsten tag,weather_query,9
+50,5663,brauche ich eine jacke am abend,weather_query,9
+51,5602,wird es diese woche schön draußen,weather_query,9
+52,10007,olly zeig die methode zur zubereitung von eiscreme,cooking_recipe,3
+53,12157,besorg mir einen bahn fahrschein um zu fahren nach,transport_ticket,8
+54,9717,spiele animal farm,play_audiobook,6
+55,10084,was wäre eine alternative zu mehl,cooking_recipe,3
+56,6971,veranstaltung absagen,calendar_remove,2
+57,8147,entferne das konzert aus den veranstaltungen im kalender,calendar_remove,2
+58,5924,bitte lautstärke verringern,audio_volume_down,1
+59,6733,buche in einer halben stunde ein taxi nach köln,calendar_remove,2
+60,3584,was sind die nächsten drei wecker die klingeln werden,alarm_query,0
+61,3963,gibt es irgendwelche alarme für heute,alarm_query,0
+62,8844,lösche alle details aus meinem kalender,calendar_remove,2
+63,1969,heute ist ein sonniger tag oder nicht,weather_query,9
+64,14299,lesen das ticket für tesla,transport_ticket,8
+65,2856,ist es sonnig heute,weather_query,9
+66,4374,gestellte wecker überprüfen,alarm_query,0
+67,7361,geburtstag veranstaltungen,calendar_remove,2
+68,9967,wie kocht man am besten pasta,cooking_recipe,3
+69,11702,zeig mir das nächste kino,recommendation_movies,7
+70,9818,gebe mir die zusammenfassung der neuesten veröffentlichung des hörbuchs,play_audiobook,6
+71,5720,zeige mir das morgige wetter in dieser gegend,weather_query,9
+72,6117,wetterbericht der woche,weather_query,9
+73,16690,antworte auf jens neue email,email_sendemail,5
+74,3506,was ist die heutige wettervorhersage,weather_query,9
+75,4943,bitte softer sprechen,audio_volume_down,1
+76,9944,was ist das beste rezept für tacos,cooking_recipe,3
+77,8099,hi google lösche das abendessen am donnerstag,calendar_remove,2
+78,9080,alle meeting heute löschen,calendar_remove,2
+79,16943,schicke email an großmutter mit dem betreff samstagsnachricht wir kommen am samstag vorbei bis dann,email_sendemail,5
+80,9089,kalender für den monat löschen,calendar_remove,2
+81,12605,suche mir das früheste zug ticket ab freitag morgen zu dresden,transport_ticket,8
+82,16177,beantworte diese email,email_sendemail,5
+83,9090,lösche alle veranstaltungen,calendar_remove,2
+84,15940,antworte auf die neueste email,email_sendemail,5
+85,4901,medien lautstärke runter,audio_volume_down,1
+86,6853,gehe zur nächsten veranstaltung im kalender und lösche diese,calendar_remove,2
+87,398,wird es morgen warm,weather_query,9
+88,7435,lösche meinem veranstaltung,calendar_remove,2
+89,9963,komische dinge die leute wissen wollen,cooking_recipe,3
+90,12507,ich möchte ein zug ticket nach münchen,transport_ticket,8
+91,1321,wie sieht es heute beim wetter aus,weather_query,9
+92,3703,welche wecker sind für diese woche gestellt,alarm_query,0
+93,10034,wie macht man einen burger,cooking_recipe,3
+94,16537,jetzt muss ich meinem kollegen eine email schreiben,email_sendemail,5
+95,16508,füge neuen kontakt hinzu und sende email,email_sendemail,5
+96,17150,alexa ich möchte julia's termine wissen würdest du ihr eine mail senden und sie fragen,email_sendemail,5
+97,3979,ist es jetzt gerade heiß draußen ich bin in hamburg,weather_query,9
+98,9671,spiele frauverliebt wo ich zuletzt aufgehört habe,play_audiobook,6
+99,10026,google die schritte um das gericht zuzubereiten,cooking_recipe,3
+100,3897,wie wird das wetter in münchen am sechzehnten märz,weather_query,9
+101,6872,kannst du die aktuelle veranstaltung löschen,calendar_remove,2
+102,7913,entferne die veranstaltung vom montag,calendar_remove,2
+103,5360,in welcher zeitzone befinden wir uns bitte ändere es auf die aktuelle,datetime_convert,4
+104,10040,was ist ein keks rezept,cooking_recipe,3
+105,16087,beginne eine neue email an jan schmitz,email_sendemail,5
+106,10060,wie lange muss ich eine rinderbrust kochen,cooking_recipe,3
+107,2328,was ist die höchsttemperatur für heute,weather_query,9
+108,4218,sollte ich heute überschuhe tragen,weather_query,9
+109,16064,schick email an peter und frag ihn wo er gerade ist und wenn er auf dem markt ist soll er wein mitbringen,email_sendemail,5
+110,16507,schick eine email an die neue emailadresse,email_sendemail,5
+111,9937,ich hab etwas lachs wie bereite ich das zu,cooking_recipe,3
+112,3800,wie wird das wetter morgen in berlin,weather_query,9
+113,2916,wie ist das wetter an diesem und dem tag,weather_query,9
+114,9957,wie lange sollte man ein ganzes huhn in einem ofen mit dreihundertfünfundsiebzig grad garen,cooking_recipe,3
+115,10227,welche zubereitungsmethode gibt es für hähnchen fünfundsechzig,cooking_recipe,3
+116,181,ist es jetzt am regnen,weather_query,9
+117,16675,sende joejoe at gmail dot com eine email,email_sendemail,5
+118,3783,wie sieht das wetter in köln aus,weather_query,9
+119,16397,kannst du die email an georg senden,email_sendemail,5
+120,9865,spiel dieses hörbuch für mich ab,play_audiobook,6
+121,17149,ich möchte prüfen an welchen daten julia verfügbar ist würdest du ihr eine email senden und sie fragen,email_sendemail,5
+122,1130,wird es später heute regnen,weather_query,9
+123,12287,zug suchen eintrittskarten zu gotha morgen,transport_ticket,8
+124,7737,entferne walters geburtstagsfeier von meinem kalender,calendar_remove,2
+125,12226,kauf ein zug ticket,transport_ticket,8
+126,16189,schick email an meinen onkel bezüglich der aktuellen wettersituation,email_sendemail,5
+127,5466,muss ich sonnencreme benutzen bevor ich mich mit meinem freund treffen werde zum mittagessen,weather_query,9
+128,14990,gebe das wetter in unserer stadt an,weather_query,9
+129,5241,hattest du den wecker für fünf uhr eingestellt,alarm_query,0
+130,4561,kannst du meine zeitzone von mitteleuropäischer zu osteuropäischer ändern,datetime_convert,4
+131,6047,brauche ich diesen morgen eine winterjacke,weather_query,9
+132,5112,brauche ich den tag danach einen regenmantel,weather_query,9
+133,10067,wie mache ich stampfkartoffeln,cooking_recipe,3
+134,9845,setze mein gegenwärtiges hörbuch fort,play_audiobook,6
+135,9819,hol mir die zusammenfassung des bestseller hörbuchs von diesem monat,play_audiobook,6
+136,8009,ändere meinen plan lösche meinen nächsten termin,calendar_remove,2
+137,4204,gibt es diese woche schnee,weather_query,9
+138,16498,schick eine erinnerung email,email_sendemail,5
+139,789,wie war diese woche das wetter,weather_query,9
+140,8772,lösche den ausflug für den vierten juli,calendar_remove,2
+141,7297,nimm meinen kalender und lösche alles,calendar_remove,2
+142,16117,email arbeitsteam den zeitplan dieser woche,email_sendemail,5
+143,2240,wettervorhersage für diese woche,weather_query,9
+144,9847,spiele das album hörbuch,play_audiobook,6
+145,8816,geh zum jahr der veranstaltungen und lösche,calendar_remove,2
+146,9776,starte mein hörbuch von da wo ich aufgehört habe,play_audiobook,6
+147,2826,wie viele wecker habe ich gestellt,alarm_query,0
+148,846,welche alarme wecken mich morgen früh,alarm_query,0
+149,17025,schreib mutter eine email und frag wie das wetter diese woche ist,email_sendemail,5
+150,3555,wird es heute nacht windig werden,weather_query,9
+151,5700,kann ich meine kleidung auf der leine trocknen,weather_query,9
+152,8471,entferne alle termine des letzten monats aus dem kalender,calendar_remove,2
+153,5736,zeige mir welche alarm zeiten ich für diese woche eingestellt habe,alarm_query,0
+154,9100,arzttermin am zwölften februar,calendar_remove,2
+155,6128,sollte ich schneeschuhe mitbringen,weather_query,9
+156,15840,schick eine email an rainer,email_sendemail,5
+157,16557,antworte an name,email_sendemail,5
+158,3252,wie ist das wetter heute,weather_query,9
+159,330,leiser,audio_volume_down,1
+160,4759,wird es heute abend schneien,weather_query,9
+161,5844,sollte ich heute sonnencreme tragen,weather_query,9
+162,3616,wir erwarten morgen keinen regen,weather_query,9
+163,905,wie werden die temperaturen für die nächste woche sein,weather_query,9
+164,6029,ich muss morgens eine jacke anziehen,weather_query,9
+165,17164,mail weiterleiten an sandra,email_sendemail,5
+166,12598,sag mir wo ich zu diesen zeiten hin soll,transport_ticket,8
+167,12752,bitte kaufe ein d. b. ticket von leipzig sachsen nach münchen bayern mit abfahrt am ersten april,transport_ticket,8
+168,5335,sind irgendwelche wecker eingestellt,alarm_query,0
+169,5295,kannst du etwas leiser machen,audio_volume_down,1
+170,754,ändere diese uhrzeit zu berlin,datetime_convert,4
+171,8476,bitte lösche diese veranstaltungen,calendar_remove,2
+172,8432,entferne meine besprechung von heute um dreizehn uhr,calendar_remove,2
+173,4382,wie wird nächste woche das wetter in münchen bayern,weather_query,9
+174,4563,kannst du meine zeit zone zu mitteleuropa ändern,datetime_convert,4
+175,2059,es regnet,weather_query,9
+176,10046,wie bereite ich ein halbgares steak zu,cooking_recipe,3
+177,9836,musik zwei,play_audiobook,6
+178,9710,kannst du die pausieren und zurückspulen und dann die musik fortfahren,play_audiobook,6
+179,7344,lösche alle veranstaltungen im kalender,calendar_remove,2
+180,2857,wie wird heute das wetter werden,weather_query,9
+181,6953,entferne alles aus dem kalender,calendar_remove,2
+182,9195,diese veranstaltung aus meiner kalender löschen,calendar_remove,2
+183,10163,was ist eine gute methode truthahn fleischbällchen zu machen,cooking_recipe,3
+184,3619,wie ist das wetter in berlin,weather_query,9
+185,10187,was ist ein gutes rezept für butter,cooking_recipe,3
+186,7390,lösche zahnarzttermin diese woche,calendar_remove,2
+187,9705,starte vom letzten mal von meine hörbuch,play_audiobook,6
+188,9972,was ist die beste art ein butcher messer zu schärfen,cooking_recipe,3
+189,1556,gib mir bitte den wetterbericht für diese woche,weather_query,9
+190,1391,siri wird es am samstag schön sein,weather_query,9
+191,3548,was wird es das nächste mal schneien,weather_query,9
+192,11609,was ist der neuste action film der in den kinos läuft,recommendation_movies,7
+193,16115,alles emails zwischen zehn p. m. und neun uhr beantworten,email_sendemail,5
+194,5787,es ist kalt draußen,weather_query,9
+195,1614,irgendwelche anzeichen auf regen,weather_query,9
+196,7649,lösche alle veranstaltungen,calendar_remove,2
+197,16472,bitte schicke eine email an die folgende email adresse hwu at gmail punkt com,email_sendemail,5
+198,1690,olly wie ist die dieswöchige wettervorhersage,weather_query,9
+199,9683,spielen buch,play_audiobook,6
+200,10120,wie man spaghetti kocht,cooking_recipe,3
+201,4167,lautstärke auf die hälfte verringern,audio_volume_down,1
+202,16378,alexa sende eine email jetzt an meine mutter,email_sendemail,5
+203,17114,kannst du auf die email antworten,email_sendemail,5
+204,4932,wie wird das wetter am freitag,weather_query,9
+205,8862,alle meetings heute nach neunzehn uhr,calendar_remove,2
+206,6094,sollte ich heute nacht meine fenster offen lassen,weather_query,9
+207,1307,wie ist hier das heutige klima,weather_query,9
+208,9945,finde das beliebteste rezept für tacos,cooking_recipe,3
+209,10239,gib mir eine anleitung dazu wie man ein hühnchen zubereitet,cooking_recipe,3
+210,10033,erklär mir kurz gebratenen fisch,cooking_recipe,3
+211,1724,was ist die höchste temperatur von berlin,weather_query,9
+212,5637,brauche ich heute abend einen mantel,weather_query,9
+213,10130,bei welcher temperatur backt man kekse,cooking_recipe,3
+214,10001,wie macht man buttermilch aus milch,cooking_recipe,3
+215,5588,brauche ich einen hut,weather_query,9
+216,16453,email meinem freund über unsere pläne heute abend,email_sendemail,5
+217,16946,beantworte empfangene email,email_sendemail,5
+218,10578,lösche meinen verlauf,calendar_remove,2
+219,7696,löschen sie die geplante treffen auf vierter oktober zwölf p. m.,calendar_remove,2
+220,6019,ich würde gerne den alarm wissen den du gesendet hast,alarm_query,0
+221,12719,ich brauche einen zug fahrkarte zu hamburg von hier,transport_ticket,8
+222,12660,buche mir eine zugfahrt,transport_ticket,8
+223,10029,auf welcher temperatur backt man eine kartoffel,cooking_recipe,3
+224,10098,kannst du ein käsesandwich zubereiten,cooking_recipe,3
+225,12894,hilf mir ein zug ticket zu buchen,transport_ticket,8
+226,16142,email an aran,email_sendemail,5
+227,830,hey ist zu heiß draußen wie ist die temperatur diesen nachmittag,weather_query,9
+228,4761,wird es heute abend schnee geben,weather_query,9
+229,9741,setze das hörbuch fort,play_audiobook,6
+230,6173,ist es ein guter tag zum strand zu gehen,weather_query,9
+231,10168,wie koche ich das essen,cooking_recipe,3
+232,9073,lösche das event aus meinem kalender,calendar_remove,2
+233,10025,sag mir wie man ein käsesoufflee kocht,cooking_recipe,3
+234,16441,schick email an karl dass ich morgen zu spät zur arbeit komme,email_sendemail,5
+235,12198,buche ein zug ticket für mich nach potsdam,transport_ticket,8
+236,16114,antworte auf alle von zweiundzwanzig uhr bis neun uhr erhaltenen emails,email_sendemail,5
+237,1521,verringere die lautstärke auf zehn,audio_volume_down,1
+238,8288,was habe ich am dreiundzwanzigster märz vor,calendar_remove,2
+239,10095,gesundes essen,cooking_recipe,3
+240,15980,antworte georg,email_sendemail,5
+241,1131,sage mir die heutige luftfeuchtigkeit in der innenstadt,weather_query,9
+242,5124,ist es draußen heiß oder kalt,weather_query,9
+243,10140,lade kochapp herunter,cooking_recipe,3
+244,15803,schreibe eine email an meine schwester über mamas geburtstag jane wir sollten vielleicht eine party im park planen,email_sendemail,5
+245,9686,fahre mit der kriegskunst fort,play_audiobook,6
+246,1779,ist es dort kalt,weather_query,9
+247,1686,ist es ein ja oder nein das die morgige temperatur heiß sein wird,weather_query,9
+248,10079,wie lautet ein einfaches rezept zum essen machen,cooking_recipe,3
+249,7354,kannst du mir das wetter für hamburg morgen verraten,weather_query,9
+250,11931,kannst du mir ein gutes drama zum anschauen empfehlen,recommendation_movies,7
+251,16569,ich würde gern eine email an die adresse des neuen rezeptionisten schicken,email_sendemail,5
+252,8002,lösche mein termin morgen,calendar_remove,2
+253,5759,wetter für die nächste woche in hamburg,weather_query,9
+254,7036,kalender für diese woche leeren,calendar_remove,2
+255,9147,ich möchte die hochzeitsfunktion von samstag,calendar_remove,2
+256,15991,email ashwin patel meine besten wünsche und einen arbeitsanhang p. d. f.,email_sendemail,5
+257,8745,lösche den termin den ich habe,calendar_remove,2
+258,10191,wie macht man chicken tikka,cooking_recipe,3
+259,11919,kannst du mir sagen welcher film die besten bewertungen hat,recommendation_movies,7
+260,11791,neuen sci fi film,recommendation_movies,7
+261,205,zeig alle wecker,alarm_query,0
+262,9837,musik drei,play_audiobook,6
+263,16204,sende diese nachricht and die familie gruppe,email_sendemail,5
+264,10032,wie macht man eine pizza,cooking_recipe,3
+265,3446,wird es am samstag regnen,weather_query,9
+266,16110,ich will auf alle emails antworten die ich jeden tag zwischen zehn uhr abends und sieben uhr morgens erhalte,email_sendemail,5
+267,9860,öffne bitte die audible app und setze the wiedergabe fort,play_audiobook,6
+268,12191,buche ein zug ticket von schweden nach berlin,transport_ticket,8
+269,7146,finde abendessen mit mutter auf meinem kalender und lösche es,calendar_remove,2
+270,15941,bitte antworte auf die email,email_sendemail,5
+271,11739,tickets,recommendation_movies,7
+272,6126,sollte ich heute eine jacke tragen,weather_query,9
+273,7251,sage franks party ab,calendar_remove,2
+274,13435,wie lautet das beste rezept für margarita,cooking_recipe,3
+275,6904,den termin für die rasenpflege nächsten monat streichen,calendar_remove,2
+276,16534,antworte christina,email_sendemail,5
+277,5818,wie ist das wetter in der heimatstadt,weather_query,9
+278,9668,ich möchte das buch eintausendneunhundertvierundachtzig von dort wo ich zuletzt aufgehört habe zu ende hören,play_audiobook,6
+279,4562,olly kannst du meine zeitzone zu zeitzone konvertieren in der ich gerade bin,datetime_convert,4
+280,4328,wie lautet die fünf tage vorhersage,weather_query,9
+281,6996,lösch die nächste veranstaltung,calendar_remove,2
+282,16311,sende eine antwort auf diese email,email_sendemail,5
+283,9675,kannst du mein liebstes hörbuch von king kong abspielen,play_audiobook,6
+284,6171,werde ich eine jacke brauchen,weather_query,9
+285,394,wenn es mittag im saarland ist welche zeit ist es dann in sachsen,datetime_convert,4
+286,12613,ich muss ein zug ticket von berlin nach köln buchen,transport_ticket,8
+287,4053,ist es in diesem moment sonnig draußen,weather_query,9
+288,11873,kannst du mir irgendwelche filme empfehlen die gerade in meiner gegend gezeigt werden,recommendation_movies,7
+289,9679,lebenslauf die hörbuch i zuletzt angehört,play_audiobook,6
+290,10021,zeig mir was die zutaten sind,cooking_recipe,3
+291,2049,prüfe das wetter der städte auf der liste beginnend mit a,weather_query,9
+292,4265,wie ist die heutige wettervorhersage,weather_query,9
+293,13401,wie wird das wetter heute in drei tagen in fünf großen städten in der nähe von mir sein,weather_query,9
+294,9750,nutze den play pause knopf,play_audiobook,6
+295,12401,buch mir eine zug fahrt von hannover nach frankfurt morgen,transport_ticket,8
+296,1328,wie ist heute das wetter,weather_query,9
+297,6092,wird es in berlin während des wochenendes bewölkt sein,weather_query,9
+298,10006,wie kocht man reis,cooking_recipe,3
+299,8275,lösche julians geburtstag aus dem kalender,calendar_remove,2
+300,5452,muss ich heute einen regenschirm mitnehmen,weather_query,9
+301,10064,wie viel gemüse sollte ich pro tag essen,cooking_recipe,3
+302,4679,brauche ich eine leichte oder dicke jacke heute,weather_query,9
+303,8943,ich möchte dass alle events gelöscht werden,calendar_remove,2
+304,12573,ich brauche ein zug ticket nach berlin ticket buchen,transport_ticket,8
+305,7149,lösche alle regelmäßig stattfindenden personalversammlungen,calendar_remove,2
+306,10057,was brauche ich für schmorbraten,cooking_recipe,3
+307,1891,wie ist das wetter heute,weather_query,9
+308,9899,das aktuelle hörbuch weiter abspielen,play_audiobook,6
+309,9906,spiele dieses hörbuch,play_audiobook,6
+310,10147,rezepte für vierkäseomelett nachschlagen,cooking_recipe,3
+311,3806,wetter für morgen,weather_query,9
+312,7115,mein auto zahlung am fünfzehnte in mein kalender,calendar_remove,2
+313,7237,entferne die hip show von meinem zeitplan am zweiten april,calendar_remove,2
+314,16269,schicke robert eine antwort bezüglich seiner email die heute morgen empfangen wurde,email_sendemail,5
+315,16871,schick email an nathalie,email_sendemail,5
+316,7079,bitte entferne alle einträge aus meinem kalender,calendar_remove,2
+317,4732,lautstärke runter,audio_volume_down,1
+318,8682,lösche die termine,calendar_remove,2
+319,6574,globale erwärmung,weather_query,9
+320,16267,email an meine familie mit dem inhalt ich liebe euch alle,email_sendemail,5
+321,10028,finde ein rezept mit rinderhackfleisch und zucchini,cooking_recipe,3
+322,5482,olly reduziere die lautstärke,audio_volume_down,1
+323,16086,schick eine email an gerd braun,email_sendemail,5
+324,8665,lösche alles aus meinem kalender,calendar_remove,2
+325,3294,wie groß ist die zeitverschiebung zwischen östlicher und zentraler zeitzohne,datetime_convert,4
+326,8770,entferne den kommenden termin im kalender,calendar_remove,2
+327,3044,für welche zeit ist ein wecker gestellt,alarm_query,0
+328,3935,ist es draußen kalt,weather_query,9
+329,4207,werde ich heute eine jacke anziehen müssen,weather_query,9
+330,12164,kannst du ein zug ticket für meinen vater buchen,transport_ticket,8
+331,7545,mache den gesamten monat mai frei,calendar_remove,2
+332,98,ist es gerade am schneien,weather_query,9
+333,2141,nehme heute regenschirm,weather_query,9
+334,5742,wetter neuigkeiten,weather_query,9
+335,3648,wie ist das wetter in köln,weather_query,9
+336,3879,wie ist das wetter in chicago,weather_query,9
+337,3122,was sollte ich anziehen ist es draußen kalt,weather_query,9
+338,9807,spiel das beatles lied vom hörbuch für mich,play_audiobook,6
+339,12615,ich muss rajdhani buchen zug fahrkarte von gera nach berlin,transport_ticket,8
+340,4636,reduziere lautstärke der lautsprecher,audio_volume_down,1
+341,12341,buche drei hin und rückfahrt zug tickets für sonntag neunzehn uhr mit rückfahrt den sonntag nächste woche um acht uhr früh,transport_ticket,8
+342,11850,was sind die spielzeiten von logan im nahegelegenem kino,recommendation_movies,7
+343,3354,wird es schneien,weather_query,9
+344,4801,was ist die derzeitige temperatur draußen,weather_query,9
+345,10108,was ist eine gute art eier zu kochen,cooking_recipe,3
+346,952,ist das wetter gerade schlecht in münchen,weather_query,9
+347,10118,bei welcher temperatur kocht man schwein,cooking_recipe,3
+348,8737,leere meinen terminkalender für dieses datum,calendar_remove,2
+349,4285,was ist die höchste temperatur für diese woche,weather_query,9
+350,325,glücklich,weather_query,9
+351,5817,wetter von zuhause,weather_query,9
+352,10122,was wäre ein gutes taco rezept,cooking_recipe,3
+353,2123,wie ist das wetter in köln,weather_query,9
+354,3807,wetter diese woche in hamburg,weather_query,9
+355,9823,spiele der böse mann wo ich zuletzt aufgehört habe,play_audiobook,6
+356,10047,wie kocht man das gericht,cooking_recipe,3
+357,17066,antwort email an mark,email_sendemail,5
+358,1725,wie wird die wetterlage in den nächsten sieben tagen sein,weather_query,9
+359,15827,gehen zu meinen kontakten und füge der liste eine neue email hinzu,email_sendemail,5
+360,5534,ist wetter wolkig,weather_query,9
+361,16686,schick eine email an eine neue adresse,email_sendemail,5
+362,8232,ich mache diese woche nichts,calendar_remove,2
+363,5698,muss ich heute meinen regenschirm rausholen,weather_query,9
+364,16417,bitte schicke die folgende email an onkel john ja ich werde da sein,email_sendemail,5
+365,16012,olly schick eine email an jesse,email_sendemail,5
+366,7116,streich meinen termin am zwölften aus meinem kalender,calendar_remove,2
+367,9697,setze die wiedergabe von der schwarm fort,play_audiobook,6
+368,10102,zeig mir wie man lasagne kocht,cooking_recipe,3
+369,16936,die email antwort soll sein,email_sendemail,5
+370,10111,olly wie mache ich hackbraten,cooking_recipe,3
+371,7831,entfernen alle ernennungen,calendar_remove,2
+372,2430,bitte prüfe die wecker,alarm_query,0
+373,7360,lösche die nächste hochzeitsveranstaltung,calendar_remove,2
+374,1843,wird es hier nächste woche wärmer werden,weather_query,9
+375,10134,finde ein rezept für gebratenen thai reis,cooking_recipe,3
+376,16691,sende antwort an kai kupferschmidt,email_sendemail,5
+377,5214,sollte ich warme klamotten mitbringen,weather_query,9
+378,5750,werde ich heute einen regenschirm brauchen,weather_query,9
+379,1284,ändere diese zeit zu ist,datetime_convert,4
+380,7714,ich bin morgen beschäftigt also lösche alle kalender veranstaltungen,calendar_remove,2
+381,9751,benutze zeiteinstellungen,play_audiobook,6
+382,6030,es wird bei der ausstellung essen geben,weather_query,9
+383,2091,gibt es irgendwelche schauer morgen früh,weather_query,9
+384,8334,lösche mein kalender,calendar_remove,2
+385,12592,bitte kaufe mir ein zug ticket nach hamburg,transport_ticket,8
+386,16126,sende vielen dank mutti and mutti,email_sendemail,5
+387,8180,könntest du alle termine in meinem kalender löschen,calendar_remove,2
+388,5999,wie viele stunden sind es unterschied zwischen london und new york,datetime_convert,4
+389,218,olly ist es draußen am regnen,weather_query,9
+390,15766,kannst du patrick bitte diese antwort schicken,email_sendemail,5
+391,4342,verringere die lautstärke der lautsprecher,audio_volume_down,1
+392,16360,schreib eine email an jochen und leander,email_sendemail,5
+393,11727,zeige zeiten des nächsten kinos,recommendation_movies,7
+394,1314,soll das wetter heute schön werden,weather_query,9
+395,9910,ich möchte mit krieg und frieden anfangen wo ich aufgehört habe,play_audiobook,6
+396,2791,was ist die fünf tage vorhersage in hamburg,weather_query,9
+397,5005,würde ich in der östlichen standard zeit sein wie späte wäre es dann,datetime_convert,4
+398,11722,nenne mir einen romatischen kinofilm der in und um berliner kinos läuft,recommendation_movies,7
+399,7145,lösche dinner erster märz,calendar_remove,2
+400,724,gib mir die wetterdaten für die woche,weather_query,9
+401,16928,beantworte die letzte email hannas mit nein,email_sendemail,5
+402,9917,was braucht man für pizza,cooking_recipe,3
+403,4904,wird es heiß werden,weather_query,9
+404,8183,lösche zahnarzttermin heute,calendar_remove,2
+405,2124,sage mir das wetter von münchen bayern,weather_query,9
+406,3878,wie ist das aktuelle wetter in hamburg,weather_query,9
+407,6998,lösche zukünftige veranstaltung,calendar_remove,2
+408,4528,kannst du mir von meinem wecker der bett heißt erzählen,alarm_query,0
+409,5504,habe ich meinen hausalarm angemacht,alarm_query,0
+410,6100,welche alarmsysteme sind zu hause eingeschaltet,alarm_query,0
+411,805,ok google drehe die lautstärke auf allen lautsprechern runter bitte,audio_volume_down,1
+412,12151,buche ein ticket nach paris für mich mit dem i.c.e. für dieses wochenende,transport_ticket,8
+413,10231,was sind beispiele für scharfe küchen,cooking_recipe,3
+414,2614,wird es an meinem geburtstag regnen,weather_query,9
+415,5036,wie heiß ist es heute,weather_query,9
+416,7363,was ist am siebenundzwanzig märz siebenundzwanzig,calendar_remove,2
+417,16034,erstelle eine neue email an die email adresse von david schäfer,email_sendemail,5
+418,2021,verringere die lautstärke auf sehr niedrig,audio_volume_down,1
+419,9970,kann man mit quinoa irgendetwas machen dass es nicht furchtbar schmeckt,cooking_recipe,3
+420,2039,es ist angenehm heute,weather_query,9
+421,6080,werde ich heute nach dem mittagessen meine schwere jacke brauchen,weather_query,9
+422,9995,wie lange braucht wasser bis es kocht,cooking_recipe,3
+423,4146,lass mich wissen ob ich heute irgendwelche wecker gestellt habe,alarm_query,0
+424,17154,antwort auf dies email,email_sendemail,5
+425,16133,sende mutti eine email dass ich zu der feier gehe,email_sendemail,5
+426,9991,zeig mir tutorials zum essen kochen,cooking_recipe,3
+427,12762,bitte buche ein zug ticket nach,transport_ticket,8
+428,10115,wie macht man grillhähnchen,cooking_recipe,3
+429,4905,wird es kalt sein,weather_query,9
+430,16111,sieben uhr und zweiundzwanzig uhr jeden tag erinnern,email_sendemail,5
+431,9747,spiele pride and prejudice weiter,play_audiobook,6
+432,5591,öffne das wetter,weather_query,9
+433,5041,wetter status,weather_query,9
+434,1536,wie viel uhr ist es jetzt in japan im verleich zu deutschland,datetime_convert,4
+435,507,bestätige die alarmzeit,alarm_query,0
+436,5144,bitte sage mir wann es einen regnerischen tag gibt basierend auf der wettervorhersage,weather_query,9
+437,357,sag mir meine wecker,alarm_query,0
+438,16988,bitte antworte auf die email von georg ich brauche das geld jetzt es ist dringend,email_sendemail,5
+439,12506,buche ein zug ticket nach brandenburg,transport_ticket,8
+440,11670,film in der nähe von mir,recommendation_movies,7
+441,8980,sage den termin für den dritten april ab,calendar_remove,2
+442,10128,ich will ein rezept für einen burrito,cooking_recipe,3
+443,4557,wetter aubing münchen,weather_query,9
+444,5496,sollte ich diesen film anschauen,recommendation_movies,7
+445,408,welche wecker habe ich gestellt,alarm_query,0
+446,904,wir das wetter nächste woche,weather_query,9
+447,9696,setze die wiedergabe von er ist wieder da fort,play_audiobook,6
+448,606,wie ist die wettervorhersage fürs wochenende,weather_query,9
+449,4531,wann ist der nächste warme tag,weather_query,9
+450,11766,sicherheitsbewusstsein,recommendation_movies,7
+451,12172,reserviere für heute ein bahn ticket nach duisburg,transport_ticket,8
+452,16458,schicke eine email an mustermail at gmail dot com,email_sendemail,5
+453,6102,hey olly wie wird das wetter heute in münchen bayern,weather_query,9
+454,16428,bitte schicke papa eine email und frage bezüglich des wetters in new jersey,email_sendemail,5
+455,7178,bitte schicke eine sprachnachricht an das büro von herrn müller über unser treffen am ersten februar zwanzig siebzehn um siebzehn uhr,email_sendemail,5
+456,207,sage mir das wetter in berlin,weather_query,9
+457,9665,spule das hörbuch dreißig sekunden zurück,play_audiobook,6
+458,9773,spiel das hörbuch bitte weiter,play_audiobook,6
+459,9786,spiel mein buch,play_audiobook,6
+460,16510,sende diese antwort an die erhaltene email,email_sendemail,5
+461,1864,welche alarme sind jetzt an,alarm_query,0
+462,15876,schick eine kopie der rechnung an mona per email,email_sendemail,5
+463,7986,kannst du diese dinnerparty veranstaltung löschen,calendar_remove,2
+464,7985,lösche diese veranstaltung am dritten märz,calendar_remove,2
+465,356,was ist mein nächster wecker,alarm_query,0
+466,12790,buch ein zug ticket nach hamburg,transport_ticket,8
+467,1433,bitte verringere die lautstärke,audio_volume_down,1
+468,4485,wie soll diese woche das wetter werden,weather_query,9
+469,5846,sollte ich heute mehr wasser mitnehmen,weather_query,9
+470,3105,wie lautet die derzeitige temperatur,weather_query,9
+471,7761,meinen kalendar für heute ändern,calendar_remove,2
+472,9723,starte das hörbuch nochmal,play_audiobook,6
+473,16831,schicke eine einladungsemail an marilia,email_sendemail,5
+474,7024,lösche alle veranstaltungen aus meinem kalender,calendar_remove,2
+475,9939,welche temperatur sollte das öl haben um pommes zu frittieren,cooking_recipe,3
+476,3389,was ist die wettervorhersage für münchen,weather_query,9
+477,8145,lösche meinen termin um ein uhr morgen,calendar_remove,2
+478,10042,wo kann ich das rezept für magische keksriegel finden,cooking_recipe,3
+479,4864,sag mir das wetter in köln,weather_query,9
+480,12915,ich muss einen zug fahrschein nach hamburg kaufen,transport_ticket,8
+481,1863,habe ich irgendwelche wecker gestellt,alarm_query,0
+482,13425,sollte ich einen pullover anziehen,weather_query,9
+483,1198,sag mir was die temperatur in unserer stadt heute um zwölf uhr war,weather_query,9
+484,5634,wird das wetter heute bewölkt sein,weather_query,9
+485,16904,ich möchte auf meine letzte email antworten,email_sendemail,5
+486,16265,sende email an familie liebe euch alle,email_sendemail,5
+487,8830,lösche alle eintragungen vom kalender,calendar_remove,2
+488,2516,wie sieht das wetter diese woche aus,weather_query,9
+489,12396,kauf ein zug ticket zur stadt münchen,transport_ticket,8
+490,4384,wird das wetter morgen heiß oder kalt,weather_query,9
+491,16212,email an vater wie ist das wetter diese woche,email_sendemail,5
+492,97,wird es regnen,weather_query,9
+493,10173,wie kann man ein steak gut zubereiten,cooking_recipe,3
+494,9949,wie lange kocht man das,cooking_recipe,3
+495,12448,buche und bezahl ein zug ticket nach duisburg am samstag,transport_ticket,8
+496,3245,weißt du ob es heute regnen soll,weather_query,9
+497,4474,muss ich meine regenausrüstung tragen,weather_query,9
+498,3254,wie war der wetterbericht von heute,weather_query,9
+499,5869,wie ist der wetterbericht für augsburg heute,weather_query,9
+500,283,erwartest du sonne am sonntag,weather_query,9
+501,8733,bitte verschiebe alle verabredungen in den papierkorb,calendar_remove,2
+502,9914,wie macht man käsekuchen,cooking_recipe,3
+503,3375,welche uhrzeit ist es vor ort um wenn es neun uhr in deutschland ist,datetime_convert,4
+504,7642,zeige mir die wettervorhesage für die nächsten drei tage,weather_query,9
+505,15749,antworte patrick dass ich auf dem weg bin,email_sendemail,5
+506,10117,wie lange braucht man für einen hackbraten,cooking_recipe,3
+507,5007,an welchen tagen sind meine wecker gestellt,alarm_query,0
+508,1258,gib mir die wetterdetails für den fünfzehnten märz,weather_query,9
+509,591,wie warm ist es jetzt,weather_query,9
+510,777,alarmiere mich wenn die außentemperatur dreißig grad erreicht,weather_query,9
+511,10200,welche zutaten werden für die zubereitung von biryani benötigt,cooking_recipe,3
+512,4071,bitte lautstärke leiser stellen,audio_volume_down,1
+513,16433,schick bitte meiner familie eine email mit dem folgenden inhalt,email_sendemail,5
+514,16306,schick bitte eine email an meine familie,email_sendemail,5
+515,12832,buch mir für diesen nachmittag ein zug ticket nach hamburg,transport_ticket,8
+516,10180,wie koche ich ein hartgekochtes ei,cooking_recipe,3
+517,16516,antworte auf diese email,email_sendemail,5
+518,4484,sage mir den wetterbericht für diese woche,weather_query,9
+519,9757,ich würde gern mein hörbuch fortsetzen,play_audiobook,6
+520,5983,sag mir die zeit vom gestellten wecker,alarm_query,0
+521,1399,ich passe immer auf,weather_query,9
+522,10144,wie lange muss ich eine eistorte kühlen,cooking_recipe,3
+523,950,wie ist das wetter so in hamburg,weather_query,9
+524,8658,bitte alles aus dem kalender löschen,calendar_remove,2
+525,1019,wird es heute schneien,weather_query,9
+526,9890,fange the book legacy von vorne an,play_audiobook,6
+527,9777,fahre mit inkheart fort,play_audiobook,6
+528,12538,olly findet mir die günstigste zug fahrkarte zu belgien,transport_ticket,8
+529,15959,verfasse eine email an parisa,email_sendemail,5
+530,16122,mach ein neue email zum emily,email_sendemail,5
+531,6799,entferne die nächste besprechung heute in meinem kalender,calendar_remove,2
+532,12173,besorg mir ein zug ticket für nächsten montag nach hamburg,transport_ticket,8
+533,12833,alexa buche ein zug ticket für mich für heute nachmittag nach dresden,transport_ticket,8
+534,16180,schick mike eine email und sag ihm wir werden uns heute um neunzehn uhr zum abendessen im kaffeehaus treffen,email_sendemail,5
+535,604,wie wird das wetter heute in einer woche,weather_query,9
+536,11983,olly empfehle mir eine romantische komödie in der nähe,recommendation_movies,7
+537,5893,ob es sonnig sein wird in hamburg,weather_query,9
+538,10008,olly sag mir wie man gemüse kocht,cooking_recipe,3
+539,7431,ich möchte dass du diese veranstaltung löscht,calendar_remove,2
+540,16688,email an neue adresse,email_sendemail,5
+541,10011,suche essenstyp aus frühstück mittag abendessen,cooking_recipe,3
+542,2778,ist es kälter als gestern,weather_query,9
+543,8370,hey siri lösche alle meine kalender einträge für heute,calendar_remove,2
+544,3738,bitte stell die lautsprecher auf eine niedrigere angenehmere lautstärke ein,audio_volume_down,1
+545,277,wie ist das wetter in berlin,weather_query,9
+546,5143,bitte sage wie das wetter nächste woche in berlin werden wird,weather_query,9
+547,4423,wie ist diese woche das wetter,weather_query,9
+548,10003,ich will pasta im amerikanischen stil kochen sag mir wie,cooking_recipe,3
+549,16755,sende eine email per sprache,email_sendemail,5
+550,1841,sollte ich heute einen regenschirm mit zur arbeit nehmen,weather_query,9
+551,16715,bitte schicke eine email an john die besagt dass ich in urlaub bin,email_sendemail,5
+552,10241,welches ist das am besten schmeckende stück rindfleisch,cooking_recipe,3
+553,206,wie ist das wetter in hamburg,weather_query,9
+554,16680,schreibe eine email an meinen bruder und frag ihn um wie viel uhr er morgen zum abendessen kommt,email_sendemail,5
+555,2705,leises audio,audio_volume_down,1
+556,1729,bitte sage mir ob es am freitag dieser woche sonne ohne wolken geben wird,weather_query,9
+557,825,zeige mir bitte die vorhersage für zu hause für die nächsten sieben tage,weather_query,9
+558,1976,lass mich wissen sollte irgendein wecker gestellt sein,alarm_query,0
+559,7648,entferne veranstaltung vom kalender,calendar_remove,2
+560,9929,olly wie koche ich pasta,cooking_recipe,3
+561,4169,könntest du bitte das wetter in köln prüfen,weather_query,9
+562,1008,wird das wetter am sonntag schlecht sein,weather_query,9
+563,12855,buchen sie ein ticket für heute auf der d. b. seite für die gespeicherten informationen,transport_ticket,8
+564,8986,streiche meinen für juli geplanten urlaub,calendar_remove,2
+565,8979,entferne emmas geburtstag aus den veranstaltungen,calendar_remove,2
+566,9105,löschen meinen veranstaltungen aus kalender,calendar_remove,2
+567,7159,bitte beginne von vorne und lösche alle einträge im kalender,calendar_remove,2
+568,12126,hey ich suche nach zügen nach münchen am mittwoch,transport_ticket,8
+569,12139,buch einen zug für mich,transport_ticket,8
+570,2063,sage mir das dieswöchige wetter,weather_query,9
+571,1472,verringere die lautstärke auf zwanzig,audio_volume_down,1
+572,4120,welche weck zeit hast du eingestellt,alarm_query,0
+573,5463,sollte ich ein kurzes oberteil anziehen,weather_query,9
+574,9699,starte das hörbuch wo ich bei der geschichte von zwei städten aufgehört habe,play_audiobook,6
+575,9178,alle veranstaltungen am sechsundzwanzigsten dezember,calendar_remove,2
+576,12241,bite gehe zu amtrak dot com um tickets zu kaufen,transport_ticket,8
+577,1654,wie kalt wird es am dienstag sein,weather_query,9
+578,12156,kaufe ein zug ticket nach,transport_ticket,8
+579,3978,wie ist das wetter in hamburg,weather_query,9
+580,12616,ich möchte rajdhani buchen zug fahrkarte von berlin nach leipzig,transport_ticket,8
+581,16174,sende email an boss,email_sendemail,5
+582,6086,wie ist das wetter in der postleitzahl zweiunddreißigtausendzweihundertvierunddreißig,weather_query,9
+583,15875,schicke jürgen eine email dass ich auf dem weg nach hause bin,email_sendemail,5
+584,15956,olly schick eine email an alice und sag ihr dass wir auf dem weg sind,email_sendemail,5
+585,5337,alexa sag mir auf welche zeiten du den wecker gestellt hast,alarm_query,0
+586,3141,leister sprechen bitte,audio_volume_down,1
+587,16633,ich habe eine neue emailadresse kannst du eine email schicken,email_sendemail,5
+588,8254,lösche meine nächste veranstaltung,calendar_remove,2
+589,16231,bitte beantworte gregs email die besagt dass seine idee fantastisch ist,email_sendemail,5
+590,1975,habe ich irgendwelche wecker für heute gestellt,alarm_query,0
+591,3000,vergleiche das wetter von zuhause und hamburg,weather_query,9
+592,2345,regnet es gerade in hamburg,weather_query,9
+593,8527,lösche mein treffen um drei,calendar_remove,2
+594,7544,lösche alle termine morgen,calendar_remove,2
+595,5712,wird es heute morgen sonnig bleiben,weather_query,9
+596,6007,sollte ich das fenster schließen bevor ich heute nachmittag gehe,weather_query,9
+597,9920,zeig mir ein rezept für nudelsauce,cooking_recipe,3
+598,13489,empfehle filme und lieder die ich mögen würde aber nicht unbedingt so sind wie die die ich bereits mag,recommendation_movies,7
+599,15750,nachricht jan schreibe ich komme zu spät,email_sendemail,5
+600,8477,bitte lösche diesen termin,calendar_remove,2
+601,6081,brauche ich heute eine jacke,weather_query,9
+602,9824,setze endlich selbstbewusst fort wo wir stehen geblieben waren,play_audiobook,6
+603,8726,lösche jede veranstaltung,calendar_remove,2
+604,11637,sag mir welcher film die besten i. m. d. b. bewertungen hat und in kinos in meiner nähe läuft,recommendation_movies,7
+605,15908,schick eine antwortemail mit dem inhalt vielen dank an johannes at gmail dot com,email_sendemail,5
+606,831,hey google hey es ist zu heiß draußen wie ist die temperatur heute nachmittag,weather_query,9
+607,1353,ich möchte meinen lautsprecher leiserstellen,audio_volume_down,1
+608,7077,bitte lösche die nächste veranstaltung in meinem kalender,calendar_remove,2
+609,5664,muss ich sonnencreme auftragen wenn ich zum golf club gehe,weather_query,9
+610,335,ich möchte gern wissen wie das wetter in köln ist,weather_query,9
+611,3403,wird es dieses wochenende sonnig werden,weather_query,9
+612,10121,wie macht man frittierten reis,cooking_recipe,3
+613,10158,kannst du mir sagen wie man kekse mit schokoladenstückchen macht,cooking_recipe,3
+614,16497,schick eine anfrage an martin,email_sendemail,5
+615,8970,konzertplan,calendar_remove,2
+616,12596,google ich brauche ein zug ticket nach berlin kannst du das für mich buchen,transport_ticket,8
+617,16259,nächste woche email an ehefrau,email_sendemail,5
+618,9873,lies mir deadly death killers ein bisschen weiter,play_audiobook,6
+619,860,wetter heute,weather_query,9
+620,3120,wenn wir zwölf stunden der östlichen standard zeit voraus sind wie spät ist es dann auf den philippinen,datetime_convert,4
+621,12057,lokale kinos zeigen welchen film,recommendation_movies,7
+622,9719,gehe gehe zurück zu tierfarm,play_audiobook,6
+623,793,was ist die wahrscheinlichkeit von hagel diese woche,weather_query,9
+624,4467,zu welcher zeit ist mein wecker gestellt,alarm_query,0
+625,410,für welche zeit sind meine wecker gestellt,alarm_query,0
+626,3585,wie ist das wetter in berlin,weather_query,9
+627,12725,finde ein günstiges bahn ticket für münchen,transport_ticket,8
+628,4250,wird es heute später noch regnen,weather_query,9
+629,9880,buch bitte,play_audiobook,6
+630,4613,wir die temperatur morgen über fünfzig sein,weather_query,9
+631,16403,neuer emailempfänger daniela hast du heute was vor,email_sendemail,5
+632,203,zeig mir die wecker die ich gestellt habe,alarm_query,0
+633,7821,entfern alle erinnerungen aus diesem kalender,calendar_remove,2
+634,4865,wie ist das wetter jetzt in bayern,weather_query,9
+635,15996,maile dem mitarbeiter gruppenverteiler bezüglich des morgigen treffens,email_sendemail,5
+636,9799,öffne den album namen,play_audiobook,6
+637,5669,was sind die erwarteten temperaturen für diesen nachmittag,weather_query,9
+638,14991,alexa gebe das wetter in unsere stadt an,weather_query,9
+639,11734,olly wie ist der neue film swat,recommendation_movies,7
+640,6139,olly muss ich stiefel anziehen,weather_query,9
+641,1203,checke das wetter update für augsburg diese woche,weather_query,9
+642,8433,lösche mein meeting am märz neunzehn um ein p. m.,calendar_remove,2
+643,1438,welche wecker habe ich,alarm_query,0
+644,8529,sage mir das wetter für bonn um fünfzehn uhr,weather_query,9
+645,10018,wie brät man lamm,cooking_recipe,3
+646,5506,sag mir ob mein wecker für den morgen eingestellt ist,alarm_query,0
+647,16572,email an adresse,email_sendemail,5
+648,9690,fang an wieder zu spielen,play_audiobook,6
+649,5946,frag meinen freund wie das klima dort ist,weather_query,9
+650,8181,kannst du zahnarztbesuch aus meinem kalander entfernen,calendar_remove,2
+651,1918,wie wird das wetter in den nächsten sieben tagen,weather_query,9
+652,9893,öfnne die zwei türme,play_audiobook,6
+653,4139,muss ich heute eine schwere jacke tragen,weather_query,9
+654,7641,gebe mir das wetter der letzten fünf tage,weather_query,9
+655,10116,wie macht man grillhähnchen,cooking_recipe,3
+656,3374,wenn ich mike in niedersachsen um achtzehn uhr anrufe wie viel uhr ist dann bei ihm,datetime_convert,4
+657,6440,was ist ein guter film zum anschauen jetzt,recommendation_movies,7
+658,7962,lösche den kalender,calendar_remove,2
+659,327,sonntag,weather_query,9
+660,9714,spiele rock,play_audiobook,6
+661,7681,lösch alle meine termine mit doktor schmidt diese woche,calendar_remove,2
+662,10232,wie man am besten lachs oder schellfisch zubereitet,cooking_recipe,3
+663,16981,schicke eine mail an anna,email_sendemail,5
+664,8813,leere bitte meinen kalender,calendar_remove,2
+665,10083,finde ein rezept für deutschen schokoladenkuchen,cooking_recipe,3
+666,7954,bitte ignorieren sie die feier die ich besuchen werde dieses wochenende auf meinem kalender,calendar_remove,2
+667,12750,kauf ein zug ticket vom kölner dom nach berlin,transport_ticket,8
+668,9842,kannst du eine stunde history spielen,play_audiobook,6
+669,12489,ich brauche einen fahrschein für einen zug morgen nach münchen,transport_ticket,8
+670,7982,lösche alle termine für heute,calendar_remove,2
+671,8683,lösche veranstaltung,calendar_remove,2
+672,9796,bitte geschichte eines hausmädchen neustarten,play_audiobook,6
+673,6753,bitte lösche alle meine veranstaltungen für heute,calendar_remove,2
+674,9913,welche zutaten brauche ich für tomatensuppe,cooking_recipe,3
+675,1728,bitte bestätige das wetter für den dreizehnten diesen monat,weather_query,9
+676,9988,verdampft,cooking_recipe,3
+677,1350,wie ist das wetter für diese woche,weather_query,9
+678,3773,kannst du mir einen wetter bericht geben,weather_query,9
+679,5618,zeige mir die wecker die du heute morgen gestellt hast,alarm_query,0
+680,4140,wann wird es über fünfzig grad,weather_query,9
+681,9927,olly wie viel zeit zum kochen von nudeln,cooking_recipe,3
+682,8636,kannst du den arzttermin den ich am dienstag hatte löschen,calendar_remove,2
+683,16094,sende email an sharon,email_sendemail,5
+684,1645,habe ich irgendwelche wecker gestellt,alarm_query,0
+685,10139,wie macht man kekse,cooking_recipe,3
+686,1733,checkout heute alarm fürs meeting,alarm_query,0
+687,9781,spiele gott der kleinen dinge ab,play_audiobook,6
+688,9788,spiele das zuletzt gespielte hörbuch,play_audiobook,6
+689,1691,wie ist das heutige wetter,weather_query,9
+690,3587,wie wird diese woche das wetter werden,weather_query,9
+691,7983,alle veranstaltungen und aufgaben heute löschen,calendar_remove,2
+692,12390,bring mir ein bahn ticket,transport_ticket,8
+693,12309,ich möchte ein zug ticket buchen,transport_ticket,8
+694,16735,bitte öffne die antwort auf die email,email_sendemail,5
+695,376,prüfe die wetter app um zu shen ob,weather_query,9
+696,6736,lösche alle veranstaltungen der nächsten zwei tage,calendar_remove,2
+697,16211,schicke vater eine email und erzähle wie das wetter diese woche ist,email_sendemail,5
+698,10089,wie lautet das beste fleischbällchen rezept,cooking_recipe,3
+699,8242,olly lösche alles von meinem kalender für den rest des jahres,calendar_remove,2
+700,1789,ist das wetter kalt,weather_query,9
+701,9869,starte dune von dort wo ich zuletzt aufgehört habe,play_audiobook,6
+702,6153,erzähl mir vom aktuellen wetter,weather_query,9
+703,16676,sende eine neue email an jan at gmail punkt d.e.,email_sendemail,5
+704,12389,kauf mir einen bahn fahrschein,transport_ticket,8
+705,8577,lösche alles,calendar_remove,2
+706,3131,wie kalt ist es draußen,weather_query,9
+707,9835,musik eins,play_audiobook,6
+708,7342,checke veranstaltungen und lösche veranstaltung im kalender,calendar_remove,2
+709,6882,nächste woche donnerstag um vierzehn uhr treffen,calendar_remove,2
+710,6714,olly lösche mein geschäftstreffen am mittwoch,calendar_remove,2
+711,4470,wie ist die derzeitige vorhersage für münchen,weather_query,9
+712,8225,lösche veranstaltung von dienstag,calendar_remove,2
+713,8728,entferne alle veranstaltungen,calendar_remove,2
+714,2998,wetter in münchen bayern,weather_query,9
+715,16205,schreibe die nachricht in die mitarbeitergruppe,email_sendemail,5
+716,3106,wie ist das wetter heute,weather_query,9
+717,12331,olly buche mich ein zug fahrkarte zu berlin auf die dritten egal welche uhrzeit,transport_ticket,8
+718,2256,brauche ich heute einen regenmantel,weather_query,9
+719,5731,ist es ein regnerischer und stürmischer tag,weather_query,9
+720,7093,lösche meinen kalender,calendar_remove,2
+721,101,wie ist das wetter diese woche,weather_query,9
+722,16658,email an thomas diese woche,email_sendemail,5
+723,374,sag mir ob das nächste über das wetter stimt,weather_query,9
+724,16830,sende eine bestätigungsemail an sandra,email_sendemail,5
+725,4252,sollte ich heute einen regenschirm mitnehmen,weather_query,9
+726,5448,es sieht sonnig und klar heute aus stimmt das,weather_query,9
+727,7076,lösche meinen nächsten termin,calendar_remove,2
+728,1535,regnet es gerade in münchen,weather_query,9
+729,1947,lautstärke runter,audio_volume_down,1
+730,9868,spiel das dschungel buch,play_audiobook,6
+731,16939,antworte mit meiner adresse an john,email_sendemail,5
+732,7252,donnestag party umlegen,calendar_remove,2
+733,2340,sag mir das aktuelle wetter münchen stadt,weather_query,9
+734,2655,wird die höchste temperatur morgen höher als siebzig grad sein,weather_query,9
+735,433,wie warm ist es gerade draußen,weather_query,9
+736,12562,finde ein zug ticket nach potsdam für mich am vierzehnten april,transport_ticket,8
+737,16538,würdest du die email öffnen und ich möchte eine neue schreiben,email_sendemail,5
+738,16053,sende raj eine mail für einen job,email_sendemail,5
+739,12589,kannst du für mich ein zug ticket nach augsburg kaufen,transport_ticket,8
+740,2041,das heutige wetter ist toll,weather_query,9
+741,5932,schalte auf berlin zeit um,datetime_convert,4
+742,15892,sende eine email an alina,email_sendemail,5
+743,17014,beantworte die email,email_sendemail,5
+744,1663,die zeitdifferenz zwischen hamburg und new york ist wie groß,datetime_convert,4
+745,17165,schick eine mail an sandy,email_sendemail,5
+746,5768,zu laut,audio_volume_down,1
+747,8285,nimm die geburtstagsparty im mai von meinem kalender,calendar_remove,2
+748,9196,bitte löschen sie dieses kalender veranstaltung,calendar_remove,2
+749,9791,spiele das dschungelbuch vom hörbuch,play_audiobook,6
+750,15981,antworte auf die email von sally,email_sendemail,5
+751,6006,sollte ich am dienstag handschuhe tragen,weather_query,9
+752,755,ändere die zeit an diesem ort zu mitteleuropäische zeit,datetime_convert,4
+753,1013,wie viele stunden unterschied sind es zwischen leipzig und new york city,datetime_convert,4
+754,8003,lösche mein treffen am freitag,calendar_remove,2
+755,1250,gibt es eine wahrscheinlichkeit von regen diese woche,weather_query,9
+756,6754,lösche alle termine im kalender für diese woche,calendar_remove,2
+757,12069,olly welche filme laufen in den u. c. i. kinos,recommendation_movies,7
+758,8231,lösche den termin,calendar_remove,2
+759,2222,wetter in köln,weather_query,9
+760,16792,hi sende eine ich liebe dich botschaft an meine ehefrau,email_sendemail,5
+761,5291,wie ist gerade die temperatur draußen,weather_query,9
+762,8739,lösche veranstaltungen,calendar_remove,2
+763,16682,entwirf eine email an jonas beginne den text mit ich bin daran interessiert dein auto anzusehen dass du verkaufst können wir eine zeit ausmachen und sende sie,email_sendemail,5
+764,8637,kannst du die nächste veranstaltung von meinem kalender nehmen,calendar_remove,2
+765,8638,ich muss nicht mehr zum arzt kann dieser termin entfernt werden,calendar_remove,2
+766,7236,lösche den termin am erster april,calendar_remove,2
+767,12163,kannst du ein zug ticket für meine mama buchen,transport_ticket,8
+768,739,wie ist die temperatur heute,weather_query,9
+769,1437,lass mich meine wecker sehen,alarm_query,0
+770,559,wie sieht der alarm für morgen aus,alarm_query,0
+771,5601,was ist die wetter vorhersage,weather_query,9
+772,9037,markiere alle verbleibenden veranstaltungen für heute im kalender als gelöscht,calendar_remove,2
+773,6142,wie ist die umfassende vorhersage,weather_query,9
+774,10234,sammle alle zutaten die zum kochen benötigt werden mit genauen maßen und der notwendigen ausrüstung,cooking_recipe,3
+775,6702,wetter heute,weather_query,9
+776,10165,wie lange ein hartes ei kochen,cooking_recipe,3
+777,9891,spiel die zwei türme,play_audiobook,6
+778,16882,sende eine nachricht per email,email_sendemail,5
+779,9731,spiel den davinci code,play_audiobook,6
+780,1991,wie ist das wetter heute,weather_query,9
+781,6280,wie war die temperatur als ich im park war,weather_query,9
+782,5440,kann ich heute ohne jacke rausgehen,weather_query,9
+783,16687,sende der neuen adresse eine email,email_sendemail,5
+784,6138,muss ich stiefel anziehen,weather_query,9
+785,2585,starte jetzt das radio auf niedriger lautstärke,audio_volume_down,1
+786,2680,wird es sich bald aufwärmen,weather_query,9
+787,6362,welchen film sollte ich ansehen,recommendation_movies,7
+788,16887,antworte dieser mail,email_sendemail,5
+789,4314,wird das wetter heute abend bewölkt,weather_query,9
+790,16782,kannst du meiner mutter eine email wegen dem wöchentlichen wetter schicken,email_sendemail,5
+791,9038,treffen in berlin löschen,calendar_remove,2
+792,16571,schick eine email an meine schwester,email_sendemail,5
+793,3036,wetterlage für den nächsten tag,weather_query,9
+794,11703,zeige alle theater,recommendation_movies,7
+795,4594,zeig die wecker die ich gestellt habe,alarm_query,0
+796,6735,olly lösche alle veranstaltungen für die nächsten beiden tagen,calendar_remove,2
+797,16031,olly öffne neue email an diesen kollegen mit dieser email,email_sendemail,5
+798,4790,wie ist die temperatur heute,weather_query,9
+799,9850,alexa setzte joes buch von ich das letzte mal aufgehört habe fort,play_audiobook,6
+800,16425,schick eine neue nachricht an robert wann hast du frei,email_sendemail,5
+801,2229,was ist der zeitunterschied von neun uhr c. s. t. und e. s. t.,datetime_convert,4
+802,4105,wird es in den nächsten paar tagen in münchen regnen,weather_query,9
+803,4707,bitte zeige mir das lokale wetter,weather_query,9
+804,11738,zeige zeiten,recommendation_movies,7
+805,7132,ich möchte das du die hochzeit vom zehnten aus meinem kalender entfernst,calendar_remove,2
+806,7998,lösche meinen nächsten termin,calendar_remove,2
+807,8335,ich möchte keine veranstaltungen im kalender aufnehmen,calendar_remove,2
+808,3815,soll es morgen heiß werden,weather_query,9
+809,644,was ist die höchsttemperatur diese woche,weather_query,9
+810,4927,die dieswöchige wettervorhersage,weather_query,9
+811,10010,wie kann ich eine mahlzeit kochen,cooking_recipe,3
+812,9748,fahre mit stolz und vorurteil fort,play_audiobook,6
+813,9802,fahre fort mit dem hörbuch die zwei türme,play_audiobook,6
+814,9672,setze american gods fort,play_audiobook,6
+815,8851,lösche die veranstaltung,calendar_remove,2
+816,3556,wird der schnee morgen vor sieben uhr aufhören,weather_query,9
+817,10192,rezept für spaghetti,cooking_recipe,3
+818,2104,wie ist das wetter zuhause,weather_query,9
+819,16547,ich würde gerne mary emailen und fragen ob sie sich nach der arbeit bei tgi fridays treffen möchte,email_sendemail,5
+820,3535,wird es sonnig werden,weather_query,9
+821,16867,email an meinen freund,email_sendemail,5
+822,15896,email an john at gmail dot com für john,email_sendemail,5
+823,4413,schneit es in köln,weather_query,9
+824,6046,kann ich heute kurze hosen tragen,weather_query,9
+825,16950,neue email für den kontakt,email_sendemail,5
+826,3346,wie groß ist der zeitunterschied zwischen meinem standort und hamburg,datetime_convert,4
+827,5978,errechne den zeitunterschied zwischen der östlichen und der westlichen zeit,datetime_convert,4
+828,5269,es ist jetzt siebzehn uhr dreißig in indien aber wie spät ist es an der elfenbeinküste,datetime_convert,4
+829,409,lese meine wecker vor,alarm_query,0
+830,10204,erklär wie man ein steak anbrät,cooking_recipe,3
+831,5890,zähle alle eingestellten wecker auf,alarm_query,0
+832,1036,ist mein arbeits wecker für morgen eingestellt,alarm_query,0
+833,10005,wie kocht man reis olly,cooking_recipe,3
+834,8440,alle veranstaltungen aus meinem kalender löschen,calendar_remove,2
+835,4635,lautsprecher lautstärke herunterdrehen,audio_volume_down,1
+836,10124,wie mache ich erdnussbutterkekse,cooking_recipe,3
+837,12628,ich will den nächsten zug nehmen der von münchen nach köln fährt,transport_ticket,8
+838,12332,buche mir einen zug nach leipzig am dritten die uhrzeit ist egal,transport_ticket,8
+839,10073,finde zutaten für hühnchen marsala,cooking_recipe,3
+840,1456,wie ist es draußen,weather_query,9
+841,10208,aroma,cooking_recipe,3
+842,655,wie ist das derzeitige wetter in hamburg,weather_query,9
+843,9852,starte von meiner letzten sitzung von joes book,play_audiobook,6
+844,3033,wie ist das derzeitige wettr,weather_query,9
+845,16287,schick eine geburtstag email an meinen chef,email_sendemail,5
+846,10222,dieses merkblatt enthält überlegungen zur gründung eines lebensmittelverarbeitungsbetriebs,cooking_recipe,3
+847,8406,lösche alle events für morgen,calendar_remove,2
+848,4552,zeige alle meine wecker,alarm_query,0
+849,4706,wie ist die vorhersage für heute in meiner gegend,weather_query,9
+850,10141,was braucht man zum kekse backen,cooking_recipe,3
+851,824,ok google wie ist das wetter dort wo ich heute bin,weather_query,9
+852,12635,finde einen durchgehenden zug nach münchen,transport_ticket,8
+853,5751,muss ich eine jacke anziehen wenn ich raus gehe,weather_query,9
+854,16237,leite email an neue email weiter,email_sendemail,5
+855,6316,wie ist das wetter,weather_query,9
+856,7177,bitte mailen an herrn schulz sagen dass ich gehen werde ihn treffen von ersten februar zweitausendsiebzehn bei siebzehn uhr bei diesem büro,email_sendemail,5
+857,6797,lösch mein nächste meeting aus dem kalender,calendar_remove,2
+858,17031,ich brauche eine email kette an meine mutter ich plane sie zu besuchen frag sie wie das wetter wird,email_sendemail,5
+859,4471,beantworte email von,weather_query,9
+860,5247,muss ich heute einen mantel mitbringen,weather_query,9
+861,9735,fahre mit dem letzten hörbuch fort,play_audiobook,6
+862,4403,muss ich heute einen regenschirm mitnehmen,weather_query,9
+863,5467,braucht man eine sonnenbrille,weather_query,9
+864,10221,die einrichtung eines lebensmittelverarbeitungsbetriebs in unserem haus hat vorteile und nachteile,cooking_recipe,3
+865,17033,antworte auf die mail von anke am morgen,email_sendemail,5
+866,8277,lösche alle terawatts treffen,calendar_remove,2
+867,5662,sollte ich meine sonnencreme auftragen,weather_query,9
+868,15907,antwort an horst nachricht,email_sendemail,5
+869,5320,zeige mir das gestrige wetter,weather_query,9
+870,12148,ich muss freitag nacht nach gera kannst du mir bitte ein ticket buchen,transport_ticket,8
+871,3531,kannst du bitte die zeitzone auf deutschland ändern,datetime_convert,4
+872,15850,sende eine email an jobs at gmx punkt com,email_sendemail,5
+873,3802,zeige mir das morgige wetter für köln,weather_query,9
+874,16404,sende email an tim,email_sendemail,5
+875,5344,gibt es eine chance auf schnee am mittwoch,weather_query,9
+876,5174,wie soll das wetter die gesamte woche werden,weather_query,9
+877,16167,ich muss charlotte eine antwort schicken,email_sendemail,5
+878,11855,bitte empfiehl mir einen film,recommendation_movies,7
+879,795,auf welche uhrzeit ist der wecker morgen gestellt,alarm_query,0
+880,1543,bitte sage mir ob es dieses wochenende schnee geben wird,weather_query,9
+881,12193,ein zug fahrkarte ab von köln zu leipzig dass über hannover,transport_ticket,8
+882,9667,fahre die wiedergabe von das urteil von kool savas fort,play_audiobook,6
+883,16937,speichere die email für später,email_sendemail,5
+884,513,nach unseren bewertungen,weather_query,9
+885,6022,ist heute abend ein milder abend,weather_query,9
+886,10179,wie grillt man ein steak gut,cooking_recipe,3
+887,3692,wiederhole bitte den letzten satz von diesem buch,play_audiobook,6
+888,568,wie kalt ist es,weather_query,9
+889,9990,sag mir verschiedene arten wie man kochen lernen kann,cooking_recipe,3
+890,8108,lösche veranstaltung,calendar_remove,2
+891,10161,was passt zu reiswein,cooking_recipe,3
+892,7759,bitte lösche diese veranstaltung von meinem kalender,calendar_remove,2
+893,16475,schicken das email zu james bitte,email_sendemail,5
+894,15860,schicke meiner mutti eine email und frage nach dem wetter,email_sendemail,5
+895,7700,lösche meinen ganzen kalender,calendar_remove,2
+896,17171,diese email schreiben,email_sendemail,5
+897,3304,olly wie ist das wetter diese woche,weather_query,9
+898,5724,wie wird das wetter heute in der nacht,weather_query,9
+899,1405,wie heiß ist es gerade in köln,weather_query,9
+900,236,habe ich einen wecker für den morgen flug gestellt,alarm_query,0
+901,7389,bitte lösche das abendessen an diesem freitag um einundzwanzig uhr,calendar_remove,2
+902,650,ich muss einen wecker stellen wie viele hab ich gestellt,alarm_query,0
+903,12323,ursprung und ziel,transport_ticket,8
+904,16278,sende die folgende email an meinen bruder hi komm vorbei heute abend zum abendessen,email_sendemail,5
+905,3560,bitte reduziere den sound,audio_volume_down,1
+906,8371,hey olly lösche meinen kalender am zwanzigsten,calendar_remove,2
+907,239,regnet es in köln,weather_query,9
+908,16118,schicke nur jana hilfe,email_sendemail,5
+909,8815,gehe zum monats termin und lösche ihn,calendar_remove,2
+910,16600,ich möchte eine email an meinen freund jan at gmail punkt com senden,email_sendemail,5
+911,16238,schicke eine email,email_sendemail,5
+912,4219,brauche ich jetzt draußen einen mantel,weather_query,9
+913,326,abend,weather_query,9
+914,4079,wann ist mein wecker für morgen früh,alarm_query,0
+915,5252,kann ich ohne regenschirm raus gehen,weather_query,9
+916,12664,zug tickets für zwei personen von hamburg nach leipzig,transport_ticket,8
+917,15883,ich möchte allen antworten,email_sendemail,5
+918,3303,wie wird das wetter diese woche,weather_query,9
+919,17155,antworte auf antons email,email_sendemail,5
+920,2543,wie ist das wetter in meiner nähe,weather_query,9
+921,9883,geh zurück zu the midnight series,play_audiobook,6
+922,5710,werde ich sonnenblocker diesen nachmittag brauchen,weather_query,9
+923,9785,öffne das buch,play_audiobook,6
+924,16632,wirst du eine email an diese neue email adresse schicken,email_sendemail,5
+925,2177,finde mir die aktuelle wetterlage,weather_query,9
+926,10207,bitte erklär das reis rezept,cooking_recipe,3
+927,1322,hole den heutigen wetterbericht,weather_query,9
+928,5334,welche wecker hast du gestellt,alarm_query,0
+929,11810,welche filme in der nähe gespielt werden,recommendation_movies,7
+930,16004,hey ich möchte eine email an meinen freund schicken,email_sendemail,5
+931,8632,kannst du das aus meinem kalender löschen,calendar_remove,2
+932,4354,wie ist das aktuelle wetter in münchen,weather_query,9
+933,17021,auf die letzte erhaltene email antworten,email_sendemail,5
+934,3097,regnet es heute in hamburg,weather_query,9
+935,8546,lösche meinen kalender leer,calendar_remove,2
+936,10013,rezept aussuchen,cooking_recipe,3
+937,15944,email administrator,email_sendemail,5
+938,1254,wie war die temperatur diesen morgen in berlin,weather_query,9
+939,9813,spiele das hörbuch das hässliche entlein von hans christian andersen,play_audiobook,6
+940,8554,die weihnachtsfeier in der kirche nächsten mittmwoch löschen,calendar_remove,2
+941,16435,ich möchte meine email so beginnen,email_sendemail,5
+942,1390,olly wie wird das wetter am samstag werden,weather_query,9
+943,16329,antworte auf sarahs email,email_sendemail,5
+944,1037,welche wecker habe ich für donnerstag gestellt,alarm_query,0
+945,10211,was ist rezept,cooking_recipe,3
+946,204,habe ich irgendwelche wecker,alarm_query,0
+947,9814,öffne bücher und spiel das hirnbuch ab kapitel neun,play_audiobook,6
+948,4766,brauche ich heute früh einen mantel,weather_query,9
+949,4214,stell meine uhr von meiner aktuellen zeitzone auf die zentrale zeitzone um,datetime_convert,4
+950,1787,lautstärke verringern,audio_volume_down,1
+951,5430,wird es heute abend kalt genug sein für fäustlinge,weather_query,9
+952,16963,lies email und schick sie an familienmitglied,email_sendemail,5
+953,16015,bitte eine email an jesse,email_sendemail,5
+954,241,was passiert draußen,weather_query,9
+955,8441,lösche meinen gesamten kalender,calendar_remove,2
+956,9825,spiel das lied von nena's hörbuch weiter,play_audiobook,6
+957,12138,buche ein zug ticket für mich,transport_ticket,8
+958,5998,wenn es hier sechs uhr morgens ist wie spät ist es in tokyo,datetime_convert,4
+959,17067,antworte auf die email von peter,email_sendemail,5
+960,4593,erzähl mir von zukünftigen weckern,alarm_query,0
+961,8563,lösche meinen termin morgen um fünfzehn uhr,calendar_remove,2
+962,9803,starte das hörbuch the two towers,play_audiobook,6
+963,12893,ich möchte dass sie einen zug fahrkarte für mich,transport_ticket,8
+964,1436,welche wecker habe ich,alarm_query,0
+965,5302,ok google wie wird das wetter am zwanzigsten märz zweitausendsiebzehn,weather_query,9
+966,1689,wie ist die dieswöchige wettervorhersage,weather_query,9
+967,10101,wie macht man steak,cooking_recipe,3
+968,7091,lösche kalender veranstaltungen,calendar_remove,2
+969,2293,ist es möglich das es regen in der heutigen vorhersage gibt,weather_query,9
+970,11591,empfiehl mir einen film mit david kross,recommendation_movies,7
+971,5843,alexa brauche ich heute einen regenschirm,weather_query,9
+972,7740,entferne leons geburtstagsfeier von meinem kalender,calendar_remove,2
+973,9933,finde ein rezept für ein romantisches abendessen zu zweit,cooking_recipe,3
+974,10181,was sind die zutaten für käsemakkaroni,cooking_recipe,3
+975,16307,erstelle eine email an meine familie,email_sendemail,5
+976,16043,schicke john eine mail für den finanzreport zweitausendsiebzehn,email_sendemail,5
+977,12594,google kannst du mir ein ticket für den zug morgen buchen,transport_ticket,8
+978,8897,lösche alle meine termine für heute,calendar_remove,2
+979,11872,kannst du irgendwelche filme empfehlen die momentan in meiner gegend laufen,recommendation_movies,7
+980,8832,formatiere daten aus kalander,calendar_remove,2
+981,17128,neue adresse in emailformular eingeben,email_sendemail,5
+982,12754,ich will das billigste zug ticket nach berlin,transport_ticket,8
+983,8098,hi google bitte lösche alle termine für freitag,calendar_remove,2
+984,2223,wetter in köln,weather_query,9
+985,9016,lösch alle termine aus dem kalender,calendar_remove,2
+986,788,wie ist gerade die temperatur,weather_query,9
+987,12517,kannst du für diesen tag ein zug ticket reservieren,transport_ticket,8
+988,10114,was brauche ich für einen guten burger,cooking_recipe,3
+989,5167,muss ich heute nachmittag einen regenschirm mit nach berlin nehmen,weather_query,9
+990,12641,buch bitte den fünf uhr zug nach köln,transport_ticket,8
+991,1484,prüfe die wecker die ich habe,alarm_query,0
+992,7869,nimm die veranstaltung aus dem kalender raus,calendar_remove,2
+993,12333,buche für morgen ein verfügbares zug ticket von hamburg nach berlin für mich,transport_ticket,8
+994,11694,irgendwelche guten filme,recommendation_movies,7
+995,1603,prüfe ob ich irgendwelche wecker für morgen früh gestellt habe,alarm_query,0
+996,10228,wie bereite ich all mein essen fürs kochen vor,cooking_recipe,3
+997,12216,buche einen flug schein nach,transport_ticket,8
+998,16743,schicke die folgende email meiner schwester,email_sendemail,5
+999,9685,bitte weiter lesen,play_audiobook,6
+1000,5039,ist es regnerisch in meiner gegend,weather_query,9
+1001,8295,lösche alle veranstaltungen,calendar_remove,2
+1002,5188,wie ist das wetter in hamburg,weather_query,9
+1003,9790,fange an das hörbuch die schöne und das biest an,play_audiobook,6
+1004,4215,ich brauche die zeitzone von london england anstatt der zentralen zeitzone,datetime_convert,4
+1005,10148,finde das das am besten bewertete rezept von chefkoch dot d. e. für ein vierkäseomelett,cooking_recipe,3
+1006,3736,lautsprecher lautstärke runter,audio_volume_down,1
+1007,4107,welche wecker sind auf dem handy gestellt,alarm_query,0
+1008,15953,olly schick eine email an jochen und frag wann er feierabend macht,email_sendemail,5
+1009,10233,ist fish and chips wirklich britisch,cooking_recipe,3
+1010,1634,olly zeige mir meine wecker,alarm_query,0
+1011,1313,wie ist die wettervorherage für heute,weather_query,9
+1012,9833,spiel das lied vom elvis presley hörbuch weiter,play_audiobook,6
+1013,16060,antworte auf die email von meiner bank und informiere sie dass ich die kreditkarten gebühren bezahlt habe,email_sendemail,5
+1014,9181,lösche mein geburtstag erinnerungen nächste woche,calendar_remove,2
+1015,8927,entferne alle termine aus meinem ganzen kalender,calendar_remove,2
+1016,5610,für wann sind meine wecker gestetllt,alarm_query,0
+1017,3150,wann geht mein wecker am morgen los,alarm_query,0
+1018,16595,email weiterleiten,email_sendemail,5
+1019,4744,liste alle meine zukünftigen wecker auf,alarm_query,0
+1020,12356,ich brauche ein zug ticket,transport_ticket,8
+1021,3856,wird es morgen sonnig,weather_query,9
+1022,10178,lerne wie man kartoffeln richtig schneidet,cooking_recipe,3
+1023,9877,ich möchte gern mein hörbuch anhören,play_audiobook,6
+1024,3664,kannst du mir die temperatur für samstag nacht sagen,weather_query,9
+1025,4760,ist schnee in der vorhersage,weather_query,9
+1026,12653,bestelle ein zug ticket nach köln,transport_ticket,8
+1027,9666,spielen hörbuch,play_audiobook,6
+1028,12471,kaufe eine bahn fahrkarte,transport_ticket,8
+1029,9915,sag mir wie man steak macht,cooking_recipe,3
+1030,9094,lösche geplantes treffen mit tom am einundzwanzigsten märz,calendar_remove,2
+1031,6110,ich brauche heute nach sonnenuntergang einen regenschirm,weather_query,9
+1032,432,wie ist jetzt das wetter draßen,weather_query,9
+1033,1604,um welche uhrzeit ist mein wecker morgen früh gestellt,alarm_query,0
+1034,690,es ist zu laut reduziere die lautstärke,audio_volume_down,1
+1035,5234,werde ich später den regenschirm nehmen,weather_query,9
+1036,9713,spiel richard david precht hörbuch,play_audiobook,6
+1037,16906,sende eine email an meine familie und frage wie es ihnen geht,email_sendemail,5
+1038,16246,schicken email zu jana at a. o. l. punkt de und als neuen kontakt hinzufügen,email_sendemail,5
+1039,9864,setzte das die schlümpfe buch fort,play_audiobook,6
+1040,9908,setze krieg und frieden fort,play_audiobook,6
+1041,8179,kannst du alle termine aus meinem kalender löschen,calendar_remove,2
+1042,9083,lösche alle veranstaltung,calendar_remove,2
+1043,4559,zeige mir die vorhersage für diese woche,weather_query,9
+1044,16095,email meinem chef dass ich heute später komme,email_sendemail,5
+1045,15952,schick johannes eine email und frag wann er feierabend macht,email_sendemail,5
+1046,4093,war es gestern windig,weather_query,9
+1047,1262,wann ist mein wecker gestellt,alarm_query,0
+1048,10103,bring mich zu einem video wie man spaghetti kocht,cooking_recipe,3
+1049,300,wie ist die vorhersage für heute,weather_query,9
+1050,8556,lösche arbeitsmittagessen diesen freitag,calendar_remove,2
+1051,16567,email an vater über die reparatur meines autos,email_sendemail,5
+1052,7339,lösche das meeting morgen,calendar_remove,2
+1053,14649,wie man kocht,cooking_recipe,3
+1054,5800,brauche ich eine jacke nach zweiundzwanzig uhr in meiner gegend,weather_query,9
+1055,3615,morgen ist ein sonniger tag richtig,weather_query,9
+1056,8281,entferne alle geplanten veranstaltungen vom kalender,calendar_remove,2
+1057,1457,wie ist es in münchen,weather_query,9
+1058,5586,brauche ich regenstiefel,weather_query,9
+1059,5617,ändere die zeitzone von der irischen auf die moskauische,datetime_convert,4
+1060,16055,schick mail an silvia für carolina,email_sendemail,5
+1061,12763,ich brauch ein zug ticket nach,transport_ticket,8
+1062,11671,sage mir die filme die heute abend in köln laufen,recommendation_movies,7
+1063,9974,was ist eine gute vegane ei alternative,cooking_recipe,3
+1064,8240,lösche alles aus meinem kalender,calendar_remove,2
+1065,2308,es ist zehn uhr in der östlichen standard zeit wie spät ist es gerade in der pazifischen standard zeit,datetime_convert,4
+1066,4128,habe ich aktuell irgendwelche wecker gestellt,alarm_query,0
+1067,7910,morgen mein acht uhr veranstaltungen löschen,calendar_remove,2
+1068,10000,wie kann mein ein ei pochieren,cooking_recipe,3
+1069,5377,prüfe bitte das wetter am dienstag,weather_query,9
+1070,6004,muss ich heute einen regenschirm mitnehmen,weather_query,9
+1071,7133,ich werde nicht mehr an der hochzeit am zehnten teilnehmen also lösche sie aus meinem kalender,calendar_remove,2
+1072,8104,bitte löschen sie alle termine für heute,calendar_remove,2
+1073,12058,gibt es irgendwelche guten filme im kino in der nähe,recommendation_movies,7
+1074,9905,setzte die wiedergabe von dort fort wo ich aufgehört habe,play_audiobook,6
+1075,7340,sage mein treffen für morgen ab,calendar_remove,2
+1076,16644,mach dich bereit eine ausgehende antwortemail zu schicken,email_sendemail,5
+1077,1082,deine lautstärke ist zu hoch bitte wiederhole das etwas leiser,audio_volume_down,1
+1078,10244,bitte schau nach den besten rezepten,cooking_recipe,3
+1079,9753,olly kannst du jagd auf roter oktober spielen,play_audiobook,6
+1080,5973,habe ich wecker vor sechs uhr morgens gestellt,alarm_query,0
+1081,9854,fahre das twilight audio fort,play_audiobook,6
+1082,3964,wie viele wecker sind gestellt,alarm_query,0
+1083,1339,welche wecker sind am morgen eingestellt,alarm_query,0
+1084,10071,wie lange kocht man ein ganzes huhn auf dreihundertfünfzig,cooking_recipe,3
+1085,16014,kannst du eine email für mich erstellen,email_sendemail,5
+1086,16957,schreibe eine email an meinen ehemann,email_sendemail,5
+1087,10215,zeige ergebnisse für das kochen von lasagne aus dem netz,cooking_recipe,3
+1088,2247,wird es am mittwoch noch immer regnerisch und kalt sein,weather_query,9
+1089,13004,wie hoch ist die wahrscheinlichkeit dass es heute regnen wird,weather_query,9
+1090,10189,zeige chicken tikka rezepte an,cooking_recipe,3
+1091,9695,spiel schrei von tokio hotel,play_audiobook,6
+1092,16449,ich muss marie jones email adresse ändern,email_sendemail,5
+1093,7327,lösche alle einträge aus meinem kalender,calendar_remove,2
+1094,12130,plane eine reise nach chemnitz mit dem zug,transport_ticket,8
+1095,12900,sichere mir eine fahrt mit der bahn am dritten juli,transport_ticket,8
+1096,9928,sag mir wie man nudeln kocht,cooking_recipe,3
+1097,2557,wie ist das wetter in köln,weather_query,9
+1098,336,schneit es in hamburg,weather_query,9
+1099,15835,bitte antworte auf meine aktuellste email,email_sendemail,5
+1100,8547,lösche das event,calendar_remove,2
+1101,1338,welche wecker habe ich für morgen gestellt,alarm_query,0
+1102,10149,finde das am besten bewertete rezept von chefkoch d. e. für ein vierkäseomelett,cooking_recipe,3
+1103,2706,erhöhe die lautstärke um zwanzig prozent,audio_volume_down,1
+1104,7063,lösche alle meine veranstaltungen,calendar_remove,2
+1105,16536,schick eine email an meinen vorgesetzten,email_sendemail,5
+1106,8470,lösche alle veranstaltungen aus meinem kalender diesen monat,calendar_remove,2
+1107,10030,ich brauche ein puttanesca rezept aus der zeit vor eintausendneunhundertundsiebzig,cooking_recipe,3
+1108,15748,sende eine email an martha dass der letzte abend krass war,email_sendemail,5
+1109,9017,kalender lösche alles,calendar_remove,2
+1110,9129,lösche die veranstaltung,calendar_remove,2
+1111,8526,lösche das treffen von der kalender app,calendar_remove,2
+1112,9922,wie rolle ich sushi,cooking_recipe,3
+1113,16172,schicke eine email an mama und sag ihr ich sehe dich im disneyland,email_sendemail,5
+1114,343,wie wird morgen das wetter sein,weather_query,9
+1115,4530,wie lautet die beschreibung für den um elf uhr gestellten wecker,alarm_query,0
+1116,10094,wie kocht man krabben,cooking_recipe,3
+1117,12155,reserviere ein ticket um mit der bahn zum ziel zu gelangen,transport_ticket,8
+1118,1780,ich hoffe es ist dort sonniges wetter,weather_query,9
+1119,11635,um wie viel uhr wird morgen ein film gezeigt,recommendation_movies,7
+1120,6606,top ten filme,recommendation_movies,7
+1121,6727,entferne chat mit albert,calendar_remove,2
+1122,11772,welche filme laufen gerade,recommendation_movies,7
+1123,10202,sag mir wie man tacos macht,cooking_recipe,3
+1124,16345,ich muss eine neue email absenden hier ist die adresse und füge sie der kontaktliste hinzu,email_sendemail,5
+1125,16213,schick eine email an vater wie ist das wetter diese woche,email_sendemail,5
+1126,5077,es scheint kalt zu sein,weather_query,9
+1127,11870,was sind die aktuellen filme die in meiner gegend laufen,recommendation_movies,7
+1128,11792,nenn mir einen film wie star wars,recommendation_movies,7
+1129,2257,schneit es gerade,weather_query,9
+1130,2653,wird es am samstag regnen,weather_query,9
+1131,10015,wie man einen truthahn für erntedankfest zubereitet in fünf sätzen,cooking_recipe,3
+1132,10075,wann hat spargel saison,cooking_recipe,3
+1133,8331,lösche mein treffen morgen,calendar_remove,2
+1134,3770,liste wecker auf,alarm_query,0
+1135,9960,wie dämpfe ich reis,cooking_recipe,3
+1136,7144,lösche die party am ersten juni aus meinem kalender,calendar_remove,2
+1137,17132,bitte entwerfe eine email an sebastian und bitte darum die nächsten sonntage frei zu nehmen,email_sendemail,5
+1138,16233,schreibe an daniel eine email antwort und warne ihn wegen der möwen am strand,email_sendemail,5
+1139,10183,was sind jalapenos,cooking_recipe,3
+1140,16617,sende eine email an michael wegen der party dieses wochenende,email_sendemail,5
+1141,9919,wie lautet das rezept für pastasauce,cooking_recipe,3
+1142,12643,besorge mir eine fahrkarte für den siebzehn uhr pendlerzug nach gotha,transport_ticket,8
+1143,16958,beginn eine email an den kunden,email_sendemail,5
+1144,17086,darauf antworten bitte,email_sendemail,5
+1145,5585,brauche ich für heute sonnencreme,weather_query,9
+1146,3027,summe von schneevorhersagen in münchen,weather_query,9
+1147,9801,öffne songtexte,play_audiobook,6
+1148,7430,ich möchte dieses ereignis aus meinem kalender entfernt haben,calendar_remove,2
+1149,1768,wandle zehn uhr dreißig g. m. t. um zu c. e. t.,datetime_convert,4
+1150,605,wie wird das wetter am dienstag sein,weather_query,9
+1151,1992,kann du mir sagen wie das wetter am montag wird,weather_query,9
+1152,16727,antworte auf meine email von sascha mit danke,email_sendemail,5
+1153,12524,buch das preiswerteste zug ticket nach hamburg,transport_ticket,8
+1154,4539,ich will nicht dass du diesen text sendest bis ich es sage,email_sendemail,5
+1155,2266,was macht das wetter in münchen bayern jetzt,weather_query,9
+1156,10160,was passt zu risotto,cooking_recipe,3
+1157,8831,lösche alle daten aus dem kalender,calendar_remove,2
+1158,16127,schick email an marina sander,email_sendemail,5
+1159,5645,wie soll heute abend das wetter werden,weather_query,9
+1160,823,wie ist das wetter wo ich heute bin,weather_query,9
+1161,15804,emaile james vom softball spiel james wir müssen ein paar getränke holen vorm losfahren,email_sendemail,5
+1162,320,sollte ich morgen einen regenschirm nehmen,weather_query,9
+1163,5542,sag mir ob für das treffen dienstags ein wecker gestellt ist,alarm_query,0
+1164,16970,ich möchte dass die email an meine neue email adresse gesendet wird a. b. c. at gmail dot com,email_sendemail,5
+1165,8835,lösche alles in meinem kalender für die nächsten zwei wochen,calendar_remove,2
+1166,15833,gehe zu meinen emails und sende eine nachricht an,email_sendemail,5
+1167,1605,ist der wecker für morgen früh gestellt,alarm_query,0
+1168,8926,lösche jeden einzelnen veranstaltungen aus meinem gesamten kalender,calendar_remove,2
+1169,6903,streiche den zahnarzttermin nächste woche,calendar_remove,2
+1170,7961,lösche alle meine treffen,calendar_remove,2
+1171,10036,wie kocht man gelben reis,cooking_recipe,3
+1172,8162,ändere das geplante treffen,calendar_remove,2
+1173,9983,olly wie mache ich eine hummersuppe,cooking_recipe,3
+1174,12747,buch bitte ein zug ticket für mich,transport_ticket,8
+1175,5417,wie wird es heute werden,weather_query,9
+1176,10051,finde mir ein spaghetti rezept,cooking_recipe,3
+1177,5303,alexa wie wird das wetter am zwanzigsten märz zweitausendsiebzehn,weather_query,9
+1178,2326,was ist die vorhersage,weather_query,9
+1179,4390,schalte die lautstärke runter,audio_volume_down,1
+1180,6769,entferne meine nächste veranstaltung,calendar_remove,2
+1181,11747,welche filme werden heute abend um einundzwanzig uhr im u. c. i. gezeigt,recommendation_movies,7
+1182,4473,brauche ich heute sonnencreme,weather_query,9
+1183,6020,darf ich etwas über den von dir gestellen alarm erfahren,alarm_query,0
+1184,2135,wann ist der nächste wecker,alarm_query,0
+1185,17126,antworte auf paul's email,email_sendemail,5
+1186,3505,wie wird das wetter nächste woche in münchen,weather_query,9
+1187,15830,sende das,email_sendemail,5
+1188,16700,gehe zu meiner gmail und klicke auf verfassen wenn fertig werde ich dir sagen was ich in der email schreiben möchte,email_sendemail,5
+1189,6728,sage das frühstück bei tiffanys haus ab,calendar_remove,2
+1190,16312,schick eine email an frank bei der arbeit,email_sendemail,5
+1191,8833,meinen rest des tages den,calendar_remove,2
+1192,12272,buche ein zug ticket für mich morgen nach erfurt egal welcher zug,transport_ticket,8
+1193,1329,ist das wetter heute normal,weather_query,9
+1194,7765,gibt es eine möglichkeit meinen kalender zu löschen,calendar_remove,2
+1195,10043,wie viele tassen zucker enthält der zuckerguss eines texanischen kuchens,cooking_recipe,3
+1196,16590,google ich muss diese letzte email beantworten,email_sendemail,5
+1197,7391,ich werde mich morgen nicht mehr mit meiner mutter zum mittagessen treffen,calendar_remove,2
+1198,1656,zeige mir alle geplanten wecker,alarm_query,0
+1199,5338,normale temperatur,weather_query,9
+1200,3379,heutige vorhersage,weather_query,9
+1201,5995,muss ich heute meine regenjacke anziehen,weather_query,9
+1202,7701,lösche alle veranstaltungen in meinem kalender,calendar_remove,2
+1203,17028,olly lasst uns email sandra,email_sendemail,5
+1204,3737,die lautstärke an den lautsprechern verringern,audio_volume_down,1
+1205,7434,event aus meinem kalender löschen,calendar_remove,2
+1206,9828,fahre die wiedergabe fort,play_audiobook,6
+1207,9684,fahre mit dem hörbuch fort,play_audiobook,6
+1208,6088,wird es nächste woche dienstag sonnig,weather_query,9
+1209,17077,sende eine persönliche dankes email an george,email_sendemail,5
+1210,15846,wie ist es zu uns gekommen,email_sendemail,5
+1211,3885,welche wecker sind aktuell eingestellt,alarm_query,0
+1212,15831,starte eine neue email an,email_sendemail,5
+1213,16418,schick bitte eine email an onkel jonas und sag ihm dass ich da sein werde,email_sendemail,5
+1214,1009,wie wird das wetter dieses wochenende,weather_query,9
+1215,15107,welchen film empfiehlst du heute abend,recommendation_movies,7
+1216,8109,lösche die nächste veranstaltung im kalender,calendar_remove,2
+1217,3286,was ist die wahrscheinlichkeit von gewittern heute in köln,weather_query,9
+1218,661,bitte kann ich wissen wie spät es um achtzehn uhr hier in australien ist,datetime_convert,4
+1219,11958,zeige mir film zeiten,recommendation_movies,7
+1220,1919,erzähle mir vom wetter diese woche,weather_query,9
+1221,16080,email meiner mutter,email_sendemail,5
+1222,980,es ist sehr laut kannst du bitte die musik runterstellen,audio_volume_down,1
+1223,10012,suche nach deinen favorisierten gerichte,cooking_recipe,3
+1224,1920,wie ist das wetter für die schulwoche,weather_query,9
+1225,2888,sag mir das aktuelle wetter für köln,weather_query,9
+1226,7283,meinen termin um ein uhr dreißig löschen,calendar_remove,2
+1227,12500,kannst du bitte für nächsten samstag ein bahn ticket nach bamberg kaufen,transport_ticket,8
+1228,16200,bitte sende eine email an larrys neue email larrylarry at gmail punkt com,email_sendemail,5
+1229,16199,schick email an jans arbeitsemail,email_sendemail,5
+1230,2327,welche temperatur ist es,weather_query,9
+1231,12292,fahrkarte für berlin,transport_ticket,8
+1232,5587,ist heute ein sonnencreme tag,weather_query,9
+1233,16119,schick an jana nur hilfe,email_sendemail,5
+1234,3650,zeige mir das wetter für hamburg,weather_query,9
+1235,9670,spiele gemischtes hack erneut ab,play_audiobook,6
+1236,9687,spiele seven habits of effective people,play_audiobook,6
+1237,10212,gutes essen,cooking_recipe,3
+1238,11856,bitte empfehle einen film olly,recommendation_movies,7
+1239,12590,kannst du den zug fahrplan nach kassel checken,transport_ticket,8
+1240,1642,nein dreh es runter,audio_volume_down,1
+1241,12897,ich brauche eine goldklasse fahrkarte an zug nummer fünf mit meiner kreditkarte,transport_ticket,8
+1242,6026,temperatur,weather_query,9
+1243,3343,welche zeit ist der wecker gestellt,alarm_query,0
+1244,62,liste bitte alle aktiven wecker auf,alarm_query,0
+1245,11957,welche filme sind in der nähe von olly,recommendation_movies,7
+1246,4106,was wird morgen die höchsttemperatur in köln sein,weather_query,9
+1247,5538,brauche ich heute sonnencreme,weather_query,9
+1248,10069,wie viele teelöfel sind ein cup,cooking_recipe,3
+1249,11728,was ist der größte blockbuster diese woche,recommendation_movies,7
+1250,16102,schick meinem vorgesetzten eine email wegen meinem urlaub,email_sendemail,5
+1251,5956,sollte ich winterstiefel anziehen wenn ich zum laden gehe,weather_query,9
+1252,10142,finde die richtige temperatur um einen ganzen truthahn zu braten,cooking_recipe,3
+1253,5981,informiere mich über die wecker die du gestellt hast,alarm_query,0
+1254,6121,wie kalt ist das wetter jetzt gerade,weather_query,9
+1255,5075,wie ist das wetter für diese woche,weather_query,9
+1256,16969,bitte sende eine email an abc at gmail punkt com anstatt an xyz at gmail punkt com,email_sendemail,5
+1257,4505,ist es sonnig,weather_query,9
+1258,4500,wie ist der wöchentliche wetterbericht,weather_query,9
+1259,11590,empfehle einen film der letzten freitag veröffentlicht wurde,recommendation_movies,7
+1260,16109,antworte täglich auf alle emails die zwischen zweiundzwanzig uhr und sieben uhr morgens erhalten wurden,email_sendemail,5
+1261,12847,können sie für morgen früh ein zug ticket von hamburg nach berlin buchen,transport_ticket,8
+1262,7622,lösche alle meine veranstaltungen,calendar_remove,2
+1263,12561,buche ein zug ticket für freitag den vierzehnten april nach hamburg,transport_ticket,8
+1264,2224,wetter in hamburg,weather_query,9
+1265,8380,hey siri lösche egal was als nächstes auf meinem kalender steht,calendar_remove,2
+1266,15780,email an caroline wie geht es dir kannst du mir bitte aktualisierungen bezüglich des letzten projekts schicken gruss tomasz,email_sendemail,5
+1267,3707,wie wird das wetter sein an dem tag,weather_query,9
+1268,9848,spiel das jaiho lied hörbuch weiter,play_audiobook,6
+1269,7362,verlobung veranstaltung löschen,calendar_remove,2
+1270,5178,prüfe ob ich jetzt einen regenschirm brauche,weather_query,9
+1271,1235,wie spät ist es in singapur wenn es bei uns siebzehn uhr ist,datetime_convert,4
+1272,5166,wird es später in berlin regnen,weather_query,9
+1273,9898,lies das hörbuch war of the roses,play_audiobook,6
+1274,9806,spiel mir das madonna lied aus dem hörbuch,play_audiobook,6
+1275,2346,wie ist die derzeitige temperatur in münchen,weather_query,9
+1276,1052,wie ist heute die regen wahrscheinlichkeit,weather_query,9
+1277,2010,wird das wetter diese woche sonnig oder nicht,weather_query,9
+1278,6917,entferne ereignisse,calendar_remove,2
+1279,9950,hol mir ein rezept,cooking_recipe,3
+1280,15961,sende email an laura,email_sendemail,5
+1281,701,checke das wetter,weather_query,9
+1282,8872,lösche mittagessen mit michael,calendar_remove,2
+1283,16783,meine mutter braucht das wöchentliche wetter das ihr geschickt wird,email_sendemail,5
+1284,5235,regenschirm später,weather_query,9
+1285,4211,meinst du es ist okay diese woche eine kurze hose anzuziehen,weather_query,9
+1286,15859,leite diesen inhalt an mustermail at gmail dot com weiter,email_sendemail,5
+1287,9093,lösche alle veranstaltungen für märz aus dem kalender,calendar_remove,2
+1288,16954,suche kontakte,email_sendemail,5
+1289,833,wird dieses wochenende hier schneien,weather_query,9
+1290,5872,gibt es in münchen eine regen wahrscheinlich um die hitze zu besiegen,weather_query,9
+1291,5510,was ist die zeitdiffernz zwischen hier und da,datetime_convert,4
+1292,5498,zu welcher zeit kann ich aus sachsen nachrufen und es sind geschäftszeiten in amerika,datetime_convert,4
+1293,847,sind irgendwelche alarme jetzt gestellt,alarm_query,0
+1294,8296,lösche aktuellen kalender,calendar_remove,2
+1295,9932,olly welche zutaten braucht man für pudding,cooking_recipe,3
+1296,1541,ich will keinen regenschirm mitnehmen werden wir heute regen haben,weather_query,9
+1297,9101,arzttermin am elfter februar um neun uhr löschen,calendar_remove,2
+1298,16996,ich muss michael eine email schicken,email_sendemail,5
+1299,6762,lösche meinen juni urlaub aus dem kalender,calendar_remove,2
+1300,4051,ist es gerade am schneien,weather_query,9
+1301,7995,lösche meine aktuellen termine aus dem kalender,calendar_remove,2
+1302,557,wie viele wecker sind aufgeführt,alarm_query,0
+1303,5801,denkst du dass ich heute abend nach neunzehn uhr sandalen tragen kann oder sollte ich sneaker anziehen,weather_query,9
+1304,8871,entferne das treffen vom vierundzwanzigsten märz aus meinem plan,calendar_remove,2
+1305,9780,the god of small things nochmal spielen,play_audiobook,6
+1306,12192,bestelle mir eine fahrt von rostock nach münchen mit zehn sehenswerten orten auf dem weg,transport_ticket,8
+1307,4743,hey google sag mir welche wecker gestellt sind,alarm_query,0
+1308,3962,öffne die wetter app,weather_query,9
+1309,17029,olly sende bob eine email,email_sendemail,5
+1310,7702,lösche meinen plan,calendar_remove,2
+1311,12914,ich muss ein zug ticket nach hamburg kaufen,transport_ticket,8
+1312,10199,wie können wir biryani zubereiten,cooking_recipe,3
+1313,11723,informiere mich über die momentan populärste romantische komödie die in den kinos in hamburg läuft,recommendation_movies,7
+1314,12140,reserviere zug tickets,transport_ticket,8
+1315,16640,email max und sag ihm er soll sich beeilen,email_sendemail,5
+1316,15856,schick eine email an die aktuelle emailadresse,email_sendemail,5
+1317,1868,olly klimadetails jetzt,weather_query,9
+1318,1105,gebe mir den wetterbericht für hamburg,weather_query,9
+1319,8544,lösche alle meine veranstaltungen,calendar_remove,2
+1320,10113,wie macht man einen guten burger olly,cooking_recipe,3
+1321,16143,entwirf eine email an arnold,email_sendemail,5
+1322,16739,öffne eine neue email an kontakt,email_sendemail,5
+1323,9702,ich möchte ein buch von torey hayden hören,play_audiobook,6
+1324,9744,audio weiterspielen,play_audiobook,6
+1325,9177,lösche die reise veranstaltung,calendar_remove,2
+1326,9866,spiel das programm von dort ab wo ich gestern aufgehört hab,play_audiobook,6
+1327,17068,beantworte die email von anne,email_sendemail,5
+1328,16972,kannst du john via email antworten,email_sendemail,5
+1329,5644,wie wird das wetter heute nachmittag,weather_query,9
+1330,10219,was brauche ich um french toast zu machen,cooking_recipe,3
+1331,9938,wie lange soll ich einen hamburger auf jeder seite braten,cooking_recipe,3
+1332,6829,lösch alle besprechungen für morgen,calendar_remove,2
+1333,1968,regnet es draußen,weather_query,9
+1334,17024,sende mama eine email und erfrage wie das wetter diese woche wird,email_sendemail,5
+1335,16188,sende eine email an robert er soll mich heute abend treffen,email_sendemail,5
+1336,96,regnet es,weather_query,9
+1337,16129,sende eine email mit der antwort an sarah vielen dank,email_sendemail,5
+1338,8613,meine veranstaltung lösche,calendar_remove,2
+1339,15832,sende dem kontakt eine email wie folgt,email_sendemail,5
+1340,4469,werde ich heute eine jacke brauchen,weather_query,9
+1341,700,wie sind die wetter informationen,weather_query,9
+1342,12459,zeige mich zug eintrittskarten,transport_ticket,8
+1343,10223,es wäre lecker,cooking_recipe,3
+1344,15759,erinnerung an pawel,email_sendemail,5
+1345,16879,sende email an jerry für treffen,email_sendemail,5
+1346,10068,wie lange kocht man stampfkartoffeln,cooking_recipe,3
+1347,9985,können wir steak mit hähnchen machen,cooking_recipe,3
+1348,4627,soll es morgen regnen,weather_query,9
+1349,1190,wenn es in brandenburg mitternacht ist wie spät ist es dann in münchen,datetime_convert,4
+1350,17127,antworte auf mamas mail nachricht über die rezepte seite,email_sendemail,5
+1351,1938,wetterbericht für köln,weather_query,9
+1352,12705,öffne die zug ticket app,transport_ticket,8
+1353,9843,starte wieder den aktuellen song,play_audiobook,6
+1354,9846,fahre fort von der letzten pausierten stelle meines hörbuchs,play_audiobook,6
+1355,16234,ich will dass du auf jennifers email antwortes wir werden später kommen,email_sendemail,5
+1356,1707,dreh die lautsprecher auf fünf prozent herunter,audio_volume_down,1
+1357,7284,lösche meinen zahnarzttermin,calendar_remove,2
+1358,740,wie feucht ist die umwelt heute,weather_query,9
+1359,10153,finde ein rezept für huhn alfredo,cooking_recipe,3
+1360,10230,wie lange wird es dauern das gericht fertig zu kochen,cooking_recipe,3
+1361,7543,alle veranstaltungen für nächste woche aus meinem kalender löschen,calendar_remove,2
+1362,5454,nehme ich die schwarze sonnenbrille oder nicht,weather_query,9
+1363,656,wie ist das aktuelle wetter in berlin,weather_query,9
+1364,7092,lösche kalender termine,calendar_remove,2
+1365,9859,öffne audible und spiel das buch weiter das ich gehört habe,play_audiobook,6
+1366,3971,olly wie ist das wetter jetzt gerade,weather_query,9
+1367,5875,sollte ich heute ein kleid oder ein sweatshirt tragen,weather_query,9
+1368,10240,welcher teil vom rindfleisch schmeckt am besten,cooking_recipe,3
+1369,16674,schicke eine email an maxmax at gmail dot com,email_sendemail,5
+1370,6459,wie ist das wetter draußen ist es wolkig,weather_query,9
+1371,4438,wetter münchen bayern,weather_query,9
+1372,8255,lösche die veranstaltung,calendar_remove,2
+1373,859,wetter bericht,weather_query,9
+1374,16839,sende eine email an meine frau,email_sendemail,5
+1375,12648,praktische fahrprüfung,transport_ticket,8
+1376,1723,wie wird das wetter am neunten februar zweitausendundsiebzehn in regensburg sein,weather_query,9
+1377,15768,schreibe eine email an tobi per tobiheute at gmail punkt com,email_sendemail,5
+1378,5008,brauche ich diesen nachmittag eine jacke,weather_query,9
+1379,9989,wie kann ich kochen lernen,cooking_recipe,3
+1380,16509,email beantworten,email_sendemail,5
+1381,278,wie ist das wetter gerade in hamburg,weather_query,9
+1382,16346,schick elena ein email und erinnere sie nicht die orangen am morgen zu vergessen,email_sendemail,5
+1383,16195,schick email an elli,email_sendemail,5
+1384,16281,bitte senden sie eine email an toms schulleiter in bezug auf das treffen das wir morgen haben,email_sendemail,5
+1385,14349,google welche temperatur ist draußen,weather_query,9
+1386,8340,lösche meine nächste veranstaltung,calendar_remove,2
+1387,3130,ist es heute windig,weather_query,9
+1388,1857,runter,audio_volume_down,1
+1389,4961,mussd den regenschirm heute abend mitnehmen,weather_query,9
+1390,2999,wetter für die nächsten acht tage in hamburg,weather_query,9
+1391,2050,prüfe das wetter von münchen stadt,weather_query,9
+1392,9128,lösche das die nächste veranstaltung im kalender,calendar_remove,2
+1393,4435,an welchem tag wird es sonnig sein,weather_query,9
+1394,3284,wie ist das wetter in münchen,weather_query,9
+1395,648,kannst du mir sagen welche wecker ich gestellt habe,alarm_query,0
+1396,16429,schick bitte eine email an mama und sag dass ich es nächste woche schaffen kann,email_sendemail,5
+1397,9752,spiel der nasse fisch weiter,play_audiobook,6
+1398,6854,lösche die nächste veranstaltung aus dem kalender,calendar_remove,2
+1399,15902,bitte antworte meinen kollegen in bezug auf diese anfrage,email_sendemail,5
+1400,8257,lösche alle termine,calendar_remove,2
+1401,4113,errechne den zeitunterschied zwischen i. s. t. und e. s. t.,datetime_convert,4
+1402,558,habe ich für morgen irgendwelche wecker gestellt,alarm_query,0
+1403,5012,ist es jetzt am stürmen,weather_query,9
+1404,1309,wie ist heute das klima,weather_query,9
+1405,7290,lösche alle meine termine für heute,calendar_remove,2
+1406,11765,lernspiele,recommendation_movies,7
+1407,3483,wie ist heute das wetter zuhause,weather_query,9
+1408,16599,lösch diese email,email_sendemail,5
+1409,5230,sollte ich heute einen hut tragen,weather_query,9
+1410,9766,spiel das hörbuch von jacob,play_audiobook,6
+1411,4789,wie ist das wetter heute,weather_query,9
+1412,17129,email an neue person verfassen,email_sendemail,5
+1413,2915,drehe die lautsprecher leiser,audio_volume_down,1
+1414,16905,email an familie geburtstag,email_sendemail,5
+1415,10159,wie macht man spiegeleier,cooking_recipe,3
+1416,12271,kannst du mir ein zug ticket nach münchen für morgen buchen,transport_ticket,8
+1417,9870,ich möchte die schatzinsel von robert louis stevenson anhören,play_audiobook,6
+1418,1867,klimadetails jetzt,weather_query,9
+1419,11672,filmzeiten heute abend,recommendation_movies,7
+1420,4434,wie ist die vorhersage für diese woche,weather_query,9
+1421,12147,olly ich muss freitag nacht nach hamburg kannst du mir bitte ein ticket buchen,transport_ticket,8
+1422,5665,muss ich draußen meine sonnenbrille tragen,weather_query,9
+1423,9774,hörbuch abspielen wo wir aufgehört haben,play_audiobook,6
+1424,4682,ist es heute heiß und schwül oder warm und feucht in hamburg,weather_query,9
+1425,4665,wie ist das wetter in köln,weather_query,9
+1426,12522,buch ein zug ticket für mich,transport_ticket,8
+1427,1685,ja oder nein die morgige temperatur wird heiß,weather_query,9
+1428,1020,wie ist das wetter gerade,weather_query,9
+1429,5790,ist es heute heiß,weather_query,9
+1430,16240,schick email an ehemann um nach restaurantideen zu fragen,email_sendemail,5
+1431,9745,starte audio,play_audiobook,6
+1432,10082,wie macht man vegetarische lasagne,cooking_recipe,3
+1433,2064,wie wird das wetter diese woche werden,weather_query,9
+1434,15888,kannst du bitte eine liste von lokalen restaurants zusammenstellen und sie als email an meinen mann schicken,email_sendemail,5
+1435,2331,wie ist das wetter jetzt gerade,weather_query,9
+1436,5484,ist es zu heiß für eine lange hose,weather_query,9
+1437,4122,lass mich die weck zeit wissen,alarm_query,0
+1438,4863,wie ist das wetter in hamburg,weather_query,9
+1439,10074,wie lange kocht man ein ei,cooking_recipe,3
+1440,9036,sag alle veranstaltungen für heute ab und markier mich als beschäftigt,calendar_remove,2
+1441,10014,ich möchte in fünf sätzen wissen wie man einen truthahn für das erntedankfest zubereitet,cooking_recipe,3
+1442,5935,brauche ich heute einen regenschirm,weather_query,9
+1443,10225,es sollte scharf sein,cooking_recipe,3
+1444,9805,spiel das michael jackson lied vom hörbuch,play_audiobook,6
+1445,8814,gehe zum event tag und lösche ihn,calendar_remove,2
+1446,10087,wie koche ich fleischbällchen,cooking_recipe,3
+1447,9888,setzte die wiedergabe von goblet of fire dort fort wo ich aufgehört habe,play_audiobook,6
+1448,17016,ich möchte auf die email antworten,email_sendemail,5
+1449,2065,wie ist das wetter diese woche,weather_query,9
+1450,9900,fahre fort wo wir bei battle royale aufgehört haben,play_audiobook,6
+1451,17022,alexa email an mama frag sie wie das wetter bei ihr ist,email_sendemail,5
+1452,4750,wird es schneien,weather_query,9
+1453,1263,wie viele wecker habe ich,alarm_query,0
+1454,17085,lass auf diese email antworten,email_sendemail,5
+1455,3095,wie ist das wetter in münchen,weather_query,9
+1456,9901,finde eine hörbuch version von ready player one und spiel es für mich,play_audiobook,6
+1457,792,geht der sommer weiter,weather_query,9
+1458,2047,verringer die lautstärke,audio_volume_down,1
+1459,3612,es wird nicht regnen oder,weather_query,9
+1460,5331,zeitzonenunterschied zwischen deutschland und schweden,datetime_convert,4
+1461,9779,spiel der gott der kleinen dinge,play_audiobook,6
+1462,3482,wie ist das heutige wetter in hamburg,weather_query,9
+1463,12324,zeit und datum,transport_ticket,8
+1464,7173,löschen,calendar_remove,2
+1465,12803,buch bitte ein bahn ticket nach hamburg,transport_ticket,8
+1466,5778,wie ist das wetter,weather_query,9
+1467,9782,spiel dies nach fünf minuten,play_audiobook,6
+1468,9046,lösche alle nachhilfetermine für die woche des zwanzigsten,calendar_remove,2
+1469,16604,schicke eine email an die tochter,email_sendemail,5
+1470,10184,wie viel zucker kommt in süßen tee,cooking_recipe,3
+1471,5078,brauche ich eine jacke,weather_query,9
+1472,3163,welche wecker habe ich für morgen gestellt,alarm_query,0
+1473,3814,wird es morgen kalt werden,weather_query,9
+1474,599,lautstärke herunterdrehen,audio_volume_down,1
+1475,16408,alexa schreibe eine email,email_sendemail,5
+1476,7510,lösche veranstaltungen,calendar_remove,2
+1477,567,wie warm ist es,weather_query,9
+1478,7343,lösche alles aus meinem kalender,calendar_remove,2
+1479,9800,öffne lied name,play_audiobook,6
+1480,11955,welche filme werden in meiner nähe gezeigt,recommendation_movies,7
+1481,10088,gib mir ein rezept für fleischbällchen,cooking_recipe,3
+1482,10235,den gasherd einschalten die flamme so einstellen dass das gericht gar wird und alle zutaten in den schnellkochtopf geben um die zutaten zu garen auf dem herd lassen und warten bis die zutaten gar sind,cooking_recipe,3
+1483,13529,welchen film sollte ich anschauen,recommendation_movies,7
+1484,12563,kaufe ein zug ticket nach zeitz für den vierzehnten april,transport_ticket,8
+1485,8000,bitte lösche meinen termin zum mittagessen aus dem plan für den dreiundzwanzigsten märz,calendar_remove,2
+1486,6137,sollte ich heute einen mantel draußen anziehen,weather_query,9
+1487,3292,was ist der zeitunterschied zwischen mitteleuropäischer und standard,datetime_convert,4
+1488,10145,finde die richtige menge zimt für garam masala,cooking_recipe,3
+1489,2871,welche wecker sind für mich gestellt,alarm_query,0
+1490,845,welche wecker sind jetzt gestellt,alarm_query,0
+1491,6957,säubere meinen kalender,calendar_remove,2
+1492,9031,meine bürobesprechung nächste woche löschen,calendar_remove,2
+1493,16499,hallo google bitte sende eine email an meine mama ich komme dieses wochenende nach hause,email_sendemail,5
+1494,2429,wecker status,alarm_query,0
+1495,1018,wie wird heute das wetter sein,weather_query,9
+1496,12490,können sie mir für freitag morgen einen platz im zug nach bremen reservieren,transport_ticket,8
+1497,16556,antworte der email vom name,email_sendemail,5
+1498,15855,email adresse an meine neue email weiterleiten,email_sendemail,5
+1499,16849,schreibe eine email an susan und schreibe das,email_sendemail,5
+1500,2422,wie ist gerade das wetter in kreuzberg,weather_query,9
+1501,9862,beginne mein bibelstudien buch von vorne,play_audiobook,6
+1502,8743,lösche den termin aus meinem kalender sodass ich es nicht mehr sehe,calendar_remove,2
+1503,15889,kannst du bitte eine email an meine freundin susan senden und ihr sagen das ich morgen nicht in der kirche bin,email_sendemail,5
+1504,16964,schreibe email familienmitglied und lies sie vor,email_sendemail,5
+1505,7994,lösche alle veranstaltungen aus mein kalender,calendar_remove,2
+1506,3772,bitte lese mir meine wecker vor,alarm_query,0
+1507,12234,buche einen sitzplatz für die erste klasse für den nächsten zug nach bremen,transport_ticket,8
+1508,15928,schicke eine email an benedikt dass es mir leid tut ich wusste nicht dass er so krank war,email_sendemail,5
+1509,4144,erinnere mich heute an meine wecker,alarm_query,0
+1510,10062,welches essen ist gut,cooking_recipe,3
+1511,8950,finde erinnerungen und lösche sie,calendar_remove,2
+1512,7019,lösche die veranstaltung valentinstag,calendar_remove,2
+1513,5670,bringe eine vorhersage über die windgeschwindigkeit heute abend,weather_query,9
+1514,10065,welche gewürze sind in indischem essen,cooking_recipe,3
+1515,9703,kannst du mein letztes hörbuch abspielen,play_audiobook,6
+1516,15927,schicke eine email an julie dass ich mich mit ihr am samstag um ein uhr mittags treffen kann,email_sendemail,5
+1517,15755,sende eine email an meinen bruder,email_sendemail,5
+1518,2855,regnet es heute,weather_query,9
+1519,10024,finde mir das rezept für beef stroganoff,cooking_recipe,3
+1520,3805,wetter diese woche,weather_query,9
+1521,1842,wird dieses wochenende die sonne in münchen scheinen,weather_query,9
+1522,5863,was ist die durchschnittliche temperatur in münchen diese woche,weather_query,9
+1523,16347,nachricht an meine stiefmutter um die reservierungen vor freitag zu buchen sonst verfallen sie,email_sendemail,5
+1524,4437,kann ich sandalen anziehen,weather_query,9
+1525,7308,lösche meinen kalender,calendar_remove,2
+1526,9954,welche temperatur für gebackenes hühnchen,cooking_recipe,3
+1527,8971,sage den zeitplan für sieben tage von heute ab,calendar_remove,2
+1528,12105,the fast and the furious,recommendation_movies,7
+1529,16623,ich muss eine email an die telekom senden bezüglich meiner servicefragen,email_sendemail,5
+1530,7285,alle kommende yoga sitzungen löschen,calendar_remove,2
+1531,3504,wie ist das wetter in berlin heute,weather_query,9
+1532,6635,wie ist das wetter,weather_query,9
+1533,12197,finde ein zug ticket nach augsburg für mich,transport_ticket,8
+1534,12751,kaufe ein zug fahrkarte für in einer woche von berlin zu dresden sachsen,transport_ticket,8
+1535,4294,kannst du mir sagen welche wecker gestellt sind,alarm_query,0
+1536,5874,soll ich einen mantel zum pool anziehen,weather_query,9
+1537,11988,was ist ein guter film,recommendation_movies,7
+1538,4209,sollte ich heute abend einen regenschirm mitnehmen,weather_query,9
+1539,5429,muss ich heute nachmittag einen mantel anziehen,weather_query,9
+1540,8657,bitte lösche alles von meinem kalender,calendar_remove,2
+1541,5447,soll ich heute schwimmen oder arbeiten gehen,weather_query,9
+1542,16348,antwort an john's email von heute sage ich werde verspätet sein,email_sendemail,5
+1543,7621,lösche alle meine veranstaltungen aus dem kalender,calendar_remove,2
+1544,9740,setze die hörbuch wiedergabe fort,play_audiobook,6
+1545,9048,lösche ärztliches engagement dieses wochenende,calendar_remove,2
+1546,7713,lösche alle meine veranstaltungen für morgen,calendar_remove,2
+1547,10236,füge nach dem kochen der zutaten etwas von dem masala hinzu und koche es weiter in einer tawa und serviere,cooking_recipe,3
+1548,6969,was sind meine aufgaben heute,calendar_remove,2
+1549,5649,frag nach dem wetter heute morgen,weather_query,9
+1550,8369,hey olly lösche alle meine kalender termine für heute,calendar_remove,2
+1551,8727,lösche alle veranstaltungen,calendar_remove,2
+1552,10201,wie lauten die schritte für das gericht biryani,cooking_recipe,3
+1553,699,wie ist der wetter bericht,weather_query,9
+1554,7148,lösche die vorstandssitzung und plane sie für nächsten mittwoch,calendar_remove,2
+1555,358,wann wird mein wecker heute klingeln,alarm_query,0
+1556,9946,wie lautet das beste rezept für tacos,cooking_recipe,3
+1557,5120,prüfe ob es irgendeinen wecker nach fünf uhr gibt,alarm_query,0
+1558,5351,wie ist der tag draußen,weather_query,9
+1559,7611,sage alle treffen für heute ab,calendar_remove,2
+1560,4401,werde ich heute einen br tragen müssen,weather_query,9
+1561,1455,wetter,weather_query,9
+1562,7023,entferne vatertag vom kalender,calendar_remove,2
+1563,4751,wird es wolkig sein,weather_query,9
+1564,16941,durch outlook,email_sendemail,5
+1565,17079,schick eine mein herzlichstes beileid email an pat,email_sendemail,5
+1566,10052,ein rezept für karottensuppe finden,cooking_recipe,3
+1567,1503,wenn es sechzehn uhr in brandenburg ist wie viel uhr ist es dann in london,datetime_convert,4
+1568,9758,ich würde gern dieses neue hörbuch abspielen,play_audiobook,6
+1569,3355,wird es am morgen nebel geben,weather_query,9
+1570,794,bestätige alarm für morgen morgen,alarm_query,0
+1571,489,wie ist draußen die temperatur,weather_query,9
+1572,17139,schicke eine antwort auf diese email,email_sendemail,5
+1573,16220,antworte auf anne's email dass ich zu ihr zurück komme,email_sendemail,5
+1574,11696,filme in lokalen kino,recommendation_movies,7
+1575,16962,siri sende eine email an meine familienmitglieder und lese sie vorher,email_sendemail,5
+1576,3857,wird es diese woche regnen,weather_query,9
+1577,12871,buche ein zug ticket für mich nach sachsen-anhalt,transport_ticket,8
+1578,16258,bitte schick meiner frau eine email über das wetter nächste woche,email_sendemail,5
+1579,8969,lösche die zukünftige veranstaltung an meinem ehemaligen arbeitsplatz,calendar_remove,2
+1580,12131,buchen sie mich ein rückkehr reise von zeitz zu bremen von zug,transport_ticket,8
+1581,7987,entferne diesen termin aus meinem kalender,calendar_remove,2
+1582,9176,entferne die party veranstaltung vom kalender,calendar_remove,2
+1583,12890,kauf für donnerstag ein zugticket der deutschen bahn,transport_ticket,8
+1584,9975,was ist ein guter veganer eiersatz olly,cooking_recipe,3
+1585,5231,sollte ich regenstiefel tragen,weather_query,9
+1586,9826,fahre mit dem lied vom hörbuch von madonna fort,play_audiobook,6
+1587,16268,antworte auf roberts email von heute früh,email_sendemail,5
+1588,16558,antworte auf josefs email mit ja ich kann,email_sendemail,5
+1589,16728,sag sara dass ich es zu schätzen weiß dass sie mich kontaktiert,email_sendemail,5
+1590,7364,lösche das erste ereignis am dreiundzwanzigster märz zweitausendundsiebzehn,calendar_remove,2
+1591,787,wie ist das wetter heute,weather_query,9
+1592,4213,ändere die berg standard zeit auf pazifisch,datetime_convert,4
+1593,9867,liste die hörbücher die ich bereits gehört habe,play_audiobook,6
+1594,1079,wie wird das morgige wetter an diesem ort,weather_query,9
+1595,12080,bitte überprüfe die filme die in den umliegenden kinos laufen,recommendation_movies,7
+1596,180,wie ist jetzt das wetter,weather_query,9
+1597,8054,lösche alle meine termine am siebten märz,calendar_remove,2
+1598,5994,denkst du dass es morgen regnen wird,weather_query,9
+1599,2894,reduziere die lautstärke der lautsprecher,audio_volume_down,1
+1600,9769,setzte die geschichte fort,play_audiobook,6
+1601,6474,wie ist das wetter,weather_query,9
+1602,11811,was läuft im cinemaxx bochum,recommendation_movies,7
+1603,16059,antworte gerrit und lass ihn wissen dass ich morgen frei habe,email_sendemail,5
+1604,10198,such nach dem besten spaghetti rezept,cooking_recipe,3
+1605,16980,sende eine mail an jemanden,email_sendemail,5
+1606,1050,schalte den bass vom audio aus,audio_volume_down,1
+1607,5891,gibt es irgendwelche wecker und für wann sind sie,alarm_query,0
+1608,10209,ansprechend,cooking_recipe,3
+1609,15951,entwurf antwort auf johns email,email_sendemail,5
+1610,16511,schicke chris eine email und sag hast du heute abend etwas vor willst du abendessen gehen,email_sendemail,5
+1611,3858,wird es irgendwelchen schnee am dienstag geben,weather_query,9
+1612,2219,wetter in berlin,weather_query,9
+1613,4529,was ist mein nächster planmäßiger weckr,alarm_query,0
+1614,9762,spiele der kunde john grisham,play_audiobook,6
+1615,16500,bitte schick meinem ehemann eine email ich komme heute abend später,email_sendemail,5
+1616,6038,wird es heute mittag regen geben,weather_query,9
+1617,10127,zeig mir ein keks rezept,cooking_recipe,3
+1618,2918,monatlicher wetterbericht,weather_query,9
+1619,7328,lösche alle veranstaltungen und inhalte aus meinem kalender,calendar_remove,2
+1620,11956,olly welche filme laufen in der nähe,recommendation_movies,7
+1621,2111,wenn es hier zweiundzwanzig uhr ist wie spät ist es dann in warschau,datetime_convert,4
+1622,3933,zeige mir alle meine aktiven wecker,alarm_query,0
+1623,735,kannst du bitte deine lautstärke verringern,audio_volume_down,1
+1624,1657,wie viele wecker sind aktuell eingestellt,alarm_query,0
+1625,5451,ist es sonnig draußen,weather_query,9
+1626,10155,wie kocht man hühnchen alfredo,cooking_recipe,3
+1627,16566,email an firmenangestellten wegen arbeitsprojekt,email_sendemail,5
+1628,725,zeige das wetter für die woche an,weather_query,9
+1629,11918,welche filme laufen dieses wochenende,recommendation_movies,7
+1630,11984,olly was spielt im kino,recommendation_movies,7
+1631,16285,bitte sende pedro a email über sein auto,email_sendemail,5
+1632,16013,schick eine email an jonas,email_sendemail,5
+1633,6717,stand-up freitag um zehn uhr,calendar_remove,2
+1634,4523,wie ist das wetter draußen,weather_query,9
+1635,1080,gib mir das morgige wetterupdate,weather_query,9
+1636,9763,spiel the scarlet letter,play_audiobook,6
+1637,15779,email an matthias mit dem inhalt projekt ist fertig bitte rechnung senden,email_sendemail,5
+1638,16116,zweiundzwanzig uhr bis neun uhr,email_sendemail,5
+1639,7062,bitte lösche meine termine im kalender,calendar_remove,2
+1640,16884,schicke eine email an mutti und frag ob sie das buch von dem ich ihr erzählt habe auf amazon bestellen konnte,email_sendemail,5
+1641,9911,wie lange soll man eier kochen,cooking_recipe,3
+1642,17130,schick mama eine email mit dem betreff urlaub,email_sendemail,5
+1643,3026,wie wird das wetter nächste woche in münchen,weather_query,9
+1644,10056,wie macht man pasta,cooking_recipe,3
+1645,9858,ich will ein hörbuch hören,play_audiobook,6
+1646,17125,beginne eine antwort an marleen's neueste email,email_sendemail,5
+1647,4451,habe ich für heute wecker gestellt,alarm_query,0
+1648,9784,ich brauche eine pause spiel nach fünf minuten ab,play_audiobook,6
+1649,6884,lösche die besprechung morgen um zehn uhr,calendar_remove,2
+1650,8545,lösche meinen kalender,calendar_remove,2
+1651,12510,suche auf google buchen zug ticket,transport_ticket,8
+1652,6082,sollte ich meinen weg aus dem haus freischaufeln,weather_query,9
+1653,16321,antworte horst schulz,email_sendemail,5
+1654,5177,brauche ich jetzt einen regenschirm,weather_query,9
+1655,9997,was muss man im rahm zerschlagen um butter zu machen,cooking_recipe,3
+1656,1388,olly wird es am samstag regnen,weather_query,9
+1657,11930,neuen gut filme gibt,recommendation_movies,7
+1658,10193,wie man krabbenfleisch macht,cooking_recipe,3
+1659,8010,aktualisiere meinen kalender und lösche den nächsten termin,calendar_remove,2
+1660,12472,bezahle für das zug ticket,transport_ticket,8
+1661,16460,ich habe einen neuen kontakt newmail at gmail punkt com schreibe email,email_sendemail,5
+1662,3533,ändere bitte die zeitzone auf deutschland,datetime_convert,4
+1663,10136,zeig mir kochwebseiten,cooking_recipe,3
+1664,16736,ich möchte eine antwort senden,email_sendemail,5
+1665,395,was ist der zeitunterschied zwischen östlicher und mitteleuropäischer zeit,datetime_convert,4
+1666,9698,fortsetzen,play_audiobook,6
+1667,4720,wird es am wochenende schön werden,weather_query,9
+1668,9804,öffne the two towers zum spielen,play_audiobook,6
+1669,4450,um welche zeit wird mich mein alarm wecken,alarm_query,0
+1670,5432,wird es in zwei stunden heiß sein,weather_query,9
+1671,4963,dreh die lautstärke runter,audio_volume_down,1
+1672,10126,wie viele eier in den kuchen,cooking_recipe,3
+1673,10205,hol mir das rezept für reis,cooking_recipe,3
+1674,12498,buche ein zug ticket morgen nach köln,transport_ticket,8
+1675,16716,schreibe email jonas und sage dass ich im urlaub bin,email_sendemail,5
+1676,1081,zeig mir wetterliste für morgen,weather_query,9
+1677,2736,regnet es gerade,weather_query,9
+1678,16033,schick alex eine mail und frage nach der fälligen zahlung,email_sendemail,5
+1679,15962,öffne outlook ich muss eine email senden,email_sendemail,5
+1680,8408,löschen morgen meinen abendessen veranstaltung,calendar_remove,2
+1681,16631,ich muss auf diese email antworten,email_sendemail,5
+1682,9861,spiele weiter wo ich aufgehört habe im hörbuch auf audible,play_audiobook,6
+1683,16917,kannst du bitte bitte auf diese mail antworten,email_sendemail,5
+1684,9984,gib mir das rezept für steak,cooking_recipe,3
+1685,15781,hey google email an caroline wie geht es dir kannst du mir updates zum letzten projekt senden grüße tomasz,email_sendemail,5
+1686,4414,wird es am dienstag in berlin regnen,weather_query,9
+1687,12200,kauf ein zug ticket diesen abend nach österreich,transport_ticket,8
+1688,8713,sagt das mittag essen in dem restaurant ab das für fünfundzwanzigsten märz,calendar_remove,2
+1689,15826,antwort an alle dass ich unterwegs bin,email_sendemail,5
+1690,16313,schick eine email an meine mutti,email_sendemail,5
+1691,8981,lösche meine geburtstagsparty,calendar_remove,2
+1692,4785,kann ich in kurzer hose rausgehen,weather_query,9
+1693,5459,brauche ich nach der arbeit ein sweatshirt,weather_query,9
+1694,12053,welche gut bewerteten filme laufen dieses wochenende,recommendation_movies,7
+1695,4072,kannst du das runterdrehen,audio_volume_down,1
+1696,7793,sende eine email an sarah über unseren brunch heute,email_sendemail,5
+1697,3869,ist der alarm an der hintertür gestellt und bereit,alarm_query,0
+1698,17027,lass uns sandra eine email schicken,email_sendemail,5
+1699,10203,welche schritte muss ich für garnelen parmigiana durchführen,cooking_recipe,3
+1700,8105,alexa bitte lösche alle termine für heute,calendar_remove,2
+1701,12523,kannst du mir ein zug ticket unter euro buchen,transport_ticket,8
+1702,4765,wird es am freitag regnen,weather_query,9
+1703,6453,billigste flüge nach leipzig von münchen,transport_ticket,8
+1704,16784,meine mutter möchte wissen wie das wöchentliche wetter sein wird schicke ihr eine email,email_sendemail,5
+1705,9987,einfrieren,cooking_recipe,3
+1706,15912,email gerd,email_sendemail,5
+1707,16625,sage chris via email ich werde zu spät kommen,email_sendemail,5
+1708,16565,schreib mama eine email wegen mittagessen,email_sendemail,5
+1709,9992,verrate mir das rezept zum kochen von pav bhaji,cooking_recipe,3
+1710,5711,sollte ich heute abend einen mantel mit nach köln nehmen,weather_query,9
+1711,1932,ist das wetter ruhig heute,weather_query,9
+1712,9711,ich möchte dass du das audio vorspulst und dann fortsetzt,play_audiobook,6
+1713,1767,zweitausenddreihundertdreißig von g. m. t. plus vierhundertdreißig nach g. m. t. zweihundert umrechnen,datetime_convert,4
+1714,16568,schick bitte dem neuen praktikanten eine email,email_sendemail,5
+1715,16058,antworte johannes dass ich zur feier kommen werde,email_sendemail,5
+1716,16548,kannst du maria eine email schicken und sie wissen lassen dass ich auf dem weg bin,email_sendemail,5
+1717,10091,wie mache ich einen hackbraten,cooking_recipe,3
+1718,9722,spiel weiter harry potter buch eins,play_audiobook,6
+1719,9821,setzte the girl on the train auf audible fort,play_audiobook,6
+1720,1937,gib mir die wetterverhältnisse für hamburg,weather_query,9
+1721,4915,temperatur in münchen bayern,weather_query,9
+1722,1320,olly wie ist das wetter heute,weather_query,9
+1723,6899,lösche alle veranstaltungen von meinem kalender,calendar_remove,2
+1724,3025,wetter in hamburg,weather_query,9
+1725,7307,alle events diesen monat löschen,calendar_remove,2
+1726,8341,lösche mein nächsten termin,calendar_remove,2
+1727,5460,sollte ich jetzt einen regenschirm mitnehmen,weather_query,9
+1728,8852,lösche nächste aufgabe,calendar_remove,2
+1729,12355,bitte bestell ein zugticket für mich,transport_ticket,8
+1730,6143,wie wird das wetter in zwei wochen sein,weather_query,9
+1731,9721,fortsetzen von harry potter teil fünf,play_audiobook,6
+1732,16181,sende eine mail an bernd ich möchte sie morgen um vierzehn uhr im büro treffen,email_sendemail,5
+1733,12595,ich möchte ein zug ticket buchen für vierzehn uhr,transport_ticket,8
+1734,5845,alexa sollte ich heute sonnencreme auftragen,weather_query,9
+1735,12400,buche ein einfaches zug tiecket für mich nach neun uhr nach berlin,transport_ticket,8
+1736,3012,bitte sag mir das wetter,weather_query,9
+1737,5495,sollte ich heute einen regenschirm mitnehmen,weather_query,9
+1738,2339,was ist das derzeitige wetter in münchen stadt,weather_query,9
+1739,1311,was ist der zeitunterschied zwischen hier und prag,datetime_convert,4
+1740,6972,entferne veranstaltung,calendar_remove,2
+1741,5535,falls es regnen sollte werde ich nicht arbeiten gehen,weather_query,9
+1742,2228,errechne den zeitunterschied zwischen neun uhr c. s. t. und e. s. t.,datetime_convert,4
+1743,11774,was geht dieses wochenende,recommendation_movies,7
+1744,12100,was spielt im cinedom,recommendation_movies,7
+1745,9770,spiele das kartell nach dreißig minuten,play_audiobook,6
+1746,7501,die nächste veranstaltung ist abgesagt,calendar_remove,2
+1747,16209,schick eine email an nina über details der morgigen arbeitsfeier,email_sendemail,5
+1748,5903,bestätige mir dass ich für sechs uhr einen wecker gestellt habe,alarm_query,0
+1749,5123,wie ist temperatur draußen,weather_query,9
+1750,11793,ich möchte einen guten liebesfilm irgendwelche ideen,recommendation_movies,7
+1751,16065,schreibe eine email mit dem betreff als text und ohne inhalt,email_sendemail,5
+1752,4719,wird die temperatur am mittwoch über dem gefrierpunkt sein,weather_query,9
+1753,17032,hi schicke bitte mail an jan am abend,email_sendemail,5
+1754,5789,es ist sonnig heute,weather_query,9
+1755,16057,antworte auf diese email,email_sendemail,5
+1756,16149,antworte schnell horst,email_sendemail,5
+1757,16310,bitte antworten,email_sendemail,5
+1758,4628,um welche uhrzeit wird es morgen regnen,weather_query,9
+1759,7075,lösche bitte meine nächste veranstaltung im kalender,calendar_remove,2
+1760,6716,stand up am freitag um zehn uhr morgens entfernen,calendar_remove,2
+1761,12199,such ein zug ticket nach augsburg,transport_ticket,8
+1762,7984,lösche meinen gesamten kalender für heute,calendar_remove,2
+1763,8889,lösche das,calendar_remove,2
+1764,15760,email an paul wegen der letzten neuigkeiten,email_sendemail,5
+1765,9797,ich möchte endlich the mars trilogy lesen,play_audiobook,6
+1766,4475,brauche ich meine regenausrüstung,weather_query,9
+1767,12357,könntest du ein zug ticket für mich klarmachen,transport_ticket,8
+1768,9916,was braucht man für pizza,cooking_recipe,3
+1769,16207,email an familie mit details zur party,email_sendemail,5
+1770,16756,neue email diktieren,email_sendemail,5
+1771,3388,wie wird das wetter heute in hamburg werden,weather_query,9
+1772,5779,wetter von bremen,weather_query,9
+1773,10063,was beinhaltet ein curry,cooking_recipe,3
+1774,9041,lösche die geburtstagsfeier,calendar_remove,2
+1775,10174,fidne ein gutes rezept für steak,cooking_recipe,3
+1776,16128,sende email an jan,email_sendemail,5
+1777,259,du bist zu laut,audio_volume_down,1
+1778,16424,neue email an thomas schmitz,email_sendemail,5
+1779,12351,buche ein zug ticket mit einem schlafplatz nach augsburg für nächste woche,transport_ticket,8
+1780,1588,wie soll morgen das wetter werden,weather_query,9
+1781,5834,wir es in den nächsten paar tagen kalt,weather_query,9
+1782,10054,zeig mir die besten rezepte für pesto,cooking_recipe,3
+1783,2078,drehe die lautstärke ein bisschen runter,audio_volume_down,1
+1784,6970,lösche veranstaltung,calendar_remove,2
+1785,9039,lösche die hochzeit am dritten juli,calendar_remove,2
+1786,5464,brauche ich hosen,weather_query,9
+1787,240,wird es heute regnen,weather_query,9
+1788,12614,buchen sie ein rajdhani zug fahrkarte von dresden nach gera,transport_ticket,8
+1789,5343,wird es am freitag sonnig sein,weather_query,9
+1790,10002,zeig mir wie man ein kalorienarmes frühstück macht,cooking_recipe,3
+1791,3927,wie viel schnee ist seit gestern in köln gefallen,weather_query,9
+1792,2080,ist mein weckalarm um sechs uhr morgens gestellt,alarm_query,0
+1793,522,es ist nicht möglich,weather_query,9
+1794,8854,entferne termine im kalender,calendar_remove,2
+1795,238,gibt es irgendwelche alarme,alarm_query,0
+1796,9759,halte an und setzte fort,play_audiobook,6
+1797,9755,lass mich hunt for read october hören,play_audiobook,6
+1798,5323,sag mir bitte wie das wetter in berlin ist,weather_query,9
+1799,9789,fahre mit dem zuletzt gespielten hörbuch fort,play_audiobook,6
+1800,16134,sende email an papa ich gehe zur geburtstagsfeier,email_sendemail,5
+1801,5210,welche wecker habe ich für heute gestellt,alarm_query,0
+1802,13441,wie ist die heutige temperatur,weather_query,9
+1803,7058,lösch november veranstaltung,calendar_remove,2
+1804,11786,trainingstag,recommendation_movies,7
+1805,11736,ist türkisch für anfänger ein guter film,recommendation_movies,7
+1806,10109,ich brauche hilfe beim pancakes machen,cooking_recipe,3
+1807,6715,lösche richards hochzeit veranstaltung nächstes jahr,calendar_remove,2
+1808,1514,soll es heute nacht regnen,weather_query,9
+1809,8555,lösche spendenaktion für delfine im april,calendar_remove,2
+1810,10035,verrat mir das rezept für gelben reis,cooking_recipe,3
+1811,8190,bitte lösche meinen kalender für morgen,calendar_remove,2
+1812,584,gibt es irgendeine wahrscheinlichkeit auf regen diese woche,weather_query,9
+1813,4133,sage mir wie viele zentimeter schnee bremen heute bekommen hat,weather_query,9
+1814,9693,setze die wiedergabe vom geschichte von rom hörbuch fort,play_audiobook,6
+1815,6759,lösch meine nächste besprechung,calendar_remove,2
+1816,11771,olly welche filme laufen im moment,recommendation_movies,7
+1817,10096,bitte mach mir einen hamburger,cooking_recipe,3
+1818,662,kannst die mir sagen wieviel stunden unterschied es zwischen berlin und frankfurt sind,datetime_convert,4
+1819,16484,erstelle eine neue email adeesse,email_sendemail,5
+1820,5203,acht uhr in manila ist wie viel uhr in mitteleuropäischer zeit,datetime_convert,4
+1821,16257,senden an email zu mein ehefrau über nächste woche das wetter,email_sendemail,5
+1822,6512,wecker,alarm_query,0
+1823,10112,wie macht man einen guten burger,cooking_recipe,3
+1824,15842,schreibe eine email an ray,email_sendemail,5
+1825,16618,verfassen sie später eine email an jana über die arbeit,email_sendemail,5
+1826,4108,gibt es für vier uhr einen wecker,alarm_query,0
+1827,5668,dann tippe ok,alarm_query,0
+1828,17122,bitte beginne eine email an meine schwester,email_sendemail,5
+1829,583,wird morgen um siebzehn uhr dreißig sonnenuntergang sein,weather_query,9
+1830,16517,ich möchte antworten,email_sendemail,5
+1831,4208,sollte ich sandalen tragen,weather_query,9
+1832,3928,wie ist die aktuelle vorhersage für hamburg,weather_query,9
+1833,9882,starte das bill nye buch neu,play_audiobook,6
+1834,6916,lösche alle veranstaltungen vom kalender,calendar_remove,2
+1835,10123,wa sist das beste chili,cooking_recipe,3
+1836,3934,zeige mir die gestellten wecker,alarm_query,0
+1837,12282,ich möchte ein zug ticket von hamburg nach berlin,transport_ticket,8
+1838,863,meine wecker,alarm_query,0
+1839,16702,finde lenas aktuellste email damit ich ihr antworten kann,email_sendemail,5
+1840,15898,email mit frohes neujahr an thomas,email_sendemail,5
+1841,1104,wie ist das aktuelle wetter in hamburg,weather_query,9
+1842,17012,ich muss eine email an testemail at gmail dot com schicken,email_sendemail,5
+1843,9704,ich möchte das hörbuch fortsetzen wo ich zuletzt aufgehört habe,play_audiobook,6
+1844,7837,lösche alles,calendar_remove,2
+1845,10066,verrate mir das rezept für gestampfte kartoffeln,cooking_recipe,3
+1846,7235,bitte sage meinen nächsten friseurtermin ab,calendar_remove,2
+1847,4525,wie lautet die wettervorhersage für heute,weather_query,9
+1848,11989,olly was ist ein guter film der jetzt draußen ist,recommendation_movies,7
+1849,15887,kannst du bitte eine email an meinen ehemann schicken,email_sendemail,5
+1850,9884,spiel mind reading book weiter,play_audiobook,6
+1851,3691,was ist die derzeitige temperatur in münchen,weather_query,9
+1852,1800,glaubst du dass es heute regnen würde,weather_query,9
+1853,5733,olly brauche ich heute sonnencreme,weather_query,9
+1854,1367,lautstärke runter,audio_volume_down,1
+1855,8342,suche meinen nächsten termin und lösche ihn,calendar_remove,2
+1856,10059,nenn mir einen ersatz für margarine,cooking_recipe,3
+1857,10190,hähnchen tikka rezept finden,cooking_recipe,3
+1858,3032,olly wie ist das aktuelle wetter,weather_query,9
+1859,12753,ich möchte ein zug ticket von berlin nach köln,transport_ticket,8
+1860,3469,hier ist es neun wie spät ist es in bayern,datetime_convert,4
+1861,16902,antworte auf meine letzte email,email_sendemail,5
+1862,4237,wie ist jetzt das wetter,weather_query,9
+1863,16439,es gibt eine email die du für mich meinem freund schicken musst,email_sendemail,5
+1864,7175,entfernen,calendar_remove,2
+1865,4397,kannst du bitte leiser sprechen,audio_volume_down,1
+1866,9764,spiel little women,play_audiobook,6
+1867,2634,stelle die lautsprecher leiser,audio_volume_down,1
+1868,438,wird es heute regnen,weather_query,9
+1869,15960,sende eine email an daniela,email_sendemail,5
+1870,7018,lösche silvester vom kalender,calendar_remove,2
+1871,4052,ist es draußen warm,weather_query,9
+1872,8659,bitte leere meinen kalendar komplett,calendar_remove,2
+1873,9727,hörbuch neu starten,play_audiobook,6
+1874,9047,lösche meinen tag am neunundzwanzigsten,calendar_remove,2
+1875,3310,wie ist das wetter in münchen,weather_query,9
+1876,4916,zehn tages vorhersage für berlin,weather_query,9
+1877,5783,sonnenuntergangstemperatur heute,weather_query,9
+1878,11657,was sind die spielzeiten von logan,recommendation_movies,7
+1879,16121,antwort an emily,email_sendemail,5
+1880,7200,lösche mein kalender,calendar_remove,2
+1881,8738,entferne die veranstaltung vom kalender,calendar_remove,2
+1882,10085,such nach anderen rezepten,cooking_recipe,3
+1883,12767,kann ich ein zug ticket nach bekommen,transport_ticket,8
+1884,3663,wird es freitag nacht warm sein,weather_query,9
+1885,179,sag mir das wetter,weather_query,9
+1886,17163,schicke eine alarm email an sandra,email_sendemail,5
+1887,10133,ich brauche hilfe bei gebackenes hühnchen,cooking_recipe,3
+1888,11982,siri welche filme werden in leipzig gezeigt,recommendation_movies,7
+1889,2671,würdest du bitte prüfen ob ich meinen wecker für morgen früh gestellt habe,alarm_query,0
+1890,15848,schreibe meiner mutter eine email,email_sendemail,5
+1891,284,wird es heute abend regnen,weather_query,9
+1892,7748,lösche alle meine veranstaltungen in meinem kalender,calendar_remove,2
+1893,509,welche wecker habe ich,alarm_query,0
+1894,5114,gibt es irgendwelche wecker nach fünf uhr,alarm_query,0
+1895,2332,ist es gerade am regnen,weather_query,9
+1896,1504,es ist acht uhr abends in deutschland wie spät ist es in new york,datetime_convert,4
+1897,9091,olly lösche alle veranstaltungen in kalender,calendar_remove,2
+1898,16942,via handys,email_sendemail,5
+1899,4926,dieswöchige wettervorhersage,weather_query,9
+1900,2341,ich muss das aktuelle wetter in münchen wissen,weather_query,9
+1901,7911,entferne abendessen mit mike von meinem kalender,calendar_remove,2
+1902,15854,leite email an meine neue email weiter olly,email_sendemail,5
+1903,10044,wie mache ich thunfischauflauf von grund auf,cooking_recipe,3
+1904,2344,wie wird das wetter am montag in berlin,weather_query,9
+1905,5215,olly brauche ich sonnencreme,weather_query,9
+1906,8256,lösche alle events aus meinem kalender,calendar_remove,2
+1907,3965,zeige mir eine liste der wecker,alarm_query,0
+1908,1251,bitte informiere mich über das wetter dieser woche,weather_query,9
+1909,4425,gebe mir das wöchentliche wetter in meiner nähe,weather_query,9
+1910,7158,alle markierte einträge löschen,calendar_remove,2
+1911,750,verringere die lautstärke auf zehn prozent,audio_volume_down,1
+1912,6830,lösche alle termine für nächste woche,calendar_remove,2
+1913,16619,schick morgen eine email zum thema arbeit an christian,email_sendemail,5
+1914,6179,brauche ich winterstiefel,weather_query,9
+1915,349,wird es morgen schnee geben,weather_query,9
+1916,12270,buch mir ein zug ticket für morgen nach eisenach in irgendeinem zug,transport_ticket,8
+1917,4602,wie wird die temperatur heute sein,weather_query,9
+1918,5892,wetter in deutschland ist kalt,weather_query,9
+1919,8472,lösche alle veranstaltungen aus dem kalender,calendar_remove,2
+1920,8908,gut,calendar_remove,2
+1921,5723,wird es heute am abend regnen,weather_query,9
+1922,16835,schick die email an diese neue emailadresse,email_sendemail,5
+1923,16480,bereite eine antwortmail an mark vor,email_sendemail,5
+1924,16689,antwort zu kai kupferschmidt email,email_sendemail,5
+1925,7764,kannst du bitte alle veranstaltungen aus meinem kalender löschen,calendar_remove,2
+1926,3899,wird es am fünfzehnten august regnen,weather_query,9
+1927,12218,ich brauche ein flugticket,transport_ticket,8
+1928,15954,habe ich ein treffen mit jennifer morgen,email_sendemail,5
+1929,2616,muss ich mir gedanken machen dass schneepflüge mein auto in der einfahrt am dienstag eingraben,weather_query,9
+1930,6003,muss ich heute warme sachen anziehen,weather_query,9
+1931,4466,habe ich für morgens irgendwelche wecker gestellt,alarm_query,0
+1932,5904,prüfe ob ich irgendeinen alarm für den morgen eingestellt habe,alarm_query,0
+1933,3246,sage mir das wetter von hamburg,weather_query,9
+1934,566,wie ist die temperatur,weather_query,9
+1935,16190,schreibe email an meinen arbeitskollegen damit er morgen den auftrag einreicht,email_sendemail,5
+1936,9099,arzttermin am zwölften februar um neun uhr,calendar_remove,2
+1937,9894,spiele eine stunde history weiter,play_audiobook,6
+1938,16044,sende eine email an sabrina über den trainingsplan,email_sendemail,5
+1939,10188,wie schmort man eine schweinelende,cooking_recipe,3
+1940,3339,wie ist das wetter,weather_query,9
+1941,5971,wie ist heute das klima,weather_query,9
+1942,2139,wie ist das wetter draußen,weather_query,9
+1943,2872,habe ich wecker gestellt,alarm_query,0
+1944,649,habe ich irgendwelche wecker für heute gestellt,alarm_query,0
+1945,16598,antworte ja darauf,email_sendemail,5
+1946,9724,setze das hörbuch fort,play_audiobook,6
+1947,16434,sage meiner familie das ist eine email,email_sendemail,5
+1948,9106,mein kalender zurücksetzen,calendar_remove,2
+1949,16940,über den email server,email_sendemail,5
+1950,1865,temperatur diese stunde,weather_query,9
+1951,1936,ist es in hamburg am regnen,weather_query,9
+1952,1465,wir es am freitag regnen,weather_query,9
+1953,5866,gibt es irgendeinen aktiven wecker,alarm_query,0
+1954,16474,schick eine email an stefan brandenburg,email_sendemail,5
+1955,9830,bitte lies the hunger games weiter,play_audiobook,6
+1956,15764,hey antworte bitte auf pauls letzte email,email_sendemail,5
+1957,17078,bitte schicke eine geschäftliche email bezüglich der zeitänderung des meetings an lauren,email_sendemail,5
+1958,791,zeige mir die höchst temperatur für diese woche,weather_query,9
+1959,6807,lösche alle veranstaltungen heute,calendar_remove,2
+1960,301,wie ist das wetter,weather_query,9
+1961,5505,welche wecker sind im haus gestellt,alarm_query,0
+1962,4824,wetter dieses wochenende,weather_query,9
+1963,5248,olly muss ich heute einen mantel mitnehmen,weather_query,9
+1964,1906,lautstärke verringern,audio_volume_down,1
+1965,3961,zeige mir die vorhersage,weather_query,9
+1966,16440,schick email an kathrin und sag ihr dass ich das arbeitsangebot annehme,email_sendemail,5
+1967,11746,olly was für filme spielen heute abend um einundzwanzig uhr im cinemax,recommendation_movies,7
+1968,7739,ich werde nicht mehr zu walters geburtstagsparty gehen,calendar_remove,2
+1969,17044,verfasse email an robert,email_sendemail,5
+1970,9981,koch mir ein paar nudeln mit käse und honig drin,cooking_recipe,3
+1971,7921,löschen sie alle geplanten veranstaltungen,calendar_remove,2
+1972,5616,ändere die zeitzone auf g. m. t.,datetime_convert,4
+1973,12801,buche ein zug ticket nach berlin,transport_ticket,8
+1974,15758,hey schicke jan eine email über unser meeting,email_sendemail,5
+1975,17124,öffne das e-mail-konto um etwas an papa zu verschicken,email_sendemail,5
+1976,7296,entferne meine geplanten termine im kalender wenn du kannst,calendar_remove,2
+1977,4592,welche wecker kommen als nächstes,alarm_query,0
+1978,4327,ist es zu kalt um schwimmen zu gehen,weather_query,9
+1979,49,sage mir die zeit in g. m. t. plus fünf,datetime_convert,4
+1980,9681,spiele harry potter für mich von dem letzten punkt wo ich aufgehört habe zu hören,play_audiobook,6
+1981,6005,wird es heute windig werden,weather_query,9
+1982,16836,alexa schick die email an diese neue emailadresse,email_sendemail,5
+1983,9749,benutze fernbedienung,play_audiobook,6
+1984,9820,spiele fault in our stars auf audible ab,play_audiobook,6
+1985,5944,sage meiner mutter dass ich mich heute abend verspäten werden,weather_query,9
+1986,9832,fahre fort von wo wir in divergent aufgehört haben,play_audiobook,6
+1987,16054,sende mail an jonas wegen geld,email_sendemail,5
+1988,15949,antworte auf die email von jonas,email_sendemail,5
+1989,8982,lösche meinen termin mit bernd,calendar_remove,2
+1990,8942,lösche alles für diesen monat,calendar_remove,2
+1991,16147,mail an jack senden,email_sendemail,5
+1992,14351,wie ist die durchschnittliche temperatur im märz in brandenburg und ist der vergleich der letzten zehn jahre,weather_query,9
+1993,2294,wird der u. v. index heute über acht liegen,weather_query,9
+1994,16837,erstelle diese email an diese neue email adresse,email_sendemail,5
+1995,4724,was sind meine wecker,alarm_query,0
+1996,10009,rezept für mahlzeit,cooking_recipe,3
+1997,15926,sende eine email an rosi und sage ihr mein telephone funktioniert wieder,email_sendemail,5
+1998,1844,wir es über nacht frieren,weather_query,9
+1999,15925,email familie,email_sendemail,5
+2000,4677,brauche ich heute sonnencreme,weather_query,9
+2001,7760,lösche dieses ereignis aus meinem kalender,calendar_remove,2
+2002,12612,besorg mir ein zug ticket von köln nach münster,transport_ticket,8
+2003,8161,sage party ab,calendar_remove,2
+2004,4251,ist es zu warm um heute mein wolliges sweatshirt zu tragen,weather_query,9
+2005,4595,wird es nächste woche irgendwann siebzig grad haben,weather_query,9
+2006,4749,wird es regnen,weather_query,9
+2007,17026,siri sende mama eine email und erinnere sie an unser treffen heute zum mittagessen,email_sendemail,5
+2008,4504,ist regen für die nächsten zwei tage vorhergesagt,weather_query,9
+2009,9701,ich möchte das buch hören welches geschrieben wurde von der mutter des schützen von columbine,play_audiobook,6
+2010,12749,kannst du mir bitte ein zug ticket kaufen,transport_ticket,8
+2011,7078,lösche meinen gesamten kalender,calendar_remove,2
+2012,17131,sende die email an jill die in meinem entwurfs ordner gespeichert ist,email_sendemail,5
+2013,6315,olly wie ist das wetter,weather_query,9
+2014,9829,audio,play_audiobook,6
+2015,9742,ich möchte mehr hörbuch hören,play_audiobook,6
+2016,12099,olly was läuft im lumen kino,recommendation_movies,7
+2017,4210,muss ich morgen einen mantel anziehen wenn ich in die arbeit gehe,weather_query,9
+2018,8845,lösche mein kalender,calendar_remove,2
+2019,2873,habe ich wecker für heute gestellt,alarm_query,0
+2020,10151,finde mir das rezept für einen kuchen,cooking_recipe,3
+2021,16626,schreibe eine email damit chris weiß dass ich später kommen werde,email_sendemail,5
+2022,1534,wie ist das wetter in köln,weather_query,9
+2023,12642,ich muss den siebzehn uhr zug nach heidelberg erwischen,transport_ticket,8
+2024,8233,lass uns einfach den termin rechtzeitig absagen,calendar_remove,2
+2025,1555,wie wird das wetter diese woche,weather_query,9
+2026,12290,registriere eine veranstaltung oder ein ticket,transport_ticket,8
